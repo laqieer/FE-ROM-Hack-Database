@@ -26,8 +26,8 @@
 			<extension>.gba</extension>
 		</canOpen>
 		<newDat>
-			<datVersionURL>http://raw.githubusercontent.com/laqieer/FE-ROM-Hack-Database/main/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance%20-%20version.txt</datVersionURL>
-			<datURL fileName="laqieer - Fire Emblem - Game Boy Advance.xml">http://raw.githubusercontent.com/laqieer/FE-ROM-Hack-Database/main/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance.xml</datURL>
+			<datVersionURL>http://github.laqieer.ml/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance%20-%20version.txt</datVersionURL>
+			<datURL fileName="laqieer - Fire Emblem - Game Boy Advance.xml">http://github.laqieer.ml/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance.xml</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>

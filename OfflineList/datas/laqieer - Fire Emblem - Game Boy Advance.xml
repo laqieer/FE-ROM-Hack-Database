@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
+	<configuration>
+		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
+		<imFolder></imFolder>
+		<datVersion>20220305</datVersion>
+		<system>Nintendo - Game Boy Advance</system>
+		<screenshotsWidth>0</screenshotsWidth>
+		<screenshotsHeight>0</screenshotsHeight>
+		<infos>
+			<title visible="true" inNamingOption="true" default="true"/>
+			<location visible="true" inNamingOption="true" default="true"/>
+			<publisher visible="true" inNamingOption="true" default="true"/>
+			<sourceRom visible="true" inNamingOption="true" default="true"/>
+			<saveType visible="true" inNamingOption="true" default="true"/>
+			<romSize visible="true" inNamingOption="true" default="true"/>
+			<releaseNumber visible="true" inNamingOption="true" default="true"/>
+			<languageNumber visible="true" inNamingOption="true" default="false"/>
+			<comment visible="true" inNamingOption="true" default="true"/>
+			<romCRC visible="true" inNamingOption="true" default="true"/>
+			<im1CRC visible="true" inNamingOption="true" default="false"/>
+			<im2CRC visible="true" inNamingOption="true" default="false"/>
+			<languages visible="true" inNamingOption="true" default="true"/>
+		</infos>
+		<canOpen>
+			<extension>.gba</extension>
+		</canOpen>
+		<newDat>
+			<datVersionURL>http://github.com/laqieer/FE-ROM-Hack-Database/blob/main/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance%20-%20version.txt</datVersionURL>
+			<datURL fileName="laqieer - Fire Emblem - Game Boy Advance.xml">http://github.com/laqieer/FE-ROM-Hack-Database/blob/main/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance.xml</datURL>
+			<imURL></imURL>
+		</newDat>
+		<search>
+			<to value="location" default="true" auto="true"/>
+			<to value="romSize" default="true" auto="false"/>
+			<to value="languages" default="true" auto="true"/>
+			<to value="saveType" default="true" auto="false"/>
+			<to value="publisher" default="true" auto="true"/>
+			<to value="sourceRom" default="true" auto="true"/>
+		</search>
+		<romTitle>%u - %n %e - %c</romTitle>
+	</configuration>
+	<games>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0001</releaseNumber>
+			<title>Fire Emblem - Fuuin no Tsurugi (Japan)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">D38763E1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0002</releaseNumber>
+			<title>Fire Emblem - Rekka no Ken (Japan)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">F0C10E72</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0003</releaseNumber>
+			<title>Fire Emblem (USA, Australia)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">2A524221</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0004</releaseNumber>
+			<title>Fire Emblem (Europe) (En,Fr,De)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">4A805ED1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0005</releaseNumber>
+			<title>Fire Emblem (Europe) (En,Es,It)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">9DECC754</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0006</releaseNumber>
+			<title>Fire Emblem - Seima no Kouseki (Japan)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">9D76826F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0007</releaseNumber>
+			<title>Fire Emblem - The Sacred Stones (USA, Australia)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">A47246AE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0008</releaseNumber>
+			<title>Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>33554432</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">B3005195</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0009</releaseNumber>
+			<title>Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">B40D6854</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0010</releaseNumber>
+			<title>Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">8146A270</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0011</releaseNumber>
+			<title>Fire Emblem - Seima no Kouseki (Japan) (Beta)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">CD9D8972</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0012</releaseNumber>
+			<title>Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">DEA3B767</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0013</releaseNumber>
+			<title>Fire Emblem (USA) (Wii U Virtual Console)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">1B8713C7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0014</releaseNumber>
+			<title>Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
+			<saveType></saveType>
+			<romSize>33554432</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">2653401A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0015</releaseNumber>
+			<title>Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">335C5855</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+	</games>
+	<gui>
+		<images width="400" height="4">
+			<image x="0" y="0" width="200" height="0"/>
+			<image x="200" y="0" width="200" height="0"/>
+		</images>
+	</gui>
+</dat>

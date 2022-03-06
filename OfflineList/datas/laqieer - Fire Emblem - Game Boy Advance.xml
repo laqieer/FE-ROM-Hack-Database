@@ -299,7 +299,7 @@
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16777216</romSize>
 			<publisher>iQue</publisher>
-			<location>7</location>
+			<location>3</location>
 			<sourceRom>Hidden Palace</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">8CEBEF1E</romCRC></files>
@@ -498,6 +498,22 @@
 			<im1CRC>F455DE3D</im1CRC>
 			<im2CRC>8BD14BBF</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>100</imageNumber>
+			<releaseNumber>100</releaseNumber>
+			<title>Fire Emblem - Heroes Remake</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>laqieer</sourceRom>
+			<language>258</language>
+			<files><romCRC extension=".gba">1C4FCC59</romCRC></files>
+			<im1CRC>85D34F8A</im1CRC>
+			<im2CRC>47DAA0C7</im2CRC>
+			<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

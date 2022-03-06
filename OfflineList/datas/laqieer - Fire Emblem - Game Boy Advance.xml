@@ -312,15 +312,15 @@
 			<imageNumber>20</imageNumber>
 			<releaseNumber>20</releaseNumber>
 			<title>Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>9676785</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[Superxyj]</sourceRom>
+			<sourceRom>Superxyj</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">823C3801</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>A65CA19B</im1CRC>
+			<im2CRC>52B54207</im2CRC>
 			<comment>火焰纹章 - 封印之剑[Superxyj](简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -328,15 +328,15 @@
 			<imageNumber>21</imageNumber>
 			<releaseNumber>21</releaseNumber>
 			<title>Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>10415546</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[CGP&amp;W_anthony][CGP &amp; W_anthony]</sourceRom>
+			<sourceRom>CGP&amp;W_anthony</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">4A7BF795</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>7F3ABAC8</im1CRC>
+			<im2CRC>9B215F5B</im2CRC>
 			<comment>火焰纹章 - 封印之剑[CGP&amp;W_anthony](简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -344,15 +344,15 @@
 			<imageNumber>22</imageNumber>
 			<releaseNumber>22</releaseNumber>
 			<title>Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>8388608</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">1F19D989</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>F148ACE8</im1CRC>
+			<im2CRC>E32BC63A</im2CRC>
 			<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v20060906) (简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -360,15 +360,15 @@
 			<imageNumber>23</imageNumber>
 			<releaseNumber>23</releaseNumber>
 			<title>Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>16777216</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">7AEF4EDC</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>4F25A400</im1CRC>
+			<im2CRC>C0A944BB</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -376,15 +376,15 @@
 			<imageNumber>24</imageNumber>
 			<releaseNumber>24</releaseNumber>
 			<title>Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>19030368</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[CGP]</sourceRom>
+			<sourceRom>CGP</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">042C159C</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>8EC9EF4C</im1CRC>
+			<im2CRC>37FF171C</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[CGP](简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -392,15 +392,15 @@
 			<imageNumber>25</imageNumber>
 			<releaseNumber>25</releaseNumber>
 			<title>Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>19086336</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[Superxyj]</sourceRom>
+			<sourceRom>Superxyj</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">EAFA4EF0</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>C6AE8051</im1CRC>
+			<im2CRC>8903286D</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[Superxyj](简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -408,15 +408,15 @@
 			<imageNumber>26</imageNumber>
 			<releaseNumber>26</releaseNumber>
 			<title>Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v103</saveType>
 			<romSize>16777216</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">79609D14</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>786039BC</im1CRC>
+			<im2CRC>60CF42C4</im2CRC>
 			<comment>火焰纹章 - 圣魔之光石[狼组&amp;火花天龙剑](简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -424,15 +424,15 @@
 			<imageNumber>27</imageNumber>
 			<releaseNumber>27</releaseNumber>
 			<title>Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v103</saveType>
 			<romSize>16777216</romSize>
-			<publisher></publisher>
+			<publisher>Bootleg Translation</publisher>
 			<location>7</location>
-			<sourceRom>[盗版&amp;谁的长乐未央][Bootleg &amp; Shuidechangleweiyang]</sourceRom>
+			<sourceRom>Bootleg &amp; Shuidechangleweiyang</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">223F8FC4</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>2F8F17C5</im1CRC>
+			<im2CRC>7C52A85E</im2CRC>
 			<comment>火焰纹章 - 圣魔之光石[盗版&amp;谁的长乐未央][简]</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -440,15 +440,15 @@
 			<imageNumber>28</imageNumber>
 			<releaseNumber>28</releaseNumber>
 			<title>Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>16777216</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[Dark Twilkitri Net Translation Division]</sourceRom>
-			<language>0</language>
+			<sourceRom>Dark Twilkitri Net Translation Division</sourceRom>
+			<language>2</language>
 			<files><romCRC extension=".gba">35F5B06B</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>7B9D6596</im1CRC>
+			<im2CRC>70943E7D</im2CRC>
 			<comment>http://www.romhacking.net/translations/854/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -456,15 +456,15 @@
 			<imageNumber>29</imageNumber>
 			<releaseNumber>29</releaseNumber>
 			<title>Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>8587268</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[Gringle]</sourceRom>
-			<language>0</language>
+			<sourceRom>Gringle</sourceRom>
+			<language>2</language>
 			<files><romCRC extension=".gba">C5CCD529</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>F5C63D4D</im1CRC>
+			<im2CRC>EB70AF9A</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -472,15 +472,15 @@
 			<imageNumber>30</imageNumber>
 			<releaseNumber>30</releaseNumber>
 			<title>Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1.1)(2006090701) [CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>8388608</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">1CCF7040</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>021D2FC4</im1CRC>
+			<im2CRC>D2B90F90</im2CRC>
 			<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v1.1)(2006090701) (简) (火花加料版)</comment>
 			<duplicateID>0</duplicateID>
 		</game>
@@ -488,15 +488,15 @@
 			<imageNumber>31</imageNumber>
 			<releaseNumber>31</releaseNumber>
 			<title>Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1.3)(20060908) [CHS]</title>
-			<saveType></saveType>
+			<saveType>Sram_F_v102</saveType>
 			<romSize>16777216</romSize>
-			<publisher></publisher>
+			<publisher>Fan Translation</publisher>
 			<location>7</location>
-			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
 			<language>4</language>
 			<files><romCRC extension=".gba">4186D6E5</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
+			<im1CRC>F455DE3D</im1CRC>
+			<im2CRC>8BD14BBF</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
 			<duplicateID>0</duplicateID>
 		</game>

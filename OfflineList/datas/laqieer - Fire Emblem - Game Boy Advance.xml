@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220306</datVersion>
+		<datVersion>20220307</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -12,7 +12,7 @@
 			<location visible="true" inNamingOption="true" default="true"/>
 			<publisher visible="true" inNamingOption="true" default="true"/>
 			<sourceRom visible="true" inNamingOption="true" default="true"/>
-			<saveType visible="true" inNamingOption="true" default="true"/>
+			<saveType visible="false" inNamingOption="false" default="false"/>
 			<romSize visible="true" inNamingOption="true" default="true"/>
 			<releaseNumber visible="true" inNamingOption="true" default="true"/>
 			<languageNumber visible="true" inNamingOption="true" default="false"/>
@@ -32,20 +32,7 @@
 		</newDat>
 		<search>
 			<to value="location" default="true" auto="true"/>
-			<to value="romSize" default="true" auto="false">
-				<find operation="&lt;" value="4194304">&lt; 32Mbits</find>
-				<find operation="=" value="4194304">32Mbits</find>
-				<find operation="=" value="8388608">64Mbits</find>
-				<find operation="=" value="16777216">128Mbits</find>
-				<find operation="=" value="33554432">256Mbits</find>
-			</to>
 			<to value="languages" default="true" auto="true"/>
-			<to value="saveType" default="true" auto="false">
-				<find operation="inNoCase" value="EEPROM">Eeprom</find>
-				<find operation="inNoCase" value="FLASH">Flash</find>
-				<find operation="inNoCase" value="SRAM">Sram</find>
-				<find operation="inNoCase" value="NONE">None</find>
-			</to>
 			<to value="publisher" default="true" auto="true"/>
 			<to value="sourceRom" default="true" auto="true"/>
 		</search>
@@ -65,7 +52,7 @@
 			<files><romCRC extension=".gba">D38763E1</romCRC></files>
 			<im1CRC>D2D1E14F</im1CRC>
 			<im2CRC>2D85B11C</im2CRC>
-			<comment></comment>
+			<comment>https://www.nintendo.co.jp/n08/afej/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -81,7 +68,7 @@
 			<files><romCRC extension=".gba">F0C10E72</romCRC></files>
 			<im1CRC>4CF723F8</im1CRC>
 			<im2CRC>4D476243</im2CRC>
-			<comment></comment>
+			<comment>https://www.nintendo.co.jp/n08/ae7j/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -97,7 +84,7 @@
 			<files><romCRC extension=".gba">2A524221</romCRC></files>
 			<im1CRC>CCC7BB28</im1CRC>
 			<im2CRC>978076A4</im2CRC>
-			<comment></comment>
+			<comment>https://tanasmanor.net/sites/fe7/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -145,7 +132,7 @@
 			<files><romCRC extension=".gba">9D76826F</romCRC></files>
 			<im1CRC>FC9C9C80</im1CRC>
 			<im2CRC>14EDA80E</im2CRC>
-			<comment></comment>
+			<comment>https://www.nintendo.co.jp/n08/be8j/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -161,7 +148,7 @@
 			<files><romCRC extension=".gba">A47246AE</romCRC></files>
 			<im1CRC>5BD4A538</im1CRC>
 			<im2CRC>10B3B589</im2CRC>
-			<comment></comment>
+			<comment>https://tanasmanor.net/sites/fe8/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -193,7 +180,7 @@
 			<files><romCRC extension=".gba">B40D6854</romCRC></files>
 			<im1CRC>309FCD63</im1CRC>
 			<im2CRC>20C575C0</im2CRC>
-			<comment></comment>
+			<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -209,7 +196,7 @@
 			<files><romCRC extension=".gba">8146A270</romCRC></files>
 			<im1CRC>E9F2A61B</im1CRC>
 			<im2CRC>6C8B47C3</im2CRC>
-			<comment></comment>
+			<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -225,7 +212,7 @@
 			<files><romCRC extension=".gba">CD9D8972</romCRC></files>
 			<im1CRC>C9DE0F36</im1CRC>
 			<im2CRC>54EDD382</im2CRC>
-			<comment></comment>
+			<comment>https://serenesforest.net/the-sacred-stones/general/prototype-information/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -273,7 +260,7 @@
 			<files><romCRC extension=".gba">2653401A</romCRC></files>
 			<im1CRC>368AB730</im1CRC>
 			<im2CRC>1A729895</im2CRC>
-			<comment></comment>
+			<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -289,7 +276,7 @@
 			<files><romCRC extension=".gba">335C5855</romCRC></files>
 			<im1CRC>F607837A</im1CRC>
 			<im2CRC>1171AD4D</im2CRC>
-			<comment></comment>
+			<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -353,7 +340,7 @@
 			<files><romCRC extension=".gba">1F19D989</romCRC></files>
 			<im1CRC>F148ACE8</im1CRC>
 			<im2CRC>E32BC63A</im2CRC>
-			<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v20060906) (简)</comment>
+			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -417,7 +404,7 @@
 			<files><romCRC extension=".gba">79609D14</romCRC></files>
 			<im1CRC>786039BC</im1CRC>
 			<im2CRC>60CF42C4</im2CRC>
-			<comment>火焰纹章 - 圣魔之光石[狼组&amp;火花天龙剑](简)</comment>
+			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -505,7 +492,7 @@
 			<releaseNumber>100</releaseNumber>
 			<title>Fire Emblem - Heroes Remake</title>
 			<saveType>Sram_F_v102</saveType>
-			<romSize>16777216</romSize>
+			<romSize>31526756</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>7</location>
 			<sourceRom>laqieer</sourceRom>

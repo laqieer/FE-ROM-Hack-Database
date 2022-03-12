@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// content width
+.main-content {
+  max-width: unset;
+  padding: 2rem 0;
+}

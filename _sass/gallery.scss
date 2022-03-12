@@ -1,25 +1,14 @@
 .row {
   margin: 10px -16px;
-}
-
-/* Add padding BETWEEN each column */
-.row,
-.row > .column {
-  padding: 8px;
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* Create three equal columns that floats next to each other */
 .column {
-  float: left;
-  width: 33.33%;
+  width: 260px;
   display: none; /* Hide all elements by default */
-}
-
-/* Clear floats after rows */ 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 /* Content */

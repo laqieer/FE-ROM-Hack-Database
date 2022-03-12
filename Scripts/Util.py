@@ -3,14 +3,14 @@ import csv
 from xml.dom import minidom
 
 fields = [
-    "index",
-    "title",
-    "publisher",
-    "location",
-    "source",
-    "language",
+    "Index",
+    "Title",
+    "Publisher",
+    "Location",
+    "Source",
+    "Language",
     "CRC32",
-    "comment",
+    "Comment",
 ]
 
 locations = [

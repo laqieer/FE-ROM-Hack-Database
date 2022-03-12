@@ -1,0 +1,292 @@
+[
+  {
+    "Index": 1,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "Eurasia",
+    "Language": "Japanese",
+    "CRC32": "D38763E1",
+    "Comment": "https://www.nintendo.co.jp/n08/afej/"
+  },
+  {
+    "Index": 2,
+    "Title": "Fire Emblem - Rekka no Ken (Japan)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "GBATemp",
+    "Language": "Japanese",
+    "CRC32": "F0C10E72",
+    "Comment": "https://www.nintendo.co.jp/n08/ae7j/"
+  },
+  {
+    "Index": 3,
+    "Title": "Fire Emblem (USA, Australia)",
+    "Publisher": "Nintendo",
+    "Location": "USA",
+    "Source": "Venom",
+    "Language": "English",
+    "CRC32": "2A524221",
+    "Comment": "https://tanasmanor.net/sites/fe7/"
+  },
+  {
+    "Index": 4,
+    "Title": "Fire Emblem (Europe) (En,Fr,De)",
+    "Publisher": "Nintendo",
+    "Location": "Europe",
+    "Source": "Rising Sun",
+    "Language": "French English German",
+    "CRC32": "4A805ED1",
+    "Comment": "[Eng-Fre-Ger]"
+  },
+  {
+    "Index": 5,
+    "Title": "Fire Emblem (Europe) (En,Es,It)",
+    "Publisher": "Nintendo",
+    "Location": "Europe",
+    "Source": "Rising Sun",
+    "Language": "English Italian Spanish",
+    "CRC32": "9DECC754",
+    "Comment": "[Eng-Ita-Spa]"
+  },
+  {
+    "Index": 6,
+    "Title": "Fire Emblem - Seima no Kouseki (Japan)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "WRG",
+    "Language": "Japanese",
+    "CRC32": "9D76826F",
+    "Comment": "https://www.nintendo.co.jp/n08/be8j/"
+  },
+  {
+    "Index": 7,
+    "Title": "Fire Emblem - The Sacred Stones (USA, Australia)",
+    "Publisher": "Nintendo",
+    "Location": "USA",
+    "Source": "Trashman",
+    "Language": "English",
+    "CRC32": "A47246AE",
+    "Comment": "https://tanasmanor.net/sites/fe8/"
+  },
+  {
+    "Index": 8,
+    "Title": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",
+    "Publisher": "Nintendo",
+    "Location": "Europe",
+    "Source": "Rising Sun",
+    "Language": "French English German Italian Spanish",
+    "CRC32": "B3005195",
+    "Comment": ""
+  },
+  {
+    "Index": 9,
+    "Title": "Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "Hidden Palace",
+    "Language": "Japanese",
+    "CRC32": "B40D6854",
+    "Comment": "https://serenesforest.net/blazing-sword/general/prototype-information/"
+  },
+  {
+    "Index": 10,
+    "Title": "Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "Hidden Palace",
+    "Language": "Japanese",
+    "CRC32": "8146A270",
+    "Comment": "https://serenesforest.net/blazing-sword/general/prototype-information/"
+  },
+  {
+    "Index": 11,
+    "Title": "Fire Emblem - Seima no Kouseki (Japan) (Beta)",
+    "Publisher": "Nintendo",
+    "Location": "Japan",
+    "Source": "Serenes Forest",
+    "Language": "Japanese",
+    "CRC32": "CD9D8972",
+    "Comment": "https://serenesforest.net/the-sacred-stones/general/prototype-information/"
+  },
+  {
+    "Index": 12,
+    "Title": "Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)",
+    "Publisher": "Nintendo",
+    "Location": "USA",
+    "Source": "Wii U Virtual Console",
+    "Language": "English",
+    "CRC32": "DEA3B767",
+    "Comment": ""
+  },
+  {
+    "Index": 13,
+    "Title": "Fire Emblem (USA) (Wii U Virtual Console)",
+    "Publisher": "Nintendo",
+    "Location": "USA",
+    "Source": "Wii U Virtual Console",
+    "Language": "English",
+    "CRC32": "1B8713C7",
+    "Comment": ""
+  },
+  {
+    "Index": 14,
+    "Title": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",
+    "Publisher": "Nintendo",
+    "Location": "Europe",
+    "Source": "Wii U Virtual Console",
+    "Language": "French English German Italian Spanish",
+    "CRC32": "2653401A",
+    "Comment": "https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html"
+  },
+  {
+    "Index": 15,
+    "Title": "Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)",
+    "Publisher": "Nintendo",
+    "Location": "Europe",
+    "Source": "Wii U Virtual Console",
+    "Language": "French English German",
+    "CRC32": "335C5855",
+    "Comment": "https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html"
+  },
+  {
+    "Index": 16,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]",
+    "Publisher": "iQue",
+    "Location": "China",
+    "Source": "Hidden Palace",
+    "Language": "Chinese",
+    "CRC32": "8CEBEF1E",
+    "Comment": "神游版火纹战记（未发售）"
+  },
+  {
+    "Index": 20,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Superxyj",
+    "Language": "Chinese",
+    "CRC32": "823C3801",
+    "Comment": "火焰纹章 - 封印之剑[Superxyj](简)"
+  },
+  {
+    "Index": 21,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (Japan)[CGP & W_anthony][CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "CGP&W_anthony",
+    "Language": "Chinese",
+    "CRC32": "4A7BF795",
+    "Comment": "火焰纹章 - 封印之剑[CGP&W_anthony](简)"
+  },
+  {
+    "Index": 22,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Wolf & Chinafe",
+    "Language": "Chinese",
+    "CRC32": "1F19D989",
+    "Comment": "http://www.fireemblem.net/fe/download/index.htm"
+  },
+  {
+    "Index": 23,
+    "Title": "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Wolf & Chinafe",
+    "Language": "Chinese",
+    "CRC32": "7AEF4EDC",
+    "Comment": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix) (简)"
+  },
+  {
+    "Index": 24,
+    "Title": "Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "CGP",
+    "Language": "Chinese",
+    "CRC32": "042C159C",
+    "Comment": "火焰纹章 - 烈火之剑[CGP](简)"
+  },
+  {
+    "Index": 25,
+    "Title": "Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Superxyj",
+    "Language": "Chinese",
+    "CRC32": "EAFA4EF0",
+    "Comment": "火焰纹章 - 烈火之剑[Superxyj](简)"
+  },
+  {
+    "Index": 26,
+    "Title": "Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Wolf & Chinafe",
+    "Language": "Chinese",
+    "CRC32": "79609D14",
+    "Comment": "http://www.fireemblem.net/fe/download/index.htm"
+  },
+  {
+    "Index": 27,
+    "Title": "Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]",
+    "Publisher": "Bootleg Translation",
+    "Location": "Japan",
+    "Source": "Bootleg & Shuidechangleweiyang",
+    "Language": "Chinese",
+    "CRC32": "223F8FC4",
+    "Comment": "火焰纹章 - 圣魔之光石[盗版&谁的长乐未央][简]"
+  },
+  {
+    "Index": 28,
+    "Title": "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Dark Twilkitri Net Translation Division",
+    "Language": "English",
+    "CRC32": "35F5B06B",
+    "Comment": "http://www.romhacking.net/translations/854/"
+  },
+  {
+    "Index": 29,
+    "Title": "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Gringle",
+    "Language": "English",
+    "CRC32": "C5CCD529",
+    "Comment": "https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/"
+  },
+  {
+    "Index": 30,
+    "Title": "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Wolf & Chinafe",
+    "Language": "Chinese",
+    "CRC32": "1CCF7040",
+    "Comment": "火焰纹章 - 封印之剑[狼组&火花天龙剑](v1.1)(2006090701) (简) (火花加料版)"
+  },
+  {
+    "Index": 31,
+    "Title": "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS]",
+    "Publisher": "Fan Translation",
+    "Location": "Japan",
+    "Source": "Wolf & Chinafe",
+    "Language": "Chinese",
+    "CRC32": "4186D6E5",
+    "Comment": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)"
+  },
+  {
+    "Index": 100,
+    "Title": "Fire Emblem - Heroes Remake",
+    "Publisher": "Fan Modding",
+    "Location": "Japan",
+    "Source": "laqieer",
+    "Language": "English Japanese",
+    "CRC32": "1C4FCC59",
+    "Comment": "https://github.com/laqieer/fe7-jp-stunning-tribble"
+  }
+]

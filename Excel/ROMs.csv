@@ -1,19 +1,19 @@
 ﻿index,title,publisher,location,source,language,CRC32,comment
 1,Fire Emblem - Fuuin no Tsurugi (Japan),Nintendo,Japan,Eurasia,Japanese,D38763E1,https://www.nintendo.co.jp/n08/afej/
 2,Fire Emblem - Rekka no Ken (Japan),Nintendo,Japan,GBATemp,Japanese,F0C10E72,https://www.nintendo.co.jp/n08/ae7j/
-3,"Fire Emblem (USA, Australia)",Nintendo,USA,Venom,English (US),2A524221,https://tanasmanor.net/sites/fe7/
-4,"Fire Emblem (Europe) (En,Fr,De)",Nintendo,Europe,Rising Sun,French English (US) German,4A805ED1,[Eng-Fre-Ger]
-5,"Fire Emblem (Europe) (En,Es,It)",Nintendo,Europe,Rising Sun,English (US) Italian Spanish,9DECC754,[Eng-Ita-Spa]
+3,"Fire Emblem (USA, Australia)",Nintendo,USA,Venom,English,2A524221,https://tanasmanor.net/sites/fe7/
+4,"Fire Emblem (Europe) (En,Fr,De)",Nintendo,Europe,Rising Sun,French English German,4A805ED1,[Eng-Fre-Ger]
+5,"Fire Emblem (Europe) (En,Es,It)",Nintendo,Europe,Rising Sun,English Italian Spanish,9DECC754,[Eng-Ita-Spa]
 6,Fire Emblem - Seima no Kouseki (Japan),Nintendo,Japan,WRG,Japanese,9D76826F,https://www.nintendo.co.jp/n08/be8j/
-7,"Fire Emblem - The Sacred Stones (USA, Australia)",Nintendo,USA,Trashman,English (US),A47246AE,https://tanasmanor.net/sites/fe8/
-8,"Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",Nintendo,Europe,Rising Sun,French English (US) German Italian Spanish,B3005195,
+7,"Fire Emblem - The Sacred Stones (USA, Australia)",Nintendo,USA,Trashman,English,A47246AE,https://tanasmanor.net/sites/fe8/
+8,"Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",Nintendo,Europe,Rising Sun,French English German Italian Spanish,B3005195,
 9,Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003),Nintendo,Japan,Hidden Palace,Japanese,B40D6854,https://serenesforest.net/blazing-sword/general/prototype-information/
 10,Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003),Nintendo,Japan,Hidden Palace,Japanese,8146A270,https://serenesforest.net/blazing-sword/general/prototype-information/
 11,Fire Emblem - Seima no Kouseki (Japan) (Beta),Nintendo,Japan,Serenes Forest,Japanese,CD9D8972,https://serenesforest.net/the-sacred-stones/general/prototype-information/
-12,Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console),Nintendo,USA,Wii U Virtual Console,English (US),DEA3B767,
-13,Fire Emblem (USA) (Wii U Virtual Console),Nintendo,USA,Wii U Virtual Console,English (US),1B8713C7,
-14,"Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",Nintendo,Europe,Wii U Virtual Console,French English (US) German Italian Spanish,2653401A,https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html
-15,"Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)",Nintendo,Europe,Wii U Virtual Console,French English (US) German,335C5855,https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html
+12,Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console),Nintendo,USA,Wii U Virtual Console,English,DEA3B767,
+13,Fire Emblem (USA) (Wii U Virtual Console),Nintendo,USA,Wii U Virtual Console,English,1B8713C7,
+14,"Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)",Nintendo,Europe,Wii U Virtual Console,French English German Italian Spanish,2653401A,https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html
+15,"Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)",Nintendo,Europe,Wii U Virtual Console,French English German,335C5855,https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html
 16,Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS],iQue,China,Hidden Palace,Chinese,8CEBEF1E, 神游版火纹战记（未发售）
 20,Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS],Fan Translation,Japan,Superxyj,Chinese,823C3801,火焰纹章 - 封印之剑[Superxyj](简)
 21,Fire Emblem - Fuuin no Tsurugi (Japan)[CGP & W_anthony][CHS],Fan Translation,Japan,CGP&W_anthony,Chinese,4A7BF795,火焰纹章 - 封印之剑[CGP&W_anthony](简)
@@ -23,8 +23,8 @@
 25,Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS],Fan Translation,Japan,Superxyj,Chinese,EAFA4EF0,火焰纹章 - 烈火之剑[Superxyj](简)
 26,Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,79609D14,http://www.fireemblem.net/fe/download/index.htm
 27,Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS],Bootleg Translation,Japan,Bootleg & Shuidechangleweiyang,Chinese,223F8FC4,火焰纹章 - 圣魔之光石[盗版&谁的长乐未央][简]
-28,Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division],Fan Translation,Japan,Dark Twilkitri Net Translation Division,English (US),35F5B06B,http://www.romhacking.net/translations/854/
-29,Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle],Fan Translation,Japan,Gringle,English (US),C5CCD529,https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/
+28,Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division],Fan Translation,Japan,Dark Twilkitri Net Translation Division,English,35F5B06B,http://www.romhacking.net/translations/854/
+29,Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle],Fan Translation,Japan,Gringle,English,C5CCD529,https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/
 30,Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,1CCF7040,火焰纹章 - 封印之剑[狼组&火花天龙剑](v1.1)(2006090701) (简) (火花加料版)
 31,Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,4186D6E5,火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)
-100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English (US) Japanese,1C4FCC59,https://github.com/laqieer/fe7-jp-stunning-tribble
+100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,1C4FCC59,https://github.com/laqieer/fe7-jp-stunning-tribble

@@ -44,7 +44,7 @@ locations = [
 
 languages = [
     "French",
-    "English (US)",
+    "English",
     "Chinese",
     "Danish",
     "Dutch",
@@ -57,8 +57,8 @@ languages = [
     "Portuguese",
     "Spanish",
     "Swedish",
-    "English (UK)",
-    "Portuguese (BR)",
+    "English(UK)",
+    "Portuguese(BR)",
     "Korean",
 ]
 

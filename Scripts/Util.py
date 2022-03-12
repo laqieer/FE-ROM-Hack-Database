@@ -15,31 +15,31 @@ fields = [
 
 locations = [
     "Europe",
-	"USA",
-	"Germany",
-	"China",
-	"Spain",
-	"France",
-	"Italy",
-	"Japan",
-	"Netherlands",
-	"England",
-	"Denmark",
-	"Finland",
-	"Norway",
-	"Poland",
-	"Portugal",
-	"Sweden",
-	"Europe USA",
-	"Europe USA Japan",
-	"USA Japan",
-	"Australia",
-	"North Korea",
-	"Brazil",
-	"South Korea",
-	"Europe Brazil",
-	"Europe USA Brazil",
-	"USA Brazil",
+    "USA",
+    "Germany",
+    "China",
+    "Spain",
+    "France",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "England",
+    "Denmark",
+    "Finland",
+    "Norway",
+    "Poland",
+    "Portugal",
+    "Sweden",
+    "Europe USA",
+    "Europe USA Japan",
+    "USA Japan",
+    "Australia",
+    "North Korea",
+    "Brazil",
+    "South Korea",
+    "Europe Brazil",
+    "Europe USA Brazil",
+    "USA Brazil",
 ]
 
 languages = [
@@ -61,6 +61,13 @@ languages = [
     "Portuguese(BR)",
     "Korean",
 ]
+
+symbols = {
+    "Europe": "🇪🇺",
+    "USA": "🇺🇸",
+    "Japan": "🇯🇵",
+    "China": "🇨🇳",
+}
 
 class Error(Exception):
     """Base class for exceptions in this module."""
@@ -159,7 +166,7 @@ class ROMList:
                 else:
                     htmlfile.write(f'<td>{rom.title}</td>\n')
                 htmlfile.write(f'<td>{rom.publisher}</td>\n')
-                htmlfile.write(f'<td>{rom.location}</td>\n')
+                htmlfile.write(f'<td>{symbols[rom.location]}</td>\n')
                 htmlfile.write(f'<td>{rom.source}</td>\n')
                 htmlfile.write(f'<td>{" ".join(rom.language)}</td>\n')
                 htmlfile.write(f'<td>{rom.checksum}</td>\n')

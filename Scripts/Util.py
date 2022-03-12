@@ -3,7 +3,7 @@ import csv
 from xml.dom import minidom
 
 fields = [
-    "Index",
+    "ID",
     "Title",
     "Publisher",
     "Location",
@@ -110,11 +110,11 @@ class ROMList:
         else:
             raise FormatError(filename)
 
-    def saveToFile(self, filename):
+    def saveToFile(self, filename, encoding):
         if filename.lower().endswith('.csv'):
-            self.saveToCSV(filename)
+            self.saveToCSV(filename, encoding)
         elif filename.lower().endswith('.htm') or filename.lower().endswith('html'):
-            self.saveToHTML(filename)
+            self.saveToHTML(filename, encoding)
         else:
             raise FormatError(filename)
 
@@ -141,15 +141,15 @@ class ROMList:
                 comment = ""
             self.roms.append(ROM(index, title, publisher, location, source, language, checksum, comment))
 
-    def saveToCSV(self, filename):
-        with open(filename, 'w', encoding='UTF-8-SIG') as csvfile:
+    def saveToCSV(self, filename, encoding):
+        with open(filename, 'w', encoding=encoding) as csvfile:
             csvwriter = csv.writer(csvfile)
             csvwriter.writerow(fields)
             for rom in self.roms:
                 csvwriter.writerow([rom.index, rom.title, rom.publisher, rom.location, rom.source, ' '.join(rom.language), rom.checksum, rom.comment])
 
-    def saveToHTML(self, filename):
-        with open(filename, 'w', encoding='UTF-8') as htmlfile:
+    def saveToHTML(self, filename, encoding):
+        with open(filename, 'w', encoding=encoding) as htmlfile:
             htmlfile.write('<table id="roms" class="table table-bordered table-hover table-condensed">\n')
             htmlfile.write('<thead><tr>\n')
             for field in fields:

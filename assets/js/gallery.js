@@ -1,29 +1,4 @@
-fetch('assets/data/ROMs.json')
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (data) {
-    appendData(data);
-    filterSelection("all");
-  })
-  .catch(function (err) {
-    console.log(err);
-  });
-
-function appendData(data) {
-  var mainContainer = document.getElementById("roms");
-  for (var i = 0; i < data.length; i++) {
-    var div = document.createElement("div");
-    div.className = 'column ' + data[i].Language;
-    var author = data[i].Source
-    if(data[i].Index < 20) {
-      author = data[i].Publisher
-    }
-    div.innerHTML = '<div class="content"><img src="OfflineList/imgs/laqieer - Fire Emblem - Game Boy Advance/1-500/' + data[i].Index + 'a.png" alt="Screenshot" style="width:100%"><h4>' + data[i].Title + '</h4><p>' + author + '</p></div>';
-    mainContainer.appendChild(div);
-  }
-}
-
+filterSelection("all");
 function filterSelection(c) {
   var x, i;
   x = document.getElementsByClassName("column");

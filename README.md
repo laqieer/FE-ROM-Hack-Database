@@ -3,6 +3,8 @@ Database of Fire Emblem ROM hacks for ROM managers
 
 **⚠️No ROMs or links to ROMs included!**
 
+## [Online](http://github.laqieer.ml/)
+
 {% include ROMs.html %}
 
 <script src="https://unpkg.com/tablefilter@latest/dist/tablefilter/tablefilter.js"></script>

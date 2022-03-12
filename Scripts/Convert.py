@@ -9,7 +9,7 @@ from Util import *
 def main():
     parser = argparse.ArgumentParser(description='Convert to another format.')
     parser.add_argument('infile', metavar='input_file', type=str, help='input filename (.xml)')
-    parser.add_argument('outfile', metavar='output_file', type=str, help='output filename (.csv)')
+    parser.add_argument('outfile', metavar='output_file', type=str, help='output filename (.csv/.htm/.html)')
     args = parser.parse_args()
     rl = ROMList()
     try:

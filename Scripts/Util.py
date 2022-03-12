@@ -106,6 +106,8 @@ class ROMList:
     def saveToFile(self, filename):
         if filename.lower().endswith('.csv'):
             self.saveToCSV(filename)
+        elif filename.lower().endswith('.htm') or filename.lower().endswith('html'):
+            self.saveToHTML(filename)
         else:
             raise FormatError(filename)
 
@@ -139,3 +141,28 @@ class ROMList:
             for rom in self.roms:
                 csvwriter.writerow([rom.index, rom.title, rom.publisher, rom.location, rom.source, ' '.join(rom.language), rom.checksum, rom.comment])
 
+    def saveToHTML(self, filename):
+        with open(filename, 'w', encoding='UTF-8') as htmlfile:
+            htmlfile.write('<table id="roms" class="table table-bordered table-hover table-condensed">\n')
+            htmlfile.write('<thead><tr>\n')
+            for field in fields:
+                htmlfile.write(f'<th>{field}</th>\n')
+            htmlfile.write('</tr></thead>\n')
+            htmlfile.write('<tbody>\n')
+            for rom in self.roms:
+                comment = rom.comment
+                htmlfile.write('<tr>\n')
+                htmlfile.write(f'<td>{rom.index}</td>\n')
+                if comment.startswith('http'):
+                    htmlfile.write(f'<td><a href="{comment}">{rom.title}</a></td>\n')
+                    comment = ""
+                else:
+                    htmlfile.write(f'<td>{rom.title}</td>\n')
+                htmlfile.write(f'<td>{rom.publisher}</td>\n')
+                htmlfile.write(f'<td>{rom.location}</td>\n')
+                htmlfile.write(f'<td>{rom.source}</td>\n')
+                htmlfile.write(f'<td>{" ".join(rom.language)}</td>\n')
+                htmlfile.write(f'<td>{rom.checksum}</td>\n')
+                htmlfile.write(f'<td>{comment}</td>\n')
+                htmlfile.write('</tr>\n')
+            htmlfile.write('</tbody></table>\n')

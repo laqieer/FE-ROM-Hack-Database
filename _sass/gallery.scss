@@ -58,3 +58,10 @@
   bottom: 0;
   content: ' ';
 }
+
+/* Hover effect */
+.fullclick .content:hover,
+.fullclick .content:focus-within {
+  background: lightgray;
+  box-shadow: 0 3px 6px gray;
+}

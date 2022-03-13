@@ -17,7 +17,7 @@
 			<releaseNumber visible="true" inNamingOption="true" default="true"/>
 			<languageNumber visible="true" inNamingOption="true" default="false"/>
 			<comment visible="true" inNamingOption="true" default="false"/>
-			<romCRC visible="true" inNamingOption="true" default="true"/>
+			<romCRC visible="true" inNamingOption="true" default="false"/>
 			<im1CRC visible="false" inNamingOption="false" default="false"/>
 			<im2CRC visible="false" inNamingOption="false" default="false"/>
 			<languages visible="true" inNamingOption="true" default="true"/>
@@ -36,7 +36,7 @@
 			<to value="publisher" default="true" auto="true"/>
 			<to value="sourceRom" default="true" auto="true"/>
 		</search>
-		<romTitle>%u - %n - %c</romTitle>
+		<romTitle>%u - %n</romTitle>
 	</configuration>
 	<games>
 		<game>

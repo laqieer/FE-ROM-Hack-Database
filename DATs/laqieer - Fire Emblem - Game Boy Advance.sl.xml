@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
+<softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
+	<software name="Fire Emblem (Europe) (En,Es,It)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="5 - Fire Emblem (Europe) (En,Es,It)" size="16777216" crc="9decc754" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem (Europe) (En,Fr,De)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="4 - Fire Emblem (Europe) (En,Fr,De)" size="16777216" crc="4a805ed1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)" size="16777216" crc="335c5855" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem (USA) (Wii U Virtual Console)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="13 - Fire Emblem (USA) (Wii U Virtual Console)" size="16777216" crc="1b8713c7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem (USA, Australia)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]">
+		<publisher>iQue</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]" size="16777216" crc="8cebef1e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (Japan)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1 - Fire Emblem - Fuuin no Tsurugi (Japan)" size="8388608" crc="d38763e1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="21 - Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]" size="10415546" crc="4a7bf795" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]" size="9676785" crc="823c3801" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1.1)(2006090701) [CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1" size="8388608" crc="1ccf7040" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Heroes Remake">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="2 - Fire Emblem - Rekka no Ken (Japan)" size="16777216" crc="f0c10e72" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)" size="16777216" crc="b40d6854" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)" size="16777216" crc="8146a270" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="24 - Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]" size="19030368" crc="042c159c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]" size="19086336" crc="eafa4ef0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1.3)(20060908) [CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="31 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1" size="16777216" crc="4186d6e5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]" size="16777216" crc="7aef4edc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Seima no Kouseki (Japan)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="6 - Fire Emblem - Seima no Kouseki (Japan)" size="16777216" crc="9d76826f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Seima no Kouseki (Japan) (Beta)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)" size="16777216" crc="cd9d8972" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]">
+		<publisher>Bootleg Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]" size="16777216" crc="223f8fc4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="16777216" crc="79609d14" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="28 - Fire Emblem - Sword of Seals (English Translation v2" size="16777216" crc="35f5b06b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
+		<publisher>Fan Translation</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="29 - Fire Emblem - The Binding Blade (English Localization v1" size="8587268" crc="c5ccd529" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)" size="33554432" crc="b3005195" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)" size="33554432" crc="2653401a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)" size="16777216" crc="dea3b767" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Sacred Stones (USA, Australia)">
+		<publisher>Nintendo</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="7 - Fire Emblem - The Sacred Stones (USA, Australia)" size="16777216" crc="a47246ae" />
+			</dataarea>
+		</part>
+	</software>
+</softwarelist>

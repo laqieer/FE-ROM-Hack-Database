@@ -1,0 +1,156 @@
+clrmamepro (
+	name "laqieer - Fire Emblem - Game Boy Advance"
+	description "Fire Emblem ROM hacks"
+	category "Game Boy Advance"
+	version "20220313"
+	author "laqieer"
+	email "laqieer@126.com"
+	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
+	url "https://github.com/laqieer/FE-ROM-Hack-Database"
+	comment "https://github.com/laqieer/FE-ROM-Hack-Database"
+)
+game (
+	name "Fire Emblem (Europe) (En,Es,It)"
+	description "Fire Emblem (Europe) (En,Es,It)"
+	rom ( name "5 - Fire Emblem (Europe) (En,Es,It)" size "16777216" crc "9decc754" )
+)
+game (
+	name "Fire Emblem (Europe) (En,Fr,De)"
+	description "Fire Emblem (Europe) (En,Fr,De)"
+	rom ( name "4 - Fire Emblem (Europe) (En,Fr,De)" size "16777216" crc "4a805ed1" )
+)
+game (
+	name "Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)"
+	description "Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)"
+	rom ( name "15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)" size "16777216" crc "335c5855" )
+)
+game (
+	name "Fire Emblem (USA) (Wii U Virtual Console)"
+	description "Fire Emblem (USA) (Wii U Virtual Console)"
+	rom ( name "13 - Fire Emblem (USA) (Wii U Virtual Console)" size "16777216" crc "1b8713c7" )
+)
+game (
+	name "Fire Emblem (USA, Australia)"
+	description "Fire Emblem (USA, Australia)"
+	rom ( name "3 - Fire Emblem (USA, Australia)" size "16777216" crc "2a524221" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]"
+	description "Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]"
+	rom ( name "16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]" size "16777216" crc "8cebef1e" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (Japan)"
+	description "Fire Emblem - Fuuin no Tsurugi (Japan)"
+	rom ( name "1 - Fire Emblem - Fuuin no Tsurugi (Japan)" size "8388608" crc "d38763e1" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (Japan)[CGP & W_anthony][CHS]"
+	description "Fire Emblem - Fuuin no Tsurugi (Japan)[CGP & W_anthony][CHS]"
+	rom ( name "21 - Fire Emblem - Fuuin no Tsurugi (Japan)[CGP & W_anthony][CHS]" size "10415546" crc "4a7bf795" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]"
+	description "Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]"
+	rom ( name "20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]" size "9676785" crc "823c3801" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]"
+	description "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]"
+	rom ( name "30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1" size "8388608" crc "1ccf7040" )
+)
+game (
+	name "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]"
+	description "Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]"
+	rom ( name "22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]" size "8388608" crc "1f19d989" )
+)
+game (
+	name "Fire Emblem - Heroes Remake"
+	description "Fire Emblem - Heroes Remake"
+	rom ( name "100 - Fire Emblem - Heroes Remake" size "31526756" crc "1c4fcc59" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan)"
+	description "Fire Emblem - Rekka no Ken (Japan)"
+	rom ( name "2 - Fire Emblem - Rekka no Ken (Japan)" size "16777216" crc "f0c10e72" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)"
+	description "Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)"
+	rom ( name "9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)" size "16777216" crc "b40d6854" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)"
+	description "Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)"
+	rom ( name "10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)" size "16777216" crc "8146a270" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]"
+	description "Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]"
+	rom ( name "24 - Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]" size "19030368" crc "042c159c" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]"
+	description "Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]"
+	rom ( name "25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]" size "19086336" crc "eafa4ef0" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS]"
+	description "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS]"
+	rom ( name "31 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1" size "16777216" crc "4186d6e5" )
+)
+game (
+	name "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]"
+	description "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]"
+	rom ( name "23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]" size "16777216" crc "7aef4edc" )
+)
+game (
+	name "Fire Emblem - Seima no Kouseki (Japan)"
+	description "Fire Emblem - Seima no Kouseki (Japan)"
+	rom ( name "6 - Fire Emblem - Seima no Kouseki (Japan)" size "16777216" crc "9d76826f" )
+)
+game (
+	name "Fire Emblem - Seima no Kouseki (Japan) (Beta)"
+	description "Fire Emblem - Seima no Kouseki (Japan) (Beta)"
+	rom ( name "11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)" size "16777216" crc "cd9d8972" )
+)
+game (
+	name "Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]"
+	description "Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]"
+	rom ( name "27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]" size "16777216" crc "223f8fc4" )
+)
+game (
+	name "Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]"
+	description "Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]"
+	rom ( name "26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]" size "16777216" crc "79609d14" )
+)
+game (
+	name "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]"
+	description "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]"
+	rom ( name "28 - Fire Emblem - Sword of Seals (English Translation v2" size "16777216" crc "35f5b06b" )
+)
+game (
+	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
+	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
+)
+game (
+	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)"
+	description "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)"
+	rom ( name "8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)" size "33554432" crc "b3005195" )
+)
+game (
+	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)"
+	description "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)"
+	rom ( name "14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)" size "33554432" crc "2653401a" )
+)
+game (
+	name "Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)"
+	description "Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)"
+	rom ( name "12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)" size "16777216" crc "dea3b767" )
+)
+game (
+	name "Fire Emblem - The Sacred Stones (USA, Australia)"
+	description "Fire Emblem - The Sacred Stones (USA, Australia)"
+	rom ( name "7 - Fire Emblem - The Sacred Stones (USA, Australia)" size "16777216" crc "a47246ae" )
+)

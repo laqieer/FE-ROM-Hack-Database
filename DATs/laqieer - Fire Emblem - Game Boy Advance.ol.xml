@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
+	<configuration>
+		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
+		<datVersion>29</datVersion>
+		<system>Nintendo - Game Boy Advance</system>
+		<screenshotsWidth>240</screenshotsWidth>
+		<screenshotsHeight>160</screenshotsHeight>
+		<infos>
+			<infos visible="" inNamingOption="" default="" />
+			<title visible="True" inNamingOption="True" default="True" />
+			<location visible="True" inNamingOption="True" default="True" />
+			<publisher visible="True" inNamingOption="True" default="True" />
+			<sourcerom visible="True" inNamingOption="True" default="True" />
+			<savetype visible="False" inNamingOption="False" default="False" />
+			<romsize visible="True" inNamingOption="True" default="True" />
+			<releasenumber visible="True" inNamingOption="True" default="True" />
+			<languagenumber visible="True" inNamingOption="True" default="False" />
+			<comment visible="True" inNamingOption="True" default="False" />
+			<romcrc visible="True" inNamingOption="True" default="False" />
+			<im1crc visible="False" inNamingOption="False" default="False" />
+			<im2crc visible="False" inNamingOption="False" default="False" />
+			<languages visible="True" inNamingOption="True" default="True" />
+		</infos>
+		<canOpen>
+			<extension>.gba</extension>
+		</canOpen>
+		<newDat>
+			<datVersionURL>https://github.com/laqieer/FE-ROM-Hack-Database</datVersionURL>
+			<datUrl fileName="laqieer - Fire Emblem - Game Boy Advance.xml.zip">https://github.com/laqieer/FE-ROM-Hack-Database</datUrl>
+			<imURL>https://github.com/laqieer/FE-ROM-Hack-Database</imURL>
+		</newDat>
+		<search>
+			<to value="location" default="true" auto="true" />
+			<to value="romSize" default="true" auto="false" />
+			<to value="languages" default="true" auto="true" />
+			<to value="saveType" default="false" auto="false" />
+			<to value="publisher" default="false" auto="true" />
+			<to value="sourceRom" default="false" auto="true" />
+		</search>
+		<romTitle>%u - %n</romTitle>
+	</configuration>
+	<games>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>5 - Fire Emblem (Europe) (En,Es,It)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9DECC754</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>[Eng-Ita-Spa]</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>4 - Fire Emblem (Europe) (En,Fr,De)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4A805ED1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>[Eng-Fre-Ger]</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">335C5855</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>13 - Fire Emblem (USA) (Wii U Virtual Console)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1B8713C7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>3 - Fire Emblem (USA, Australia)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2A524221</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://tanasmanor.net/sites/fe7/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>iQue</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8CEBEF1E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment> 神游版火纹战记（未发售）</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1 - Fire Emblem - Fuuin no Tsurugi (Japan)</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D38763E1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://www.nintendo.co.jp/n08/afej/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>21 - Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>10415546</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4A7BF795</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 封印之剑[CGP&amp;W_anthony](简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>9676785</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">823C3801</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 封印之剑[Superxyj](简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1CCF7040</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v1.1)(2006090701) (简) (火花加料版)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1F19D989</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>100 - Fire Emblem - Heroes Remake</title>
+			<saveType>None</saveType>
+			<romSize>31526756</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1C4FCC59</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>2 - Fire Emblem - Rekka no Ken (Japan)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F0C10E72</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://www.nintendo.co.jp/n08/ae7j/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B40D6854</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8146A270</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>24 - Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>19030368</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">042C159C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 烈火之剑[CGP](简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>19086336</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EAFA4EF0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 烈火之剑[Superxyj](简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>31 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4186D6E5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7AEF4EDC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>6 - Fire Emblem - Seima no Kouseki (Japan)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9D76826F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://www.nintendo.co.jp/n08/be8j/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CD9D8972</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/the-sacred-stones/general/prototype-information/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Bootleg Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">223F8FC4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 圣魔之光石[盗版&amp;谁的长乐未央][简]</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">79609D14</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>28 - Fire Emblem - Sword of Seals (English Translation v2</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">35F5B06B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://www.romhacking.net/translations/854/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>29 - Fire Emblem - The Binding Blade (English Localization v1</title>
+			<saveType>None</saveType>
+			<romSize>8587268</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C5CCD529</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B3005195</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2653401A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DEA3B767</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>7 - Fire Emblem - The Sacred Stones (USA, Australia)</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Nintendo</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A47246AE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://tanasmanor.net/sites/fe8/</comment>
+			<duplicateID></duplicateID>
+		</game>
+	</games>
+	<gui>
+		<images width="487" height="162">
+			<image x="0" y="0" width="240" height="160" />
+			<image x="245" y="0" width="240" height="160" />
+		</images>
+	</gui>
+</dat>

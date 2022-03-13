@@ -4,6 +4,7 @@ import sys
 import argparse
 
 sys.path.append('.')
+sys.path.append('Scripts')
 from Util import *
 
 def main():

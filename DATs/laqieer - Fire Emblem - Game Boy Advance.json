@@ -626,6 +626,24 @@
 					}
 				}
 			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Will of Good and Evil",
+				"comment": "http://www.fireemblem.net/fe/download/index.htm",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "101 - Fire Emblem - Will of Good and Evil",
+						"size": 16777216,
+						"crc": "9cbb923e"
+					}
+				}
+			]
 		}
 	]
 }

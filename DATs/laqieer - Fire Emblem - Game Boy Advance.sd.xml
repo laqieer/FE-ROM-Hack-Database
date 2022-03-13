@@ -537,5 +537,20 @@
 				</datitem>
 			</files>
 		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem - Will of Good and Evil</name>
+				<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>101 - Fire Emblem - Will of Good and Evil</name>
+					<size>16777216</size>
+					<crc>9cbb923e</crc>
+				</datitem>
+			</files>
+		</directory>
 	</data>
 </datafile>

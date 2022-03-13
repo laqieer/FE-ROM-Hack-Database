@@ -87,4 +87,7 @@
 	<machine name="Fire Emblem - The Sacred Stones (USA, Australia)">
 		<rom name="7 - Fire Emblem - The Sacred Stones (USA, Australia)" size="16777216" crc="a47246ae" />
 	</machine>
+	<machine name="Fire Emblem - Will of Good and Evil">
+		<rom name="101 - Fire Emblem - Will of Good and Evil" size="16777216" crc="9cbb923e" />
+	</machine>
 </mame>

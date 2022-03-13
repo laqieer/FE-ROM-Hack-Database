@@ -233,4 +233,12 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Will of Good and Evil">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="101 - Fire Emblem - Will of Good and Evil" size="16777216" crc="9cbb923e" />
+			</dataarea>
+		</part>
+	</software>
 </softwarelist>

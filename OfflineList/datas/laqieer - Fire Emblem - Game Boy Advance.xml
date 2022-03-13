@@ -503,6 +503,22 @@
 			<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 			<duplicateID>0</duplicateID>
 		</game>
+		<game>
+			<imageNumber>101</imageNumber>
+			<releaseNumber>101</releaseNumber>
+			<title>Fire Emblem - Will of Good and Evil</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Wolf &amp; Chinafe</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">9CBB923E</romCRC></files>
+			<im1CRC>90A5BDFB</im1CRC>
+			<im2CRC>747CF267</im2CRC>
+			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
+			<duplicateID>0</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="487" height="162">

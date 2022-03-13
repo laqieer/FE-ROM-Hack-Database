@@ -113,3 +113,7 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - The Sacred Stones (USA, Australia)".
 Name                                   Size Checksum
 7 - Fire Emblem - The Sacred Stones (USA, Australia)          16777216 CRC(a47246ae)
+
+ROMs required for driver "Fire Emblem - Will of Good and Evil".
+Name                                   Size Checksum
+101 - Fire Emblem - Will of Good and Evil16777216 CRC(9cbb923e)

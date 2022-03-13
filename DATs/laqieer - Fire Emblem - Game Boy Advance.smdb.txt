@@ -27,3 +27,4 @@
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)/14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)			2653401a	33554432
 	Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)/12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)			dea3b767	16777216
 	Fire Emblem - The Sacred Stones (USA, Australia)/7 - Fire Emblem - The Sacred Stones (USA, Australia)			a47246ae	16777216
+	Fire Emblem - Will of Good and Evil/101 - Fire Emblem - Will of Good and Evil			9cbb923e	16777216

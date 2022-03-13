@@ -7,6 +7,7 @@ Database of Fire Emblem ROM hacks for ROM managers
 
 - [Gallery](http://github.laqieer.ml/gallery.html)
 - [Search](http://github.laqieer.ml/search.html)
+- [Excel](https://github.com/laqieer/FE-ROM-Hack-Database/blob/main/Excel/ROMs.csv)
 
 ## ROM Managers
 

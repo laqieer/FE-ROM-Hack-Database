@@ -9,26 +9,21 @@
   <button class="myBtn" onclick="filterSelection('Spanish')"> Spanish</button>
 </div>
 
-<div class="row">
+<div class="row fullclick">
 {% for rom in site.data.ROMs %}
   <div class="column {{ rom.Language }}">
     <div class="content">
       <img src="OfflineList/imgs/laqieer - Fire Emblem - Game Boy Advance/1-500/{{ rom.ID }}a.png" alt="Title Screen" style="width:100%">
-      <h4>
-{% assign starts_with = rom.Comment | slice: 0,4 %}
-{% if starts_with == "http" %}
-        <a href="{{ rom.Comment }}">
-{% endif %}
-        {{ rom.Title }}
-{% if starts_with == "http" %}
-        </a>
-{% endif %}
-      </h4>
+      <h4>{{ rom.Title }}</h4>
 {% assign id = rom.ID | plus: 0 %}
 {% if id < 20 %}
       <p>{{ rom.Publisher }}</p>
 {% else %}
       <p>{{ rom.Source }}</p>
+{% endif %}
+{% assign starts_with = rom.Comment | slice: 0,4 %}
+{% if starts_with == "http" %}
+      <a href="{{ rom.Comment }}"></a>
 {% endif %}
     </div>
   </div>

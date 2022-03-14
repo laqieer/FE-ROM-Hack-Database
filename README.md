@@ -3,7 +3,7 @@ Database of Fire Emblem ROM hacks for ROM managers
 
 **⚠️No ROMs or links to ROMs included!**
 
-☞ Be sure to read https://github.com/laqieer/FE-ROM-Hack-Database/issues/2
+☞ Be sure to read https://github.com/laqieer/FE-ROM-Hack-Database/issues/2 &  https://github.com/laqieer/FE-ROM-Hack-Database/issues/3
 
 ## Online Resources
 

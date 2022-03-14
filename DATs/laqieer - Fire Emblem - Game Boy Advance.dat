@@ -125,6 +125,11 @@ game (
 	rom ( name "26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]" size "16777216" crc "79609d14" )
 )
 game (
+	name "Fire Emblem - Shining Armor"
+	description "Fire Emblem - Shining Armor"
+	rom ( name "102 - Fire Emblem - Shining Armor" size "16788636" crc "67368bbb" )
+)
+game (
 	name "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]"
 	description "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]"
 	rom ( name "28 - Fire Emblem - Sword of Seals (English Translation v2" size "16777216" crc "35f5b06b" )
@@ -132,7 +137,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)"

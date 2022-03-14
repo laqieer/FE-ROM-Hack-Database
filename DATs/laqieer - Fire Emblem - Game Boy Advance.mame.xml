@@ -69,6 +69,9 @@
 	<machine name="Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
 		<rom name="26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="16777216" crc="79609d14" />
 	</machine>
+	<machine name="Fire Emblem - Shining Armor">
+		<rom name="102 - Fire Emblem - Shining Armor" size="16788636" crc="67368bbb" />
+	</machine>
 	<machine name="Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]">
 		<rom name="28 - Fire Emblem - Sword of Seals (English Translation v2" size="16777216" crc="35f5b06b" />
 	</machine>

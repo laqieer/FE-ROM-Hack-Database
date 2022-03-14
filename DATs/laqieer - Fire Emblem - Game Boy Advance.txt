@@ -22,6 +22,7 @@ Fire Emblem - Seima no Kouseki (Japan);;laqieer - Fire Emblem - Game Boy Advance
 Fire Emblem - Seima no Kouseki (Japan) (Beta);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/the-sacred-stones/general/prototype-information/;
 Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 圣魔之光石[盗版&谁的长乐未央][简];
 Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.fireemblem.net/fe/download/index.htm;
+Fire Emblem - Shining Armor;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.romhacking.net/hacks/538/;
 Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.romhacking.net/translations/854/;
 Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/;
 Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;

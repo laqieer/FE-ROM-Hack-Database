@@ -449,6 +449,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Shining Armor</name>
+				<comment>http://www.romhacking.net/hacks/538/</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>102 - Fire Emblem - Shining Armor</name>
+					<size>16788636</size>
+					<crc>67368bbb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]</name>
 				<comment>http://www.romhacking.net/translations/854/</comment>
 				<publisher>Fan Translation</publisher>

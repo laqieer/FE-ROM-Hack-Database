@@ -519,6 +519,22 @@
 			<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 			<duplicateID>0</duplicateID>
 		</game>
+		<game>
+			<imageNumber>102</imageNumber>
+			<releaseNumber>102</releaseNumber>
+			<title>Fire Emblem - Shining Armor</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16788636</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">67368BBB</romCRC></files>
+			<im1CRC>7B9D6596</im1CRC>
+			<im2CRC>81C23E06</im2CRC>
+			<comment>http://www.romhacking.net/hacks/538/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="487" height="162">

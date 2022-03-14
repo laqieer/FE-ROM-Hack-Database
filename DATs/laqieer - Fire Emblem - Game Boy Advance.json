@@ -521,6 +521,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Shining Armor",
+				"comment": "http://www.romhacking.net/hacks/538/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "102 - Fire Emblem - Shining Armor",
+						"size": 16788636,
+						"crc": "67368bbb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]",
 				"comment": "http://www.romhacking.net/translations/854/",
 				"description": null,

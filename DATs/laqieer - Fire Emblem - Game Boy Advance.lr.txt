@@ -90,6 +90,10 @@ ROMs required for driver "Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe]
 Name                                   Size Checksum
 26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]          16777216 CRC(79609d14)
 
+ROMs required for driver "Fire Emblem - Shining Armor".
+Name                                   Size Checksum
+102 - Fire Emblem - Shining Armor  16788636 CRC(67368bbb)
+
 ROMs required for driver "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]".
 Name                                   Size Checksum
 28 - Fire Emblem - Sword of Seals (English Translation v2          16777216 CRC(35f5b06b)

@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220313</datVersion>
+		<datVersion>20220315</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -752,7 +752,7 @@
 			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Kokué</sourceRom>
-			<language>11</language>
+			<language>4096</language>
 			<files><romCRC extension=".gba">8EA1444D</romCRC></files>
 			<im1CRC>FC674D1F</im1CRC>
 			<im2CRC>CB2B5717</im2CRC>
@@ -804,7 +804,7 @@
 			<files><romCRC extension=".gba">88A038EC</romCRC></files>
 			<im1CRC>E31A2D64</im1CRC>
 			<im2CRC>B6C655D5</im2CRC>
-			<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+			<comment>https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>

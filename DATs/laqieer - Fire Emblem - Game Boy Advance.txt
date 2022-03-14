@@ -1,7 +1,7 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
 Blazer’s One Day Hack;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/;
 Boss War;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688;
-Carcino’s Civil War;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684;
+Carcino’s Civil War;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319;
 Christmas Crossover Carol;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7us-christmas-crossover-carol/4743;
 Cornwell’s Ascension;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://www.cornwellsascension.com/;
 Corrupt Theocracy;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/24634-fire-emblem-corrupt-theocracy/;

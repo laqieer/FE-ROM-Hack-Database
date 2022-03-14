@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220313</version>
+		<version>20220315</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -135,7 +135,7 @@
 		<directory>
 			<machine>
 				<name>Carcino’s Civil War</name>
-				<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+				<comment>https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>

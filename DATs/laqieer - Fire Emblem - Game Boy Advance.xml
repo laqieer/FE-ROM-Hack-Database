@@ -13,156 +13,346 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="Fire Emblem (Europe) (En,Es,It)">
+	<game name="Blazer’s One Day Hack">
+		<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
+	</game>
+	<game name="Boss War">
+		<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
+	</game>
+	<game name="Carcino’s Civil War">
+		<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
+	</game>
+	<game name="Christmas Crossover Carol">
+		<comment>https://feuniverse.us/t/fe7us-christmas-crossover-carol/4743</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="121 - Christmas Crossover Carol" size="16831344" crc="676c6d7f" />
+	</game>
+	<game name="Cornwell’s Ascension">
+		<comment>https://www.cornwellsascension.com/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="138 - Cornwell’s Ascension" size="17109180" crc="6ad635db" />
+	</game>
+	<game name="Corrupt Theocracy">
+		<comment>https://forums.serenesforest.net/index.php?/topic/24634-fire-emblem-corrupt-theocracy/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="107 - Corrupt Theocracy" size="16873266" crc="928dbeb0" />
+	</game>
+	<game name="Dark Lord and the Maiden of Light">
+		<comment>https://feuniverse.us/t/fire-emblem-dark-lord-and-the-maiden-of-light/6463</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
+	</game>
+	<game name="Fallen King">
+		<comment>https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="114 - Fallen King" size="17826340" crc="8b2cbe45" />
+	</game>
+	<game name="FE7 Inflation">
+		<comment>ファイアーエムブレム 烈火の剣inflation Ver.20090517</comment>
+		<publisher>Reskin</publisher>
+		<rom name="112 - FE7 Inflation" size="17825792" crc="6ea83897" />
+	</game>
+	<game name="FE7if">
+		<comment>https://seesaawiki.jp/fe7if/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+	</game>
+	<game name="Fire Emblem (Europe) (En,Es,It)">
 		<comment>[Eng-Ita-Spa]</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="5 - Fire Emblem (Europe) (En,Es,It)" size="16777216" crc="9decc754" />
-	</machine>
-	<machine name="Fire Emblem (Europe) (En,Fr,De)">
+	</game>
+	<game name="Fire Emblem (Europe) (En,Fr,De)">
 		<comment>[Eng-Fre-Ger]</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="4 - Fire Emblem (Europe) (En,Fr,De)" size="16777216" crc="4a805ed1" />
-	</machine>
-	<machine name="Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)">
+	</game>
+	<game name="Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)">
 		<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-266738.html</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)" size="16777216" crc="335c5855" />
-	</machine>
-	<machine name="Fire Emblem (USA) (Wii U Virtual Console)">
+	</game>
+	<game name="Fire Emblem (USA) (Wii U Virtual Console)">
 		<publisher>Nintendo</publisher>
 		<rom name="13 - Fire Emblem (USA) (Wii U Virtual Console)" size="16777216" crc="1b8713c7" />
-	</machine>
-	<machine name="Fire Emblem (USA, Australia)">
+	</game>
+	<game name="Fire Emblem (USA, Australia)">
 		<comment>https://tanasmanor.net/sites/fe7/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]">
+	</game>
+	<game name="Fire Emblem - Barhara Revisited">
+		<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529368" crc="15482be6" />
+	</game>
+	<game name="Fire Emblem - Death or Glory">
+		<comment>https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="124 - Fire Emblem - Death or Glory" size="19915268" crc="cf613764" />
+	</game>
+	<game name="Fire Emblem - Different Dimensions Ostian Princess 2.0">
+		<comment>https://feuniverse.us/t/fire-emblem-different-dimensions-ostian-princess-2-0/1551</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="122 - Fire Emblem - Different Dimensions Ostian Princess 2" size="17357684" crc="624f1b70" />
+	</game>
+	<game name="Fire Emblem - Feud of the Fangs">
+		<comment>https://laqieer.github.io/game-modding.html</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="139 - Fire Emblem - Feud of the Fangs" size="16805464" crc="7b2765bc" />
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]">
 		<comment> 神游版火纹战记（未发售）</comment>
 		<publisher>iQue</publisher>
 		<rom name="16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]" size="16777216" crc="8cebef1e" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (Japan)">
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (Japan)">
 		<comment>https://www.nintendo.co.jp/n08/afej/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="1 - Fire Emblem - Fuuin no Tsurugi (Japan)" size="8388608" crc="d38763e1" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]">
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]">
 		<comment>火焰纹章 - 封印之剑[CGP&amp;W_anthony](简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="21 - Fire Emblem - Fuuin no Tsurugi (Japan)[CGP &amp; W_anthony][CHS]" size="10415546" crc="4a7bf795" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]">
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]">
 		<comment>火焰纹章 - 封印之剑[Superxyj](简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]" size="9676785" crc="823c3801" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1.1)(2006090701) [CHS]">
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1.1)(2006090701) [CHS]">
 		<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v1.1)(2006090701) (简) (火花加料版)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v1" size="8388608" crc="1ccf7040" />
-	</machine>
-	<machine name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
+	</game>
+	<game name="Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
 		<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
-	</machine>
-	<machine name="Fire Emblem - Heroes Remake">
+	</game>
+	<game name="Fire Emblem - Heroes Remake">
 		<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan)">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)">
 		<comment>https://www.nintendo.co.jp/n08/ae7j/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="2 - Fire Emblem - Rekka no Ken (Japan)" size="16777216" crc="f0c10e72" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)">
 		<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)" size="16777216" crc="b40d6854" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)">
 		<comment>https://serenesforest.net/blazing-sword/general/prototype-information/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)" size="16777216" crc="8146a270" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]">
 		<comment>火焰纹章 - 烈火之剑[CGP](简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="24 - Fire Emblem - Rekka no Ken (Japan)[CGP][CHS]" size="19030368" crc="042c159c" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]">
 		<comment>火焰纹章 - 烈火之剑[Superxyj](简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]" size="19086336" crc="eafa4ef0" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1.3)(20060908) [CHS]">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1.3)(20060908) [CHS]">
 		<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="31 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1" size="16777216" crc="4186d6e5" />
-	</machine>
-	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
 		<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]" size="16777216" crc="7aef4edc" />
-	</machine>
-	<machine name="Fire Emblem - Seima no Kouseki (Japan)">
+	</game>
+	<game name="Fire Emblem - Seima no Kouseki (Japan)">
 		<comment>https://www.nintendo.co.jp/n08/be8j/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="6 - Fire Emblem - Seima no Kouseki (Japan)" size="16777216" crc="9d76826f" />
-	</machine>
-	<machine name="Fire Emblem - Seima no Kouseki (Japan) (Beta)">
+	</game>
+	<game name="Fire Emblem - Seima no Kouseki (Japan) (Beta)">
 		<comment>https://serenesforest.net/the-sacred-stones/general/prototype-information/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)" size="16777216" crc="cd9d8972" />
-	</machine>
-	<machine name="Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]">
+	</game>
+	<game name="Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]">
 		<comment>火焰纹章 - 圣魔之光石[盗版&amp;谁的长乐未央][简]</comment>
 		<publisher>Bootleg Translation</publisher>
 		<rom name="27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg &amp; Shuidechangleweiyang][CHS]" size="16777216" crc="223f8fc4" />
-	</machine>
-	<machine name="Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
+	</game>
+	<game name="Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]">
 		<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="16777216" crc="79609d14" />
-	</machine>
-	<machine name="Fire Emblem - Shining Armor">
-		<comment>http://www.romhacking.net/hacks/538/</comment>
+	</game>
+	<game name="Fire Emblem - Sword of Heaven and Earth (Menu Translation)">
+		<comment>https://feuniverse.us/t/fire-emblem-sword-of-heaven-and-earth-menu-translation/2948</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="102 - Fire Emblem - Shining Armor" size="16788636" crc="67368bbb" />
-	</machine>
-	<machine name="Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]">
+		<rom name="111 - Fire Emblem - Sword of Heaven and Earth (Menu Translation)" size="27379316" crc="d3146773" />
+	</game>
+	<game name="Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]">
 		<comment>http://www.romhacking.net/translations/854/</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="28 - Fire Emblem - Sword of Seals (English Translation v2" size="16777216" crc="35f5b06b" />
-	</machine>
-	<machine name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
+	</game>
+	<game name="Fire Emblem - Tenchi no Ken (Japan)">
+		<comment>http://38.doorblog.jp/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="110 - Fire Emblem - Tenchi no Ken (Japan)" size="27323016" crc="f925dd29" />
+	</game>
+	<game name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
 		<comment>https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="29 - Fire Emblem - The Binding Blade (English Localization v1" size="8587268" crc="c5ccd529" />
-	</machine>
-	<machine name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)">
+	</game>
+	<game name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)">
 		<publisher>Nintendo</publisher>
 		<rom name="8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)" size="33554432" crc="b3005195" />
-	</machine>
-	<machine name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)">
+	</game>
+	<game name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)">
 		<comment>https://www.nintendo.co.uk/Games/Game-Boy-Advance/Fire-Emblem-The-Sacred-Stones-266749.html</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)" size="33554432" crc="2653401a" />
-	</machine>
-	<machine name="Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)">
+	</game>
+	<game name="Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)">
 		<publisher>Nintendo</publisher>
 		<rom name="12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)" size="16777216" crc="dea3b767" />
-	</machine>
-	<machine name="Fire Emblem - The Sacred Stones (USA, Australia)">
+	</game>
+	<game name="Fire Emblem - The Sacred Stones (USA, Australia)">
 		<comment>https://tanasmanor.net/sites/fe8/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="7 - Fire Emblem - The Sacred Stones (USA, Australia)" size="16777216" crc="a47246ae" />
-	</machine>
-	<machine name="Fire Emblem - Will of Good and Evil">
+	</game>
+	<game name="Fire Emblem - Will of Good and Evil">
 		<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="101 - Fire Emblem - Will of Good and Evil" size="16777216" crc="9cbb923e" />
-	</machine>
+	</game>
+	<game name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)">
+		<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="117 - Fire Emblem [Latino] 2" size="25224852" crc="fc2b8ed3" />
+	</game>
+	<game name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)">
+		<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="116 - Fire Emblem [Latino] 2" size="25198924" crc="8ea1444d" />
+	</game>
+	<game name="Fire Emblem Poop">
+		<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+	</game>
+	<game name="Fire Emblem Versus">
+		<comment>https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
+	</game>
+	<game name="Maiden Quest">
+		<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+	</game>
+	<game name="Prisoner of Darkness">
+		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />
+	</game>
+	<game name="Prisoner of Darkness (Hard Mode)">
+		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+	</game>
+	<game name="Ragefest 5 DLC">
+		<comment>https://feuniverse.us/t/rfv-dlc-official-release/5675</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
+	</game>
+	<game name="Requiem">
+		<comment>https://forums.serenesforest.net/index.php?/topic/54594-fire-emblem-requiem-v14-is-up/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+	</game>
+	<game name="Sacred Contention">
+		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
+	</game>
+	<game name="Sacred Contention (DS Battle Background Mode)">
+		<comment>Buggy title screen</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="c1ce811a" />
+	</game>
+	<game name="Sacred Contention (E-Rank Mode)">
+		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="130 - Sacred Contention (E-Rank Mode)" size="19125992" crc="b9c52723" />
+	</game>
+	<game name="Sacred Contention (No Supports Mode)">
+		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="131 - Sacred Contention (No Supports Mode)" size="19125992" crc="7b7cc292" />
+	</game>
+	<game name="Sacred Contention (Still Mode)">
+		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
+	</game>
+	<game name="Shining Armor">
+		<comment>http://www.romhacking.net/hacks/538/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+	</game>
+	<game name="The Last Promise">
+		<comment>http://www.feshrine.net/thelastpromise/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
+	</game>
+	<game name="The Last Promise (Chaos Mode DEMO)">
+		<comment>http://www.feshrine.net/thelastpromise/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="105 - The Last Promise (Chaos Mode DEMO)" size="32446048" crc="365cf432" />
+	</game>
+	<game name="The Last Promise (Easy Mode)">
+		<comment>http://www.feshrine.net/thelastpromise/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="104 - The Last Promise (Easy Mode)" size="32445120" crc="be1b4153" />
+	</game>
+	<game name="The Last Promise (Weapon Reversal)">
+		<comment>https://feuniverse.us/t/tlp-weapon-reversal/5339</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+	</game>
+	<game name="The Road to Ruin">
+		<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="108 - The Road to Ruin" size="21666332" crc="6522df69" />
+	</game>
+	<game name="Unburdened Liberty">
+		<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+	</game>
+	<game name="Vs. Mode">
+		<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
+	</game>
+	<game name="Yuri’s Sidestory">
+		<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="126 - Yuri’s Sidestory" size="19915124" crc="8c417a5c" />
+	</game>
 </datafile>

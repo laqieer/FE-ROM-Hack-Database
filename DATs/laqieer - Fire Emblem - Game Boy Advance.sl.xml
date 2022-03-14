@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
+	<software name="Blazer’s One Day Hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Boss War">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Carcino’s Civil War">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Christmas Crossover Carol">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="121 - Christmas Crossover Carol" size="16831344" crc="676c6d7f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Cornwell’s Ascension">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="138 - Cornwell’s Ascension" size="17109180" crc="6ad635db" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Corrupt Theocracy">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="107 - Corrupt Theocracy" size="16873266" crc="928dbeb0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dark Lord and the Maiden of Light">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fallen King">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="114 - Fallen King" size="17826340" crc="8b2cbe45" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Inflation">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="112 - FE7 Inflation" size="17825792" crc="6ea83897" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7if">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem (Europe) (En,Es,It)">
 		<publisher>Nintendo</publisher>
 		<part name="" interface="">
@@ -38,6 +118,38 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Barhara Revisited">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="123 - Fire Emblem - Barhara Revisited" size="17529368" crc="15482be6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Death or Glory">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="124 - Fire Emblem - Death or Glory" size="19915268" crc="cf613764" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Different Dimensions Ostian Princess 2.0">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="122 - Fire Emblem - Different Dimensions Ostian Princess 2" size="17357684" crc="624f1b70" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Feud of the Fangs">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="139 - Fire Emblem - Feud of the Fangs" size="16805464" crc="7b2765bc" />
 			</dataarea>
 		</part>
 	</software>
@@ -185,11 +297,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Fire Emblem - Shining Armor">
+	<software name="Fire Emblem - Sword of Heaven and Earth (Menu Translation)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="102 - Fire Emblem - Shining Armor" size="16788636" crc="67368bbb" />
+				<rom name="111 - Fire Emblem - Sword of Heaven and Earth (Menu Translation)" size="27379316" crc="d3146773" />
 			</dataarea>
 		</part>
 	</software>
@@ -198,6 +310,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="28 - Fire Emblem - Sword of Seals (English Translation v2" size="16777216" crc="35f5b06b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Tenchi no Ken (Japan)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="110 - Fire Emblem - Tenchi no Ken (Japan)" size="27323016" crc="f925dd29" />
 			</dataarea>
 		</part>
 	</software>
@@ -246,6 +366,190 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="101 - Fire Emblem - Will of Good and Evil" size="16777216" crc="9cbb923e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="117 - Fire Emblem [Latino] 2" size="25224852" crc="fc2b8ed3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="116 - Fire Emblem [Latino] 2" size="25198924" crc="8ea1444d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem Poop">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem Versus">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Maiden Quest">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Prisoner of Darkness">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Prisoner of Darkness (Hard Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Ragefest 5 DLC">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Requiem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Contention">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Contention (DS Battle Background Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="c1ce811a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Contention (E-Rank Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="130 - Sacred Contention (E-Rank Mode)" size="19125992" crc="b9c52723" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Contention (No Supports Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="131 - Sacred Contention (No Supports Mode)" size="19125992" crc="7b7cc292" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Contention (Still Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Shining Armor">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise (Chaos Mode DEMO)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="105 - The Last Promise (Chaos Mode DEMO)" size="32446048" crc="365cf432" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise (Easy Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="104 - The Last Promise (Easy Mode)" size="32445120" crc="be1b4153" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise (Weapon Reversal)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Road to Ruin">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="108 - The Road to Ruin" size="21666332" crc="6522df69" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Unburdened Liberty">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Vs. Mode">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Yuri’s Sidestory">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="126 - Yuri’s Sidestory" size="19915124" crc="8c417a5c" />
 			</dataarea>
 		</part>
 	</software>

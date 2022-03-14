@@ -522,7 +522,7 @@
 		<game>
 			<imageNumber>102</imageNumber>
 			<releaseNumber>102</releaseNumber>
-			<title>Fire Emblem - Shining Armor</title>
+			<title>Shining Armor</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16788636</romSize>
 			<publisher>Fan Modding</publisher>
@@ -533,6 +533,614 @@
 			<im1CRC>7B9D6596</im1CRC>
 			<im2CRC>81C23E06</im2CRC>
 			<comment>http://www.romhacking.net/hacks/538/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>103</imageNumber>
+			<releaseNumber>103</releaseNumber>
+			<title>The Last Promise</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>32505856</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D1C6E5D5</romCRC></files>
+			<im1CRC>8E8D7CA0</im1CRC>
+			<im2CRC>F1F13A9D</im2CRC>
+			<comment>http://www.feshrine.net/thelastpromise/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>104</imageNumber>
+			<releaseNumber>104</releaseNumber>
+			<title>The Last Promise (Easy Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>32445120</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BE1B4153</romCRC></files>
+			<im1CRC>94A4FD76</im1CRC>
+			<im2CRC>7E21E3DC</im2CRC>
+			<comment>http://www.feshrine.net/thelastpromise/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>105</imageNumber>
+			<releaseNumber>105</releaseNumber>
+			<title>The Last Promise (Chaos Mode DEMO)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>32446048</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">365CF432</romCRC></files>
+			<im1CRC>8E8D7CA0</im1CRC>
+			<im2CRC>3312C5E3</im2CRC>
+			<comment>http://www.feshrine.net/thelastpromise/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>106</imageNumber>
+			<releaseNumber>106</releaseNumber>
+			<title>The Last Promise (Weapon Reversal)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>33302356</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">38F7A2C6</romCRC></files>
+			<im1CRC>FE831BDA</im1CRC>
+			<im2CRC>FB5D378E</im2CRC>
+			<comment>https://feuniverse.us/t/tlp-weapon-reversal/5339</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>107</imageNumber>
+			<releaseNumber>107</releaseNumber>
+			<title>Corrupt Theocracy</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16873266</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blademaster</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">928DBEB0</romCRC></files>
+			<im1CRC>51C790C3</im1CRC>
+			<im2CRC>D28B41FD</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/24634-fire-emblem-corrupt-theocracy/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>108</imageNumber>
+			<releaseNumber>108</releaseNumber>
+			<title>The Road to Ruin</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21666332</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Primefusion</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">6522DF69</romCRC></files>
+			<im1CRC>E9EA8985</im1CRC>
+			<im2CRC>9BB83838</im2CRC>
+			<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>109</imageNumber>
+			<releaseNumber>109</releaseNumber>
+			<title>FE7if</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>FE7if</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">6ECA79CE</romCRC></files>
+			<im1CRC>8846C665</im1CRC>
+			<im2CRC>6A7BD98F</im2CRC>
+			<comment>https://seesaawiki.jp/fe7if/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>110</imageNumber>
+			<releaseNumber>110</releaseNumber>
+			<title>Fire Emblem - Tenchi no Ken (Japan)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>27323016</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>38%</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">F925DD29</romCRC></files>
+			<im1CRC>B97B7DAD</im1CRC>
+			<im2CRC>AE6C78B5</im2CRC>
+			<comment>http://38.doorblog.jp/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>111</imageNumber>
+			<releaseNumber>111</releaseNumber>
+			<title>Fire Emblem - Sword of Heaven and Earth (Menu Translation)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>27379316</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Kirb</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D3146773</romCRC></files>
+			<im1CRC>4586741F</im1CRC>
+			<im2CRC>6C8411BE</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-sword-of-heaven-and-earth-menu-translation/2948</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>112</imageNumber>
+			<releaseNumber>112</releaseNumber>
+			<title>FE7 Inflation</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FE7 Inflation</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">6EA83897</romCRC></files>
+			<im1CRC>75F4668D</im1CRC>
+			<im2CRC>8D5C58FF</im2CRC>
+			<comment>ファイアーエムブレム 烈火の剣inflation Ver.20090517</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>113</imageNumber>
+			<releaseNumber>113</releaseNumber>
+			<title>Requiem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18774852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Sacred Blaze</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1225EFFF</romCRC></files>
+			<im1CRC>ADBED3F6</im1CRC>
+			<im2CRC>DA0C4E88</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/54594-fire-emblem-requiem-v14-is-up/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>114</imageNumber>
+			<releaseNumber>114</releaseNumber>
+			<title>Fallen King</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17826340</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MonopolyRubix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8B2CBE45</romCRC></files>
+			<im1CRC>61609046</im1CRC>
+			<im2CRC>C8AE056D</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>115</imageNumber>
+			<releaseNumber>115</releaseNumber>
+			<title>Boss War</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25171160</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">186ECC6E</romCRC></files>
+			<im1CRC>EE92232D</im1CRC>
+			<im2CRC>045659A0</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>116</imageNumber>
+			<releaseNumber>116</releaseNumber>
+			<title>Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25198924</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Kokué</sourceRom>
+			<language>11</language>
+			<files><romCRC extension=".gba">8EA1444D</romCRC></files>
+			<im1CRC>FC674D1F</im1CRC>
+			<im2CRC>CB2B5717</im2CRC>
+			<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>117</imageNumber>
+			<releaseNumber>117</releaseNumber>
+			<title>Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25224852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Kokué</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FC2B8ED3</romCRC></files>
+			<im1CRC>FC674D1F</im1CRC>
+			<im2CRC>E04D2BA9</im2CRC>
+			<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>118</imageNumber>
+			<releaseNumber>118</releaseNumber>
+			<title>Fire Emblem Poop</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>24492260</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Tambo</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8D1DB15C</romCRC></files>
+			<im1CRC>57083101</im1CRC>
+			<im2CRC>8E15B5FD</im2CRC>
+			<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>119</imageNumber>
+			<releaseNumber>119</releaseNumber>
+			<title>Carcino’s Civil War</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17378852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Pwntagonist</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">88A038EC</romCRC></files>
+			<im1CRC>E31A2D64</im1CRC>
+			<im2CRC>B6C655D5</im2CRC>
+			<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>120</imageNumber>
+			<releaseNumber>120</releaseNumber>
+			<title>Dark Lord and the Maiden of Light</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>24393296</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>TytheBub</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">2EDD404D</romCRC></files>
+			<im1CRC>78335076</im1CRC>
+			<im2CRC>08F24EF9</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dark-lord-and-the-maiden-of-light/6463</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>121</imageNumber>
+			<releaseNumber>121</releaseNumber>
+			<title>Christmas Crossover Carol</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16831344</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">676C6D7F</romCRC></files>
+			<im1CRC>B6633ECB</im1CRC>
+			<im2CRC>4FC04C24</im2CRC>
+			<comment>https://feuniverse.us/t/fe7us-christmas-crossover-carol/4743</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>122</imageNumber>
+			<releaseNumber>122</releaseNumber>
+			<title>Fire Emblem - Different Dimensions Ostian Princess 2.0</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17357684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Darrman</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">624F1B70</romCRC></files>
+			<im1CRC>E61C86FC</im1CRC>
+			<im2CRC>FD8840E2</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-different-dimensions-ostian-princess-2-0/1551</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>123</imageNumber>
+			<releaseNumber>123</releaseNumber>
+			<title>Fire Emblem - Barhara Revisited</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17529368</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Darrman</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">15482BE6</romCRC></files>
+			<im1CRC>7FD1D61D</im1CRC>
+			<im2CRC>79B4B496</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>124</imageNumber>
+			<releaseNumber>124</releaseNumber>
+			<title>Fire Emblem - Death or Glory</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19915268</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>NYZgamer3</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CF613764</romCRC></files>
+			<im1CRC>A095E99D</im1CRC>
+			<im2CRC>E356E57F</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>125</imageNumber>
+			<releaseNumber>125</releaseNumber>
+			<title>Maiden Quest</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19773496</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Cedar</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">F11864BD</romCRC></files>
+			<im1CRC>17015255</im1CRC>
+			<im2CRC>25860437</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>126</imageNumber>
+			<releaseNumber>126</releaseNumber>
+			<title>Yuri’s Sidestory</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19915124</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Mage Knight 404</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8C417A5C</romCRC></files>
+			<im1CRC>7FD1D61D</im1CRC>
+			<im2CRC>14B8B18B</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>127</imageNumber>
+			<releaseNumber>127</releaseNumber>
+			<title>Blazer’s One Day Hack</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20983928</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C68DB4EE</romCRC></files>
+			<im1CRC>B374EDA3</im1CRC>
+			<im2CRC>5E8962E3</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>128</imageNumber>
+			<releaseNumber>128</releaseNumber>
+			<title>Sacred Contention</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19125992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">34F11759</romCRC></files>
+			<im1CRC>51CA08CC</im1CRC>
+			<im2CRC>801CD55F</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>129</imageNumber>
+			<releaseNumber>129</releaseNumber>
+			<title>Sacred Contention (DS Battle Background Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C1CE811A</romCRC></files>
+			<im1CRC>8D52AC2C</im1CRC>
+			<im2CRC>791DB655</im2CRC>
+			<comment>Buggy title screen</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>130</imageNumber>
+			<releaseNumber>130</releaseNumber>
+			<title>Sacred Contention (E-Rank Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19125992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B9C52723</romCRC></files>
+			<im1CRC>5BB3796F</im1CRC>
+			<im2CRC>742D72AB</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>131</imageNumber>
+			<releaseNumber>131</releaseNumber>
+			<title>Sacred Contention (No Supports Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19125992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7B7CC292</romCRC></files>
+			<im1CRC>81AA18C3</im1CRC>
+			<im2CRC>6AEDE615</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>132</imageNumber>
+			<releaseNumber>132</releaseNumber>
+			<title>Sacred Contention (Still Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19125992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C2E7E8EA</romCRC></files>
+			<im1CRC>D02B615F</im1CRC>
+			<im2CRC>385831CD</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>133</imageNumber>
+			<releaseNumber>133</releaseNumber>
+			<title>Prisoner of Darkness (Hard Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20971560</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1BBB05E1</romCRC></files>
+			<im1CRC>B3984B48</im1CRC>
+			<im2CRC>BC922CB5</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>134</imageNumber>
+			<releaseNumber>134</releaseNumber>
+			<title>Fire Emblem Versus</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777284</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Kirb</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">47BA1139</romCRC></files>
+			<im1CRC>C0464DEB</im1CRC>
+			<im2CRC>AC39AF5A</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>135</imageNumber>
+			<releaseNumber>135</releaseNumber>
+			<title>Vs. Mode</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17066348</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Magix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">86FE30D3</romCRC></files>
+			<im1CRC>92B64974</im1CRC>
+			<im2CRC>313F365C</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>136</imageNumber>
+			<releaseNumber>136</releaseNumber>
+			<title>Unburdened Liberty</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21005868</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Pwntagonist</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B616CC93</romCRC></files>
+			<im1CRC>657F58C7</im1CRC>
+			<im2CRC>A0D0DE7B</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>137</imageNumber>
+			<releaseNumber>137</releaseNumber>
+			<title>Ragefest 5 DLC</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17194360</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MrNight</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0C516C3E</romCRC></files>
+			<im1CRC>DD3135F6</im1CRC>
+			<im2CRC>EEFC7211</im2CRC>
+			<comment>https://feuniverse.us/t/rfv-dlc-official-release/5675</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>138</imageNumber>
+			<releaseNumber>138</releaseNumber>
+			<title>Cornwell’s Ascension</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17109180</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>ErkTheMage</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">6AD635DB</romCRC></files>
+			<im1CRC>BE690BB4</im1CRC>
+			<im2CRC>87D94671</im2CRC>
+			<comment>https://www.cornwellsascension.com/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>139</imageNumber>
+			<releaseNumber>139</releaseNumber>
+			<title>Fire Emblem - Feud of the Fangs</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16805464</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>laqieer</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">7B2765BC</romCRC></files>
+			<im1CRC>8775B318</im1CRC>
+			<im2CRC>DBC6A545</im2CRC>
+			<comment>https://laqieer.github.io/game-modding.html</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>140</imageNumber>
+			<releaseNumber>140</releaseNumber>
+			<title>Prisoner of Darkness</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20971804</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">95F14EDD</romCRC></files>
+			<im1CRC>A019A988</im1CRC>
+			<im2CRC>B34BAC63</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

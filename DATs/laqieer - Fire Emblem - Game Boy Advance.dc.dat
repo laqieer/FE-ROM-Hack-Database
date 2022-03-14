@@ -8,6 +8,46 @@ DOSCenter (
 	Comment: https://github.com/laqieer/FE-ROM-Hack-Database
 )
 game (
+	name "Blazer’s One Day Hack.zip"
+	file ( name 127 - Blazer’s One Day Hack size 20983928 crc c68db4ee )
+)
+game (
+	name "Boss War.zip"
+	file ( name 115 - Boss War size 25171160 crc 186ecc6e )
+)
+game (
+	name "Carcino’s Civil War.zip"
+	file ( name 119 - Carcino’s Civil War size 17378852 crc 88a038ec )
+)
+game (
+	name "Christmas Crossover Carol.zip"
+	file ( name 121 - Christmas Crossover Carol size 16831344 crc 676c6d7f )
+)
+game (
+	name "Cornwell’s Ascension.zip"
+	file ( name 138 - Cornwell’s Ascension size 17109180 crc 6ad635db )
+)
+game (
+	name "Corrupt Theocracy.zip"
+	file ( name 107 - Corrupt Theocracy size 16873266 crc 928dbeb0 )
+)
+game (
+	name "Dark Lord and the Maiden of Light.zip"
+	file ( name 120 - Dark Lord and the Maiden of Light size 24393296 crc 2edd404d )
+)
+game (
+	name "Fallen King.zip"
+	file ( name 114 - Fallen King size 17826340 crc 8b2cbe45 )
+)
+game (
+	name "FE7 Inflation.zip"
+	file ( name 112 - FE7 Inflation size 17825792 crc 6ea83897 )
+)
+game (
+	name "FE7if.zip"
+	file ( name 109 - FE7if size 33554432 crc 6eca79ce )
+)
+game (
 	name "Fire Emblem (Europe) (En,Es,It).zip"
 	file ( name 5 - Fire Emblem (Europe) (En,Es,It) size 16777216 crc 9decc754 )
 )
@@ -26,6 +66,22 @@ game (
 game (
 	name "Fire Emblem (USA, Australia).zip"
 	file ( name 3 - Fire Emblem (USA, Australia) size 16777216 crc 2a524221 )
+)
+game (
+	name "Fire Emblem - Barhara Revisited.zip"
+	file ( name 123 - Fire Emblem - Barhara Revisited size 17529368 crc 15482be6 )
+)
+game (
+	name "Fire Emblem - Death or Glory.zip"
+	file ( name 124 - Fire Emblem - Death or Glory size 19915268 crc cf613764 )
+)
+game (
+	name "Fire Emblem - Different Dimensions Ostian Princess 2.0.zip"
+	file ( name 122 - Fire Emblem - Different Dimensions Ostian Princess 2 size 17357684 crc 624f1b70 )
+)
+game (
+	name "Fire Emblem - Feud of the Fangs.zip"
+	file ( name 139 - Fire Emblem - Feud of the Fangs size 16805464 crc 7b2765bc )
 )
 game (
 	name "Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS].zip"
@@ -100,16 +156,20 @@ game (
 	file ( name 26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS] size 16777216 crc 79609d14 )
 )
 game (
-	name "Fire Emblem - Shining Armor.zip"
-	file ( name 102 - Fire Emblem - Shining Armor size 16788636 crc 67368bbb )
+	name "Fire Emblem - Sword of Heaven and Earth (Menu Translation).zip"
+	file ( name 111 - Fire Emblem - Sword of Heaven and Earth (Menu Translation) size 27379316 crc d3146773 )
 )
 game (
 	name "Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division].zip"
 	file ( name 28 - Fire Emblem - Sword of Seals (English Translation v2 size 16777216 crc 35f5b06b )
 )
 game (
+	name "Fire Emblem - Tenchi no Ken (Japan).zip"
+	file ( name 110 - Fire Emblem - Tenchi no Ken (Japan) size 27323016 crc f925dd29 )
+)
+game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
 )
 game (
 	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It).zip"
@@ -130,4 +190,96 @@ game (
 game (
 	name "Fire Emblem - Will of Good and Evil.zip"
 	file ( name 101 - Fire Emblem - Will of Good and Evil size 16777216 crc 9cbb923e )
+)
+game (
+	name "Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English).zip"
+	file ( name 117 - Fire Emblem [Latino] 2 size 25224852 crc fc2b8ed3 )
+)
+game (
+	name "Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish).zip"
+	file ( name 116 - Fire Emblem [Latino] 2 size 25198924 crc 8ea1444d )
+)
+game (
+	name "Fire Emblem Poop.zip"
+	file ( name 118 - Fire Emblem Poop size 24492260 crc 8d1db15c )
+)
+game (
+	name "Fire Emblem Versus.zip"
+	file ( name 134 - Fire Emblem Versus size 16777284 crc 47ba1139 )
+)
+game (
+	name "Maiden Quest.zip"
+	file ( name 125 - Maiden Quest size 19773496 crc f11864bd )
+)
+game (
+	name "Prisoner of Darkness.zip"
+	file ( name 140 - Prisoner of Darkness size 20971804 crc 95f14edd )
+)
+game (
+	name "Prisoner of Darkness (Hard Mode).zip"
+	file ( name 133 - Prisoner of Darkness (Hard Mode) size 20971560 crc 1bbb05e1 )
+)
+game (
+	name "Ragefest 5 DLC.zip"
+	file ( name 137 - Ragefest 5 DLC size 17194360 crc 0c516c3e )
+)
+game (
+	name "Requiem.zip"
+	file ( name 113 - Requiem size 18774852 crc 1225efff )
+)
+game (
+	name "Sacred Contention.zip"
+	file ( name 128 - Sacred Contention size 19125992 crc 34f11759 )
+)
+game (
+	name "Sacred Contention (DS Battle Background Mode).zip"
+	file ( name 129 - Sacred Contention (DS Battle Background Mode) size 20971520 crc c1ce811a )
+)
+game (
+	name "Sacred Contention (E-Rank Mode).zip"
+	file ( name 130 - Sacred Contention (E-Rank Mode) size 19125992 crc b9c52723 )
+)
+game (
+	name "Sacred Contention (No Supports Mode).zip"
+	file ( name 131 - Sacred Contention (No Supports Mode) size 19125992 crc 7b7cc292 )
+)
+game (
+	name "Sacred Contention (Still Mode).zip"
+	file ( name 132 - Sacred Contention (Still Mode) size 19125992 crc c2e7e8ea )
+)
+game (
+	name "Shining Armor.zip"
+	file ( name 102 - Shining Armor size 16788636 crc 67368bbb )
+)
+game (
+	name "The Last Promise.zip"
+	file ( name 103 - The Last Promise size 32505856 crc d1c6e5d5 )
+)
+game (
+	name "The Last Promise (Chaos Mode DEMO).zip"
+	file ( name 105 - The Last Promise (Chaos Mode DEMO) size 32446048 crc 365cf432 )
+)
+game (
+	name "The Last Promise (Easy Mode).zip"
+	file ( name 104 - The Last Promise (Easy Mode) size 32445120 crc be1b4153 )
+)
+game (
+	name "The Last Promise (Weapon Reversal).zip"
+	file ( name 106 - The Last Promise (Weapon Reversal) size 33302356 crc 38f7a2c6 )
+)
+game (
+	name "The Road to Ruin.zip"
+	file ( name 108 - The Road to Ruin size 21666332 crc 6522df69 )
+)
+game (
+	name "Unburdened Liberty.zip"
+	file ( name 136 - Unburdened Liberty size 21005868 crc b616cc93 )
+)
+game (
+	name "Vs. Mode.zip"
+	file ( name 135 - Vs size 17066348 crc 86fe30d3 )
+)
+game (
+	name "Yuri’s Sidestory.zip"
+	file ( name 126 - Yuri’s Sidestory size 19915124 crc 8c417a5c )
 )

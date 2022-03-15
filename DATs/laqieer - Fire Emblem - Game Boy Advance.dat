@@ -90,6 +90,11 @@ game (
 	rom ( name "123 - Fire Emblem - Barhara Revisited" size "17529368" crc "15482be6" )
 )
 game (
+	name "Fire Emblem - Code of the Black Knights"
+	description "Fire Emblem - Code of the Black Knights"
+	rom ( name "150 - Fire Emblem - Code of the Black Knights" size "33016900" crc "c666f8b1" )
+)
+game (
 	name "Fire Emblem - Death or Glory"
 	description "Fire Emblem - Death or Glory"
 	rom ( name "124 - Fire Emblem - Death or Glory" size "19915268" crc "cf613764" )
@@ -138,6 +143,11 @@ game (
 	name "Fire Emblem - Heroes Remake"
 	description "Fire Emblem - Heroes Remake"
 	rom ( name "100 - Fire Emblem - Heroes Remake" size "31526756" crc "1c4fcc59" )
+)
+game (
+	name "Fire Emblem - Reawakening"
+	description "Fire Emblem - Reawakening"
+	rom ( name "146 - Fire Emblem - Reawakening" size "20016012" crc "9f92a410" )
 )
 game (
 	name "Fire Emblem - Rekka no Ken (Japan)"
@@ -212,7 +222,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)"
@@ -285,6 +295,11 @@ game (
 	rom ( name "113 - Requiem" size "18774852" crc "1225efff" )
 )
 game (
+	name "Resonance"
+	description "Resonance"
+	rom ( name "144 - Resonance" size "21319464" crc "7d35cc3c" )
+)
+game (
 	name "Sacred Contention"
 	description "Sacred Contention"
 	rom ( name "128 - Sacred Contention" size "19125992" crc "34f11759" )
@@ -292,7 +307,7 @@ game (
 game (
 	name "Sacred Contention (DS Battle Background Mode)"
 	description "Sacred Contention (DS Battle Background Mode)"
-	rom ( name "129 - Sacred Contention (DS Battle Background Mode)" size "20971520" crc "c1ce811a" )
+	rom ( name "129 - Sacred Contention (DS Battle Background Mode)" size "20971520" crc "4fccb155" )
 )
 game (
 	name "Sacred Contention (E-Rank Mode)"
@@ -313,6 +328,26 @@ game (
 	name "Shining Armor"
 	description "Shining Armor"
 	rom ( name "102 - Shining Armor" size "16788636" crc "67368bbb" )
+)
+game (
+	name "The Burdened Crown"
+	description "The Burdened Crown"
+	rom ( name "145 - The Burdened Crown" size "22485048" crc "489aff60" )
+)
+game (
+	name "The Burdened Crown (0 Growths)"
+	description "The Burdened Crown (0 Growths)"
+	rom ( name "147 - The Burdened Crown (0 Growths)" size "22485048" crc "25e8f03d" )
+)
+game (
+	name "The Burdened Crown (100 Growths)"
+	description "The Burdened Crown (100 Growths)"
+	rom ( name "148 - The Burdened Crown (100 Growths)" size "22485048" crc "c152923c" )
+)
+game (
+	name "The Burdened Crown (Blue)"
+	description "The Burdened Crown (Blue)"
+	rom ( name "149 - The Burdened Crown (Blue)" size "22485048" crc "0459d055" )
 )
 game (
 	name "The Last Promise"
@@ -343,6 +378,21 @@ game (
 	name "Unburdened Liberty"
 	description "Unburdened Liberty"
 	rom ( name "136 - Unburdened Liberty" size "21005868" crc "b616cc93" )
+)
+game (
+	name "Void’s Blitzarre Adventure"
+	description "Void’s Blitzarre Adventure"
+	rom ( name "141 - Void’s Blitzarre Adventure" size "18641452" crc "9d22107c" )
+)
+game (
+	name "Void’s Blitzarre Adventure - Blitz Tendency"
+	description "Void’s Blitzarre Adventure - Blitz Tendency"
+	rom ( name "142 - Void’s Blitzarre Adventure - Blitz Tendency" size "16777216" crc "e02d7a82" )
+)
+game (
+	name "Void’s Blitzarre Adventure - Blitz Tendency (debug)"
+	description "Void’s Blitzarre Adventure - Blitz Tendency (debug)"
+	rom ( name "143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size "16777216" crc "66f0a6d0" )
 )
 game (
 	name "Vs. Mode"

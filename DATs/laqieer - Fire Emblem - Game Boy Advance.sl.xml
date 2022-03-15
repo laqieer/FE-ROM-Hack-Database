@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="Blazer’s One Day Hack">
+	<software name="127 - Blazer’s One Day Hack">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -129,6 +129,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Code of the Black Knights">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="150 - Fire Emblem - Code of the Black Knights" size="33016900" crc="c666f8b1" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Death or Glory">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -206,6 +214,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Reawakening">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="146 - Fire Emblem - Reawakening" size="20016012" crc="9f92a410" />
 			</dataarea>
 		</part>
 	</software>
@@ -441,6 +457,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Resonance">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Contention">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -453,7 +477,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="c1ce811a" />
+				<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="4fccb155" />
 			</dataarea>
 		</part>
 	</software>
@@ -486,6 +510,38 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Burdened Crown">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="145 - The Burdened Crown" size="22485048" crc="489aff60" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Burdened Crown (0 Growths)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="147 - The Burdened Crown (0 Growths)" size="22485048" crc="25e8f03d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Burdened Crown (100 Growths)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="148 - The Burdened Crown (100 Growths)" size="22485048" crc="c152923c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Burdened Crown (Blue)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
 			</dataarea>
 		</part>
 	</software>
@@ -534,6 +590,30 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Void’s Blitzarre Adventure">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="141 - Void’s Blitzarre Adventure" size="18641452" crc="9d22107c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Void’s Blitzarre Adventure - Blitz Tendency">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="142 - Void’s Blitzarre Adventure - Blitz Tendency" size="16777216" crc="e02d7a82" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Void’s Blitzarre Adventure - Blitz Tendency (debug)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
 			</dataarea>
 		</part>
 	</software>

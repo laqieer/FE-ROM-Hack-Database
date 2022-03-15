@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="Blazer’s One Day Hack">
+	<machine name="127 - Blazer’s One Day Hack">
 		<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
@@ -92,6 +92,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529368" crc="15482be6" />
 	</machine>
+	<machine name="Fire Emblem - Code of the Black Knights">
+		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="150 - Fire Emblem - Code of the Black Knights" size="33016900" crc="c666f8b1" />
+	</machine>
 	<machine name="Fire Emblem - Death or Glory">
 		<comment>https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376</comment>
 		<publisher>Fan Modding</publisher>
@@ -141,6 +146,11 @@
 		<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+	</machine>
+	<machine name="Fire Emblem - Reawakening">
+		<comment>https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="146 - Fire Emblem - Reawakening" size="20016012" crc="9f92a410" />
 	</machine>
 	<machine name="Fire Emblem - Rekka no Ken (Japan)">
 		<comment>https://www.nintendo.co.jp/n08/ae7j/</comment>
@@ -285,15 +295,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
 	</machine>
+	<machine name="Resonance">
+		<comment>https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
+	</machine>
 	<machine name="Sacred Contention">
 		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
 	</machine>
 	<machine name="Sacred Contention (DS Battle Background Mode)">
-		<comment>Buggy title screen</comment>
+		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="c1ce811a" />
+		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="4fccb155" />
 	</machine>
 	<machine name="Sacred Contention (E-Rank Mode)">
 		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
@@ -314,6 +329,26 @@
 		<comment>http://www.romhacking.net/hacks/538/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+	</machine>
+	<machine name="The Burdened Crown">
+		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="145 - The Burdened Crown" size="22485048" crc="489aff60" />
+	</machine>
+	<machine name="The Burdened Crown (0 Growths)">
+		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="147 - The Burdened Crown (0 Growths)" size="22485048" crc="25e8f03d" />
+	</machine>
+	<machine name="The Burdened Crown (100 Growths)">
+		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="148 - The Burdened Crown (100 Growths)" size="22485048" crc="c152923c" />
+	</machine>
+	<machine name="The Burdened Crown (Blue)">
+		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
 	</machine>
 	<machine name="The Last Promise">
 		<comment>http://www.feshrine.net/thelastpromise/</comment>
@@ -344,6 +379,21 @@
 		<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure">
+		<comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="141 - Void’s Blitzarre Adventure" size="18641452" crc="9d22107c" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure - Blitz Tendency">
+		<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="142 - Void’s Blitzarre Adventure - Blitz Tendency" size="16777216" crc="e02d7a82" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure - Blitz Tendency (debug)">
+		<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
 	</machine>
 	<machine name="Vs. Mode">
 		<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>

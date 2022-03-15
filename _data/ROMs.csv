@@ -56,7 +56,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 126,Yuri’s Sidestory,Fan Modding,USA,Mage Knight 404,English,8C417A5C,https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/
 127,Blazer’s One Day Hack,Fan Modding,USA,Blazer,English,C68DB4EE,https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/
 128,Sacred Contention,Fan Modding,USA,Blazer,English,34F11759,https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/
-129,Sacred Contention (DS Battle Background Mode),Fan Modding,USA,Blazer,English,C1CE811A,Buggy title screen
+129,Sacred Contention (DS Battle Background Mode),Fan Modding,USA,Blazer,English,4FCCB155,https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/
 130,Sacred Contention (E-Rank Mode),Fan Modding,USA,Blazer,English,B9C52723,https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/
 131,Sacred Contention (No Supports Mode),Fan Modding,USA,Blazer,English,7B7CC292,https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/
 132,Sacred Contention (Still Mode),Fan Modding,USA,Blazer,English,C2E7E8EA,https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/
@@ -68,3 +68,13 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 138,Cornwell’s Ascension,Fan Modding,USA,ErkTheMage,English,6AD635DB,https://www.cornwellsascension.com/
 139,Fire Emblem - Feud of the Fangs,Fan Modding,Japan,laqieer,Japanese,7B2765BC,https://laqieer.github.io/game-modding.html
 140,Prisoner of Darkness,Fan Modding,USA,Blazer,English,95F14EDD,https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/
+141,Void’s Blitzarre Adventure,Fan Modding,USA,circleseverywhere,English,9D22107C,https://github.com/FireEmblemUniverse/CCB_Round1
+142,Void’s Blitzarre Adventure - Blitz Tendency,Fan Modding,USA,Colorz,English,E02D7A82,https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency
+143,Void’s Blitzarre Adventure - Blitz Tendency (debug),Fan Modding,USA,Colorz,English,66F0A6D0,https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency
+144,Resonance,Fan Modding,USA,Procrastinators Extraodinaire (Kirb),English,7D35CC3C,https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319
+145,The Burdened Crown,Fan Modding,USA,Grated Shtick,English,489AFF60,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175
+146,Fire Emblem - Reawakening,Fan Modding,USA,P33RL355,English,9F92A410,https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952
+147,The Burdened Crown (0 Growths),Fan Modding,USA,Grated Shtick,English,25E8F03D,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175
+148,The Burdened Crown (100 Growths),Fan Modding,USA,Grated Shtick,English,C152923C,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175
+149,The Burdened Crown (Blue),Fan Modding,USA,Grated Shtick,English,0459D055,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175
+150,Fire Emblem - Code of the Black Knights,Fan Modding,USA,Mycahel,English,C666F8B1,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175

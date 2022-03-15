@@ -11,7 +11,7 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬Blazer’s One Day Hack¬Blazer’s One Day Hack¬127 - Blazer’s One Day Hack¬c68db4ee¬20983928¬¬¬
+¬¬¬127 - Blazer’s One Day Hack¬127 - Blazer’s One Day Hack¬127 - Blazer’s One Day Hack¬c68db4ee¬20983928¬¬¬
 ¬¬¬Boss War¬Boss War¬115 - Boss War¬186ecc6e¬25171160¬¬¬
 ¬¬¬Carcino’s Civil War¬Carcino’s Civil War¬119 - Carcino’s Civil War¬88a038ec¬17378852¬¬¬
 ¬¬¬Christmas Crossover Carol¬Christmas Crossover Carol¬121 - Christmas Crossover Carol¬676c6d7f¬16831344¬¬¬
@@ -27,6 +27,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem (USA) (Wii U Virtual Console)¬Fire Emblem (USA) (Wii U Virtual Console)¬13 - Fire Emblem (USA) (Wii U Virtual Console)¬1b8713c7¬16777216¬¬¬
 ¬¬¬Fire Emblem (USA, Australia)¬Fire Emblem (USA, Australia)¬3 - Fire Emblem (USA, Australia)¬2a524221¬16777216¬¬¬
 ¬¬¬Fire Emblem - Barhara Revisited¬Fire Emblem - Barhara Revisited¬123 - Fire Emblem - Barhara Revisited¬15482be6¬17529368¬¬¬
+¬¬¬Fire Emblem - Code of the Black Knights¬Fire Emblem - Code of the Black Knights¬150 - Fire Emblem - Code of the Black Knights¬c666f8b1¬33016900¬¬¬
 ¬¬¬Fire Emblem - Death or Glory¬Fire Emblem - Death or Glory¬124 - Fire Emblem - Death or Glory¬cf613764¬19915268¬¬¬
 ¬¬¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬122 - Fire Emblem - Different Dimensions Ostian Princess 2.0¬624f1b70¬17357684¬¬¬
 ¬¬¬Fire Emblem - Feud of the Fangs¬Fire Emblem - Feud of the Fangs¬139 - Fire Emblem - Feud of the Fangs¬7b2765bc¬16805464¬¬¬
@@ -37,6 +38,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬1ccf7040¬8388608¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬1f19d989¬8388608¬¬¬
 ¬¬¬Fire Emblem - Heroes Remake¬Fire Emblem - Heroes Remake¬100 - Fire Emblem - Heroes Remake¬1c4fcc59¬31526756¬¬¬
+¬¬¬Fire Emblem - Reawakening¬Fire Emblem - Reawakening¬146 - Fire Emblem - Reawakening¬9f92a410¬20016012¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan)¬Fire Emblem - Rekka no Ken (Japan)¬2 - Fire Emblem - Rekka no Ken (Japan)¬f0c10e72¬16777216¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬b40d6854¬16777216¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬8146a270¬16777216¬¬¬
@@ -66,17 +68,25 @@ version=Fire Emblem ROM hacks
 ¬¬¬Prisoner of Darkness (Hard Mode)¬Prisoner of Darkness (Hard Mode)¬133 - Prisoner of Darkness (Hard Mode)¬1bbb05e1¬20971560¬¬¬
 ¬¬¬Ragefest 5 DLC¬Ragefest 5 DLC¬137 - Ragefest 5 DLC¬0c516c3e¬17194360¬¬¬
 ¬¬¬Requiem¬Requiem¬113 - Requiem¬1225efff¬18774852¬¬¬
+¬¬¬Resonance¬Resonance¬144 - Resonance¬7d35cc3c¬21319464¬¬¬
 ¬¬¬Sacred Contention¬Sacred Contention¬128 - Sacred Contention¬34f11759¬19125992¬¬¬
-¬¬¬Sacred Contention (DS Battle Background Mode)¬Sacred Contention (DS Battle Background Mode)¬129 - Sacred Contention (DS Battle Background Mode)¬c1ce811a¬20971520¬¬¬
+¬¬¬Sacred Contention (DS Battle Background Mode)¬Sacred Contention (DS Battle Background Mode)¬129 - Sacred Contention (DS Battle Background Mode)¬4fccb155¬20971520¬¬¬
 ¬¬¬Sacred Contention (E-Rank Mode)¬Sacred Contention (E-Rank Mode)¬130 - Sacred Contention (E-Rank Mode)¬b9c52723¬19125992¬¬¬
 ¬¬¬Sacred Contention (No Supports Mode)¬Sacred Contention (No Supports Mode)¬131 - Sacred Contention (No Supports Mode)¬7b7cc292¬19125992¬¬¬
 ¬¬¬Sacred Contention (Still Mode)¬Sacred Contention (Still Mode)¬132 - Sacred Contention (Still Mode)¬c2e7e8ea¬19125992¬¬¬
 ¬¬¬Shining Armor¬Shining Armor¬102 - Shining Armor¬67368bbb¬16788636¬¬¬
+¬¬¬The Burdened Crown¬The Burdened Crown¬145 - The Burdened Crown¬489aff60¬22485048¬¬¬
+¬¬¬The Burdened Crown (0 Growths)¬The Burdened Crown (0 Growths)¬147 - The Burdened Crown (0 Growths)¬25e8f03d¬22485048¬¬¬
+¬¬¬The Burdened Crown (100 Growths)¬The Burdened Crown (100 Growths)¬148 - The Burdened Crown (100 Growths)¬c152923c¬22485048¬¬¬
+¬¬¬The Burdened Crown (Blue)¬The Burdened Crown (Blue)¬149 - The Burdened Crown (Blue)¬0459d055¬22485048¬¬¬
 ¬¬¬The Last Promise¬The Last Promise¬103 - The Last Promise¬d1c6e5d5¬32505856¬¬¬
 ¬¬¬The Last Promise (Chaos Mode DEMO)¬The Last Promise (Chaos Mode DEMO)¬105 - The Last Promise (Chaos Mode DEMO)¬365cf432¬32446048¬¬¬
 ¬¬¬The Last Promise (Easy Mode)¬The Last Promise (Easy Mode)¬104 - The Last Promise (Easy Mode)¬be1b4153¬32445120¬¬¬
 ¬¬¬The Last Promise (Weapon Reversal)¬The Last Promise (Weapon Reversal)¬106 - The Last Promise (Weapon Reversal)¬38f7a2c6¬33302356¬¬¬
 ¬¬¬The Road to Ruin¬The Road to Ruin¬108 - The Road to Ruin¬6522df69¬21666332¬¬¬
 ¬¬¬Unburdened Liberty¬Unburdened Liberty¬136 - Unburdened Liberty¬b616cc93¬21005868¬¬¬
+¬¬¬Void’s Blitzarre Adventure¬Void’s Blitzarre Adventure¬141 - Void’s Blitzarre Adventure¬9d22107c¬18641452¬¬¬
+¬¬¬Void’s Blitzarre Adventure - Blitz Tendency¬Void’s Blitzarre Adventure - Blitz Tendency¬142 - Void’s Blitzarre Adventure - Blitz Tendency¬e02d7a82¬16777216¬¬¬
+¬¬¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)¬66f0a6d0¬16777216¬¬¬
 ¬¬¬Vs. Mode¬Vs. Mode¬135 - Vs. Mode¬86fe30d3¬17066348¬¬¬
 ¬¬¬Yuri’s Sidestory¬Yuri’s Sidestory¬126 - Yuri’s Sidestory¬8c417a5c¬19915124¬¬¬

@@ -961,10 +961,10 @@
 			<location>1</location>
 			<sourceRom>Blazer</sourceRom>
 			<language>2</language>
-			<files><romCRC extension=".gba">C1CE811A</romCRC></files>
+			<files><romCRC extension=".gba">4FCCB155</romCRC></files>
 			<im1CRC>8D52AC2C</im1CRC>
 			<im2CRC>791DB655</im2CRC>
-			<comment>Buggy title screen</comment>
+			<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -1141,6 +1141,166 @@
 			<im1CRC>A019A988</im1CRC>
 			<im2CRC>B34BAC63</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>141</imageNumber>
+			<releaseNumber>141</releaseNumber>
+			<title>Void’s Blitzarre Adventure</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18641452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>circleseverywhere</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9D22107C</romCRC></files>
+			<im1CRC>E5083BD1</im1CRC>
+			<im2CRC>BE63F5DC</im2CRC>
+			<comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>142</imageNumber>
+			<releaseNumber>142</releaseNumber>
+			<title>Void’s Blitzarre Adventure - Blitz Tendency</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Colorz</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E02D7A82</romCRC></files>
+			<im1CRC>52053982</im1CRC>
+			<im2CRC>9F7D77A5</im2CRC>
+			<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>143</imageNumber>
+			<releaseNumber>143</releaseNumber>
+			<title>Void’s Blitzarre Adventure - Blitz Tendency (debug)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Colorz</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">66F0A6D0</romCRC></files>
+			<im1CRC>862E634A</im1CRC>
+			<im2CRC>0F40C355</im2CRC>
+			<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>144</imageNumber>
+			<releaseNumber>144</releaseNumber>
+			<title>Resonance</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21319464</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Procrastinators Extraodinaire (Kirb)</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7D35CC3C</romCRC></files>
+			<im1CRC>607DE9EC</im1CRC>
+			<im2CRC>3A843A69</im2CRC>
+			<comment>https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>145</imageNumber>
+			<releaseNumber>145</releaseNumber>
+			<title>The Burdened Crown</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22485048</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Grated Shtick</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">489AFF60</romCRC></files>
+			<im1CRC>3BDE6A6D</im1CRC>
+			<im2CRC>CD47111D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>146</imageNumber>
+			<releaseNumber>146</releaseNumber>
+			<title>Fire Emblem - Reawakening</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20016012</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>P33RL355</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9F92A410</romCRC></files>
+			<im1CRC>B65A3ACE</im1CRC>
+			<im2CRC>D8235831</im2CRC>
+			<comment>https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>147</imageNumber>
+			<releaseNumber>147</releaseNumber>
+			<title>The Burdened Crown (0 Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22485048</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Grated Shtick</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">25E8F03D</romCRC></files>
+			<im1CRC>A2C54882</im1CRC>
+			<im2CRC>4566618D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>148</imageNumber>
+			<releaseNumber>148</releaseNumber>
+			<title>The Burdened Crown (100 Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22485048</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Grated Shtick</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C152923C</romCRC></files>
+			<im1CRC>621A4343</im1CRC>
+			<im2CRC>0ACF36C1</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>149</imageNumber>
+			<releaseNumber>149</releaseNumber>
+			<title>The Burdened Crown (Blue)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22485048</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Grated Shtick</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0459D055</romCRC></files>
+			<im1CRC>D501815A</im1CRC>
+			<im2CRC>C23D17D6</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>150</imageNumber>
+			<releaseNumber>150</releaseNumber>
+			<title>Fire Emblem - Code of the Black Knights</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33016900</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Mycahel</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C666F8B1</romCRC></files>
+			<im1CRC>0F655A77</im1CRC>
+			<im2CRC>8C4E810A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>Blazer’s One Day Hack</title>
+		<title>127 - Blazer’s One Day Hack</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -210,6 +210,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - Code of the Black Knights</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem - Death or Glory</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -328,6 +341,19 @@
 	</software>
 	<software>
 		<title>Fire Emblem - Heroes Remake</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem - Reawakening</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -717,6 +743,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Resonance</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Sacred Contention</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -795,6 +834,58 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Burdened Crown</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Burdened Crown (0 Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Burdened Crown (100 Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Burdened Crown (Blue)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Last Promise</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -861,6 +952,45 @@
 	</software>
 	<software>
 		<title>Unburdened Liberty</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Void’s Blitzarre Adventure</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Void’s Blitzarre Adventure - Blitz Tendency</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Void’s Blitzarre Adventure - Blitz Tendency (debug)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

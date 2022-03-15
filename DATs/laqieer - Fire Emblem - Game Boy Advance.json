@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "Blazer’s One Day Hack",
+				"name": "127 - Blazer’s One Day Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -395,6 +395,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Code of the Black Knights",
+				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "150 - Fire Emblem - Code of the Black Knights",
+						"size": 33016900,
+						"crc": "c666f8b1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Death or Glory",
 				"comment": "https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376",
 				"description": null,
@@ -569,6 +587,24 @@
 						"name": "100 - Fire Emblem - Heroes Remake",
 						"size": 31526756,
 						"crc": "1c4fcc59"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Reawakening",
+				"comment": "https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "146 - Fire Emblem - Reawakening",
+						"size": 20016012,
+						"crc": "9f92a410"
 					}
 				}
 			]
@@ -1097,6 +1133,24 @@
 		},
 		{
 			"machine": {
+				"name": "Resonance",
+				"comment": "https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "144 - Resonance",
+						"size": 21319464,
+						"crc": "7d35cc3c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Sacred Contention",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/",
 				"description": null,
@@ -1116,7 +1170,7 @@
 		{
 			"machine": {
 				"name": "Sacred Contention (DS Battle Background Mode)",
-				"comment": "Buggy title screen",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -1126,7 +1180,7 @@
 						"itemtype": "Rom",
 						"name": "129 - Sacred Contention (DS Battle Background Mode)",
 						"size": 20971520,
-						"crc": "c1ce811a"
+						"crc": "4fccb155"
 					}
 				}
 			]
@@ -1199,6 +1253,78 @@
 						"name": "102 - Shining Armor",
 						"size": 16788636,
 						"crc": "67368bbb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Burdened Crown",
+				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "145 - The Burdened Crown",
+						"size": 22485048,
+						"crc": "489aff60"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Burdened Crown (0 Growths)",
+				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "147 - The Burdened Crown (0 Growths)",
+						"size": 22485048,
+						"crc": "25e8f03d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Burdened Crown (100 Growths)",
+				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "148 - The Burdened Crown (100 Growths)",
+						"size": 22485048,
+						"crc": "c152923c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Burdened Crown (Blue)",
+				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "149 - The Burdened Crown (Blue)",
+						"size": 22485048,
+						"crc": "0459d055"
 					}
 				}
 			]
@@ -1307,6 +1433,60 @@
 						"name": "136 - Unburdened Liberty",
 						"size": 21005868,
 						"crc": "b616cc93"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Void’s Blitzarre Adventure",
+				"comment": "https://github.com/FireEmblemUniverse/CCB_Round1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "141 - Void’s Blitzarre Adventure",
+						"size": 18641452,
+						"crc": "9d22107c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Void’s Blitzarre Adventure - Blitz Tendency",
+				"comment": "https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "142 - Void’s Blitzarre Adventure - Blitz Tendency",
+						"size": 16777216,
+						"crc": "e02d7a82"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Void’s Blitzarre Adventure - Blitz Tendency (debug)",
+				"comment": "https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)",
+						"size": 16777216,
+						"crc": "66f0a6d0"
 					}
 				}
 			]

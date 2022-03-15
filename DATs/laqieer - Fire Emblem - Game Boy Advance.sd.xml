@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>Blazer’s One Day Hack</name>
+				<name>127 - Blazer’s One Day Hack</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
@@ -344,6 +344,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Code of the Black Knights</name>
+				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>150 - Fire Emblem - Code of the Black Knights</name>
+					<size>33016900</size>
+					<crc>c666f8b1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Death or Glory</name>
 				<comment>https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376</comment>
 				<publisher>Fan Modding</publisher>
@@ -489,6 +504,21 @@
 					<name>100 - Fire Emblem - Heroes Remake</name>
 					<size>31526756</size>
 					<crc>1c4fcc59</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem - Reawakening</name>
+				<comment>https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>146 - Fire Emblem - Reawakening</name>
+					<size>20016012</size>
+					<crc>9f92a410</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -929,6 +959,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Resonance</name>
+				<comment>https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>144 - Resonance</name>
+					<size>21319464</size>
+					<crc>7d35cc3c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Sacred Contention</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 				<publisher>Fan Modding</publisher>
@@ -945,7 +990,7 @@
 		<directory>
 			<machine>
 				<name>Sacred Contention (DS Battle Background Mode)</name>
-				<comment>Buggy title screen</comment>
+				<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -953,7 +998,7 @@
 					<itemtype>Rom</itemtype>
 					<name>129 - Sacred Contention (DS Battle Background Mode)</name>
 					<size>20971520</size>
-					<crc>c1ce811a</crc>
+					<crc>4fccb155</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1014,6 +1059,66 @@
 					<name>102 - Shining Armor</name>
 					<size>16788636</size>
 					<crc>67368bbb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Burdened Crown</name>
+				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>145 - The Burdened Crown</name>
+					<size>22485048</size>
+					<crc>489aff60</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Burdened Crown (0 Growths)</name>
+				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>147 - The Burdened Crown (0 Growths)</name>
+					<size>22485048</size>
+					<crc>25e8f03d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Burdened Crown (100 Growths)</name>
+				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>148 - The Burdened Crown (100 Growths)</name>
+					<size>22485048</size>
+					<crc>c152923c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Burdened Crown (Blue)</name>
+				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>149 - The Burdened Crown (Blue)</name>
+					<size>22485048</size>
+					<crc>0459d055</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1104,6 +1209,51 @@
 					<name>136 - Unburdened Liberty</name>
 					<size>21005868</size>
 					<crc>b616cc93</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Void’s Blitzarre Adventure</name>
+				<comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>141 - Void’s Blitzarre Adventure</name>
+					<size>18641452</size>
+					<crc>9d22107c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Void’s Blitzarre Adventure - Blitz Tendency</name>
+				<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>142 - Void’s Blitzarre Adventure - Blitz Tendency</name>
+					<size>16777216</size>
+					<crc>e02d7a82</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Void’s Blitzarre Adventure - Blitz Tendency (debug)</name>
+				<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)</name>
+					<size>16777216</size>
+					<crc>66f0a6d0</crc>
 				</datitem>
 			</files>
 		</directory>

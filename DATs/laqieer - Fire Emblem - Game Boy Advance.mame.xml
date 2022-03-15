@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="Blazer’s One Day Hack">
+	<machine name="127 - Blazer’s One Day Hack">
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
 	</machine>
 	<machine name="Boss War">
@@ -48,6 +48,9 @@
 	<machine name="Fire Emblem - Barhara Revisited">
 		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529368" crc="15482be6" />
 	</machine>
+	<machine name="Fire Emblem - Code of the Black Knights">
+		<rom name="150 - Fire Emblem - Code of the Black Knights" size="33016900" crc="c666f8b1" />
+	</machine>
 	<machine name="Fire Emblem - Death or Glory">
 		<rom name="124 - Fire Emblem - Death or Glory" size="19915268" crc="cf613764" />
 	</machine>
@@ -77,6 +80,9 @@
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+	</machine>
+	<machine name="Fire Emblem - Reawakening">
+		<rom name="146 - Fire Emblem - Reawakening" size="20016012" crc="9f92a410" />
 	</machine>
 	<machine name="Fire Emblem - Rekka no Ken (Japan)">
 		<rom name="2 - Fire Emblem - Rekka no Ken (Japan)" size="16777216" crc="f0c10e72" />
@@ -165,11 +171,14 @@
 	<machine name="Requiem">
 		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
 	</machine>
+	<machine name="Resonance">
+		<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
+	</machine>
 	<machine name="Sacred Contention">
 		<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
 	</machine>
 	<machine name="Sacred Contention (DS Battle Background Mode)">
-		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="c1ce811a" />
+		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="4fccb155" />
 	</machine>
 	<machine name="Sacred Contention (E-Rank Mode)">
 		<rom name="130 - Sacred Contention (E-Rank Mode)" size="19125992" crc="b9c52723" />
@@ -182,6 +191,18 @@
 	</machine>
 	<machine name="Shining Armor">
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+	</machine>
+	<machine name="The Burdened Crown">
+		<rom name="145 - The Burdened Crown" size="22485048" crc="489aff60" />
+	</machine>
+	<machine name="The Burdened Crown (0 Growths)">
+		<rom name="147 - The Burdened Crown (0 Growths)" size="22485048" crc="25e8f03d" />
+	</machine>
+	<machine name="The Burdened Crown (100 Growths)">
+		<rom name="148 - The Burdened Crown (100 Growths)" size="22485048" crc="c152923c" />
+	</machine>
+	<machine name="The Burdened Crown (Blue)">
+		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
 	</machine>
 	<machine name="The Last Promise">
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
@@ -200,6 +221,15 @@
 	</machine>
 	<machine name="Unburdened Liberty">
 		<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure">
+		<rom name="141 - Void’s Blitzarre Adventure" size="18641452" crc="9d22107c" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure - Blitz Tendency">
+		<rom name="142 - Void’s Blitzarre Adventure - Blitz Tendency" size="16777216" crc="e02d7a82" />
+	</machine>
+	<machine name="Void’s Blitzarre Adventure - Blitz Tendency (debug)">
+		<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
 	</machine>
 	<machine name="Vs. Mode">
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />

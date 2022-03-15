@@ -14,6 +14,7 @@
 13 - Fire Emblem (USA) (Wii U Virtual Console)
 3 - Fire Emblem (USA, Australia)
 123 - Fire Emblem - Barhara Revisited
+150 - Fire Emblem - Code of the Black Knights
 124 - Fire Emblem - Death or Glory
 122 - Fire Emblem - Different Dimensions Ostian Princess 2
 139 - Fire Emblem - Feud of the Fangs
@@ -24,6 +25,7 @@
 30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1
 22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]
 100 - Fire Emblem - Heroes Remake
+146 - Fire Emblem - Reawakening
 2 - Fire Emblem - Rekka no Ken (Japan)
 9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)
 10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)
@@ -53,17 +55,25 @@
 133 - Prisoner of Darkness (Hard Mode)
 137 - Ragefest 5 DLC
 113 - Requiem
+144 - Resonance
 128 - Sacred Contention
 129 - Sacred Contention (DS Battle Background Mode)
 130 - Sacred Contention (E-Rank Mode)
 131 - Sacred Contention (No Supports Mode)
 132 - Sacred Contention (Still Mode)
 102 - Shining Armor
+145 - The Burdened Crown
+147 - The Burdened Crown (0 Growths)
+148 - The Burdened Crown (100 Growths)
+149 - The Burdened Crown (Blue)
 103 - The Last Promise
 105 - The Last Promise (Chaos Mode DEMO)
 104 - The Last Promise (Easy Mode)
 106 - The Last Promise (Weapon Reversal)
 108 - The Road to Ruin
 136 - Unburdened Liberty
+141 - Void’s Blitzarre Adventure
+142 - Void’s Blitzarre Adventure - Blitz Tendency
+143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)
 135 - Vs
 126 - Yuri’s Sidestory

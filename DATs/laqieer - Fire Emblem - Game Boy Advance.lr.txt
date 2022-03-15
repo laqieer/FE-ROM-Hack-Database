@@ -1,4 +1,4 @@
-ROMs required for driver "Blazer’s One Day Hack".
+ROMs required for driver "127 - Blazer’s One Day Hack".
 Name                                   Size Checksum
 127 - Blazer’s One Day Hack        20983928 CRC(c68db4ee)
 
@@ -62,6 +62,10 @@ ROMs required for driver "Fire Emblem - Barhara Revisited".
 Name                                   Size Checksum
 123 - Fire Emblem - Barhara Revisited17529368 CRC(15482be6)
 
+ROMs required for driver "Fire Emblem - Code of the Black Knights".
+Name                                   Size Checksum
+150 - Fire Emblem - Code of the Black Knights          33016900 CRC(c666f8b1)
+
 ROMs required for driver "Fire Emblem - Death or Glory".
 Name                                   Size Checksum
 124 - Fire Emblem - Death or Glory 19915268 CRC(cf613764)
@@ -101,6 +105,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - Heroes Remake".
 Name                                   Size Checksum
 100 - Fire Emblem - Heroes Remake  31526756 CRC(1c4fcc59)
+
+ROMs required for driver "Fire Emblem - Reawakening".
+Name                                   Size Checksum
+146 - Fire Emblem - Reawakening    20016012 CRC(9f92a410)
 
 ROMs required for driver "Fire Emblem - Rekka no Ken (Japan)".
 Name                                   Size Checksum
@@ -218,13 +226,17 @@ ROMs required for driver "Requiem".
 Name                                   Size Checksum
 113 - Requiem                      18774852 CRC(1225efff)
 
+ROMs required for driver "Resonance".
+Name                                   Size Checksum
+144 - Resonance                    21319464 CRC(7d35cc3c)
+
 ROMs required for driver "Sacred Contention".
 Name                                   Size Checksum
 128 - Sacred Contention            19125992 CRC(34f11759)
 
 ROMs required for driver "Sacred Contention (DS Battle Background Mode)".
 Name                                   Size Checksum
-129 - Sacred Contention (DS Battle Background Mode)          20971520 CRC(c1ce811a)
+129 - Sacred Contention (DS Battle Background Mode)          20971520 CRC(4fccb155)
 
 ROMs required for driver "Sacred Contention (E-Rank Mode)".
 Name                                   Size Checksum
@@ -241,6 +253,22 @@ Name                                   Size Checksum
 ROMs required for driver "Shining Armor".
 Name                                   Size Checksum
 102 - Shining Armor                16788636 CRC(67368bbb)
+
+ROMs required for driver "The Burdened Crown".
+Name                                   Size Checksum
+145 - The Burdened Crown           22485048 CRC(489aff60)
+
+ROMs required for driver "The Burdened Crown (0 Growths)".
+Name                                   Size Checksum
+147 - The Burdened Crown (0 Growths)22485048 CRC(25e8f03d)
+
+ROMs required for driver "The Burdened Crown (100 Growths)".
+Name                                   Size Checksum
+148 - The Burdened Crown (100 Growths)22485048 CRC(c152923c)
+
+ROMs required for driver "The Burdened Crown (Blue)".
+Name                                   Size Checksum
+149 - The Burdened Crown (Blue)    22485048 CRC(0459d055)
 
 ROMs required for driver "The Last Promise".
 Name                                   Size Checksum
@@ -265,6 +293,18 @@ Name                                   Size Checksum
 ROMs required for driver "Unburdened Liberty".
 Name                                   Size Checksum
 136 - Unburdened Liberty           21005868 CRC(b616cc93)
+
+ROMs required for driver "Void’s Blitzarre Adventure".
+Name                                   Size Checksum
+141 - Void’s Blitzarre Adventure   18641452 CRC(9d22107c)
+
+ROMs required for driver "Void’s Blitzarre Adventure - Blitz Tendency".
+Name                                   Size Checksum
+142 - Void’s Blitzarre Adventure - Blitz Tendency          16777216 CRC(e02d7a82)
+
+ROMs required for driver "Void’s Blitzarre Adventure - Blitz Tendency (debug)".
+Name                                   Size Checksum
+143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)          16777216 CRC(66f0a6d0)
 
 ROMs required for driver "Vs. Mode".
 Name                                   Size Checksum

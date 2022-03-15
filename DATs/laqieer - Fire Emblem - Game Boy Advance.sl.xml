@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="127 - Blazer’s One Day Hack">
+	<software name="Blazer’s One Day Hack">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">

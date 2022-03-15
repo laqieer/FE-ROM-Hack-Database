@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="127 - Blazer’s One Day Hack">
+	<machine name="Blazer’s One Day Hack">
 		<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />

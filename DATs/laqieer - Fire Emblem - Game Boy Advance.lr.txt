@@ -1,4 +1,4 @@
-ROMs required for driver "127 - Blazer’s One Day Hack".
+ROMs required for driver "Blazer’s One Day Hack".
 Name                                   Size Checksum
 127 - Blazer’s One Day Hack        20983928 CRC(c68db4ee)
 

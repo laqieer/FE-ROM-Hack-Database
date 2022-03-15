@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="127 - Blazer’s One Day Hack">
+	<machine name="Blazer’s One Day Hack">
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
 	</machine>
 	<machine name="Boss War">

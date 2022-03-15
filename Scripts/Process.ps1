@@ -12,7 +12,7 @@ $ImgPath = "..\OfflineList\imgs\laqieer - Fire Emblem - Game Boy Advance\1-500\"
 
 Get-Item $ROM
 get-crc32 $ROM
-Compress-Archive -Force -LiteralPath $ROM -DestinationPath ..\ROMs\$Basename.zip
+Compress-Archive -Force -LiteralPath $ROM -DestinationPath ..\FE-ROM-Hack-Repo\ROMs\$Basename.zip
 Remove-Item $ROM
 
 get-crc32 $Directory\$Basename-0.png

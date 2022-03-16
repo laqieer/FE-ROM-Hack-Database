@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220315</version>
+		<version>20220316</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,6 +13,16 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
+	<machine name="169 - Antagonist Emblem">
+		<comment>https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</machine>
+	<machine name="Barry’s Bandits">
+		<comment>https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
+	</machine>
 	<machine name="Blazer’s One Day Hack">
 		<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
 		<publisher>Fan Modding</publisher>
@@ -22,6 +32,11 @@
 		<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
+	</machine>
+	<machine name="BS Fire Emblem - Archanea Saga">
+		<comment>https://github.com/sme23/bsfe</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="158 - BS Fire Emblem - Archanea Saga" size="16933169" crc="39abb64a" />
 	</machine>
 	<machine name="Carcino’s Civil War">
 		<comment>https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319</comment>
@@ -48,6 +63,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
 	</machine>
+	<machine name="Escape the Mangs Dungeon">
+		<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="161 - Escape the Mangs Dungeon" size="17083184" crc="090dffb3" />
+	</machine>
 	<machine name="Fallen King">
 		<comment>https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/</comment>
 		<publisher>Fan Modding</publisher>
@@ -62,6 +82,11 @@
 		<comment>https://seesaawiki.jp/fe7if/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+	</machine>
+	<machine name="FEU Gacha">
+		<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
 	</machine>
 	<machine name="Fire Emblem (Europe) (En,Es,It)">
 		<comment>[Eng-Ita-Spa]</comment>
@@ -222,10 +247,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="110 - Fire Emblem - Tenchi no Ken (Japan)" size="27323016" crc="f925dd29" />
 	</machine>
+	<machine name="Fire Emblem - The Arch of Coups">
+		<comment>https://github.com/Darrman/Arch-of-Coups</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="157 - Fire Emblem - The Arch of Coups" size="18641452" crc="362cecef" />
+	</machine>
 	<machine name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
 		<comment>https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="29 - Fire Emblem - The Binding Blade (English Localization v1" size="8587268" crc="c5ccd529" />
+	</machine>
+	<machine name="Fire Emblem - The Heroes We Deserve">
+		<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-heroes-we-deserve-v1-3/4306</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="155 - Fire Emblem - The Heroes We Deserve" size="22209796" crc="a2171a8e" />
 	</machine>
 	<machine name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)">
 		<publisher>Nintendo</publisher>
@@ -270,10 +305,50 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
 	</machine>
+	<machine name="Gay Baby Emblem">
+		<comment>https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
+	</machine>
+	<machine name="Heaven’s Bloom">
+		<comment>https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="154 - Heaven’s Bloom" size="18376448" crc="c998aa0e" />
+	</machine>
+	<machine name="Hector Saves Christmas">
+		<comment>http://feuniverse.us/t/hector-saves-christmas/4700</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="163 - Hector Saves Christmas" size="17089672" crc="6896d8c2" />
+	</machine>
+	<machine name="Hector Saves Christmas Again">
+		<comment>https://github.com/sme23/Christmas2</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="164 - Hector Saves Christmas Again" size="17415920" crc="e69b171f" />
+	</machine>
+	<machine name="Knoll’s Super Spooky Halloween Adventure">
+		<comment>https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
+	</machine>
 	<machine name="Maiden Quest">
 		<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+	</machine>
+	<machine name="Marc’s Precious - Revenge">
+		<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+	</machine>
+	<machine name="One-Turn-Clear">
+		<comment>https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="151 - One-Turn-Clear" size="16806828" crc="e930a809" />
+	</machine>
+	<machine name="One-Week Hack">
+		<comment>https://feuniverse.us/t/one-week-hack-v0-99-released/713</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="171 - One-Week Hack" size="17087872" crc="2144df1c" />
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
@@ -290,10 +365,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
 	</machine>
+	<machine name="Rart Emblem - Halloween">
+		<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="159 - Rart Emblem - Halloween" size="17308636" crc="61dad746" />
+	</machine>
 	<machine name="Requiem">
 		<comment>https://forums.serenesforest.net/index.php?/topic/54594-fire-emblem-requiem-v14-is-up/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+	</machine>
+	<machine name="Resident Emblem 8">
+		<comment>https://feuniverse.us/t/fe8-re8-1-chapter-hack-completed-update-v033/6678</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="160 - Resident Emblem 8" size="17080688" crc="3d35a4fc" />
 	</machine>
 	<machine name="Resonance">
 		<comment>https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319</comment>
@@ -325,6 +410,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
+	<machine name="Self-Randomising Rom">
+		<comment>https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+	</machine>
 	<machine name="Shining Armor">
 		<comment>http://www.romhacking.net/hacks/538/</comment>
 		<publisher>Fan Modding</publisher>
@@ -349,6 +439,16 @@
 		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
+	</machine>
+	<machine name="The Dragon Herald">
+		<comment>https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="152 - The Dragon Herald" size="25565628" crc="72d65e0b" />
+	</machine>
+	<machine name="The Dragon Herald (DSSave)">
+		<comment>https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
 	</machine>
 	<machine name="The Last Promise">
 		<comment>http://www.feshrine.net/thelastpromise/</comment>
@@ -375,6 +475,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="108 - The Road to Ruin" size="21666332" crc="6522df69" />
 	</machine>
+	<machine name="The Sacred War (Final Update - v1.51)">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="173 - The Sacred War (Final Update - v1" size="31187848" crc="8dc775b2" />
+	</machine>
+	<machine name="The Sacred War (Starting Version - v1.36)">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
+	</machine>
 	<machine name="Unburdened Liberty">
 		<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
 		<publisher>Fan Modding</publisher>
@@ -399,6 +509,11 @@
 		<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
+	</machine>
+	<machine name="Winning Against Gharnef">
+		<comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 	</machine>
 	<machine name="Yuri’s Sidestory">
 		<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>

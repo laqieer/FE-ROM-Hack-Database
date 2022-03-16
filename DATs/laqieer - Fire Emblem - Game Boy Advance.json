@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220315",
+		"version": "20220316",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,6 +107,42 @@
 	"machines": [
 		{
 			"machine": {
+				"name": "169 - Antagonist Emblem",
+				"comment": "https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "169 - Antagonist Emblem",
+						"size": 17515204,
+						"crc": "13983cfb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Barry’s Bandits",
+				"comment": "https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "156 - Barry’s Bandits",
+						"size": 18715144,
+						"crc": "2ce87ea5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blazer’s One Day Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/",
 				"description": null,
@@ -137,6 +173,24 @@
 						"name": "115 - Boss War",
 						"size": 25171160,
 						"crc": "186ecc6e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "BS Fire Emblem - Archanea Saga",
+				"comment": "https://github.com/sme23/bsfe",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "158 - BS Fire Emblem - Archanea Saga",
+						"size": 16933169,
+						"crc": "39abb64a"
 					}
 				}
 			]
@@ -233,6 +287,24 @@
 		},
 		{
 			"machine": {
+				"name": "Escape the Mangs Dungeon",
+				"comment": "https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "161 - Escape the Mangs Dungeon",
+						"size": 17083184,
+						"crc": "090dffb3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fallen King",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/",
 				"description": null,
@@ -281,6 +353,24 @@
 						"name": "109 - FE7if",
 						"size": 33554432,
 						"crc": "6eca79ce"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FEU Gacha",
+				"comment": "https://feuniverse.us/t/complete-fe8-feu-gacha/5251",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "168 - FEU Gacha",
+						"size": 16777216,
+						"crc": "35c74672"
 					}
 				}
 			]
@@ -863,6 +953,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - The Arch of Coups",
+				"comment": "https://github.com/Darrman/Arch-of-Coups",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "157 - Fire Emblem - The Arch of Coups",
+						"size": 18641452,
+						"crc": "362cecef"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/",
 				"description": null,
@@ -875,6 +983,24 @@
 						"name": "29 - Fire Emblem - The Binding Blade (English Localization v1",
 						"size": 8587268,
 						"crc": "c5ccd529"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - The Heroes We Deserve",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-the-heroes-we-deserve-v1-3/4306",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "155 - Fire Emblem - The Heroes We Deserve",
+						"size": 22209796,
+						"crc": "a2171a8e"
 					}
 				}
 			]
@@ -1043,6 +1169,96 @@
 		},
 		{
 			"machine": {
+				"name": "Gay Baby Emblem",
+				"comment": "https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "166 - Gay Baby Emblem",
+						"size": 17048076,
+						"crc": "a95e4ae4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Heaven’s Bloom",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "154 - Heaven’s Bloom",
+						"size": 18376448,
+						"crc": "c998aa0e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Hector Saves Christmas",
+				"comment": "http://feuniverse.us/t/hector-saves-christmas/4700",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "163 - Hector Saves Christmas",
+						"size": 17089672,
+						"crc": "6896d8c2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Hector Saves Christmas Again",
+				"comment": "https://github.com/sme23/Christmas2",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "164 - Hector Saves Christmas Again",
+						"size": 17415920,
+						"crc": "e69b171f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Knoll’s Super Spooky Halloween Adventure",
+				"comment": "https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "162 - Knoll’s Super Spooky Halloween Adventure",
+						"size": 17014360,
+						"crc": "19a64b75"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Maiden Quest",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/",
 				"description": null,
@@ -1055,6 +1271,60 @@
 						"name": "125 - Maiden Quest",
 						"size": 19773496,
 						"crc": "f11864bd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Marc’s Precious - Revenge",
+				"comment": "https://feuniverse.us/t/marcs-precious-revenge/3294",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "170 - Marc’s Precious - Revenge",
+						"size": 17332276,
+						"crc": "4426c3f9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "One-Turn-Clear",
+				"comment": "https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "151 - One-Turn-Clear",
+						"size": 16806828,
+						"crc": "e930a809"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "One-Week Hack",
+				"comment": "https://feuniverse.us/t/one-week-hack-v0-99-released/713",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "171 - One-Week Hack",
+						"size": 17087872,
+						"crc": "2144df1c"
 					}
 				}
 			]
@@ -1115,6 +1385,24 @@
 		},
 		{
 			"machine": {
+				"name": "Rart Emblem - Halloween",
+				"comment": "https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "159 - Rart Emblem - Halloween",
+						"size": 17308636,
+						"crc": "61dad746"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Requiem",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/54594-fire-emblem-requiem-v14-is-up/",
 				"description": null,
@@ -1127,6 +1415,24 @@
 						"name": "113 - Requiem",
 						"size": 18774852,
 						"crc": "1225efff"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Resident Emblem 8",
+				"comment": "https://feuniverse.us/t/fe8-re8-1-chapter-hack-completed-update-v033/6678",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "160 - Resident Emblem 8",
+						"size": 17080688,
+						"crc": "3d35a4fc"
 					}
 				}
 			]
@@ -1241,6 +1547,24 @@
 		},
 		{
 			"machine": {
+				"name": "Self-Randomising Rom",
+				"comment": "https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "167 - Self-Randomising Rom",
+						"size": 16777216,
+						"crc": "21b24720"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Shining Armor",
 				"comment": "http://www.romhacking.net/hacks/538/",
 				"description": null,
@@ -1325,6 +1649,42 @@
 						"name": "149 - The Burdened Crown (Blue)",
 						"size": 22485048,
 						"crc": "0459d055"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Dragon Herald",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "152 - The Dragon Herald",
+						"size": 25565628,
+						"crc": "72d65e0b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Dragon Herald (DSSave)",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "153 - The Dragon Herald (DSSave)",
+						"size": 25565628,
+						"crc": "24eaa892"
 					}
 				}
 			]
@@ -1421,6 +1781,42 @@
 		},
 		{
 			"machine": {
+				"name": "The Sacred War (Final Update - v1.51)",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "173 - The Sacred War (Final Update - v1",
+						"size": 31187848,
+						"crc": "8dc775b2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sacred War (Starting Version - v1.36)",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "172 - The Sacred War (Starting Version - v1",
+						"size": 31133988,
+						"crc": "9ff4790d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Unburdened Liberty",
 				"comment": "https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860",
 				"description": null,
@@ -1505,6 +1901,24 @@
 						"name": "135 - Vs",
 						"size": 17066348,
 						"crc": "86fe30d3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Winning Against Gharnef",
+				"comment": "https://github.com/sme23/MekkahRestrictedHackComp1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "165 - Winning Against Gharnef",
+						"size": 18085528,
+						"crc": "03c472ee"
 					}
 				}
 			]

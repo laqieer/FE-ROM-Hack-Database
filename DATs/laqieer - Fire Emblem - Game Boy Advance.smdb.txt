@@ -1,13 +1,18 @@
+	169 - Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
+	Barry’s Bandits/156 - Barry’s Bandits			2ce87ea5	18715144
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
 	Boss War/115 - Boss War			186ecc6e	25171160
+	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
 	Carcino’s Civil War/119 - Carcino’s Civil War			88a038ec	17378852
 	Christmas Crossover Carol/121 - Christmas Crossover Carol			676c6d7f	16831344
 	Cornwell’s Ascension/138 - Cornwell’s Ascension			6ad635db	17109180
 	Corrupt Theocracy/107 - Corrupt Theocracy			928dbeb0	16873266
 	Dark Lord and the Maiden of Light/120 - Dark Lord and the Maiden of Light			2edd404d	24393296
+	Escape the Mangs Dungeon/161 - Escape the Mangs Dungeon			090dffb3	17083184
 	Fallen King/114 - Fallen King			8b2cbe45	17826340
 	FE7 Inflation/112 - FE7 Inflation			6ea83897	17825792
 	FE7if/109 - FE7if			6eca79ce	33554432
+	FEU Gacha/168 - FEU Gacha			35c74672	16777216
 	Fire Emblem (Europe) (En,Es,It)/5 - Fire Emblem (Europe) (En,Es,It)			9decc754	16777216
 	Fire Emblem (Europe) (En,Fr,De)/4 - Fire Emblem (Europe) (En,Fr,De)			4a805ed1	16777216
 	Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)/15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)			335c5855	16777216
@@ -40,7 +45,9 @@
 	Fire Emblem - Sword of Heaven and Earth (Menu Translation)/111 - Fire Emblem - Sword of Heaven and Earth (Menu Translation)			d3146773	27379316
 	Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]/28 - Fire Emblem - Sword of Seals (English Translation v2			35f5b06b	16777216
 	Fire Emblem - Tenchi no Ken (Japan)/110 - Fire Emblem - Tenchi no Ken (Japan)			f925dd29	27323016
+	Fire Emblem - The Arch of Coups/157 - Fire Emblem - The Arch of Coups			362cecef	18641452
 	Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]/29 - Fire Emblem - The Binding Blade (English Localization v1			c5ccd529	8587268
+	Fire Emblem - The Heroes We Deserve/155 - Fire Emblem - The Heroes We Deserve			a2171a8e	22209796
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)/8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)			b3005195	33554432
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)/14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)			2653401a	33554432
 	Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)/12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)			dea3b767	16777216
@@ -50,30 +57,46 @@
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)/116 - Fire Emblem [Latino] 2			8ea1444d	25198924
 	Fire Emblem Poop/118 - Fire Emblem Poop			8d1db15c	24492260
 	Fire Emblem Versus/134 - Fire Emblem Versus			47ba1139	16777284
+	Gay Baby Emblem/166 - Gay Baby Emblem			a95e4ae4	17048076
+	Heaven’s Bloom/154 - Heaven’s Bloom			c998aa0e	18376448
+	Hector Saves Christmas/163 - Hector Saves Christmas			6896d8c2	17089672
+	Hector Saves Christmas Again/164 - Hector Saves Christmas Again			e69b171f	17415920
+	Knoll’s Super Spooky Halloween Adventure/162 - Knoll’s Super Spooky Halloween Adventure			19a64b75	17014360
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
+	Marc’s Precious - Revenge/170 - Marc’s Precious - Revenge			4426c3f9	17332276
+	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
+	One-Week Hack/171 - One-Week Hack			2144df1c	17087872
 	Prisoner of Darkness/140 - Prisoner of Darkness			95f14edd	20971804
 	Prisoner of Darkness (Hard Mode)/133 - Prisoner of Darkness (Hard Mode)			1bbb05e1	20971560
 	Ragefest 5 DLC/137 - Ragefest 5 DLC			0c516c3e	17194360
+	Rart Emblem - Halloween/159 - Rart Emblem - Halloween			61dad746	17308636
 	Requiem/113 - Requiem			1225efff	18774852
+	Resident Emblem 8/160 - Resident Emblem 8			3d35a4fc	17080688
 	Resonance/144 - Resonance			7d35cc3c	21319464
 	Sacred Contention/128 - Sacred Contention			34f11759	19125992
 	Sacred Contention (DS Battle Background Mode)/129 - Sacred Contention (DS Battle Background Mode)			4fccb155	20971520
 	Sacred Contention (E-Rank Mode)/130 - Sacred Contention (E-Rank Mode)			b9c52723	19125992
 	Sacred Contention (No Supports Mode)/131 - Sacred Contention (No Supports Mode)			7b7cc292	19125992
 	Sacred Contention (Still Mode)/132 - Sacred Contention (Still Mode)			c2e7e8ea	19125992
+	Self-Randomising Rom/167 - Self-Randomising Rom			21b24720	16777216
 	Shining Armor/102 - Shining Armor			67368bbb	16788636
 	The Burdened Crown/145 - The Burdened Crown			489aff60	22485048
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048
 	The Burdened Crown (100 Growths)/148 - The Burdened Crown (100 Growths)			c152923c	22485048
 	The Burdened Crown (Blue)/149 - The Burdened Crown (Blue)			0459d055	22485048
+	The Dragon Herald/152 - The Dragon Herald			72d65e0b	25565628
+	The Dragon Herald (DSSave)/153 - The Dragon Herald (DSSave)			24eaa892	25565628
 	The Last Promise/103 - The Last Promise			d1c6e5d5	32505856
 	The Last Promise (Chaos Mode DEMO)/105 - The Last Promise (Chaos Mode DEMO)			365cf432	32446048
 	The Last Promise (Easy Mode)/104 - The Last Promise (Easy Mode)			be1b4153	32445120
 	The Last Promise (Weapon Reversal)/106 - The Last Promise (Weapon Reversal)			38f7a2c6	33302356
 	The Road to Ruin/108 - The Road to Ruin			6522df69	21666332
+	The Sacred War (Final Update - v1.51)/173 - The Sacred War (Final Update - v1			8dc775b2	31187848
+	The Sacred War (Starting Version - v1.36)/172 - The Sacred War (Starting Version - v1			9ff4790d	31133988
 	Unburdened Liberty/136 - Unburdened Liberty			b616cc93	21005868
 	Void’s Blitzarre Adventure/141 - Void’s Blitzarre Adventure			9d22107c	18641452
 	Void’s Blitzarre Adventure - Blitz Tendency/142 - Void’s Blitzarre Adventure - Blitz Tendency			e02d7a82	16777216
 	Void’s Blitzarre Adventure - Blitz Tendency (debug)/143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)			66f0a6d0	16777216
 	Vs. Mode/135 - Vs			86fe30d3	17066348
+	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528
 	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915124

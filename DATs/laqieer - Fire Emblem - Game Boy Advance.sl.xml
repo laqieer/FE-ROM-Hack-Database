@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
+	<software name="169 - Antagonist Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Barry’s Bandits">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Blazer’s One Day Hack">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -14,6 +30,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="BS Fire Emblem - Archanea Saga">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="158 - BS Fire Emblem - Archanea Saga" size="16933169" crc="39abb64a" />
 			</dataarea>
 		</part>
 	</software>
@@ -57,6 +81,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Escape the Mangs Dungeon">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="161 - Escape the Mangs Dungeon" size="17083184" crc="090dffb3" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fallen King">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -78,6 +110,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FEU Gacha">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
 			</dataarea>
 		</part>
 	</software>
@@ -337,11 +377,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - The Arch of Coups">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="157 - Fire Emblem - The Arch of Coups" size="18641452" crc="362cecef" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
 		<publisher>Fan Translation</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="29 - Fire Emblem - The Binding Blade (English Localization v1" size="8587268" crc="c5ccd529" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Heroes We Deserve">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="155 - Fire Emblem - The Heroes We Deserve" size="22209796" crc="a2171a8e" />
 			</dataarea>
 		</part>
 	</software>
@@ -417,11 +473,75 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Gay Baby Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Heaven’s Bloom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="154 - Heaven’s Bloom" size="18376448" crc="c998aa0e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Hector Saves Christmas">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="163 - Hector Saves Christmas" size="17089672" crc="6896d8c2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Hector Saves Christmas Again">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="164 - Hector Saves Christmas Again" size="17415920" crc="e69b171f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Knoll’s Super Spooky Halloween Adventure">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Maiden Quest">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Marc’s Precious - Revenge">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="One-Turn-Clear">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="151 - One-Turn-Clear" size="16806828" crc="e930a809" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="One-Week Hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="171 - One-Week Hack" size="17087872" crc="2144df1c" />
 			</dataarea>
 		</part>
 	</software>
@@ -449,11 +569,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Rart Emblem - Halloween">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="159 - Rart Emblem - Halloween" size="17308636" crc="61dad746" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Requiem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Resident Emblem 8">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="160 - Resident Emblem 8" size="17080688" crc="3d35a4fc" />
 			</dataarea>
 		</part>
 	</software>
@@ -505,6 +641,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Self-Randomising Rom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Shining Armor">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -542,6 +686,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Dragon Herald">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="152 - The Dragon Herald" size="25565628" crc="72d65e0b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Dragon Herald (DSSave)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
 			</dataarea>
 		</part>
 	</software>
@@ -585,6 +745,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Sacred War (Final Update - v1.51)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="173 - The Sacred War (Final Update - v1" size="31187848" crc="8dc775b2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sacred War (Starting Version - v1.36)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Unburdened Liberty">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -622,6 +798,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Winning Against Gharnef">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 			</dataarea>
 		</part>
 	</software>

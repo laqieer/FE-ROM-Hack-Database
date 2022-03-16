@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
+	<machine name="169 - Antagonist Emblem">
+		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</machine>
+	<machine name="Barry’s Bandits">
+		<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
+	</machine>
 	<machine name="Blazer’s One Day Hack">
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
 	</machine>
 	<machine name="Boss War">
 		<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
+	</machine>
+	<machine name="BS Fire Emblem - Archanea Saga">
+		<rom name="158 - BS Fire Emblem - Archanea Saga" size="16933169" crc="39abb64a" />
 	</machine>
 	<machine name="Carcino’s Civil War">
 		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
@@ -21,6 +30,9 @@
 	<machine name="Dark Lord and the Maiden of Light">
 		<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
 	</machine>
+	<machine name="Escape the Mangs Dungeon">
+		<rom name="161 - Escape the Mangs Dungeon" size="17083184" crc="090dffb3" />
+	</machine>
 	<machine name="Fallen King">
 		<rom name="114 - Fallen King" size="17826340" crc="8b2cbe45" />
 	</machine>
@@ -29,6 +41,9 @@
 	</machine>
 	<machine name="FE7if">
 		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+	</machine>
+	<machine name="FEU Gacha">
+		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
 	</machine>
 	<machine name="Fire Emblem (Europe) (En,Es,It)">
 		<rom name="5 - Fire Emblem (Europe) (En,Es,It)" size="16777216" crc="9decc754" />
@@ -126,8 +141,14 @@
 	<machine name="Fire Emblem - Tenchi no Ken (Japan)">
 		<rom name="110 - Fire Emblem - Tenchi no Ken (Japan)" size="27323016" crc="f925dd29" />
 	</machine>
+	<machine name="Fire Emblem - The Arch of Coups">
+		<rom name="157 - Fire Emblem - The Arch of Coups" size="18641452" crc="362cecef" />
+	</machine>
 	<machine name="Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]">
 		<rom name="29 - Fire Emblem - The Binding Blade (English Localization v1" size="8587268" crc="c5ccd529" />
+	</machine>
+	<machine name="Fire Emblem - The Heroes We Deserve">
+		<rom name="155 - Fire Emblem - The Heroes We Deserve" size="22209796" crc="a2171a8e" />
 	</machine>
 	<machine name="Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)">
 		<rom name="8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)" size="33554432" crc="b3005195" />
@@ -156,8 +177,32 @@
 	<machine name="Fire Emblem Versus">
 		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
 	</machine>
+	<machine name="Gay Baby Emblem">
+		<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
+	</machine>
+	<machine name="Heaven’s Bloom">
+		<rom name="154 - Heaven’s Bloom" size="18376448" crc="c998aa0e" />
+	</machine>
+	<machine name="Hector Saves Christmas">
+		<rom name="163 - Hector Saves Christmas" size="17089672" crc="6896d8c2" />
+	</machine>
+	<machine name="Hector Saves Christmas Again">
+		<rom name="164 - Hector Saves Christmas Again" size="17415920" crc="e69b171f" />
+	</machine>
+	<machine name="Knoll’s Super Spooky Halloween Adventure">
+		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
+	</machine>
 	<machine name="Maiden Quest">
 		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+	</machine>
+	<machine name="Marc’s Precious - Revenge">
+		<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+	</machine>
+	<machine name="One-Turn-Clear">
+		<rom name="151 - One-Turn-Clear" size="16806828" crc="e930a809" />
+	</machine>
+	<machine name="One-Week Hack">
+		<rom name="171 - One-Week Hack" size="17087872" crc="2144df1c" />
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />
@@ -168,8 +213,14 @@
 	<machine name="Ragefest 5 DLC">
 		<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
 	</machine>
+	<machine name="Rart Emblem - Halloween">
+		<rom name="159 - Rart Emblem - Halloween" size="17308636" crc="61dad746" />
+	</machine>
 	<machine name="Requiem">
 		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+	</machine>
+	<machine name="Resident Emblem 8">
+		<rom name="160 - Resident Emblem 8" size="17080688" crc="3d35a4fc" />
 	</machine>
 	<machine name="Resonance">
 		<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
@@ -189,6 +240,9 @@
 	<machine name="Sacred Contention (Still Mode)">
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
+	<machine name="Self-Randomising Rom">
+		<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+	</machine>
 	<machine name="Shining Armor">
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
 	</machine>
@@ -203,6 +257,12 @@
 	</machine>
 	<machine name="The Burdened Crown (Blue)">
 		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
+	</machine>
+	<machine name="The Dragon Herald">
+		<rom name="152 - The Dragon Herald" size="25565628" crc="72d65e0b" />
+	</machine>
+	<machine name="The Dragon Herald (DSSave)">
+		<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
 	</machine>
 	<machine name="The Last Promise">
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
@@ -219,6 +279,12 @@
 	<machine name="The Road to Ruin">
 		<rom name="108 - The Road to Ruin" size="21666332" crc="6522df69" />
 	</machine>
+	<machine name="The Sacred War (Final Update - v1.51)">
+		<rom name="173 - The Sacred War (Final Update - v1" size="31187848" crc="8dc775b2" />
+	</machine>
+	<machine name="The Sacred War (Starting Version - v1.36)">
+		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
+	</machine>
 	<machine name="Unburdened Liberty">
 		<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
 	</machine>
@@ -233,6 +299,9 @@
 	</machine>
 	<machine name="Vs. Mode">
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
+	</machine>
+	<machine name="Winning Against Gharnef">
+		<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 	</machine>
 	<machine name="Yuri’s Sidestory">
 		<rom name="126 - Yuri’s Sidestory" size="19915124" crc="8c417a5c" />

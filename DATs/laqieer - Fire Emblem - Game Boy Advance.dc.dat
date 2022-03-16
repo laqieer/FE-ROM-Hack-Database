@@ -1,11 +1,19 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220315
+	Version: 20220316
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
 	Comment: https://github.com/laqieer/FE-ROM-Hack-Database
+)
+game (
+	name "Antagonist Emblem.zip"
+	file ( name 169 - Antagonist Emblem size 17515204 crc 13983cfb )
+)
+game (
+	name "Barry’s Bandits.zip"
+	file ( name 156 - Barry’s Bandits size 18715144 crc 2ce87ea5 )
 )
 game (
 	name "Blazer’s One Day Hack.zip"
@@ -14,6 +22,10 @@ game (
 game (
 	name "Boss War.zip"
 	file ( name 115 - Boss War size 25171160 crc 186ecc6e )
+)
+game (
+	name "BS Fire Emblem - Archanea Saga.zip"
+	file ( name 158 - BS Fire Emblem - Archanea Saga size 16933169 crc 39abb64a )
 )
 game (
 	name "Carcino’s Civil War.zip"
@@ -36,6 +48,10 @@ game (
 	file ( name 120 - Dark Lord and the Maiden of Light size 24393296 crc 2edd404d )
 )
 game (
+	name "Escape the Mangs Dungeon.zip"
+	file ( name 161 - Escape the Mangs Dungeon size 17083184 crc 090dffb3 )
+)
+game (
 	name "Fallen King.zip"
 	file ( name 114 - Fallen King size 17826340 crc 8b2cbe45 )
 )
@@ -46,6 +62,10 @@ game (
 game (
 	name "FE7if.zip"
 	file ( name 109 - FE7if size 33554432 crc 6eca79ce )
+)
+game (
+	name "FEU Gacha.zip"
+	file ( name 168 - FEU Gacha size 16777216 crc 35c74672 )
 )
 game (
 	name "Fire Emblem (Europe) (En,Es,It).zip"
@@ -176,8 +196,16 @@ game (
 	file ( name 110 - Fire Emblem - Tenchi no Ken (Japan) size 27323016 crc f925dd29 )
 )
 game (
+	name "Fire Emblem - The Arch of Coups.zip"
+	file ( name 157 - Fire Emblem - The Arch of Coups size 18641452 crc 362cecef )
+)
+game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
+)
+game (
+	name "Fire Emblem - The Heroes We Deserve.zip"
+	file ( name 155 - Fire Emblem - The Heroes We Deserve size 22209796 crc a2171a8e )
 )
 game (
 	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It).zip"
@@ -216,8 +244,40 @@ game (
 	file ( name 134 - Fire Emblem Versus size 16777284 crc 47ba1139 )
 )
 game (
+	name "Gay Baby Emblem.zip"
+	file ( name 166 - Gay Baby Emblem size 17048076 crc a95e4ae4 )
+)
+game (
+	name "Heaven’s Bloom.zip"
+	file ( name 154 - Heaven’s Bloom size 18376448 crc c998aa0e )
+)
+game (
+	name "Hector Saves Christmas.zip"
+	file ( name 163 - Hector Saves Christmas size 17089672 crc 6896d8c2 )
+)
+game (
+	name "Hector Saves Christmas Again.zip"
+	file ( name 164 - Hector Saves Christmas Again size 17415920 crc e69b171f )
+)
+game (
+	name "Knoll’s Super Spooky Halloween Adventure.zip"
+	file ( name 162 - Knoll’s Super Spooky Halloween Adventure size 17014360 crc 19a64b75 )
+)
+game (
 	name "Maiden Quest.zip"
 	file ( name 125 - Maiden Quest size 19773496 crc f11864bd )
+)
+game (
+	name "Marc’s Precious - Revenge.zip"
+	file ( name 170 - Marc’s Precious - Revenge size 17332276 crc 4426c3f9 )
+)
+game (
+	name "One-Turn-Clear.zip"
+	file ( name 151 - One-Turn-Clear size 16806828 crc e930a809 )
+)
+game (
+	name "One-Week Hack.zip"
+	file ( name 171 - One-Week Hack size 17087872 crc 2144df1c )
 )
 game (
 	name "Prisoner of Darkness.zip"
@@ -232,8 +292,16 @@ game (
 	file ( name 137 - Ragefest 5 DLC size 17194360 crc 0c516c3e )
 )
 game (
+	name "Rart Emblem - Halloween.zip"
+	file ( name 159 - Rart Emblem - Halloween size 17308636 crc 61dad746 )
+)
+game (
 	name "Requiem.zip"
 	file ( name 113 - Requiem size 18774852 crc 1225efff )
+)
+game (
+	name "Resident Emblem 8.zip"
+	file ( name 160 - Resident Emblem 8 size 17080688 crc 3d35a4fc )
 )
 game (
 	name "Resonance.zip"
@@ -260,6 +328,10 @@ game (
 	file ( name 132 - Sacred Contention (Still Mode) size 19125992 crc c2e7e8ea )
 )
 game (
+	name "Self-Randomising Rom.zip"
+	file ( name 167 - Self-Randomising Rom size 16777216 crc 21b24720 )
+)
+game (
 	name "Shining Armor.zip"
 	file ( name 102 - Shining Armor size 16788636 crc 67368bbb )
 )
@@ -278,6 +350,14 @@ game (
 game (
 	name "The Burdened Crown (Blue).zip"
 	file ( name 149 - The Burdened Crown (Blue) size 22485048 crc 0459d055 )
+)
+game (
+	name "The Dragon Herald.zip"
+	file ( name 152 - The Dragon Herald size 25565628 crc 72d65e0b )
+)
+game (
+	name "The Dragon Herald (DSSave).zip"
+	file ( name 153 - The Dragon Herald (DSSave) size 25565628 crc 24eaa892 )
 )
 game (
 	name "The Last Promise.zip"
@@ -300,6 +380,14 @@ game (
 	file ( name 108 - The Road to Ruin size 21666332 crc 6522df69 )
 )
 game (
+	name "The Sacred War (Final Update - v1.51).zip"
+	file ( name 173 - The Sacred War (Final Update - v1 size 31187848 crc 8dc775b2 )
+)
+game (
+	name "The Sacred War (Starting Version - v1.36).zip"
+	file ( name 172 - The Sacred War (Starting Version - v1 size 31133988 crc 9ff4790d )
+)
+game (
 	name "Unburdened Liberty.zip"
 	file ( name 136 - Unburdened Liberty size 21005868 crc b616cc93 )
 )
@@ -318,6 +406,10 @@ game (
 game (
 	name "Vs. Mode.zip"
 	file ( name 135 - Vs size 17066348 crc 86fe30d3 )
+)
+game (
+	name "Winning Against Gharnef.zip"
+	file ( name 165 - Winning Against Gharnef size 18085528 crc 03c472ee )
 )
 game (
 	name "Yuri’s Sidestory.zip"

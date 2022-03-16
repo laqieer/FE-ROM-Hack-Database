@@ -2,6 +2,32 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
+		<title>169 - Antagonist Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Barry’s Bandits</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Blazer’s One Day Hack</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -16,6 +42,19 @@
 	</software>
 	<software>
 		<title>Boss War</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>BS Fire Emblem - Archanea Saga</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -93,6 +132,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Escape the Mangs Dungeon</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fallen King</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -120,6 +172,19 @@
 	</software>
 	<software>
 		<title>FE7if</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FEU Gacha</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -548,7 +613,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - The Arch of Coups</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem - The Heroes We Deserve</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -678,7 +769,111 @@
 		</dump>
 	</software>
 	<software>
+		<title>Gay Baby Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Heaven’s Bloom</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Hector Saves Christmas</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Hector Saves Christmas Again</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Knoll’s Super Spooky Halloween Adventure</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Maiden Quest</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Marc’s Precious - Revenge</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>One-Turn-Clear</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>One-Week Hack</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -730,7 +925,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>Rart Emblem - Halloween</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Requiem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Resident Emblem 8</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -821,6 +1042,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Self-Randomising Rom</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Shining Armor</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -874,6 +1108,32 @@
 	</software>
 	<software>
 		<title>The Burdened Crown (Blue)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Dragon Herald</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Dragon Herald (DSSave)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -951,6 +1211,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Sacred War (Final Update - v1.51)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Sacred War (Starting Version - v1.36)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Unburdened Liberty</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1004,6 +1290,19 @@
 	</software>
 	<software>
 		<title>Vs. Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Winning Against Gharnef</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

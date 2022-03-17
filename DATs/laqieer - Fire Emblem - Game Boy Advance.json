@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220316",
+		"version": "20220317",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,61 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "169 - Antagonist Emblem",
+				"name": "2 Princesses",
+				"comment": "二人の王女",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "183 - 2 Princesses",
+						"size": 24646064,
+						"crc": "44f08e5b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "2 Princesses (English Translation)",
+				"comment": "https://feuniverse.us/t/fe-2-princesses-english-translation/8380",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "184 - 2 Princesses (English Translation)",
+						"size": 27926780,
+						"crc": "cdf24969"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "A Glimpse of Time",
+				"comment": "https://ameblo.jp/yu-meigunsi/theme-10033783736.html",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "178 - A Glimpse of Time",
+						"size": 19436704,
+						"crc": "caccb1eb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Antagonist Emblem",
 				"comment": "https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -119,6 +173,42 @@
 						"name": "169 - Antagonist Emblem",
 						"size": 17515204,
 						"crc": "13983cfb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "B3L-H411-A",
+				"comment": "https://feuniverse.us/t/b3l-h411-a-bar-tending-in-fire-emblem-complete-fe8u/8813",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "212 - B3L-H411-A",
+						"size": 17536556,
+						"crc": "db73120f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Bandit Emblem",
+				"comment": "https://feuniverse.us/t/fe8-complete-bandit-emblem/8501",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "204 - Bandit Emblem",
+						"size": 17645508,
+						"crc": "4c0a42a1"
 					}
 				}
 			]
@@ -137,6 +227,96 @@
 						"name": "156 - Barry’s Bandits",
 						"size": 18715144,
 						"crc": "2ce87ea5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Bases and Bandits",
+				"comment": "https://feuniverse.us/t/bases-and-bandits-a-hack-where-every-player-unit-has-0-bases/11778",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "225 - Bases and Bandits",
+						"size": 18763176,
+						"crc": "dd587477"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Battle Against Vallui",
+				"comment": "https://feuniverse.us/t/fe8-battle-against-vallui/11760",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "224 - Battle Against Vallui",
+						"size": 18375244,
+						"crc": "d72b1607"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Battle Simulator (Ally Control)",
+				"comment": "https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "195 - Battle Simulator (Ally Control)",
+						"size": 16802684,
+						"crc": "3926efa0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Battle Simulator (Full Control)",
+				"comment": "https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "196 - Battle Simulator (Full Control)",
+						"size": 16802684,
+						"crc": "c8ea0c56"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Battle Simulator (No Control)",
+				"comment": "https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "197 - Battle Simulator (No Control)",
+						"size": 16802684,
+						"crc": "bcfccaf8"
 					}
 				}
 			]
@@ -191,6 +371,24 @@
 						"name": "158 - BS Fire Emblem - Archanea Saga",
 						"size": 16933169,
 						"crc": "39abb64a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Call of the Armor",
+				"comment": "https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes/12698",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "230 - Call of the Armor",
+						"size": 20330124,
+						"crc": "688794f7"
 					}
 				}
 			]
@@ -287,6 +485,78 @@
 		},
 		{
 			"machine": {
+				"name": "Deity Device (Bonus)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "229 - Deity Device (Bonus)",
+						"size": 17580332,
+						"crc": "7928a9df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Deity Device (Part 1)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "226 - Deity Device (Part 1)",
+						"size": 28848264,
+						"crc": "e9a09a50"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Deity Device (Part 2)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "227 - Deity Device (Part 2)",
+						"size": 28957288,
+						"crc": "4908dcba"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Deity Device (Part 3)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "228 - Deity Device (Part 3)",
+						"size": 28950336,
+						"crc": "5e69347e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Escape the Mangs Dungeon",
 				"comment": "https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787",
 				"description": null,
@@ -353,6 +623,150 @@
 						"name": "109 - FE7if",
 						"size": 33554432,
 						"crc": "6eca79ce"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 midori (Green)",
+				"comment": "緑パッチ（ＦＥ８）　ver.191020",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "176 - FE8 midori (Green)",
+						"size": 33554432,
+						"crc": "25d88b16"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 midori (Green) (English Translation)",
+				"comment": "https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "177 - FE8 midori (Green) (English Translation)",
+						"size": 33554432,
+						"crc": "4279b308"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8_GIRLS",
+				"comment": "ガールズ(09.10.04)",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "174 - FE8_GIRLS",
+						"size": 16777216,
+						"crc": "214b26b9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8_GIRLS (English Translation)",
+				"comment": "https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "175 - FE8_GIRLS (English Translation)",
+						"size": 16777216,
+						"crc": "d98445bc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fe 8 Chess",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-8-chess/14805",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "241 - Fe 8 Chess",
+						"size": 16806152,
+						"crc": "d5ddb5e8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE but it’s my Biology Homework",
+				"comment": "https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "198 - FE but it’s my Biology Homework",
+						"size": 17279456,
+						"crc": "385de2ec"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE The Grand Uprising",
+				"comment": "https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "213 - FE The Grand Uprising",
+						"size": 29479028,
+						"crc": "535448a4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE The Grand Uprising (Blue default player phase map sprite palette)",
+				"comment": "https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "214 - FE The Grand Uprising (Blue default player phase map sprite palette)",
+						"size": 29066908,
+						"crc": "adf5269e"
 					}
 				}
 			]
@@ -539,6 +953,60 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Emulation Theory",
+				"comment": "https://feuniverse.us/t/fire-emblem-emulation-theory/8910",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "231 - Fire Emblem - Emulation Theory",
+						"size": 20286080,
+						"crc": "2960b252"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Emulation Theory (Classic Mode, No skills)",
+				"comment": "https://feuniverse.us/t/fire-emblem-emulation-theory/8910",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)",
+						"size": 20286080,
+						"crc": "755d8d9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)",
+				"comment": "https://feuniverse.us/t/fire-emblem-emulation-theory/8910",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)",
+						"size": 20286080,
+						"crc": "28206b59"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Feud of the Fangs",
 				"comment": "https://laqieer.github.io/game-modding.html",
 				"description": null,
@@ -683,6 +1151,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Justice and Pride",
+				"comment": "https://feuniverse.us/t/fire-emblem-justice-pride-full-length-fe8-hack/5922",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "188 - Fire Emblem - Justice and Pride",
+						"size": 26189708,
+						"crc": "c166ce14"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Reawakening",
 				"comment": "https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952",
 				"description": null,
@@ -695,6 +1181,24 @@
 						"name": "146 - Fire Emblem - Reawakening",
 						"size": 20016012,
 						"crc": "9f92a410"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Reborn Dimensions, Olethian Princess",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-reborn-dimensions-olethian-princess/5317",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "220 - Fire Emblem - Reborn Dimensions, Olethian Princess",
+						"size": 23413200,
+						"crc": "f379d286"
 					}
 				}
 			]
@@ -989,6 +1493,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - The Fall of Thabes",
+				"comment": "https://feuniverse.us/t/the-fall-of-thabes-release/9941",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "221 - Fire Emblem - The Fall of Thabes",
+						"size": 24947612,
+						"crc": "7572b080"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - The Heroes We Deserve",
 				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-the-heroes-we-deserve-v1-3/4306",
 				"description": null,
@@ -1073,6 +1595,24 @@
 						"name": "7 - Fire Emblem - The Sacred Stones (USA, Australia)",
 						"size": 16777216,
 						"crc": "a47246ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Vision Quest",
+				"comment": "http://feuniverse.us/t/fe8-fire-emblem-vision-quest-6-2-18-v-02-beta-release-is-live/3815",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "203 - Fire Emblem - Vision Quest",
+						"size": 27226016,
+						"crc": "aee1137a"
 					}
 				}
 			]
@@ -1169,6 +1709,78 @@
 		},
 		{
 			"machine": {
+				"name": "Flames of Redemption",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "239 - Flames of Redemption",
+						"size": 24536888,
+						"crc": "e1428e68"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Flames of Redemption (supports unlocked)",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "240 - Flames of Redemption (supports unlocked)",
+						"size": 24536888,
+						"crc": "0c835af0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Four Kings - Deposition",
+				"comment": "https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "208 - Four Kings - Deposition",
+						"size": 29771900,
+						"crc": "583bf142"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Free for All",
+				"comment": "https://feuniverse.us/t/fe8u-fe8-free-for-all-4th-allegiance-test-update-v3/8435",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "209 - Free for All",
+						"size": 16840832,
+						"crc": "c4c15d98"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Gay Baby Emblem",
 				"comment": "https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854",
 				"description": null,
@@ -1241,6 +1853,132 @@
 		},
 		{
 			"machine": {
+				"name": "Heroes of PBAP",
+				"comment": "https://feuniverse.us/t/fire-emblem-heroes-of-pabp/5296",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "190 - Heroes of PBAP",
+						"size": 19640328,
+						"crc": "9e78b8ef"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Inheritance",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "210 - Inheritance",
+						"size": 27877852,
+						"crc": "db7233f0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Inheritance (with Minimug)",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "211 - Inheritance (with Minimug)",
+						"size": 27877852,
+						"crc": "bc0988fd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Isekai Emblem",
+				"comment": "https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "237 - Isekai Emblem",
+						"size": 23924912,
+						"crc": "60a52d28"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Journeys",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-v2-2-20-chapters/7313",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "219 - Journeys",
+						"size": 26336432,
+						"crc": "1c83df77"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Kaitou",
+				"comment": "https://feuniverse.us/t/fe8-kaitou-patch/2984",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "179 - Kaitou",
+						"size": 33153280,
+						"crc": "6e2c9f97"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Kaitou (English)",
+				"comment": "https://feuniverse.us/t/fe8-kaitou-patch/2984",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "180 - Kaitou (English)",
+						"size": 33465472,
+						"crc": "9cad49eb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Knoll’s Super Spooky Halloween Adventure",
 				"comment": "https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500",
 				"description": null,
@@ -1289,6 +2027,78 @@
 						"name": "170 - Marc’s Precious - Revenge",
 						"size": 17332276,
 						"crc": "4426c3f9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Myrm Emblem",
+				"comment": "https://feuniverse.us/t/fe8-complete-myrm-emblem-v1-0/11213",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "238 - Myrm Emblem",
+						"size": 22182264,
+						"crc": "b5a503ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Narcian and the Mirror Chamber",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/89316-rom-hack-fans-and-hacker-i-need-your-help/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "199 - Narcian and the Mirror Chamber",
+						"size": 18997204,
+						"crc": "9c298acb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Necrosis Among the Living (Main hack)",
+				"comment": "https://feuniverse.us/t/necrosis-among-the-living/8815",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "222 - Necrosis Among the Living (Main hack)",
+						"size": 25774348,
+						"crc": "97095ad2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Necrosis Among the Living (Prequel)",
+				"comment": "https://feuniverse.us/t/necrosis-among-the-living/8815",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "223 - Necrosis Among the Living (Prequel)",
+						"size": 18948236,
+						"crc": "313cff5b"
 					}
 				}
 			]
@@ -1361,6 +2171,24 @@
 						"name": "133 - Prisoner of Darkness (Hard Mode)",
 						"size": 20971560,
 						"crc": "1bbb05e1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Puzzle Emblem",
+				"comment": "https://feuniverse.us/t/puzzle-emblem/7316",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "189 - Puzzle Emblem",
+						"size": 16824428,
+						"crc": "83fc3242"
 					}
 				}
 			]
@@ -1457,6 +2285,24 @@
 		},
 		{
 			"machine": {
+				"name": "Rubik’s Cube",
+				"comment": "https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "216 - Rubik’s Cube",
+						"size": 16777216,
+						"crc": "38da7267"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Sacred Contention",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/",
 				"description": null,
@@ -1547,6 +2393,42 @@
 		},
 		{
 			"machine": {
+				"name": "Saga of the Shivering Shores",
+				"comment": "https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "194 - Saga of the Shivering Shores",
+						"size": 17841112,
+						"crc": "ad3d8b29"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Scarlet Rising",
+				"comment": "https://feuniverse.us/t/complete-fe8-scarlet-rising/7890",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "200 - Scarlet Rising",
+						"size": 20488132,
+						"crc": "8c78f4a5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Self-Randomising Rom",
 				"comment": "https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426",
 				"description": null,
@@ -1577,6 +2459,42 @@
 						"name": "102 - Shining Armor",
 						"size": 16788636,
 						"crc": "67368bbb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Slot Machine",
+				"comment": "https://feuniverse.us/t/slot-machine/8604",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "215 - Slot Machine",
+						"size": 16784068,
+						"crc": "36c739f5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Storge",
+				"comment": "https://feuniverse.us/t/fire-emblem-storge-complete/11711",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "236 - Storge",
+						"size": 20034916,
+						"crc": "079106d8"
 					}
 				}
 			]
@@ -1655,6 +2573,42 @@
 		},
 		{
 			"machine": {
+				"name": "The Dark Hour",
+				"comment": "https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "201 - The Dark Hour",
+						"size": 26994984,
+						"crc": "8575430f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Dark Hour (Hard Mode)",
+				"comment": "https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "202 - The Dark Hour (Hard Mode)",
+						"size": 26995576,
+						"crc": "bfc8d218"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Dragon Herald",
 				"comment": "https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075",
 				"description": null,
@@ -1685,6 +2639,96 @@
 						"name": "153 - The Dragon Herald (DSSave)",
 						"size": 25565628,
 						"crc": "24eaa892"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Final Swear 2",
+				"comment": "https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "191 - The Final Swear 2",
+						"size": 18404968,
+						"crc": "fb400d2d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Final Swear 4",
+				"comment": "https://feuniverse.us/t/fe8u-the-final-swear-4-completed/7896",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "192 - The Final Swear 4",
+						"size": 24565116,
+						"crc": "458fb062"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Four Kings",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "205 - The Four Kings",
+						"size": 29587472,
+						"crc": "191ec326"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Four Kings (0% Growths)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "206 - The Four Kings (0% Growths)",
+						"size": 28749664,
+						"crc": "b58a101f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Four Kings (Reverse Recruitment)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "207 - The Four Kings (Reverse Recruitment)",
+						"size": 28852468,
+						"crc": "34e1170d"
 					}
 				}
 			]
@@ -1781,6 +2825,60 @@
 		},
 		{
 			"machine": {
+				"name": "The Sacred Chairs",
+				"comment": "https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "185 - The Sacred Chairs",
+						"size": 24229624,
+						"crc": "841a14f7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sacred Chairs (0% Growths Version)",
+				"comment": "https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "187 - The Sacred Chairs (0% Growths Version)",
+						"size": 24229664,
+						"crc": "8c316c5e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sacred Chairs (Boss Version)",
+				"comment": "https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "186 - The Sacred Chairs (Boss Version)",
+						"size": 24231680,
+						"crc": "34d15caf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Sacred War (Final Update - v1.51)",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867",
 				"description": null,
@@ -1817,6 +2915,60 @@
 		},
 		{
 			"machine": {
+				"name": "The Sun God’s Wrath",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "217 - The Sun God’s Wrath",
+						"size": 33007088,
+						"crc": "cc06a4ef"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (0 growth)",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "218 - The Sun God’s Wrath (0 growth)",
+						"size": 33007108,
+						"crc": "7def8770"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin",
+				"comment": "https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin",
+						"size": 22807804,
+						"crc": "1b8b59c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Unburdened Liberty",
 				"comment": "https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860",
 				"description": null,
@@ -1829,6 +2981,24 @@
 						"name": "136 - Unburdened Liberty",
 						"size": 21005868,
 						"crc": "b616cc93"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Voice Acting Tech Demo",
+				"comment": "https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "193 - Voice Acting Tech Demo",
+						"size": 17337768,
+						"crc": "c2cd5264"
 					}
 				}
 			]
@@ -1907,6 +3077,42 @@
 		},
 		{
 			"machine": {
+				"name": "War on Two Fronts",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-war-on-two-fronts-v1-2-currently-looking-for-graphical-help/8548",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "234 - War on Two Fronts",
+						"size": 24923600,
+						"crc": "3c922e66"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "War on Two Fronts (0% Growths)",
+				"comment": "https://feuniverse.us/t/fe8-complete-fire-emblem-war-on-two-fronts-v1-2-currently-looking-for-graphical-help/8548",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "235 - War on Two Fronts (0% Growths)",
+						"size": 24923600,
+						"crc": "aa7bf47b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Winning Against Gharnef",
 				"comment": "https://github.com/sme23/MekkahRestrictedHackComp1",
 				"description": null,
@@ -1919,6 +3125,42 @@
 						"name": "165 - Winning Against Gharnef",
 						"size": 18085528,
 						"crc": "03c472ee"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Yggdra Hack UI Translation",
+				"comment": "https://github.com/jfarr095/YggdraHack",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "182 - Yggdra Hack UI Translation",
+						"size": 25450720,
+						"crc": "63b815ad"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Yugudora Hack",
+				"comment": "ユグドラパッチ",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "181 - Yugudora Hack",
+						"size": 26349436,
+						"crc": "ea667865"
 					}
 				}
 			]

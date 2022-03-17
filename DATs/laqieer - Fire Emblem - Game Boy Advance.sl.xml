@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="169 - Antagonist Emblem">
+	<software name="2 Princesses">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="183 - 2 Princesses" size="24646064" crc="44f08e5b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="2 Princesses (English Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="A Glimpse of Time">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="178 - A Glimpse of Time" size="19436704" crc="caccb1eb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Antagonist Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="B3L-H411-A">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="212 - B3L-H411-A" size="17536556" crc="db73120f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Bandit Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
 			</dataarea>
 		</part>
 	</software>
@@ -14,6 +54,46 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Bases and Bandits">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="225 - Bases and Bandits" size="18763176" crc="dd587477" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Battle Against Vallui">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="224 - Battle Against Vallui" size="18375244" crc="d72b1607" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Battle Simulator (Ally Control)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="195 - Battle Simulator (Ally Control)" size="16802684" crc="3926efa0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Battle Simulator (Full Control)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="196 - Battle Simulator (Full Control)" size="16802684" crc="c8ea0c56" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Battle Simulator (No Control)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="197 - Battle Simulator (No Control)" size="16802684" crc="bcfccaf8" />
 			</dataarea>
 		</part>
 	</software>
@@ -38,6 +118,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="158 - BS Fire Emblem - Archanea Saga" size="16933169" crc="39abb64a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Call of the Armor">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="230 - Call of the Armor" size="20330124" crc="688794f7" />
 			</dataarea>
 		</part>
 	</software>
@@ -81,6 +169,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Deity Device (Bonus)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="229 - Deity Device (Bonus)" size="17580332" crc="7928a9df" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Deity Device (Part 1)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="226 - Deity Device (Part 1)" size="28848264" crc="e9a09a50" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Deity Device (Part 2)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="227 - Deity Device (Part 2)" size="28957288" crc="4908dcba" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Deity Device (Part 3)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Escape the Mangs Dungeon">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -110,6 +230,70 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 midori (Green)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="176 - FE8 midori (Green)" size="33554432" crc="25d88b16" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 midori (Green) (English Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="177 - FE8 midori (Green) (English Translation)" size="33554432" crc="4279b308" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8_GIRLS">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="174 - FE8_GIRLS" size="16777216" crc="214b26b9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8_GIRLS (English Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="175 - FE8_GIRLS (English Translation)" size="16777216" crc="d98445bc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fe 8 Chess">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="241 - Fe 8 Chess" size="16806152" crc="d5ddb5e8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE but it’s my Biology Homework">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="198 - FE but it’s my Biology Homework" size="17279456" crc="385de2ec" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE The Grand Uprising">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="213 - FE The Grand Uprising" size="29479028" crc="535448a4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE The Grand Uprising (Blue default player phase map sprite palette)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="214 - FE The Grand Uprising (Blue default player phase map sprite palette)" size="29066908" crc="adf5269e" />
 			</dataarea>
 		</part>
 	</software>
@@ -193,6 +377,30 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Emulation Theory">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="231 - Fire Emblem - Emulation Theory" size="20286080" crc="2960b252" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Emulation Theory (Classic Mode, No skills)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)" size="20286080" crc="755d8d9a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)" size="20286080" crc="28206b59" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Feud of the Fangs">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -257,11 +465,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Justice and Pride">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="188 - Fire Emblem - Justice and Pride" size="26189708" crc="c166ce14" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Reawakening">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="146 - Fire Emblem - Reawakening" size="20016012" crc="9f92a410" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Reborn Dimensions, Olethian Princess">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="220 - Fire Emblem - Reborn Dimensions, Olethian Princess" size="23413200" crc="f379d286" />
 			</dataarea>
 		</part>
 	</software>
@@ -393,6 +617,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - The Fall of Thabes">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="221 - Fire Emblem - The Fall of Thabes" size="24947612" crc="7572b080" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - The Heroes We Deserve">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -430,6 +662,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="7 - Fire Emblem - The Sacred Stones (USA, Australia)" size="16777216" crc="a47246ae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Vision Quest">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="203 - Fire Emblem - Vision Quest" size="27226016" crc="aee1137a" />
 			</dataarea>
 		</part>
 	</software>
@@ -473,6 +713,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Flames of Redemption">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="239 - Flames of Redemption" size="24536888" crc="e1428e68" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Flames of Redemption (supports unlocked)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="240 - Flames of Redemption (supports unlocked)" size="24536888" crc="0c835af0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Four Kings - Deposition">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="208 - Four Kings - Deposition" size="29771900" crc="583bf142" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Free for All">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="209 - Free for All" size="16840832" crc="c4c15d98" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Gay Baby Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -505,6 +777,62 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Heroes of PBAP">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="190 - Heroes of PBAP" size="19640328" crc="9e78b8ef" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Inheritance">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="210 - Inheritance" size="27877852" crc="db7233f0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Inheritance (with Minimug)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="211 - Inheritance (with Minimug)" size="27877852" crc="bc0988fd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Isekai Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="237 - Isekai Emblem" size="23924912" crc="60a52d28" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Journeys">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="219 - Journeys" size="26336432" crc="1c83df77" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Kaitou">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="179 - Kaitou" size="33153280" crc="6e2c9f97" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Kaitou (English)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="180 - Kaitou (English)" size="33465472" crc="9cad49eb" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Knoll’s Super Spooky Halloween Adventure">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -526,6 +854,38 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Myrm Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="238 - Myrm Emblem" size="22182264" crc="b5a503ae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Narcian and the Mirror Chamber">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="199 - Narcian and the Mirror Chamber" size="18997204" crc="9c298acb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Necrosis Among the Living (Main hack)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="222 - Necrosis Among the Living (Main hack)" size="25774348" crc="97095ad2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Necrosis Among the Living (Prequel)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="223 - Necrosis Among the Living (Prequel)" size="18948236" crc="313cff5b" />
 			</dataarea>
 		</part>
 	</software>
@@ -558,6 +918,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Puzzle Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="189 - Puzzle Emblem" size="16824428" crc="83fc3242" />
 			</dataarea>
 		</part>
 	</software>
@@ -601,6 +969,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Rubik’s Cube">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="216 - Rubik’s Cube" size="16777216" crc="38da7267" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Contention">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -641,6 +1017,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Saga of the Shivering Shores">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="194 - Saga of the Shivering Shores" size="17841112" crc="ad3d8b29" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Scarlet Rising">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Self-Randomising Rom">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -654,6 +1046,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Slot Machine">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Storge">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="236 - Storge" size="20034916" crc="079106d8" />
 			</dataarea>
 		</part>
 	</software>
@@ -689,6 +1097,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Dark Hour">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="201 - The Dark Hour" size="26994984" crc="8575430f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Dark Hour (Hard Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="202 - The Dark Hour (Hard Mode)" size="26995576" crc="bfc8d218" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Dragon Herald">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -702,6 +1126,46 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Final Swear 2">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="191 - The Final Swear 2" size="18404968" crc="fb400d2d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Final Swear 4">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="192 - The Final Swear 4" size="24565116" crc="458fb062" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Four Kings">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="205 - The Four Kings" size="29587472" crc="191ec326" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Four Kings (0% Growths)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="206 - The Four Kings (0% Growths)" size="28749664" crc="b58a101f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Four Kings (Reverse Recruitment)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="207 - The Four Kings (Reverse Recruitment)" size="28852468" crc="34e1170d" />
 			</dataarea>
 		</part>
 	</software>
@@ -745,6 +1209,30 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Sacred Chairs">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="185 - The Sacred Chairs" size="24229624" crc="841a14f7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sacred Chairs (0% Growths Version)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="187 - The Sacred Chairs (0% Growths Version)" size="24229664" crc="8c316c5e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sacred Chairs (Boss Version)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="186 - The Sacred Chairs (Boss Version)" size="24231680" crc="34d15caf" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Sacred War (Final Update - v1.51)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -761,11 +1249,43 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Sun God’s Wrath">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="217 - The Sun God’s Wrath" size="33007088" crc="cc06a4ef" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (0 growth)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Unburdened Liberty">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="136 - Unburdened Liberty" size="21005868" crc="b616cc93" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Voice Acting Tech Demo">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="193 - Voice Acting Tech Demo" size="17337768" crc="c2cd5264" />
 			</dataarea>
 		</part>
 	</software>
@@ -801,11 +1321,43 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="War on Two Fronts">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="234 - War on Two Fronts" size="24923600" crc="3c922e66" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="War on Two Fronts (0% Growths)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="235 - War on Two Fronts (0% Growths)" size="24923600" crc="aa7bf47b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Winning Against Gharnef">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Yggdra Hack UI Translation">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="182 - Yggdra Hack UI Translation" size="25450720" crc="63b815ad" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Yugudora Hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="181 - Yugudora Hack" size="26349436" crc="ea667865" />
 			</dataarea>
 		</part>
 	</software>

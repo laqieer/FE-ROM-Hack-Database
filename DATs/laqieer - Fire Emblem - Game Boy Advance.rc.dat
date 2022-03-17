@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220316
+version=20220317
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -11,20 +11,43 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬169 - Antagonist Emblem¬169 - Antagonist Emblem¬169 - Antagonist Emblem¬13983cfb¬17515204¬¬¬
+¬¬¬2 Princesses¬2 Princesses¬183 - 2 Princesses¬44f08e5b¬24646064¬¬¬
+¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
+¬¬¬A Glimpse of Time¬A Glimpse of Time¬178 - A Glimpse of Time¬caccb1eb¬19436704¬¬¬
+¬¬¬Antagonist Emblem¬Antagonist Emblem¬169 - Antagonist Emblem¬13983cfb¬17515204¬¬¬
+¬¬¬B3L-H411-A¬B3L-H411-A¬212 - B3L-H411-A¬db73120f¬17536556¬¬¬
+¬¬¬Bandit Emblem¬Bandit Emblem¬204 - Bandit Emblem¬4c0a42a1¬17645508¬¬¬
 ¬¬¬Barry’s Bandits¬Barry’s Bandits¬156 - Barry’s Bandits¬2ce87ea5¬18715144¬¬¬
+¬¬¬Bases and Bandits¬Bases and Bandits¬225 - Bases and Bandits¬dd587477¬18763176¬¬¬
+¬¬¬Battle Against Vallui¬Battle Against Vallui¬224 - Battle Against Vallui¬d72b1607¬18375244¬¬¬
+¬¬¬Battle Simulator (Ally Control)¬Battle Simulator (Ally Control)¬195 - Battle Simulator (Ally Control)¬3926efa0¬16802684¬¬¬
+¬¬¬Battle Simulator (Full Control)¬Battle Simulator (Full Control)¬196 - Battle Simulator (Full Control)¬c8ea0c56¬16802684¬¬¬
+¬¬¬Battle Simulator (No Control)¬Battle Simulator (No Control)¬197 - Battle Simulator (No Control)¬bcfccaf8¬16802684¬¬¬
 ¬¬¬Blazer’s One Day Hack¬Blazer’s One Day Hack¬127 - Blazer’s One Day Hack¬c68db4ee¬20983928¬¬¬
 ¬¬¬Boss War¬Boss War¬115 - Boss War¬186ecc6e¬25171160¬¬¬
 ¬¬¬BS Fire Emblem - Archanea Saga¬BS Fire Emblem - Archanea Saga¬158 - BS Fire Emblem - Archanea Saga¬39abb64a¬16933169¬¬¬
+¬¬¬Call of the Armor¬Call of the Armor¬230 - Call of the Armor¬688794f7¬20330124¬¬¬
 ¬¬¬Carcino’s Civil War¬Carcino’s Civil War¬119 - Carcino’s Civil War¬88a038ec¬17378852¬¬¬
 ¬¬¬Christmas Crossover Carol¬Christmas Crossover Carol¬121 - Christmas Crossover Carol¬676c6d7f¬16831344¬¬¬
 ¬¬¬Cornwell’s Ascension¬Cornwell’s Ascension¬138 - Cornwell’s Ascension¬6ad635db¬17109180¬¬¬
 ¬¬¬Corrupt Theocracy¬Corrupt Theocracy¬107 - Corrupt Theocracy¬928dbeb0¬16873266¬¬¬
 ¬¬¬Dark Lord and the Maiden of Light¬Dark Lord and the Maiden of Light¬120 - Dark Lord and the Maiden of Light¬2edd404d¬24393296¬¬¬
+¬¬¬Deity Device (Bonus)¬Deity Device (Bonus)¬229 - Deity Device (Bonus)¬7928a9df¬17580332¬¬¬
+¬¬¬Deity Device (Part 1)¬Deity Device (Part 1)¬226 - Deity Device (Part 1)¬e9a09a50¬28848264¬¬¬
+¬¬¬Deity Device (Part 2)¬Deity Device (Part 2)¬227 - Deity Device (Part 2)¬4908dcba¬28957288¬¬¬
+¬¬¬Deity Device (Part 3)¬Deity Device (Part 3)¬228 - Deity Device (Part 3)¬5e69347e¬28950336¬¬¬
 ¬¬¬Escape the Mangs Dungeon¬Escape the Mangs Dungeon¬161 - Escape the Mangs Dungeon¬090dffb3¬17083184¬¬¬
 ¬¬¬Fallen King¬Fallen King¬114 - Fallen King¬8b2cbe45¬17826340¬¬¬
 ¬¬¬FE7 Inflation¬FE7 Inflation¬112 - FE7 Inflation¬6ea83897¬17825792¬¬¬
 ¬¬¬FE7if¬FE7if¬109 - FE7if¬6eca79ce¬33554432¬¬¬
+¬¬¬FE8 midori (Green)¬FE8 midori (Green)¬176 - FE8 midori (Green)¬25d88b16¬33554432¬¬¬
+¬¬¬FE8 midori (Green) (English Translation)¬FE8 midori (Green) (English Translation)¬177 - FE8 midori (Green) (English Translation)¬4279b308¬33554432¬¬¬
+¬¬¬FE8_GIRLS¬FE8_GIRLS¬174 - FE8_GIRLS¬214b26b9¬16777216¬¬¬
+¬¬¬FE8_GIRLS (English Translation)¬FE8_GIRLS (English Translation)¬175 - FE8_GIRLS (English Translation)¬d98445bc¬16777216¬¬¬
+¬¬¬Fe 8 Chess¬Fe 8 Chess¬241 - Fe 8 Chess¬d5ddb5e8¬16806152¬¬¬
+¬¬¬FE but it’s my Biology Homework¬FE but it’s my Biology Homework¬198 - FE but it’s my Biology Homework¬385de2ec¬17279456¬¬¬
+¬¬¬FE The Grand Uprising¬FE The Grand Uprising¬213 - FE The Grand Uprising¬535448a4¬29479028¬¬¬
+¬¬¬FE The Grand Uprising (Blue default player phase map sprite palette)¬FE The Grand Uprising (Blue default player phase map sprite palette)¬214 - FE The Grand Uprising (Blue default player phase map sprite palette)¬adf5269e¬29066908¬¬¬
 ¬¬¬FEU Gacha¬FEU Gacha¬168 - FEU Gacha¬35c74672¬16777216¬¬¬
 ¬¬¬Fire Emblem (Europe) (En,Es,It)¬Fire Emblem (Europe) (En,Es,It)¬5 - Fire Emblem (Europe) (En,Es,It)¬9decc754¬16777216¬¬¬
 ¬¬¬Fire Emblem (Europe) (En,Fr,De)¬Fire Emblem (Europe) (En,Fr,De)¬4 - Fire Emblem (Europe) (En,Fr,De)¬4a805ed1¬16777216¬¬¬
@@ -35,6 +58,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Code of the Black Knights¬Fire Emblem - Code of the Black Knights¬150 - Fire Emblem - Code of the Black Knights¬c666f8b1¬33016900¬¬¬
 ¬¬¬Fire Emblem - Death or Glory¬Fire Emblem - Death or Glory¬124 - Fire Emblem - Death or Glory¬cf613764¬19915268¬¬¬
 ¬¬¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬122 - Fire Emblem - Different Dimensions Ostian Princess 2.0¬624f1b70¬17357684¬¬¬
+¬¬¬Fire Emblem - Emulation Theory¬Fire Emblem - Emulation Theory¬231 - Fire Emblem - Emulation Theory¬2960b252¬20286080¬¬¬
+¬¬¬Fire Emblem - Emulation Theory (Classic Mode, No skills)¬Fire Emblem - Emulation Theory (Classic Mode, No skills)¬232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)¬755d8d9a¬20286080¬¬¬
+¬¬¬Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)¬Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)¬233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)¬28206b59¬20286080¬¬¬
 ¬¬¬Fire Emblem - Feud of the Fangs¬Fire Emblem - Feud of the Fangs¬139 - Fire Emblem - Feud of the Fangs¬7b2765bc¬16805464¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]¬Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]¬16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]¬8cebef1e¬16777216¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)¬Fire Emblem - Fuuin no Tsurugi (Japan)¬1 - Fire Emblem - Fuuin no Tsurugi (Japan)¬d38763e1¬8388608¬¬¬
@@ -43,7 +69,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬1ccf7040¬8388608¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬1f19d989¬8388608¬¬¬
 ¬¬¬Fire Emblem - Heroes Remake¬Fire Emblem - Heroes Remake¬100 - Fire Emblem - Heroes Remake¬1c4fcc59¬31526756¬¬¬
+¬¬¬Fire Emblem - Justice and Pride¬Fire Emblem - Justice and Pride¬188 - Fire Emblem - Justice and Pride¬c166ce14¬26189708¬¬¬
 ¬¬¬Fire Emblem - Reawakening¬Fire Emblem - Reawakening¬146 - Fire Emblem - Reawakening¬9f92a410¬20016012¬¬¬
+¬¬¬Fire Emblem - Reborn Dimensions, Olethian Princess¬Fire Emblem - Reborn Dimensions, Olethian Princess¬220 - Fire Emblem - Reborn Dimensions, Olethian Princess¬f379d286¬23413200¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan)¬Fire Emblem - Rekka no Ken (Japan)¬2 - Fire Emblem - Rekka no Ken (Japan)¬f0c10e72¬16777216¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)¬b40d6854¬16777216¬¬¬
 ¬¬¬Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)¬8146a270¬16777216¬¬¬
@@ -56,60 +84,101 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]¬Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]¬27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]¬223f8fc4¬16777216¬¬¬
 ¬¬¬Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]¬Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]¬26 - Fire Emblem - Seima no Kouseki (Japan)[Wolf & Chinafe](v20060906) [CHS]¬79609d14¬16777216¬¬¬
 ¬¬¬Fire Emblem - Sword of Heaven and Earth (Menu Translation)¬Fire Emblem - Sword of Heaven and Earth (Menu Translation)¬111 - Fire Emblem - Sword of Heaven and Earth (Menu Translation)¬d3146773¬27379316¬¬¬
-¬¬¬Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]¬Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]¬28 - Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]¬35f5b06b¬16777216¬¬¬
+¬¬¬Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]¬Fire Emblem - Sword of Seals (English Translation v2.1)[Dark Twilkitri Net Translation Division]¬28 - Fire Emblem - Sword of Seals (English Translation v2¬35f5b06b¬16777216¬¬¬
 ¬¬¬Fire Emblem - Tenchi no Ken (Japan)¬Fire Emblem - Tenchi no Ken (Japan)¬110 - Fire Emblem - Tenchi no Ken (Japan)¬f925dd29¬27323016¬¬¬
 ¬¬¬Fire Emblem - The Arch of Coups¬Fire Emblem - The Arch of Coups¬157 - Fire Emblem - The Arch of Coups¬362cecef¬18641452¬¬¬
 ¬¬¬Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]¬Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]¬29 - Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]¬c5ccd529¬8587268¬¬¬
+¬¬¬Fire Emblem - The Fall of Thabes¬Fire Emblem - The Fall of Thabes¬221 - Fire Emblem - The Fall of Thabes¬7572b080¬24947612¬¬¬
 ¬¬¬Fire Emblem - The Heroes We Deserve¬Fire Emblem - The Heroes We Deserve¬155 - Fire Emblem - The Heroes We Deserve¬a2171a8e¬22209796¬¬¬
 ¬¬¬Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)¬Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)¬8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)¬b3005195¬33554432¬¬¬
 ¬¬¬Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)¬Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)¬14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)¬2653401a¬33554432¬¬¬
 ¬¬¬Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)¬Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)¬12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)¬dea3b767¬16777216¬¬¬
 ¬¬¬Fire Emblem - The Sacred Stones (USA, Australia)¬Fire Emblem - The Sacred Stones (USA, Australia)¬7 - Fire Emblem - The Sacred Stones (USA, Australia)¬a47246ae¬16777216¬¬¬
+¬¬¬Fire Emblem - Vision Quest¬Fire Emblem - Vision Quest¬203 - Fire Emblem - Vision Quest¬aee1137a¬27226016¬¬¬
 ¬¬¬Fire Emblem - Will of Good and Evil¬Fire Emblem - Will of Good and Evil¬101 - Fire Emblem - Will of Good and Evil¬9cbb923e¬16777216¬¬¬
 ¬¬¬Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)¬Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)¬117 - Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)¬fc2b8ed3¬25224852¬¬¬
 ¬¬¬Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)¬Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)¬116 - Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)¬8ea1444d¬25198924¬¬¬
 ¬¬¬Fire Emblem Poop¬Fire Emblem Poop¬118 - Fire Emblem Poop¬8d1db15c¬24492260¬¬¬
 ¬¬¬Fire Emblem Versus¬Fire Emblem Versus¬134 - Fire Emblem Versus¬47ba1139¬16777284¬¬¬
+¬¬¬Flames of Redemption¬Flames of Redemption¬239 - Flames of Redemption¬e1428e68¬24536888¬¬¬
+¬¬¬Flames of Redemption (supports unlocked)¬Flames of Redemption (supports unlocked)¬240 - Flames of Redemption (supports unlocked)¬0c835af0¬24536888¬¬¬
+¬¬¬Four Kings - Deposition¬Four Kings - Deposition¬208 - Four Kings - Deposition¬583bf142¬29771900¬¬¬
+¬¬¬Free for All¬Free for All¬209 - Free for All¬c4c15d98¬16840832¬¬¬
 ¬¬¬Gay Baby Emblem¬Gay Baby Emblem¬166 - Gay Baby Emblem¬a95e4ae4¬17048076¬¬¬
 ¬¬¬Heaven’s Bloom¬Heaven’s Bloom¬154 - Heaven’s Bloom¬c998aa0e¬18376448¬¬¬
 ¬¬¬Hector Saves Christmas¬Hector Saves Christmas¬163 - Hector Saves Christmas¬6896d8c2¬17089672¬¬¬
 ¬¬¬Hector Saves Christmas Again¬Hector Saves Christmas Again¬164 - Hector Saves Christmas Again¬e69b171f¬17415920¬¬¬
+¬¬¬Heroes of PBAP¬Heroes of PBAP¬190 - Heroes of PBAP¬9e78b8ef¬19640328¬¬¬
+¬¬¬Inheritance¬Inheritance¬210 - Inheritance¬db7233f0¬27877852¬¬¬
+¬¬¬Inheritance (with Minimug)¬Inheritance (with Minimug)¬211 - Inheritance (with Minimug)¬bc0988fd¬27877852¬¬¬
+¬¬¬Isekai Emblem¬Isekai Emblem¬237 - Isekai Emblem¬60a52d28¬23924912¬¬¬
+¬¬¬Journeys¬Journeys¬219 - Journeys¬1c83df77¬26336432¬¬¬
+¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬6e2c9f97¬33153280¬¬¬
+¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬9cad49eb¬33465472¬¬¬
 ¬¬¬Knoll’s Super Spooky Halloween Adventure¬Knoll’s Super Spooky Halloween Adventure¬162 - Knoll’s Super Spooky Halloween Adventure¬19a64b75¬17014360¬¬¬
 ¬¬¬Maiden Quest¬Maiden Quest¬125 - Maiden Quest¬f11864bd¬19773496¬¬¬
 ¬¬¬Marc’s Precious - Revenge¬Marc’s Precious - Revenge¬170 - Marc’s Precious - Revenge¬4426c3f9¬17332276¬¬¬
+¬¬¬Myrm Emblem¬Myrm Emblem¬238 - Myrm Emblem¬b5a503ae¬22182264¬¬¬
+¬¬¬Narcian and the Mirror Chamber¬Narcian and the Mirror Chamber¬199 - Narcian and the Mirror Chamber¬9c298acb¬18997204¬¬¬
+¬¬¬Necrosis Among the Living (Main hack)¬Necrosis Among the Living (Main hack)¬222 - Necrosis Among the Living (Main hack)¬97095ad2¬25774348¬¬¬
+¬¬¬Necrosis Among the Living (Prequel)¬Necrosis Among the Living (Prequel)¬223 - Necrosis Among the Living (Prequel)¬313cff5b¬18948236¬¬¬
 ¬¬¬One-Turn-Clear¬One-Turn-Clear¬151 - One-Turn-Clear¬e930a809¬16806828¬¬¬
 ¬¬¬One-Week Hack¬One-Week Hack¬171 - One-Week Hack¬2144df1c¬17087872¬¬¬
 ¬¬¬Prisoner of Darkness¬Prisoner of Darkness¬140 - Prisoner of Darkness¬95f14edd¬20971804¬¬¬
 ¬¬¬Prisoner of Darkness (Hard Mode)¬Prisoner of Darkness (Hard Mode)¬133 - Prisoner of Darkness (Hard Mode)¬1bbb05e1¬20971560¬¬¬
+¬¬¬Puzzle Emblem¬Puzzle Emblem¬189 - Puzzle Emblem¬83fc3242¬16824428¬¬¬
 ¬¬¬Ragefest 5 DLC¬Ragefest 5 DLC¬137 - Ragefest 5 DLC¬0c516c3e¬17194360¬¬¬
 ¬¬¬Rart Emblem - Halloween¬Rart Emblem - Halloween¬159 - Rart Emblem - Halloween¬61dad746¬17308636¬¬¬
 ¬¬¬Requiem¬Requiem¬113 - Requiem¬1225efff¬18774852¬¬¬
 ¬¬¬Resident Emblem 8¬Resident Emblem 8¬160 - Resident Emblem 8¬3d35a4fc¬17080688¬¬¬
 ¬¬¬Resonance¬Resonance¬144 - Resonance¬7d35cc3c¬21319464¬¬¬
+¬¬¬Rubik’s Cube¬Rubik’s Cube¬216 - Rubik’s Cube¬38da7267¬16777216¬¬¬
 ¬¬¬Sacred Contention¬Sacred Contention¬128 - Sacred Contention¬34f11759¬19125992¬¬¬
 ¬¬¬Sacred Contention (DS Battle Background Mode)¬Sacred Contention (DS Battle Background Mode)¬129 - Sacred Contention (DS Battle Background Mode)¬4fccb155¬20971520¬¬¬
 ¬¬¬Sacred Contention (E-Rank Mode)¬Sacred Contention (E-Rank Mode)¬130 - Sacred Contention (E-Rank Mode)¬b9c52723¬19125992¬¬¬
 ¬¬¬Sacred Contention (No Supports Mode)¬Sacred Contention (No Supports Mode)¬131 - Sacred Contention (No Supports Mode)¬7b7cc292¬19125992¬¬¬
 ¬¬¬Sacred Contention (Still Mode)¬Sacred Contention (Still Mode)¬132 - Sacred Contention (Still Mode)¬c2e7e8ea¬19125992¬¬¬
+¬¬¬Saga of the Shivering Shores¬Saga of the Shivering Shores¬194 - Saga of the Shivering Shores¬ad3d8b29¬17841112¬¬¬
+¬¬¬Scarlet Rising¬Scarlet Rising¬200 - Scarlet Rising¬8c78f4a5¬20488132¬¬¬
 ¬¬¬Self-Randomising Rom¬Self-Randomising Rom¬167 - Self-Randomising Rom¬21b24720¬16777216¬¬¬
 ¬¬¬Shining Armor¬Shining Armor¬102 - Shining Armor¬67368bbb¬16788636¬¬¬
+¬¬¬Slot Machine¬Slot Machine¬215 - Slot Machine¬36c739f5¬16784068¬¬¬
+¬¬¬Storge¬Storge¬236 - Storge¬079106d8¬20034916¬¬¬
 ¬¬¬The Burdened Crown¬The Burdened Crown¬145 - The Burdened Crown¬489aff60¬22485048¬¬¬
 ¬¬¬The Burdened Crown (0 Growths)¬The Burdened Crown (0 Growths)¬147 - The Burdened Crown (0 Growths)¬25e8f03d¬22485048¬¬¬
 ¬¬¬The Burdened Crown (100 Growths)¬The Burdened Crown (100 Growths)¬148 - The Burdened Crown (100 Growths)¬c152923c¬22485048¬¬¬
 ¬¬¬The Burdened Crown (Blue)¬The Burdened Crown (Blue)¬149 - The Burdened Crown (Blue)¬0459d055¬22485048¬¬¬
+¬¬¬The Dark Hour¬The Dark Hour¬201 - The Dark Hour¬8575430f¬26994984¬¬¬
+¬¬¬The Dark Hour (Hard Mode)¬The Dark Hour (Hard Mode)¬202 - The Dark Hour (Hard Mode)¬bfc8d218¬26995576¬¬¬
 ¬¬¬The Dragon Herald¬The Dragon Herald¬152 - The Dragon Herald¬72d65e0b¬25565628¬¬¬
 ¬¬¬The Dragon Herald (DSSave)¬The Dragon Herald (DSSave)¬153 - The Dragon Herald (DSSave)¬24eaa892¬25565628¬¬¬
+¬¬¬The Final Swear 2¬The Final Swear 2¬191 - The Final Swear 2¬fb400d2d¬18404968¬¬¬
+¬¬¬The Final Swear 4¬The Final Swear 4¬192 - The Final Swear 4¬458fb062¬24565116¬¬¬
+¬¬¬The Four Kings¬The Four Kings¬205 - The Four Kings¬191ec326¬29587472¬¬¬
+¬¬¬The Four Kings (0% Growths)¬The Four Kings (0% Growths)¬206 - The Four Kings (0% Growths)¬b58a101f¬28749664¬¬¬
+¬¬¬The Four Kings (Reverse Recruitment)¬The Four Kings (Reverse Recruitment)¬207 - The Four Kings (Reverse Recruitment)¬34e1170d¬28852468¬¬¬
 ¬¬¬The Last Promise¬The Last Promise¬103 - The Last Promise¬d1c6e5d5¬32505856¬¬¬
 ¬¬¬The Last Promise (Chaos Mode DEMO)¬The Last Promise (Chaos Mode DEMO)¬105 - The Last Promise (Chaos Mode DEMO)¬365cf432¬32446048¬¬¬
 ¬¬¬The Last Promise (Easy Mode)¬The Last Promise (Easy Mode)¬104 - The Last Promise (Easy Mode)¬be1b4153¬32445120¬¬¬
 ¬¬¬The Last Promise (Weapon Reversal)¬The Last Promise (Weapon Reversal)¬106 - The Last Promise (Weapon Reversal)¬38f7a2c6¬33302356¬¬¬
 ¬¬¬The Road to Ruin¬The Road to Ruin¬108 - The Road to Ruin¬6522df69¬21666332¬¬¬
+¬¬¬The Sacred Chairs¬The Sacred Chairs¬185 - The Sacred Chairs¬841a14f7¬24229624¬¬¬
+¬¬¬The Sacred Chairs (0% Growths Version)¬The Sacred Chairs (0% Growths Version)¬187 - The Sacred Chairs (0% Growths Version)¬8c316c5e¬24229664¬¬¬
+¬¬¬The Sacred Chairs (Boss Version)¬The Sacred Chairs (Boss Version)¬186 - The Sacred Chairs (Boss Version)¬34d15caf¬24231680¬¬¬
 ¬¬¬The Sacred War (Final Update - v1.51)¬The Sacred War (Final Update - v1.51)¬173 - The Sacred War (Final Update - v1.51)¬8dc775b2¬31187848¬¬¬
 ¬¬¬The Sacred War (Starting Version - v1.36)¬The Sacred War (Starting Version - v1.36)¬172 - The Sacred War (Starting Version - v1.36)¬9ff4790d¬31133988¬¬¬
+¬¬¬The Sun God’s Wrath¬The Sun God’s Wrath¬217 - The Sun God’s Wrath¬cc06a4ef¬33007088¬¬¬
+¬¬¬The Sun God’s Wrath (0 growth)¬The Sun God’s Wrath (0 growth)¬218 - The Sun God’s Wrath (0 growth)¬7def8770¬33007108¬¬¬
+¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬1b8b59c0¬22807804¬¬¬
 ¬¬¬Unburdened Liberty¬Unburdened Liberty¬136 - Unburdened Liberty¬b616cc93¬21005868¬¬¬
+¬¬¬Voice Acting Tech Demo¬Voice Acting Tech Demo¬193 - Voice Acting Tech Demo¬c2cd5264¬17337768¬¬¬
 ¬¬¬Void’s Blitzarre Adventure¬Void’s Blitzarre Adventure¬141 - Void’s Blitzarre Adventure¬9d22107c¬18641452¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency¬Void’s Blitzarre Adventure - Blitz Tendency¬142 - Void’s Blitzarre Adventure - Blitz Tendency¬e02d7a82¬16777216¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)¬66f0a6d0¬16777216¬¬¬
 ¬¬¬Vs. Mode¬Vs. Mode¬135 - Vs. Mode¬86fe30d3¬17066348¬¬¬
+¬¬¬War on Two Fronts¬War on Two Fronts¬234 - War on Two Fronts¬3c922e66¬24923600¬¬¬
+¬¬¬War on Two Fronts (0% Growths)¬War on Two Fronts (0% Growths)¬235 - War on Two Fronts (0% Growths)¬aa7bf47b¬24923600¬¬¬
 ¬¬¬Winning Against Gharnef¬Winning Against Gharnef¬165 - Winning Against Gharnef¬03c472ee¬18085528¬¬¬
+¬¬¬Yggdra Hack UI Translation¬Yggdra Hack UI Translation¬182 - Yggdra Hack UI Translation¬63b815ad¬25450720¬¬¬
+¬¬¬Yugudora Hack¬Yugudora Hack¬181 - Yugudora Hack¬ea667865¬26349436¬¬¬
 ¬¬¬Yuri’s Sidestory¬Yuri’s Sidestory¬126 - Yuri’s Sidestory¬8c417a5c¬19915124¬¬¬

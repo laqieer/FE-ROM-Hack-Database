@@ -1,17 +1,40 @@
+183 - 2 Princesses
+184 - 2 Princesses (English Translation)
+178 - A Glimpse of Time
 169 - Antagonist Emblem
+212 - B3L-H411-A
+204 - Bandit Emblem
 156 - Barry’s Bandits
+225 - Bases and Bandits
+224 - Battle Against Vallui
+195 - Battle Simulator (Ally Control)
+196 - Battle Simulator (Full Control)
+197 - Battle Simulator (No Control)
 127 - Blazer’s One Day Hack
 115 - Boss War
 158 - BS Fire Emblem - Archanea Saga
+230 - Call of the Armor
 119 - Carcino’s Civil War
 121 - Christmas Crossover Carol
 138 - Cornwell’s Ascension
 107 - Corrupt Theocracy
 120 - Dark Lord and the Maiden of Light
+229 - Deity Device (Bonus)
+226 - Deity Device (Part 1)
+227 - Deity Device (Part 2)
+228 - Deity Device (Part 3)
 161 - Escape the Mangs Dungeon
 114 - Fallen King
 112 - FE7 Inflation
 109 - FE7if
+176 - FE8 midori (Green)
+177 - FE8 midori (Green) (English Translation)
+174 - FE8_GIRLS
+175 - FE8_GIRLS (English Translation)
+241 - Fe 8 Chess
+198 - FE but it’s my Biology Homework
+213 - FE The Grand Uprising
+214 - FE The Grand Uprising (Blue default player phase map sprite palette)
 168 - FEU Gacha
 5 - Fire Emblem (Europe) (En,Es,It)
 4 - Fire Emblem (Europe) (En,Fr,De)
@@ -22,6 +45,9 @@
 150 - Fire Emblem - Code of the Black Knights
 124 - Fire Emblem - Death or Glory
 122 - Fire Emblem - Different Dimensions Ostian Princess 2
+231 - Fire Emblem - Emulation Theory
+232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)
+233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)
 139 - Fire Emblem - Feud of the Fangs
 16 - Fire Emblem - Fuuin no Tsurugi (China)[iQue][CHS]
 1 - Fire Emblem - Fuuin no Tsurugi (Japan)
@@ -30,7 +56,9 @@
 30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1
 22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]
 100 - Fire Emblem - Heroes Remake
+188 - Fire Emblem - Justice and Pride
 146 - Fire Emblem - Reawakening
+220 - Fire Emblem - Reborn Dimensions, Olethian Princess
 2 - Fire Emblem - Rekka no Ken (Japan)
 9 - Fire Emblem - Rekka no Ken (Japan) (Beta) (06-02-2003)
 10 - Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003)
@@ -47,56 +75,97 @@
 110 - Fire Emblem - Tenchi no Ken (Japan)
 157 - Fire Emblem - The Arch of Coups
 29 - Fire Emblem - The Binding Blade (English Localization v1
+221 - Fire Emblem - The Fall of Thabes
 155 - Fire Emblem - The Heroes We Deserve
 8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)
 14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)
 12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)
 7 - Fire Emblem - The Sacred Stones (USA, Australia)
+203 - Fire Emblem - Vision Quest
 101 - Fire Emblem - Will of Good and Evil
 117 - Fire Emblem [Latino] 2
 116 - Fire Emblem [Latino] 2
 118 - Fire Emblem Poop
 134 - Fire Emblem Versus
+239 - Flames of Redemption
+240 - Flames of Redemption (supports unlocked)
+208 - Four Kings - Deposition
+209 - Free for All
 166 - Gay Baby Emblem
 154 - Heaven’s Bloom
 163 - Hector Saves Christmas
 164 - Hector Saves Christmas Again
+190 - Heroes of PBAP
+210 - Inheritance
+211 - Inheritance (with Minimug)
+237 - Isekai Emblem
+219 - Journeys
+179 - Kaitou
+180 - Kaitou (English)
 162 - Knoll’s Super Spooky Halloween Adventure
 125 - Maiden Quest
 170 - Marc’s Precious - Revenge
+238 - Myrm Emblem
+199 - Narcian and the Mirror Chamber
+222 - Necrosis Among the Living (Main hack)
+223 - Necrosis Among the Living (Prequel)
 151 - One-Turn-Clear
 171 - One-Week Hack
 140 - Prisoner of Darkness
 133 - Prisoner of Darkness (Hard Mode)
+189 - Puzzle Emblem
 137 - Ragefest 5 DLC
 159 - Rart Emblem - Halloween
 113 - Requiem
 160 - Resident Emblem 8
 144 - Resonance
+216 - Rubik’s Cube
 128 - Sacred Contention
 129 - Sacred Contention (DS Battle Background Mode)
 130 - Sacred Contention (E-Rank Mode)
 131 - Sacred Contention (No Supports Mode)
 132 - Sacred Contention (Still Mode)
+194 - Saga of the Shivering Shores
+200 - Scarlet Rising
 167 - Self-Randomising Rom
 102 - Shining Armor
+215 - Slot Machine
+236 - Storge
 145 - The Burdened Crown
 147 - The Burdened Crown (0 Growths)
 148 - The Burdened Crown (100 Growths)
 149 - The Burdened Crown (Blue)
+201 - The Dark Hour
+202 - The Dark Hour (Hard Mode)
 152 - The Dragon Herald
 153 - The Dragon Herald (DSSave)
+191 - The Final Swear 2
+192 - The Final Swear 4
+205 - The Four Kings
+206 - The Four Kings (0% Growths)
+207 - The Four Kings (Reverse Recruitment)
 103 - The Last Promise
 105 - The Last Promise (Chaos Mode DEMO)
 104 - The Last Promise (Easy Mode)
 106 - The Last Promise (Weapon Reversal)
 108 - The Road to Ruin
+185 - The Sacred Chairs
+187 - The Sacred Chairs (0% Growths Version)
+186 - The Sacred Chairs (Boss Version)
 173 - The Sacred War (Final Update - v1
 172 - The Sacred War (Starting Version - v1
+217 - The Sun God’s Wrath
+218 - The Sun God’s Wrath (0 growth)
+242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
 136 - Unburdened Liberty
+193 - Voice Acting Tech Demo
 141 - Void’s Blitzarre Adventure
 142 - Void’s Blitzarre Adventure - Blitz Tendency
 143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)
 135 - Vs
+234 - War on Two Fronts
+235 - War on Two Fronts (0% Growths)
 165 - Winning Against Gharnef
+182 - Yggdra Hack UI Translation
+181 - Yugudora Hack
 126 - Yuri’s Sidestory

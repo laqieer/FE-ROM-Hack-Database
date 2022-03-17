@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220316</datVersion>
+		<datVersion>20220317</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1669,6 +1669,1110 @@
 			<im1CRC>52A25286</im1CRC>
 			<im2CRC>5B9C6A2F</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>174</imageNumber>
+			<releaseNumber>174</releaseNumber>
+			<title>FE8_GIRLS</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Chap</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">214B26B9</romCRC></files>
+			<im1CRC>B85EB850</im1CRC>
+			<im2CRC>9980095D</im2CRC>
+			<comment>ガールズ(09.10.04)</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>175</imageNumber>
+			<releaseNumber>175</releaseNumber>
+			<title>FE8_GIRLS (English Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Tequila</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D98445BC</romCRC></files>
+			<im1CRC>B0813862</im1CRC>
+			<im2CRC>1186DBED</im2CRC>
+			<comment>https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>176</imageNumber>
+			<releaseNumber>176</releaseNumber>
+			<title>FE8 midori (Green)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>midori</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">25D88B16</romCRC></files>
+			<im1CRC>17EB6BB5</im1CRC>
+			<im2CRC>8D5D8CFD</im2CRC>
+			<comment>緑パッチ（ＦＥ８）　ver.191020</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>177</imageNumber>
+			<releaseNumber>177</releaseNumber>
+			<title>FE8 midori (Green) (English Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Tequila</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4279B308</romCRC></files>
+			<im1CRC>0F81FE7E</im1CRC>
+			<im2CRC>FA602909</im2CRC>
+			<comment>https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>178</imageNumber>
+			<releaseNumber>178</releaseNumber>
+			<title>A Glimpse of Time</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19436704</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>名軍師YU</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">CACCB1EB</romCRC></files>
+			<im1CRC>B973A2C3</im1CRC>
+			<im2CRC>C518D1DA</im2CRC>
+			<comment>https://ameblo.jp/yu-meigunsi/theme-10033783736.html</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>179</imageNumber>
+			<releaseNumber>179</releaseNumber>
+			<title>Kaitou</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33153280</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>7743</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">6E2C9F97</romCRC></files>
+			<im1CRC>C5BDD350</im1CRC>
+			<im2CRC>DEEF94EE</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>180</imageNumber>
+			<releaseNumber>180</releaseNumber>
+			<title>Kaitou (English)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33465472</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>7743</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9CAD49EB</romCRC></files>
+			<im1CRC>F5AE8ACB</im1CRC>
+			<im2CRC>5A8C2731</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>181</imageNumber>
+			<releaseNumber>181</releaseNumber>
+			<title>Yugudora Hack</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26349436</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Isaac</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">EA667865</romCRC></files>
+			<im1CRC>E8B9755E</im1CRC>
+			<im2CRC>198E56DA</im2CRC>
+			<comment>ユグドラパッチ</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>182</imageNumber>
+			<releaseNumber>182</releaseNumber>
+			<title>Yggdra Hack UI Translation</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25450720</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Pikmin1211</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">63B815AD</romCRC></files>
+			<im1CRC>7B658B4A</im1CRC>
+			<im2CRC>DFD8879C</im2CRC>
+			<comment>https://github.com/jfarr095/YggdraHack</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>183</imageNumber>
+			<releaseNumber>183</releaseNumber>
+			<title>2 Princesses</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24646064</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>レイファ</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">44F08E5B</romCRC></files>
+			<im1CRC>FE66478C</im1CRC>
+			<im2CRC>57FC99A6</im2CRC>
+			<comment>二人の王女</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>184</imageNumber>
+			<releaseNumber>184</releaseNumber>
+			<title>2 Princesses (English Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27926780</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Pollen</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CDF24969</romCRC></files>
+			<im1CRC>753B7CDD</im1CRC>
+			<im2CRC>9A629429</im2CRC>
+			<comment>https://feuniverse.us/t/fe-2-princesses-english-translation/8380</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>185</imageNumber>
+			<releaseNumber>185</releaseNumber>
+			<title>The Sacred Chairs</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24229624</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Mangs PME Team</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">841A14F7</romCRC></files>
+			<im1CRC>763CED16</im1CRC>
+			<im2CRC>C95124BF</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>186</imageNumber>
+			<releaseNumber>186</releaseNumber>
+			<title>The Sacred Chairs (Boss Version)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24231680</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Mangs PME Team</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">34D15CAF</romCRC></files>
+			<im1CRC>F9D6D4EC</im1CRC>
+			<im2CRC>3E37D9CD</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>187</imageNumber>
+			<releaseNumber>187</releaseNumber>
+			<title>The Sacred Chairs (0% Growths Version)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24229664</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>PH#8797</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8C316C5E</romCRC></files>
+			<im1CRC>54563A3A</im1CRC>
+			<im2CRC>B0A94A02</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>188</imageNumber>
+			<releaseNumber>188</releaseNumber>
+			<title>Fire Emblem - Justice and Pride</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26189708</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MrGreen3339</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C166CE14</romCRC></files>
+			<im1CRC>D709E12F</im1CRC>
+			<im2CRC>9D2324E7</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-justice-pride-full-length-fe8-hack/5922</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>189</imageNumber>
+			<releaseNumber>189</releaseNumber>
+			<title>Puzzle Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16824428</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Toffee</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">83FC3242</romCRC></files>
+			<im1CRC>D326C6BD</im1CRC>
+			<im2CRC>400149A7</im2CRC>
+			<comment>https://feuniverse.us/t/puzzle-emblem/7316</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>190</imageNumber>
+			<releaseNumber>190</releaseNumber>
+			<title>Heroes of PBAP</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19640328</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MVPMaster</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9E78B8EF</romCRC></files>
+			<im1CRC>4DF10189</im1CRC>
+			<im2CRC>F84D3181</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-heroes-of-pabp/5296</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>191</imageNumber>
+			<releaseNumber>191</releaseNumber>
+			<title>The Final Swear 2</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18404968</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Devisian_Nights</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FB400D2D</romCRC></files>
+			<im1CRC>8C6A8B01</im1CRC>
+			<im2CRC>5AF19D54</im2CRC>
+			<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>192</imageNumber>
+			<releaseNumber>192</releaseNumber>
+			<title>The Final Swear 4</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24565116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Zoisite</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">458FB062</romCRC></files>
+			<im1CRC>BC268615</im1CRC>
+			<im2CRC>48920B5F</im2CRC>
+			<comment>https://feuniverse.us/t/fe8u-the-final-swear-4-completed/7896</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>193</imageNumber>
+			<releaseNumber>193</releaseNumber>
+			<title>Voice Acting Tech Demo</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17337768</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Fatih</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C2CD5264</romCRC></files>
+			<im1CRC>628D361C</im1CRC>
+			<im2CRC>9D8F84C6</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>194</imageNumber>
+			<releaseNumber>194</releaseNumber>
+			<title>Saga of the Shivering Shores</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17841112</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Xenith</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">AD3D8B29</romCRC></files>
+			<im1CRC>53633D60</im1CRC>
+			<im2CRC>5FAF80F2</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>195</imageNumber>
+			<releaseNumber>195</releaseNumber>
+			<title>Battle Simulator (Ally Control)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16802684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Magix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">3926EFA0</romCRC></files>
+			<im1CRC>BDE2419F</im1CRC>
+			<im2CRC>87FC5063</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>196</imageNumber>
+			<releaseNumber>196</releaseNumber>
+			<title>Battle Simulator (Full Control)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16802684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Magix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C8EA0C56</romCRC></files>
+			<im1CRC>BDE2419F</im1CRC>
+			<im2CRC>1AB90D43</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>197</imageNumber>
+			<releaseNumber>197</releaseNumber>
+			<title>Battle Simulator (No Control)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16802684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Magix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BCFCCAF8</romCRC></files>
+			<im1CRC>9B0FFEE0</im1CRC>
+			<im2CRC>054CFF3F</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>198</imageNumber>
+			<releaseNumber>198</releaseNumber>
+			<title>FE but it’s my Biology Homework</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17279456</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Gultykappa</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">385DE2EC</romCRC></files>
+			<im1CRC>31F28DBD</im1CRC>
+			<im2CRC>8200A95A</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>199</imageNumber>
+			<releaseNumber>199</releaseNumber>
+			<title>Narcian and the Mirror Chamber</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18997204</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>The_Chosen_One_Max</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9C298ACB</romCRC></files>
+			<im1CRC>1DCD20B2</im1CRC>
+			<im2CRC>17362F5B</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/89316-rom-hack-fans-and-hacker-i-need-your-help/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>200</imageNumber>
+			<releaseNumber>200</releaseNumber>
+			<title>Scarlet Rising</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20488132</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Xenith</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8C78F4A5</romCRC></files>
+			<im1CRC>AAF1CAAB</im1CRC>
+			<im2CRC>24C60A7A</im2CRC>
+			<comment>https://feuniverse.us/t/complete-fe8-scarlet-rising/7890</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>201</imageNumber>
+			<releaseNumber>201</releaseNumber>
+			<title>The Dark Hour</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26994984</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>helix0981</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8575430F</romCRC></files>
+			<im1CRC>ECF67567</im1CRC>
+			<im2CRC>D275D05B</im2CRC>
+			<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>202</imageNumber>
+			<releaseNumber>202</releaseNumber>
+			<title>The Dark Hour (Hard Mode)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26995576</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>helix0981</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BFC8D218</romCRC></files>
+			<im1CRC>11931249</im1CRC>
+			<im2CRC>FA2BA6C8</im2CRC>
+			<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>203</imageNumber>
+			<releaseNumber>203</releaseNumber>
+			<title>Fire Emblem - Vision Quest</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27226016</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Pandan</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">AEE1137A</romCRC></files>
+			<im1CRC>877C63E5</im1CRC>
+			<im2CRC>71E0AD88</im2CRC>
+			<comment>http://feuniverse.us/t/fe8-fire-emblem-vision-quest-6-2-18-v-02-beta-release-is-live/3815</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>204</imageNumber>
+			<releaseNumber>204</releaseNumber>
+			<title>Bandit Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17645508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>RandomWizard</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4C0A42A1</romCRC></files>
+			<im1CRC>E9DBC841</im1CRC>
+			<im2CRC>347C3091</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-bandit-emblem/8501</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>205</imageNumber>
+			<releaseNumber>205</releaseNumber>
+			<title>The Four Kings</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29587472</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>KrashBoomBang</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">191EC326</romCRC></files>
+			<im1CRC>122A71EC</im1CRC>
+			<im2CRC>5A03246C</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>206</imageNumber>
+			<releaseNumber>206</releaseNumber>
+			<title>The Four Kings (0% Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28749664</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>KrashBoomBang</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B58A101F</romCRC></files>
+			<im1CRC>8BDF1B44</im1CRC>
+			<im2CRC>E2D4209E</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>207</imageNumber>
+			<releaseNumber>207</releaseNumber>
+			<title>The Four Kings (Reverse Recruitment)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28852468</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>KrashBoomBang</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">34E1170D</romCRC></files>
+			<im1CRC>3B4FF0E3</im1CRC>
+			<im2CRC>3232674A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>208</imageNumber>
+			<releaseNumber>208</releaseNumber>
+			<title>Four Kings - Deposition</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29771900</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>KrashBoomBang</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">583BF142</romCRC></files>
+			<im1CRC>77D13CDC</im1CRC>
+			<im2CRC>267B399D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>209</imageNumber>
+			<releaseNumber>209</releaseNumber>
+			<title>Free for All</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16840832</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Shuusuke</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C4C15D98</romCRC></files>
+			<im1CRC>ED90569A</im1CRC>
+			<im2CRC>B863428A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8u-fe8-free-for-all-4th-allegiance-test-update-v3/8435</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>210</imageNumber>
+			<releaseNumber>210</releaseNumber>
+			<title>Inheritance</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27877852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Gorgonath</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DB7233F0</romCRC></files>
+			<im1CRC>44620BAF</im1CRC>
+			<im2CRC>6F1F492A</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>211</imageNumber>
+			<releaseNumber>211</releaseNumber>
+			<title>Inheritance (with Minimug)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27877852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Gorgonath</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BC0988FD</romCRC></files>
+			<im1CRC>0E42E420</im1CRC>
+			<im2CRC>9B9F1C73</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>212</imageNumber>
+			<releaseNumber>212</releaseNumber>
+			<title>B3L-H411-A</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17536556</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>JacobTJP</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DB73120F</romCRC></files>
+			<im1CRC>46366703</im1CRC>
+			<im2CRC>D6031250</im2CRC>
+			<comment>https://feuniverse.us/t/b3l-h411-a-bar-tending-in-fire-emblem-complete-fe8u/8813</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>213</imageNumber>
+			<releaseNumber>213</releaseNumber>
+			<title>FE The Grand Uprising</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29479028</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Memestaralbert</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">535448A4</romCRC></files>
+			<im1CRC>0CCCC063</im1CRC>
+			<im2CRC>A2375512</im2CRC>
+			<comment>https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>214</imageNumber>
+			<releaseNumber>214</releaseNumber>
+			<title>FE The Grand Uprising (Blue default player phase map sprite palette)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29066908</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Memestaralbert</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">ADF5269E</romCRC></files>
+			<im1CRC>2D9B644D</im1CRC>
+			<im2CRC>F51794F6</im2CRC>
+			<comment>https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>215</imageNumber>
+			<releaseNumber>215</releaseNumber>
+			<title>Slot Machine</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16784068</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Vesly</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">36C739F5</romCRC></files>
+			<im1CRC>A9957B9E</im1CRC>
+			<im2CRC>C4F4C926</im2CRC>
+			<comment>https://feuniverse.us/t/slot-machine/8604</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>216</imageNumber>
+			<releaseNumber>216</releaseNumber>
+			<title>Rubik’s Cube</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Leonarth</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">38DA7267</romCRC></files>
+			<im1CRC>FB041352</im1CRC>
+			<im2CRC>A434D0AF</im2CRC>
+			<comment>https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>217</imageNumber>
+			<releaseNumber>217</releaseNumber>
+			<title>The Sun God’s Wrath</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33007088</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blademaster</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CC06A4EF</romCRC></files>
+			<im1CRC>32B0D7A3</im1CRC>
+			<im2CRC>E71C3045</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>218</imageNumber>
+			<releaseNumber>218</releaseNumber>
+			<title>The Sun God’s Wrath (0 growth)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33007108</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blademaster</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7DEF8770</romCRC></files>
+			<im1CRC>F4E089A0</im1CRC>
+			<im2CRC>B198D6C4</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>219</imageNumber>
+			<releaseNumber>219</releaseNumber>
+			<title>Journeys</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26336432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Relic</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1C83DF77</romCRC></files>
+			<im1CRC>AACFF0DC</im1CRC>
+			<im2CRC>11EBA53A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-v2-2-20-chapters/7313</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>220</imageNumber>
+			<releaseNumber>220</releaseNumber>
+			<title>Fire Emblem - Reborn Dimensions, Olethian Princess</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23413200</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>RandomWizard</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">F379D286</romCRC></files>
+			<im1CRC>A8996C90</im1CRC>
+			<im2CRC>BA3BF828</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-reborn-dimensions-olethian-princess/5317</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>221</imageNumber>
+			<releaseNumber>221</releaseNumber>
+			<title>Fire Emblem - The Fall of Thabes</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24947612</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Jotari</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7572B080</romCRC></files>
+			<im1CRC>5EB4251A</im1CRC>
+			<im2CRC>BF1245E9</im2CRC>
+			<comment>https://feuniverse.us/t/the-fall-of-thabes-release/9941</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>222</imageNumber>
+			<releaseNumber>222</releaseNumber>
+			<title>Necrosis Among the Living (Main hack)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25774348</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Aegius</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">97095AD2</romCRC></files>
+			<im1CRC>2AD8D01D</im1CRC>
+			<im2CRC>7E0AF729</im2CRC>
+			<comment>https://feuniverse.us/t/necrosis-among-the-living/8815</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>223</imageNumber>
+			<releaseNumber>223</releaseNumber>
+			<title>Necrosis Among the Living (Prequel)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18948236</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Aegius</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">313CFF5B</romCRC></files>
+			<im1CRC>336F86FD</im1CRC>
+			<im2CRC>CAB8872E</im2CRC>
+			<comment>https://feuniverse.us/t/necrosis-among-the-living/8815</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>224</imageNumber>
+			<releaseNumber>224</releaseNumber>
+			<title>Battle Against Vallui</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18375244</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Darrman</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D72B1607</romCRC></files>
+			<im1CRC>9F0FFB62</im1CRC>
+			<im2CRC>FADA15EF</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-battle-against-vallui/11760</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>225</imageNumber>
+			<releaseNumber>225</releaseNumber>
+			<title>Bases and Bandits</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18763176</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>ArcherBias</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DD587477</romCRC></files>
+			<im1CRC>8C6A8B01</im1CRC>
+			<im2CRC>EED1FA20</im2CRC>
+			<comment>https://feuniverse.us/t/bases-and-bandits-a-hack-where-every-player-unit-has-0-bases/11778</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>226</imageNumber>
+			<releaseNumber>226</releaseNumber>
+			<title>Deity Device (Part 1)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28848264</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Permafrost</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E9A09A50</romCRC></files>
+			<im1CRC>7AB5F4B5</im1CRC>
+			<im2CRC>40FBA36D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>227</imageNumber>
+			<releaseNumber>227</releaseNumber>
+			<title>Deity Device (Part 2)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28957288</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Permafrost</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4908DCBA</romCRC></files>
+			<im1CRC>7AB5F4B5</im1CRC>
+			<im2CRC>1FBDC26E</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>228</imageNumber>
+			<releaseNumber>228</releaseNumber>
+			<title>Deity Device (Part 3)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28950336</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Permafrost</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5E69347E</romCRC></files>
+			<im1CRC>43634B16</im1CRC>
+			<im2CRC>A7537B19</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>229</imageNumber>
+			<releaseNumber>229</releaseNumber>
+			<title>Deity Device (Bonus)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17580332</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Permafrost</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7928A9DF</romCRC></files>
+			<im1CRC>7963570A</im1CRC>
+			<im2CRC>154E7AAD</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>230</imageNumber>
+			<releaseNumber>230</releaseNumber>
+			<title>Call of the Armor</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20330124</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Team Distant Roads</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">688794F7</romCRC></files>
+			<im1CRC>672DAFA3</im1CRC>
+			<im2CRC>ADC2A68D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes/12698</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>231</imageNumber>
+			<releaseNumber>231</releaseNumber>
+			<title>Fire Emblem - Emulation Theory</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20286080</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>svya1029</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">2960B252</romCRC></files>
+			<im1CRC>D3F0EFF2</im1CRC>
+			<im2CRC>952DAAA2</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-emulation-theory/8910</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>232</imageNumber>
+			<releaseNumber>232</releaseNumber>
+			<title>Fire Emblem - Emulation Theory (Classic Mode, No skills)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20286080</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>svya1029</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">755D8D9A</romCRC></files>
+			<im1CRC>7D369F4A</im1CRC>
+			<im2CRC>0F5635E6</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-emulation-theory/8910</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>233</imageNumber>
+			<releaseNumber>233</releaseNumber>
+			<title>Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20286080</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>svya1029</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">28206B59</romCRC></files>
+			<im1CRC>FC122F15</im1CRC>
+			<im2CRC>9297DD09</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-emulation-theory/8910</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>234</imageNumber>
+			<releaseNumber>234</releaseNumber>
+			<title>War on Two Fronts</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24923600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>captainfisting</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">3C922E66</romCRC></files>
+			<im1CRC>EC9EFF7D</im1CRC>
+			<im2CRC>F6FEA26B</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-war-on-two-fronts-v1-2-currently-looking-for-graphical-help/8548</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>235</imageNumber>
+			<releaseNumber>235</releaseNumber>
+			<title>War on Two Fronts (0% Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24923600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>captainfisting</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">AA7BF47B</romCRC></files>
+			<im1CRC>EC9EFF7D</im1CRC>
+			<im2CRC>F1241369</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-war-on-two-fronts-v1-2-currently-looking-for-graphical-help/8548</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>236</imageNumber>
+			<releaseNumber>236</releaseNumber>
+			<title>Storge</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20034916</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>knabepicer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">079106D8</romCRC></files>
+			<im1CRC>12765EB8</im1CRC>
+			<im2CRC>8B18AC7B</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-storge-complete/11711</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>237</imageNumber>
+			<releaseNumber>237</releaseNumber>
+			<title>Isekai Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23924912</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>BigMood</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">60A52D28</romCRC></files>
+			<im1CRC>4614B52F</im1CRC>
+			<im2CRC>16182B52</im2CRC>
+			<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>238</imageNumber>
+			<releaseNumber>238</releaseNumber>
+			<title>Myrm Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22182264</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Renoud</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B5A503AE</romCRC></files>
+			<im1CRC>8F0F4E5F</im1CRC>
+			<im2CRC>26FEEF17</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-myrm-emblem-v1-0/11213</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>239</imageNumber>
+			<releaseNumber>239</releaseNumber>
+			<title>Flames of Redemption</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24536888</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Shiza</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E1428E68</romCRC></files>
+			<im1CRC>B691897E</im1CRC>
+			<im2CRC>AF4F4929</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>240</imageNumber>
+			<releaseNumber>240</releaseNumber>
+			<title>Flames of Redemption (supports unlocked)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24536888</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Shiza</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0C835AF0</romCRC></files>
+			<im1CRC>C71CDAC2</im1CRC>
+			<im2CRC>C05E9F4A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>241</imageNumber>
+			<releaseNumber>241</releaseNumber>
+			<title>Fe 8 Chess</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16806152</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>redeyesblackdrag0n</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D5DDB5E8</romCRC></files>
+			<im1CRC>B65A3ACE</im1CRC>
+			<im2CRC>EEF13CC6</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-8-chess/14805</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>242</imageNumber>
+			<releaseNumber>242</releaseNumber>
+			<title>Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22807804</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Rye on Speed</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1B8B59C0</romCRC></files>
+			<im1CRC>1F92FD88</im1CRC>
+			<im2CRC>3776CD5B</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

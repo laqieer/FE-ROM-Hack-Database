@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220317</version>
+		<version>20220318</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -159,6 +159,36 @@
 					<name>169 - Antagonist Emblem</name>
 					<size>17515204</size>
 					<crc>13983cfb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Athos Mode</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>262 - Athos Mode</name>
+					<size>16788472</size>
+					<crc>2f511659</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Atirian Conquest</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>254 - Atirian Conquest</name>
+					<size>17224984</size>
+					<crc>f2f006e1</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -374,6 +404,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Chronicles of Lussaria</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>250 - Chronicles of Lussaria</name>
+					<size>17605868</size>
+					<crc>bee51b0b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Cornwell’s Ascension</name>
 				<comment>https://www.cornwellsascension.com/</comment>
 				<publisher>Fan Modding</publisher>
@@ -404,6 +449,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Crossover Hack</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>265 - Crossover Hack</name>
+					<size>33480004</size>
+					<crc>bc384a67</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Dark Emblem</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>263 - Dark Emblem</name>
+					<size>23383092</size>
+					<crc>74277073</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Dark Lord and the Maiden of Light</name>
 				<comment>https://feuniverse.us/t/fire-emblem-dark-lord-and-the-maiden-of-light/6463</comment>
 				<publisher>Fan Modding</publisher>
@@ -414,6 +489,21 @@
 					<name>120 - Dark Lord and the Maiden of Light</name>
 					<size>24393296</size>
 					<crc>2edd404d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Decay of the Fangs</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>253 - Decay of the Fangs</name>
+					<size>20200548</size>
+					<crc>85f73677</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -479,6 +569,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Dream of Five</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>251 - Dream of Five</name>
+					<size>22194508</size>
+					<crc>1cfe67cd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Elibean Nights</name>
+				<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>243 - Elibean Nights</name>
+					<size>28260392</size>
+					<crc>0f2076bd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Escape the Mangs Dungeon</name>
 				<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
 				<publisher>Fan Modding</publisher>
@@ -502,8 +622,38 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>114 - Fallen King</name>
-					<size>17826340</size>
+					<size>17826344</size>
 					<crc>8b2cbe45</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE1 GBA</name>
+				<comment>https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>260 - FE1 GBA</name>
+					<size>17361761</size>
+					<crc>9be58bd8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 Allegiance Reversal+</name>
+				<comment>https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>264 - FE7 Allegiance Reversal+</name>
+					<size>16911048</size>
+					<crc>8870c624</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -757,7 +907,7 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>123 - Fire Emblem - Barhara Revisited</name>
-					<size>17529368</size>
+					<size>17529372</size>
 					<crc>15482be6</crc>
 				</datitem>
 			</files>
@@ -802,7 +952,7 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>122 - Fire Emblem - Different Dimensions Ostian Princess 2</name>
-					<size>17357684</size>
+					<size>17357688</size>
 					<crc>624f1b70</crc>
 				</datitem>
 			</files>
@@ -969,6 +1119,21 @@
 					<name>100 - Fire Emblem - Heroes Remake</name>
 					<size>31526756</size>
 					<crc>1c4fcc59</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem - Izarck’s Quest</name>
+				<comment>https://feuniverse.us/t/fire-emblem-izarcks-quest/2037</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>247 - Fire Emblem - Izarck’s Quest</name>
+					<size>21103520</size>
+					<crc>6bf9575b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1387,7 +1552,7 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>117 - Fire Emblem [Latino] 2</name>
-					<size>25224852</size>
+					<size>25224856</size>
 					<crc>fc2b8ed3</crc>
 				</datitem>
 			</files>
@@ -1404,6 +1569,21 @@
 					<name>116 - Fire Emblem [Latino] 2</name>
 					<size>25198924</size>
 					<crc>8ea1444d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem Forever</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>246 - Fire Emblem Forever</name>
+					<size>17627116</size>
+					<crc>d93d269a</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1469,6 +1649,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Foreboding Dusk</name>
+				<comment>https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>244 - Foreboding Dusk</name>
+					<size>16888400</size>
+					<crc>2220983b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Four Kings - Deposition</name>
 				<comment>https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374</comment>
 				<publisher>Fan Modding</publisher>
@@ -1509,6 +1704,51 @@
 					<name>166 - Gay Baby Emblem</name>
 					<size>17048076</size>
 					<crc>a95e4ae4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>GFE1R</name>
+				<comment>https://github.com/Kirbseverywhere/GFE1R</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>259 - GFE1R</name>
+					<size>17684788</size>
+					<crc>fee335a3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Gheb Saga</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>245 - Gheb Saga</name>
+					<size>26416180</size>
+					<crc>6fb3ca5a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Grand Archipelago</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>249 - Grand Archipelago</name>
+					<size>19579000</size>
+					<crc>14b61c7e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1569,6 +1809,21 @@
 					<name>190 - Heroes of PBAP</name>
 					<size>19640328</size>
 					<crc>9e78b8ef</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Heroes of Valencia and Archanea</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>261 - Heroes of Valencia and Archanea</name>
+					<size>16804540</size>
+					<crc>0c8502f7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1679,6 +1934,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>League of Champions (Patch1)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>255 - League of Champions (Patch1)</name>
+					<size>18586224</size>
+					<crc>6c949342</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>League of Champions (Patch2)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>256 - League of Champions (Patch2)</name>
+					<size>16939004</size>
+					<crc>1b93a3d4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Maiden Quest</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 				<publisher>Fan Modding</publisher>
@@ -1769,6 +2054,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Nintenlord Saga</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/224-nintenlord-saga-v-02/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>257 - Nintenlord Saga</name>
+					<size>16808391</size>
+					<crc>db833f55</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>One-Turn-Clear</name>
 				<comment>https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638</comment>
 				<publisher>Fan Modding</publisher>
@@ -1792,8 +2092,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>171 - One-Week Hack</name>
-					<size>17087872</size>
-					<crc>2144df1c</crc>
+					<size>17087876</size>
+					<crc>fb464aca</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1882,7 +2182,7 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>113 - Requiem</name>
-					<size>18774852</size>
+					<size>18774856</size>
 					<crc>1225efff</crc>
 				</datitem>
 			</files>
@@ -2094,6 +2394,21 @@
 					<name>236 - Storge</name>
 					<size>20034916</size>
 					<crc>079106d8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Blade’s Legacy Spreading Flames</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>248 - The Blade’s Legacy Spreading Flames</name>
+					<size>17896244</size>
+					<crc>4ab46d89</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2362,7 +2677,7 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>108 - The Road to Ruin</name>
-					<size>21666332</size>
+					<size>21666336</size>
 					<crc>6522df69</crc>
 				</datitem>
 			</files>
@@ -2484,6 +2799,21 @@
 					<name>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</name>
 					<size>22807804</size>
 					<crc>1b8b59c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Typhon’s Wake</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>258 - Typhon’s Wake</name>
+					<size>17738116</size>
+					<crc>829af26e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2662,8 +2992,23 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>126 - Yuri’s Sidestory</name>
-					<size>19915124</size>
+					<size>19915128</size>
 					<crc>8c417a5c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Zombie Apocalypse</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/</comment>
+				<publisher>Nintendo</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>252 - Zombie Apocalypse</name>
+					<size>18992412</size>
+					<crc>93ee3ea3</crc>
 				</datitem>
 			</files>
 		</directory>

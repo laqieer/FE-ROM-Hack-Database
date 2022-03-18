@@ -2,6 +2,8 @@
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	A Glimpse of Time/178 - A Glimpse of Time			caccb1eb	19436704
 	Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
+	Athos Mode/262 - Athos Mode			2f511659	16788472
+	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
 	B3L-H411-A/212 - B3L-H411-A			db73120f	17536556
 	Bandit Emblem/204 - Bandit Emblem			4c0a42a1	17645508
 	Barry’s Bandits/156 - Barry’s Bandits			2ce87ea5	18715144
@@ -16,15 +18,23 @@
 	Call of the Armor/230 - Call of the Armor			688794f7	20330124
 	Carcino’s Civil War/119 - Carcino’s Civil War			88a038ec	17378852
 	Christmas Crossover Carol/121 - Christmas Crossover Carol			676c6d7f	16831344
+	Chronicles of Lussaria/250 - Chronicles of Lussaria			bee51b0b	17605868
 	Cornwell’s Ascension/138 - Cornwell’s Ascension			6ad635db	17109180
 	Corrupt Theocracy/107 - Corrupt Theocracy			928dbeb0	16873266
+	Crossover Hack/265 - Crossover Hack			bc384a67	33480004
+	Dark Emblem/263 - Dark Emblem			74277073	23383092
 	Dark Lord and the Maiden of Light/120 - Dark Lord and the Maiden of Light			2edd404d	24393296
+	Decay of the Fangs/253 - Decay of the Fangs			85f73677	20200548
 	Deity Device (Bonus)/229 - Deity Device (Bonus)			7928a9df	17580332
 	Deity Device (Part 1)/226 - Deity Device (Part 1)			e9a09a50	28848264
 	Deity Device (Part 2)/227 - Deity Device (Part 2)			4908dcba	28957288
 	Deity Device (Part 3)/228 - Deity Device (Part 3)			5e69347e	28950336
+	Dream of Five/251 - Dream of Five			1cfe67cd	22194508
+	Elibean Nights/243 - Elibean Nights			0f2076bd	28260392
 	Escape the Mangs Dungeon/161 - Escape the Mangs Dungeon			090dffb3	17083184
-	Fallen King/114 - Fallen King			8b2cbe45	17826340
+	Fallen King/114 - Fallen King			8b2cbe45	17826344
+	FE1 GBA/260 - FE1 GBA			9be58bd8	17361761
+	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
 	FE7 Inflation/112 - FE7 Inflation			6ea83897	17825792
 	FE7if/109 - FE7if			6eca79ce	33554432
 	FE8 midori (Green)/176 - FE8 midori (Green)			25d88b16	33554432
@@ -41,10 +51,10 @@
 	Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)/15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)			335c5855	16777216
 	Fire Emblem (USA) (Wii U Virtual Console)/13 - Fire Emblem (USA) (Wii U Virtual Console)			1b8713c7	16777216
 	Fire Emblem (USA, Australia)/3 - Fire Emblem (USA, Australia)			2a524221	16777216
-	Fire Emblem - Barhara Revisited/123 - Fire Emblem - Barhara Revisited			15482be6	17529368
+	Fire Emblem - Barhara Revisited/123 - Fire Emblem - Barhara Revisited			15482be6	17529372
 	Fire Emblem - Code of the Black Knights/150 - Fire Emblem - Code of the Black Knights			c666f8b1	33016900
 	Fire Emblem - Death or Glory/124 - Fire Emblem - Death or Glory			cf613764	19915268
-	Fire Emblem - Different Dimensions Ostian Princess 2.0/122 - Fire Emblem - Different Dimensions Ostian Princess 2			624f1b70	17357684
+	Fire Emblem - Different Dimensions Ostian Princess 2.0/122 - Fire Emblem - Different Dimensions Ostian Princess 2			624f1b70	17357688
 	Fire Emblem - Emulation Theory/231 - Fire Emblem - Emulation Theory			2960b252	20286080
 	Fire Emblem - Emulation Theory (Classic Mode, No skills)/232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)			755d8d9a	20286080
 	Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)/233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)			28206b59	20286080
@@ -56,6 +66,7 @@
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]/30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1			1ccf7040	8388608
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]/22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]			1f19d989	8388608
 	Fire Emblem - Heroes Remake/100 - Fire Emblem - Heroes Remake			1c4fcc59	31526756
+	Fire Emblem - Izarck’s Quest/247 - Fire Emblem - Izarck’s Quest			6bf9575b	21103520
 	Fire Emblem - Justice and Pride/188 - Fire Emblem - Justice and Pride			c166ce14	26189708
 	Fire Emblem - Reawakening/146 - Fire Emblem - Reawakening			9f92a410	20016012
 	Fire Emblem - Reborn Dimensions, Olethian Princess/220 - Fire Emblem - Reborn Dimensions, Olethian Princess			f379d286	23413200
@@ -83,19 +94,25 @@
 	Fire Emblem - The Sacred Stones (USA, Australia)/7 - Fire Emblem - The Sacred Stones (USA, Australia)			a47246ae	16777216
 	Fire Emblem - Vision Quest/203 - Fire Emblem - Vision Quest			aee1137a	27226016
 	Fire Emblem - Will of Good and Evil/101 - Fire Emblem - Will of Good and Evil			9cbb923e	16777216
-	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)/117 - Fire Emblem [Latino] 2			fc2b8ed3	25224852
+	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)/117 - Fire Emblem [Latino] 2			fc2b8ed3	25224856
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)/116 - Fire Emblem [Latino] 2			8ea1444d	25198924
+	Fire Emblem Forever/246 - Fire Emblem Forever			d93d269a	17627116
 	Fire Emblem Poop/118 - Fire Emblem Poop			8d1db15c	24492260
 	Fire Emblem Versus/134 - Fire Emblem Versus			47ba1139	16777284
 	Flames of Redemption/239 - Flames of Redemption			e1428e68	24536888
 	Flames of Redemption (supports unlocked)/240 - Flames of Redemption (supports unlocked)			0c835af0	24536888
+	Foreboding Dusk/244 - Foreboding Dusk			2220983b	16888400
 	Four Kings - Deposition/208 - Four Kings - Deposition			583bf142	29771900
 	Free for All/209 - Free for All			c4c15d98	16840832
 	Gay Baby Emblem/166 - Gay Baby Emblem			a95e4ae4	17048076
+	GFE1R/259 - GFE1R			fee335a3	17684788
+	Gheb Saga/245 - Gheb Saga			6fb3ca5a	26416180
+	Grand Archipelago/249 - Grand Archipelago			14b61c7e	19579000
 	Heaven’s Bloom/154 - Heaven’s Bloom			c998aa0e	18376448
 	Hector Saves Christmas/163 - Hector Saves Christmas			6896d8c2	17089672
 	Hector Saves Christmas Again/164 - Hector Saves Christmas Again			e69b171f	17415920
 	Heroes of PBAP/190 - Heroes of PBAP			9e78b8ef	19640328
+	Heroes of Valencia and Archanea/261 - Heroes of Valencia and Archanea			0c8502f7	16804540
 	Inheritance/210 - Inheritance			db7233f0	27877852
 	Inheritance (with Minimug)/211 - Inheritance (with Minimug)			bc0988fd	27877852
 	Isekai Emblem/237 - Isekai Emblem			60a52d28	23924912
@@ -103,20 +120,23 @@
 	Kaitou/179 - Kaitou			6e2c9f97	33153280
 	Kaitou (English)/180 - Kaitou (English)			9cad49eb	33465472
 	Knoll’s Super Spooky Halloween Adventure/162 - Knoll’s Super Spooky Halloween Adventure			19a64b75	17014360
+	League of Champions (Patch1)/255 - League of Champions (Patch1)			6c949342	18586224
+	League of Champions (Patch2)/256 - League of Champions (Patch2)			1b93a3d4	16939004
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Marc’s Precious - Revenge/170 - Marc’s Precious - Revenge			4426c3f9	17332276
 	Myrm Emblem/238 - Myrm Emblem			b5a503ae	22182264
 	Narcian and the Mirror Chamber/199 - Narcian and the Mirror Chamber			9c298acb	18997204
 	Necrosis Among the Living (Main hack)/222 - Necrosis Among the Living (Main hack)			97095ad2	25774348
 	Necrosis Among the Living (Prequel)/223 - Necrosis Among the Living (Prequel)			313cff5b	18948236
+	Nintenlord Saga/257 - Nintenlord Saga			db833f55	16808391
 	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
-	One-Week Hack/171 - One-Week Hack			2144df1c	17087872
+	One-Week Hack/171 - One-Week Hack			fb464aca	17087876
 	Prisoner of Darkness/140 - Prisoner of Darkness			95f14edd	20971804
 	Prisoner of Darkness (Hard Mode)/133 - Prisoner of Darkness (Hard Mode)			1bbb05e1	20971560
 	Puzzle Emblem/189 - Puzzle Emblem			83fc3242	16824428
 	Ragefest 5 DLC/137 - Ragefest 5 DLC			0c516c3e	17194360
 	Rart Emblem - Halloween/159 - Rart Emblem - Halloween			61dad746	17308636
-	Requiem/113 - Requiem			1225efff	18774852
+	Requiem/113 - Requiem			1225efff	18774856
 	Resident Emblem 8/160 - Resident Emblem 8			3d35a4fc	17080688
 	Resonance/144 - Resonance			7d35cc3c	21319464
 	Rubik’s Cube/216 - Rubik’s Cube			38da7267	16777216
@@ -131,6 +151,7 @@
 	Shining Armor/102 - Shining Armor			67368bbb	16788636
 	Slot Machine/215 - Slot Machine			36c739f5	16784068
 	Storge/236 - Storge			079106d8	20034916
+	The Blade’s Legacy Spreading Flames/248 - The Blade’s Legacy Spreading Flames			4ab46d89	17896244
 	The Burdened Crown/145 - The Burdened Crown			489aff60	22485048
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048
 	The Burdened Crown (100 Growths)/148 - The Burdened Crown (100 Growths)			c152923c	22485048
@@ -148,7 +169,7 @@
 	The Last Promise (Chaos Mode DEMO)/105 - The Last Promise (Chaos Mode DEMO)			365cf432	32446048
 	The Last Promise (Easy Mode)/104 - The Last Promise (Easy Mode)			be1b4153	32445120
 	The Last Promise (Weapon Reversal)/106 - The Last Promise (Weapon Reversal)			38f7a2c6	33302356
-	The Road to Ruin/108 - The Road to Ruin			6522df69	21666332
+	The Road to Ruin/108 - The Road to Ruin			6522df69	21666336
 	The Sacred Chairs/185 - The Sacred Chairs			841a14f7	24229624
 	The Sacred Chairs (0% Growths Version)/187 - The Sacred Chairs (0% Growths Version)			8c316c5e	24229664
 	The Sacred Chairs (Boss Version)/186 - The Sacred Chairs (Boss Version)			34d15caf	24231680
@@ -157,6 +178,7 @@
 	The Sun God’s Wrath/217 - The Sun God’s Wrath			cc06a4ef	33007088
 	The Sun God’s Wrath (0 growth)/218 - The Sun God’s Wrath (0 growth)			7def8770	33007108
 	Touhou Emblem - The One That Isn’t Just An Fe8 Reskin/242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin			1b8b59c0	22807804
+	Typhon’s Wake/258 - Typhon’s Wake			829af26e	17738116
 	Unburdened Liberty/136 - Unburdened Liberty			b616cc93	21005868
 	Voice Acting Tech Demo/193 - Voice Acting Tech Demo			c2cd5264	17337768
 	Void’s Blitzarre Adventure/141 - Void’s Blitzarre Adventure			9d22107c	18641452
@@ -168,4 +190,5 @@
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528
 	Yggdra Hack UI Translation/182 - Yggdra Hack UI Translation			63b815ad	25450720
 	Yugudora Hack/181 - Yugudora Hack			ea667865	26349436
-	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915124
+	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915128
+	Zombie Apocalypse/252 - Zombie Apocalypse			93ee3ea3	18992412

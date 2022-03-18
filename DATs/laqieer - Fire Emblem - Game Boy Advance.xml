@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220317</version>
+		<version>20220318</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -32,6 +32,16 @@
 		<comment>https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</game>
+	<game name="Athos Mode">
+		<comment>https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="262 - Athos Mode" size="16788472" crc="2f511659" />
+	</game>
+	<game name="Atirian Conquest">
+		<comment>https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="254 - Atirian Conquest" size="17224984" crc="f2f006e1" />
 	</game>
 	<game name="B3L-H411-A">
 		<comment>https://feuniverse.us/t/b3l-h411-a-bar-tending-in-fire-emblem-complete-fe8u/8813</comment>
@@ -103,6 +113,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="121 - Christmas Crossover Carol" size="16831344" crc="676c6d7f" />
 	</game>
+	<game name="Chronicles of Lussaria">
+		<comment>https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="250 - Chronicles of Lussaria" size="17605868" crc="bee51b0b" />
+	</game>
 	<game name="Cornwell’s Ascension">
 		<comment>https://www.cornwellsascension.com/</comment>
 		<publisher>Fan Modding</publisher>
@@ -113,10 +128,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="107 - Corrupt Theocracy" size="16873266" crc="928dbeb0" />
 	</game>
+	<game name="Crossover Hack">
+		<comment>https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="265 - Crossover Hack" size="33480004" crc="bc384a67" />
+	</game>
+	<game name="Dark Emblem">
+		<comment>https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="263 - Dark Emblem" size="23383092" crc="74277073" />
+	</game>
 	<game name="Dark Lord and the Maiden of Light">
 		<comment>https://feuniverse.us/t/fire-emblem-dark-lord-and-the-maiden-of-light/6463</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
+	</game>
+	<game name="Decay of the Fangs">
+		<comment>https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="253 - Decay of the Fangs" size="20200548" crc="85f73677" />
 	</game>
 	<game name="Deity Device (Bonus)">
 		<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
@@ -138,6 +168,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
 	</game>
+	<game name="Dream of Five">
+		<comment>https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
+	</game>
+	<game name="Elibean Nights">
+		<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="243 - Elibean Nights" size="28260392" crc="0f2076bd" />
+	</game>
 	<game name="Escape the Mangs Dungeon">
 		<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
 		<publisher>Fan Modding</publisher>
@@ -146,7 +186,17 @@
 	<game name="Fallen King">
 		<comment>https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="114 - Fallen King" size="17826340" crc="8b2cbe45" />
+		<rom name="114 - Fallen King" size="17826344" crc="8b2cbe45" />
+	</game>
+	<game name="FE1 GBA">
+		<comment>https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="260 - FE1 GBA" size="17361761" crc="9be58bd8" />
+	</game>
+	<game name="FE7 Allegiance Reversal+">
+		<comment>https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="264 - FE7 Allegiance Reversal+" size="16911048" crc="8870c624" />
 	</game>
 	<game name="FE7 Inflation">
 		<comment>ファイアーエムブレム 烈火の剣inflation Ver.20090517</comment>
@@ -230,7 +280,7 @@
 	<game name="Fire Emblem - Barhara Revisited">
 		<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529368" crc="15482be6" />
+		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529372" crc="15482be6" />
 	</game>
 	<game name="Fire Emblem - Code of the Black Knights">
 		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
@@ -245,7 +295,7 @@
 	<game name="Fire Emblem - Different Dimensions Ostian Princess 2.0">
 		<comment>https://feuniverse.us/t/fire-emblem-different-dimensions-ostian-princess-2-0/1551</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="122 - Fire Emblem - Different Dimensions Ostian Princess 2" size="17357684" crc="624f1b70" />
+		<rom name="122 - Fire Emblem - Different Dimensions Ostian Princess 2" size="17357688" crc="624f1b70" />
 	</game>
 	<game name="Fire Emblem - Emulation Theory">
 		<comment>https://feuniverse.us/t/fire-emblem-emulation-theory/8910</comment>
@@ -301,6 +351,11 @@
 		<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+	</game>
+	<game name="Fire Emblem - Izarck’s Quest">
+		<comment>https://feuniverse.us/t/fire-emblem-izarcks-quest/2037</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="247 - Fire Emblem - Izarck’s Quest" size="21103520" crc="6bf9575b" />
 	</game>
 	<game name="Fire Emblem - Justice and Pride">
 		<comment>https://feuniverse.us/t/fire-emblem-justice-pride-full-length-fe8-hack/5922</comment>
@@ -438,12 +493,17 @@
 	<game name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)">
 		<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="117 - Fire Emblem [Latino] 2" size="25224852" crc="fc2b8ed3" />
+		<rom name="117 - Fire Emblem [Latino] 2" size="25224856" crc="fc2b8ed3" />
 	</game>
 	<game name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)">
 		<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="116 - Fire Emblem [Latino] 2" size="25198924" crc="8ea1444d" />
+	</game>
+	<game name="Fire Emblem Forever">
+		<comment>https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="246 - Fire Emblem Forever" size="17627116" crc="d93d269a" />
 	</game>
 	<game name="Fire Emblem Poop">
 		<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
@@ -465,6 +525,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="240 - Flames of Redemption (supports unlocked)" size="24536888" crc="0c835af0" />
 	</game>
+	<game name="Foreboding Dusk">
+		<comment>https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="244 - Foreboding Dusk" size="16888400" crc="2220983b" />
+	</game>
 	<game name="Four Kings - Deposition">
 		<comment>https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374</comment>
 		<publisher>Fan Modding</publisher>
@@ -479,6 +544,21 @@
 		<comment>https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
+	</game>
+	<game name="GFE1R">
+		<comment>https://github.com/Kirbseverywhere/GFE1R</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="259 - GFE1R" size="17684788" crc="fee335a3" />
+	</game>
+	<game name="Gheb Saga">
+		<comment>https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="245 - Gheb Saga" size="26416180" crc="6fb3ca5a" />
+	</game>
+	<game name="Grand Archipelago">
+		<comment>https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="249 - Grand Archipelago" size="19579000" crc="14b61c7e" />
 	</game>
 	<game name="Heaven’s Bloom">
 		<comment>https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/</comment>
@@ -499,6 +579,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-heroes-of-pabp/5296</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="190 - Heroes of PBAP" size="19640328" crc="9e78b8ef" />
+	</game>
+	<game name="Heroes of Valencia and Archanea">
+		<comment>https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="261 - Heroes of Valencia and Archanea" size="16804540" crc="0c8502f7" />
 	</game>
 	<game name="Inheritance">
 		<comment>https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/</comment>
@@ -535,6 +620,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
 	</game>
+	<game name="League of Champions (Patch1)">
+		<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="255 - League of Champions (Patch1)" size="18586224" crc="6c949342" />
+	</game>
+	<game name="League of Champions (Patch2)">
+		<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="256 - League of Champions (Patch2)" size="16939004" crc="1b93a3d4" />
+	</game>
 	<game name="Maiden Quest">
 		<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 		<publisher>Fan Modding</publisher>
@@ -565,6 +660,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="223 - Necrosis Among the Living (Prequel)" size="18948236" crc="313cff5b" />
 	</game>
+	<game name="Nintenlord Saga">
+		<comment>https://forums.serenesforest.net/index.php?/topic/224-nintenlord-saga-v-02/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="257 - Nintenlord Saga" size="16808391" crc="db833f55" />
+	</game>
 	<game name="One-Turn-Clear">
 		<comment>https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638</comment>
 		<publisher>Fan Modding</publisher>
@@ -573,7 +673,7 @@
 	<game name="One-Week Hack">
 		<comment>https://feuniverse.us/t/one-week-hack-v0-99-released/713</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="171 - One-Week Hack" size="17087872" crc="2144df1c" />
+		<rom name="171 - One-Week Hack" size="17087876" crc="fb464aca" />
 	</game>
 	<game name="Prisoner of Darkness">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
@@ -603,7 +703,7 @@
 	<game name="Requiem">
 		<comment>https://forums.serenesforest.net/index.php?/topic/54594-fire-emblem-requiem-v14-is-up/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="113 - Requiem" size="18774852" crc="1225efff" />
+		<rom name="113 - Requiem" size="18774856" crc="1225efff" />
 	</game>
 	<game name="Resident Emblem 8">
 		<comment>https://feuniverse.us/t/fe8-re8-1-chapter-hack-completed-update-v033/6678</comment>
@@ -674,6 +774,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-storge-complete/11711</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="236 - Storge" size="20034916" crc="079106d8" />
+	</game>
+	<game name="The Blade’s Legacy Spreading Flames">
+		<comment>https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="248 - The Blade’s Legacy Spreading Flames" size="17896244" crc="4ab46d89" />
 	</game>
 	<game name="The Burdened Crown">
 		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
@@ -763,7 +868,7 @@
 	<game name="The Road to Ruin">
 		<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="108 - The Road to Ruin" size="21666332" crc="6522df69" />
+		<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />
 	</game>
 	<game name="The Sacred Chairs">
 		<comment>https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944</comment>
@@ -804,6 +909,11 @@
 		<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+	</game>
+	<game name="Typhon’s Wake">
+		<comment>https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="258 - Typhon’s Wake" size="17738116" crc="829af26e" />
 	</game>
 	<game name="Unburdened Liberty">
 		<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
@@ -863,6 +973,11 @@
 	<game name="Yuri’s Sidestory">
 		<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="126 - Yuri’s Sidestory" size="19915124" crc="8c417a5c" />
+		<rom name="126 - Yuri’s Sidestory" size="19915128" crc="8c417a5c" />
+	</game>
+	<game name="Zombie Apocalypse">
+		<comment>https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/</comment>
+		<publisher>Nintendo</publisher>
+		<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
 	</game>
 </datafile>

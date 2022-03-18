@@ -2,6 +2,8 @@
 184 - 2 Princesses (English Translation)
 178 - A Glimpse of Time
 169 - Antagonist Emblem
+262 - Athos Mode
+254 - Atirian Conquest
 212 - B3L-H411-A
 204 - Bandit Emblem
 156 - Barry’s Bandits
@@ -16,15 +18,23 @@
 230 - Call of the Armor
 119 - Carcino’s Civil War
 121 - Christmas Crossover Carol
+250 - Chronicles of Lussaria
 138 - Cornwell’s Ascension
 107 - Corrupt Theocracy
+265 - Crossover Hack
+263 - Dark Emblem
 120 - Dark Lord and the Maiden of Light
+253 - Decay of the Fangs
 229 - Deity Device (Bonus)
 226 - Deity Device (Part 1)
 227 - Deity Device (Part 2)
 228 - Deity Device (Part 3)
+251 - Dream of Five
+243 - Elibean Nights
 161 - Escape the Mangs Dungeon
 114 - Fallen King
+260 - FE1 GBA
+264 - FE7 Allegiance Reversal+
 112 - FE7 Inflation
 109 - FE7if
 176 - FE8 midori (Green)
@@ -56,6 +66,7 @@
 30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1
 22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]
 100 - Fire Emblem - Heroes Remake
+247 - Fire Emblem - Izarck’s Quest
 188 - Fire Emblem - Justice and Pride
 146 - Fire Emblem - Reawakening
 220 - Fire Emblem - Reborn Dimensions, Olethian Princess
@@ -85,17 +96,23 @@
 101 - Fire Emblem - Will of Good and Evil
 117 - Fire Emblem [Latino] 2
 116 - Fire Emblem [Latino] 2
+246 - Fire Emblem Forever
 118 - Fire Emblem Poop
 134 - Fire Emblem Versus
 239 - Flames of Redemption
 240 - Flames of Redemption (supports unlocked)
+244 - Foreboding Dusk
 208 - Four Kings - Deposition
 209 - Free for All
 166 - Gay Baby Emblem
+259 - GFE1R
+245 - Gheb Saga
+249 - Grand Archipelago
 154 - Heaven’s Bloom
 163 - Hector Saves Christmas
 164 - Hector Saves Christmas Again
 190 - Heroes of PBAP
+261 - Heroes of Valencia and Archanea
 210 - Inheritance
 211 - Inheritance (with Minimug)
 237 - Isekai Emblem
@@ -103,12 +120,15 @@
 179 - Kaitou
 180 - Kaitou (English)
 162 - Knoll’s Super Spooky Halloween Adventure
+255 - League of Champions (Patch1)
+256 - League of Champions (Patch2)
 125 - Maiden Quest
 170 - Marc’s Precious - Revenge
 238 - Myrm Emblem
 199 - Narcian and the Mirror Chamber
 222 - Necrosis Among the Living (Main hack)
 223 - Necrosis Among the Living (Prequel)
+257 - Nintenlord Saga
 151 - One-Turn-Clear
 171 - One-Week Hack
 140 - Prisoner of Darkness
@@ -131,6 +151,7 @@
 102 - Shining Armor
 215 - Slot Machine
 236 - Storge
+248 - The Blade’s Legacy Spreading Flames
 145 - The Burdened Crown
 147 - The Burdened Crown (0 Growths)
 148 - The Burdened Crown (100 Growths)
@@ -157,6 +178,7 @@
 217 - The Sun God’s Wrath
 218 - The Sun God’s Wrath (0 growth)
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
+258 - Typhon’s Wake
 136 - Unburdened Liberty
 193 - Voice Acting Tech Demo
 141 - Void’s Blitzarre Adventure
@@ -169,3 +191,4 @@
 182 - Yggdra Hack UI Translation
 181 - Yugudora Hack
 126 - Yuri’s Sidestory
+252 - Zombie Apocalypse

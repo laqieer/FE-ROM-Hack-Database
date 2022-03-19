@@ -27,6 +27,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 29,Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle],Fan Translation,Japan,Gringle,English,C5CCD529,https://forums.serenesforest.net/index.php?/topic/41095-fe6-localization-patch-v113-now-with-fully-functional-support-conversation-reader/
 30,Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,1CCF7040,火焰纹章 - 封印之剑[狼组&火花天龙剑](v1.1)(2006090701) (简) (火花加料版)
 31,Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,4186D6E5,火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)
+32,Fire Emblem - The Sacred Stones (Russian Translation),Fan Translation,USA,DiamondAppendix,English,C1A69E8F,https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901
 100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,1C4FCC59,https://github.com/laqieer/fe7-jp-stunning-tribble
 101,Fire Emblem - Will of Good and Evil,Fan Modding,Japan,Wolf & Chinafe,Chinese,9CBB923E,http://www.fireemblem.net/fe/download/index.htm
 102,Shining Armor,Fan Modding,Japan,Blazer,English,67368BBB,http://www.romhacking.net/hacks/538/
@@ -170,26 +171,51 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 240,Flames of Redemption (supports unlocked),Fan Modding,USA,Shiza,English,0C835AF0,https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237
 241,Fe 8 Chess,Fan Modding,USA,redeyesblackdrag0n,English,D5DDB5E8,https://feuniverse.us/t/fe8-fire-emblem-8-chess/14805
 242,Touhou Emblem - The One That Isn’t Just An Fe8 Reskin,Fan Modding,USA,Rye on Speed,English,1B8B59C0,https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134
-243,Elibean Nights,Nintendo,USA,Arch,English,0F2076BD,https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83
-244,Foreboding Dusk,Nintendo,USA,Crims0nSentinel,English,2220983B,https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459
-245,Gheb Saga,Nintendo,USA,FurryYunSeong,English,6FB3CA5A,https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/
-246,Fire Emblem Forever,Nintendo,USA,Krad,English,D93D269A,https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/
-247,Fire Emblem - Izarck’s Quest,Nintendo,USA,YangKai,English,6BF9575B,https://feuniverse.us/t/fire-emblem-izarcks-quest/2037
-248,The Blade’s Legacy Spreading Flames,Nintendo,USA,Moliblazer,English,4AB46D89,https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/
-249,Grand Archipelago,Nintendo,USA,Grand Archipelago,English,14B61C7E,https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/
-250,Chronicles of Lussaria,Nintendo,USA,MarkyJoe1990,English,BEE51B0B,https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/
-251,Dream of Five,Nintendo,USA,AstraLunaSol,English,1CFE67CD,https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/
-252,Zombie Apocalypse,Nintendo,USA,Cedar,English,93EE3EA3,https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/
-253,Decay of the Fangs,Nintendo,USA,Mariobro3828,English,85F73677,https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/
-254,Atirian Conquest,Nintendo,USA,Straid Olaphis,English,F2F006E1,https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/
-255,League of Champions (Patch1),Nintendo,USA,Dancer_A,English,6C949342,https://feuniverse.us/t/fire-emblem-league-of-champions/13667
-256,League of Champions (Patch2),Nintendo,USA,Dancer_A,English,1B93A3D4,https://feuniverse.us/t/fire-emblem-league-of-champions/13667
-257,Nintenlord Saga,Nintendo,USA,Nintenlord,English,DB833F55,https://forums.serenesforest.net/index.php?/topic/224-nintenlord-saga-v-02/
-258,Typhon’s Wake,Nintendo,USA,Squeegee,English,829AF26E,https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/
-259,GFE1R,Nintendo,USA,Kirb,English,FEE335A3,https://github.com/Kirbseverywhere/GFE1R
-260,FE1 GBA,Nintendo,USA,Kirb,English,9BE58BD8,https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/
-261,Heroes of Valencia and Archanea,Nintendo,USA,escotanner,English,0C8502F7,https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/
-262,Athos Mode,Nintendo,USA,Nintenlord,English,2F511659,https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/
-263,Dark Emblem,Nintendo,USA,Yang Kai,English,74277073,https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/
-264,FE7 Allegiance Reversal+,Nintendo,USA,Shuusuke,English,8870C624,https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440
-265,Crossover Hack,Nintendo,USA,Mikey Séregon,Spanish,BC384A67,https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/
+243,Elibean Nights,Fan Modding,USA,Arch,English,0F2076BD,https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83
+244,Foreboding Dusk,Fan Modding,USA,Crims0nSentinel,English,2220983B,https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459
+245,Gheb Saga,Fan Modding,USA,FurryYunSeong,English,6FB3CA5A,https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/
+246,Fire Emblem Forever,Fan Modding,USA,Krad,English,D93D269A,https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/
+247,Fire Emblem - Izarck’s Quest,Fan Modding,USA,YangKai,English,6BF9575B,https://feuniverse.us/t/fire-emblem-izarcks-quest/2037
+248,The Blade’s Legacy Spreading Flames,Fan Modding,USA,Moliblazer,English,4AB46D89,https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/
+249,Grand Archipelago,Fan Modding,USA,Grand Archipelago,English,14B61C7E,https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/
+250,Chronicles of Lussaria,Fan Modding,USA,MarkyJoe1990,English,BEE51B0B,https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/
+251,Dream of Five,Fan Modding,USA,AstraLunaSol,English,1CFE67CD,https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/
+252,Zombie Apocalypse,Fan Modding,USA,Cedar,English,93EE3EA3,https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/
+253,Decay of the Fangs,Fan Modding,USA,Mariobro3828,English,85F73677,https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/
+254,Atirian Conquest,Fan Modding,USA,Straid Olaphis,English,F2F006E1,https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/
+255,League of Champions (Patch1),Fan Modding,USA,Dancer_A,English,6C949342,https://feuniverse.us/t/fire-emblem-league-of-champions/13667
+256,League of Champions (Patch2),Fan Modding,USA,Dancer_A,English,1B93A3D4,https://feuniverse.us/t/fire-emblem-league-of-champions/13667
+257,Nintenlord Saga,Fan Modding,USA,Nintenlord,English,DB833F55,https://forums.serenesforest.net/index.php?/topic/224-nintenlord-saga-v-02/
+258,Typhon’s Wake,Fan Modding,USA,Squeegee,English,829AF26E,https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/
+259,GFE1R,Fan Modding,USA,Kirb,English,FEE335A3,https://github.com/Kirbseverywhere/GFE1R
+260,FE1 GBA,Fan Modding,USA,Kirb,English,9BE58BD8,https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/
+261,Heroes of Valencia and Archanea,Fan Modding,USA,escotanner,English,0C8502F7,https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/
+262,Athos Mode,Fan Modding,USA,Nintenlord,English,2F511659,https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/
+263,Dark Emblem,Fan Modding,USA,Yang Kai,English,74277073,https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/
+264,FE7 Allegiance Reversal+,Fan Modding,USA,Shuusuke,English,8870C624,https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440
+265,Crossover Hack,Fan Modding,USA,Mikey Séregon,Spanish,BC384A67,https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/
+266,Midnight Sun,Fan Modding,USA,Alfred Kamon,English,8164EEE8,https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/
+267,Runa Does A Thing,Fan Modding,USA,Runa,English,500FE6C4,http://feuniverse.us/t/runa-does-a-thing-demo-live/3830
+268,Jugdral Saga,Fan Modding,USA,Yang Kai,English,B9521183,https://feuniverse.us/t/jugdral-saga-project/3743
+269,Staff of Ages,Fan Modding,USA,Staff of Ages team (InvdrZim13),English,08B68511,http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182
+270,Staff of Ages (Fixed Growths),Fan Modding,USA,Staff of Ages team (InvdrZim13),English,1A55014C,http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182
+271,Staff of Ages (0% Growths),Fan Modding,USA,Staff of Ages team (InvdrZim13),English,8E8C888D,http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182
+272,Justice and Pride - Book 2,Fan Modding,USA,MrGreen3339,English,D28F4951,https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975
+273,Under Grey Skies,Fan Modding,USA,Amberstorm,English,25B2D8D0,https://feuniverse.us/t/under-grey-skies/4133
+274,Fire Emblem - Tiding Bonds,Fan Modding,USA,Theri,English,B1D37E48,https://feuniverse.us/t/fire-emblem-tiding-bonds-demo-release/4338
+275,Fire Emblem - Darkest Blade,Fan Modding,USA,SilverFoxG,English,138220F4,https://feuniverse.us/t/fire-emblem-darkest-blade/3914
+276,Fire Emblem Destiny,Fan Modding,USA,Crazycolorz5,English,195FD1DF,https://feuniverse.us/t/fire-emblem-destiny-feu-forum-hack/1888
+277,Fire Emblem - Dust to Dust,Fan Modding,USA,circleseverywhere,English,F59DC2F8,https://feuniverse.us/t/fire-emblem-dust-to-dust/1160
+278,Water Crest - Morps’s Quest For Pants,Fan Modding,USA,Kirb,English,95D4742F,https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050
+279,Fire Emblem - The Stone Chains,Fan Modding,USA,MatonMx,Spanish,076F39DA,https://feuniverse.us/t/fire-emblem-the-stone-chains/2227
+280,Binks Emblem,Fan Modding,USA,Swordsalmon,English,4CC97F98,https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/
+281,Fire Emblem - The Binding Blade Extreme,Reskin,Japan,7_Legault_7,English,1BD371E9,https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722
+282,Tirado Emblem,Fan Modding,USA,Natsumi,English,5BB0AE74,https://feuniverse.us/t/tirado-emblem-demo/3630
+283,Resonance Resurgence Demo,Fan Modding,USA,Natsumi,English,7E89403C,FEE3 Demo
+284,Resurgonence,Fan Modding,USA,Natsumi,English,380E45B9,1.2.3
+285,A Sacred Dawn DX,Fan Modding,USA,MageKnight404,English,651B8FA3,https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/
+286,A Sacred Dawn,Fan Modding,USA,MageKnight404,English,61C6A436,https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/
+287,Stones of a Divine Dragon,Fan Modding,USA,ArcaneEli,English,05C2A230,https://feuniverse.us/t/fe8-stones-of-a-divine-dragon-v1-3-is-no-longer-being-updated-ever-plot-is-fully-explained-in-1st-post/4411
+288,Extinguished Blade,Fan Modding,USA,BlazeKing,English,5A32401B,https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/
+289,Tale of Ternon,Fan Modding,USA,Kirb,English,FB829219,https://feuniverse.us/t/tale-of-ternon/6622
+290,Blood of the Covenant,Fan Modding,USA,Knight_Moris,English,63A45A53,https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175

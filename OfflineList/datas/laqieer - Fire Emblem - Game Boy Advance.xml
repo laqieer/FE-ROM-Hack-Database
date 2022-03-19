@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220318</datVersion>
+		<datVersion>20220319</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -485,6 +485,22 @@
 			<im1CRC>F455DE3D</im1CRC>
 			<im2CRC>8BD14BBF</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>32</imageNumber>
+			<releaseNumber>32</releaseNumber>
+			<title>Fire Emblem - The Sacred Stones (Russian Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17092636</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>1</location>
+			<sourceRom>DiamondAppendix</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C1A69E8F</romCRC></files>
+			<im1CRC>F020514D</im1CRC>
+			<im2CRC>F3500412</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -2781,7 +2797,7 @@
 			<title>Elibean Nights</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>28260392</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Arch</sourceRom>
 			<language>2</language>
@@ -2797,7 +2813,7 @@
 			<title>Foreboding Dusk</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16888400</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Crims0nSentinel</sourceRom>
 			<language>2</language>
@@ -2813,7 +2829,7 @@
 			<title>Gheb Saga</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>26416180</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>FurryYunSeong</sourceRom>
 			<language>2</language>
@@ -2829,7 +2845,7 @@
 			<title>Fire Emblem Forever</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17627116</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Krad</sourceRom>
 			<language>2</language>
@@ -2845,7 +2861,7 @@
 			<title>Fire Emblem - Izarck’s Quest</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>21103520</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>YangKai</sourceRom>
 			<language>2</language>
@@ -2861,7 +2877,7 @@
 			<title>The Blade’s Legacy Spreading Flames</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17896244</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Moliblazer</sourceRom>
 			<language>2</language>
@@ -2877,7 +2893,7 @@
 			<title>Grand Archipelago</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>19579000</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Grand Archipelago</sourceRom>
 			<language>2</language>
@@ -2893,7 +2909,7 @@
 			<title>Chronicles of Lussaria</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17605868</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>MarkyJoe1990</sourceRom>
 			<language>2</language>
@@ -2909,7 +2925,7 @@
 			<title>Dream of Five</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>22194508</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>AstraLunaSol</sourceRom>
 			<language>2</language>
@@ -2925,7 +2941,7 @@
 			<title>Zombie Apocalypse</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>18992412</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Cedar</sourceRom>
 			<language>2</language>
@@ -2941,7 +2957,7 @@
 			<title>Decay of the Fangs</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>20200548</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Mariobro3828</sourceRom>
 			<language>2</language>
@@ -2957,7 +2973,7 @@
 			<title>Atirian Conquest</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17224984</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Straid Olaphis</sourceRom>
 			<language>2</language>
@@ -2973,7 +2989,7 @@
 			<title>League of Champions (Patch1)</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>18586224</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Dancer_A</sourceRom>
 			<language>2</language>
@@ -2989,7 +3005,7 @@
 			<title>League of Champions (Patch2)</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16939004</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Dancer_A</sourceRom>
 			<language>2</language>
@@ -3005,7 +3021,7 @@
 			<title>Nintenlord Saga</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16808391</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Nintenlord</sourceRom>
 			<language>2</language>
@@ -3021,7 +3037,7 @@
 			<title>Typhon’s Wake</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17738116</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Squeegee</sourceRom>
 			<language>2</language>
@@ -3037,7 +3053,7 @@
 			<title>GFE1R</title>
 			<saveType>Sram_F_v103</saveType>
 			<romSize>17684788</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Kirb</sourceRom>
 			<language>2</language>
@@ -3053,7 +3069,7 @@
 			<title>FE1 GBA</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>17361761</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Kirb</sourceRom>
 			<language>2</language>
@@ -3069,7 +3085,7 @@
 			<title>Heroes of Valencia and Archanea</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16804540</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>escotanner</sourceRom>
 			<language>2</language>
@@ -3085,7 +3101,7 @@
 			<title>Athos Mode</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16788472</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Nintenlord</sourceRom>
 			<language>2</language>
@@ -3101,7 +3117,7 @@
 			<title>Dark Emblem</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>23383092</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Yang Kai</sourceRom>
 			<language>2</language>
@@ -3117,7 +3133,7 @@
 			<title>FE7 Allegiance Reversal+</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>16911048</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Shuusuke</sourceRom>
 			<language>2</language>
@@ -3133,7 +3149,7 @@
 			<title>Crossover Hack</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>33480004</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Mikey Séregon</sourceRom>
 			<language>4096</language>
@@ -3141,6 +3157,406 @@
 			<im1CRC>693E9897</im1CRC>
 			<im2CRC>3EA1DA46</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>266</imageNumber>
+			<releaseNumber>266</releaseNumber>
+			<title>Midnight Sun</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22743256</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Alfred Kamon</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8164EEE8</romCRC></files>
+			<im1CRC>6E3994C4</im1CRC>
+			<im2CRC>B277EDEA</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>267</imageNumber>
+			<releaseNumber>267</releaseNumber>
+			<title>Runa Does A Thing</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17785916</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Runa</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">500FE6C4</romCRC></files>
+			<im1CRC>0BEE6E32</im1CRC>
+			<im2CRC>F7719469</im2CRC>
+			<comment>http://feuniverse.us/t/runa-does-a-thing-demo-live/3830</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>268</imageNumber>
+			<releaseNumber>268</releaseNumber>
+			<title>Jugdral Saga</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Yang Kai</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B9521183</romCRC></files>
+			<im1CRC>D09E5396</im1CRC>
+			<im2CRC>8E9D4B27</im2CRC>
+			<comment>https://feuniverse.us/t/jugdral-saga-project/3743</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>269</imageNumber>
+			<releaseNumber>269</releaseNumber>
+			<title>Staff of Ages</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Staff of Ages team (InvdrZim13)</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">08B68511</romCRC></files>
+			<im1CRC>D4B1F58B</im1CRC>
+			<im2CRC>259C90B5</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>270</imageNumber>
+			<releaseNumber>270</releaseNumber>
+			<title>Staff of Ages (Fixed Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Staff of Ages team (InvdrZim13)</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1A55014C</romCRC></files>
+			<im1CRC>8FBA826E</im1CRC>
+			<im2CRC>5967EA13</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>271</imageNumber>
+			<releaseNumber>271</releaseNumber>
+			<title>Staff of Ages (0% Growths)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Staff of Ages team (InvdrZim13)</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8E8C888D</romCRC></files>
+			<im1CRC>8FBA826E</im1CRC>
+			<im2CRC>E62DBBAA</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>272</imageNumber>
+			<releaseNumber>272</releaseNumber>
+			<title>Justice and Pride - Book 2</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22610380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MrGreen3339</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D28F4951</romCRC></files>
+			<im1CRC>99DF7E1D</im1CRC>
+			<im2CRC>06DDC376</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>273</imageNumber>
+			<releaseNumber>273</releaseNumber>
+			<title>Under Grey Skies</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19475260</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Amberstorm</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">25B2D8D0</romCRC></files>
+			<im1CRC>735CB90C</im1CRC>
+			<im2CRC>CD361053</im2CRC>
+			<comment>https://feuniverse.us/t/under-grey-skies/4133</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>274</imageNumber>
+			<releaseNumber>274</releaseNumber>
+			<title>Fire Emblem - Tiding Bonds</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16865348</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Theri</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B1D37E48</romCRC></files>
+			<im1CRC>ED90569A</im1CRC>
+			<im2CRC>8003B88A</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-tiding-bonds-demo-release/4338</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>275</imageNumber>
+			<releaseNumber>275</releaseNumber>
+			<title>Fire Emblem - Darkest Blade</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16827380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>SilverFoxG</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">138220F4</romCRC></files>
+			<im1CRC>BDE2419F</im1CRC>
+			<im2CRC>C24F3E0F</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-darkest-blade/3914</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>276</imageNumber>
+			<releaseNumber>276</releaseNumber>
+			<title>Fire Emblem Destiny</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Crazycolorz5</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">195FD1DF</romCRC></files>
+			<im1CRC>F4E22F21</im1CRC>
+			<im2CRC>EDADB09E</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-destiny-feu-forum-hack/1888</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>277</imageNumber>
+			<releaseNumber>277</releaseNumber>
+			<title>Fire Emblem - Dust to Dust</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17845052</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>circleseverywhere</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">F59DC2F8</romCRC></files>
+			<im1CRC>94A13461</im1CRC>
+			<im2CRC>7DC0B0EA</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dust-to-dust/1160</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>278</imageNumber>
+			<releaseNumber>278</releaseNumber>
+			<title>Water Crest - Morps’s Quest For Pants</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17267760</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Kirb</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">95D4742F</romCRC></files>
+			<im1CRC>8F93F9D3</im1CRC>
+			<im2CRC>F0F38BC3</im2CRC>
+			<comment>https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>279</imageNumber>
+			<releaseNumber>279</releaseNumber>
+			<title>Fire Emblem - The Stone Chains</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25891240</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MatonMx</sourceRom>
+			<language>4096</language>
+			<files><romCRC extension=".gba">076F39DA</romCRC></files>
+			<im1CRC>49BB976A</im1CRC>
+			<im2CRC>2D659AA5</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-stone-chains/2227</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>280</imageNumber>
+			<releaseNumber>280</releaseNumber>
+			<title>Binks Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Swordsalmon</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4CC97F98</romCRC></files>
+			<im1CRC>A9170711</im1CRC>
+			<im2CRC>C0354548</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>281</imageNumber>
+			<releaseNumber>281</releaseNumber>
+			<title>Fire Emblem - The Binding Blade Extreme</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17766392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>7_Legault_7</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1BD371E9</romCRC></files>
+			<im1CRC>98E915E6</im1CRC>
+			<im2CRC>7C16D536</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>282</imageNumber>
+			<releaseNumber>282</releaseNumber>
+			<title>Tirado Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18775380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Natsumi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5BB0AE74</romCRC></files>
+			<im1CRC>BDE2419F</im1CRC>
+			<im2CRC>BA6A85CD</im2CRC>
+			<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>283</imageNumber>
+			<releaseNumber>283</releaseNumber>
+			<title>Resonance Resurgence Demo</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23770732</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Natsumi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7E89403C</romCRC></files>
+			<im1CRC>607DE9EC</im1CRC>
+			<im2CRC>FAF8F240</im2CRC>
+			<comment>FEE3 Demo</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>284</imageNumber>
+			<releaseNumber>284</releaseNumber>
+			<title>Resurgonence</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23710212</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Natsumi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">380E45B9</romCRC></files>
+			<im1CRC>607DE9EC</im1CRC>
+			<im2CRC>6E3535BA</im2CRC>
+			<comment>1.2.3</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>285</imageNumber>
+			<releaseNumber>285</releaseNumber>
+			<title>A Sacred Dawn DX</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22333152</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MageKnight404</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">651B8FA3</romCRC></files>
+			<im1CRC>55EB597C</im1CRC>
+			<im2CRC>E8B4ABB8</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>286</imageNumber>
+			<releaseNumber>286</releaseNumber>
+			<title>A Sacred Dawn</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22020347</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>MageKnight404</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">61C6A436</romCRC></files>
+			<im1CRC>B5406391</im1CRC>
+			<im2CRC>0F43EA61</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>287</imageNumber>
+			<releaseNumber>287</releaseNumber>
+			<title>Stones of a Divine Dragon</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554436</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>ArcaneEli</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">05C2A230</romCRC></files>
+			<im1CRC>30A23663</im1CRC>
+			<im2CRC>591A4796</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-stones-of-a-divine-dragon-v1-3-is-no-longer-being-updated-ever-plot-is-fully-explained-in-1st-post/4411</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>288</imageNumber>
+			<releaseNumber>288</releaseNumber>
+			<title>Extinguished Blade</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>BlazeKing</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5A32401B</romCRC></files>
+			<im1CRC>B12406A3</im1CRC>
+			<im2CRC>FF7FC4D0</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>289</imageNumber>
+			<releaseNumber>289</releaseNumber>
+			<title>Tale of Ternon</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18452460</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Kirb</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FB829219</romCRC></files>
+			<im1CRC>1947FCC6</im1CRC>
+			<im2CRC>A563CD61</im2CRC>
+			<comment>https://feuniverse.us/t/tale-of-ternon/6622</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>290</imageNumber>
+			<releaseNumber>290</releaseNumber>
+			<title>Blood of the Covenant</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20149244</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Knight_Moris</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">63A45A53</romCRC></files>
+			<im1CRC>227D5F67</im1CRC>
+			<im2CRC>70606975</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

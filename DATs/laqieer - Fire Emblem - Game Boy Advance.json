@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220318",
+		"version": "20220319",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -161,6 +161,42 @@
 		},
 		{
 			"machine": {
+				"name": "A Sacred Dawn",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "286 - A Sacred Dawn",
+						"size": 22020347,
+						"crc": "61c6a436"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "A Sacred Dawn DX",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "285 - A Sacred Dawn DX",
+						"size": 22333152,
+						"crc": "651b8fa3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Antagonist Emblem",
 				"comment": "https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870",
 				"description": null,
@@ -182,7 +218,7 @@
 				"name": "Athos Mode",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -200,7 +236,7 @@
 				"name": "Atirian Conquest",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -359,6 +395,24 @@
 		},
 		{
 			"machine": {
+				"name": "Binks Emblem",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "280 - Binks Emblem",
+						"size": 16777216,
+						"crc": "4cc97f98"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blazer’s One Day Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/",
 				"description": null,
@@ -371,6 +425,24 @@
 						"name": "127 - Blazer’s One Day Hack",
 						"size": 20983928,
 						"crc": "c68db4ee"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Blood of the Covenant",
+				"comment": "https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "290 - Blood of the Covenant",
+						"size": 20149244,
+						"crc": "63a45a53"
 					}
 				}
 			]
@@ -470,7 +542,7 @@
 				"name": "Chronicles of Lussaria",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -524,7 +596,7 @@
 				"name": "Crossover Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -542,7 +614,7 @@
 				"name": "Dark Emblem",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -578,7 +650,7 @@
 				"name": "Decay of the Fangs",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -668,7 +740,7 @@
 				"name": "Dream of Five",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -686,7 +758,7 @@
 				"name": "Elibean Nights",
 				"comment": "https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -719,6 +791,24 @@
 		},
 		{
 			"machine": {
+				"name": "Extinguished Blade",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "288 - Extinguished Blade",
+						"size": 16777216,
+						"crc": "5a32401b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fallen King",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/",
 				"description": null,
@@ -740,7 +830,7 @@
 				"name": "FE1 GBA",
 				"comment": "https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -758,7 +848,7 @@
 				"name": "FE7 Allegiance Reversal+",
 				"comment": "https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -1097,6 +1187,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Darkest Blade",
+				"comment": "https://feuniverse.us/t/fire-emblem-darkest-blade/3914",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "275 - Fire Emblem - Darkest Blade",
+						"size": 16827380,
+						"crc": "138220f4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Death or Glory",
 				"comment": "https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376",
 				"description": null,
@@ -1127,6 +1235,24 @@
 						"name": "122 - Fire Emblem - Different Dimensions Ostian Princess 2",
 						"size": 17357688,
 						"crc": "624f1b70"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Dust to Dust",
+				"comment": "https://feuniverse.us/t/fire-emblem-dust-to-dust/1160",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "277 - Fire Emblem - Dust to Dust",
+						"size": 17845052,
+						"crc": "f59dc2f8"
 					}
 				}
 			]
@@ -1334,7 +1460,7 @@
 				"name": "Fire Emblem - Izarck’s Quest",
 				"comment": "https://feuniverse.us/t/fire-emblem-izarcks-quest/2037",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -1691,6 +1817,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - The Binding Blade Extreme",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "281 - Fire Emblem - The Binding Blade Extreme",
+						"size": 17766392,
+						"crc": "1bd371e9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - The Fall of Thabes",
 				"comment": "https://feuniverse.us/t/the-fall-of-thabes-release/9941",
 				"description": null,
@@ -1763,6 +1907,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - The Sacred Stones (Russian Translation)",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901",
+				"description": null,
+				"publisher": "Fan Translation"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "32 - Fire Emblem - The Sacred Stones (Russian Translation)",
+						"size": 17092636,
+						"crc": "c1a69e8f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)",
 				"comment": "",
 				"description": null,
@@ -1793,6 +1955,42 @@
 						"name": "7 - Fire Emblem - The Sacred Stones (USA, Australia)",
 						"size": 16777216,
 						"crc": "a47246ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - The Stone Chains",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-stone-chains/2227",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "279 - Fire Emblem - The Stone Chains",
+						"size": 25891240,
+						"crc": "076f39da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Tiding Bonds",
+				"comment": "https://feuniverse.us/t/fire-emblem-tiding-bonds-demo-release/4338",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "274 - Fire Emblem - Tiding Bonds",
+						"size": 16865348,
+						"crc": "b1d37e48"
 					}
 				}
 			]
@@ -1871,10 +2069,28 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem Destiny",
+				"comment": "https://feuniverse.us/t/fire-emblem-destiny-feu-forum-hack/1888",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "276 - Fire Emblem Destiny",
+						"size": 16777216,
+						"crc": "195fd1df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem Forever",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -1964,7 +2180,7 @@
 				"name": "Foreboding Dusk",
 				"comment": "https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2036,7 +2252,7 @@
 				"name": "GFE1R",
 				"comment": "https://github.com/Kirbseverywhere/GFE1R",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2054,7 +2270,7 @@
 				"name": "Gheb Saga",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2072,7 +2288,7 @@
 				"name": "Grand Archipelago",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2162,7 +2378,7 @@
 				"name": "Heroes of Valencia and Archanea",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2249,6 +2465,42 @@
 		},
 		{
 			"machine": {
+				"name": "Jugdral Saga",
+				"comment": "https://feuniverse.us/t/jugdral-saga-project/3743",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "268 - Jugdral Saga",
+						"size": 16777216,
+						"crc": "b9521183"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Justice and Pride - Book 2",
+				"comment": "https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "272 - Justice and Pride - Book 2",
+						"size": 22610380,
+						"crc": "d28f4951"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Kaitou",
 				"comment": "https://feuniverse.us/t/fe8-kaitou-patch/2984",
 				"description": null,
@@ -2306,7 +2558,7 @@
 				"name": "League of Champions (Patch1)",
 				"comment": "https://feuniverse.us/t/fire-emblem-league-of-champions/13667",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2324,7 +2576,7 @@
 				"name": "League of Champions (Patch2)",
 				"comment": "https://feuniverse.us/t/fire-emblem-league-of-champions/13667",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2369,6 +2621,24 @@
 						"name": "170 - Marc’s Precious - Revenge",
 						"size": 17332276,
 						"crc": "4426c3f9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Midnight Sun",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "266 - Midnight Sun",
+						"size": 22743256,
+						"crc": "8164eee8"
 					}
 				}
 			]
@@ -2450,7 +2720,7 @@
 				"name": "Nintenlord Saga",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/224-nintenlord-saga-v-02/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -2645,6 +2915,42 @@
 		},
 		{
 			"machine": {
+				"name": "Resonance Resurgence Demo",
+				"comment": "FEE3 Demo",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "283 - Resonance Resurgence Demo",
+						"size": 23770732,
+						"crc": "7e89403c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Resurgonence",
+				"comment": "1.2.3",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "284 - Resurgonence",
+						"size": 23710212,
+						"crc": "380e45b9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Rubik’s Cube",
 				"comment": "https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971",
 				"description": null,
@@ -2657,6 +2963,24 @@
 						"name": "216 - Rubik’s Cube",
 						"size": 16777216,
 						"crc": "38da7267"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Runa Does A Thing",
+				"comment": "http://feuniverse.us/t/runa-does-a-thing-demo-live/3830",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "267 - Runa Does A Thing",
+						"size": 17785916,
+						"crc": "500fe6c4"
 					}
 				}
 			]
@@ -2843,6 +3167,78 @@
 		},
 		{
 			"machine": {
+				"name": "Staff of Ages",
+				"comment": "http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "269 - Staff of Ages",
+						"size": 24147092,
+						"crc": "08b68511"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Staff of Ages (0% Growths)",
+				"comment": "http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "271 - Staff of Ages (0% Growths)",
+						"size": 24147092,
+						"crc": "8e8c888d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Staff of Ages (Fixed Growths)",
+				"comment": "http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "270 - Staff of Ages (Fixed Growths)",
+						"size": 24147092,
+						"crc": "1a55014c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Stones of a Divine Dragon",
+				"comment": "https://feuniverse.us/t/fe8-stones-of-a-divine-dragon-v1-3-is-no-longer-being-updated-ever-plot-is-fully-explained-in-1st-post/4411",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "287 - Stones of a Divine Dragon",
+						"size": 33554436,
+						"crc": "05c2a230"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Storge",
 				"comment": "https://feuniverse.us/t/fire-emblem-storge-complete/11711",
 				"description": null,
@@ -2861,10 +3257,28 @@
 		},
 		{
 			"machine": {
+				"name": "Tale of Ternon",
+				"comment": "https://feuniverse.us/t/tale-of-ternon/6622",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "289 - Tale of Ternon",
+						"size": 18452460,
+						"crc": "fb829219"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Blade’s Legacy Spreading Flames",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -3329,6 +3743,24 @@
 		},
 		{
 			"machine": {
+				"name": "Tirado Emblem",
+				"comment": "https://feuniverse.us/t/tirado-emblem-demo/3630",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "282 - Tirado Emblem",
+						"size": 18775380,
+						"crc": "5bb0ae74"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin",
 				"comment": "https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134",
 				"description": null,
@@ -3350,7 +3782,7 @@
 				"name": "Typhon’s Wake",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
@@ -3377,6 +3809,24 @@
 						"name": "136 - Unburdened Liberty",
 						"size": 21005868,
 						"crc": "b616cc93"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Under Grey Skies",
+				"comment": "https://feuniverse.us/t/under-grey-skies/4133",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "273 - Under Grey Skies",
+						"size": 19475260,
+						"crc": "25b2d8d0"
 					}
 				}
 			]
@@ -3509,6 +3959,24 @@
 		},
 		{
 			"machine": {
+				"name": "Water Crest - Morps’s Quest For Pants",
+				"comment": "https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "278 - Water Crest - Morps’s Quest For Pants",
+						"size": 17267760,
+						"crc": "95d4742f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Winning Against Gharnef",
 				"comment": "https://github.com/sme23/MekkahRestrictedHackComp1",
 				"description": null,
@@ -3584,7 +4052,7 @@
 				"name": "Zombie Apocalypse",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/",
 				"description": null,
-				"publisher": "Nintendo"
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{

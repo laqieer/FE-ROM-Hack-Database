@@ -1,6 +1,8 @@
 	2 Princesses/183 - 2 Princesses			44f08e5b	24646064
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	A Glimpse of Time/178 - A Glimpse of Time			caccb1eb	19436704
+	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
+	A Sacred Dawn DX/285 - A Sacred Dawn DX			651b8fa3	22333152
 	Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
 	Athos Mode/262 - Athos Mode			2f511659	16788472
 	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
@@ -12,7 +14,9 @@
 	Battle Simulator (Ally Control)/195 - Battle Simulator (Ally Control)			3926efa0	16802684
 	Battle Simulator (Full Control)/196 - Battle Simulator (Full Control)			c8ea0c56	16802684
 	Battle Simulator (No Control)/197 - Battle Simulator (No Control)			bcfccaf8	16802684
+	Binks Emblem/280 - Binks Emblem			4cc97f98	16777216
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
+	Blood of the Covenant/290 - Blood of the Covenant			63a45a53	20149244
 	Boss War/115 - Boss War			186ecc6e	25171160
 	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
 	Call of the Armor/230 - Call of the Armor			688794f7	20330124
@@ -32,6 +36,7 @@
 	Dream of Five/251 - Dream of Five			1cfe67cd	22194508
 	Elibean Nights/243 - Elibean Nights			0f2076bd	28260392
 	Escape the Mangs Dungeon/161 - Escape the Mangs Dungeon			090dffb3	17083184
+	Extinguished Blade/288 - Extinguished Blade			5a32401b	16777216
 	Fallen King/114 - Fallen King			8b2cbe45	17826344
 	FE1 GBA/260 - FE1 GBA			9be58bd8	17361761
 	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
@@ -53,8 +58,10 @@
 	Fire Emblem (USA, Australia)/3 - Fire Emblem (USA, Australia)			2a524221	16777216
 	Fire Emblem - Barhara Revisited/123 - Fire Emblem - Barhara Revisited			15482be6	17529372
 	Fire Emblem - Code of the Black Knights/150 - Fire Emblem - Code of the Black Knights			c666f8b1	33016900
+	Fire Emblem - Darkest Blade/275 - Fire Emblem - Darkest Blade			138220f4	16827380
 	Fire Emblem - Death or Glory/124 - Fire Emblem - Death or Glory			cf613764	19915268
 	Fire Emblem - Different Dimensions Ostian Princess 2.0/122 - Fire Emblem - Different Dimensions Ostian Princess 2			624f1b70	17357688
+	Fire Emblem - Dust to Dust/277 - Fire Emblem - Dust to Dust			f59dc2f8	17845052
 	Fire Emblem - Emulation Theory/231 - Fire Emblem - Emulation Theory			2960b252	20286080
 	Fire Emblem - Emulation Theory (Classic Mode, No skills)/232 - Fire Emblem - Emulation Theory (Classic Mode, No skills)			755d8d9a	20286080
 	Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)/233 - Fire Emblem - Emulation Theory (Pain Mode, 0% Growth Rates)			28206b59	20286080
@@ -86,16 +93,21 @@
 	Fire Emblem - Tenchi no Ken (Japan)/110 - Fire Emblem - Tenchi no Ken (Japan)			f925dd29	27323016
 	Fire Emblem - The Arch of Coups/157 - Fire Emblem - The Arch of Coups			362cecef	18641452
 	Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]/29 - Fire Emblem - The Binding Blade (English Localization v1			c5ccd529	8587268
+	Fire Emblem - The Binding Blade Extreme/281 - Fire Emblem - The Binding Blade Extreme			1bd371e9	17766392
 	Fire Emblem - The Fall of Thabes/221 - Fire Emblem - The Fall of Thabes			7572b080	24947612
 	Fire Emblem - The Heroes We Deserve/155 - Fire Emblem - The Heroes We Deserve			a2171a8e	22209796
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)/8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)			b3005195	33554432
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)/14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)			2653401a	33554432
+	Fire Emblem - The Sacred Stones (Russian Translation)/32 - Fire Emblem - The Sacred Stones (Russian Translation)			c1a69e8f	17092636
 	Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)/12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)			dea3b767	16777216
 	Fire Emblem - The Sacred Stones (USA, Australia)/7 - Fire Emblem - The Sacred Stones (USA, Australia)			a47246ae	16777216
+	Fire Emblem - The Stone Chains/279 - Fire Emblem - The Stone Chains			076f39da	25891240
+	Fire Emblem - Tiding Bonds/274 - Fire Emblem - Tiding Bonds			b1d37e48	16865348
 	Fire Emblem - Vision Quest/203 - Fire Emblem - Vision Quest			aee1137a	27226016
 	Fire Emblem - Will of Good and Evil/101 - Fire Emblem - Will of Good and Evil			9cbb923e	16777216
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)/117 - Fire Emblem [Latino] 2			fc2b8ed3	25224856
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)/116 - Fire Emblem [Latino] 2			8ea1444d	25198924
+	Fire Emblem Destiny/276 - Fire Emblem Destiny			195fd1df	16777216
 	Fire Emblem Forever/246 - Fire Emblem Forever			d93d269a	17627116
 	Fire Emblem Poop/118 - Fire Emblem Poop			8d1db15c	24492260
 	Fire Emblem Versus/134 - Fire Emblem Versus			47ba1139	16777284
@@ -117,6 +129,8 @@
 	Inheritance (with Minimug)/211 - Inheritance (with Minimug)			bc0988fd	27877852
 	Isekai Emblem/237 - Isekai Emblem			60a52d28	23924912
 	Journeys/219 - Journeys			1c83df77	26336432
+	Jugdral Saga/268 - Jugdral Saga			b9521183	16777216
+	Justice and Pride - Book 2/272 - Justice and Pride - Book 2			d28f4951	22610380
 	Kaitou/179 - Kaitou			6e2c9f97	33153280
 	Kaitou (English)/180 - Kaitou (English)			9cad49eb	33465472
 	Knoll’s Super Spooky Halloween Adventure/162 - Knoll’s Super Spooky Halloween Adventure			19a64b75	17014360
@@ -124,6 +138,7 @@
 	League of Champions (Patch2)/256 - League of Champions (Patch2)			1b93a3d4	16939004
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Marc’s Precious - Revenge/170 - Marc’s Precious - Revenge			4426c3f9	17332276
+	Midnight Sun/266 - Midnight Sun			8164eee8	22743256
 	Myrm Emblem/238 - Myrm Emblem			b5a503ae	22182264
 	Narcian and the Mirror Chamber/199 - Narcian and the Mirror Chamber			9c298acb	18997204
 	Necrosis Among the Living (Main hack)/222 - Necrosis Among the Living (Main hack)			97095ad2	25774348
@@ -139,7 +154,10 @@
 	Requiem/113 - Requiem			1225efff	18774856
 	Resident Emblem 8/160 - Resident Emblem 8			3d35a4fc	17080688
 	Resonance/144 - Resonance			7d35cc3c	21319464
+	Resonance Resurgence Demo/283 - Resonance Resurgence Demo			7e89403c	23770732
+	Resurgonence/284 - Resurgonence			380e45b9	23710212
 	Rubik’s Cube/216 - Rubik’s Cube			38da7267	16777216
+	Runa Does A Thing/267 - Runa Does A Thing			500fe6c4	17785916
 	Sacred Contention/128 - Sacred Contention			34f11759	19125992
 	Sacred Contention (DS Battle Background Mode)/129 - Sacred Contention (DS Battle Background Mode)			4fccb155	20971520
 	Sacred Contention (E-Rank Mode)/130 - Sacred Contention (E-Rank Mode)			b9c52723	19125992
@@ -150,7 +168,12 @@
 	Self-Randomising Rom/167 - Self-Randomising Rom			21b24720	16777216
 	Shining Armor/102 - Shining Armor			67368bbb	16788636
 	Slot Machine/215 - Slot Machine			36c739f5	16784068
+	Staff of Ages/269 - Staff of Ages			08b68511	24147092
+	Staff of Ages (0% Growths)/271 - Staff of Ages (0% Growths)			8e8c888d	24147092
+	Staff of Ages (Fixed Growths)/270 - Staff of Ages (Fixed Growths)			1a55014c	24147092
+	Stones of a Divine Dragon/287 - Stones of a Divine Dragon			05c2a230	33554436
 	Storge/236 - Storge			079106d8	20034916
+	Tale of Ternon/289 - Tale of Ternon			fb829219	18452460
 	The Blade’s Legacy Spreading Flames/248 - The Blade’s Legacy Spreading Flames			4ab46d89	17896244
 	The Burdened Crown/145 - The Burdened Crown			489aff60	22485048
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048
@@ -177,9 +200,11 @@
 	The Sacred War (Starting Version - v1.36)/172 - The Sacred War (Starting Version - v1			9ff4790d	31133988
 	The Sun God’s Wrath/217 - The Sun God’s Wrath			cc06a4ef	33007088
 	The Sun God’s Wrath (0 growth)/218 - The Sun God’s Wrath (0 growth)			7def8770	33007108
+	Tirado Emblem/282 - Tirado Emblem			5bb0ae74	18775380
 	Touhou Emblem - The One That Isn’t Just An Fe8 Reskin/242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin			1b8b59c0	22807804
 	Typhon’s Wake/258 - Typhon’s Wake			829af26e	17738116
 	Unburdened Liberty/136 - Unburdened Liberty			b616cc93	21005868
+	Under Grey Skies/273 - Under Grey Skies			25b2d8d0	19475260
 	Voice Acting Tech Demo/193 - Voice Acting Tech Demo			c2cd5264	17337768
 	Void’s Blitzarre Adventure/141 - Void’s Blitzarre Adventure			9d22107c	18641452
 	Void’s Blitzarre Adventure - Blitz Tendency/142 - Void’s Blitzarre Adventure - Blitz Tendency			e02d7a82	16777216
@@ -187,6 +212,7 @@
 	Vs. Mode/135 - Vs			86fe30d3	17066348
 	War on Two Fronts/234 - War on Two Fronts			3c922e66	24923600
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
+	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528
 	Yggdra Hack UI Translation/182 - Yggdra Hack UI Translation			63b815ad	25450720
 	Yugudora Hack/181 - Yugudora Hack			ea667865	26349436

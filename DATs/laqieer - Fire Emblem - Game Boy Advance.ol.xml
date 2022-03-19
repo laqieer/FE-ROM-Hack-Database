@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>194</datVersion>
+		<datVersion>220</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -98,6 +98,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>286 - A Sacred Dawn</title>
+			<saveType>None</saveType>
+			<romSize>22020347</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">61C6A436</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>285 - A Sacred Dawn DX</title>
+			<saveType>None</saveType>
+			<romSize>22333152</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">651B8FA3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>169 - Antagonist Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17515204</romSize>
@@ -119,7 +155,7 @@
 			<title>262 - Athos Mode</title>
 			<saveType>None</saveType>
 			<romSize>16788472</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -137,7 +173,7 @@
 			<title>254 - Atirian Conquest</title>
 			<saveType>None</saveType>
 			<romSize>17224984</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -296,6 +332,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>280 - Binks Emblem</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4CC97F98</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>127 - Blazer’s One Day Hack</title>
 			<saveType>None</saveType>
 			<romSize>20983928</romSize>
@@ -309,6 +363,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>290 - Blood of the Covenant</title>
+			<saveType>None</saveType>
+			<romSize>20149244</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">63A45A53</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -407,7 +479,7 @@
 			<title>250 - Chronicles of Lussaria</title>
 			<saveType>None</saveType>
 			<romSize>17605868</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -461,7 +533,7 @@
 			<title>265 - Crossover Hack</title>
 			<saveType>None</saveType>
 			<romSize>33480004</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -479,7 +551,7 @@
 			<title>263 - Dark Emblem</title>
 			<saveType>None</saveType>
 			<romSize>23383092</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -515,7 +587,7 @@
 			<title>253 - Decay of the Fangs</title>
 			<saveType>None</saveType>
 			<romSize>20200548</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -605,7 +677,7 @@
 			<title>251 - Dream of Five</title>
 			<saveType>None</saveType>
 			<romSize>22194508</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -623,7 +695,7 @@
 			<title>243 - Elibean Nights</title>
 			<saveType>None</saveType>
 			<romSize>28260392</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -656,6 +728,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>288 - Extinguished Blade</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5A32401B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>114 - Fallen King</title>
 			<saveType>None</saveType>
 			<romSize>17826344</romSize>
@@ -677,7 +767,7 @@
 			<title>260 - FE1 GBA</title>
 			<saveType>None</saveType>
 			<romSize>17361761</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -695,7 +785,7 @@
 			<title>264 - FE7 Allegiance Reversal+</title>
 			<saveType>None</saveType>
 			<romSize>16911048</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1035,6 +1125,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>275 - Fire Emblem - Darkest Blade</title>
+			<saveType>None</saveType>
+			<romSize>16827380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">138220F4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-darkest-blade/3914</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>124 - Fire Emblem - Death or Glory</title>
 			<saveType>None</saveType>
 			<romSize>19915268</romSize>
@@ -1066,6 +1174,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-different-dimensions-ostian-princess-2-0/1551</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>277 - Fire Emblem - Dust to Dust</title>
+			<saveType>None</saveType>
+			<romSize>17845052</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F59DC2F8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dust-to-dust/1160</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1272,7 +1398,7 @@
 			<title>247 - Fire Emblem - Izarck’s Quest</title>
 			<saveType>None</saveType>
 			<romSize>21103520</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1629,6 +1755,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>281 - Fire Emblem - The Binding Blade Extreme</title>
+			<saveType>None</saveType>
+			<romSize>17766392</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1BD371E9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>221 - Fire Emblem - The Fall of Thabes</title>
 			<saveType>None</saveType>
 			<romSize>24947612</romSize>
@@ -1702,6 +1846,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>32 - Fire Emblem - The Sacred Stones (Russian Translation)</title>
+			<saveType>None</saveType>
+			<romSize>17092636</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C1A69E8F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -1734,6 +1896,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://tanasmanor.net/sites/fe8/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>279 - Fire Emblem - The Stone Chains</title>
+			<saveType>None</saveType>
+			<romSize>25891240</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">076F39DA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-stone-chains/2227</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>274 - Fire Emblem - Tiding Bonds</title>
+			<saveType>None</saveType>
+			<romSize>16865348</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B1D37E48</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-tiding-bonds-demo-release/4338</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1811,10 +2009,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>276 - Fire Emblem Destiny</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">195FD1DF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-destiny-feu-forum-hack/1888</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>246 - Fire Emblem Forever</title>
 			<saveType>None</saveType>
 			<romSize>17627116</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1904,7 +2120,7 @@
 			<title>244 - Foreboding Dusk</title>
 			<saveType>None</saveType>
 			<romSize>16888400</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1976,7 +2192,7 @@
 			<title>259 - GFE1R</title>
 			<saveType>None</saveType>
 			<romSize>17684788</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1994,7 +2210,7 @@
 			<title>245 - Gheb Saga</title>
 			<saveType>None</saveType>
 			<romSize>26416180</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2012,7 +2228,7 @@
 			<title>249 - Grand Archipelago</title>
 			<saveType>None</saveType>
 			<romSize>19579000</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2102,7 +2318,7 @@
 			<title>261 - Heroes of Valencia and Archanea</title>
 			<saveType>None</saveType>
 			<romSize>16804540</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2189,6 +2405,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>268 - Jugdral Saga</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B9521183</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/jugdral-saga-project/3743</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>272 - Justice and Pride - Book 2</title>
+			<saveType>None</saveType>
+			<romSize>22610380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D28F4951</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>179 - Kaitou</title>
 			<saveType>None</saveType>
 			<romSize>33153280</romSize>
@@ -2246,7 +2498,7 @@
 			<title>255 - League of Champions (Patch1)</title>
 			<saveType>None</saveType>
 			<romSize>18586224</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2264,7 +2516,7 @@
 			<title>256 - League of Champions (Patch2)</title>
 			<saveType>None</saveType>
 			<romSize>16939004</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2310,6 +2562,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>266 - Midnight Sun</title>
+			<saveType>None</saveType>
+			<romSize>22743256</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8164EEE8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2390,7 +2660,7 @@
 			<title>257 - Nintenlord Saga</title>
 			<saveType>None</saveType>
 			<romSize>16808391</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2585,6 +2855,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>283 - Resonance Resurgence Demo</title>
+			<saveType>None</saveType>
+			<romSize>23770732</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7E89403C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>FEE3 Demo</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>284 - Resurgonence</title>
+			<saveType>None</saveType>
+			<romSize>23710212</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">380E45B9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.2.3</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>216 - Rubik’s Cube</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -2598,6 +2904,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>267 - Runa Does A Thing</title>
+			<saveType>None</saveType>
+			<romSize>17785916</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">500FE6C4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://feuniverse.us/t/runa-does-a-thing-demo-live/3830</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2783,6 +3107,78 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>269 - Staff of Ages</title>
+			<saveType>None</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">08B68511</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>271 - Staff of Ages (0% Growths)</title>
+			<saveType>None</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8E8C888D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>270 - Staff of Ages (Fixed Growths)</title>
+			<saveType>None</saveType>
+			<romSize>24147092</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1A55014C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>287 - Stones of a Divine Dragon</title>
+			<saveType>None</saveType>
+			<romSize>33554436</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">05C2A230</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-stones-of-a-divine-dragon-v1-3-is-no-longer-being-updated-ever-plot-is-fully-explained-in-1st-post/4411</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>236 - Storge</title>
 			<saveType>None</saveType>
 			<romSize>20034916</romSize>
@@ -2801,10 +3197,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>289 - Tale of Ternon</title>
+			<saveType>None</saveType>
+			<romSize>18452460</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FB829219</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/tale-of-ternon/6622</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>248 - The Blade’s Legacy Spreading Flames</title>
 			<saveType>None</saveType>
 			<romSize>17896244</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3269,6 +3683,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>282 - Tirado Emblem</title>
+			<saveType>None</saveType>
+			<romSize>18775380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5BB0AE74</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</title>
 			<saveType>None</saveType>
 			<romSize>22807804</romSize>
@@ -3290,7 +3722,7 @@
 			<title>258 - Typhon’s Wake</title>
 			<saveType>None</saveType>
 			<romSize>17738116</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3318,6 +3750,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>273 - Under Grey Skies</title>
+			<saveType>None</saveType>
+			<romSize>19475260</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">25B2D8D0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/under-grey-skies/4133</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3449,6 +3899,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>278 - Water Crest - Morps’s Quest For Pants</title>
+			<saveType>None</saveType>
+			<romSize>17267760</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">95D4742F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>165 - Winning Against Gharnef</title>
 			<saveType>None</saveType>
 			<romSize>18085528</romSize>
@@ -3524,7 +3992,7 @@
 			<title>252 - Zombie Apocalypse</title>
 			<saveType>None</saveType>
 			<romSize>18992412</romSize>
-			<publisher>Nintendo</publisher>
+			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>

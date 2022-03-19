@@ -10,6 +10,14 @@ ROMs required for driver "A Glimpse of Time".
 Name                                   Size Checksum
 178 - A Glimpse of Time            19436704 CRC(caccb1eb)
 
+ROMs required for driver "A Sacred Dawn".
+Name                                   Size Checksum
+286 - A Sacred Dawn                22020347 CRC(61c6a436)
+
+ROMs required for driver "A Sacred Dawn DX".
+Name                                   Size Checksum
+285 - A Sacred Dawn DX             22333152 CRC(651b8fa3)
+
 ROMs required for driver "Antagonist Emblem".
 Name                                   Size Checksum
 169 - Antagonist Emblem            17515204 CRC(13983cfb)
@@ -54,9 +62,17 @@ ROMs required for driver "Battle Simulator (No Control)".
 Name                                   Size Checksum
 197 - Battle Simulator (No Control)16802684 CRC(bcfccaf8)
 
+ROMs required for driver "Binks Emblem".
+Name                                   Size Checksum
+280 - Binks Emblem                 16777216 CRC(4cc97f98)
+
 ROMs required for driver "Blazer’s One Day Hack".
 Name                                   Size Checksum
 127 - Blazer’s One Day Hack        20983928 CRC(c68db4ee)
+
+ROMs required for driver "Blood of the Covenant".
+Name                                   Size Checksum
+290 - Blood of the Covenant        20149244 CRC(63a45a53)
 
 ROMs required for driver "Boss War".
 Name                                   Size Checksum
@@ -133,6 +149,10 @@ Name                                   Size Checksum
 ROMs required for driver "Escape the Mangs Dungeon".
 Name                                   Size Checksum
 161 - Escape the Mangs Dungeon     17083184 CRC(090dffb3)
+
+ROMs required for driver "Extinguished Blade".
+Name                                   Size Checksum
+288 - Extinguished Blade           16777216 CRC(5a32401b)
 
 ROMs required for driver "Fallen King".
 Name                                   Size Checksum
@@ -218,6 +238,10 @@ ROMs required for driver "Fire Emblem - Code of the Black Knights".
 Name                                   Size Checksum
 150 - Fire Emblem - Code of the Black Knights          33016900 CRC(c666f8b1)
 
+ROMs required for driver "Fire Emblem - Darkest Blade".
+Name                                   Size Checksum
+275 - Fire Emblem - Darkest Blade  16827380 CRC(138220f4)
+
 ROMs required for driver "Fire Emblem - Death or Glory".
 Name                                   Size Checksum
 124 - Fire Emblem - Death or Glory 19915268 CRC(cf613764)
@@ -225,6 +249,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - Different Dimensions Ostian Princess 2.0".
 Name                                   Size Checksum
 122 - Fire Emblem - Different Dimensions Ostian Princess 2          17357688 CRC(624f1b70)
+
+ROMs required for driver "Fire Emblem - Dust to Dust".
+Name                                   Size Checksum
+277 - Fire Emblem - Dust to Dust   17845052 CRC(f59dc2f8)
 
 ROMs required for driver "Fire Emblem - Emulation Theory".
 Name                                   Size Checksum
@@ -350,6 +378,10 @@ ROMs required for driver "Fire Emblem - The Binding Blade (English Localization 
 Name                                   Size Checksum
 29 - Fire Emblem - The Binding Blade (English Localization v1          8587268 CRC(c5ccd529)
 
+ROMs required for driver "Fire Emblem - The Binding Blade Extreme".
+Name                                   Size Checksum
+281 - Fire Emblem - The Binding Blade Extreme          17766392 CRC(1bd371e9)
+
 ROMs required for driver "Fire Emblem - The Fall of Thabes".
 Name                                   Size Checksum
 221 - Fire Emblem - The Fall of Thabes24947612 CRC(7572b080)
@@ -366,6 +398,10 @@ ROMs required for driver "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,
 Name                                   Size Checksum
 14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)          33554432 CRC(2653401a)
 
+ROMs required for driver "Fire Emblem - The Sacred Stones (Russian Translation)".
+Name                                   Size Checksum
+32 - Fire Emblem - The Sacred Stones (Russian Translation)          17092636 CRC(c1a69e8f)
+
 ROMs required for driver "Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)".
 Name                                   Size Checksum
 12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)          16777216 CRC(dea3b767)
@@ -373,6 +409,14 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - The Sacred Stones (USA, Australia)".
 Name                                   Size Checksum
 7 - Fire Emblem - The Sacred Stones (USA, Australia)          16777216 CRC(a47246ae)
+
+ROMs required for driver "Fire Emblem - The Stone Chains".
+Name                                   Size Checksum
+279 - Fire Emblem - The Stone Chains25891240 CRC(076f39da)
+
+ROMs required for driver "Fire Emblem - Tiding Bonds".
+Name                                   Size Checksum
+274 - Fire Emblem - Tiding Bonds   16865348 CRC(b1d37e48)
 
 ROMs required for driver "Fire Emblem - Vision Quest".
 Name                                   Size Checksum
@@ -389,6 +433,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)".
 Name                                   Size Checksum
 116 - Fire Emblem [Latino] 2       25198924 CRC(8ea1444d)
+
+ROMs required for driver "Fire Emblem Destiny".
+Name                                   Size Checksum
+276 - Fire Emblem Destiny          16777216 CRC(195fd1df)
 
 ROMs required for driver "Fire Emblem Forever".
 Name                                   Size Checksum
@@ -474,6 +522,14 @@ ROMs required for driver "Journeys".
 Name                                   Size Checksum
 219 - Journeys                     26336432 CRC(1c83df77)
 
+ROMs required for driver "Jugdral Saga".
+Name                                   Size Checksum
+268 - Jugdral Saga                 16777216 CRC(b9521183)
+
+ROMs required for driver "Justice and Pride - Book 2".
+Name                                   Size Checksum
+272 - Justice and Pride - Book 2   22610380 CRC(d28f4951)
+
 ROMs required for driver "Kaitou".
 Name                                   Size Checksum
 179 - Kaitou                       33153280 CRC(6e2c9f97)
@@ -501,6 +557,10 @@ Name                                   Size Checksum
 ROMs required for driver "Marc’s Precious - Revenge".
 Name                                   Size Checksum
 170 - Marc’s Precious - Revenge    17332276 CRC(4426c3f9)
+
+ROMs required for driver "Midnight Sun".
+Name                                   Size Checksum
+266 - Midnight Sun                 22743256 CRC(8164eee8)
 
 ROMs required for driver "Myrm Emblem".
 Name                                   Size Checksum
@@ -562,9 +622,21 @@ ROMs required for driver "Resonance".
 Name                                   Size Checksum
 144 - Resonance                    21319464 CRC(7d35cc3c)
 
+ROMs required for driver "Resonance Resurgence Demo".
+Name                                   Size Checksum
+283 - Resonance Resurgence Demo    23770732 CRC(7e89403c)
+
+ROMs required for driver "Resurgonence".
+Name                                   Size Checksum
+284 - Resurgonence                 23710212 CRC(380e45b9)
+
 ROMs required for driver "Rubik’s Cube".
 Name                                   Size Checksum
 216 - Rubik’s Cube                 16777216 CRC(38da7267)
+
+ROMs required for driver "Runa Does A Thing".
+Name                                   Size Checksum
+267 - Runa Does A Thing            17785916 CRC(500fe6c4)
 
 ROMs required for driver "Sacred Contention".
 Name                                   Size Checksum
@@ -606,9 +678,29 @@ ROMs required for driver "Slot Machine".
 Name                                   Size Checksum
 215 - Slot Machine                 16784068 CRC(36c739f5)
 
+ROMs required for driver "Staff of Ages".
+Name                                   Size Checksum
+269 - Staff of Ages                24147092 CRC(08b68511)
+
+ROMs required for driver "Staff of Ages (0% Growths)".
+Name                                   Size Checksum
+271 - Staff of Ages (0% Growths)   24147092 CRC(8e8c888d)
+
+ROMs required for driver "Staff of Ages (Fixed Growths)".
+Name                                   Size Checksum
+270 - Staff of Ages (Fixed Growths)24147092 CRC(1a55014c)
+
+ROMs required for driver "Stones of a Divine Dragon".
+Name                                   Size Checksum
+287 - Stones of a Divine Dragon    33554436 CRC(05c2a230)
+
 ROMs required for driver "Storge".
 Name                                   Size Checksum
 236 - Storge                       20034916 CRC(079106d8)
+
+ROMs required for driver "Tale of Ternon".
+Name                                   Size Checksum
+289 - Tale of Ternon               18452460 CRC(fb829219)
 
 ROMs required for driver "The Blade’s Legacy Spreading Flames".
 Name                                   Size Checksum
@@ -714,6 +806,10 @@ ROMs required for driver "The Sun God’s Wrath (0 growth)".
 Name                                   Size Checksum
 218 - The Sun God’s Wrath (0 growth)33007108 CRC(7def8770)
 
+ROMs required for driver "Tirado Emblem".
+Name                                   Size Checksum
+282 - Tirado Emblem                18775380 CRC(5bb0ae74)
+
 ROMs required for driver "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin".
 Name                                   Size Checksum
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin          22807804 CRC(1b8b59c0)
@@ -725,6 +821,10 @@ Name                                   Size Checksum
 ROMs required for driver "Unburdened Liberty".
 Name                                   Size Checksum
 136 - Unburdened Liberty           21005868 CRC(b616cc93)
+
+ROMs required for driver "Under Grey Skies".
+Name                                   Size Checksum
+273 - Under Grey Skies             19475260 CRC(25b2d8d0)
 
 ROMs required for driver "Voice Acting Tech Demo".
 Name                                   Size Checksum
@@ -753,6 +853,10 @@ Name                                   Size Checksum
 ROMs required for driver "War on Two Fronts (0% Growths)".
 Name                                   Size Checksum
 235 - War on Two Fronts (0% Growths)24923600 CRC(aa7bf47b)
+
+ROMs required for driver "Water Crest - Morps’s Quest For Pants".
+Name                                   Size Checksum
+278 - Water Crest - Morps’s Quest For Pants          17267760 CRC(95d4742f)
 
 ROMs required for driver "Winning Against Gharnef".
 Name                                   Size Checksum

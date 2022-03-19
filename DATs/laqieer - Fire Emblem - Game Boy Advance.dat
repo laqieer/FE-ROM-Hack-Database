@@ -65,6 +65,11 @@ game (
 	rom ( name "156 - Barry’s Bandits" size "18715144" crc "2ce87ea5" )
 )
 game (
+	name "Bartre Emblem"
+	description "Bartre Emblem"
+	rom ( name "343 - Bartre Emblem" size "16898080" crc "e0fbf1e0" )
+)
+game (
 	name "Bases and Bandits"
 	description "Bases and Bandits"
 	rom ( name "225 - Bases and Bandits" size "18763176" crc "dd587477" )
@@ -170,6 +175,11 @@ game (
 	rom ( name "253 - Decay of the Fangs" size "20200548" crc "85f73677" )
 )
 game (
+	name "Degeneration Emblem"
+	description "Degeneration Emblem"
+	rom ( name "337 - Degeneration Emblem" size "16777216" crc "dbc4ac1a" )
+)
+game (
 	name "Deity Device (Bonus)"
 	description "Deity Device (Bonus)"
 	rom ( name "229 - Deity Device (Bonus)" size "17580332" crc "7928a9df" )
@@ -188,6 +198,26 @@ game (
 	name "Deity Device (Part 3)"
 	description "Deity Device (Part 3)"
 	rom ( name "228 - Deity Device (Part 3)" size "28950336" crc "5e69347e" )
+)
+game (
+	name "Devourer of Time (Hard mode)"
+	description "Devourer of Time (Hard mode)"
+	rom ( name "339 - Devourer of Time (Hard mode)" size "16818192" crc "7fd35f4f" )
+)
+game (
+	name "Devourer of Time (Normal mode)"
+	description "Devourer of Time (Normal mode)"
+	rom ( name "338 - Devourer of Time (Normal mode)" size "16818224" crc "200f63aa" )
+)
+game (
+	name "Different Dimensions Ostian Princess"
+	description "Different Dimensions Ostian Princess"
+	rom ( name "333 - Different Dimensions Ostian Princess" size "16777216" crc "79f1b543" )
+)
+game (
+	name "Dorcas Emblem 2"
+	description "Dorcas Emblem 2"
+	rom ( name "334 - Dorcas Emblem 2" size "19343004" crc "7f7d07d2" )
 )
 game (
 	name "Dream of Five"
@@ -340,9 +370,19 @@ game (
 	rom ( name "264 - FE7 Allegiance Reversal+" size "16911048" crc "8870c624" )
 )
 game (
+	name "FE7 Chaos Mode"
+	description "FE7 Chaos Mode"
+	rom ( name "332 - FE7 Chaos Mode" size "18767508" crc "0f92ff9b" )
+)
+game (
 	name "FE7 Inflation"
 	description "FE7 Inflation"
 	rom ( name "112 - FE7 Inflation" size "17825792" crc "6ea83897" )
+)
+game (
+	name "FE7 Lute Mode"
+	description "FE7 Lute Mode"
+	rom ( name "341 - FE7 Lute Mode" size "16785796" crc "969bae21" )
 )
 game (
 	name "FE7if"
@@ -397,7 +437,7 @@ game (
 game (
 	name "Fire Emblem 6.7"
 	description "Fire Emblem 6.7"
-	rom ( name "324 - Fire Emblem 6.7" size "16777532" crc "281520a0" )
+	rom ( name "324 - Fire Emblem 6" size "16777532" crc "281520a0" )
 )
 game (
 	name "Fire Emblem (Europe) (En,Es,It)"
@@ -607,7 +647,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -698,6 +738,16 @@ game (
 	name "Fire Emblem Versus"
 	description "Fire Emblem Versus"
 	rom ( name "134 - Fire Emblem Versus" size "16777284" crc "47ba1139" )
+)
+game (
+	name "Fire Memeblem 0"
+	description "Fire Memeblem 0"
+	rom ( name "335 - Fire Memeblem 0" size "16777280" crc "6b404381" )
+)
+game (
+	name "Fire Memeblem True 0"
+	description "Fire Memeblem True 0"
+	rom ( name "336 - Fire Memeblem True 0" size "16777332" crc "e25c779f" )
 )
 game (
 	name "Flames of Redemption"
@@ -825,6 +875,16 @@ game (
 	rom ( name "256 - League of Champions (Patch2)" size "16939004" crc "1b93a3d4" )
 )
 game (
+	name "Lord Weapons Patch Rebalance"
+	description "Lord Weapons Patch Rebalance"
+	rom ( name "340 - Lord Weapons Patch Rebalance" size "16833072" crc "85a80d99" )
+)
+game (
+	name "Lyn Emblem"
+	description "Lyn Emblem"
+	rom ( name "346 - Lyn Emblem" size "17039860" crc "63b047ee" )
+)
+game (
 	name "Maiden Quest"
 	description "Maiden Quest"
 	rom ( name "125 - Maiden Quest" size "19773496" crc "f11864bd" )
@@ -878,6 +938,21 @@ game (
 	name "Oops! All Sophias"
 	description "Oops! All Sophias"
 	rom ( name "329 - Oops! All Sophias" size "16777532" crc "527bbabc" )
+)
+game (
+	name "Path of a Hero"
+	description "Path of a Hero"
+	rom ( name "344 - Path of a Hero" size "23385656" crc "168670b6" )
+)
+game (
+	name "Path of a Hero (DLC Lloyd’s Story)"
+	description "Path of a Hero (DLC Lloyd’s Story)"
+	rom ( name "345 - Path of a Hero (DLC Lloyd’s Story)" size "18915800" crc "990fd8ae" )
+)
+game (
+	name "Pick my Sabotage"
+	description "Pick my Sabotage"
+	rom ( name "342 - Pick my Sabotage" size "16883688" crc "5529f7fe" )
 )
 game (
 	name "Prisoner of Darkness"

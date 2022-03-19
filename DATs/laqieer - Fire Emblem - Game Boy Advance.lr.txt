@@ -1,4 +1,4 @@
-ROMs required for driver "2 Princesses".
+ROMs required for driver "183 - 2 Princesses".
 Name                                   Size Checksum
 183 - 2 Princesses                 24646064 CRC(44f08e5b)
 
@@ -41,6 +41,10 @@ Name                                   Size Checksum
 ROMs required for driver "Barry’s Bandits".
 Name                                   Size Checksum
 156 - Barry’s Bandits              18715144 CRC(2ce87ea5)
+
+ROMs required for driver "Bartre Emblem".
+Name                                   Size Checksum
+343 - Bartre Emblem                16898080 CRC(e0fbf1e0)
 
 ROMs required for driver "Bases and Bandits".
 Name                                   Size Checksum
@@ -126,6 +130,10 @@ ROMs required for driver "Decay of the Fangs".
 Name                                   Size Checksum
 253 - Decay of the Fangs           20200548 CRC(85f73677)
 
+ROMs required for driver "Degeneration Emblem".
+Name                                   Size Checksum
+337 - Degeneration Emblem          16777216 CRC(dbc4ac1a)
+
 ROMs required for driver "Deity Device (Bonus)".
 Name                                   Size Checksum
 229 - Deity Device (Bonus)         17580332 CRC(7928a9df)
@@ -141,6 +149,22 @@ Name                                   Size Checksum
 ROMs required for driver "Deity Device (Part 3)".
 Name                                   Size Checksum
 228 - Deity Device (Part 3)        28950336 CRC(5e69347e)
+
+ROMs required for driver "Devourer of Time (Hard mode)".
+Name                                   Size Checksum
+339 - Devourer of Time (Hard mode) 16818192 CRC(7fd35f4f)
+
+ROMs required for driver "Devourer of Time (Normal mode)".
+Name                                   Size Checksum
+338 - Devourer of Time (Normal mode)16818224 CRC(200f63aa)
+
+ROMs required for driver "Different Dimensions Ostian Princess".
+Name                                   Size Checksum
+333 - Different Dimensions Ostian Princess16777216 CRC(79f1b543)
+
+ROMs required for driver "Dorcas Emblem 2".
+Name                                   Size Checksum
+334 - Dorcas Emblem 2              19343004 CRC(7f7d07d2)
 
 ROMs required for driver "Dream of Five".
 Name                                   Size Checksum
@@ -262,9 +286,17 @@ ROMs required for driver "FE7 Allegiance Reversal+".
 Name                                   Size Checksum
 264 - FE7 Allegiance Reversal+     16911048 CRC(8870c624)
 
+ROMs required for driver "FE7 Chaos Mode".
+Name                                   Size Checksum
+332 - FE7 Chaos Mode               18767508 CRC(0f92ff9b)
+
 ROMs required for driver "FE7 Inflation".
 Name                                   Size Checksum
 112 - FE7 Inflation                17825792 CRC(6ea83897)
+
+ROMs required for driver "FE7 Lute Mode".
+Name                                   Size Checksum
+341 - FE7 Lute Mode                16785796 CRC(969bae21)
 
 ROMs required for driver "FE7if".
 Name                                   Size Checksum
@@ -550,6 +582,14 @@ ROMs required for driver "Fire Emblem Versus".
 Name                                   Size Checksum
 134 - Fire Emblem Versus           16777284 CRC(47ba1139)
 
+ROMs required for driver "Fire Memeblem 0".
+Name                                   Size Checksum
+335 - Fire Memeblem 0              16777280 CRC(6b404381)
+
+ROMs required for driver "Fire Memeblem True 0".
+Name                                   Size Checksum
+336 - Fire Memeblem True 0         16777332 CRC(e25c779f)
+
 ROMs required for driver "Flames of Redemption".
 Name                                   Size Checksum
 239 - Flames of Redemption         24536888 CRC(e1428e68)
@@ -650,6 +690,14 @@ ROMs required for driver "League of Champions (Patch2)".
 Name                                   Size Checksum
 256 - League of Champions (Patch2) 16939004 CRC(1b93a3d4)
 
+ROMs required for driver "Lord Weapons Patch Rebalance".
+Name                                   Size Checksum
+340 - Lord Weapons Patch Rebalance 16833072 CRC(85a80d99)
+
+ROMs required for driver "Lyn Emblem".
+Name                                   Size Checksum
+346 - Lyn Emblem                   17039860 CRC(63b047ee)
+
 ROMs required for driver "Maiden Quest".
 Name                                   Size Checksum
 125 - Maiden Quest                 19773496 CRC(f11864bd)
@@ -693,6 +741,18 @@ Name                                   Size Checksum
 ROMs required for driver "Oops! All Sophias".
 Name                                   Size Checksum
 329 - Oops! All Sophias            16777532 CRC(527bbabc)
+
+ROMs required for driver "Path of a Hero".
+Name                                   Size Checksum
+344 - Path of a Hero               23385656 CRC(168670b6)
+
+ROMs required for driver "Path of a Hero (DLC Lloyd’s Story)".
+Name                                   Size Checksum
+345 - Path of a Hero (DLC Lloyd’s Story)18915800 CRC(990fd8ae)
+
+ROMs required for driver "Pick my Sabotage".
+Name                                   Size Checksum
+342 - Pick my Sabotage             16883688 CRC(5529f7fe)
 
 ROMs required for driver "Prisoner of Darkness".
 Name                                   Size Checksum

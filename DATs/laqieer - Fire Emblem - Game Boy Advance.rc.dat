@@ -11,7 +11,7 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬2 Princesses¬2 Princesses¬183 - 2 Princesses¬44f08e5b¬24646064¬¬¬
+¬¬¬183 - 2 Princesses¬183 - 2 Princesses¬183 - 2 Princesses¬44f08e5b¬24646064¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
 ¬¬¬A Glimpse of Time¬A Glimpse of Time¬178 - A Glimpse of Time¬caccb1eb¬19436704¬¬¬
 ¬¬¬A Sacred Dawn¬A Sacred Dawn¬286 - A Sacred Dawn¬61c6a436¬22020347¬¬¬
@@ -22,6 +22,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬B3L-H411-A¬B3L-H411-A¬212 - B3L-H411-A¬db73120f¬17536556¬¬¬
 ¬¬¬Bandit Emblem¬Bandit Emblem¬204 - Bandit Emblem¬4c0a42a1¬17645508¬¬¬
 ¬¬¬Barry’s Bandits¬Barry’s Bandits¬156 - Barry’s Bandits¬2ce87ea5¬18715144¬¬¬
+¬¬¬Bartre Emblem¬Bartre Emblem¬343 - Bartre Emblem¬e0fbf1e0¬16898080¬¬¬
 ¬¬¬Bases and Bandits¬Bases and Bandits¬225 - Bases and Bandits¬dd587477¬18763176¬¬¬
 ¬¬¬Battle Against Vallui¬Battle Against Vallui¬224 - Battle Against Vallui¬d72b1607¬18375244¬¬¬
 ¬¬¬Battle Simulator (Ally Control)¬Battle Simulator (Ally Control)¬195 - Battle Simulator (Ally Control)¬3926efa0¬16802684¬¬¬
@@ -43,10 +44,15 @@ version=Fire Emblem ROM hacks
 ¬¬¬Dark Emblem¬Dark Emblem¬263 - Dark Emblem¬74277073¬23383092¬¬¬
 ¬¬¬Dark Lord and the Maiden of Light¬Dark Lord and the Maiden of Light¬120 - Dark Lord and the Maiden of Light¬2edd404d¬24393296¬¬¬
 ¬¬¬Decay of the Fangs¬Decay of the Fangs¬253 - Decay of the Fangs¬85f73677¬20200548¬¬¬
+¬¬¬Degeneration Emblem¬Degeneration Emblem¬337 - Degeneration Emblem¬dbc4ac1a¬16777216¬¬¬
 ¬¬¬Deity Device (Bonus)¬Deity Device (Bonus)¬229 - Deity Device (Bonus)¬7928a9df¬17580332¬¬¬
 ¬¬¬Deity Device (Part 1)¬Deity Device (Part 1)¬226 - Deity Device (Part 1)¬e9a09a50¬28848264¬¬¬
 ¬¬¬Deity Device (Part 2)¬Deity Device (Part 2)¬227 - Deity Device (Part 2)¬4908dcba¬28957288¬¬¬
 ¬¬¬Deity Device (Part 3)¬Deity Device (Part 3)¬228 - Deity Device (Part 3)¬5e69347e¬28950336¬¬¬
+¬¬¬Devourer of Time (Hard mode)¬Devourer of Time (Hard mode)¬339 - Devourer of Time (Hard mode)¬7fd35f4f¬16818192¬¬¬
+¬¬¬Devourer of Time (Normal mode)¬Devourer of Time (Normal mode)¬338 - Devourer of Time (Normal mode)¬200f63aa¬16818224¬¬¬
+¬¬¬Different Dimensions Ostian Princess¬Different Dimensions Ostian Princess¬333 - Different Dimensions Ostian Princess¬79f1b543¬16777216¬¬¬
+¬¬¬Dorcas Emblem 2¬Dorcas Emblem 2¬334 - Dorcas Emblem 2¬7f7d07d2¬19343004¬¬¬
 ¬¬¬Dream of Five¬Dream of Five¬251 - Dream of Five¬1cfe67cd¬22194508¬¬¬
 ¬¬¬Elibean Nights¬Elibean Nights¬243 - Elibean Nights¬0f2076bd¬28260392¬¬¬
 ¬¬¬Escape the Mangs Dungeon¬Escape the Mangs Dungeon¬161 - Escape the Mangs Dungeon¬090dffb3¬17083184¬¬¬
@@ -77,7 +83,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE6-CharSwap-FE7 (Fixed Growths)¬FE6-CharSwap-FE7 (Fixed Growths)¬304 - FE6-CharSwap-FE7 (Fixed Growths)¬5b05e1b3¬18309172¬¬¬
 ¬¬¬FE6-CharSwap-FE7¬FE6-CharSwap-FE7¬303 - FE6-CharSwap-FE7¬077fb7f5¬18309172¬¬¬
 ¬¬¬FE7 Allegiance Reversal+¬FE7 Allegiance Reversal+¬264 - FE7 Allegiance Reversal+¬8870c624¬16911048¬¬¬
+¬¬¬FE7 Chaos Mode¬FE7 Chaos Mode¬332 - FE7 Chaos Mode¬0f92ff9b¬18767508¬¬¬
 ¬¬¬FE7 Inflation¬FE7 Inflation¬112 - FE7 Inflation¬6ea83897¬17825792¬¬¬
+¬¬¬FE7 Lute Mode¬FE7 Lute Mode¬341 - FE7 Lute Mode¬969bae21¬16785796¬¬¬
 ¬¬¬FE7if¬FE7if¬109 - FE7if¬6eca79ce¬33554432¬¬¬
 ¬¬¬FE8 midori (Green)¬FE8 midori (Green)¬176 - FE8 midori (Green)¬25d88b16¬33554432¬¬¬
 ¬¬¬FE8 midori (Green) (English Translation)¬FE8 midori (Green) (English Translation)¬177 - FE8 midori (Green) (English Translation)¬4279b308¬33554432¬¬¬
@@ -88,7 +96,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE The Grand Uprising¬FE The Grand Uprising¬213 - FE The Grand Uprising¬535448a4¬29479028¬¬¬
 ¬¬¬FE The Grand Uprising (Blue default player phase map sprite palette)¬FE The Grand Uprising (Blue default player phase map sprite palette)¬214 - FE The Grand Uprising (Blue default player phase map sprite palette)¬adf5269e¬29066908¬¬¬
 ¬¬¬FEU Gacha¬FEU Gacha¬168 - FEU Gacha¬35c74672¬16777216¬¬¬
-¬¬¬Fire Emblem 6.7¬Fire Emblem 6.7¬324 - Fire Emblem 6¬281520a0¬16777532¬¬¬
+¬¬¬Fire Emblem 6.7¬Fire Emblem 6.7¬324 - Fire Emblem 6.7¬281520a0¬16777532¬¬¬
 ¬¬¬Fire Emblem (Europe) (En,Es,It)¬Fire Emblem (Europe) (En,Es,It)¬5 - Fire Emblem (Europe) (En,Es,It)¬9decc754¬16777216¬¬¬
 ¬¬¬Fire Emblem (Europe) (En,Fr,De)¬Fire Emblem (Europe) (En,Fr,De)¬4 - Fire Emblem (Europe) (En,Fr,De)¬4a805ed1¬16777216¬¬¬
 ¬¬¬Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬335c5855¬16777216¬¬¬
@@ -149,6 +157,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem Forever¬Fire Emblem Forever¬246 - Fire Emblem Forever¬d93d269a¬17627116¬¬¬
 ¬¬¬Fire Emblem Poop¬Fire Emblem Poop¬118 - Fire Emblem Poop¬8d1db15c¬24492260¬¬¬
 ¬¬¬Fire Emblem Versus¬Fire Emblem Versus¬134 - Fire Emblem Versus¬47ba1139¬16777284¬¬¬
+¬¬¬Fire Memeblem 0¬Fire Memeblem 0¬335 - Fire Memeblem 0¬6b404381¬16777280¬¬¬
+¬¬¬Fire Memeblem True 0¬Fire Memeblem True 0¬336 - Fire Memeblem True 0¬e25c779f¬16777332¬¬¬
 ¬¬¬Flames of Redemption¬Flames of Redemption¬239 - Flames of Redemption¬e1428e68¬24536888¬¬¬
 ¬¬¬Flames of Redemption (supports unlocked)¬Flames of Redemption (supports unlocked)¬240 - Flames of Redemption (supports unlocked)¬0c835af0¬24536888¬¬¬
 ¬¬¬Foreboding Dusk¬Foreboding Dusk¬244 - Foreboding Dusk¬2220983b¬16888400¬¬¬
@@ -174,6 +184,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬Knoll’s Super Spooky Halloween Adventure¬Knoll’s Super Spooky Halloween Adventure¬162 - Knoll’s Super Spooky Halloween Adventure¬19a64b75¬17014360¬¬¬
 ¬¬¬League of Champions (Patch1)¬League of Champions (Patch1)¬255 - League of Champions (Patch1)¬6c949342¬18586224¬¬¬
 ¬¬¬League of Champions (Patch2)¬League of Champions (Patch2)¬256 - League of Champions (Patch2)¬1b93a3d4¬16939004¬¬¬
+¬¬¬Lord Weapons Patch Rebalance¬Lord Weapons Patch Rebalance¬340 - Lord Weapons Patch Rebalance¬85a80d99¬16833072¬¬¬
+¬¬¬Lyn Emblem¬Lyn Emblem¬346 - Lyn Emblem¬63b047ee¬17039860¬¬¬
 ¬¬¬Maiden Quest¬Maiden Quest¬125 - Maiden Quest¬f11864bd¬19773496¬¬¬
 ¬¬¬Marc’s Precious - Revenge¬Marc’s Precious - Revenge¬170 - Marc’s Precious - Revenge¬4426c3f9¬17332276¬¬¬
 ¬¬¬Midnight Sun¬Midnight Sun¬266 - Midnight Sun¬8164eee8¬22743256¬¬¬
@@ -185,6 +197,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬One-Turn-Clear¬One-Turn-Clear¬151 - One-Turn-Clear¬e930a809¬16806828¬¬¬
 ¬¬¬One-Week Hack¬One-Week Hack¬171 - One-Week Hack¬fb464aca¬17087876¬¬¬
 ¬¬¬Oops! All Sophias¬Oops! All Sophias¬329 - Oops! All Sophias¬527bbabc¬16777532¬¬¬
+¬¬¬Path of a Hero¬Path of a Hero¬344 - Path of a Hero¬168670b6¬23385656¬¬¬
+¬¬¬Path of a Hero (DLC Lloyd’s Story)¬Path of a Hero (DLC Lloyd’s Story)¬345 - Path of a Hero (DLC Lloyd’s Story)¬990fd8ae¬18915800¬¬¬
+¬¬¬Pick my Sabotage¬Pick my Sabotage¬342 - Pick my Sabotage¬5529f7fe¬16883688¬¬¬
 ¬¬¬Prisoner of Darkness¬Prisoner of Darkness¬140 - Prisoner of Darkness¬95f14edd¬20971804¬¬¬
 ¬¬¬Prisoner of Darkness (Hard Mode)¬Prisoner of Darkness (Hard Mode)¬133 - Prisoner of Darkness (Hard Mode)¬1bbb05e1¬20971560¬¬¬
 ¬¬¬Project Ember (HM Fixed Growths)¬Project Ember (HM Fixed Growths)¬313 - Project Ember (HM Fixed Growths)¬2d2abfb0¬25355392¬¬¬

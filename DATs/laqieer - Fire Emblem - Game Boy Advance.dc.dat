@@ -52,6 +52,10 @@ game (
 	file ( name 156 - Barry’s Bandits size 18715144 crc 2ce87ea5 )
 )
 game (
+	name "Bartre Emblem.zip"
+	file ( name 343 - Bartre Emblem size 16898080 crc e0fbf1e0 )
+)
+game (
 	name "Bases and Bandits.zip"
 	file ( name 225 - Bases and Bandits size 18763176 crc dd587477 )
 )
@@ -136,6 +140,10 @@ game (
 	file ( name 253 - Decay of the Fangs size 20200548 crc 85f73677 )
 )
 game (
+	name "Degeneration Emblem.zip"
+	file ( name 337 - Degeneration Emblem size 16777216 crc dbc4ac1a )
+)
+game (
 	name "Deity Device (Bonus).zip"
 	file ( name 229 - Deity Device (Bonus) size 17580332 crc 7928a9df )
 )
@@ -150,6 +158,22 @@ game (
 game (
 	name "Deity Device (Part 3).zip"
 	file ( name 228 - Deity Device (Part 3) size 28950336 crc 5e69347e )
+)
+game (
+	name "Devourer of Time (Hard mode).zip"
+	file ( name 339 - Devourer of Time (Hard mode) size 16818192 crc 7fd35f4f )
+)
+game (
+	name "Devourer of Time (Normal mode).zip"
+	file ( name 338 - Devourer of Time (Normal mode) size 16818224 crc 200f63aa )
+)
+game (
+	name "Different Dimensions Ostian Princess.zip"
+	file ( name 333 - Different Dimensions Ostian Princess size 16777216 crc 79f1b543 )
+)
+game (
+	name "Dorcas Emblem 2.zip"
+	file ( name 334 - Dorcas Emblem 2 size 19343004 crc 7f7d07d2 )
 )
 game (
 	name "Dream of Five.zip"
@@ -272,8 +296,16 @@ game (
 	file ( name 264 - FE7 Allegiance Reversal+ size 16911048 crc 8870c624 )
 )
 game (
+	name "FE7 Chaos Mode.zip"
+	file ( name 332 - FE7 Chaos Mode size 18767508 crc 0f92ff9b )
+)
+game (
 	name "FE7 Inflation.zip"
 	file ( name 112 - FE7 Inflation size 17825792 crc 6ea83897 )
+)
+game (
+	name "FE7 Lute Mode.zip"
+	file ( name 341 - FE7 Lute Mode size 16785796 crc 969bae21 )
 )
 game (
 	name "FE7if.zip"
@@ -485,7 +517,7 @@ game (
 )
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme.zip"
@@ -558,6 +590,14 @@ game (
 game (
 	name "Fire Emblem Versus.zip"
 	file ( name 134 - Fire Emblem Versus size 16777284 crc 47ba1139 )
+)
+game (
+	name "Fire Memeblem 0.zip"
+	file ( name 335 - Fire Memeblem 0 size 16777280 crc 6b404381 )
+)
+game (
+	name "Fire Memeblem True 0.zip"
+	file ( name 336 - Fire Memeblem True 0 size 16777332 crc e25c779f )
 )
 game (
 	name "Flames of Redemption.zip"
@@ -660,6 +700,14 @@ game (
 	file ( name 256 - League of Champions (Patch2) size 16939004 crc 1b93a3d4 )
 )
 game (
+	name "Lord Weapons Patch Rebalance.zip"
+	file ( name 340 - Lord Weapons Patch Rebalance size 16833072 crc 85a80d99 )
+)
+game (
+	name "Lyn Emblem.zip"
+	file ( name 346 - Lyn Emblem size 17039860 crc 63b047ee )
+)
+game (
 	name "Maiden Quest.zip"
 	file ( name 125 - Maiden Quest size 19773496 crc f11864bd )
 )
@@ -702,6 +750,18 @@ game (
 game (
 	name "Oops! All Sophias.zip"
 	file ( name 329 - Oops! All Sophias size 16777532 crc 527bbabc )
+)
+game (
+	name "Path of a Hero.zip"
+	file ( name 344 - Path of a Hero size 23385656 crc 168670b6 )
+)
+game (
+	name "Path of a Hero (DLC Lloyd’s Story).zip"
+	file ( name 345 - Path of a Hero (DLC Lloyd’s Story) size 18915800 crc 990fd8ae )
+)
+game (
+	name "Pick my Sabotage.zip"
+	file ( name 342 - Pick my Sabotage size 16883688 crc 5529f7fe )
 )
 game (
 	name "Prisoner of Darkness.zip"

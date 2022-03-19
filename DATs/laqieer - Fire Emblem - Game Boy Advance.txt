@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-2 Princesses;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;二人の王女;
+183 - 2 Princesses;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;二人の王女;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-2-princesses-english-translation/8380;
 A Glimpse of Time;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://ameblo.jp/yu-meigunsi/theme-10033783736.html;
 A Sacred Dawn;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/;
@@ -10,6 +10,7 @@ Atirian Conquest;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;h
 B3L-H411-A;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/b3l-h411-a-bar-tending-in-fire-emblem-complete-fe8u/8813;
 Bandit Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-bandit-emblem/8501;
 Barry’s Bandits;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707;
+Bartre Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/bartre-emblem-fe7-the-way-it-was-meant-to-be-played/8238;
 Bases and Bandits;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/bases-and-bandits-a-hack-where-every-player-unit-has-0-bases/11778;
 Battle Against Vallui;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-battle-against-vallui/11760;
 Battle Simulator (Ally Control);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-battle-simulator-auto-battler/7031;
@@ -31,10 +32,15 @@ Crossover Hack;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;htt
 Dark Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/;
 Dark Lord and the Maiden of Light;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-dark-lord-and-the-maiden-of-light/6463;
 Decay of the Fangs;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/;
+Degeneration Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/degeneration-emblem/3202;
 Deity Device (Bonus);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646;
 Deity Device (Part 1);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646;
 Deity Device (Part 2);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646;
 Deity Device (Part 3);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646;
+Devourer of Time (Hard mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/;
+Devourer of Time (Normal mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/;
+Different Dimensions Ostian Princess;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.romhacking.net/hacks/432/;
+Dorcas Emblem 2;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/dorcas-emblem-2-1/3092;
 Dream of Five;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/;
 Elibean Nights;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83;
 Escape the Mangs Dungeon;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787;
@@ -65,7 +71,9 @@ FE6-CharSwap-FE7 (100% Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;
 FE6-CharSwap-FE7 (Fixed Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-charswap-fe7/14944;
 FE6-CharSwap-FE7;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-charswap-fe7/14944;
 FE7 Allegiance Reversal+;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440;
+FE7 Chaos Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/;
 FE7 Inflation;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;ファイアーエムブレム 烈火の剣inflation Ver.20090517;
+FE7 Lute Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/;
 FE7if;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://seesaawiki.jp/fe7if/;
 FE8 midori (Green);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;緑パッチ（ＦＥ８）　ver.191020;
 FE8 midori (Green) (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516;
@@ -137,6 +145,8 @@ Fire Emblem Destiny;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;
 Fire Emblem Forever;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/24830-fire-emblem-forever-status-dead/;
 Fire Emblem Poop;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684;
 Fire Emblem Versus;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/;
+Fire Memeblem 0;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205;
+Fire Memeblem True 0;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205;
 Flames of Redemption;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237;
 Flames of Redemption (supports unlocked);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237;
 Foreboding Dusk;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459;
@@ -162,6 +172,8 @@ Kaitou (English);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;h
 Knoll’s Super Spooky Halloween Adventure;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500;
 League of Champions (Patch1);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-league-of-champions/13667;
 League of Champions (Patch2);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-league-of-champions/13667;
+Lord Weapons Patch Rebalance;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/;
+Lyn Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108;
 Maiden Quest;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/;
 Marc’s Precious - Revenge;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/marcs-precious-revenge/3294;
 Midnight Sun;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/;
@@ -173,6 +185,9 @@ Nintenlord Saga;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;ht
 One-Turn-Clear;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638;
 One-Week Hack;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/one-week-hack-v0-99-released/713;
 Oops! All Sophias;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/oops-all-sophias/10190;
+Path of a Hero;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484;
+Path of a Hero (DLC Lloyd’s Story);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484;
+Pick my Sabotage;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786;
 Prisoner of Darkness;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/;
 Prisoner of Darkness (Hard Mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/;
 Project Ember (HM Fixed Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414;

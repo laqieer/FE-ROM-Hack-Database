@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="2 Princesses">
+	<machine name="183 - 2 Princesses">
 		<rom name="183 - 2 Princesses" size="24646064" crc="44f08e5b" />
 	</machine>
 	<machine name="2 Princesses (English Translation)">
@@ -32,6 +32,9 @@
 	</machine>
 	<machine name="Barry’s Bandits">
 		<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
+	</machine>
+	<machine name="Bartre Emblem">
+		<rom name="343 - Bartre Emblem" size="16898080" crc="e0fbf1e0" />
 	</machine>
 	<machine name="Bases and Bandits">
 		<rom name="225 - Bases and Bandits" size="18763176" crc="dd587477" />
@@ -96,6 +99,9 @@
 	<machine name="Decay of the Fangs">
 		<rom name="253 - Decay of the Fangs" size="20200548" crc="85f73677" />
 	</machine>
+	<machine name="Degeneration Emblem">
+		<rom name="337 - Degeneration Emblem" size="16777216" crc="dbc4ac1a" />
+	</machine>
 	<machine name="Deity Device (Bonus)">
 		<rom name="229 - Deity Device (Bonus)" size="17580332" crc="7928a9df" />
 	</machine>
@@ -107,6 +113,18 @@
 	</machine>
 	<machine name="Deity Device (Part 3)">
 		<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
+	</machine>
+	<machine name="Devourer of Time (Hard mode)">
+		<rom name="339 - Devourer of Time (Hard mode)" size="16818192" crc="7fd35f4f" />
+	</machine>
+	<machine name="Devourer of Time (Normal mode)">
+		<rom name="338 - Devourer of Time (Normal mode)" size="16818224" crc="200f63aa" />
+	</machine>
+	<machine name="Different Dimensions Ostian Princess">
+		<rom name="333 - Different Dimensions Ostian Princess" size="16777216" crc="79f1b543" />
+	</machine>
+	<machine name="Dorcas Emblem 2">
+		<rom name="334 - Dorcas Emblem 2" size="19343004" crc="7f7d07d2" />
 	</machine>
 	<machine name="Dream of Five">
 		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
@@ -198,8 +216,14 @@
 	<machine name="FE7 Allegiance Reversal+">
 		<rom name="264 - FE7 Allegiance Reversal+" size="16911048" crc="8870c624" />
 	</machine>
+	<machine name="FE7 Chaos Mode">
+		<rom name="332 - FE7 Chaos Mode" size="18767508" crc="0f92ff9b" />
+	</machine>
 	<machine name="FE7 Inflation">
 		<rom name="112 - FE7 Inflation" size="17825792" crc="6ea83897" />
+	</machine>
+	<machine name="FE7 Lute Mode">
+		<rom name="341 - FE7 Lute Mode" size="16785796" crc="969bae21" />
 	</machine>
 	<machine name="FE7if">
 		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
@@ -414,6 +438,12 @@
 	<machine name="Fire Emblem Versus">
 		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
 	</machine>
+	<machine name="Fire Memeblem 0">
+		<rom name="335 - Fire Memeblem 0" size="16777280" crc="6b404381" />
+	</machine>
+	<machine name="Fire Memeblem True 0">
+		<rom name="336 - Fire Memeblem True 0" size="16777332" crc="e25c779f" />
+	</machine>
 	<machine name="Flames of Redemption">
 		<rom name="239 - Flames of Redemption" size="24536888" crc="e1428e68" />
 	</machine>
@@ -489,6 +519,12 @@
 	<machine name="League of Champions (Patch2)">
 		<rom name="256 - League of Champions (Patch2)" size="16939004" crc="1b93a3d4" />
 	</machine>
+	<machine name="Lord Weapons Patch Rebalance">
+		<rom name="340 - Lord Weapons Patch Rebalance" size="16833072" crc="85a80d99" />
+	</machine>
+	<machine name="Lyn Emblem">
+		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
+	</machine>
 	<machine name="Maiden Quest">
 		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
 	</machine>
@@ -521,6 +557,15 @@
 	</machine>
 	<machine name="Oops! All Sophias">
 		<rom name="329 - Oops! All Sophias" size="16777532" crc="527bbabc" />
+	</machine>
+	<machine name="Path of a Hero">
+		<rom name="344 - Path of a Hero" size="23385656" crc="168670b6" />
+	</machine>
+	<machine name="Path of a Hero (DLC Lloyd’s Story)">
+		<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="990fd8ae" />
+	</machine>
+	<machine name="Pick my Sabotage">
+		<rom name="342 - Pick my Sabotage" size="16883688" crc="5529f7fe" />
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />

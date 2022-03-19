@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>2 Princesses</name>
+				<name>183 - 2 Princesses</name>
 				<comment>二人の王女</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
@@ -264,6 +264,21 @@
 					<name>156 - Barry’s Bandits</name>
 					<size>18715144</size>
 					<crc>2ce87ea5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Bartre Emblem</name>
+				<comment>https://feuniverse.us/t/bartre-emblem-fe7-the-way-it-was-meant-to-be-played/8238</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>343 - Bartre Emblem</name>
+					<size>16898080</size>
+					<crc>e0fbf1e0</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -584,6 +599,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Degeneration Emblem</name>
+				<comment>https://feuniverse.us/t/degeneration-emblem/3202</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>337 - Degeneration Emblem</name>
+					<size>16777216</size>
+					<crc>dbc4ac1a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Deity Device (Bonus)</name>
 				<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
 				<publisher>Fan Modding</publisher>
@@ -639,6 +669,66 @@
 					<name>228 - Deity Device (Part 3)</name>
 					<size>28950336</size>
 					<crc>5e69347e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Devourer of Time (Hard mode)</name>
+				<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>339 - Devourer of Time (Hard mode)</name>
+					<size>16818192</size>
+					<crc>7fd35f4f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Devourer of Time (Normal mode)</name>
+				<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>338 - Devourer of Time (Normal mode)</name>
+					<size>16818224</size>
+					<crc>200f63aa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Different Dimensions Ostian Princess</name>
+				<comment>http://www.romhacking.net/hacks/432/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>333 - Different Dimensions Ostian Princess</name>
+					<size>16777216</size>
+					<crc>79f1b543</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Dorcas Emblem 2</name>
+				<comment>https://feuniverse.us/t/dorcas-emblem-2-1/3092</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>334 - Dorcas Emblem 2</name>
+					<size>19343004</size>
+					<crc>7f7d07d2</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1094,6 +1184,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 Chaos Mode</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>332 - FE7 Chaos Mode</name>
+					<size>18767508</size>
+					<crc>0f92ff9b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Inflation</name>
 				<comment>ファイアーエムブレム 烈火の剣inflation Ver.20090517</comment>
 				<publisher>Reskin</publisher>
@@ -1104,6 +1209,21 @@
 					<name>112 - FE7 Inflation</name>
 					<size>17825792</size>
 					<crc>6ea83897</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 Lute Mode</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>341 - FE7 Lute Mode</name>
+					<size>16785796</size>
+					<crc>969bae21</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2174,6 +2294,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Memeblem 0</name>
+				<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>335 - Fire Memeblem 0</name>
+					<size>16777280</size>
+					<crc>6b404381</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Memeblem True 0</name>
+				<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>336 - Fire Memeblem True 0</name>
+					<size>16777332</size>
+					<crc>e25c779f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Flames of Redemption</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
 				<publisher>Fan Modding</publisher>
@@ -2549,6 +2699,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Lord Weapons Patch Rebalance</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>340 - Lord Weapons Patch Rebalance</name>
+					<size>16833072</size>
+					<crc>85a80d99</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Lyn Emblem</name>
+				<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>346 - Lyn Emblem</name>
+					<size>17039860</size>
+					<crc>63b047ee</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Maiden Quest</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 				<publisher>Fan Modding</publisher>
@@ -2709,6 +2889,51 @@
 					<name>329 - Oops! All Sophias</name>
 					<size>16777532</size>
 					<crc>527bbabc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Path of a Hero</name>
+				<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>344 - Path of a Hero</name>
+					<size>23385656</size>
+					<crc>168670b6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Path of a Hero (DLC Lloyd’s Story)</name>
+				<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>345 - Path of a Hero (DLC Lloyd’s Story)</name>
+					<size>18915800</size>
+					<crc>990fd8ae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Pick my Sabotage</name>
+				<comment>https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>342 - Pick my Sabotage</name>
+					<size>16883688</size>
+					<crc>5529f7fe</crc>
 				</datitem>
 			</files>
 		</directory>

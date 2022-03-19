@@ -4215,6 +4215,246 @@
 			<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
 			<duplicateID>0</duplicateID>
 		</game>
+		<game>
+			<imageNumber>332</imageNumber>
+			<releaseNumber>332</releaseNumber>
+			<title>FE7 Chaos Mode</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18767508</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Klokinator</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0F92FF9B</romCRC></files>
+			<im1CRC>640D5B9A</im1CRC>
+			<im2CRC>AD7B8C1C</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>333</imageNumber>
+			<releaseNumber>333</releaseNumber>
+			<title>Different Dimensions Ostian Princess</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Mig64</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">79F1B543</romCRC></files>
+			<im1CRC>1D2F58DB</im1CRC>
+			<im2CRC>B8A65C61</im2CRC>
+			<comment>http://www.romhacking.net/hacks/432/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>334</imageNumber>
+			<releaseNumber>334</releaseNumber>
+			<title>Dorcas Emblem 2</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19343004</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Vilk</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7F7D07D2</romCRC></files>
+			<im1CRC>FFC40751</im1CRC>
+			<im2CRC>63ECF2C5</im2CRC>
+			<comment>https://feuniverse.us/t/dorcas-emblem-2-1/3092</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>335</imageNumber>
+			<releaseNumber>335</releaseNumber>
+			<title>Fire Memeblem 0</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777280</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>SD9k</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">6B404381</romCRC></files>
+			<im1CRC>F94C5604</im1CRC>
+			<im2CRC>343CD8A3</im2CRC>
+			<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>336</imageNumber>
+			<releaseNumber>336</releaseNumber>
+			<title>Fire Memeblem True 0</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777332</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>SD9k</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E25C779F</romCRC></files>
+			<im1CRC>E643EA95</im1CRC>
+			<im2CRC>DCAE3390</im2CRC>
+			<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>337</imageNumber>
+			<releaseNumber>337</releaseNumber>
+			<title>Degeneration Emblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>TR143</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DBC4AC1A</romCRC></files>
+			<im1CRC>B015AD17</im1CRC>
+			<im2CRC>A55BFAE0</im2CRC>
+			<comment>https://feuniverse.us/t/degeneration-emblem/3202</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>338</imageNumber>
+			<releaseNumber>338</releaseNumber>
+			<title>Devourer of Time (Normal mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16818224</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>FlyingAce</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">200F63AA</romCRC></files>
+			<im1CRC>079D6BCA</im1CRC>
+			<im2CRC>2E4ACFE7</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>339</imageNumber>
+			<releaseNumber>339</releaseNumber>
+			<title>Devourer of Time (Hard mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16818192</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>FlyingAce</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7FD35F4F</romCRC></files>
+			<im1CRC>5DA0C83F</im1CRC>
+			<im2CRC>F51A6CF0</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>340</imageNumber>
+			<releaseNumber>340</releaseNumber>
+			<title>Lord Weapons Patch Rebalance</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16833072</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Jotari</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">85A80D99</romCRC></files>
+			<im1CRC>0215A316</im1CRC>
+			<im2CRC>ECCE0EC9</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>341</imageNumber>
+			<releaseNumber>341</releaseNumber>
+			<title>FE7 Lute Mode</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16785796</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Bloodfox1998</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">969BAE21</romCRC></files>
+			<im1CRC>870F2C16</im1CRC>
+			<im2CRC>2A722FB7</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>342</imageNumber>
+			<releaseNumber>342</releaseNumber>
+			<title>Pick my Sabotage</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16883688</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Shuusuke</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5529F7FE</romCRC></files>
+			<im1CRC>0215A316</im1CRC>
+			<im2CRC>F7573480</im2CRC>
+			<comment>https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>343</imageNumber>
+			<releaseNumber>343</releaseNumber>
+			<title>Bartre Emblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16898080</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>KrashBoomBang</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E0FBF1E0</romCRC></files>
+			<im1CRC>47289B8F</im1CRC>
+			<im2CRC>0EB898A3</im2CRC>
+			<comment>https://feuniverse.us/t/bartre-emblem-fe7-the-way-it-was-meant-to-be-played/8238</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>344</imageNumber>
+			<releaseNumber>344</releaseNumber>
+			<title>Path of a Hero</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>23385656</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>EmaColito</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">168670B6</romCRC></files>
+			<im1CRC>C0464DEB</im1CRC>
+			<im2CRC>693D38B8</im2CRC>
+			<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>345</imageNumber>
+			<releaseNumber>345</releaseNumber>
+			<title>Path of a Hero (DLC Lloyd’s Story)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18915800</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>EmaColito</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">990FD8AE</romCRC></files>
+			<im1CRC>D2E9F5BB</im1CRC>
+			<im2CRC>4EE51DF5</im2CRC>
+			<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>346</imageNumber>
+			<releaseNumber>346</releaseNumber>
+			<title>Lyn Emblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17039860</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>redeyesblackdrag0n</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">63B047EE</romCRC></files>
+			<im1CRC>55A81D44</im1CRC>
+			<im2CRC>93A0BAE0</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+			<duplicateID>0</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="487" height="162">

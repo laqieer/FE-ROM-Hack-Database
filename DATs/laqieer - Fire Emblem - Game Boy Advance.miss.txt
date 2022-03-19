@@ -9,6 +9,7 @@
 212 - B3L-H411-A
 204 - Bandit Emblem
 156 - Barry’s Bandits
+343 - Bartre Emblem
 225 - Bases and Bandits
 224 - Battle Against Vallui
 195 - Battle Simulator (Ally Control)
@@ -30,10 +31,15 @@
 263 - Dark Emblem
 120 - Dark Lord and the Maiden of Light
 253 - Decay of the Fangs
+337 - Degeneration Emblem
 229 - Deity Device (Bonus)
 226 - Deity Device (Part 1)
 227 - Deity Device (Part 2)
 228 - Deity Device (Part 3)
+339 - Devourer of Time (Hard mode)
+338 - Devourer of Time (Normal mode)
+333 - Different Dimensions Ostian Princess
+334 - Dorcas Emblem 2
 251 - Dream of Five
 243 - Elibean Nights
 161 - Escape the Mangs Dungeon
@@ -64,7 +70,9 @@
 304 - FE6-CharSwap-FE7 (Fixed Growths)
 303 - FE6-CharSwap-FE7
 264 - FE7 Allegiance Reversal+
+332 - FE7 Chaos Mode
 112 - FE7 Inflation
+341 - FE7 Lute Mode
 109 - FE7if
 176 - FE8 midori (Green)
 177 - FE8 midori (Green) (English Translation)
@@ -136,6 +144,8 @@
 246 - Fire Emblem Forever
 118 - Fire Emblem Poop
 134 - Fire Emblem Versus
+335 - Fire Memeblem 0
+336 - Fire Memeblem True 0
 239 - Flames of Redemption
 240 - Flames of Redemption (supports unlocked)
 244 - Foreboding Dusk
@@ -161,6 +171,8 @@
 162 - Knoll’s Super Spooky Halloween Adventure
 255 - League of Champions (Patch1)
 256 - League of Champions (Patch2)
+340 - Lord Weapons Patch Rebalance
+346 - Lyn Emblem
 125 - Maiden Quest
 170 - Marc’s Precious - Revenge
 266 - Midnight Sun
@@ -172,6 +184,9 @@
 151 - One-Turn-Clear
 171 - One-Week Hack
 329 - Oops! All Sophias
+344 - Path of a Hero
+345 - Path of a Hero (DLC Lloyd’s Story)
+342 - Pick my Sabotage
 140 - Prisoner of Darkness
 133 - Prisoner of Darkness (Hard Mode)
 313 - Project Ember (HM Fixed Growths)

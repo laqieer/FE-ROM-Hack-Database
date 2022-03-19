@@ -113,6 +113,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
 	</game>
+	<game name="Broken Emblem">
+		<comment>https://feuniverse.us/t/fe-6-broken-emblem-wiki-fire-emblem-amino/5818</comment>
+		<publisher>Reskin</publisher>
+		<rom name="296 - Broken Emblem" size="8393140" crc="320cb889" />
+	</game>
 	<game name="BS Fire Emblem - Archanea Saga">
 		<comment>https://github.com/sme23/bsfe</comment>
 		<publisher>Fan Modding</publisher>
@@ -218,6 +223,121 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="260 - FE1 GBA" size="17361761" crc="9be58bd8" />
 	</game>
+	<game name="FE6 All Mounts">
+		<comment>https://feuniverse.us/t/fe6-all-mounts/6313</comment>
+		<publisher>Reskin</publisher>
+		<rom name="297 - FE6 All Mounts" size="16777532" crc="cc905927" />
+	</game>
+	<game name="FE6 Google Translated">
+		<comment>https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666</comment>
+		<publisher>Reskin</publisher>
+		<rom name="299 - FE6 Google Translated" size="16777532" crc="1e494685" />
+	</game>
+	<game name="FE6 Incandescence Edition">
+		<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
+		<publisher>Reskin</publisher>
+		<rom name="320 - FE6 Incandescence Edition" size="16777532" crc="564d7782" />
+	</game>
+	<game name="FE6 Negative Growths">
+		<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+		<publisher>Reskin</publisher>
+		<rom name="330 - FE6 Negative Growths" size="10655928" crc="08186206" />
+	</game>
+	<game name="FE6 Negative Growths (English)">
+		<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+		<publisher>Reskin</publisher>
+		<rom name="331 - FE6 Negative Growths (English)" size="16777216" crc="ac14b603" />
+	</game>
+	<game name="FE6 Numbers Patch">
+		<comment>https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/</comment>
+		<publisher>Reskin</publisher>
+		<rom name="294 - FE6 Numbers Patch" size="8588060" crc="400da207" />
+	</game>
+	<game name="FE6 Promoted Mode">
+		<comment>https://feuniverse.us/t/fe6-promoted-mode/8469</comment>
+		<publisher>Reskin</publisher>
+		<rom name="291 - FE6 Promoted Mode" size="16777532" crc="41252a77" />
+	</game>
+	<game name="FE6 Recoloured">
+		<comment>https://feuniverse.us/t/fe6-recolored/6383</comment>
+		<publisher>Reskin</publisher>
+		<rom name="302 - FE6 Recoloured" size="16777532" crc="6c2527d9" />
+	</game>
+	<game name="FE6 Refurbished">
+		<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
+		<publisher>Reskin</publisher>
+		<rom name="321 - FE6 Refurbished" size="16777532" crc="eb687c4e" />
+	</game>
+	<game name="FE6 rom with HM bonuses for everyone">
+		<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+		<publisher>Reskin</publisher>
+		<rom name="326 - FE6 rom with HM bonuses for everyone" size="16793100" crc="8c9d00cc" />
+	</game>
+	<game name="FE6 Unfair and Bad">
+		<comment>https://feuniverse.us/t/fe6-but-unfair-and-bad/6541</comment>
+		<publisher>Reskin</publisher>
+		<rom name="298 - FE6 Unfair and Bad" size="16777532" crc="7a081ae9" />
+	</game>
+	<game name="FE6 Unit Swap (Balanced)">
+		<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+		<publisher>Reskin</publisher>
+		<rom name="300 - FE6 Unit Swap (Balanced)" size="16777532" crc="dcef0b86" />
+	</game>
+	<game name="FE6 Unit Swap (Hard)">
+		<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+		<publisher>Reskin</publisher>
+		<rom name="301 - FE6 Unit Swap (Hard)" size="16777532" crc="793e533c" />
+	</game>
+	<game name="FE6 Weapon Reversal">
+		<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+		<publisher>Reskin</publisher>
+		<rom name="292 - FE6 Weapon Reversal" size="16793100" crc="bb59e273" />
+	</game>
+	<game name="FE6 Weapon Reversal (Without Weapon Changes)">
+		<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+		<publisher>Reskin</publisher>
+		<rom name="293 - FE6 Weapon Reversal (Without Weapon Changes)" size="16793100" crc="1fb89d62" />
+	</game>
+	<game name="FE6 with no HM bonuses">
+		<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+		<publisher>Reskin</publisher>
+		<rom name="328 - FE6 with no HM bonuses" size="16793100" crc="44db6192" />
+	</game>
+	<game name="FE6 with some double HM bonuses">
+		<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+		<publisher>Reskin</publisher>
+		<rom name="327 - FE6 with some double HM bonuses" size="16793100" crc="64329423" />
+	</game>
+	<game name="FE6-CharSwap-FE7 (0% Growths)">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="305 - FE6-CharSwap-FE7 (0% Growths)" size="18309172" crc="cc8c2df2" />
+	</game>
+	<game name="FE6-CharSwap-FE7 (1% Growths)">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="306 - FE6-CharSwap-FE7 (1% Growths)" size="18309172" crc="02c72c3e" />
+	</game>
+	<game name="FE6-CharSwap-FE7 (2xHard Mode)">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="308 - FE6-CharSwap-FE7 (2xHard Mode)" size="18309172" crc="bb581777" />
+	</game>
+	<game name="FE6-CharSwap-FE7 (100% Growths)">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="307 - FE6-CharSwap-FE7 (100% Growths)" size="18309172" crc="77c9f83b" />
+	</game>
+	<game name="FE6-CharSwap-FE7 (Fixed Growths)">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="304 - FE6-CharSwap-FE7 (Fixed Growths)" size="18309172" crc="5b05e1b3" />
+	</game>
+	<game name="FE6-CharSwap-FE7">
+		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+		<publisher>Reskin</publisher>
+		<rom name="303 - FE6-CharSwap-FE7" size="18309172" crc="077fb7f5" />
+	</game>
 	<game name="FE7 Allegiance Reversal+">
 		<comment>https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440</comment>
 		<publisher>Fan Modding</publisher>
@@ -277,6 +397,11 @@
 		<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+	</game>
+	<game name="Fire Emblem 6.7">
+		<comment>https://feuniverse.us/t/fe6-fire-emblem-6-7/9138</comment>
+		<publisher>Reskin</publisher>
+		<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
 	</game>
 	<game name="Fire Emblem (Europe) (En,Es,It)">
 		<comment>[Eng-Ita-Spa]</comment>
@@ -750,6 +875,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="171 - One-Week Hack" size="17087876" crc="fb464aca" />
 	</game>
+	<game name="Oops! All Sophias">
+		<comment>https://feuniverse.us/t/oops-all-sophias/10190</comment>
+		<publisher>Reskin</publisher>
+		<rom name="329 - Oops! All Sophias" size="16777532" crc="527bbabc" />
+	</game>
 	<game name="Prisoner of Darkness">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
 		<publisher>Fan Modding</publisher>
@@ -759,6 +889,61 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+	</game>
+	<game name="Project Ember (HM Fixed Growths)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="313 - Project Ember (HM Fixed Growths)" size="25355392" crc="2d2abfb0" />
+	</game>
+	<game name="Project Ember (HM)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="309 - Project Ember (HM)" size="25355392" crc="636f7b05" />
+	</game>
+	<game name="Project Ember (MM 0% Growths)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="311 - Project Ember (MM 0% Growths)" size="25355392" crc="01e86337" />
+	</game>
+	<game name="Project Ember (MM Fixed Growths)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="312 - Project Ember (MM Fixed Growths)" size="25355392" crc="b40645fd" />
+	</game>
+	<game name="Project Ember (MM)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="310 - Project Ember (MM)" size="25355392" crc="fa438148" />
+	</game>
+	<game name="Project Ember (Reverse Recruitment with Trial Map units)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="315 - Project Ember (Reverse Recruitment with Trial Map units)" size="24921012" crc="860c080a" />
+	</game>
+	<game name="Project Ember (Reverse Recruitment)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="314 - Project Ember (Reverse Recruitment)" size="24475812" crc="29bc2257" />
+	</game>
+	<game name="Project Ember (Weapon Reversal)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="316 - Project Ember (Weapon Reversal)" size="25595968" crc="53883cbc" />
+	</game>
+	<game name="Project Ember (Weapon Reversal) (Reverse Recruitment)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="317 - Project Ember (Weapon Reversal) (Reverse Recruitment)" size="25102896" crc="884ac8c7" />
+	</game>
+	<game name="Project Ember (with Alternate Promotions)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="318 - Project Ember (with Alternate Promotions)" size="25029976" crc="7d2a640c" />
+	</game>
+	<game name="Project Ember (with Alternate Promotions) (Reverse Recruitment)">
+		<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+		<publisher>Reskin</publisher>
+		<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
 	</game>
 	<game name="Puzzle Emblem">
 		<comment>https://feuniverse.us/t/puzzle-emblem/7316</comment>
@@ -799,6 +984,11 @@
 		<comment>1.2.3</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="284 - Resurgonence" size="23710212" crc="380e45b9" />
+	</game>
+	<game name="Royal Army">
+		<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
+		<publisher>Reskin</publisher>
+		<rom name="325 - Royal Army" size="18382196" crc="1aac306b" />
 	</game>
 	<game name="Rubik’s Cube">
 		<comment>https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971</comment>
@@ -885,10 +1075,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="236 - Storge" size="20034916" crc="079106d8" />
 	</game>
+	<game name="Sword of Seals ReDux">
+		<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
+		<publisher>Reskin</publisher>
+		<rom name="295 - Sword of Seals ReDux" size="16777244" crc="7895cf0d" />
+	</game>
 	<game name="Tale of Ternon">
 		<comment>https://feuniverse.us/t/tale-of-ternon/6622</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="289 - Tale of Ternon" size="18452460" crc="fb829219" />
+	</game>
+	<game name="The Binding Bartre">
+		<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+		<publisher>Reskin</publisher>
+		<rom name="322 - The Binding Bartre" size="16793100" crc="b9605bae" />
+	</game>
+	<game name="The Binding Bartre (with effectiveness and AI fixes)">
+		<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+		<publisher>Reskin</publisher>
+		<rom name="323 - The Binding Bartre (with effectiveness and AI fixes)" size="16793100" crc="2986a3b6" />
 	</game>
 	<game name="The Blade’s Legacy Spreading Flames">
 		<comment>https://forums.serenesforest.net/index.php?/topic/60167-fire-emblem-the-blades-legacy-poll-added/</comment>

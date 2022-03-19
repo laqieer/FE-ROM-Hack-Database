@@ -18,6 +18,7 @@
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
 	Blood of the Covenant/290 - Blood of the Covenant			63a45a53	20149244
 	Boss War/115 - Boss War			186ecc6e	25171160
+	Broken Emblem/296 - Broken Emblem			320cb889	8393140
 	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
 	Call of the Armor/230 - Call of the Armor			688794f7	20330124
 	Carcino’s Civil War/119 - Carcino’s Civil War			88a038ec	17378852
@@ -39,6 +40,29 @@
 	Extinguished Blade/288 - Extinguished Blade			5a32401b	16777216
 	Fallen King/114 - Fallen King			8b2cbe45	17826344
 	FE1 GBA/260 - FE1 GBA			9be58bd8	17361761
+	FE6 All Mounts/297 - FE6 All Mounts			cc905927	16777532
+	FE6 Google Translated/299 - FE6 Google Translated			1e494685	16777532
+	FE6 Incandescence Edition/320 - FE6 Incandescence Edition			564d7782	16777532
+	FE6 Negative Growths/330 - FE6 Negative Growths			08186206	10655928
+	FE6 Negative Growths (English)/331 - FE6 Negative Growths (English)			ac14b603	16777216
+	FE6 Numbers Patch/294 - FE6 Numbers Patch			400da207	8588060
+	FE6 Promoted Mode/291 - FE6 Promoted Mode			41252a77	16777532
+	FE6 Recoloured/302 - FE6 Recoloured			6c2527d9	16777532
+	FE6 Refurbished/321 - FE6 Refurbished			eb687c4e	16777532
+	FE6 rom with HM bonuses for everyone/326 - FE6 rom with HM bonuses for everyone			8c9d00cc	16793100
+	FE6 Unfair and Bad/298 - FE6 Unfair and Bad			7a081ae9	16777532
+	FE6 Unit Swap (Balanced)/300 - FE6 Unit Swap (Balanced)			dcef0b86	16777532
+	FE6 Unit Swap (Hard)/301 - FE6 Unit Swap (Hard)			793e533c	16777532
+	FE6 Weapon Reversal/292 - FE6 Weapon Reversal			bb59e273	16793100
+	FE6 Weapon Reversal (Without Weapon Changes)/293 - FE6 Weapon Reversal (Without Weapon Changes)			1fb89d62	16793100
+	FE6 with no HM bonuses/328 - FE6 with no HM bonuses			44db6192	16793100
+	FE6 with some double HM bonuses/327 - FE6 with some double HM bonuses			64329423	16793100
+	FE6-CharSwap-FE7 (0% Growths)/305 - FE6-CharSwap-FE7 (0% Growths)			cc8c2df2	18309172
+	FE6-CharSwap-FE7 (1% Growths)/306 - FE6-CharSwap-FE7 (1% Growths)			02c72c3e	18309172
+	FE6-CharSwap-FE7 (2xHard Mode)/308 - FE6-CharSwap-FE7 (2xHard Mode)			bb581777	18309172
+	FE6-CharSwap-FE7 (100% Growths)/307 - FE6-CharSwap-FE7 (100% Growths)			77c9f83b	18309172
+	FE6-CharSwap-FE7 (Fixed Growths)/304 - FE6-CharSwap-FE7 (Fixed Growths)			5b05e1b3	18309172
+	FE6-CharSwap-FE7/303 - FE6-CharSwap-FE7			077fb7f5	18309172
 	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
 	FE7 Inflation/112 - FE7 Inflation			6ea83897	17825792
 	FE7if/109 - FE7if			6eca79ce	33554432
@@ -51,6 +75,7 @@
 	FE The Grand Uprising/213 - FE The Grand Uprising			535448a4	29479028
 	FE The Grand Uprising (Blue default player phase map sprite palette)/214 - FE The Grand Uprising (Blue default player phase map sprite palette)			adf5269e	29066908
 	FEU Gacha/168 - FEU Gacha			35c74672	16777216
+	Fire Emblem 6.7/324 - Fire Emblem 6			281520a0	16777532
 	Fire Emblem (Europe) (En,Es,It)/5 - Fire Emblem (Europe) (En,Es,It)			9decc754	16777216
 	Fire Emblem (Europe) (En,Fr,De)/4 - Fire Emblem (Europe) (En,Fr,De)			4a805ed1	16777216
 	Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)/15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)			335c5855	16777216
@@ -146,8 +171,20 @@
 	Nintenlord Saga/257 - Nintenlord Saga			db833f55	16808391
 	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
 	One-Week Hack/171 - One-Week Hack			fb464aca	17087876
+	Oops! All Sophias/329 - Oops! All Sophias			527bbabc	16777532
 	Prisoner of Darkness/140 - Prisoner of Darkness			95f14edd	20971804
 	Prisoner of Darkness (Hard Mode)/133 - Prisoner of Darkness (Hard Mode)			1bbb05e1	20971560
+	Project Ember (HM Fixed Growths)/313 - Project Ember (HM Fixed Growths)			2d2abfb0	25355392
+	Project Ember (HM)/309 - Project Ember (HM)			636f7b05	25355392
+	Project Ember (MM 0% Growths)/311 - Project Ember (MM 0% Growths)			01e86337	25355392
+	Project Ember (MM Fixed Growths)/312 - Project Ember (MM Fixed Growths)			b40645fd	25355392
+	Project Ember (MM)/310 - Project Ember (MM)			fa438148	25355392
+	Project Ember (Reverse Recruitment with Trial Map units)/315 - Project Ember (Reverse Recruitment with Trial Map units)			860c080a	24921012
+	Project Ember (Reverse Recruitment)/314 - Project Ember (Reverse Recruitment)			29bc2257	24475812
+	Project Ember (Weapon Reversal)/316 - Project Ember (Weapon Reversal)			53883cbc	25595968
+	Project Ember (Weapon Reversal) (Reverse Recruitment)/317 - Project Ember (Weapon Reversal) (Reverse Recruitment)			884ac8c7	25102896
+	Project Ember (with Alternate Promotions)/318 - Project Ember (with Alternate Promotions)			7d2a640c	25029976
+	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Puzzle Emblem/189 - Puzzle Emblem			83fc3242	16824428
 	Ragefest 5 DLC/137 - Ragefest 5 DLC			0c516c3e	17194360
 	Rart Emblem - Halloween/159 - Rart Emblem - Halloween			61dad746	17308636
@@ -156,6 +193,7 @@
 	Resonance/144 - Resonance			7d35cc3c	21319464
 	Resonance Resurgence Demo/283 - Resonance Resurgence Demo			7e89403c	23770732
 	Resurgonence/284 - Resurgonence			380e45b9	23710212
+	Royal Army/325 - Royal Army			1aac306b	18382196
 	Rubik’s Cube/216 - Rubik’s Cube			38da7267	16777216
 	Runa Does A Thing/267 - Runa Does A Thing			500fe6c4	17785916
 	Sacred Contention/128 - Sacred Contention			34f11759	19125992
@@ -173,7 +211,10 @@
 	Staff of Ages (Fixed Growths)/270 - Staff of Ages (Fixed Growths)			1a55014c	24147092
 	Stones of a Divine Dragon/287 - Stones of a Divine Dragon			05c2a230	33554436
 	Storge/236 - Storge			079106d8	20034916
+	Sword of Seals ReDux/295 - Sword of Seals ReDux			7895cf0d	16777244
 	Tale of Ternon/289 - Tale of Ternon			fb829219	18452460
+	The Binding Bartre/322 - The Binding Bartre			b9605bae	16793100
+	The Binding Bartre (with effectiveness and AI fixes)/323 - The Binding Bartre (with effectiveness and AI fixes)			2986a3b6	16793100
 	The Blade’s Legacy Spreading Flames/248 - The Blade’s Legacy Spreading Flames			4ab46d89	17896244
 	The Burdened Crown/145 - The Burdened Crown			489aff60	22485048
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048

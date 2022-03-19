@@ -161,6 +161,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Broken Emblem">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="296 - Broken Emblem" size="8393140" crc="320cb889" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="BS Fire Emblem - Archanea Saga">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -329,6 +337,190 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 All Mounts">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="297 - FE6 All Mounts" size="16777532" crc="cc905927" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Google Translated">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="299 - FE6 Google Translated" size="16777532" crc="1e494685" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Incandescence Edition">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="320 - FE6 Incandescence Edition" size="16777532" crc="564d7782" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Negative Growths">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="330 - FE6 Negative Growths" size="10655928" crc="08186206" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Negative Growths (English)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="331 - FE6 Negative Growths (English)" size="16777216" crc="ac14b603" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Numbers Patch">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="294 - FE6 Numbers Patch" size="8588060" crc="400da207" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Promoted Mode">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="291 - FE6 Promoted Mode" size="16777532" crc="41252a77" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Recoloured">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="302 - FE6 Recoloured" size="16777532" crc="6c2527d9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Refurbished">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="321 - FE6 Refurbished" size="16777532" crc="eb687c4e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 rom with HM bonuses for everyone">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="326 - FE6 rom with HM bonuses for everyone" size="16793100" crc="8c9d00cc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Unfair and Bad">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="298 - FE6 Unfair and Bad" size="16777532" crc="7a081ae9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Unit Swap (Balanced)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="300 - FE6 Unit Swap (Balanced)" size="16777532" crc="dcef0b86" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Unit Swap (Hard)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="301 - FE6 Unit Swap (Hard)" size="16777532" crc="793e533c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Weapon Reversal">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="292 - FE6 Weapon Reversal" size="16793100" crc="bb59e273" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Weapon Reversal (Without Weapon Changes)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="293 - FE6 Weapon Reversal (Without Weapon Changes)" size="16793100" crc="1fb89d62" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 with no HM bonuses">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="328 - FE6 with no HM bonuses" size="16793100" crc="44db6192" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 with some double HM bonuses">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="327 - FE6 with some double HM bonuses" size="16793100" crc="64329423" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7 (0% Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="305 - FE6-CharSwap-FE7 (0% Growths)" size="18309172" crc="cc8c2df2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7 (1% Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="306 - FE6-CharSwap-FE7 (1% Growths)" size="18309172" crc="02c72c3e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7 (2xHard Mode)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="308 - FE6-CharSwap-FE7 (2xHard Mode)" size="18309172" crc="bb581777" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7 (100% Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="307 - FE6-CharSwap-FE7 (100% Growths)" size="18309172" crc="77c9f83b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7 (Fixed Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="304 - FE6-CharSwap-FE7 (Fixed Growths)" size="18309172" crc="5b05e1b3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6-CharSwap-FE7">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="303 - FE6-CharSwap-FE7" size="18309172" crc="077fb7f5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Allegiance Reversal+">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -422,6 +614,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem 6.7">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
 			</dataarea>
 		</part>
 	</software>
@@ -1185,6 +1385,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Oops! All Sophias">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="329 - Oops! All Sophias" size="16777532" crc="527bbabc" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Prisoner of Darkness">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1198,6 +1406,94 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (HM Fixed Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="313 - Project Ember (HM Fixed Growths)" size="25355392" crc="2d2abfb0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (HM)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="309 - Project Ember (HM)" size="25355392" crc="636f7b05" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (MM 0% Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="311 - Project Ember (MM 0% Growths)" size="25355392" crc="01e86337" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (MM Fixed Growths)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="312 - Project Ember (MM Fixed Growths)" size="25355392" crc="b40645fd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (MM)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="310 - Project Ember (MM)" size="25355392" crc="fa438148" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (Reverse Recruitment with Trial Map units)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="315 - Project Ember (Reverse Recruitment with Trial Map units)" size="24921012" crc="860c080a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (Reverse Recruitment)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="314 - Project Ember (Reverse Recruitment)" size="24475812" crc="29bc2257" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (Weapon Reversal)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="316 - Project Ember (Weapon Reversal)" size="25595968" crc="53883cbc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (Weapon Reversal) (Reverse Recruitment)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="317 - Project Ember (Weapon Reversal) (Reverse Recruitment)" size="25102896" crc="884ac8c7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (with Alternate Promotions)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="318 - Project Ember (with Alternate Promotions)" size="25029976" crc="7d2a640c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Ember (with Alternate Promotions) (Reverse Recruitment)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
 			</dataarea>
 		</part>
 	</software>
@@ -1262,6 +1558,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="284 - Resurgonence" size="23710212" crc="380e45b9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Royal Army">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="325 - Royal Army" size="18382196" crc="1aac306b" />
 			</dataarea>
 		</part>
 	</software>
@@ -1401,11 +1705,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sword of Seals ReDux">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="295 - Sword of Seals ReDux" size="16777244" crc="7895cf0d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Tale of Ternon">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="289 - Tale of Ternon" size="18452460" crc="fb829219" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Binding Bartre">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="322 - The Binding Bartre" size="16793100" crc="b9605bae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Binding Bartre (with effectiveness and AI fixes)">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="323 - The Binding Bartre (with effectiveness and AI fixes)" size="16793100" crc="2986a3b6" />
 			</dataarea>
 		</part>
 	</software>

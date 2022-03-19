@@ -3559,6 +3559,662 @@
 			<comment>https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175</comment>
 			<duplicateID>0</duplicateID>
 		</game>
+		<game>
+			<imageNumber>291</imageNumber>
+			<releaseNumber>291</releaseNumber>
+			<title>FE6 Promoted Mode</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>AMH9000</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">41252A77</romCRC></files>
+			<im1CRC>98E915E6</im1CRC>
+			<im2CRC>5D218B30</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-promoted-mode/8469</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>292</imageNumber>
+			<releaseNumber>292</releaseNumber>
+			<title>FE6 Weapon Reversal</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BB59E273</romCRC></files>
+			<im1CRC>69750CA1</im1CRC>
+			<im2CRC>47FF43A2</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>293</imageNumber>
+			<releaseNumber>293</releaseNumber>
+			<title>FE6 Weapon Reversal (Without Weapon Changes)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1FB89D62</romCRC></files>
+			<im1CRC>F5C63D4D</im1CRC>
+			<im2CRC>9A4869E2</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>294</imageNumber>
+			<releaseNumber>294</releaseNumber>
+			<title>FE6 Numbers Patch</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8588060</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Gringe</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">400DA207</romCRC></files>
+			<im1CRC>79A41090</im1CRC>
+			<im2CRC>C2333B54</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>295</imageNumber>
+			<releaseNumber>295</releaseNumber>
+			<title>Sword of Seals ReDux</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777244</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>DLuna</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7895CF0D</romCRC></files>
+			<im1CRC>2A58F873</im1CRC>
+			<im2CRC>56DAC6D9</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>296</imageNumber>
+			<releaseNumber>296</releaseNumber>
+			<title>Broken Emblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8393140</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>darknight97</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">320CB889</romCRC></files>
+			<im1CRC>7F3ABAC8</im1CRC>
+			<im2CRC>A6C85562</im2CRC>
+			<comment>https://feuniverse.us/t/fe-6-broken-emblem-wiki-fire-emblem-amino/5818</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>297</imageNumber>
+			<releaseNumber>297</releaseNumber>
+			<title>FE6 All Mounts</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>knabepicer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CC905927</romCRC></files>
+			<im1CRC>69750CA1</im1CRC>
+			<im2CRC>E921392C</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-all-mounts/6313</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>298</imageNumber>
+			<releaseNumber>298</releaseNumber>
+			<title>FE6 Unfair and Bad</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ABoy</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7A081AE9</romCRC></files>
+			<im1CRC>98E915E6</im1CRC>
+			<im2CRC>A2FFBEEC</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-unfair-and-bad/6541</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>299</imageNumber>
+			<releaseNumber>299</releaseNumber>
+			<title>FE6 Google Translated</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Stigurna</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1E494685</romCRC></files>
+			<im1CRC>2F69112A</im1CRC>
+			<im2CRC>7A97CDBF</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>300</imageNumber>
+			<releaseNumber>300</releaseNumber>
+			<title>FE6 Unit Swap (Balanced)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Derfle</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DCEF0B86</romCRC></files>
+			<im1CRC>2F69112A</im1CRC>
+			<im2CRC>0C5DD217</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>301</imageNumber>
+			<releaseNumber>301</releaseNumber>
+			<title>FE6 Unit Swap (Hard)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Derfle</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">793E533C</romCRC></files>
+			<im1CRC>69750CA1</im1CRC>
+			<im2CRC>5E1BA60F</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>302</imageNumber>
+			<releaseNumber>302</releaseNumber>
+			<title>FE6 Recoloured</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">6C2527D9</romCRC></files>
+			<im1CRC>2F69112A</im1CRC>
+			<im2CRC>E635F623</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-recolored/6383</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>303</imageNumber>
+			<releaseNumber>303</releaseNumber>
+			<title>FE6-CharSwap-FE7</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">077FB7F5</romCRC></files>
+			<im1CRC>69750CA1</im1CRC>
+			<im2CRC>1DD57E28</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>304</imageNumber>
+			<releaseNumber>304</releaseNumber>
+			<title>FE6-CharSwap-FE7 (Fixed Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5B05E1B3</romCRC></files>
+			<im1CRC>DC0C4040</im1CRC>
+			<im2CRC>EAF46521</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>305</imageNumber>
+			<releaseNumber>305</releaseNumber>
+			<title>FE6-CharSwap-FE7 (0% Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CC8C2DF2</romCRC></files>
+			<im1CRC>79A41090</im1CRC>
+			<im2CRC>E098DE7C</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>306</imageNumber>
+			<releaseNumber>306</releaseNumber>
+			<title>FE6-CharSwap-FE7 (1% Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">02C72C3E</romCRC></files>
+			<im1CRC>DC0C4040</im1CRC>
+			<im2CRC>1FB30F20</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>307</imageNumber>
+			<releaseNumber>307</releaseNumber>
+			<title>FE6-CharSwap-FE7 (100% Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">77C9F83B</romCRC></files>
+			<im1CRC>DC0C4040</im1CRC>
+			<im2CRC>4A513878</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>308</imageNumber>
+			<releaseNumber>308</releaseNumber>
+			<title>FE6-CharSwap-FE7 (2xHard Mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18309172</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>FabilosMachine</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BB581777</romCRC></files>
+			<im1CRC>F0776A1E</im1CRC>
+			<im2CRC>5444CE78</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>309</imageNumber>
+			<releaseNumber>309</releaseNumber>
+			<title>Project Ember (HM)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25355392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">636F7B05</romCRC></files>
+			<im1CRC>74501E10</im1CRC>
+			<im2CRC>003576F0</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>310</imageNumber>
+			<releaseNumber>310</releaseNumber>
+			<title>Project Ember (MM)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25355392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FA438148</romCRC></files>
+			<im1CRC>C30527BB</im1CRC>
+			<im2CRC>5B381F6D</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>311</imageNumber>
+			<releaseNumber>311</releaseNumber>
+			<title>Project Ember (MM 0% Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25355392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">01E86337</romCRC></files>
+			<im1CRC>DF598BD7</im1CRC>
+			<im2CRC>F07BDC2A</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>312</imageNumber>
+			<releaseNumber>312</releaseNumber>
+			<title>Project Ember (MM Fixed Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25355392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B40645FD</romCRC></files>
+			<im1CRC>59221474</im1CRC>
+			<im2CRC>AB2EFA0F</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>313</imageNumber>
+			<releaseNumber>313</releaseNumber>
+			<title>Project Ember (HM Fixed Growths)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25355392</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">2D2ABFB0</romCRC></files>
+			<im1CRC>C30527BB</im1CRC>
+			<im2CRC>F7AEB53D</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>314</imageNumber>
+			<releaseNumber>314</releaseNumber>
+			<title>Project Ember (Reverse Recruitment)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>24475812</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">29BC2257</romCRC></files>
+			<im1CRC>DF598BD7</im1CRC>
+			<im2CRC>07AD09A6</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>315</imageNumber>
+			<releaseNumber>315</releaseNumber>
+			<title>Project Ember (Reverse Recruitment with Trial Map units)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>24921012</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">860C080A</romCRC></files>
+			<im1CRC>C0A3CDD0</im1CRC>
+			<im2CRC>3E0EBDC3</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>316</imageNumber>
+			<releaseNumber>316</releaseNumber>
+			<title>Project Ember (Weapon Reversal)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25595968</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">53883CBC</romCRC></files>
+			<im1CRC>59221474</im1CRC>
+			<im2CRC>F7453EBB</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>317</imageNumber>
+			<releaseNumber>317</releaseNumber>
+			<title>Project Ember (Weapon Reversal) (Reverse Recruitment)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25102896</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">884AC8C7</romCRC></files>
+			<im1CRC>59221474</im1CRC>
+			<im2CRC>13BD9BD3</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>318</imageNumber>
+			<releaseNumber>318</releaseNumber>
+			<title>Project Ember (with Alternate Promotions)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25029976</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7D2A640C</romCRC></files>
+			<im1CRC>74501E10</im1CRC>
+			<im2CRC>DE25535A</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>319</imageNumber>
+			<releaseNumber>319</releaseNumber>
+			<title>Project Ember (with Alternate Promotions) (Reverse Recruitment)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25877192</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Brunhilda</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">BDF5DC0E</romCRC></files>
+			<im1CRC>4EDF36FC</im1CRC>
+			<im2CRC>45FBF96D</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>320</imageNumber>
+			<releaseNumber>320</releaseNumber>
+			<title>FE6 Incandescence Edition</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Almirage</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">564D7782</romCRC></files>
+			<im1CRC>79A41090</im1CRC>
+			<im2CRC>2A73492A</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>321</imageNumber>
+			<releaseNumber>321</releaseNumber>
+			<title>FE6 Refurbished</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Slowpokemasta</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">EB687C4E</romCRC></files>
+			<im1CRC>79A41090</im1CRC>
+			<im2CRC>C281640A</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>322</imageNumber>
+			<releaseNumber>322</releaseNumber>
+			<title>The Binding Bartre</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B9605BAE</romCRC></files>
+			<im1CRC>F5C63D4D</im1CRC>
+			<im2CRC>B9C15643</im2CRC>
+			<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>323</imageNumber>
+			<releaseNumber>323</releaseNumber>
+			<title>The Binding Bartre (with effectiveness and AI fixes)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">2986A3B6</romCRC></files>
+			<im1CRC>98E915E6</im1CRC>
+			<im2CRC>E777CBA0</im2CRC>
+			<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>324</imageNumber>
+			<releaseNumber>324</releaseNumber>
+			<title>Fire Emblem 6.7</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>SN_Ivan</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">281520A0</romCRC></files>
+			<im1CRC>F5C63D4D</im1CRC>
+			<im2CRC>BB09ABA7</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fire-emblem-6-7/9138</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>325</imageNumber>
+			<releaseNumber>325</releaseNumber>
+			<title>Royal Army</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18382196</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>EmaColito</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1AAC306B</romCRC></files>
+			<im1CRC>2F4D9BC5</im1CRC>
+			<im2CRC>F46A98E0</im2CRC>
+			<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>326</imageNumber>
+			<releaseNumber>326</releaseNumber>
+			<title>FE6 rom with HM bonuses for everyone</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">8C9D00CC</romCRC></files>
+			<im1CRC>79A41090</im1CRC>
+			<im2CRC>52461697</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>327</imageNumber>
+			<releaseNumber>327</releaseNumber>
+			<title>FE6 with some double HM bonuses</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">64329423</romCRC></files>
+			<im1CRC>F7CF0F66</im1CRC>
+			<im2CRC>4FAD26B1</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>328</imageNumber>
+			<releaseNumber>328</releaseNumber>
+			<title>FE6 with no HM bonuses</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793100</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>ltranc</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">44DB6192</romCRC></files>
+			<im1CRC>0343611C</im1CRC>
+			<im2CRC>8BC0DEC4</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>329</imageNumber>
+			<releaseNumber>329</releaseNumber>
+			<title>Oops! All Sophias</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Adthor</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">527BBABC</romCRC></files>
+			<im1CRC>ED1694A1</im1CRC>
+			<im2CRC>59DCC3EA</im2CRC>
+			<comment>https://feuniverse.us/t/oops-all-sophias/10190</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>330</imageNumber>
+			<releaseNumber>330</releaseNumber>
+			<title>FE6 Negative Growths</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>10655928</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>TR143</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">08186206</romCRC></files>
+			<im1CRC>7F3ABAC8</im1CRC>
+			<im2CRC>8782FF3B</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>331</imageNumber>
+			<releaseNumber>331</releaseNumber>
+			<title>FE6 Negative Growths (English)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>TR143</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">AC14B603</romCRC></files>
+			<im1CRC>04AE772E</im1CRC>
+			<im2CRC>DC7B9EA3</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+			<duplicateID>0</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="487" height="162">

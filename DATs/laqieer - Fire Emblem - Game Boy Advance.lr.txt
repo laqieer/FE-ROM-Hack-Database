@@ -78,6 +78,10 @@ ROMs required for driver "Boss War".
 Name                                   Size Checksum
 115 - Boss War                     25171160 CRC(186ecc6e)
 
+ROMs required for driver "Broken Emblem".
+Name                                   Size Checksum
+296 - Broken Emblem                 8393140 CRC(320cb889)
+
 ROMs required for driver "BS Fire Emblem - Archanea Saga".
 Name                                   Size Checksum
 158 - BS Fire Emblem - Archanea Saga16933169 CRC(39abb64a)
@@ -162,6 +166,98 @@ ROMs required for driver "FE1 GBA".
 Name                                   Size Checksum
 260 - FE1 GBA                      17361761 CRC(9be58bd8)
 
+ROMs required for driver "FE6 All Mounts".
+Name                                   Size Checksum
+297 - FE6 All Mounts               16777532 CRC(cc905927)
+
+ROMs required for driver "FE6 Google Translated".
+Name                                   Size Checksum
+299 - FE6 Google Translated        16777532 CRC(1e494685)
+
+ROMs required for driver "FE6 Incandescence Edition".
+Name                                   Size Checksum
+320 - FE6 Incandescence Edition    16777532 CRC(564d7782)
+
+ROMs required for driver "FE6 Negative Growths".
+Name                                   Size Checksum
+330 - FE6 Negative Growths         10655928 CRC(08186206)
+
+ROMs required for driver "FE6 Negative Growths (English)".
+Name                                   Size Checksum
+331 - FE6 Negative Growths (English)16777216 CRC(ac14b603)
+
+ROMs required for driver "FE6 Numbers Patch".
+Name                                   Size Checksum
+294 - FE6 Numbers Patch             8588060 CRC(400da207)
+
+ROMs required for driver "FE6 Promoted Mode".
+Name                                   Size Checksum
+291 - FE6 Promoted Mode            16777532 CRC(41252a77)
+
+ROMs required for driver "FE6 Recoloured".
+Name                                   Size Checksum
+302 - FE6 Recoloured               16777532 CRC(6c2527d9)
+
+ROMs required for driver "FE6 Refurbished".
+Name                                   Size Checksum
+321 - FE6 Refurbished              16777532 CRC(eb687c4e)
+
+ROMs required for driver "FE6 rom with HM bonuses for everyone".
+Name                                   Size Checksum
+326 - FE6 rom with HM bonuses for everyone16793100 CRC(8c9d00cc)
+
+ROMs required for driver "FE6 Unfair and Bad".
+Name                                   Size Checksum
+298 - FE6 Unfair and Bad           16777532 CRC(7a081ae9)
+
+ROMs required for driver "FE6 Unit Swap (Balanced)".
+Name                                   Size Checksum
+300 - FE6 Unit Swap (Balanced)     16777532 CRC(dcef0b86)
+
+ROMs required for driver "FE6 Unit Swap (Hard)".
+Name                                   Size Checksum
+301 - FE6 Unit Swap (Hard)         16777532 CRC(793e533c)
+
+ROMs required for driver "FE6 Weapon Reversal".
+Name                                   Size Checksum
+292 - FE6 Weapon Reversal          16793100 CRC(bb59e273)
+
+ROMs required for driver "FE6 Weapon Reversal (Without Weapon Changes)".
+Name                                   Size Checksum
+293 - FE6 Weapon Reversal (Without Weapon Changes)          16793100 CRC(1fb89d62)
+
+ROMs required for driver "FE6 with no HM bonuses".
+Name                                   Size Checksum
+328 - FE6 with no HM bonuses       16793100 CRC(44db6192)
+
+ROMs required for driver "FE6 with some double HM bonuses".
+Name                                   Size Checksum
+327 - FE6 with some double HM bonuses16793100 CRC(64329423)
+
+ROMs required for driver "FE6-CharSwap-FE7 (0% Growths)".
+Name                                   Size Checksum
+305 - FE6-CharSwap-FE7 (0% Growths)18309172 CRC(cc8c2df2)
+
+ROMs required for driver "FE6-CharSwap-FE7 (1% Growths)".
+Name                                   Size Checksum
+306 - FE6-CharSwap-FE7 (1% Growths)18309172 CRC(02c72c3e)
+
+ROMs required for driver "FE6-CharSwap-FE7 (2xHard Mode)".
+Name                                   Size Checksum
+308 - FE6-CharSwap-FE7 (2xHard Mode)18309172 CRC(bb581777)
+
+ROMs required for driver "FE6-CharSwap-FE7 (100% Growths)".
+Name                                   Size Checksum
+307 - FE6-CharSwap-FE7 (100% Growths)18309172 CRC(77c9f83b)
+
+ROMs required for driver "FE6-CharSwap-FE7 (Fixed Growths)".
+Name                                   Size Checksum
+304 - FE6-CharSwap-FE7 (Fixed Growths)18309172 CRC(5b05e1b3)
+
+ROMs required for driver "FE6-CharSwap-FE7".
+Name                                   Size Checksum
+303 - FE6-CharSwap-FE7             18309172 CRC(077fb7f5)
+
 ROMs required for driver "FE7 Allegiance Reversal+".
 Name                                   Size Checksum
 264 - FE7 Allegiance Reversal+     16911048 CRC(8870c624)
@@ -209,6 +305,10 @@ Name                                   Size Checksum
 ROMs required for driver "FEU Gacha".
 Name                                   Size Checksum
 168 - FEU Gacha                    16777216 CRC(35c74672)
+
+ROMs required for driver "Fire Emblem 6.7".
+Name                                   Size Checksum
+324 - Fire Emblem 6                16777532 CRC(281520a0)
 
 ROMs required for driver "Fire Emblem (Europe) (En,Es,It)".
 Name                                   Size Checksum
@@ -590,6 +690,10 @@ ROMs required for driver "One-Week Hack".
 Name                                   Size Checksum
 171 - One-Week Hack                17087876 CRC(fb464aca)
 
+ROMs required for driver "Oops! All Sophias".
+Name                                   Size Checksum
+329 - Oops! All Sophias            16777532 CRC(527bbabc)
+
 ROMs required for driver "Prisoner of Darkness".
 Name                                   Size Checksum
 140 - Prisoner of Darkness         20971804 CRC(95f14edd)
@@ -597,6 +701,50 @@ Name                                   Size Checksum
 ROMs required for driver "Prisoner of Darkness (Hard Mode)".
 Name                                   Size Checksum
 133 - Prisoner of Darkness (Hard Mode)20971560 CRC(1bbb05e1)
+
+ROMs required for driver "Project Ember (HM Fixed Growths)".
+Name                                   Size Checksum
+313 - Project Ember (HM Fixed Growths)25355392 CRC(2d2abfb0)
+
+ROMs required for driver "Project Ember (HM)".
+Name                                   Size Checksum
+309 - Project Ember (HM)           25355392 CRC(636f7b05)
+
+ROMs required for driver "Project Ember (MM 0% Growths)".
+Name                                   Size Checksum
+311 - Project Ember (MM 0% Growths)25355392 CRC(01e86337)
+
+ROMs required for driver "Project Ember (MM Fixed Growths)".
+Name                                   Size Checksum
+312 - Project Ember (MM Fixed Growths)25355392 CRC(b40645fd)
+
+ROMs required for driver "Project Ember (MM)".
+Name                                   Size Checksum
+310 - Project Ember (MM)           25355392 CRC(fa438148)
+
+ROMs required for driver "Project Ember (Reverse Recruitment with Trial Map units)".
+Name                                   Size Checksum
+315 - Project Ember (Reverse Recruitment with Trial Map units)          24921012 CRC(860c080a)
+
+ROMs required for driver "Project Ember (Reverse Recruitment)".
+Name                                   Size Checksum
+314 - Project Ember (Reverse Recruitment)24475812 CRC(29bc2257)
+
+ROMs required for driver "Project Ember (Weapon Reversal)".
+Name                                   Size Checksum
+316 - Project Ember (Weapon Reversal)25595968 CRC(53883cbc)
+
+ROMs required for driver "Project Ember (Weapon Reversal) (Reverse Recruitment)".
+Name                                   Size Checksum
+317 - Project Ember (Weapon Reversal) (Reverse Recruitment)          25102896 CRC(884ac8c7)
+
+ROMs required for driver "Project Ember (with Alternate Promotions)".
+Name                                   Size Checksum
+318 - Project Ember (with Alternate Promotions)          25029976 CRC(7d2a640c)
+
+ROMs required for driver "Project Ember (with Alternate Promotions) (Reverse Recruitment)".
+Name                                   Size Checksum
+319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)          25877192 CRC(bdf5dc0e)
 
 ROMs required for driver "Puzzle Emblem".
 Name                                   Size Checksum
@@ -629,6 +777,10 @@ Name                                   Size Checksum
 ROMs required for driver "Resurgonence".
 Name                                   Size Checksum
 284 - Resurgonence                 23710212 CRC(380e45b9)
+
+ROMs required for driver "Royal Army".
+Name                                   Size Checksum
+325 - Royal Army                   18382196 CRC(1aac306b)
 
 ROMs required for driver "Rubik’s Cube".
 Name                                   Size Checksum
@@ -698,9 +850,21 @@ ROMs required for driver "Storge".
 Name                                   Size Checksum
 236 - Storge                       20034916 CRC(079106d8)
 
+ROMs required for driver "Sword of Seals ReDux".
+Name                                   Size Checksum
+295 - Sword of Seals ReDux         16777244 CRC(7895cf0d)
+
 ROMs required for driver "Tale of Ternon".
 Name                                   Size Checksum
 289 - Tale of Ternon               18452460 CRC(fb829219)
+
+ROMs required for driver "The Binding Bartre".
+Name                                   Size Checksum
+322 - The Binding Bartre           16793100 CRC(b9605bae)
+
+ROMs required for driver "The Binding Bartre (with effectiveness and AI fixes)".
+Name                                   Size Checksum
+323 - The Binding Bartre (with effectiveness and AI fixes)          16793100 CRC(2986a3b6)
 
 ROMs required for driver "The Blade’s Legacy Spreading Flames".
 Name                                   Size Checksum

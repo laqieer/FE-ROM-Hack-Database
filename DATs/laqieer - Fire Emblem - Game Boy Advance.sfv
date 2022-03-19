@@ -18,6 +18,7 @@
 127 - Blazer’s One Day Hack.gba c68db4ee
 290 - Blood of the Covenant.gba 63a45a53
 115 - Boss War.gba 186ecc6e
+296 - Broken Emblem.gba 320cb889
 158 - BS Fire Emblem - Archanea Saga.gba 39abb64a
 230 - Call of the Armor.gba 688794f7
 119 - Carcino’s Civil War.gba 88a038ec
@@ -39,6 +40,29 @@
 288 - Extinguished Blade.gba 5a32401b
 114 - Fallen King.gba 8b2cbe45
 260 - FE1 GBA.gba 9be58bd8
+297 - FE6 All Mounts.gba cc905927
+299 - FE6 Google Translated.gba 1e494685
+320 - FE6 Incandescence Edition.gba 564d7782
+330 - FE6 Negative Growths.gba 08186206
+331 - FE6 Negative Growths (English).gba ac14b603
+294 - FE6 Numbers Patch.gba 400da207
+291 - FE6 Promoted Mode.gba 41252a77
+302 - FE6 Recoloured.gba 6c2527d9
+321 - FE6 Refurbished.gba eb687c4e
+326 - FE6 rom with HM bonuses for everyone.gba 8c9d00cc
+298 - FE6 Unfair and Bad.gba 7a081ae9
+300 - FE6 Unit Swap (Balanced).gba dcef0b86
+301 - FE6 Unit Swap (Hard).gba 793e533c
+292 - FE6 Weapon Reversal.gba bb59e273
+293 - FE6 Weapon Reversal (Without Weapon Changes).gba 1fb89d62
+328 - FE6 with no HM bonuses.gba 44db6192
+327 - FE6 with some double HM bonuses.gba 64329423
+305 - FE6-CharSwap-FE7 (0% Growths).gba cc8c2df2
+306 - FE6-CharSwap-FE7 (1% Growths).gba 02c72c3e
+308 - FE6-CharSwap-FE7 (2xHard Mode).gba bb581777
+307 - FE6-CharSwap-FE7 (100% Growths).gba 77c9f83b
+304 - FE6-CharSwap-FE7 (Fixed Growths).gba 5b05e1b3
+303 - FE6-CharSwap-FE7.gba 077fb7f5
 264 - FE7 Allegiance Reversal+.gba 8870c624
 112 - FE7 Inflation.gba 6ea83897
 109 - FE7if.gba 6eca79ce
@@ -51,6 +75,7 @@
 213 - FE The Grand Uprising.gba 535448a4
 214 - FE The Grand Uprising (Blue default player phase map sprite palette).gba adf5269e
 168 - FEU Gacha.gba 35c74672
+324 - Fire Emblem 6.7.gba 281520a0
 5 - Fire Emblem (Europe) (En,Es,It).gba 9decc754
 4 - Fire Emblem (Europe) (En,Fr,De).gba 4a805ed1
 15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console).gba 335c5855
@@ -146,8 +171,20 @@
 257 - Nintenlord Saga.gba db833f55
 151 - One-Turn-Clear.gba e930a809
 171 - One-Week Hack.gba fb464aca
+329 - Oops! All Sophias.gba 527bbabc
 140 - Prisoner of Darkness.gba 95f14edd
 133 - Prisoner of Darkness (Hard Mode).gba 1bbb05e1
+313 - Project Ember (HM Fixed Growths).gba 2d2abfb0
+309 - Project Ember (HM).gba 636f7b05
+311 - Project Ember (MM 0% Growths).gba 01e86337
+312 - Project Ember (MM Fixed Growths).gba b40645fd
+310 - Project Ember (MM).gba fa438148
+315 - Project Ember (Reverse Recruitment with Trial Map units).gba 860c080a
+314 - Project Ember (Reverse Recruitment).gba 29bc2257
+316 - Project Ember (Weapon Reversal).gba 53883cbc
+317 - Project Ember (Weapon Reversal) (Reverse Recruitment).gba 884ac8c7
+318 - Project Ember (with Alternate Promotions).gba 7d2a640c
+319 - Project Ember (with Alternate Promotions) (Reverse Recruitment).gba bdf5dc0e
 189 - Puzzle Emblem.gba 83fc3242
 137 - Ragefest 5 DLC.gba 0c516c3e
 159 - Rart Emblem - Halloween.gba 61dad746
@@ -156,6 +193,7 @@
 144 - Resonance.gba 7d35cc3c
 283 - Resonance Resurgence Demo.gba 7e89403c
 284 - Resurgonence.gba 380e45b9
+325 - Royal Army.gba 1aac306b
 216 - Rubik’s Cube.gba 38da7267
 267 - Runa Does A Thing.gba 500fe6c4
 128 - Sacred Contention.gba 34f11759
@@ -173,7 +211,10 @@
 270 - Staff of Ages (Fixed Growths).gba 1a55014c
 287 - Stones of a Divine Dragon.gba 05c2a230
 236 - Storge.gba 079106d8
+295 - Sword of Seals ReDux.gba 7895cf0d
 289 - Tale of Ternon.gba fb829219
+322 - The Binding Bartre.gba b9605bae
+323 - The Binding Bartre (with effectiveness and AI fixes).gba 2986a3b6
 248 - The Blade’s Legacy Spreading Flames.gba 4ab46d89
 145 - The Burdened Crown.gba 489aff60
 147 - The Burdened Crown (0 Growths).gba 25e8f03d

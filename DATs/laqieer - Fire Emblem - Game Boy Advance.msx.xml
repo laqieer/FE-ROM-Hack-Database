@@ -262,6 +262,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Broken Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>BS Fire Emblem - Archanea Saga</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -535,6 +548,305 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE6 All Mounts</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Google Translated</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Incandescence Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Negative Growths</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Negative Growths (English)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Numbers Patch</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Promoted Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Recoloured</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Refurbished</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 rom with HM bonuses for everyone</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Unfair and Bad</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Unit Swap (Balanced)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Unit Swap (Hard)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Weapon Reversal</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Weapon Reversal (Without Weapon Changes)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 with no HM bonuses</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 with some double HM bonuses</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7 (0% Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7 (1% Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7 (2xHard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7 (100% Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7 (Fixed Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6-CharSwap-FE7</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Allegiance Reversal+</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -679,6 +991,19 @@
 	</software>
 	<software>
 		<title>FEU Gacha</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem 6.7</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1926,6 +2251,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Oops! All Sophias</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Prisoner of Darkness</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1940,6 +2278,149 @@
 	</software>
 	<software>
 		<title>Prisoner of Darkness (Hard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (HM Fixed Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (HM)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (MM 0% Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (MM Fixed Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (MM)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (Reverse Recruitment with Trial Map units)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (Reverse Recruitment)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (Weapon Reversal)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (Weapon Reversal) (Reverse Recruitment)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (with Alternate Promotions)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project Ember (with Alternate Promotions) (Reverse Recruitment)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2044,6 +2525,19 @@
 	</software>
 	<software>
 		<title>Resurgonence</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Royal Army</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2277,7 +2771,46 @@
 		</dump>
 	</software>
 	<software>
+		<title>Sword of Seals ReDux</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Tale of Ternon</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Binding Bartre</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Binding Bartre (with effectiveness and AI fixes)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

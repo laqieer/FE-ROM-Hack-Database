@@ -404,6 +404,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Broken Emblem</name>
+				<comment>https://feuniverse.us/t/fe-6-broken-emblem-wiki-fire-emblem-amino/5818</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>296 - Broken Emblem</name>
+					<size>8393140</size>
+					<crc>320cb889</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>BS Fire Emblem - Archanea Saga</name>
 				<comment>https://github.com/sme23/bsfe</comment>
 				<publisher>Fan Modding</publisher>
@@ -719,6 +734,351 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 All Mounts</name>
+				<comment>https://feuniverse.us/t/fe6-all-mounts/6313</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>297 - FE6 All Mounts</name>
+					<size>16777532</size>
+					<crc>cc905927</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Google Translated</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>299 - FE6 Google Translated</name>
+					<size>16777532</size>
+					<crc>1e494685</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Incandescence Edition</name>
+				<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>320 - FE6 Incandescence Edition</name>
+					<size>16777532</size>
+					<crc>564d7782</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Negative Growths</name>
+				<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>330 - FE6 Negative Growths</name>
+					<size>10655928</size>
+					<crc>08186206</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Negative Growths (English)</name>
+				<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>331 - FE6 Negative Growths (English)</name>
+					<size>16777216</size>
+					<crc>ac14b603</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Numbers Patch</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>294 - FE6 Numbers Patch</name>
+					<size>8588060</size>
+					<crc>400da207</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Promoted Mode</name>
+				<comment>https://feuniverse.us/t/fe6-promoted-mode/8469</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>291 - FE6 Promoted Mode</name>
+					<size>16777532</size>
+					<crc>41252a77</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Recoloured</name>
+				<comment>https://feuniverse.us/t/fe6-recolored/6383</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>302 - FE6 Recoloured</name>
+					<size>16777532</size>
+					<crc>6c2527d9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Refurbished</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>321 - FE6 Refurbished</name>
+					<size>16777532</size>
+					<crc>eb687c4e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 rom with HM bonuses for everyone</name>
+				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>326 - FE6 rom with HM bonuses for everyone</name>
+					<size>16793100</size>
+					<crc>8c9d00cc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Unfair and Bad</name>
+				<comment>https://feuniverse.us/t/fe6-but-unfair-and-bad/6541</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>298 - FE6 Unfair and Bad</name>
+					<size>16777532</size>
+					<crc>7a081ae9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Unit Swap (Balanced)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>300 - FE6 Unit Swap (Balanced)</name>
+					<size>16777532</size>
+					<crc>dcef0b86</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Unit Swap (Hard)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>301 - FE6 Unit Swap (Hard)</name>
+					<size>16777532</size>
+					<crc>793e533c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Weapon Reversal</name>
+				<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>292 - FE6 Weapon Reversal</name>
+					<size>16793100</size>
+					<crc>bb59e273</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Weapon Reversal (Without Weapon Changes)</name>
+				<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>293 - FE6 Weapon Reversal (Without Weapon Changes)</name>
+					<size>16793100</size>
+					<crc>1fb89d62</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 with no HM bonuses</name>
+				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>328 - FE6 with no HM bonuses</name>
+					<size>16793100</size>
+					<crc>44db6192</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 with some double HM bonuses</name>
+				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>327 - FE6 with some double HM bonuses</name>
+					<size>16793100</size>
+					<crc>64329423</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7 (0% Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>305 - FE6-CharSwap-FE7 (0% Growths)</name>
+					<size>18309172</size>
+					<crc>cc8c2df2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7 (1% Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>306 - FE6-CharSwap-FE7 (1% Growths)</name>
+					<size>18309172</size>
+					<crc>02c72c3e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7 (2xHard Mode)</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>308 - FE6-CharSwap-FE7 (2xHard Mode)</name>
+					<size>18309172</size>
+					<crc>bb581777</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7 (100% Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>307 - FE6-CharSwap-FE7 (100% Growths)</name>
+					<size>18309172</size>
+					<crc>77c9f83b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7 (Fixed Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>304 - FE6-CharSwap-FE7 (Fixed Growths)</name>
+					<size>18309172</size>
+					<crc>5b05e1b3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6-CharSwap-FE7</name>
+				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>303 - FE6-CharSwap-FE7</name>
+					<size>18309172</size>
+					<crc>077fb7f5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Allegiance Reversal+</name>
 				<comment>https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440</comment>
 				<publisher>Fan Modding</publisher>
@@ -894,6 +1254,21 @@
 					<name>168 - FEU Gacha</name>
 					<size>16777216</size>
 					<crc>35c74672</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem 6.7</name>
+				<comment>https://feuniverse.us/t/fe6-fire-emblem-6-7/9138</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>324 - Fire Emblem 6</name>
+					<size>16777532</size>
+					<crc>281520a0</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2324,6 +2699,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Oops! All Sophias</name>
+				<comment>https://feuniverse.us/t/oops-all-sophias/10190</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>329 - Oops! All Sophias</name>
+					<size>16777532</size>
+					<crc>527bbabc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Prisoner of Darkness</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
 				<publisher>Fan Modding</publisher>
@@ -2349,6 +2739,171 @@
 					<name>133 - Prisoner of Darkness (Hard Mode)</name>
 					<size>20971560</size>
 					<crc>1bbb05e1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (HM Fixed Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>313 - Project Ember (HM Fixed Growths)</name>
+					<size>25355392</size>
+					<crc>2d2abfb0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (HM)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>309 - Project Ember (HM)</name>
+					<size>25355392</size>
+					<crc>636f7b05</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (MM 0% Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>311 - Project Ember (MM 0% Growths)</name>
+					<size>25355392</size>
+					<crc>01e86337</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (MM Fixed Growths)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>312 - Project Ember (MM Fixed Growths)</name>
+					<size>25355392</size>
+					<crc>b40645fd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (MM)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>310 - Project Ember (MM)</name>
+					<size>25355392</size>
+					<crc>fa438148</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (Reverse Recruitment with Trial Map units)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>315 - Project Ember (Reverse Recruitment with Trial Map units)</name>
+					<size>24921012</size>
+					<crc>860c080a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (Reverse Recruitment)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>314 - Project Ember (Reverse Recruitment)</name>
+					<size>24475812</size>
+					<crc>29bc2257</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (Weapon Reversal)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>316 - Project Ember (Weapon Reversal)</name>
+					<size>25595968</size>
+					<crc>53883cbc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (Weapon Reversal) (Reverse Recruitment)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>317 - Project Ember (Weapon Reversal) (Reverse Recruitment)</name>
+					<size>25102896</size>
+					<crc>884ac8c7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (with Alternate Promotions)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>318 - Project Ember (with Alternate Promotions)</name>
+					<size>25029976</size>
+					<crc>7d2a640c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Ember (with Alternate Promotions) (Reverse Recruitment)</name>
+				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)</name>
+					<size>25877192</size>
+					<crc>bdf5dc0e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2469,6 +3024,21 @@
 					<name>284 - Resurgonence</name>
 					<size>23710212</size>
 					<crc>380e45b9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Royal Army</name>
+				<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>325 - Royal Army</name>
+					<size>18382196</size>
+					<crc>1aac306b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2729,6 +3299,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Sword of Seals ReDux</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>295 - Sword of Seals ReDux</name>
+					<size>16777244</size>
+					<crc>7895cf0d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Tale of Ternon</name>
 				<comment>https://feuniverse.us/t/tale-of-ternon/6622</comment>
 				<publisher>Fan Modding</publisher>
@@ -2739,6 +3324,36 @@
 					<name>289 - Tale of Ternon</name>
 					<size>18452460</size>
 					<crc>fb829219</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Binding Bartre</name>
+				<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>322 - The Binding Bartre</name>
+					<size>16793100</size>
+					<crc>b9605bae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Binding Bartre (with effectiveness and AI fixes)</name>
+				<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>323 - The Binding Bartre (with effectiveness and AI fixes)</name>
+					<size>16793100</size>
+					<crc>2986a3b6</crc>
 				</datitem>
 			</files>
 		</directory>

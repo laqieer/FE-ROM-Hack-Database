@@ -18,6 +18,7 @@
 127 - Blazer’s One Day Hack
 290 - Blood of the Covenant
 115 - Boss War
+296 - Broken Emblem
 158 - BS Fire Emblem - Archanea Saga
 230 - Call of the Armor
 119 - Carcino’s Civil War
@@ -39,6 +40,29 @@
 288 - Extinguished Blade
 114 - Fallen King
 260 - FE1 GBA
+297 - FE6 All Mounts
+299 - FE6 Google Translated
+320 - FE6 Incandescence Edition
+330 - FE6 Negative Growths
+331 - FE6 Negative Growths (English)
+294 - FE6 Numbers Patch
+291 - FE6 Promoted Mode
+302 - FE6 Recoloured
+321 - FE6 Refurbished
+326 - FE6 rom with HM bonuses for everyone
+298 - FE6 Unfair and Bad
+300 - FE6 Unit Swap (Balanced)
+301 - FE6 Unit Swap (Hard)
+292 - FE6 Weapon Reversal
+293 - FE6 Weapon Reversal (Without Weapon Changes)
+328 - FE6 with no HM bonuses
+327 - FE6 with some double HM bonuses
+305 - FE6-CharSwap-FE7 (0% Growths)
+306 - FE6-CharSwap-FE7 (1% Growths)
+308 - FE6-CharSwap-FE7 (2xHard Mode)
+307 - FE6-CharSwap-FE7 (100% Growths)
+304 - FE6-CharSwap-FE7 (Fixed Growths)
+303 - FE6-CharSwap-FE7
 264 - FE7 Allegiance Reversal+
 112 - FE7 Inflation
 109 - FE7if
@@ -51,6 +75,7 @@
 213 - FE The Grand Uprising
 214 - FE The Grand Uprising (Blue default player phase map sprite palette)
 168 - FEU Gacha
+324 - Fire Emblem 6
 5 - Fire Emblem (Europe) (En,Es,It)
 4 - Fire Emblem (Europe) (En,Fr,De)
 15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)
@@ -146,8 +171,20 @@
 257 - Nintenlord Saga
 151 - One-Turn-Clear
 171 - One-Week Hack
+329 - Oops! All Sophias
 140 - Prisoner of Darkness
 133 - Prisoner of Darkness (Hard Mode)
+313 - Project Ember (HM Fixed Growths)
+309 - Project Ember (HM)
+311 - Project Ember (MM 0% Growths)
+312 - Project Ember (MM Fixed Growths)
+310 - Project Ember (MM)
+315 - Project Ember (Reverse Recruitment with Trial Map units)
+314 - Project Ember (Reverse Recruitment)
+316 - Project Ember (Weapon Reversal)
+317 - Project Ember (Weapon Reversal) (Reverse Recruitment)
+318 - Project Ember (with Alternate Promotions)
+319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)
 189 - Puzzle Emblem
 137 - Ragefest 5 DLC
 159 - Rart Emblem - Halloween
@@ -156,6 +193,7 @@
 144 - Resonance
 283 - Resonance Resurgence Demo
 284 - Resurgonence
+325 - Royal Army
 216 - Rubik’s Cube
 267 - Runa Does A Thing
 128 - Sacred Contention
@@ -173,7 +211,10 @@
 270 - Staff of Ages (Fixed Growths)
 287 - Stones of a Divine Dragon
 236 - Storge
+295 - Sword of Seals ReDux
 289 - Tale of Ternon
+322 - The Binding Bartre
+323 - The Binding Bartre (with effectiveness and AI fixes)
 248 - The Blade’s Legacy Spreading Flames
 145 - The Burdened Crown
 147 - The Burdened Crown (0 Growths)

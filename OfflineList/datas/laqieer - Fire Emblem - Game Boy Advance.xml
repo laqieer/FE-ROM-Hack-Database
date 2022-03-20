@@ -655,7 +655,7 @@
 			<romSize>33554432</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>7</location>
-			<sourceRom>FE7if</sourceRom>
+			<sourceRom>unknown</sourceRom>
 			<language>256</language>
 			<files><romCRC extension=".gba">6ECA79CE</romCRC></files>
 			<im1CRC>8846C665</im1CRC>
@@ -703,7 +703,7 @@
 			<romSize>17825792</romSize>
 			<publisher>Reskin</publisher>
 			<location>7</location>
-			<sourceRom>FE7 Inflation</sourceRom>
+			<sourceRom>unknown</sourceRom>
 			<language>256</language>
 			<files><romCRC extension=".gba">6EA83897</romCRC></files>
 			<im1CRC>75F4668D</im1CRC>
@@ -1727,7 +1727,7 @@
 			<romSize>33554432</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>7</location>
-			<sourceRom>midori</sourceRom>
+			<sourceRom>unknown</sourceRom>
 			<language>256</language>
 			<files><romCRC extension=".gba">25D88B16</romCRC></files>
 			<im1CRC>17EB6BB5</im1CRC>
@@ -4730,12 +4730,12 @@
 		<game>
 			<imageNumber>364</imageNumber>
 			<releaseNumber>364</releaseNumber>
-			<title>FE聖魔　適当に改造 まるっと全部修正</title>
+			<title>FE聖魔 適当に改造 まるっと全部修正</title>
 			<saveType>Sram_F_v103</saveType>
 			<romSize>16963116</romSize>
 			<publisher>Reskin</publisher>
 			<location>7</location>
-			<sourceRom>聖魔適当に改造</sourceRom>
+			<sourceRom>unknown</sourceRom>
 			<language>256</language>
 			<files><romCRC extension=".gba">3B72F7DC</romCRC></files>
 			<im1CRC>6DFD2350</im1CRC>
@@ -4895,7 +4895,7 @@
 			<romSize>17203948</romSize>
 			<publisher>Reskin</publisher>
 			<location>7</location>
-			<sourceRom>リーンの風</sourceRom>
+			<sourceRom>unknown</sourceRom>
 			<language>256</language>
 			<files><romCRC extension=".gba">C7A95BE3</romCRC></files>
 			<im1CRC>6D5628C8</im1CRC>
@@ -5381,6 +5381,198 @@
 			<im1CRC>8C6A8B01</im1CRC>
 			<im2CRC>4C3F8296</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>405</imageNumber>
+			<releaseNumber>405</releaseNumber>
+			<title>Remodeling Sealed Thracia</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>33568120</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">E0712419</romCRC></files>
+			<im1CRC>70F43149</im1CRC>
+			<im2CRC>209C9EA8</im2CRC>
+			<comment>改造封印トラキア</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>406</imageNumber>
+			<releaseNumber>406</releaseNumber>
+			<title>Fallen Kingdom</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>23128196</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>SageMatthis</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9E3DB0B4</romCRC></files>
+			<im1CRC>A2020A3C</im1CRC>
+			<im2CRC>F34CF9D5</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-fallen-kingdom-demo-v-4-5/4011</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>407</imageNumber>
+			<releaseNumber>407</releaseNumber>
+			<title>Fire Emblem - Order of the Crimson Arm</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25073560</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>TactHack</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7F5A1B3A</romCRC></files>
+			<im1CRC>B8ABC8C2</im1CRC>
+			<im2CRC>0D25416D</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-order-of-the-crimson-arm/1836</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>408</imageNumber>
+			<releaseNumber>408</releaseNumber>
+			<title>The Queen’s Lament</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18021380</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>CopyBotJ</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E19C9EB7</romCRC></files>
+			<im1CRC>45C36DC0</im1CRC>
+			<im2CRC>EACE00B8</im2CRC>
+			<comment>https://feuniverse.us/t/the-queens-lament-demo-2-00/930</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>409</imageNumber>
+			<releaseNumber>409</releaseNumber>
+			<title>Spark of Life</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19227424</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Jlugi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">77592E80</romCRC></files>
+			<im1CRC>B6422ED6</im1CRC>
+			<im2CRC>6C548066</im2CRC>
+			<comment>https://feuniverse.us/t/new-hack-spark-of-life/5819</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>410</imageNumber>
+			<releaseNumber>410</releaseNumber>
+			<title>Bloodlines</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>26362620</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Ghast</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1E076CEA</romCRC></files>
+			<im1CRC>91F66B54</im1CRC>
+			<im2CRC>12C84E9D</im2CRC>
+			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-24-public-patch-is-released-check-the-first-post/423</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>411</imageNumber>
+			<releaseNumber>411</releaseNumber>
+			<title>Inheritors of the Crusade</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>23373980</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>SquareRootOfPi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9F0BCED0</romCRC></files>
+			<im1CRC>7B6852A6</im1CRC>
+			<im2CRC>9097CEB8</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/62717-fire-emblem-iv-inheritors-of-the-crusade-v013-released/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>412</imageNumber>
+			<releaseNumber>412</releaseNumber>
+			<title>The Book of Eden</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27155364</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Rickochet</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5444A96B</romCRC></files>
+			<im1CRC>A3BD2EA4</im1CRC>
+			<im2CRC>B5A683EC</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-book-of-eden-v2-2-6-updated-01-10-22/1532</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>413</imageNumber>
+			<releaseNumber>413</releaseNumber>
+			<title>OC Emblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21489356</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>PurpleMage</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5F29FE04</romCRC></files>
+			<im1CRC>B015AD17</im1CRC>
+			<im2CRC>3EAB3568</im2CRC>
+			<comment>https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>414</imageNumber>
+			<releaseNumber>414</releaseNumber>
+			<title>Demon’s Curse</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25632208</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Sluffy</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7C088459</romCRC></files>
+			<im1CRC>A24A2A4C</im1CRC>
+			<im2CRC>8DDA80C9</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-demons-curse-part-3-1-available-now/7639</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>415</imageNumber>
+			<releaseNumber>415</releaseNumber>
+			<title>Dark Soul</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19413976</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Horrific17</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">17FE1087</romCRC></files>
+			<im1CRC>4DD576E1</im1CRC>
+			<im2CRC>8A22ACA0</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-fire-emblem-the-dark-soul-wip/7899</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>416</imageNumber>
+			<releaseNumber>416</releaseNumber>
+			<title>The Divine Twins’ War</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21006844</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>pengie9290</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4FD88C7B</romCRC></files>
+			<im1CRC>4BC1C2B4</im1CRC>
+			<im2CRC>8E023DB0</im2CRC>
+			<comment>https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

@@ -92,6 +92,10 @@ game (
 	file ( name 290 - Blood of the Covenant size 20149244 crc 63a45a53 )
 )
 game (
+	name "Bloodlines.zip"
+	file ( name 410 - Bloodlines size 26362620 crc 1e076cea )
+)
+game (
 	name "Boss War.zip"
 	file ( name 115 - Boss War size 25171160 crc 186ecc6e )
 )
@@ -156,6 +160,10 @@ game (
 	file ( name 120 - Dark Lord and the Maiden of Light size 24393296 crc 2edd404d )
 )
 game (
+	name "Dark Soul.zip"
+	file ( name 415 - Dark Soul size 19413976 crc 17fe1087 )
+)
+game (
 	name "Decay of the Fangs.zip"
 	file ( name 253 - Decay of the Fangs size 20200548 crc 85f73677 )
 )
@@ -178,6 +186,10 @@ game (
 game (
 	name "Deity Device (Part 3).zip"
 	file ( name 228 - Deity Device (Part 3) size 28950336 crc 5e69347e )
+)
+game (
+	name "Demon’s Curse.zip"
+	file ( name 414 - Demon’s Curse size 25632208 crc 7c088459 )
 )
 game (
 	name "Devourer of Time (Hard mode).zip"
@@ -214,6 +226,10 @@ game (
 game (
 	name "Fallen King.zip"
 	file ( name 114 - Fallen King size 17826344 crc 8b2cbe45 )
+)
+game (
+	name "Fallen Kingdom.zip"
+	file ( name 406 - Fallen Kingdom size 23128196 crc 9e3db0b4 )
 )
 game (
 	name "FE1 GBA.zip"
@@ -484,8 +500,8 @@ game (
 	file ( name 168 - FEU Gacha size 16777216 crc 35c74672 )
 )
 game (
-	name "FE聖魔　適当に改造 まるっと全部修正.zip"
-	file ( name 364 - FE聖魔　適当に改造 まるっと全部修正 size 16963116 crc 3b72f7dc )
+	name "FE聖魔 適当に改造 まるっと全部修正.zip"
+	file ( name 364 - FE聖魔 適当に改造 まるっと全部修正 size 16963116 crc 3b72f7dc )
 )
 game (
 	name "Fire Emblem 6.7.zip"
@@ -588,6 +604,10 @@ game (
 	file ( name 188 - Fire Emblem - Justice and Pride size 26189708 crc c166ce14 )
 )
 game (
+	name "Fire Emblem - Order of the Crimson Arm.zip"
+	file ( name 407 - Fire Emblem - Order of the Crimson Arm size 25073560 crc 7f5a1b3a )
+)
+game (
 	name "Fire Emblem - Reawakening.zip"
 	file ( name 146 - Fire Emblem - Reawakening size 20016012 crc 9f92a410 )
 )
@@ -657,7 +677,7 @@ game (
 )
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme.zip"
@@ -812,6 +832,10 @@ game (
 	file ( name 211 - Inheritance (with Minimug) size 27877852 crc bc0988fd )
 )
 game (
+	name "Inheritors of the Crusade.zip"
+	file ( name 411 - Inheritors of the Crusade size 23373980 crc 9f0bced0 )
+)
+game (
 	name "Isekai Emblem.zip"
 	file ( name 237 - Isekai Emblem size 23924912 crc 60a52d28 )
 )
@@ -898,6 +922,10 @@ game (
 game (
 	name "Not Fire Emblem 8.zip"
 	file ( name 391 - Not Fire Emblem 8 size 16777216 crc feea2917 )
+)
+game (
+	name "OC Emblem.zip"
+	file ( name 413 - OC Emblem size 21489356 crc 5f29fe04 )
 )
 game (
 	name "One-Turn-Clear.zip"
@@ -998,6 +1026,10 @@ game (
 game (
 	name "Rart Emblem Zero - The Rarted Stones.zip"
 	file ( name 348 - Rart Emblem Zero - The Rarted Stones size 19326044 crc 2a4ab263 )
+)
+game (
+	name "Remodeling Sealed Thracia.zip"
+	file ( name 405 - Remodeling Sealed Thracia size 33568120 crc e0712419 )
 )
 game (
 	name "Requiem.zip"
@@ -1116,6 +1148,10 @@ game (
 	file ( name 215 - Slot Machine size 16784068 crc 36c739f5 )
 )
 game (
+	name "Spark of Life.zip"
+	file ( name 409 - Spark of Life size 19227424 crc 77592e80 )
+)
+game (
 	name "Staff of Ages.zip"
 	file ( name 269 - Staff of Ages size 24147092 crc 08b68511 )
 )
@@ -1160,6 +1196,10 @@ game (
 	file ( name 248 - The Blade’s Legacy Spreading Flames size 17896244 crc 4ab46d89 )
 )
 game (
+	name "The Book of Eden.zip"
+	file ( name 412 - The Book of Eden size 27155364 crc 5444a96b )
+)
+game (
 	name "The Burdened Crown.zip"
 	file ( name 145 - The Burdened Crown size 22485048 crc 489aff60 )
 )
@@ -1182,6 +1222,10 @@ game (
 game (
 	name "The Dark Hour (Hard Mode).zip"
 	file ( name 202 - The Dark Hour (Hard Mode) size 26995576 crc bfc8d218 )
+)
+game (
+	name "The Divine Twins’ War.zip"
+	file ( name 416 - The Divine Twins’ War size 21006844 crc 4fd88c7b )
 )
 game (
 	name "The Dragon Herald.zip"
@@ -1230,6 +1274,10 @@ game (
 game (
 	name "The Last Promise (Weapon Reversal).zip"
 	file ( name 106 - The Last Promise (Weapon Reversal) size 33302356 crc 38f7a2c6 )
+)
+game (
+	name "The Queen’s Lament.zip"
+	file ( name 408 - The Queen’s Lament size 18021380 crc e19c9eb7 )
 )
 game (
 	name "The Road to Ruin.zip"

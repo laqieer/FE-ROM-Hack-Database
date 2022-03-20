@@ -485,6 +485,24 @@
 		},
 		{
 			"machine": {
+				"name": "Bloodlines",
+				"comment": "https://feuniverse.us/t/new-trailer-bloodlines-3-24-public-patch-is-released-check-the-first-post/423",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "410 - Bloodlines",
+						"size": 26362620,
+						"crc": "1e076cea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Boss War",
 				"comment": "https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688",
 				"description": null,
@@ -773,6 +791,24 @@
 		},
 		{
 			"machine": {
+				"name": "Dark Soul",
+				"comment": "https://feuniverse.us/t/fe7-fire-emblem-the-dark-soul-wip/7899",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "415 - Dark Soul",
+						"size": 19413976,
+						"crc": "17fe1087"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Decay of the Fangs",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/",
 				"description": null,
@@ -875,6 +911,24 @@
 						"name": "228 - Deity Device (Part 3)",
 						"size": 28950336,
 						"crc": "5e69347e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Demon’s Curse",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-demons-curse-part-3-1-available-now/7639",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "414 - Demon’s Curse",
+						"size": 25632208,
+						"crc": "7c088459"
 					}
 				}
 			]
@@ -1037,6 +1091,24 @@
 						"name": "114 - Fallen King",
 						"size": 17826344,
 						"crc": "8b2cbe45"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fallen Kingdom",
+				"comment": "https://feuniverse.us/t/fe7-fallen-kingdom-demo-v-4-5/4011",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "406 - Fallen Kingdom",
+						"size": 23128196,
+						"crc": "9e3db0b4"
 					}
 				}
 			]
@@ -2249,7 +2321,7 @@
 		},
 		{
 			"machine": {
-				"name": "FE聖魔　適当に改造 まるっと全部修正",
+				"name": "FE聖魔 適当に改造 まるっと全部修正",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin"
@@ -2258,7 +2330,7 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "364 - FE聖魔　適当に改造 まるっと全部修正",
+						"name": "364 - FE聖魔 適当に改造 まるっと全部修正",
 						"size": 16963116,
 						"crc": "3b72f7dc"
 					}
@@ -2711,6 +2783,24 @@
 						"name": "188 - Fire Emblem - Justice and Pride",
 						"size": 26189708,
 						"crc": "c166ce14"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Order of the Crimson Arm",
+				"comment": "https://feuniverse.us/t/fire-emblem-order-of-the-crimson-arm/1836",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "407 - Fire Emblem - Order of the Crimson Arm",
+						"size": 25073560,
+						"crc": "7f5a1b3a"
 					}
 				}
 			]
@@ -3725,6 +3815,24 @@
 		},
 		{
 			"machine": {
+				"name": "Inheritors of the Crusade",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/62717-fire-emblem-iv-inheritors-of-the-crusade-v013-released/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "411 - Inheritors of the Crusade",
+						"size": 23373980,
+						"crc": "9f0bced0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Isekai Emblem",
 				"comment": "https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640",
 				"description": null,
@@ -4115,6 +4223,24 @@
 						"name": "391 - Not Fire Emblem 8",
 						"size": 16777216,
 						"crc": "feea2917"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "OC Emblem",
+				"comment": "https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "413 - OC Emblem",
+						"size": 21489356,
+						"crc": "5f29fe04"
 					}
 				}
 			]
@@ -4565,6 +4691,24 @@
 						"name": "348 - Rart Emblem Zero - The Rarted Stones",
 						"size": 19326044,
 						"crc": "2a4ab263"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Remodeling Sealed Thracia",
+				"comment": "改造封印トラキア",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "405 - Remodeling Sealed Thracia",
+						"size": 33568120,
+						"crc": "e0712419"
 					}
 				}
 			]
@@ -5093,6 +5237,24 @@
 		},
 		{
 			"machine": {
+				"name": "Spark of Life",
+				"comment": "https://feuniverse.us/t/new-hack-spark-of-life/5819",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "409 - Spark of Life",
+						"size": 19227424,
+						"crc": "77592e80"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Staff of Ages",
 				"comment": "http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182",
 				"description": null,
@@ -5291,6 +5453,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Book of Eden",
+				"comment": "https://feuniverse.us/t/fire-emblem-book-of-eden-v2-2-6-updated-01-10-22/1532",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "412 - The Book of Eden",
+						"size": 27155364,
+						"crc": "5444a96b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Burdened Crown",
 				"comment": "https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175",
 				"description": null,
@@ -5393,6 +5573,24 @@
 						"name": "202 - The Dark Hour (Hard Mode)",
 						"size": 26995576,
 						"crc": "bfc8d218"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Divine Twins’ War",
+				"comment": "https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "416 - The Divine Twins’ War",
+						"size": 21006844,
+						"crc": "4fd88c7b"
 					}
 				}
 			]
@@ -5609,6 +5807,24 @@
 						"name": "106 - The Last Promise (Weapon Reversal)",
 						"size": 33302356,
 						"crc": "38f7a2c6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Queen’s Lament",
+				"comment": "https://feuniverse.us/t/the-queens-lament-demo-2-00/930",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "408 - The Queen’s Lament",
+						"size": 18021380,
+						"crc": "e19c9eb7"
 					}
 				}
 			]

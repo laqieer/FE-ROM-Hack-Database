@@ -169,6 +169,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Bloodlines">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="410 - Bloodlines" size="26362620" crc="1e076cea" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Boss War">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -297,6 +305,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Dark Soul">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="415 - Dark Soul" size="19413976" crc="17fe1087" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Decay of the Fangs">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -342,6 +358,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Demon’s Curse">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="414 - Demon’s Curse" size="25632208" crc="7c088459" />
 			</dataarea>
 		</part>
 	</software>
@@ -414,6 +438,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="114 - Fallen King" size="17826344" crc="8b2cbe45" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fallen Kingdom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="406 - Fallen Kingdom" size="23128196" crc="9e3db0b4" />
 			</dataarea>
 		</part>
 	</software>
@@ -953,11 +985,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="FE聖魔　適当に改造 まるっと全部修正">
+	<software name="FE聖魔 適当に改造 まるっと全部修正">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="364 - FE聖魔　適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
+				<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
 			</dataarea>
 		</part>
 	</software>
@@ -1158,6 +1190,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="188 - Fire Emblem - Justice and Pride" size="26189708" crc="c166ce14" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Order of the Crimson Arm">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="407 - Fire Emblem - Order of the Crimson Arm" size="25073560" crc="7f5a1b3a" />
 			</dataarea>
 		</part>
 	</software>
@@ -1609,6 +1649,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Inheritors of the Crusade">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="411 - Inheritors of the Crusade" size="23373980" crc="9f0bced0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Isekai Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1782,6 +1830,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="391 - Not Fire Emblem 8" size="16777216" crc="feea2917" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="OC Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="413 - OC Emblem" size="21489356" crc="5f29fe04" />
 			</dataarea>
 		</part>
 	</software>
@@ -1982,6 +2038,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Remodeling Sealed Thracia">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="405 - Remodeling Sealed Thracia" size="33568120" crc="e0712419" />
 			</dataarea>
 		</part>
 	</software>
@@ -2217,6 +2281,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Spark of Life">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="409 - Spark of Life" size="19227424" crc="77592e80" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Staff of Ages">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2305,6 +2377,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Book of Eden">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="412 - The Book of Eden" size="27155364" crc="5444a96b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Burdened Crown">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2350,6 +2430,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="202 - The Dark Hour (Hard Mode)" size="26995576" crc="bfc8d218" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Divine Twins’ War">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="416 - The Divine Twins’ War" size="21006844" crc="4fd88c7b" />
 			</dataarea>
 		</part>
 	</software>
@@ -2446,6 +2534,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Queen’s Lament">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="408 - The Queen’s Lament" size="18021380" crc="e19c9eb7" />
 			</dataarea>
 		</part>
 	</software>

@@ -63,6 +63,9 @@
 	<machine name="Blood of the Covenant">
 		<rom name="290 - Blood of the Covenant" size="20149244" crc="63a45a53" />
 	</machine>
+	<machine name="Bloodlines">
+		<rom name="410 - Bloodlines" size="26362620" crc="1e076cea" />
+	</machine>
 	<machine name="Boss War">
 		<rom name="115 - Boss War" size="25171160" crc="186ecc6e" />
 	</machine>
@@ -111,6 +114,9 @@
 	<machine name="Dark Lord and the Maiden of Light">
 		<rom name="120 - Dark Lord and the Maiden of Light" size="24393296" crc="2edd404d" />
 	</machine>
+	<machine name="Dark Soul">
+		<rom name="415 - Dark Soul" size="19413976" crc="17fe1087" />
+	</machine>
 	<machine name="Decay of the Fangs">
 		<rom name="253 - Decay of the Fangs" size="20200548" crc="85f73677" />
 	</machine>
@@ -128,6 +134,9 @@
 	</machine>
 	<machine name="Deity Device (Part 3)">
 		<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
+	</machine>
+	<machine name="Demon’s Curse">
+		<rom name="414 - Demon’s Curse" size="25632208" crc="7c088459" />
 	</machine>
 	<machine name="Devourer of Time (Hard mode)">
 		<rom name="339 - Devourer of Time (Hard mode)" size="16818192" crc="7fd35f4f" />
@@ -155,6 +164,9 @@
 	</machine>
 	<machine name="Fallen King">
 		<rom name="114 - Fallen King" size="17826344" crc="8b2cbe45" />
+	</machine>
+	<machine name="Fallen Kingdom">
+		<rom name="406 - Fallen Kingdom" size="23128196" crc="9e3db0b4" />
 	</machine>
 	<machine name="FE1 GBA">
 		<rom name="260 - FE1 GBA" size="17361761" crc="9be58bd8" />
@@ -357,8 +369,8 @@
 	<machine name="FEU Gacha">
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
 	</machine>
-	<machine name="FE聖魔　適当に改造 まるっと全部修正">
-		<rom name="364 - FE聖魔　適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
+	<machine name="FE聖魔 適当に改造 まるっと全部修正">
+		<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
 	</machine>
 	<machine name="Fire Emblem 6.7">
 		<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
@@ -434,6 +446,9 @@
 	</machine>
 	<machine name="Fire Emblem - Justice and Pride">
 		<rom name="188 - Fire Emblem - Justice and Pride" size="26189708" crc="c166ce14" />
+	</machine>
+	<machine name="Fire Emblem - Order of the Crimson Arm">
+		<rom name="407 - Fire Emblem - Order of the Crimson Arm" size="25073560" crc="7f5a1b3a" />
 	</machine>
 	<machine name="Fire Emblem - Reawakening">
 		<rom name="146 - Fire Emblem - Reawakening" size="20016012" crc="9f92a410" />
@@ -603,6 +618,9 @@
 	<machine name="Inheritance (with Minimug)">
 		<rom name="211 - Inheritance (with Minimug)" size="27877852" crc="bc0988fd" />
 	</machine>
+	<machine name="Inheritors of the Crusade">
+		<rom name="411 - Inheritors of the Crusade" size="23373980" crc="9f0bced0" />
+	</machine>
 	<machine name="Isekai Emblem">
 		<rom name="237 - Isekai Emblem" size="23924912" crc="60a52d28" />
 	</machine>
@@ -668,6 +686,9 @@
 	</machine>
 	<machine name="Not Fire Emblem 8">
 		<rom name="391 - Not Fire Emblem 8" size="16777216" crc="feea2917" />
+	</machine>
+	<machine name="OC Emblem">
+		<rom name="413 - OC Emblem" size="21489356" crc="5f29fe04" />
 	</machine>
 	<machine name="One-Turn-Clear">
 		<rom name="151 - One-Turn-Clear" size="16806828" crc="e930a809" />
@@ -743,6 +764,9 @@
 	</machine>
 	<machine name="Rart Emblem Zero - The Rarted Stones">
 		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+	</machine>
+	<machine name="Remodeling Sealed Thracia">
+		<rom name="405 - Remodeling Sealed Thracia" size="33568120" crc="e0712419" />
 	</machine>
 	<machine name="Requiem">
 		<rom name="113 - Requiem" size="18774856" crc="1225efff" />
@@ -831,6 +855,9 @@
 	<machine name="Slot Machine">
 		<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
 	</machine>
+	<machine name="Spark of Life">
+		<rom name="409 - Spark of Life" size="19227424" crc="77592e80" />
+	</machine>
 	<machine name="Staff of Ages">
 		<rom name="269 - Staff of Ages" size="24147092" crc="08b68511" />
 	</machine>
@@ -864,6 +891,9 @@
 	<machine name="The Blade’s Legacy Spreading Flames">
 		<rom name="248 - The Blade’s Legacy Spreading Flames" size="17896244" crc="4ab46d89" />
 	</machine>
+	<machine name="The Book of Eden">
+		<rom name="412 - The Book of Eden" size="27155364" crc="5444a96b" />
+	</machine>
 	<machine name="The Burdened Crown">
 		<rom name="145 - The Burdened Crown" size="22485048" crc="489aff60" />
 	</machine>
@@ -881,6 +911,9 @@
 	</machine>
 	<machine name="The Dark Hour (Hard Mode)">
 		<rom name="202 - The Dark Hour (Hard Mode)" size="26995576" crc="bfc8d218" />
+	</machine>
+	<machine name="The Divine Twins’ War">
+		<rom name="416 - The Divine Twins’ War" size="21006844" crc="4fd88c7b" />
 	</machine>
 	<machine name="The Dragon Herald">
 		<rom name="152 - The Dragon Herald" size="25565628" crc="72d65e0b" />
@@ -917,6 +950,9 @@
 	</machine>
 	<machine name="The Last Promise (Weapon Reversal)">
 		<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+	</machine>
+	<machine name="The Queen’s Lament">
+		<rom name="408 - The Queen’s Lament" size="18021380" crc="e19c9eb7" />
 	</machine>
 	<machine name="The Road to Ruin">
 		<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />

@@ -419,6 +419,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Bloodlines</name>
+				<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-24-public-patch-is-released-check-the-first-post/423</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>410 - Bloodlines</name>
+					<size>26362620</size>
+					<crc>1e076cea</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Boss War</name>
 				<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
 				<publisher>Fan Modding</publisher>
@@ -659,6 +674,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Dark Soul</name>
+				<comment>https://feuniverse.us/t/fe7-fire-emblem-the-dark-soul-wip/7899</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>415 - Dark Soul</name>
+					<size>19413976</size>
+					<crc>17fe1087</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Decay of the Fangs</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/</comment>
 				<publisher>Fan Modding</publisher>
@@ -744,6 +774,21 @@
 					<name>228 - Deity Device (Part 3)</name>
 					<size>28950336</size>
 					<crc>5e69347e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Demon’s Curse</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-demons-curse-part-3-1-available-now/7639</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>414 - Demon’s Curse</name>
+					<size>25632208</size>
+					<crc>7c088459</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -879,6 +924,21 @@
 					<name>114 - Fallen King</name>
 					<size>17826344</size>
 					<crc>8b2cbe45</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fallen Kingdom</name>
+				<comment>https://feuniverse.us/t/fe7-fallen-kingdom-demo-v-4-5/4011</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>406 - Fallen Kingdom</name>
+					<size>23128196</size>
+					<crc>9e3db0b4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1889,14 +1949,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>FE聖魔　適当に改造 まるっと全部修正</name>
+				<name>FE聖魔 適当に改造 まるっと全部修正</name>
 				<comment />
 				<publisher>Reskin</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>364 - FE聖魔　適当に改造 まるっと全部修正</name>
+					<name>364 - FE聖魔 適当に改造 まるっと全部修正</name>
 					<size>16963116</size>
 					<crc>3b72f7dc</crc>
 				</datitem>
@@ -2274,6 +2334,21 @@
 					<name>188 - Fire Emblem - Justice and Pride</name>
 					<size>26189708</size>
 					<crc>c166ce14</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem - Order of the Crimson Arm</name>
+				<comment>https://feuniverse.us/t/fire-emblem-order-of-the-crimson-arm/1836</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>407 - Fire Emblem - Order of the Crimson Arm</name>
+					<size>25073560</size>
+					<crc>7f5a1b3a</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3119,6 +3194,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Inheritors of the Crusade</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/62717-fire-emblem-iv-inheritors-of-the-crusade-v013-released/</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>411 - Inheritors of the Crusade</name>
+					<size>23373980</size>
+					<crc>9f0bced0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Isekai Emblem</name>
 				<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640</comment>
 				<publisher>Fan Modding</publisher>
@@ -3444,6 +3534,21 @@
 					<name>391 - Not Fire Emblem 8</name>
 					<size>16777216</size>
 					<crc>feea2917</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>OC Emblem</name>
+				<comment>https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>413 - OC Emblem</name>
+					<size>21489356</size>
+					<crc>5f29fe04</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3819,6 +3924,21 @@
 					<name>348 - Rart Emblem Zero - The Rarted Stones</name>
 					<size>19326044</size>
 					<crc>2a4ab263</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Remodeling Sealed Thracia</name>
+				<comment>改造封印トラキア</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>405 - Remodeling Sealed Thracia</name>
+					<size>33568120</size>
+					<crc>e0712419</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4259,6 +4379,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Spark of Life</name>
+				<comment>https://feuniverse.us/t/new-hack-spark-of-life/5819</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>409 - Spark of Life</name>
+					<size>19227424</size>
+					<crc>77592e80</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Staff of Ages</name>
 				<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
 				<publisher>Fan Modding</publisher>
@@ -4424,6 +4559,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Book of Eden</name>
+				<comment>https://feuniverse.us/t/fire-emblem-book-of-eden-v2-2-6-updated-01-10-22/1532</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>412 - The Book of Eden</name>
+					<size>27155364</size>
+					<crc>5444a96b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Burdened Crown</name>
 				<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
 				<publisher>Fan Modding</publisher>
@@ -4509,6 +4659,21 @@
 					<name>202 - The Dark Hour (Hard Mode)</name>
 					<size>26995576</size>
 					<crc>bfc8d218</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Divine Twins’ War</name>
+				<comment>https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>416 - The Divine Twins’ War</name>
+					<size>21006844</size>
+					<crc>4fd88c7b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4689,6 +4854,21 @@
 					<name>106 - The Last Promise (Weapon Reversal)</name>
 					<size>33302356</size>
 					<crc>38f7a2c6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Queen’s Lament</name>
+				<comment>https://feuniverse.us/t/the-queens-lament-demo-2-00/930</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>408 - The Queen’s Lament</name>
+					<size>18021380</size>
+					<crc>e19c9eb7</crc>
 				</datitem>
 			</files>
 		</directory>

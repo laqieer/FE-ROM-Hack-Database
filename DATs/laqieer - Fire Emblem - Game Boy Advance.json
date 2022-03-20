@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220319",
+		"version": "20220320",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "183 - 2 Princesses",
+				"name": "2 Princesses",
 				"comment": "二人の王女",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -209,6 +209,24 @@
 						"name": "169 - Antagonist Emblem",
 						"size": 17515204,
 						"crc": "13983cfb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Armour Emblem",
+				"comment": "https://feuniverse.us/t/side-project-armor-emblem-fe8/7151",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "390 - Armour Emblem",
+						"size": 19049856,
+						"crc": "9fe8fda0"
 					}
 				}
 			]
@@ -539,6 +557,60 @@
 		},
 		{
 			"machine": {
+				"name": "Cancer Emblem 0 - Joke Hack",
+				"comment": "https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "354 - Cancer Emblem 0 - Joke Hack",
+						"size": 16814840,
+						"crc": "1d729c3e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Cancer Emblem 1 - Dazzle-Lunge Emblem",
+				"comment": "https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "353 - Cancer Emblem 1 - Dazzle-Lunge Emblem",
+						"size": 16816800,
+						"crc": "1ea8b476"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Cancer Emblem 2 - Min-Max Emblem",
+				"comment": "https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "352 - Cancer Emblem 2 - Min-Max Emblem",
+						"size": 17344212,
+						"crc": "937079aa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Carcino’s Civil War",
 				"comment": "https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319",
 				"description": null,
@@ -587,6 +659,24 @@
 						"name": "250 - Chronicles of Lussaria",
 						"size": 17605868,
 						"crc": "bee51b0b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Communist Emblem 2 - Venezuela",
+				"comment": "https://feuniverse.us/t/communist-emblem-2-venezuela/3573",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "355 - Communist Emblem 2 - Venezuela",
+						"size": 17175216,
+						"crc": "9948f176"
 					}
 				}
 			]
@@ -1475,6 +1565,276 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 All Weapons are Devil Weapons",
+				"comment": "https://github.com/Adamminn/FE8-devil-weapons",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "384 - FE8 All Weapons are Devil Weapons",
+						"size": 16777216,
+						"crc": "711edbc9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Boss Recruitment (Ephraim Route)",
+				"comment": "https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "366 - FE8 Boss Recruitment (Ephraim Route)",
+						"size": 17208220,
+						"crc": "6fa24ab4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Changes Lite",
+				"comment": "https://feuniverse.us/t/fe8-changes-lite-patch/8874",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "396 - FE8 Changes Lite",
+						"size": 16795848,
+						"crc": "e41e4c1e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Normal recruitment, original base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)",
+						"size": 17060990,
+						"crc": "bff6749e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Normal recruitment, randomized base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)",
+						"size": 17060850,
+						"crc": "ae757366"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Random recruitment, original base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "372 - FE8 Chaos Randomizer (Random recruitment, original base stats)",
+						"size": 17060850,
+						"crc": "4eec4cf1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Random recruitment, randomized base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)",
+						"size": 17061057,
+						"crc": "319c60ec"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Reverse recruitment, original base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)",
+						"size": 17060992,
+						"crc": "01637d87"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)",
+				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)",
+						"size": 17061045,
+						"crc": "f6ffef3c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Creature Campaign Reverse Recruitment (Eirika)",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "379 - FE8 Creature Campaign Reverse Recruitment (Eirika)",
+						"size": 16799568,
+						"crc": "53f063ca"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Creature Campaign Reverse Recruitment (Ephraim)",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)",
+						"size": 16802988,
+						"crc": "1cddfc8d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Fanmade Directors Cut",
+				"comment": "https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "400 - FE8 Fanmade Directors Cut",
+						"size": 21871792,
+						"crc": "a7a210d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Lyn Windy",
+				"comment": "リーンの風",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "374 - FE8 Lyn Windy",
+						"size": 17203948,
+						"crc": "c7a95be3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Maniac Mode",
+				"comment": "https://feuniverse.us/t/fe8mm-version-2/7677",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "393 - FE8 Maniac Mode",
+						"size": 16863800,
+						"crc": "b4861fca"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Master Version",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "378 - FE8 Master Version",
+						"size": 16822640,
+						"crc": "51b9c9db"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 midori (Green)",
 				"comment": "緑パッチ（ＦＥ８）　ver.191020",
 				"description": null,
@@ -1511,6 +1871,222 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Negative Growths",
+				"comment": "https://feuniverse.us/t/fe8-negative-growths/4547",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "367 - FE8 Negative Growths",
+						"size": 16777216,
+						"crc": "3c7352c1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Oops, All Archers!",
+				"comment": "https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "403 - FE8 Oops, All Archers!",
+						"size": 16912200,
+						"crc": "0c7a2625"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Project Dark",
+				"comment": "https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "397 - FE8 Project Dark",
+						"size": 17578004,
+						"crc": "4b31296b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 QoL Edition",
+				"comment": "https://feuniverse.us/t/fe8-qol-edition/3509",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "375 - FE8 QoL Edition",
+						"size": 16802916,
+						"crc": "f45762e5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Redux",
+				"comment": "https://feuniverse.us/t/fe8-redux-v2-1-complete/13751",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "399 - FE8 Redux",
+						"size": 29224272,
+						"crc": "b767b1dd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Remix",
+				"comment": "https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "388 - FE8 Remix",
+						"size": 24792284,
+						"crc": "98a5a872"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)",
+						"size": 28528740,
+						"crc": "2e232219"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)",
+						"size": 27797400,
+						"crc": "f0217101"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)",
+						"size": 27797400,
+						"crc": "66e98aba"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 The Fallen Princess",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "401 - FE8 The Fallen Princess",
+						"size": 21021140,
+						"crc": "3c806e93"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Weapon Reversal",
+				"comment": "https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "376 - FE8 Weapon Reversal",
+						"size": 18248732,
+						"crc": "b069af12"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Wild Mode",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-wild-mode/6361",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "385 - FE8 Wild Mode",
+						"size": 16816344,
+						"crc": "00db28f0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8_GIRLS",
 				"comment": "ガールズ(09.10.04)",
 				"description": null,
@@ -1541,6 +2117,42 @@
 						"name": "175 - FE8_GIRLS (English Translation)",
 						"size": 16777216,
 						"crc": "d98445bc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8BEWHABEWAASAHIHI",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "404 - FE8BEWHABEWAASAHIHI",
+						"size": 16818460,
+						"crc": "2bb3fd58"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8ESHGBTGISTTM",
+				"comment": "https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "387 - FE8ESHGBTGISTTM",
+						"size": 16809264,
+						"crc": "17c71c14"
 					}
 				}
 			]
@@ -1631,6 +2243,24 @@
 						"name": "168 - FEU Gacha",
 						"size": 16777216,
 						"crc": "35c74672"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE聖魔　適当に改造 まるっと全部修正",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "364 - FE聖魔　適当に改造 まるっと全部修正",
+						"size": 16963116,
+						"crc": "3b72f7dc"
 					}
 				}
 			]
@@ -2612,7 +3242,7 @@
 				"name": "Fire Emblem - Will of Good and Evil",
 				"comment": "http://www.fireemblem.net/fe/download/index.htm",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Reskin"
 			},
 			"items": [
 				{
@@ -2825,6 +3455,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fort Mangs Emblem",
+				"comment": "https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "394 - Fort Mangs Emblem",
+						"size": 20269072,
+						"crc": "cadc97eb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Four Kings - Deposition",
 				"comment": "https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374",
 				"description": null,
@@ -2909,6 +3557,24 @@
 						"name": "245 - Gheb Saga",
 						"size": 26416180,
 						"crc": "6fb3ca5a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "GhebFE",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "381 - GhebFE",
+						"size": 18874368,
+						"crc": "daa23525"
 					}
 				}
 			]
@@ -3239,6 +3905,24 @@
 		},
 		{
 			"machine": {
+				"name": "Lute Emblem - The Sacred Lutes",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "377 - Lute Emblem - The Sacred Lutes",
+						"size": 16993256,
+						"crc": "5c7d8d3f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Lyn Emblem",
 				"comment": "https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108",
 				"description": null,
@@ -3287,6 +3971,24 @@
 						"name": "170 - Marc’s Precious - Revenge",
 						"size": 17332276,
 						"crc": "4426c3f9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Midnight Eclipse (Joke hack)",
+				"comment": "https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "395 - Midnight Eclipse (Joke hack)",
+						"size": 16959580,
+						"crc": "2865d6ce"
 					}
 				}
 			]
@@ -3401,6 +4103,24 @@
 		},
 		{
 			"machine": {
+				"name": "Not Fire Emblem 8",
+				"comment": "https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "391 - Not Fire Emblem 8",
+						"size": 16777216,
+						"crc": "feea2917"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "One-Turn-Clear",
 				"comment": "https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638",
 				"description": null,
@@ -3485,6 +4205,24 @@
 						"name": "345 - Path of a Hero (DLC Lloyd’s Story)",
 						"size": 18915800,
 						"crc": "990fd8ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Perfect Emblem",
+				"comment": "https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "392 - Perfect Emblem",
+						"size": 18174872,
+						"crc": "3a687b2f"
 					}
 				}
 			]
@@ -3743,6 +4481,24 @@
 		},
 		{
 			"machine": {
+				"name": "Psychic Emblem (weapons and classes overhaul)",
+				"comment": "https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "347 - Psychic Emblem (weapons and classes overhaul)",
+						"size": 17770636,
+						"crc": "5b763687"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Puzzle Emblem",
 				"comment": "https://feuniverse.us/t/puzzle-emblem/7316",
 				"description": null,
@@ -3791,6 +4547,24 @@
 						"name": "159 - Rart Emblem - Halloween",
 						"size": 17308636,
 						"crc": "61dad746"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Rart Emblem Zero - The Rarted Stones",
+				"comment": "https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "348 - Rart Emblem Zero - The Rarted Stones",
+						"size": 19326044,
+						"crc": "2a4ab263"
 					}
 				}
 			]
@@ -4031,6 +4805,186 @@
 		},
 		{
 			"machine": {
+				"name": "Sacred Eirika",
+				"comment": "https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "365 - Sacred Eirika",
+						"size": 19645624,
+						"crc": "a0612059"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Stones Death Difficulty",
+				"comment": "https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "398 - Sacred Stones Death Difficulty",
+						"size": 16782360,
+						"crc": "35d91a7c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Full- Fixed Growths- No AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "358 - Sacred Trilogy Final -Full- Fixed Growths- No AI",
+						"size": 33532712,
+						"crc": "9c1dd2f3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Full- Fixed Growths- With AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "359 - Sacred Trilogy Final -Full- Fixed Growths- With AI",
+						"size": 33532712,
+						"crc": "8ef775b9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Full- Random Growths- No AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "356 - Sacred Trilogy Final -Full- Random Growths- No AI",
+						"size": 33532712,
+						"crc": "37a12e0d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Full- Random Growths- With AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "357 - Sacred Trilogy Final -Full- Random Growths- With AI",
+						"size": 33532712,
+						"crc": "ade61296"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Lite- Fixed Growths- No AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI",
+						"size": 33531144,
+						"crc": "ca84d5bb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Lite- Fixed Growths- With AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI",
+						"size": 33531144,
+						"crc": "fa820e65"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Lite- Random Growths- No AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "360 - Sacred Trilogy Final -Lite- Random Growths- No AI",
+						"size": 33531144,
+						"crc": "4dd7ec11"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final -Lite- Random Growths- With AI",
+				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "361 - Sacred Trilogy Final -Lite- Random Growths- With AI",
+						"size": 33531144,
+						"crc": "c31dc48b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Saga of the Shivering Shores",
 				"comment": "https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597",
 				"description": null,
@@ -4097,6 +5051,24 @@
 						"name": "102 - Shining Armor",
 						"size": 16788636,
 						"crc": "67368bbb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "SirSerenes FE8 Reskin",
+				"comment": "https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "382 - SirSerenes FE8 Reskin",
+						"size": 16777288,
+						"crc": "2b74a740"
 					}
 				}
 			]
@@ -4241,6 +5213,24 @@
 						"name": "289 - Tale of Ternon",
 						"size": 18452460,
 						"crc": "fb829219"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Tales of the Emblem",
+				"comment": "http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "383 - Tales of the Emblem",
+						"size": 16866208,
+						"crc": "960d475e"
 					}
 				}
 			]
@@ -4439,6 +5429,24 @@
 						"name": "153 - The Dragon Herald (DSSave)",
 						"size": 25565628,
 						"crc": "24eaa892"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Empire’s Reach Revisited",
+				"comment": "https://feuniverse.us/t/the-empires-reach-revisited/6954/1",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "389 - The Empire’s Reach Revisited",
+						"size": 16788832,
+						"crc": "5b0c8f83"
 					}
 				}
 			]
@@ -4679,6 +5687,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Sacred Ripping Anniversary Edition",
+				"comment": "https://feuniverse.us/t/the-sacred-ripping/6253",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "386 - The Sacred Ripping Anniversary Edition",
+						"size": 20858336,
+						"crc": "7ee376fa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Sacred War (Final Update - v1.51)",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867",
 				"description": null,
@@ -4763,6 +5789,24 @@
 						"name": "282 - Tirado Emblem",
 						"size": 18775380,
 						"crc": "5bb0ae74"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Touhou Emblem 8 - The Sacred Shrines",
+				"comment": "https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "402 - Touhou Emblem 8 - The Sacred Shrines",
+						"size": 17869900,
+						"crc": "e18fc466"
 					}
 				}
 			]

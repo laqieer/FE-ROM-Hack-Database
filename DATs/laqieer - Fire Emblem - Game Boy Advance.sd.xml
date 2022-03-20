@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220319</version>
+		<version>20220320</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>183 - 2 Princesses</name>
+				<name>2 Princesses</name>
 				<comment>二人の王女</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
@@ -189,6 +189,21 @@
 					<name>169 - Antagonist Emblem</name>
 					<size>17515204</size>
 					<crc>13983cfb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Armour Emblem</name>
+				<comment>https://feuniverse.us/t/side-project-armor-emblem-fe8/7151</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>390 - Armour Emblem</name>
+					<size>19049856</size>
+					<crc>9fe8fda0</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -464,6 +479,51 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Cancer Emblem 0 - Joke Hack</name>
+				<comment>https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>354 - Cancer Emblem 0 - Joke Hack</name>
+					<size>16814840</size>
+					<crc>1d729c3e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Cancer Emblem 1 - Dazzle-Lunge Emblem</name>
+				<comment>https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>353 - Cancer Emblem 1 - Dazzle-Lunge Emblem</name>
+					<size>16816800</size>
+					<crc>1ea8b476</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Cancer Emblem 2 - Min-Max Emblem</name>
+				<comment>https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>352 - Cancer Emblem 2 - Min-Max Emblem</name>
+					<size>17344212</size>
+					<crc>937079aa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Carcino’s Civil War</name>
 				<comment>https://feuniverse.us/t/fe7-complete-carcinos-civil-war/2319</comment>
 				<publisher>Fan Modding</publisher>
@@ -504,6 +564,21 @@
 					<name>250 - Chronicles of Lussaria</name>
 					<size>17605868</size>
 					<crc>bee51b0b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Communist Emblem 2 - Venezuela</name>
+				<comment>https://feuniverse.us/t/communist-emblem-2-venezuela/3573</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>355 - Communist Emblem 2 - Venezuela</name>
+					<size>17175216</size>
+					<crc>9948f176</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1244,6 +1319,231 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 All Weapons are Devil Weapons</name>
+				<comment>https://github.com/Adamminn/FE8-devil-weapons</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>384 - FE8 All Weapons are Devil Weapons</name>
+					<size>16777216</size>
+					<crc>711edbc9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Boss Recruitment (Ephraim Route)</name>
+				<comment>https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>366 - FE8 Boss Recruitment (Ephraim Route)</name>
+					<size>17208220</size>
+					<crc>6fa24ab4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Changes Lite</name>
+				<comment>https://feuniverse.us/t/fe8-changes-lite-patch/8874</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>396 - FE8 Changes Lite</name>
+					<size>16795848</size>
+					<crc>e41e4c1e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Normal recruitment, original base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)</name>
+					<size>17060990</size>
+					<crc>bff6749e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</name>
+					<size>17060850</size>
+					<crc>ae757366</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Random recruitment, original base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>372 - FE8 Chaos Randomizer (Random recruitment, original base stats)</name>
+					<size>17060850</size>
+					<crc>4eec4cf1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Random recruitment, randomized base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)</name>
+					<size>17061057</size>
+					<crc>319c60ec</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Reverse recruitment, original base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)</name>
+					<size>17060992</size>
+					<crc>01637d87</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</name>
+				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</name>
+					<size>17061045</size>
+					<crc>f6ffef3c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Creature Campaign Reverse Recruitment (Eirika)</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>379 - FE8 Creature Campaign Reverse Recruitment (Eirika)</name>
+					<size>16799568</size>
+					<crc>53f063ca</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Creature Campaign Reverse Recruitment (Ephraim)</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)</name>
+					<size>16802988</size>
+					<crc>1cddfc8d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Fanmade Directors Cut</name>
+				<comment>https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>400 - FE8 Fanmade Directors Cut</name>
+					<size>21871792</size>
+					<crc>a7a210d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Lyn Windy</name>
+				<comment>リーンの風</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>374 - FE8 Lyn Windy</name>
+					<size>17203948</size>
+					<crc>c7a95be3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Maniac Mode</name>
+				<comment>https://feuniverse.us/t/fe8mm-version-2/7677</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>393 - FE8 Maniac Mode</name>
+					<size>16863800</size>
+					<crc>b4861fca</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Master Version</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>378 - FE8 Master Version</name>
+					<size>16822640</size>
+					<crc>51b9c9db</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 midori (Green)</name>
 				<comment>緑パッチ（ＦＥ８）　ver.191020</comment>
 				<publisher>Fan Modding</publisher>
@@ -1274,6 +1574,186 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 Negative Growths</name>
+				<comment>https://feuniverse.us/t/fe8-negative-growths/4547</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>367 - FE8 Negative Growths</name>
+					<size>16777216</size>
+					<crc>3c7352c1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Oops, All Archers!</name>
+				<comment>https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>403 - FE8 Oops, All Archers!</name>
+					<size>16912200</size>
+					<crc>0c7a2625</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Project Dark</name>
+				<comment>https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>397 - FE8 Project Dark</name>
+					<size>17578004</size>
+					<crc>4b31296b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 QoL Edition</name>
+				<comment>https://feuniverse.us/t/fe8-qol-edition/3509</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>375 - FE8 QoL Edition</name>
+					<size>16802916</size>
+					<crc>f45762e5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Redux</name>
+				<comment>https://feuniverse.us/t/fe8-redux-v2-1-complete/13751</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>399 - FE8 Redux</name>
+					<size>29224272</size>
+					<crc>b767b1dd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Remix</name>
+				<comment>https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>388 - FE8 Remix</name>
+					<size>24792284</size>
+					<crc>98a5a872</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</name>
+					<size>28528740</size>
+					<crc>2e232219</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</name>
+					<size>27797400</size>
+					<crc>f0217101</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</name>
+					<size>27797400</size>
+					<crc>66e98aba</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 The Fallen Princess</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>401 - FE8 The Fallen Princess</name>
+					<size>21021140</size>
+					<crc>3c806e93</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Weapon Reversal</name>
+				<comment>https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>376 - FE8 Weapon Reversal</name>
+					<size>18248732</size>
+					<crc>b069af12</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Wild Mode</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-wild-mode/6361</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>385 - FE8 Wild Mode</name>
+					<size>16816344</size>
+					<crc>00db28f0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8_GIRLS</name>
 				<comment>ガールズ(09.10.04)</comment>
 				<publisher>Fan Modding</publisher>
@@ -1299,6 +1779,36 @@
 					<name>175 - FE8_GIRLS (English Translation)</name>
 					<size>16777216</size>
 					<crc>d98445bc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8BEWHABEWAASAHIHI</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>404 - FE8BEWHABEWAASAHIHI</name>
+					<size>16818460</size>
+					<crc>2bb3fd58</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8ESHGBTGISTTM</name>
+				<comment>https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>387 - FE8ESHGBTGISTTM</name>
+					<size>16809264</size>
+					<crc>17c71c14</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1374,6 +1884,21 @@
 					<name>168 - FEU Gacha</name>
 					<size>16777216</size>
 					<crc>35c74672</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE聖魔　適当に改造 まるっと全部修正</name>
+				<comment />
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>364 - FE聖魔　適当に改造 まるっと全部修正</name>
+					<size>16963116</size>
+					<crc>3b72f7dc</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2191,7 +2716,7 @@
 			<machine>
 				<name>Fire Emblem - Will of Good and Evil</name>
 				<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Reskin</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2369,6 +2894,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fort Mangs Emblem</name>
+				<comment>https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>394 - Fort Mangs Emblem</name>
+					<size>20269072</size>
+					<crc>cadc97eb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Four Kings - Deposition</name>
 				<comment>https://feuniverse.us/t/fe8-four-kings-deposition-a-prequel-to-four-kings-8-10-21-update-better-rewarp/12374</comment>
 				<publisher>Fan Modding</publisher>
@@ -2439,6 +2979,21 @@
 					<name>245 - Gheb Saga</name>
 					<size>26416180</size>
 					<crc>6fb3ca5a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>GhebFE</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>381 - GhebFE</name>
+					<size>18874368</size>
+					<crc>daa23525</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2714,6 +3269,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Lute Emblem - The Sacred Lutes</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>377 - Lute Emblem - The Sacred Lutes</name>
+					<size>16993256</size>
+					<crc>5c7d8d3f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Lyn Emblem</name>
 				<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
 				<publisher>Reskin</publisher>
@@ -2754,6 +3324,21 @@
 					<name>170 - Marc’s Precious - Revenge</name>
 					<size>17332276</size>
 					<crc>4426c3f9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Midnight Eclipse (Joke hack)</name>
+				<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>395 - Midnight Eclipse (Joke hack)</name>
+					<size>16959580</size>
+					<crc>2865d6ce</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2849,6 +3434,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Not Fire Emblem 8</name>
+				<comment>https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>391 - Not Fire Emblem 8</name>
+					<size>16777216</size>
+					<crc>feea2917</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>One-Turn-Clear</name>
 				<comment>https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638</comment>
 				<publisher>Fan Modding</publisher>
@@ -2919,6 +3519,21 @@
 					<name>345 - Path of a Hero (DLC Lloyd’s Story)</name>
 					<size>18915800</size>
 					<crc>990fd8ae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Perfect Emblem</name>
+				<comment>https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>392 - Perfect Emblem</name>
+					<size>18174872</size>
+					<crc>3a687b2f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3134,6 +3749,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Psychic Emblem (weapons and classes overhaul)</name>
+				<comment>https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>347 - Psychic Emblem (weapons and classes overhaul)</name>
+					<size>17770636</size>
+					<crc>5b763687</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Puzzle Emblem</name>
 				<comment>https://feuniverse.us/t/puzzle-emblem/7316</comment>
 				<publisher>Fan Modding</publisher>
@@ -3174,6 +3804,21 @@
 					<name>159 - Rart Emblem - Halloween</name>
 					<size>17308636</size>
 					<crc>61dad746</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Rart Emblem Zero - The Rarted Stones</name>
+				<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>348 - Rart Emblem Zero - The Rarted Stones</name>
+					<size>19326044</size>
+					<crc>2a4ab263</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3374,6 +4019,156 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Sacred Eirika</name>
+				<comment>https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>365 - Sacred Eirika</name>
+					<size>19645624</size>
+					<crc>a0612059</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Stones Death Difficulty</name>
+				<comment>https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>398 - Sacred Stones Death Difficulty</name>
+					<size>16782360</size>
+					<crc>35d91a7c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Full- Fixed Growths- No AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>358 - Sacred Trilogy Final -Full- Fixed Growths- No AI</name>
+					<size>33532712</size>
+					<crc>9c1dd2f3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Full- Fixed Growths- With AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>359 - Sacred Trilogy Final -Full- Fixed Growths- With AI</name>
+					<size>33532712</size>
+					<crc>8ef775b9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Full- Random Growths- No AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>356 - Sacred Trilogy Final -Full- Random Growths- No AI</name>
+					<size>33532712</size>
+					<crc>37a12e0d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Full- Random Growths- With AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>357 - Sacred Trilogy Final -Full- Random Growths- With AI</name>
+					<size>33532712</size>
+					<crc>ade61296</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Lite- Fixed Growths- No AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI</name>
+					<size>33531144</size>
+					<crc>ca84d5bb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Lite- Fixed Growths- With AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI</name>
+					<size>33531144</size>
+					<crc>fa820e65</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Lite- Random Growths- No AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>360 - Sacred Trilogy Final -Lite- Random Growths- No AI</name>
+					<size>33531144</size>
+					<crc>4dd7ec11</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final -Lite- Random Growths- With AI</name>
+				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>361 - Sacred Trilogy Final -Lite- Random Growths- With AI</name>
+					<size>33531144</size>
+					<crc>c31dc48b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Saga of the Shivering Shores</name>
 				<comment>https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597</comment>
 				<publisher>Fan Modding</publisher>
@@ -3429,6 +4224,21 @@
 					<name>102 - Shining Armor</name>
 					<size>16788636</size>
 					<crc>67368bbb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>SirSerenes FE8 Reskin</name>
+				<comment>https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>382 - SirSerenes FE8 Reskin</name>
+					<size>16777288</size>
+					<crc>2b74a740</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3549,6 +4359,21 @@
 					<name>289 - Tale of Ternon</name>
 					<size>18452460</size>
 					<crc>fb829219</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Tales of the Emblem</name>
+				<comment>http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>383 - Tales of the Emblem</name>
+					<size>16866208</size>
+					<crc>960d475e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3714,6 +4539,21 @@
 					<name>153 - The Dragon Herald (DSSave)</name>
 					<size>25565628</size>
 					<crc>24eaa892</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Empire’s Reach Revisited</name>
+				<comment>https://feuniverse.us/t/the-empires-reach-revisited/6954/1</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>389 - The Empire’s Reach Revisited</name>
+					<size>16788832</size>
+					<crc>5b0c8f83</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3914,6 +4754,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Sacred Ripping Anniversary Edition</name>
+				<comment>https://feuniverse.us/t/the-sacred-ripping/6253</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>386 - The Sacred Ripping Anniversary Edition</name>
+					<size>20858336</size>
+					<crc>7ee376fa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Sacred War (Final Update - v1.51)</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867</comment>
 				<publisher>Fan Modding</publisher>
@@ -3984,6 +4839,21 @@
 					<name>282 - Tirado Emblem</name>
 					<size>18775380</size>
 					<crc>5bb0ae74</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Touhou Emblem 8 - The Sacred Shrines</name>
+				<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>402 - Touhou Emblem 8 - The Sacred Shrines</name>
+					<size>17869900</size>
+					<crc>e18fc466</crc>
 				</datitem>
 			</files>
 		</directory>

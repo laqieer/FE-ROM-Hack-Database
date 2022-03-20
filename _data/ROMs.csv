@@ -29,7 +29,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 31,Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,4186D6E5,火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)
 32,Fire Emblem - The Sacred Stones (Russian Translation),Fan Translation,USA,DiamondAppendix,English,C1A69E8F,https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901
 100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,1C4FCC59,https://github.com/laqieer/fe7-jp-stunning-tribble
-101,Fire Emblem - Will of Good and Evil,Fan Modding,Japan,Wolf & Chinafe,Chinese,9CBB923E,http://www.fireemblem.net/fe/download/index.htm
+101,Fire Emblem - Will of Good and Evil,Reskin,Japan,Wolf & Chinafe,Chinese,9CBB923E,http://www.fireemblem.net/fe/download/index.htm
 102,Shining Armor,Fan Modding,Japan,Blazer,English,67368BBB,http://www.romhacking.net/hacks/538/
 103,The Last Promise,Fan Modding,USA,Blazer,English,D1C6E5D5,http://www.feshrine.net/thelastpromise/
 104,The Last Promise (Easy Mode),Fan Modding,USA,Blazer,English,BE1B4153,http://www.feshrine.net/thelastpromise/
@@ -275,3 +275,61 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 344,Path of a Hero,Reskin,USA,EmaColito,English,168670B6,https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484
 345,Path of a Hero (DLC Lloyd’s Story),Fan Modding,USA,EmaColito,English,990FD8AE,https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484
 346,Lyn Emblem,Reskin,USA,redeyesblackdrag0n,English,63B047EE,https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108
+347,Psychic Emblem (weapons and classes overhaul),Reskin,USA,Thunder_Mage,English,5B763687,https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931
+348,Rart Emblem Zero - The Rarted Stones,Reskin,USA,Xenith,English,2A4AB263,https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055
+349,FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage),Reskin,USA,"The_Big_Dededester, circleseverywhere",English,66E98ABA,https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523
+350,FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage),Reskin,USA,"The_Big_Dededester, circleseverywhere",English,F0217101,https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523
+351,FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode),Reskin,USA,The_Big_Dededester & circleseverywhere,English,2E232219,https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523
+352,Cancer Emblem 2 - Min-Max Emblem,Reskin,USA,Klokinator,English,937079AA,https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504
+353,Cancer Emblem 1 - Dazzle-Lunge Emblem,Reskin,USA,Fatih & Klokinator,English,1EA8B476,https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497
+354,Cancer Emblem 0 - Joke Hack,Reskin,USA,Fatih,English,1D729C3E,https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322
+355,Communist Emblem 2 - Venezuela,Reskin,USA,Sme,English,9948F176,https://feuniverse.us/t/communist-emblem-2-venezuela/3573
+356,Sacred Trilogy Final -Full- Random Growths- No AI,Reskin,USA,blood,English,37A12E0D,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+357,Sacred Trilogy Final -Full- Random Growths- With AI,Reskin,USA,blood,English,ADE61296,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+358,Sacred Trilogy Final -Full- Fixed Growths- No AI,Reskin,USA,blood,English,9C1DD2F3,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+359,Sacred Trilogy Final -Full- Fixed Growths- With AI,Reskin,USA,blood,English,8EF775B9,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+360,Sacred Trilogy Final -Lite- Random Growths- No AI,Reskin,USA,blood,English,4DD7EC11,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+361,Sacred Trilogy Final -Lite- Random Growths- With AI,Reskin,USA,blood,English,C31DC48B,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+362,Sacred Trilogy Final -Lite- Fixed Growths- No AI,Reskin,USA,blood,English,CA84D5BB,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+363,Sacred Trilogy Final -Lite- Fixed Growths- With AI,Reskin,USA,blood,English,FA820E65,https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359
+364,FE聖魔　適当に改造 まるっと全部修正,Reskin,Japan,聖魔適当に改造,Japanese,3B72F7DC,
+365,Sacred Eirika,Reskin,USA,WaywardTroper,English,A0612059,https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723
+366,FE8 Boss Recruitment (Ephraim Route),Reskin,USA,GratedShtick,English,6FA24AB4,https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439
+367,FE8 Negative Growths,Reskin,USA,TR143,English,3C7352C1,https://feuniverse.us/t/fe8-negative-growths/4547
+368,"FE8 Chaos Randomizer (Normal recruitment, original base stats)",Reskin,USA,Klokinator,English,BFF6749E,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+369,"FE8 Chaos Randomizer (Normal recruitment, randomized base stats)",Reskin,USA,Klokinator,English,AE757366,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+370,"FE8 Chaos Randomizer (Reverse recruitment, original base stats)",Reskin,USA,Klokinator,English,01637D87,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+371,"FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)",Reskin,USA,Klokinator,English,F6FFEF3C,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+372,"FE8 Chaos Randomizer (Random recruitment, original base stats)",Reskin,USA,Klokinator,English,4EEC4CF1,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+373,"FE8 Chaos Randomizer (Random recruitment, randomized base stats)",Reskin,USA,Klokinator,English,319C60EC,https://feuniverse.us/t/fe8-chaos-randomizer/2068
+374,FE8 Lyn Windy,Reskin,Japan,リーンの風,Japanese,C7A95BE3,リーンの風
+375,FE8 QoL Edition,Reskin,USA,MCProductions,English,F45762E5,https://feuniverse.us/t/fe8-qol-edition/3509
+376,FE8 Weapon Reversal,Reskin,USA,Kobazco,English,B069AF12,https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820
+377,Lute Emblem - The Sacred Lutes,Reskin,USA,Bloodfox1998,English,5C7D8D3F,https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/
+378,FE8 Master Version,Reskin,USA,BrightVega,English,51B9C9DB,https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/
+379,FE8 Creature Campaign Reverse Recruitment (Eirika),Reskin,USA,Katie,English,53F063CA,https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/
+380,FE8 Creature Campaign Reverse Recruitment (Ephraim),Reskin,USA,Katie,English,1CDDFC8D,https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/
+381,GhebFE,Reskin,USA,FurryYunSeong,English,DAA23525,https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/
+382,SirSerenes FE8 Reskin,Reskin,USA,SirSerenes,English,2B74A740,https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/
+383,Tales of the Emblem,Reskin,USA,unknown,English,960D475E,http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar
+384,FE8 All Weapons are Devil Weapons,Reskin,USA,Adamminn,English,711EDBC9,https://github.com/Adamminn/FE8-devil-weapons
+385,FE8 Wild Mode,Reskin,USA,darknight97,English,00DB28F0,https://feuniverse.us/t/fire-emblem-8-wild-mode/6361
+386,The Sacred Ripping Anniversary Edition,Reskin,USA,zetaku,English,7EE376FA,https://feuniverse.us/t/the-sacred-ripping/6253
+387,FE8ESHGBTGISTTM,Reskin,USA,FlamingZelda,English,17C71C14,https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044
+388,FE8 Remix,Reskin,USA,helix0981,English,98A5A872,https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740
+389,The Empire’s Reach Revisited,Reskin,USA,RandomWizard,English,5B0C8F83,https://feuniverse.us/t/the-empires-reach-revisited/6954/1
+390,Armour Emblem,Reskin,USA,helix0981,English,9FE8FDA0,https://feuniverse.us/t/side-project-armor-emblem-fe8/7151
+391,Not Fire Emblem 8,Reskin,USA,Ephraim225,English,FEEA2917,https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030
+392,Perfect Emblem,Reskin,USA,DaVinci-Galileo-Newton2.0,English,3A687B2F,https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667
+393,FE8 Maniac Mode,Reskin,USA,Lolina,English,B4861FCA,https://feuniverse.us/t/fe8mm-version-2/7677
+394,Fort Mangs Emblem,Reskin,USA,Mangs community members,English,CADC97EB,https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906
+395,Midnight Eclipse (Joke hack),Reskin,USA,Vesly,English,2865D6CE,https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321
+396,FE8 Changes Lite,Reskin,USA,Stylus,English,E41E4C1E,https://feuniverse.us/t/fe8-changes-lite-patch/8874
+397,FE8 Project Dark,Reskin,USA,ToGY,English,4B31296B,https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158
+398,Sacred Stones Death Difficulty,Reskin,USA,Slimjim8345,English,35D91A7C,https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty
+399,FE8 Redux,Reskin,USA,Azreal25,English,B767B1DD,https://feuniverse.us/t/fe8-redux-v2-1-complete/13751
+400,FE8 Fanmade Directors Cut,Reskin,USA,KaidenMelon,English,A7A210D5,https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029
+401,FE8 The Fallen Princess,Reskin,USA,Ema Colito,English,3C806E93,https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317
+402,Touhou Emblem 8 - The Sacred Shrines,Reskin,Japan,redeyesblackdrag0n,Japanese,E18FC466,https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117
+403,"FE8 Oops, All Archers!",Reskin,USA,HeroicVileplume,English,0C7A2625,https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253
+404,FE8BEWHABEWAASAHIHI,Reskin,USA,redeyesblackdrag0n,English,2BB3FD58,https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7

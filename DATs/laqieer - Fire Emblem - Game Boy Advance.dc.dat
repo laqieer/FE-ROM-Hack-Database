@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220319
+	Version: 20220320
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -30,6 +30,10 @@ game (
 game (
 	name "Antagonist Emblem.zip"
 	file ( name 169 - Antagonist Emblem size 17515204 crc 13983cfb )
+)
+game (
+	name "Armour Emblem.zip"
+	file ( name 390 - Armour Emblem size 19049856 crc 9fe8fda0 )
 )
 game (
 	name "Athos Mode.zip"
@@ -104,6 +108,18 @@ game (
 	file ( name 230 - Call of the Armor size 20330124 crc 688794f7 )
 )
 game (
+	name "Cancer Emblem 0 - Joke Hack.zip"
+	file ( name 354 - Cancer Emblem 0 - Joke Hack size 16814840 crc 1d729c3e )
+)
+game (
+	name "Cancer Emblem 1 - Dazzle-Lunge Emblem.zip"
+	file ( name 353 - Cancer Emblem 1 - Dazzle-Lunge Emblem size 16816800 crc 1ea8b476 )
+)
+game (
+	name "Cancer Emblem 2 - Min-Max Emblem.zip"
+	file ( name 352 - Cancer Emblem 2 - Min-Max Emblem size 17344212 crc 937079aa )
+)
+game (
 	name "Carcino’s Civil War.zip"
 	file ( name 119 - Carcino’s Civil War size 17378852 crc 88a038ec )
 )
@@ -114,6 +130,10 @@ game (
 game (
 	name "Chronicles of Lussaria.zip"
 	file ( name 250 - Chronicles of Lussaria size 17605868 crc bee51b0b )
+)
+game (
+	name "Communist Emblem 2 - Venezuela.zip"
+	file ( name 355 - Communist Emblem 2 - Venezuela size 17175216 crc 9948f176 )
 )
 game (
 	name "Cornwell’s Ascension.zip"
@@ -312,6 +332,66 @@ game (
 	file ( name 109 - FE7if size 33554432 crc 6eca79ce )
 )
 game (
+	name "FE8 All Weapons are Devil Weapons.zip"
+	file ( name 384 - FE8 All Weapons are Devil Weapons size 16777216 crc 711edbc9 )
+)
+game (
+	name "FE8 Boss Recruitment (Ephraim Route).zip"
+	file ( name 366 - FE8 Boss Recruitment (Ephraim Route) size 17208220 crc 6fa24ab4 )
+)
+game (
+	name "FE8 Changes Lite.zip"
+	file ( name 396 - FE8 Changes Lite size 16795848 crc e41e4c1e )
+)
+game (
+	name "FE8 Chaos Randomizer (Normal recruitment, original base stats).zip"
+	file ( name 368 - FE8 Chaos Randomizer (Normal recruitment, original base stats) size 17060990 crc bff6749e )
+)
+game (
+	name "FE8 Chaos Randomizer (Normal recruitment, randomized base stats).zip"
+	file ( name 369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats) size 17060850 crc ae757366 )
+)
+game (
+	name "FE8 Chaos Randomizer (Random recruitment, original base stats).zip"
+	file ( name 372 - FE8 Chaos Randomizer (Random recruitment, original base stats) size 17060850 crc 4eec4cf1 )
+)
+game (
+	name "FE8 Chaos Randomizer (Random recruitment, randomized base stats).zip"
+	file ( name 373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats) size 17061057 crc 319c60ec )
+)
+game (
+	name "FE8 Chaos Randomizer (Reverse recruitment, original base stats).zip"
+	file ( name 370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats) size 17060992 crc 01637d87 )
+)
+game (
+	name "FE8 Chaos Randomizer (Reverse recruitment, randomized base stats).zip"
+	file ( name 371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats) size 17061045 crc f6ffef3c )
+)
+game (
+	name "FE8 Creature Campaign Reverse Recruitment (Eirika).zip"
+	file ( name 379 - FE8 Creature Campaign Reverse Recruitment (Eirika) size 16799568 crc 53f063ca )
+)
+game (
+	name "FE8 Creature Campaign Reverse Recruitment (Ephraim).zip"
+	file ( name 380 - FE8 Creature Campaign Reverse Recruitment (Ephraim) size 16802988 crc 1cddfc8d )
+)
+game (
+	name "FE8 Fanmade Directors Cut.zip"
+	file ( name 400 - FE8 Fanmade Directors Cut size 21871792 crc a7a210d5 )
+)
+game (
+	name "FE8 Lyn Windy.zip"
+	file ( name 374 - FE8 Lyn Windy size 17203948 crc c7a95be3 )
+)
+game (
+	name "FE8 Maniac Mode.zip"
+	file ( name 393 - FE8 Maniac Mode size 16863800 crc b4861fca )
+)
+game (
+	name "FE8 Master Version.zip"
+	file ( name 378 - FE8 Master Version size 16822640 crc 51b9c9db )
+)
+game (
 	name "FE8 midori (Green).zip"
 	file ( name 176 - FE8 midori (Green) size 33554432 crc 25d88b16 )
 )
@@ -320,12 +400,68 @@ game (
 	file ( name 177 - FE8 midori (Green) (English Translation) size 33554432 crc 4279b308 )
 )
 game (
+	name "FE8 Negative Growths.zip"
+	file ( name 367 - FE8 Negative Growths size 16777216 crc 3c7352c1 )
+)
+game (
+	name "FE8 Oops, All Archers!.zip"
+	file ( name 403 - FE8 Oops, All Archers! size 16912200 crc 0c7a2625 )
+)
+game (
+	name "FE8 Project Dark.zip"
+	file ( name 397 - FE8 Project Dark size 17578004 crc 4b31296b )
+)
+game (
+	name "FE8 QoL Edition.zip"
+	file ( name 375 - FE8 QoL Edition size 16802916 crc f45762e5 )
+)
+game (
+	name "FE8 Redux.zip"
+	file ( name 399 - FE8 Redux size 29224272 crc b767b1dd )
+)
+game (
+	name "FE8 Remix.zip"
+	file ( name 388 - FE8 Remix size 24792284 crc 98a5a872 )
+)
+game (
+	name "FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode).zip"
+	file ( name 351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode) size 28528740 crc 2e232219 )
+)
+game (
+	name "FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage).zip"
+	file ( name 350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage) size 27797400 crc f0217101 )
+)
+game (
+	name "FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage).zip"
+	file ( name 349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage) size 27797400 crc 66e98aba )
+)
+game (
+	name "FE8 The Fallen Princess.zip"
+	file ( name 401 - FE8 The Fallen Princess size 21021140 crc 3c806e93 )
+)
+game (
+	name "FE8 Weapon Reversal.zip"
+	file ( name 376 - FE8 Weapon Reversal size 18248732 crc b069af12 )
+)
+game (
+	name "FE8 Wild Mode.zip"
+	file ( name 385 - FE8 Wild Mode size 16816344 crc 00db28f0 )
+)
+game (
 	name "FE8_GIRLS.zip"
 	file ( name 174 - FE8_GIRLS size 16777216 crc 214b26b9 )
 )
 game (
 	name "FE8_GIRLS (English Translation).zip"
 	file ( name 175 - FE8_GIRLS (English Translation) size 16777216 crc d98445bc )
+)
+game (
+	name "FE8BEWHABEWAASAHIHI.zip"
+	file ( name 404 - FE8BEWHABEWAASAHIHI size 16818460 crc 2bb3fd58 )
+)
+game (
+	name "FE8ESHGBTGISTTM.zip"
+	file ( name 387 - FE8ESHGBTGISTTM size 16809264 crc 17c71c14 )
 )
 game (
 	name "Fe 8 Chess.zip"
@@ -346,6 +482,10 @@ game (
 game (
 	name "FEU Gacha.zip"
 	file ( name 168 - FEU Gacha size 16777216 crc 35c74672 )
+)
+game (
+	name "FE聖魔　適当に改造 まるっと全部修正.zip"
+	file ( name 364 - FE聖魔　適当に改造 まるっと全部修正 size 16963116 crc 3b72f7dc )
 )
 game (
 	name "Fire Emblem 6.7.zip"
@@ -612,6 +752,10 @@ game (
 	file ( name 244 - Foreboding Dusk size 16888400 crc 2220983b )
 )
 game (
+	name "Fort Mangs Emblem.zip"
+	file ( name 394 - Fort Mangs Emblem size 20269072 crc cadc97eb )
+)
+game (
 	name "Four Kings - Deposition.zip"
 	file ( name 208 - Four Kings - Deposition size 29771900 crc 583bf142 )
 )
@@ -630,6 +774,10 @@ game (
 game (
 	name "Gheb Saga.zip"
 	file ( name 245 - Gheb Saga size 26416180 crc 6fb3ca5a )
+)
+game (
+	name "GhebFE.zip"
+	file ( name 381 - GhebFE size 18874368 crc daa23525 )
 )
 game (
 	name "Grand Archipelago.zip"
@@ -704,6 +852,10 @@ game (
 	file ( name 340 - Lord Weapons Patch Rebalance size 16833072 crc 85a80d99 )
 )
 game (
+	name "Lute Emblem - The Sacred Lutes.zip"
+	file ( name 377 - Lute Emblem - The Sacred Lutes size 16993256 crc 5c7d8d3f )
+)
+game (
 	name "Lyn Emblem.zip"
 	file ( name 346 - Lyn Emblem size 17039860 crc 63b047ee )
 )
@@ -714,6 +866,10 @@ game (
 game (
 	name "Marc’s Precious - Revenge.zip"
 	file ( name 170 - Marc’s Precious - Revenge size 17332276 crc 4426c3f9 )
+)
+game (
+	name "Midnight Eclipse (Joke hack).zip"
+	file ( name 395 - Midnight Eclipse (Joke hack) size 16959580 crc 2865d6ce )
 )
 game (
 	name "Midnight Sun.zip"
@@ -740,6 +896,10 @@ game (
 	file ( name 257 - Nintenlord Saga size 16808391 crc db833f55 )
 )
 game (
+	name "Not Fire Emblem 8.zip"
+	file ( name 391 - Not Fire Emblem 8 size 16777216 crc feea2917 )
+)
+game (
 	name "One-Turn-Clear.zip"
 	file ( name 151 - One-Turn-Clear size 16806828 crc e930a809 )
 )
@@ -758,6 +918,10 @@ game (
 game (
 	name "Path of a Hero (DLC Lloyd’s Story).zip"
 	file ( name 345 - Path of a Hero (DLC Lloyd’s Story) size 18915800 crc 990fd8ae )
+)
+game (
+	name "Perfect Emblem.zip"
+	file ( name 392 - Perfect Emblem size 18174872 crc 3a687b2f )
 )
 game (
 	name "Pick my Sabotage.zip"
@@ -816,6 +980,10 @@ game (
 	file ( name 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment) size 25877192 crc bdf5dc0e )
 )
 game (
+	name "Psychic Emblem (weapons and classes overhaul).zip"
+	file ( name 347 - Psychic Emblem (weapons and classes overhaul) size 17770636 crc 5b763687 )
+)
+game (
 	name "Puzzle Emblem.zip"
 	file ( name 189 - Puzzle Emblem size 16824428 crc 83fc3242 )
 )
@@ -826,6 +994,10 @@ game (
 game (
 	name "Rart Emblem - Halloween.zip"
 	file ( name 159 - Rart Emblem - Halloween size 17308636 crc 61dad746 )
+)
+game (
+	name "Rart Emblem Zero - The Rarted Stones.zip"
+	file ( name 348 - Rart Emblem Zero - The Rarted Stones size 19326044 crc 2a4ab263 )
 )
 game (
 	name "Requiem.zip"
@@ -880,6 +1052,46 @@ game (
 	file ( name 132 - Sacred Contention (Still Mode) size 19125992 crc c2e7e8ea )
 )
 game (
+	name "Sacred Eirika.zip"
+	file ( name 365 - Sacred Eirika size 19645624 crc a0612059 )
+)
+game (
+	name "Sacred Stones Death Difficulty.zip"
+	file ( name 398 - Sacred Stones Death Difficulty size 16782360 crc 35d91a7c )
+)
+game (
+	name "Sacred Trilogy Final -Full- Fixed Growths- No AI.zip"
+	file ( name 358 - Sacred Trilogy Final -Full- Fixed Growths- No AI size 33532712 crc 9c1dd2f3 )
+)
+game (
+	name "Sacred Trilogy Final -Full- Fixed Growths- With AI.zip"
+	file ( name 359 - Sacred Trilogy Final -Full- Fixed Growths- With AI size 33532712 crc 8ef775b9 )
+)
+game (
+	name "Sacred Trilogy Final -Full- Random Growths- No AI.zip"
+	file ( name 356 - Sacred Trilogy Final -Full- Random Growths- No AI size 33532712 crc 37a12e0d )
+)
+game (
+	name "Sacred Trilogy Final -Full- Random Growths- With AI.zip"
+	file ( name 357 - Sacred Trilogy Final -Full- Random Growths- With AI size 33532712 crc ade61296 )
+)
+game (
+	name "Sacred Trilogy Final -Lite- Fixed Growths- No AI.zip"
+	file ( name 362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI size 33531144 crc ca84d5bb )
+)
+game (
+	name "Sacred Trilogy Final -Lite- Fixed Growths- With AI.zip"
+	file ( name 363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI size 33531144 crc fa820e65 )
+)
+game (
+	name "Sacred Trilogy Final -Lite- Random Growths- No AI.zip"
+	file ( name 360 - Sacred Trilogy Final -Lite- Random Growths- No AI size 33531144 crc 4dd7ec11 )
+)
+game (
+	name "Sacred Trilogy Final -Lite- Random Growths- With AI.zip"
+	file ( name 361 - Sacred Trilogy Final -Lite- Random Growths- With AI size 33531144 crc c31dc48b )
+)
+game (
 	name "Saga of the Shivering Shores.zip"
 	file ( name 194 - Saga of the Shivering Shores size 17841112 crc ad3d8b29 )
 )
@@ -894,6 +1106,10 @@ game (
 game (
 	name "Shining Armor.zip"
 	file ( name 102 - Shining Armor size 16788636 crc 67368bbb )
+)
+game (
+	name "SirSerenes FE8 Reskin.zip"
+	file ( name 382 - SirSerenes FE8 Reskin size 16777288 crc 2b74a740 )
 )
 game (
 	name "Slot Machine.zip"
@@ -926,6 +1142,10 @@ game (
 game (
 	name "Tale of Ternon.zip"
 	file ( name 289 - Tale of Ternon size 18452460 crc fb829219 )
+)
+game (
+	name "Tales of the Emblem.zip"
+	file ( name 383 - Tales of the Emblem size 16866208 crc 960d475e )
 )
 game (
 	name "The Binding Bartre.zip"
@@ -970,6 +1190,10 @@ game (
 game (
 	name "The Dragon Herald (DSSave).zip"
 	file ( name 153 - The Dragon Herald (DSSave) size 25565628 crc 24eaa892 )
+)
+game (
+	name "The Empire’s Reach Revisited.zip"
+	file ( name 389 - The Empire’s Reach Revisited size 16788832 crc 5b0c8f83 )
 )
 game (
 	name "The Final Swear 2.zip"
@@ -1024,6 +1248,10 @@ game (
 	file ( name 186 - The Sacred Chairs (Boss Version) size 24231680 crc 34d15caf )
 )
 game (
+	name "The Sacred Ripping Anniversary Edition.zip"
+	file ( name 386 - The Sacred Ripping Anniversary Edition size 20858336 crc 7ee376fa )
+)
+game (
 	name "The Sacred War (Final Update - v1.51).zip"
 	file ( name 173 - The Sacred War (Final Update - v1 size 31187848 crc 8dc775b2 )
 )
@@ -1042,6 +1270,10 @@ game (
 game (
 	name "Tirado Emblem.zip"
 	file ( name 282 - Tirado Emblem size 18775380 crc 5bb0ae74 )
+)
+game (
+	name "Touhou Emblem 8 - The Sacred Shrines.zip"
+	file ( name 402 - Touhou Emblem 8 - The Sacred Shrines size 17869900 crc e18fc466 )
 )
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.zip"

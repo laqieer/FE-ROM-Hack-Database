@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>183 - 2 Princesses</title>
+		<title>2 Princesses</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -68,6 +68,19 @@
 	</software>
 	<software>
 		<title>Antagonist Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Armour Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -314,6 +327,45 @@
 		</dump>
 	</software>
 	<software>
+		<title>Cancer Emblem 0 - Joke Hack</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Cancer Emblem 1 - Dazzle-Lunge Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Cancer Emblem 2 - Min-Max Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Carcino’s Civil War</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -341,6 +393,19 @@
 	</software>
 	<software>
 		<title>Chronicles of Lussaria</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Communist Emblem 2 - Venezuela</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -990,6 +1055,201 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 All Weapons are Devil Weapons</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Boss Recruitment (Ephraim Route)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Changes Lite</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Normal recruitment, original base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Random recruitment, original base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Random recruitment, randomized base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Reverse recruitment, original base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Creature Campaign Reverse Recruitment (Eirika)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Creature Campaign Reverse Recruitment (Ephraim)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Fanmade Directors Cut</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Lyn Windy</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Maniac Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Master Version</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 midori (Green)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1016,6 +1276,162 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Negative Growths</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Oops, All Archers!</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Project Dark</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 QoL Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Redux</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Remix</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 The Fallen Princess</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Weapon Reversal</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Wild Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8_GIRLS</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1030,6 +1446,32 @@
 	</software>
 	<software>
 		<title>FE8_GIRLS (English Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8BEWHABEWAASAHIHI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8ESHGBTGISTTM</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1095,6 +1537,19 @@
 	</software>
 	<software>
 		<title>FEU Gacha</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE聖魔　適当に改造 まるっと全部修正</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1965,6 +2420,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fort Mangs Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Four Kings - Deposition</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2018,6 +2486,19 @@
 	</software>
 	<software>
 		<title>Gheb Saga</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>GhebFE</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2264,6 +2745,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Lute Emblem - The Sacred Lutes</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Lyn Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2291,6 +2785,19 @@
 	</software>
 	<software>
 		<title>Marc’s Precious - Revenge</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Midnight Eclipse (Joke hack)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2381,6 +2888,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Not Fire Emblem 8</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>One-Turn-Clear</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2434,6 +2954,19 @@
 	</software>
 	<software>
 		<title>Path of a Hero (DLC Lloyd’s Story)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Perfect Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2628,6 +3161,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Psychic Emblem (weapons and classes overhaul)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Puzzle Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2655,6 +3201,19 @@
 	</software>
 	<software>
 		<title>Rart Emblem - Halloween</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Rart Emblem Zero - The Rarted Stones</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2836,6 +3395,136 @@
 		</dump>
 	</software>
 	<software>
+		<title>Sacred Eirika</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Stones Death Difficulty</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Full- Fixed Growths- No AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Full- Fixed Growths- With AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Full- Random Growths- No AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Full- Random Growths- With AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Lite- Fixed Growths- No AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Lite- Fixed Growths- With AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Lite- Random Growths- No AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sacred Trilogy Final -Lite- Random Growths- With AI</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Saga of the Shivering Shores</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2876,6 +3565,19 @@
 	</software>
 	<software>
 		<title>Shining Armor</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>SirSerenes FE8 Reskin</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2980,6 +3682,19 @@
 	</software>
 	<software>
 		<title>Tale of Ternon</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Tales of the Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3123,6 +3838,19 @@
 	</software>
 	<software>
 		<title>The Dragon Herald (DSSave)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Empire’s Reach Revisited</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3304,6 +4032,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Sacred Ripping Anniversary Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Sacred War (Final Update - v1.51)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -3357,6 +4098,19 @@
 	</software>
 	<software>
 		<title>Tirado Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Touhou Emblem 8 - The Sacred Shrines</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

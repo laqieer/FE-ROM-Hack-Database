@@ -4,6 +4,7 @@
 286 - A Sacred Dawn
 285 - A Sacred Dawn DX
 169 - Antagonist Emblem
+390 - Armour Emblem
 262 - Athos Mode
 254 - Atirian Conquest
 212 - B3L-H411-A
@@ -22,9 +23,13 @@
 296 - Broken Emblem
 158 - BS Fire Emblem - Archanea Saga
 230 - Call of the Armor
+354 - Cancer Emblem 0 - Joke Hack
+353 - Cancer Emblem 1 - Dazzle-Lunge Emblem
+352 - Cancer Emblem 2 - Min-Max Emblem
 119 - Carcino’s Civil War
 121 - Christmas Crossover Carol
 250 - Chronicles of Lussaria
+355 - Communist Emblem 2 - Venezuela
 138 - Cornwell’s Ascension
 107 - Corrupt Theocracy
 265 - Crossover Hack
@@ -74,15 +79,45 @@
 112 - FE7 Inflation
 341 - FE7 Lute Mode
 109 - FE7if
+384 - FE8 All Weapons are Devil Weapons
+366 - FE8 Boss Recruitment (Ephraim Route)
+396 - FE8 Changes Lite
+368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)
+369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)
+372 - FE8 Chaos Randomizer (Random recruitment, original base stats)
+373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)
+370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)
+371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)
+379 - FE8 Creature Campaign Reverse Recruitment (Eirika)
+380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)
+400 - FE8 Fanmade Directors Cut
+374 - FE8 Lyn Windy
+393 - FE8 Maniac Mode
+378 - FE8 Master Version
 176 - FE8 midori (Green)
 177 - FE8 midori (Green) (English Translation)
+367 - FE8 Negative Growths
+403 - FE8 Oops, All Archers!
+397 - FE8 Project Dark
+375 - FE8 QoL Edition
+399 - FE8 Redux
+388 - FE8 Remix
+351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)
+350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)
+349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)
+401 - FE8 The Fallen Princess
+376 - FE8 Weapon Reversal
+385 - FE8 Wild Mode
 174 - FE8_GIRLS
 175 - FE8_GIRLS (English Translation)
+404 - FE8BEWHABEWAASAHIHI
+387 - FE8ESHGBTGISTTM
 241 - Fe 8 Chess
 198 - FE but it’s my Biology Homework
 213 - FE The Grand Uprising
 214 - FE The Grand Uprising (Blue default player phase map sprite palette)
 168 - FEU Gacha
+364 - FE聖魔　適当に改造 まるっと全部修正
 324 - Fire Emblem 6
 5 - Fire Emblem (Europe) (En,Es,It)
 4 - Fire Emblem (Europe) (En,Fr,De)
@@ -149,11 +184,13 @@
 239 - Flames of Redemption
 240 - Flames of Redemption (supports unlocked)
 244 - Foreboding Dusk
+394 - Fort Mangs Emblem
 208 - Four Kings - Deposition
 209 - Free for All
 166 - Gay Baby Emblem
 259 - GFE1R
 245 - Gheb Saga
+381 - GhebFE
 249 - Grand Archipelago
 154 - Heaven’s Bloom
 163 - Hector Saves Christmas
@@ -172,20 +209,24 @@
 255 - League of Champions (Patch1)
 256 - League of Champions (Patch2)
 340 - Lord Weapons Patch Rebalance
+377 - Lute Emblem - The Sacred Lutes
 346 - Lyn Emblem
 125 - Maiden Quest
 170 - Marc’s Precious - Revenge
+395 - Midnight Eclipse (Joke hack)
 266 - Midnight Sun
 238 - Myrm Emblem
 199 - Narcian and the Mirror Chamber
 222 - Necrosis Among the Living (Main hack)
 223 - Necrosis Among the Living (Prequel)
 257 - Nintenlord Saga
+391 - Not Fire Emblem 8
 151 - One-Turn-Clear
 171 - One-Week Hack
 329 - Oops! All Sophias
 344 - Path of a Hero
 345 - Path of a Hero (DLC Lloyd’s Story)
+392 - Perfect Emblem
 342 - Pick my Sabotage
 140 - Prisoner of Darkness
 133 - Prisoner of Darkness (Hard Mode)
@@ -200,9 +241,11 @@
 317 - Project Ember (Weapon Reversal) (Reverse Recruitment)
 318 - Project Ember (with Alternate Promotions)
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)
+347 - Psychic Emblem (weapons and classes overhaul)
 189 - Puzzle Emblem
 137 - Ragefest 5 DLC
 159 - Rart Emblem - Halloween
+348 - Rart Emblem Zero - The Rarted Stones
 113 - Requiem
 160 - Resident Emblem 8
 144 - Resonance
@@ -216,10 +259,21 @@
 130 - Sacred Contention (E-Rank Mode)
 131 - Sacred Contention (No Supports Mode)
 132 - Sacred Contention (Still Mode)
+365 - Sacred Eirika
+398 - Sacred Stones Death Difficulty
+358 - Sacred Trilogy Final -Full- Fixed Growths- No AI
+359 - Sacred Trilogy Final -Full- Fixed Growths- With AI
+356 - Sacred Trilogy Final -Full- Random Growths- No AI
+357 - Sacred Trilogy Final -Full- Random Growths- With AI
+362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI
+363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI
+360 - Sacred Trilogy Final -Lite- Random Growths- No AI
+361 - Sacred Trilogy Final -Lite- Random Growths- With AI
 194 - Saga of the Shivering Shores
 200 - Scarlet Rising
 167 - Self-Randomising Rom
 102 - Shining Armor
+382 - SirSerenes FE8 Reskin
 215 - Slot Machine
 269 - Staff of Ages
 271 - Staff of Ages (0% Growths)
@@ -228,6 +282,7 @@
 236 - Storge
 295 - Sword of Seals ReDux
 289 - Tale of Ternon
+383 - Tales of the Emblem
 322 - The Binding Bartre
 323 - The Binding Bartre (with effectiveness and AI fixes)
 248 - The Blade’s Legacy Spreading Flames
@@ -239,6 +294,7 @@
 202 - The Dark Hour (Hard Mode)
 152 - The Dragon Herald
 153 - The Dragon Herald (DSSave)
+389 - The Empire’s Reach Revisited
 191 - The Final Swear 2
 192 - The Final Swear 4
 205 - The Four Kings
@@ -252,11 +308,13 @@
 185 - The Sacred Chairs
 187 - The Sacred Chairs (0% Growths Version)
 186 - The Sacred Chairs (Boss Version)
+386 - The Sacred Ripping Anniversary Edition
 173 - The Sacred War (Final Update - v1
 172 - The Sacred War (Starting Version - v1
 217 - The Sun God’s Wrath
 218 - The Sun God’s Wrath (0 growth)
 282 - Tirado Emblem
+402 - Touhou Emblem 8 - The Sacred Shrines
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
 258 - Typhon’s Wake
 136 - Unburdened Liberty

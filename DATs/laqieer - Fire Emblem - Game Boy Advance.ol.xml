@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>276</datVersion>
+		<datVersion>334</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -147,6 +147,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>390 - Armour Emblem</title>
+			<saveType>None</saveType>
+			<romSize>19049856</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9FE8FDA0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/side-project-armor-emblem-fe8/7151</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -476,6 +494,60 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>354 - Cancer Emblem 0 - Joke Hack</title>
+			<saveType>None</saveType>
+			<romSize>16814840</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1D729C3E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>353 - Cancer Emblem 1 - Dazzle-Lunge Emblem</title>
+			<saveType>None</saveType>
+			<romSize>16816800</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1EA8B476</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>352 - Cancer Emblem 2 - Min-Max Emblem</title>
+			<saveType>None</saveType>
+			<romSize>17344212</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">937079AA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>119 - Carcino’s Civil War</title>
 			<saveType>None</saveType>
 			<romSize>17378852</romSize>
@@ -525,6 +597,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/35943-fire-mumblem-the-chronicles-of-lussaria-beta-1-released-122014/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>355 - Communist Emblem 2 - Venezuela</title>
+			<saveType>None</saveType>
+			<romSize>17175216</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9948F176</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/communist-emblem-2-venezuela/3573</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1412,6 +1502,276 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>384 - FE8 All Weapons are Devil Weapons</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">711EDBC9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/Adamminn/FE8-devil-weapons</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>366 - FE8 Boss Recruitment (Ephraim Route)</title>
+			<saveType>None</saveType>
+			<romSize>17208220</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6FA24AB4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>396 - FE8 Changes Lite</title>
+			<saveType>None</saveType>
+			<romSize>16795848</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E41E4C1E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-changes-lite-patch/8874</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17060990</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BFF6749E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17060850</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AE757366</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>372 - FE8 Chaos Randomizer (Random recruitment, original base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17060850</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4EEC4CF1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17061057</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">319C60EC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17060992</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">01637D87</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</title>
+			<saveType>None</saveType>
+			<romSize>17061045</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F6FFEF3C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>379 - FE8 Creature Campaign Reverse Recruitment (Eirika)</title>
+			<saveType>None</saveType>
+			<romSize>16799568</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">53F063CA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)</title>
+			<saveType>None</saveType>
+			<romSize>16802988</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1CDDFC8D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>400 - FE8 Fanmade Directors Cut</title>
+			<saveType>None</saveType>
+			<romSize>21871792</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A7A210D5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>374 - FE8 Lyn Windy</title>
+			<saveType>None</saveType>
+			<romSize>17203948</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C7A95BE3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>リーンの風</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>393 - FE8 Maniac Mode</title>
+			<saveType>None</saveType>
+			<romSize>16863800</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B4861FCA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8mm-version-2/7677</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>378 - FE8 Master Version</title>
+			<saveType>None</saveType>
+			<romSize>16822640</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">51B9C9DB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>176 - FE8 midori (Green)</title>
 			<saveType>None</saveType>
 			<romSize>33554432</romSize>
@@ -1448,6 +1808,222 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>367 - FE8 Negative Growths</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3C7352C1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-negative-growths/4547</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>403 - FE8 Oops, All Archers!</title>
+			<saveType>None</saveType>
+			<romSize>16912200</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0C7A2625</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>397 - FE8 Project Dark</title>
+			<saveType>None</saveType>
+			<romSize>17578004</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4B31296B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>375 - FE8 QoL Edition</title>
+			<saveType>None</saveType>
+			<romSize>16802916</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F45762E5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-qol-edition/3509</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>399 - FE8 Redux</title>
+			<saveType>None</saveType>
+			<romSize>29224272</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B767B1DD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-redux-v2-1-complete/13751</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>388 - FE8 Remix</title>
+			<saveType>None</saveType>
+			<romSize>24792284</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">98A5A872</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</title>
+			<saveType>None</saveType>
+			<romSize>28528740</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2E232219</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</title>
+			<saveType>None</saveType>
+			<romSize>27797400</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F0217101</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</title>
+			<saveType>None</saveType>
+			<romSize>27797400</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">66E98ABA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>401 - FE8 The Fallen Princess</title>
+			<saveType>None</saveType>
+			<romSize>21021140</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3C806E93</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>376 - FE8 Weapon Reversal</title>
+			<saveType>None</saveType>
+			<romSize>18248732</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B069AF12</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>385 - FE8 Wild Mode</title>
+			<saveType>None</saveType>
+			<romSize>16816344</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">00DB28F0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-wild-mode/6361</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>174 - FE8_GIRLS</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -1479,6 +2055,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>404 - FE8BEWHABEWAASAHIHI</title>
+			<saveType>None</saveType>
+			<romSize>16818460</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2BB3FD58</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>387 - FE8ESHGBTGISTTM</title>
+			<saveType>None</saveType>
+			<romSize>16809264</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">17C71C14</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1569,6 +2181,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>364 - FE聖魔　適当に改造 まるっと全部修正</title>
+			<saveType>None</saveType>
+			<romSize>16963116</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3B72F7DC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2552,7 +3183,7 @@
 			<title>101 - Fire Emblem - Will of Good and Evil</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Reskin</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2765,6 +3396,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>394 - Fort Mangs Emblem</title>
+			<saveType>None</saveType>
+			<romSize>20269072</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CADC97EB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>208 - Four Kings - Deposition</title>
 			<saveType>None</saveType>
 			<romSize>29771900</romSize>
@@ -2850,6 +3499,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>381 - GhebFE</title>
+			<saveType>None</saveType>
+			<romSize>18874368</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DAA23525</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3179,6 +3846,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>377 - Lute Emblem - The Sacred Lutes</title>
+			<saveType>None</saveType>
+			<romSize>16993256</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5C7D8D3F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>346 - Lyn Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17039860</romSize>
@@ -3228,6 +3913,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>395 - Midnight Eclipse (Joke hack)</title>
+			<saveType>None</saveType>
+			<romSize>16959580</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2865D6CE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3341,6 +4044,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>391 - Not Fire Emblem 8</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FEEA2917</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>151 - One-Turn-Clear</title>
 			<saveType>None</saveType>
 			<romSize>16806828</romSize>
@@ -3426,6 +4147,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>392 - Perfect Emblem</title>
+			<saveType>None</saveType>
+			<romSize>18174872</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3A687B2F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3683,6 +4422,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>347 - Psychic Emblem (weapons and classes overhaul)</title>
+			<saveType>None</saveType>
+			<romSize>17770636</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5B763687</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>189 - Puzzle Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16824428</romSize>
@@ -3732,6 +4489,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>348 - Rart Emblem Zero - The Rarted Stones</title>
+			<saveType>None</saveType>
+			<romSize>19326044</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2A4AB263</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3971,6 +4746,186 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>365 - Sacred Eirika</title>
+			<saveType>None</saveType>
+			<romSize>19645624</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A0612059</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>398 - Sacred Stones Death Difficulty</title>
+			<saveType>None</saveType>
+			<romSize>16782360</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">35D91A7C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>358 - Sacred Trilogy Final -Full- Fixed Growths- No AI</title>
+			<saveType>None</saveType>
+			<romSize>33532712</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9C1DD2F3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>359 - Sacred Trilogy Final -Full- Fixed Growths- With AI</title>
+			<saveType>None</saveType>
+			<romSize>33532712</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8EF775B9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>356 - Sacred Trilogy Final -Full- Random Growths- No AI</title>
+			<saveType>None</saveType>
+			<romSize>33532712</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">37A12E0D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>357 - Sacred Trilogy Final -Full- Random Growths- With AI</title>
+			<saveType>None</saveType>
+			<romSize>33532712</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">ADE61296</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI</title>
+			<saveType>None</saveType>
+			<romSize>33531144</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CA84D5BB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI</title>
+			<saveType>None</saveType>
+			<romSize>33531144</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FA820E65</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>360 - Sacred Trilogy Final -Lite- Random Growths- No AI</title>
+			<saveType>None</saveType>
+			<romSize>33531144</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4DD7EC11</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>361 - Sacred Trilogy Final -Lite- Random Growths- With AI</title>
+			<saveType>None</saveType>
+			<romSize>33531144</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C31DC48B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>194 - Saga of the Shivering Shores</title>
 			<saveType>None</saveType>
 			<romSize>17841112</romSize>
@@ -4038,6 +4993,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>http://www.romhacking.net/hacks/538/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>382 - SirSerenes FE8 Reskin</title>
+			<saveType>None</saveType>
+			<romSize>16777288</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2B74A740</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4182,6 +5155,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/tale-of-ternon/6622</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>383 - Tales of the Emblem</title>
+			<saveType>None</saveType>
+			<romSize>16866208</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">960D475E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4380,6 +5371,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>389 - The Empire’s Reach Revisited</title>
+			<saveType>None</saveType>
+			<romSize>16788832</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5B0C8F83</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/the-empires-reach-revisited/6954/1</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4619,6 +5628,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>386 - The Sacred Ripping Anniversary Edition</title>
+			<saveType>None</saveType>
+			<romSize>20858336</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7EE376FA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/the-sacred-ripping/6253</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>173 - The Sacred War (Final Update - v1</title>
 			<saveType>None</saveType>
 			<romSize>31187848</romSize>
@@ -4704,6 +5731,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>402 - Touhou Emblem 8 - The Sacred Shrines</title>
+			<saveType>None</saveType>
+			<romSize>17869900</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E18FC466</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

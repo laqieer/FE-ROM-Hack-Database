@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="183 - 2 Princesses">
+	<machine name="2 Princesses">
 		<rom name="183 - 2 Princesses" size="24646064" crc="44f08e5b" />
 	</machine>
 	<machine name="2 Princesses (English Translation)">
@@ -17,6 +17,9 @@
 	</machine>
 	<machine name="Antagonist Emblem">
 		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</machine>
+	<machine name="Armour Emblem">
+		<rom name="390 - Armour Emblem" size="19049856" crc="9fe8fda0" />
 	</machine>
 	<machine name="Athos Mode">
 		<rom name="262 - Athos Mode" size="16788472" crc="2f511659" />
@@ -72,6 +75,15 @@
 	<machine name="Call of the Armor">
 		<rom name="230 - Call of the Armor" size="20330124" crc="688794f7" />
 	</machine>
+	<machine name="Cancer Emblem 0 - Joke Hack">
+		<rom name="354 - Cancer Emblem 0 - Joke Hack" size="16814840" crc="1d729c3e" />
+	</machine>
+	<machine name="Cancer Emblem 1 - Dazzle-Lunge Emblem">
+		<rom name="353 - Cancer Emblem 1 - Dazzle-Lunge Emblem" size="16816800" crc="1ea8b476" />
+	</machine>
+	<machine name="Cancer Emblem 2 - Min-Max Emblem">
+		<rom name="352 - Cancer Emblem 2 - Min-Max Emblem" size="17344212" crc="937079aa" />
+	</machine>
 	<machine name="Carcino’s Civil War">
 		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
 	</machine>
@@ -80,6 +92,9 @@
 	</machine>
 	<machine name="Chronicles of Lussaria">
 		<rom name="250 - Chronicles of Lussaria" size="17605868" crc="bee51b0b" />
+	</machine>
+	<machine name="Communist Emblem 2 - Venezuela">
+		<rom name="355 - Communist Emblem 2 - Venezuela" size="17175216" crc="9948f176" />
 	</machine>
 	<machine name="Cornwell’s Ascension">
 		<rom name="138 - Cornwell’s Ascension" size="17109180" crc="6ad635db" />
@@ -228,17 +243,104 @@
 	<machine name="FE7if">
 		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
 	</machine>
+	<machine name="FE8 All Weapons are Devil Weapons">
+		<rom name="384 - FE8 All Weapons are Devil Weapons" size="16777216" crc="711edbc9" />
+	</machine>
+	<machine name="FE8 Boss Recruitment (Ephraim Route)">
+		<rom name="366 - FE8 Boss Recruitment (Ephraim Route)" size="17208220" crc="6fa24ab4" />
+	</machine>
+	<machine name="FE8 Changes Lite">
+		<rom name="396 - FE8 Changes Lite" size="16795848" crc="e41e4c1e" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Normal recruitment, original base stats)">
+		<rom name="368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)" size="17060990" crc="bff6749e" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Normal recruitment, randomized base stats)">
+		<rom name="369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)" size="17060850" crc="ae757366" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Random recruitment, original base stats)">
+		<rom name="372 - FE8 Chaos Randomizer (Random recruitment, original base stats)" size="17060850" crc="4eec4cf1" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Random recruitment, randomized base stats)">
+		<rom name="373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)" size="17061057" crc="319c60ec" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Reverse recruitment, original base stats)">
+		<rom name="370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)" size="17060992" crc="01637d87" />
+	</machine>
+	<machine name="FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)">
+		<rom name="371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)" size="17061045" crc="f6ffef3c" />
+	</machine>
+	<machine name="FE8 Creature Campaign Reverse Recruitment (Eirika)">
+		<rom name="379 - FE8 Creature Campaign Reverse Recruitment (Eirika)" size="16799568" crc="53f063ca" />
+	</machine>
+	<machine name="FE8 Creature Campaign Reverse Recruitment (Ephraim)">
+		<rom name="380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)" size="16802988" crc="1cddfc8d" />
+	</machine>
+	<machine name="FE8 Fanmade Directors Cut">
+		<rom name="400 - FE8 Fanmade Directors Cut" size="21871792" crc="a7a210d5" />
+	</machine>
+	<machine name="FE8 Lyn Windy">
+		<rom name="374 - FE8 Lyn Windy" size="17203948" crc="c7a95be3" />
+	</machine>
+	<machine name="FE8 Maniac Mode">
+		<rom name="393 - FE8 Maniac Mode" size="16863800" crc="b4861fca" />
+	</machine>
+	<machine name="FE8 Master Version">
+		<rom name="378 - FE8 Master Version" size="16822640" crc="51b9c9db" />
+	</machine>
 	<machine name="FE8 midori (Green)">
 		<rom name="176 - FE8 midori (Green)" size="33554432" crc="25d88b16" />
 	</machine>
 	<machine name="FE8 midori (Green) (English Translation)">
 		<rom name="177 - FE8 midori (Green) (English Translation)" size="33554432" crc="4279b308" />
 	</machine>
+	<machine name="FE8 Negative Growths">
+		<rom name="367 - FE8 Negative Growths" size="16777216" crc="3c7352c1" />
+	</machine>
+	<machine name="FE8 Oops, All Archers!">
+		<rom name="403 - FE8 Oops, All Archers!" size="16912200" crc="0c7a2625" />
+	</machine>
+	<machine name="FE8 Project Dark">
+		<rom name="397 - FE8 Project Dark" size="17578004" crc="4b31296b" />
+	</machine>
+	<machine name="FE8 QoL Edition">
+		<rom name="375 - FE8 QoL Edition" size="16802916" crc="f45762e5" />
+	</machine>
+	<machine name="FE8 Redux">
+		<rom name="399 - FE8 Redux" size="29224272" crc="b767b1dd" />
+	</machine>
+	<machine name="FE8 Remix">
+		<rom name="388 - FE8 Remix" size="24792284" crc="98a5a872" />
+	</machine>
+	<machine name="FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)">
+		<rom name="351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)" size="28528740" crc="2e232219" />
+	</machine>
+	<machine name="FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)">
+		<rom name="350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)" size="27797400" crc="f0217101" />
+	</machine>
+	<machine name="FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)">
+		<rom name="349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)" size="27797400" crc="66e98aba" />
+	</machine>
+	<machine name="FE8 The Fallen Princess">
+		<rom name="401 - FE8 The Fallen Princess" size="21021140" crc="3c806e93" />
+	</machine>
+	<machine name="FE8 Weapon Reversal">
+		<rom name="376 - FE8 Weapon Reversal" size="18248732" crc="b069af12" />
+	</machine>
+	<machine name="FE8 Wild Mode">
+		<rom name="385 - FE8 Wild Mode" size="16816344" crc="00db28f0" />
+	</machine>
 	<machine name="FE8_GIRLS">
 		<rom name="174 - FE8_GIRLS" size="16777216" crc="214b26b9" />
 	</machine>
 	<machine name="FE8_GIRLS (English Translation)">
 		<rom name="175 - FE8_GIRLS (English Translation)" size="16777216" crc="d98445bc" />
+	</machine>
+	<machine name="FE8BEWHABEWAASAHIHI">
+		<rom name="404 - FE8BEWHABEWAASAHIHI" size="16818460" crc="2bb3fd58" />
+	</machine>
+	<machine name="FE8ESHGBTGISTTM">
+		<rom name="387 - FE8ESHGBTGISTTM" size="16809264" crc="17c71c14" />
 	</machine>
 	<machine name="Fe 8 Chess">
 		<rom name="241 - Fe 8 Chess" size="16806152" crc="d5ddb5e8" />
@@ -254,6 +356,9 @@
 	</machine>
 	<machine name="FEU Gacha">
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+	</machine>
+	<machine name="FE聖魔　適当に改造 まるっと全部修正">
+		<rom name="364 - FE聖魔　適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
 	</machine>
 	<machine name="Fire Emblem 6.7">
 		<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
@@ -453,6 +558,9 @@
 	<machine name="Foreboding Dusk">
 		<rom name="244 - Foreboding Dusk" size="16888400" crc="2220983b" />
 	</machine>
+	<machine name="Fort Mangs Emblem">
+		<rom name="394 - Fort Mangs Emblem" size="20269072" crc="cadc97eb" />
+	</machine>
 	<machine name="Four Kings - Deposition">
 		<rom name="208 - Four Kings - Deposition" size="29771900" crc="583bf142" />
 	</machine>
@@ -467,6 +575,9 @@
 	</machine>
 	<machine name="Gheb Saga">
 		<rom name="245 - Gheb Saga" size="26416180" crc="6fb3ca5a" />
+	</machine>
+	<machine name="GhebFE">
+		<rom name="381 - GhebFE" size="18874368" crc="daa23525" />
 	</machine>
 	<machine name="Grand Archipelago">
 		<rom name="249 - Grand Archipelago" size="19579000" crc="14b61c7e" />
@@ -522,6 +633,9 @@
 	<machine name="Lord Weapons Patch Rebalance">
 		<rom name="340 - Lord Weapons Patch Rebalance" size="16833072" crc="85a80d99" />
 	</machine>
+	<machine name="Lute Emblem - The Sacred Lutes">
+		<rom name="377 - Lute Emblem - The Sacred Lutes" size="16993256" crc="5c7d8d3f" />
+	</machine>
 	<machine name="Lyn Emblem">
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
@@ -530,6 +644,9 @@
 	</machine>
 	<machine name="Marc’s Precious - Revenge">
 		<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+	</machine>
+	<machine name="Midnight Eclipse (Joke hack)">
+		<rom name="395 - Midnight Eclipse (Joke hack)" size="16959580" crc="2865d6ce" />
 	</machine>
 	<machine name="Midnight Sun">
 		<rom name="266 - Midnight Sun" size="22743256" crc="8164eee8" />
@@ -549,6 +666,9 @@
 	<machine name="Nintenlord Saga">
 		<rom name="257 - Nintenlord Saga" size="16808391" crc="db833f55" />
 	</machine>
+	<machine name="Not Fire Emblem 8">
+		<rom name="391 - Not Fire Emblem 8" size="16777216" crc="feea2917" />
+	</machine>
 	<machine name="One-Turn-Clear">
 		<rom name="151 - One-Turn-Clear" size="16806828" crc="e930a809" />
 	</machine>
@@ -563,6 +683,9 @@
 	</machine>
 	<machine name="Path of a Hero (DLC Lloyd’s Story)">
 		<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="990fd8ae" />
+	</machine>
+	<machine name="Perfect Emblem">
+		<rom name="392 - Perfect Emblem" size="18174872" crc="3a687b2f" />
 	</machine>
 	<machine name="Pick my Sabotage">
 		<rom name="342 - Pick my Sabotage" size="16883688" crc="5529f7fe" />
@@ -606,6 +729,9 @@
 	<machine name="Project Ember (with Alternate Promotions) (Reverse Recruitment)">
 		<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
 	</machine>
+	<machine name="Psychic Emblem (weapons and classes overhaul)">
+		<rom name="347 - Psychic Emblem (weapons and classes overhaul)" size="17770636" crc="5b763687" />
+	</machine>
 	<machine name="Puzzle Emblem">
 		<rom name="189 - Puzzle Emblem" size="16824428" crc="83fc3242" />
 	</machine>
@@ -614,6 +740,9 @@
 	</machine>
 	<machine name="Rart Emblem - Halloween">
 		<rom name="159 - Rart Emblem - Halloween" size="17308636" crc="61dad746" />
+	</machine>
+	<machine name="Rart Emblem Zero - The Rarted Stones">
+		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
 	</machine>
 	<machine name="Requiem">
 		<rom name="113 - Requiem" size="18774856" crc="1225efff" />
@@ -654,6 +783,36 @@
 	<machine name="Sacred Contention (Still Mode)">
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
+	<machine name="Sacred Eirika">
+		<rom name="365 - Sacred Eirika" size="19645624" crc="a0612059" />
+	</machine>
+	<machine name="Sacred Stones Death Difficulty">
+		<rom name="398 - Sacred Stones Death Difficulty" size="16782360" crc="35d91a7c" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Full- Fixed Growths- No AI">
+		<rom name="358 - Sacred Trilogy Final -Full- Fixed Growths- No AI" size="33532712" crc="9c1dd2f3" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Full- Fixed Growths- With AI">
+		<rom name="359 - Sacred Trilogy Final -Full- Fixed Growths- With AI" size="33532712" crc="8ef775b9" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Full- Random Growths- No AI">
+		<rom name="356 - Sacred Trilogy Final -Full- Random Growths- No AI" size="33532712" crc="37a12e0d" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Full- Random Growths- With AI">
+		<rom name="357 - Sacred Trilogy Final -Full- Random Growths- With AI" size="33532712" crc="ade61296" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Lite- Fixed Growths- No AI">
+		<rom name="362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI" size="33531144" crc="ca84d5bb" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Lite- Fixed Growths- With AI">
+		<rom name="363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI" size="33531144" crc="fa820e65" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Lite- Random Growths- No AI">
+		<rom name="360 - Sacred Trilogy Final -Lite- Random Growths- No AI" size="33531144" crc="4dd7ec11" />
+	</machine>
+	<machine name="Sacred Trilogy Final -Lite- Random Growths- With AI">
+		<rom name="361 - Sacred Trilogy Final -Lite- Random Growths- With AI" size="33531144" crc="c31dc48b" />
+	</machine>
 	<machine name="Saga of the Shivering Shores">
 		<rom name="194 - Saga of the Shivering Shores" size="17841112" crc="ad3d8b29" />
 	</machine>
@@ -665,6 +824,9 @@
 	</machine>
 	<machine name="Shining Armor">
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
+	</machine>
+	<machine name="SirSerenes FE8 Reskin">
+		<rom name="382 - SirSerenes FE8 Reskin" size="16777288" crc="2b74a740" />
 	</machine>
 	<machine name="Slot Machine">
 		<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
@@ -689,6 +851,9 @@
 	</machine>
 	<machine name="Tale of Ternon">
 		<rom name="289 - Tale of Ternon" size="18452460" crc="fb829219" />
+	</machine>
+	<machine name="Tales of the Emblem">
+		<rom name="383 - Tales of the Emblem" size="16866208" crc="960d475e" />
 	</machine>
 	<machine name="The Binding Bartre">
 		<rom name="322 - The Binding Bartre" size="16793100" crc="b9605bae" />
@@ -722,6 +887,9 @@
 	</machine>
 	<machine name="The Dragon Herald (DSSave)">
 		<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
+	</machine>
+	<machine name="The Empire’s Reach Revisited">
+		<rom name="389 - The Empire’s Reach Revisited" size="16788832" crc="5b0c8f83" />
 	</machine>
 	<machine name="The Final Swear 2">
 		<rom name="191 - The Final Swear 2" size="18404968" crc="fb400d2d" />
@@ -762,6 +930,9 @@
 	<machine name="The Sacred Chairs (Boss Version)">
 		<rom name="186 - The Sacred Chairs (Boss Version)" size="24231680" crc="34d15caf" />
 	</machine>
+	<machine name="The Sacred Ripping Anniversary Edition">
+		<rom name="386 - The Sacred Ripping Anniversary Edition" size="20858336" crc="7ee376fa" />
+	</machine>
 	<machine name="The Sacred War (Final Update - v1.51)">
 		<rom name="173 - The Sacred War (Final Update - v1" size="31187848" crc="8dc775b2" />
 	</machine>
@@ -776,6 +947,9 @@
 	</machine>
 	<machine name="Tirado Emblem">
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />
+	</machine>
+	<machine name="Touhou Emblem 8 - The Sacred Shrines">
+		<rom name="402 - Touhou Emblem 8 - The Sacred Shrines" size="17869900" crc="e18fc466" />
 	</machine>
 	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin">
 		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />

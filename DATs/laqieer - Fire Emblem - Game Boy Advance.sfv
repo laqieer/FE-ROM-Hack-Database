@@ -4,6 +4,7 @@
 286 - A Sacred Dawn.gba 61c6a436
 285 - A Sacred Dawn DX.gba 651b8fa3
 169 - Antagonist Emblem.gba 13983cfb
+390 - Armour Emblem.gba 9fe8fda0
 262 - Athos Mode.gba 2f511659
 254 - Atirian Conquest.gba f2f006e1
 212 - B3L-H411-A.gba db73120f
@@ -22,9 +23,13 @@
 296 - Broken Emblem.gba 320cb889
 158 - BS Fire Emblem - Archanea Saga.gba 39abb64a
 230 - Call of the Armor.gba 688794f7
+354 - Cancer Emblem 0 - Joke Hack.gba 1d729c3e
+353 - Cancer Emblem 1 - Dazzle-Lunge Emblem.gba 1ea8b476
+352 - Cancer Emblem 2 - Min-Max Emblem.gba 937079aa
 119 - Carcino’s Civil War.gba 88a038ec
 121 - Christmas Crossover Carol.gba 676c6d7f
 250 - Chronicles of Lussaria.gba bee51b0b
+355 - Communist Emblem 2 - Venezuela.gba 9948f176
 138 - Cornwell’s Ascension.gba 6ad635db
 107 - Corrupt Theocracy.gba 928dbeb0
 265 - Crossover Hack.gba bc384a67
@@ -74,15 +79,45 @@
 112 - FE7 Inflation.gba 6ea83897
 341 - FE7 Lute Mode.gba 969bae21
 109 - FE7if.gba 6eca79ce
+384 - FE8 All Weapons are Devil Weapons.gba 711edbc9
+366 - FE8 Boss Recruitment (Ephraim Route).gba 6fa24ab4
+396 - FE8 Changes Lite.gba e41e4c1e
+368 - FE8 Chaos Randomizer (Normal recruitment, original base stats).gba bff6749e
+369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats).gba ae757366
+372 - FE8 Chaos Randomizer (Random recruitment, original base stats).gba 4eec4cf1
+373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats).gba 319c60ec
+370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats).gba 01637d87
+371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats).gba f6ffef3c
+379 - FE8 Creature Campaign Reverse Recruitment (Eirika).gba 53f063ca
+380 - FE8 Creature Campaign Reverse Recruitment (Ephraim).gba 1cddfc8d
+400 - FE8 Fanmade Directors Cut.gba a7a210d5
+374 - FE8 Lyn Windy.gba c7a95be3
+393 - FE8 Maniac Mode.gba b4861fca
+378 - FE8 Master Version.gba 51b9c9db
 176 - FE8 midori (Green).gba 25d88b16
 177 - FE8 midori (Green) (English Translation).gba 4279b308
+367 - FE8 Negative Growths.gba 3c7352c1
+403 - FE8 Oops, All Archers!.gba 0c7a2625
+397 - FE8 Project Dark.gba 4b31296b
+375 - FE8 QoL Edition.gba f45762e5
+399 - FE8 Redux.gba b767b1dd
+388 - FE8 Remix.gba 98a5a872
+351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode).gba 2e232219
+350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage).gba f0217101
+349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage).gba 66e98aba
+401 - FE8 The Fallen Princess.gba 3c806e93
+376 - FE8 Weapon Reversal.gba b069af12
+385 - FE8 Wild Mode.gba 00db28f0
 174 - FE8_GIRLS.gba 214b26b9
 175 - FE8_GIRLS (English Translation).gba d98445bc
+404 - FE8BEWHABEWAASAHIHI.gba 2bb3fd58
+387 - FE8ESHGBTGISTTM.gba 17c71c14
 241 - Fe 8 Chess.gba d5ddb5e8
 198 - FE but it’s my Biology Homework.gba 385de2ec
 213 - FE The Grand Uprising.gba 535448a4
 214 - FE The Grand Uprising (Blue default player phase map sprite palette).gba adf5269e
 168 - FEU Gacha.gba 35c74672
+364 - FE聖魔　適当に改造 まるっと全部修正.gba 3b72f7dc
 324 - Fire Emblem 6.7.gba 281520a0
 5 - Fire Emblem (Europe) (En,Es,It).gba 9decc754
 4 - Fire Emblem (Europe) (En,Fr,De).gba 4a805ed1
@@ -149,11 +184,13 @@
 239 - Flames of Redemption.gba e1428e68
 240 - Flames of Redemption (supports unlocked).gba 0c835af0
 244 - Foreboding Dusk.gba 2220983b
+394 - Fort Mangs Emblem.gba cadc97eb
 208 - Four Kings - Deposition.gba 583bf142
 209 - Free for All.gba c4c15d98
 166 - Gay Baby Emblem.gba a95e4ae4
 259 - GFE1R.gba fee335a3
 245 - Gheb Saga.gba 6fb3ca5a
+381 - GhebFE.gba daa23525
 249 - Grand Archipelago.gba 14b61c7e
 154 - Heaven’s Bloom.gba c998aa0e
 163 - Hector Saves Christmas.gba 6896d8c2
@@ -172,20 +209,24 @@
 255 - League of Champions (Patch1).gba 6c949342
 256 - League of Champions (Patch2).gba 1b93a3d4
 340 - Lord Weapons Patch Rebalance.gba 85a80d99
+377 - Lute Emblem - The Sacred Lutes.gba 5c7d8d3f
 346 - Lyn Emblem.gba 63b047ee
 125 - Maiden Quest.gba f11864bd
 170 - Marc’s Precious - Revenge.gba 4426c3f9
+395 - Midnight Eclipse (Joke hack).gba 2865d6ce
 266 - Midnight Sun.gba 8164eee8
 238 - Myrm Emblem.gba b5a503ae
 199 - Narcian and the Mirror Chamber.gba 9c298acb
 222 - Necrosis Among the Living (Main hack).gba 97095ad2
 223 - Necrosis Among the Living (Prequel).gba 313cff5b
 257 - Nintenlord Saga.gba db833f55
+391 - Not Fire Emblem 8.gba feea2917
 151 - One-Turn-Clear.gba e930a809
 171 - One-Week Hack.gba fb464aca
 329 - Oops! All Sophias.gba 527bbabc
 344 - Path of a Hero.gba 168670b6
 345 - Path of a Hero (DLC Lloyd’s Story).gba 990fd8ae
+392 - Perfect Emblem.gba 3a687b2f
 342 - Pick my Sabotage.gba 5529f7fe
 140 - Prisoner of Darkness.gba 95f14edd
 133 - Prisoner of Darkness (Hard Mode).gba 1bbb05e1
@@ -200,9 +241,11 @@
 317 - Project Ember (Weapon Reversal) (Reverse Recruitment).gba 884ac8c7
 318 - Project Ember (with Alternate Promotions).gba 7d2a640c
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment).gba bdf5dc0e
+347 - Psychic Emblem (weapons and classes overhaul).gba 5b763687
 189 - Puzzle Emblem.gba 83fc3242
 137 - Ragefest 5 DLC.gba 0c516c3e
 159 - Rart Emblem - Halloween.gba 61dad746
+348 - Rart Emblem Zero - The Rarted Stones.gba 2a4ab263
 113 - Requiem.gba 1225efff
 160 - Resident Emblem 8.gba 3d35a4fc
 144 - Resonance.gba 7d35cc3c
@@ -216,10 +259,21 @@
 130 - Sacred Contention (E-Rank Mode).gba b9c52723
 131 - Sacred Contention (No Supports Mode).gba 7b7cc292
 132 - Sacred Contention (Still Mode).gba c2e7e8ea
+365 - Sacred Eirika.gba a0612059
+398 - Sacred Stones Death Difficulty.gba 35d91a7c
+358 - Sacred Trilogy Final -Full- Fixed Growths- No AI.gba 9c1dd2f3
+359 - Sacred Trilogy Final -Full- Fixed Growths- With AI.gba 8ef775b9
+356 - Sacred Trilogy Final -Full- Random Growths- No AI.gba 37a12e0d
+357 - Sacred Trilogy Final -Full- Random Growths- With AI.gba ade61296
+362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI.gba ca84d5bb
+363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI.gba fa820e65
+360 - Sacred Trilogy Final -Lite- Random Growths- No AI.gba 4dd7ec11
+361 - Sacred Trilogy Final -Lite- Random Growths- With AI.gba c31dc48b
 194 - Saga of the Shivering Shores.gba ad3d8b29
 200 - Scarlet Rising.gba 8c78f4a5
 167 - Self-Randomising Rom.gba 21b24720
 102 - Shining Armor.gba 67368bbb
+382 - SirSerenes FE8 Reskin.gba 2b74a740
 215 - Slot Machine.gba 36c739f5
 269 - Staff of Ages.gba 08b68511
 271 - Staff of Ages (0% Growths).gba 8e8c888d
@@ -228,6 +282,7 @@
 236 - Storge.gba 079106d8
 295 - Sword of Seals ReDux.gba 7895cf0d
 289 - Tale of Ternon.gba fb829219
+383 - Tales of the Emblem.gba 960d475e
 322 - The Binding Bartre.gba b9605bae
 323 - The Binding Bartre (with effectiveness and AI fixes).gba 2986a3b6
 248 - The Blade’s Legacy Spreading Flames.gba 4ab46d89
@@ -239,6 +294,7 @@
 202 - The Dark Hour (Hard Mode).gba bfc8d218
 152 - The Dragon Herald.gba 72d65e0b
 153 - The Dragon Herald (DSSave).gba 24eaa892
+389 - The Empire’s Reach Revisited.gba 5b0c8f83
 191 - The Final Swear 2.gba fb400d2d
 192 - The Final Swear 4.gba 458fb062
 205 - The Four Kings.gba 191ec326
@@ -252,11 +308,13 @@
 185 - The Sacred Chairs.gba 841a14f7
 187 - The Sacred Chairs (0% Growths Version).gba 8c316c5e
 186 - The Sacred Chairs (Boss Version).gba 34d15caf
+386 - The Sacred Ripping Anniversary Edition.gba 7ee376fa
 173 - The Sacred War (Final Update - v1.51).gba 8dc775b2
 172 - The Sacred War (Starting Version - v1.36).gba 9ff4790d
 217 - The Sun God’s Wrath.gba cc06a4ef
 218 - The Sun God’s Wrath (0 growth).gba 7def8770
 282 - Tirado Emblem.gba 5bb0ae74
+402 - Touhou Emblem 8 - The Sacred Shrines.gba e18fc466
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.gba 1b8b59c0
 258 - Typhon’s Wake.gba 829af26e
 136 - Unburdened Liberty.gba b616cc93

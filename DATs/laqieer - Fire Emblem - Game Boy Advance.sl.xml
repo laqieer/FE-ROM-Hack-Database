@@ -41,11 +41,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Alternate Stones">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="449 - Alternate Stones" size="18583756" crc="9acefc25" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Antagonist Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Apocalypse">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="456 - Apocalypse" size="23013240" crc="288de977" />
 			</dataarea>
 		</part>
 	</software>
@@ -73,6 +89,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Awful Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="418 - Awful Emblem" size="16777216" crc="29f7ca11" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="B3L-H411-A">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -86,6 +110,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Barhara Trilogy">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="477 - Barhara Trilogy" size="18061372" crc="b04b7137" />
 			</dataarea>
 		</part>
 	</software>
@@ -145,11 +177,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Behold the Mega-Flare">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="479 - Behold the Mega-Flare" size="25211820" crc="6346dfb5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Binks Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="280 - Binks Emblem" size="16777216" crc="4cc97f98" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Blackwing Struggle">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
 			</dataarea>
 		</part>
 	</software>
@@ -241,6 +289,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Cerulean Coast">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="492 - Cerulean Coast" size="28145516" crc="81bfb293" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Christmas Crossover Carol">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -289,6 +345,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Crystal of Bonds">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="443 - Crystal of Bonds" size="17853160" crc="8fe19751" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Dark Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -310,6 +374,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="415 - Dark Soul" size="19413976" crc="17fe1087" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dawn of Destiny">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="460 - Dawn of Destiny" size="17208512" crc="4b7374da" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dawn of the Red Sun">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="438 - Dawn of the Red Sun" size="19758868" crc="c740ae74" />
 			</dataarea>
 		</part>
 	</software>
@@ -393,11 +473,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Divine Keys">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="468 - Divine Keys" size="21116668" crc="9dac7c13" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Dorcas Emblem 2">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="334 - Dorcas Emblem 2" size="19343004" crc="7f7d07d2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Doubled or Nothing">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dragon of Apocalypse">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="495 - Dragon of Apocalypse" size="17889200" crc="7f7d1a56" />
 			</dataarea>
 		</part>
 	</software>
@@ -409,11 +513,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Dreams of Twilight">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="486 - Dreams of Twilight" size="19414472" crc="5b62c925" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Elibean Nights">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="243 - Elibean Nights" size="28260392" crc="0f2076bd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Endless Nights">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="485 - Endless Nights" size="17693232" crc="73c48346" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="ErikFE">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="440 - ErikFE" size="18622088" crc="a255ac4b" />
 			</dataarea>
 		</part>
 	</software>
@@ -430,6 +558,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="288 - Extinguished Blade" size="16777216" crc="5a32401b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Faith and Blood">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="442 - Faith and Blood" size="20661300" crc="e9be2065" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fallen Flame">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="457 - Fallen Flame" size="18016452" crc="abed2733" />
 			</dataarea>
 		</part>
 	</software>
@@ -897,6 +1041,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Totally Vanilla">
+		<publisher>Reskin</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Weapon Reversal">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
@@ -977,6 +1129,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fe Time Scarred - Rebirth">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="463 - Fe Time Scarred - Rebirth" size="17197396" crc="fb485921" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fe Time Scarred - Rikers Crew">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="462 - Fe Time Scarred - Rikers Crew" size="18320756" crc="ebd4bac5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fe Time Scarred - The Unwanted Saga">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="464 - Fe Time Scarred - The Unwanted Saga" size="17788392" crc="bdb1f1d2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Ferrica - Project Kenko">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="478 - Ferrica - Project Kenko" size="23612392" crc="4124c732" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FEU Gacha">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -993,11 +1177,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fight for Freedom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="480 - Fight for Freedom" size="23944208" crc="8c320753" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Final Fantasy 10 Remake">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="472 - Final Fantasy 10 Remake" size="20400084" crc="901e461e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem 6.7">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem 8 Time Scarred">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="461 - Fire Emblem 8 Time Scarred" size="24235600" crc="3187a796" />
 			</dataarea>
 		</part>
 	</software>
@@ -1038,6 +1246,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Aletheia">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a5a1d05d" />
 			</dataarea>
 		</part>
 	</software>
@@ -1174,6 +1390,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Illuminated">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
 			</dataarea>
 		</part>
 	</software>
@@ -1473,11 +1697,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem Origins">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="419 - Fire Emblem Origins" size="19279388" crc="f433df6e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem Poop">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem Sengoku">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="451 - Fire Emblem Sengoku" size="21393244" crc="8749de83" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem Time Scarred Time Lines - The Beginning">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="466 - Fire Emblem Time Scarred Time Lines - The Beginning" size="17270412" crc="b9c68cfe" />
 			</dataarea>
 		</part>
 	</software>
@@ -1502,6 +1750,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="336 - Fire Memeblem True 0" size="16777332" crc="e25c779f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Flames of Freedom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="459 - Flames of Freedom" size="19577796" crc="5ab4c0e1" />
 			</dataarea>
 		</part>
 	</software>
@@ -1593,6 +1849,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Grug’s Primitive Disadventure">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Heaven’s Bloom">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1630,6 +1894,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="261 - Heroes of Valencia and Archanea" size="16804540" crc="0c8502f7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Horizons">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="493 - Horizons" size="23323800" crc="63f74902" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Host of the Dark">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
 			</dataarea>
 		</part>
 	</software>
@@ -1673,11 +1953,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="JP Hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="473 - JP Hack" size="19099644" crc="990f7870" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Jugdral Saga">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="268 - Jugdral Saga" size="16777216" crc="b9521183" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Justice &amp; Pride Gaiden - Clash in Estria">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
 			</dataarea>
 		</part>
 	</software>
@@ -1713,6 +2009,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Land of Heroes">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="476 - Land of Heroes" size="19246184" crc="5c77cc5e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Last Heavenly Throne">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="453 - Last Heavenly Throne" size="20469068" crc="9001906e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="League of Champions (Patch1)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1726,6 +2038,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="256 - League of Champions (Patch2)" size="16939004" crc="1b93a3d4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Legends of Avenir">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="424 - Legends of Avenir" size="24457576" crc="bdd2a1da" />
 			</dataarea>
 		</part>
 	</software>
@@ -1753,6 +2073,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="M. E. R. C. S.">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="467 - M" size="18427704" crc="048eb1b6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Maiden Quest">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1766,6 +2094,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Mask of Dunham">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="437 - Mask of Dunham" size="19753152" crc="77dd037e" />
 			</dataarea>
 		</part>
 	</software>
@@ -1798,6 +2134,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="199 - Narcian and the Mirror Chamber" size="18997204" crc="9c298acb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Nations of Conquest">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="494 - Nations of Conquest" size="26854248" crc="df8e92cf" />
 			</dataarea>
 		</part>
 	</software>
@@ -1894,6 +2238,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="342 - Pick my Sabotage" size="16883688" crc="5529f7fe" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Pokémblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="487 - Pokémblem" size="20667228" crc="ea9ac6a5" />
 			</dataarea>
 		</part>
 	</software>
@@ -2001,6 +2353,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Prophecy of Flames">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="481 - Prophecy of Flames" size="29276820" crc="79e1e7fd" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Psychic Emblem (weapons and classes overhaul)">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
@@ -2014,6 +2374,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="189 - Puzzle Emblem" size="16824428" crc="83fc3242" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Queen’s Sword (English Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
 			</dataarea>
 		</part>
 	</software>
@@ -2038,6 +2406,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="REDFE">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="417 - REDFE" size="16782396" crc="bd449655" />
 			</dataarea>
 		</part>
 	</software>
@@ -2073,6 +2449,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Resonance - The Hotfix">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="455 - Resonance - The Hotfix" size="27292280" crc="39b68dd5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Resonance Resurgence Demo">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2086,6 +2470,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="284 - Resurgonence" size="23710212" crc="380e45b9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Revitalised">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="469 - Revitalised" size="17708492" crc="4b982aab" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Revolution">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
 			</dataarea>
 		</part>
 	</software>
@@ -2153,6 +2553,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sacred Echoes (English)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Echoes (Spanish)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="427 - Sacred Echoes (Spanish)" size="20347472" crc="844cd7a0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Eirika">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
@@ -2161,11 +2577,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sacred Radiance Demo (FE9 Demake)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="470 - Sacred Radiance Demo (FE9 Demake)" size="23845772" crc="90246924" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Stones Death Difficulty">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="398 - Sacred Stones Death Difficulty" size="16782360" crc="35d91a7c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Texts">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
 			</dataarea>
 		</part>
 	</software>
@@ -2249,11 +2681,43 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Scourge of Proxima">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="431 - Scourge of Proxima" size="22542928" crc="ced8254f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sealed in Light">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="439 - Sealed in Light" size="17267760" crc="a23144da" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Self-Randomising Rom">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Seven Siblings">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="425 - Seven Siblings" size="26079424" crc="6ad992e0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Shackled Power">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="488 - Shackled Power" size="25215756" crc="da531631" />
 			</dataarea>
 		</part>
 	</software>
@@ -2265,6 +2729,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="SHYUTERz’s Patch">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="471 - SHYUTERz’s Patch" size="31877676" crc="f40118ba" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="SirSerenes FE8 Reskin">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
@@ -2273,11 +2745,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Skliros Saga">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="454 - Skliros Saga" size="23393636" crc="a4f87ba3" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Slot Machine">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Souls of the Forest">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="435 - Souls of the Forest" size="23221248" crc="d5d8634b" />
 			</dataarea>
 		</part>
 	</software>
@@ -2345,11 +2833,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Tales from Afar">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="458 - Tales from Afar" size="33142244" crc="7bc0139b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Tales of the Emblem">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="383 - Tales of the Emblem" size="16866208" crc="960d475e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Tales of the Golden Knight">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="422 - Tales of the Golden Knight" size="27862300" crc="883a1ac6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Terror of the Forest">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 			</dataarea>
 		</part>
 	</software>
@@ -2457,11 +2969,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Eligor’s Spear">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="428 - The Eligor’s Spear" size="24776684" crc="20426aa9" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Empire’s Reach Revisited">
 		<publisher>Reskin</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="389 - The Empire’s Reach Revisited" size="16788832" crc="5b0c8f83" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Empyrean Prophecy">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="436 - The Empyrean Prophecy" size="29810060" crc="6039ab3f" />
 			</dataarea>
 		</part>
 	</software>
@@ -2505,6 +3033,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Golden Kingdom">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Last Promise">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2534,6 +3070,38 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Lonely Mirror (Classic)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="433 - The Lonely Mirror (Classic)" size="30220952" crc="9302de3a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Lonely Mirror (Friendly)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="434 - The Lonely Mirror (Friendly)" size="30226464" crc="c833f3eb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Lullaby of Lust">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="423 - The Lullaby of Lust" size="20183748" crc="3a813e87" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Nameless Heroes (English Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="448 - The Nameless Heroes (English Translation)" size="29782176" crc="36042746" />
 			</dataarea>
 		</part>
 	</software>
@@ -2614,6 +3182,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The White Feather">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="490 - The White Feather" size="23302696" crc="294c6150" />
 			</dataarea>
 		</part>
 	</software>
@@ -2705,6 +3281,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="War of Retribution">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="484 - War of Retribution" size="17084172" crc="7b8abafa" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="War on Two Fronts">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2737,6 +3321,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Wrath of the Crusade">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="483 - Wrath of the Crusade" size="17347588" crc="83bfa1d6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Yggdra Hack UI Translation">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2766,6 +3358,46 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="名も無き英雄">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="女王の剣 (Queen’s Sword)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黄昏の魔剣１部">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="444 - 黄昏の魔剣１部" size="22610180" crc="02a1d458" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黄昏の魔剣２部パンナルート">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="445 - 黄昏の魔剣２部パンナルート" size="23248008" crc="f0ac088d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黄昏の魔剣２部主人公覚醒編">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="446 - 黄昏の魔剣２部主人公覚醒編" size="22734804" crc="31330711" />
 			</dataarea>
 		</part>
 	</software>

@@ -18,9 +18,17 @@ ROMs required for driver "A Sacred Dawn DX".
 Name                                   Size Checksum
 285 - A Sacred Dawn DX             22333152 CRC(651b8fa3)
 
+ROMs required for driver "Alternate Stones".
+Name                                   Size Checksum
+449 - Alternate Stones             18583756 CRC(9acefc25)
+
 ROMs required for driver "Antagonist Emblem".
 Name                                   Size Checksum
 169 - Antagonist Emblem            17515204 CRC(13983cfb)
+
+ROMs required for driver "Apocalypse".
+Name                                   Size Checksum
+456 - Apocalypse                   23013240 CRC(288de977)
 
 ROMs required for driver "Armour Emblem".
 Name                                   Size Checksum
@@ -34,6 +42,10 @@ ROMs required for driver "Atirian Conquest".
 Name                                   Size Checksum
 254 - Atirian Conquest             17224984 CRC(f2f006e1)
 
+ROMs required for driver "Awful Emblem".
+Name                                   Size Checksum
+418 - Awful Emblem                 16777216 CRC(29f7ca11)
+
 ROMs required for driver "B3L-H411-A".
 Name                                   Size Checksum
 212 - B3L-H411-A                   17536556 CRC(db73120f)
@@ -41,6 +53,10 @@ Name                                   Size Checksum
 ROMs required for driver "Bandit Emblem".
 Name                                   Size Checksum
 204 - Bandit Emblem                17645508 CRC(4c0a42a1)
+
+ROMs required for driver "Barhara Trilogy".
+Name                                   Size Checksum
+477 - Barhara Trilogy              18061372 CRC(b04b7137)
 
 ROMs required for driver "Barry’s Bandits".
 Name                                   Size Checksum
@@ -70,9 +86,17 @@ ROMs required for driver "Battle Simulator (No Control)".
 Name                                   Size Checksum
 197 - Battle Simulator (No Control)16802684 CRC(bcfccaf8)
 
+ROMs required for driver "Behold the Mega-Flare".
+Name                                   Size Checksum
+479 - Behold the Mega-Flare        25211820 CRC(6346dfb5)
+
 ROMs required for driver "Binks Emblem".
 Name                                   Size Checksum
 280 - Binks Emblem                 16777216 CRC(4cc97f98)
+
+ROMs required for driver "Blackwing Struggle".
+Name                                   Size Checksum
+429 - Blackwing Struggle           17622632 CRC(ee781f1e)
 
 ROMs required for driver "Blazer’s One Day Hack".
 Name                                   Size Checksum
@@ -118,6 +142,10 @@ ROMs required for driver "Carcino’s Civil War".
 Name                                   Size Checksum
 119 - Carcino’s Civil War          17378852 CRC(88a038ec)
 
+ROMs required for driver "Cerulean Coast".
+Name                                   Size Checksum
+492 - Cerulean Coast               28145516 CRC(81bfb293)
+
 ROMs required for driver "Christmas Crossover Carol".
 Name                                   Size Checksum
 121 - Christmas Crossover Carol    16831344 CRC(676c6d7f)
@@ -142,6 +170,10 @@ ROMs required for driver "Crossover Hack".
 Name                                   Size Checksum
 265 - Crossover Hack               33480004 CRC(bc384a67)
 
+ROMs required for driver "Crystal of Bonds".
+Name                                   Size Checksum
+443 - Crystal of Bonds             17853160 CRC(8fe19751)
+
 ROMs required for driver "Dark Emblem".
 Name                                   Size Checksum
 263 - Dark Emblem                  23383092 CRC(74277073)
@@ -153,6 +185,14 @@ Name                                   Size Checksum
 ROMs required for driver "Dark Soul".
 Name                                   Size Checksum
 415 - Dark Soul                    19413976 CRC(17fe1087)
+
+ROMs required for driver "Dawn of Destiny".
+Name                                   Size Checksum
+460 - Dawn of Destiny              17208512 CRC(4b7374da)
+
+ROMs required for driver "Dawn of the Red Sun".
+Name                                   Size Checksum
+438 - Dawn of the Red Sun          19758868 CRC(c740ae74)
 
 ROMs required for driver "Decay of the Fangs".
 Name                                   Size Checksum
@@ -194,17 +234,41 @@ ROMs required for driver "Different Dimensions Ostian Princess".
 Name                                   Size Checksum
 333 - Different Dimensions Ostian Princess16777216 CRC(79f1b543)
 
+ROMs required for driver "Divine Keys".
+Name                                   Size Checksum
+468 - Divine Keys                  21116668 CRC(9dac7c13)
+
 ROMs required for driver "Dorcas Emblem 2".
 Name                                   Size Checksum
 334 - Dorcas Emblem 2              19343004 CRC(7f7d07d2)
+
+ROMs required for driver "Doubled or Nothing".
+Name                                   Size Checksum
+491 - Doubled or Nothing           19242308 CRC(bff057cf)
+
+ROMs required for driver "Dragon of Apocalypse".
+Name                                   Size Checksum
+495 - Dragon of Apocalypse         17889200 CRC(7f7d1a56)
 
 ROMs required for driver "Dream of Five".
 Name                                   Size Checksum
 251 - Dream of Five                22194508 CRC(1cfe67cd)
 
+ROMs required for driver "Dreams of Twilight".
+Name                                   Size Checksum
+486 - Dreams of Twilight           19414472 CRC(5b62c925)
+
 ROMs required for driver "Elibean Nights".
 Name                                   Size Checksum
 243 - Elibean Nights               28260392 CRC(0f2076bd)
+
+ROMs required for driver "Endless Nights".
+Name                                   Size Checksum
+485 - Endless Nights               17693232 CRC(73c48346)
+
+ROMs required for driver "ErikFE".
+Name                                   Size Checksum
+440 - ErikFE                       18622088 CRC(a255ac4b)
 
 ROMs required for driver "Escape the Mangs Dungeon".
 Name                                   Size Checksum
@@ -213,6 +277,14 @@ Name                                   Size Checksum
 ROMs required for driver "Extinguished Blade".
 Name                                   Size Checksum
 288 - Extinguished Blade           16777216 CRC(5a32401b)
+
+ROMs required for driver "Faith and Blood".
+Name                                   Size Checksum
+442 - Faith and Blood              20661300 CRC(e9be2065)
+
+ROMs required for driver "Fallen Flame".
+Name                                   Size Checksum
+457 - Fallen Flame                 18016452 CRC(abed2733)
 
 ROMs required for driver "Fallen King".
 Name                                   Size Checksum
@@ -446,6 +518,10 @@ ROMs required for driver "FE8 The Fallen Princess".
 Name                                   Size Checksum
 401 - FE8 The Fallen Princess      21021140 CRC(3c806e93)
 
+ROMs required for driver "FE8 Totally Vanilla".
+Name                                   Size Checksum
+450 - FE8 Totally Vanilla          16777216 CRC(cb15d1a3)
+
 ROMs required for driver "FE8 Weapon Reversal".
 Name                                   Size Checksum
 376 - FE8 Weapon Reversal          18248732 CRC(b069af12)
@@ -486,6 +562,22 @@ ROMs required for driver "FE The Grand Uprising (Blue default player phase map s
 Name                                   Size Checksum
 214 - FE The Grand Uprising (Blue default player phase map sprite palette)          29066908 CRC(adf5269e)
 
+ROMs required for driver "Fe Time Scarred - Rebirth".
+Name                                   Size Checksum
+463 - Fe Time Scarred - Rebirth    17197396 CRC(fb485921)
+
+ROMs required for driver "Fe Time Scarred - Rikers Crew".
+Name                                   Size Checksum
+462 - Fe Time Scarred - Rikers Crew18320756 CRC(ebd4bac5)
+
+ROMs required for driver "Fe Time Scarred - The Unwanted Saga".
+Name                                   Size Checksum
+464 - Fe Time Scarred - The Unwanted Saga17788392 CRC(bdb1f1d2)
+
+ROMs required for driver "Ferrica - Project Kenko".
+Name                                   Size Checksum
+478 - Ferrica - Project Kenko      23612392 CRC(4124c732)
+
 ROMs required for driver "FEU Gacha".
 Name                                   Size Checksum
 168 - FEU Gacha                    16777216 CRC(35c74672)
@@ -494,9 +586,21 @@ ROMs required for driver "FE聖魔 適当に改造 まるっと全部修正".
 Name                                   Size Checksum
 364 - FE聖魔 適当に改造 まるっと全部修正          16963116 CRC(3b72f7dc)
 
+ROMs required for driver "Fight for Freedom".
+Name                                   Size Checksum
+480 - Fight for Freedom            23944208 CRC(8c320753)
+
+ROMs required for driver "Final Fantasy 10 Remake".
+Name                                   Size Checksum
+472 - Final Fantasy 10 Remake      20400084 CRC(901e461e)
+
 ROMs required for driver "Fire Emblem 6.7".
 Name                                   Size Checksum
 324 - Fire Emblem 6                16777532 CRC(281520a0)
+
+ROMs required for driver "Fire Emblem 8 Time Scarred".
+Name                                   Size Checksum
+461 - Fire Emblem 8 Time Scarred   24235600 CRC(3187a796)
 
 ROMs required for driver "Fire Emblem (Europe) (En,Es,It)".
 Name                                   Size Checksum
@@ -517,6 +621,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem (USA, Australia)".
 Name                                   Size Checksum
 3 - Fire Emblem (USA, Australia)   16777216 CRC(2a524221)
+
+ROMs required for driver "Fire Emblem - Aletheia".
+Name                                   Size Checksum
+452 - Fire Emblem - Aletheia       23733560 CRC(a5a1d05d)
 
 ROMs required for driver "Fire Emblem - Barhara Revisited".
 Name                                   Size Checksum
@@ -585,6 +693,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - Heroes Remake".
 Name                                   Size Checksum
 100 - Fire Emblem - Heroes Remake  31526756 CRC(1c4fcc59)
+
+ROMs required for driver "Fire Emblem - Illuminated".
+Name                                   Size Checksum
+432 - Fire Emblem - Illuminated    29741960 CRC(6150b83f)
 
 ROMs required for driver "Fire Emblem - Izarck’s Quest".
 Name                                   Size Checksum
@@ -734,9 +846,21 @@ ROMs required for driver "Fire Emblem Forever".
 Name                                   Size Checksum
 246 - Fire Emblem Forever          17627116 CRC(d93d269a)
 
+ROMs required for driver "Fire Emblem Origins".
+Name                                   Size Checksum
+419 - Fire Emblem Origins          19279388 CRC(f433df6e)
+
 ROMs required for driver "Fire Emblem Poop".
 Name                                   Size Checksum
 118 - Fire Emblem Poop             24492260 CRC(8d1db15c)
+
+ROMs required for driver "Fire Emblem Sengoku".
+Name                                   Size Checksum
+451 - Fire Emblem Sengoku          21393244 CRC(8749de83)
+
+ROMs required for driver "Fire Emblem Time Scarred Time Lines - The Beginning".
+Name                                   Size Checksum
+466 - Fire Emblem Time Scarred Time Lines - The Beginning          17270412 CRC(b9c68cfe)
 
 ROMs required for driver "Fire Emblem Versus".
 Name                                   Size Checksum
@@ -749,6 +873,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Memeblem True 0".
 Name                                   Size Checksum
 336 - Fire Memeblem True 0         16777332 CRC(e25c779f)
+
+ROMs required for driver "Flames of Freedom".
+Name                                   Size Checksum
+459 - Flames of Freedom            19577796 CRC(5ab4c0e1)
 
 ROMs required for driver "Flames of Redemption".
 Name                                   Size Checksum
@@ -794,6 +922,10 @@ ROMs required for driver "Grand Archipelago".
 Name                                   Size Checksum
 249 - Grand Archipelago            19579000 CRC(14b61c7e)
 
+ROMs required for driver "Grug’s Primitive Disadventure".
+Name                                   Size Checksum
+482 - Grug’s Primitive Disadventure29192184 CRC(706d37d0)
+
 ROMs required for driver "Heaven’s Bloom".
 Name                                   Size Checksum
 154 - Heaven’s Bloom               18376448 CRC(c998aa0e)
@@ -813,6 +945,14 @@ Name                                   Size Checksum
 ROMs required for driver "Heroes of Valencia and Archanea".
 Name                                   Size Checksum
 261 - Heroes of Valencia and Archanea16804540 CRC(0c8502f7)
+
+ROMs required for driver "Horizons".
+Name                                   Size Checksum
+493 - Horizons                     23323800 CRC(63f74902)
+
+ROMs required for driver "Host of the Dark".
+Name                                   Size Checksum
+489 - Host of the Dark             28808224 CRC(7cab585e)
 
 ROMs required for driver "Inheritance".
 Name                                   Size Checksum
@@ -834,9 +974,17 @@ ROMs required for driver "Journeys".
 Name                                   Size Checksum
 219 - Journeys                     26336432 CRC(1c83df77)
 
+ROMs required for driver "JP Hack".
+Name                                   Size Checksum
+473 - JP Hack                      19099644 CRC(990f7870)
+
 ROMs required for driver "Jugdral Saga".
 Name                                   Size Checksum
 268 - Jugdral Saga                 16777216 CRC(b9521183)
+
+ROMs required for driver "Justice & Pride Gaiden - Clash in Estria".
+Name                                   Size Checksum
+475 - Justice & Pride Gaiden - Clash in Estria          27248856 CRC(d625827c)
 
 ROMs required for driver "Justice and Pride - Book 2".
 Name                                   Size Checksum
@@ -854,6 +1002,14 @@ ROMs required for driver "Knoll’s Super Spooky Halloween Adventure".
 Name                                   Size Checksum
 162 - Knoll’s Super Spooky Halloween Adventure          17014360 CRC(19a64b75)
 
+ROMs required for driver "Land of Heroes".
+Name                                   Size Checksum
+476 - Land of Heroes               19246184 CRC(5c77cc5e)
+
+ROMs required for driver "Last Heavenly Throne".
+Name                                   Size Checksum
+453 - Last Heavenly Throne         20469068 CRC(9001906e)
+
 ROMs required for driver "League of Champions (Patch1)".
 Name                                   Size Checksum
 255 - League of Champions (Patch1) 18586224 CRC(6c949342)
@@ -861,6 +1017,10 @@ Name                                   Size Checksum
 ROMs required for driver "League of Champions (Patch2)".
 Name                                   Size Checksum
 256 - League of Champions (Patch2) 16939004 CRC(1b93a3d4)
+
+ROMs required for driver "Legends of Avenir".
+Name                                   Size Checksum
+424 - Legends of Avenir            24457576 CRC(bdd2a1da)
 
 ROMs required for driver "Lord Weapons Patch Rebalance".
 Name                                   Size Checksum
@@ -874,6 +1034,10 @@ ROMs required for driver "Lyn Emblem".
 Name                                   Size Checksum
 346 - Lyn Emblem                   17039860 CRC(63b047ee)
 
+ROMs required for driver "M. E. R. C. S.".
+Name                                   Size Checksum
+467 - M. E. R                      18427704 CRC(048eb1b6)
+
 ROMs required for driver "Maiden Quest".
 Name                                   Size Checksum
 125 - Maiden Quest                 19773496 CRC(f11864bd)
@@ -881,6 +1045,10 @@ Name                                   Size Checksum
 ROMs required for driver "Marc’s Precious - Revenge".
 Name                                   Size Checksum
 170 - Marc’s Precious - Revenge    17332276 CRC(4426c3f9)
+
+ROMs required for driver "Mask of Dunham".
+Name                                   Size Checksum
+437 - Mask of Dunham               19753152 CRC(77dd037e)
 
 ROMs required for driver "Midnight Eclipse (Joke hack)".
 Name                                   Size Checksum
@@ -897,6 +1065,10 @@ Name                                   Size Checksum
 ROMs required for driver "Narcian and the Mirror Chamber".
 Name                                   Size Checksum
 199 - Narcian and the Mirror Chamber18997204 CRC(9c298acb)
+
+ROMs required for driver "Nations of Conquest".
+Name                                   Size Checksum
+494 - Nations of Conquest          26854248 CRC(df8e92cf)
 
 ROMs required for driver "Necrosis Among the Living (Main hack)".
 Name                                   Size Checksum
@@ -945,6 +1117,10 @@ Name                                   Size Checksum
 ROMs required for driver "Pick my Sabotage".
 Name                                   Size Checksum
 342 - Pick my Sabotage             16883688 CRC(5529f7fe)
+
+ROMs required for driver "Pokémblem".
+Name                                   Size Checksum
+487 - Pokémblem                    20667228 CRC(ea9ac6a5)
 
 ROMs required for driver "Prisoner of Darkness".
 Name                                   Size Checksum
@@ -998,6 +1174,10 @@ ROMs required for driver "Project Ember (with Alternate Promotions) (Reverse Rec
 Name                                   Size Checksum
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)          25877192 CRC(bdf5dc0e)
 
+ROMs required for driver "Prophecy of Flames".
+Name                                   Size Checksum
+481 - Prophecy of Flames           29276820 CRC(79e1e7fd)
+
 ROMs required for driver "Psychic Emblem (weapons and classes overhaul)".
 Name                                   Size Checksum
 347 - Psychic Emblem (weapons and classes overhaul)          17770636 CRC(5b763687)
@@ -1005,6 +1185,10 @@ Name                                   Size Checksum
 ROMs required for driver "Puzzle Emblem".
 Name                                   Size Checksum
 189 - Puzzle Emblem                16824428 CRC(83fc3242)
+
+ROMs required for driver "Queen’s Sword (English Translation)".
+Name                                   Size Checksum
+421 - Queen’s Sword (English Translation)33554432 CRC(1ed8d8e5)
 
 ROMs required for driver "Ragefest 5 DLC".
 Name                                   Size Checksum
@@ -1017,6 +1201,10 @@ Name                                   Size Checksum
 ROMs required for driver "Rart Emblem Zero - The Rarted Stones".
 Name                                   Size Checksum
 348 - Rart Emblem Zero - The Rarted Stones19326044 CRC(2a4ab263)
+
+ROMs required for driver "REDFE".
+Name                                   Size Checksum
+417 - REDFE                        16782396 CRC(bd449655)
 
 ROMs required for driver "Remodeling Sealed Thracia".
 Name                                   Size Checksum
@@ -1034,6 +1222,10 @@ ROMs required for driver "Resonance".
 Name                                   Size Checksum
 144 - Resonance                    21319464 CRC(7d35cc3c)
 
+ROMs required for driver "Resonance - The Hotfix".
+Name                                   Size Checksum
+455 - Resonance - The Hotfix       27292280 CRC(39b68dd5)
+
 ROMs required for driver "Resonance Resurgence Demo".
 Name                                   Size Checksum
 283 - Resonance Resurgence Demo    23770732 CRC(7e89403c)
@@ -1041,6 +1233,14 @@ Name                                   Size Checksum
 ROMs required for driver "Resurgonence".
 Name                                   Size Checksum
 284 - Resurgonence                 23710212 CRC(380e45b9)
+
+ROMs required for driver "Revitalised".
+Name                                   Size Checksum
+469 - Revitalised                  17708492 CRC(4b982aab)
+
+ROMs required for driver "Revolution".
+Name                                   Size Checksum
+474 - Revolution                   17839068 CRC(1561cad6)
 
 ROMs required for driver "Royal Army".
 Name                                   Size Checksum
@@ -1074,13 +1274,29 @@ ROMs required for driver "Sacred Contention (Still Mode)".
 Name                                   Size Checksum
 132 - Sacred Contention (Still Mode)19125992 CRC(c2e7e8ea)
 
+ROMs required for driver "Sacred Echoes (English)".
+Name                                   Size Checksum
+426 - Sacred Echoes (English)      19502928 CRC(720276b7)
+
+ROMs required for driver "Sacred Echoes (Spanish)".
+Name                                   Size Checksum
+427 - Sacred Echoes (Spanish)      20347472 CRC(844cd7a0)
+
 ROMs required for driver "Sacred Eirika".
 Name                                   Size Checksum
 365 - Sacred Eirika                19645624 CRC(a0612059)
 
+ROMs required for driver "Sacred Radiance Demo (FE9 Demake)".
+Name                                   Size Checksum
+470 - Sacred Radiance Demo (FE9 Demake)23845772 CRC(90246924)
+
 ROMs required for driver "Sacred Stones Death Difficulty".
 Name                                   Size Checksum
 398 - Sacred Stones Death Difficulty16782360 CRC(35d91a7c)
+
+ROMs required for driver "Sacred Texts".
+Name                                   Size Checksum
+465 - Sacred Texts                 18988976 CRC(4b97c9be)
 
 ROMs required for driver "Sacred Trilogy Final -Full- Fixed Growths- No AI".
 Name                                   Size Checksum
@@ -1122,21 +1338,49 @@ ROMs required for driver "Scarlet Rising".
 Name                                   Size Checksum
 200 - Scarlet Rising               20488132 CRC(8c78f4a5)
 
+ROMs required for driver "Scourge of Proxima".
+Name                                   Size Checksum
+431 - Scourge of Proxima           22542928 CRC(ced8254f)
+
+ROMs required for driver "Sealed in Light".
+Name                                   Size Checksum
+439 - Sealed in Light              17267760 CRC(a23144da)
+
 ROMs required for driver "Self-Randomising Rom".
 Name                                   Size Checksum
 167 - Self-Randomising Rom         16777216 CRC(21b24720)
+
+ROMs required for driver "Seven Siblings".
+Name                                   Size Checksum
+425 - Seven Siblings               26079424 CRC(6ad992e0)
+
+ROMs required for driver "Shackled Power".
+Name                                   Size Checksum
+488 - Shackled Power               25215756 CRC(da531631)
 
 ROMs required for driver "Shining Armor".
 Name                                   Size Checksum
 102 - Shining Armor                16788636 CRC(67368bbb)
 
+ROMs required for driver "SHYUTERz’s Patch".
+Name                                   Size Checksum
+471 - SHYUTERz’s Patch             31877676 CRC(f40118ba)
+
 ROMs required for driver "SirSerenes FE8 Reskin".
 Name                                   Size Checksum
 382 - SirSerenes FE8 Reskin        16777288 CRC(2b74a740)
 
+ROMs required for driver "Skliros Saga".
+Name                                   Size Checksum
+454 - Skliros Saga                 23393636 CRC(a4f87ba3)
+
 ROMs required for driver "Slot Machine".
 Name                                   Size Checksum
 215 - Slot Machine                 16784068 CRC(36c739f5)
+
+ROMs required for driver "Souls of the Forest".
+Name                                   Size Checksum
+435 - Souls of the Forest          23221248 CRC(d5d8634b)
 
 ROMs required for driver "Spark of Life".
 Name                                   Size Checksum
@@ -1170,9 +1414,21 @@ ROMs required for driver "Tale of Ternon".
 Name                                   Size Checksum
 289 - Tale of Ternon               18452460 CRC(fb829219)
 
+ROMs required for driver "Tales from Afar".
+Name                                   Size Checksum
+458 - Tales from Afar              33142244 CRC(7bc0139b)
+
 ROMs required for driver "Tales of the Emblem".
 Name                                   Size Checksum
 383 - Tales of the Emblem          16866208 CRC(960d475e)
+
+ROMs required for driver "Tales of the Golden Knight".
+Name                                   Size Checksum
+422 - Tales of the Golden Knight   27862300 CRC(883a1ac6)
+
+ROMs required for driver "Terror of the Forest".
+Name                                   Size Checksum
+430 - Terror of the Forest         27044204 CRC(017b8028)
 
 ROMs required for driver "The Binding Bartre".
 Name                                   Size Checksum
@@ -1226,9 +1482,17 @@ ROMs required for driver "The Dragon Herald (DSSave)".
 Name                                   Size Checksum
 153 - The Dragon Herald (DSSave)   25565628 CRC(24eaa892)
 
+ROMs required for driver "The Eligor’s Spear".
+Name                                   Size Checksum
+428 - The Eligor’s Spear           24776684 CRC(20426aa9)
+
 ROMs required for driver "The Empire’s Reach Revisited".
 Name                                   Size Checksum
 389 - The Empire’s Reach Revisited 16788832 CRC(5b0c8f83)
+
+ROMs required for driver "The Empyrean Prophecy".
+Name                                   Size Checksum
+436 - The Empyrean Prophecy        29810060 CRC(6039ab3f)
 
 ROMs required for driver "The Final Swear 2".
 Name                                   Size Checksum
@@ -1250,6 +1514,10 @@ ROMs required for driver "The Four Kings (Reverse Recruitment)".
 Name                                   Size Checksum
 207 - The Four Kings (Reverse Recruitment)28852468 CRC(34e1170d)
 
+ROMs required for driver "The Golden Kingdom".
+Name                                   Size Checksum
+441 - The Golden Kingdom           20092192 CRC(78f00579)
+
 ROMs required for driver "The Last Promise".
 Name                                   Size Checksum
 103 - The Last Promise             32505856 CRC(d1c6e5d5)
@@ -1265,6 +1533,22 @@ Name                                   Size Checksum
 ROMs required for driver "The Last Promise (Weapon Reversal)".
 Name                                   Size Checksum
 106 - The Last Promise (Weapon Reversal)33302356 CRC(38f7a2c6)
+
+ROMs required for driver "The Lonely Mirror (Classic)".
+Name                                   Size Checksum
+433 - The Lonely Mirror (Classic)  30220952 CRC(9302de3a)
+
+ROMs required for driver "The Lonely Mirror (Friendly)".
+Name                                   Size Checksum
+434 - The Lonely Mirror (Friendly) 30226464 CRC(c833f3eb)
+
+ROMs required for driver "The Lullaby of Lust".
+Name                                   Size Checksum
+423 - The Lullaby of Lust          20183748 CRC(3a813e87)
+
+ROMs required for driver "The Nameless Heroes (English Translation)".
+Name                                   Size Checksum
+448 - The Nameless Heroes (English Translation)          29782176 CRC(36042746)
 
 ROMs required for driver "The Queen’s Lament".
 Name                                   Size Checksum
@@ -1305,6 +1589,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Sun God’s Wrath (0 growth)".
 Name                                   Size Checksum
 218 - The Sun God’s Wrath (0 growth)33007108 CRC(7def8770)
+
+ROMs required for driver "The White Feather".
+Name                                   Size Checksum
+490 - The White Feather            23302696 CRC(294c6150)
 
 ROMs required for driver "Tirado Emblem".
 Name                                   Size Checksum
@@ -1350,6 +1638,10 @@ ROMs required for driver "Vs. Mode".
 Name                                   Size Checksum
 135 - Vs                           17066348 CRC(86fe30d3)
 
+ROMs required for driver "War of Retribution".
+Name                                   Size Checksum
+484 - War of Retribution           17084172 CRC(7b8abafa)
+
 ROMs required for driver "War on Two Fronts".
 Name                                   Size Checksum
 234 - War on Two Fronts            24923600 CRC(3c922e66)
@@ -1366,6 +1658,10 @@ ROMs required for driver "Winning Against Gharnef".
 Name                                   Size Checksum
 165 - Winning Against Gharnef      18085528 CRC(03c472ee)
 
+ROMs required for driver "Wrath of the Crusade".
+Name                                   Size Checksum
+483 - Wrath of the Crusade         17347588 CRC(83bfa1d6)
+
 ROMs required for driver "Yggdra Hack UI Translation".
 Name                                   Size Checksum
 182 - Yggdra Hack UI Translation   25450720 CRC(63b815ad)
@@ -1381,3 +1677,23 @@ Name                                   Size Checksum
 ROMs required for driver "Zombie Apocalypse".
 Name                                   Size Checksum
 252 - Zombie Apocalypse            18992412 CRC(93ee3ea3)
+
+ROMs required for driver "名も無き英雄".
+Name                                   Size Checksum
+447 - 名も無き英雄                       29840204 CRC(b9a6e9c7)
+
+ROMs required for driver "女王の剣 (Queen’s Sword)".
+Name                                   Size Checksum
+420 - 女王の剣 (Queen’s Sword)         33554432 CRC(658dc7e3)
+
+ROMs required for driver "黄昏の魔剣１部".
+Name                                   Size Checksum
+444 - 黄昏の魔剣１部                      22610180 CRC(02a1d458)
+
+ROMs required for driver "黄昏の魔剣２部パンナルート".
+Name                                   Size Checksum
+445 - 黄昏の魔剣２部パンナルート                23248008 CRC(f0ac088d)
+
+ROMs required for driver "黄昏の魔剣２部主人公覚醒編".
+Name                                   Size Checksum
+446 - 黄昏の魔剣２部主人公覚醒編                22734804 CRC(31330711)

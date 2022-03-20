@@ -38,10 +38,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="285 - A Sacred Dawn DX" size="22333152" crc="651b8fa3" />
 	</machine>
+	<machine name="Alternate Stones">
+		<comment>https://forums.serenesforest.net/index.php?/topic/67233-fe-8-the-alternate-stones/</comment>
+		<publisher>Reskin</publisher>
+		<rom name="449 - Alternate Stones" size="18583756" crc="9acefc25" />
+	</machine>
 	<machine name="Antagonist Emblem">
 		<comment>https://feuniverse.us/t/antagonist-emblem-sacred-stones/4870</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</machine>
+	<machine name="Apocalypse">
+		<comment>https://feuniverse.us/t/fire-emblem-apocalypse-fe8-hack-5-out-of-30-chapters-done-wip/6847</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="456 - Apocalypse" size="23013240" crc="288de977" />
 	</machine>
 	<machine name="Armour Emblem">
 		<comment>https://feuniverse.us/t/side-project-armor-emblem-fe8/7151</comment>
@@ -58,6 +68,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="254 - Atirian Conquest" size="17224984" crc="f2f006e1" />
 	</machine>
+	<machine name="Awful Emblem">
+		<comment>https://feuniverse.us/t/awful-emblem-complete-act-1-demo/3987</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="418 - Awful Emblem" size="16777216" crc="29f7ca11" />
+	</machine>
 	<machine name="B3L-H411-A">
 		<comment>https://feuniverse.us/t/b3l-h411-a-bar-tending-in-fire-emblem-complete-fe8u/8813</comment>
 		<publisher>Fan Modding</publisher>
@@ -67,6 +82,11 @@
 		<comment>https://feuniverse.us/t/fe8-complete-bandit-emblem/8501</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+	</machine>
+	<machine name="Barhara Trilogy">
+		<comment>https://feuniverse.us/t/fe8-the-barhara-trilogy/9017/1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="477 - Barhara Trilogy" size="18061372" crc="b04b7137" />
 	</machine>
 	<machine name="Barry’s Bandits">
 		<comment>https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707</comment>
@@ -103,10 +123,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="197 - Battle Simulator (No Control)" size="16802684" crc="bcfccaf8" />
 	</machine>
+	<machine name="Behold the Mega-Flare">
+		<comment>https://feuniverse.us/t/fe8-behold-the-mega-flare-v1-2-upto-ch-9-ending-ch-5x-still-not-ready/8816</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="479 - Behold the Mega-Flare" size="25211820" crc="6346dfb5" />
+	</machine>
 	<machine name="Binks Emblem">
 		<comment>https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="280 - Binks Emblem" size="16777216" crc="4cc97f98" />
+	</machine>
+	<machine name="Blackwing Struggle">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-blackwing-struggle-technically-dead/6007</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
 	</machine>
 	<machine name="Blazer’s One Day Hack">
 		<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
@@ -163,6 +193,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
 	</machine>
+	<machine name="Cerulean Coast">
+		<comment>https://feuniverse.us/t/fe8-cerulean-coast-7-chapters/13666</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="492 - Cerulean Coast" size="28145516" crc="81bfb293" />
+	</machine>
 	<machine name="Christmas Crossover Carol">
 		<comment>https://feuniverse.us/t/fe7us-christmas-crossover-carol/4743</comment>
 		<publisher>Fan Modding</publisher>
@@ -189,9 +224,14 @@
 		<rom name="107 - Corrupt Theocracy" size="16873266" crc="928dbeb0" />
 	</machine>
 	<machine name="Crossover Hack">
-		<comment>https://forums.serenesforest.net/index.php?/topic/26051-fire-emblem-crossover-hack-20/</comment>
+		<comment>https://feuniverse.us/t/fe7-fire-emblem-crossover-hack-2-0-2/3609</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="265 - Crossover Hack" size="33480004" crc="bc384a67" />
+	</machine>
+	<machine name="Crystal of Bonds">
+		<comment>https://feuniverse.us/t/fire-emblem-crystal-of-bonds-working-title-fe8-romhack-demo-5-chapters/4801</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="443 - Crystal of Bonds" size="17853160" crc="8fe19751" />
 	</machine>
 	<machine name="Dark Emblem">
 		<comment>https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/</comment>
@@ -207,6 +247,16 @@
 		<comment>https://feuniverse.us/t/fe7-fire-emblem-the-dark-soul-wip/7899</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="415 - Dark Soul" size="19413976" crc="17fe1087" />
+	</machine>
+	<machine name="Dawn of Destiny">
+		<comment>https://feuniverse.us/t/the-dawn-of-destiny/7221</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="460 - Dawn of Destiny" size="17208512" crc="4b7374da" />
+	</machine>
+	<machine name="Dawn of the Red Sun">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-dawn-of-the-red-sun/5436</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="438 - Dawn of the Red Sun" size="19758868" crc="c740ae74" />
 	</machine>
 	<machine name="Decay of the Fangs">
 		<comment>https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/</comment>
@@ -258,20 +308,50 @@
 		<publisher>Reskin</publisher>
 		<rom name="333 - Different Dimensions Ostian Princess" size="16777216" crc="79f1b543" />
 	</machine>
+	<machine name="Divine Keys">
+		<comment>https://feuniverse.us/t/fe8-the-divine-keys-on-hold/7373</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="468 - Divine Keys" size="21116668" crc="9dac7c13" />
+	</machine>
 	<machine name="Dorcas Emblem 2">
 		<comment>https://feuniverse.us/t/dorcas-emblem-2-1/3092</comment>
 		<publisher>Reskin</publisher>
 		<rom name="334 - Dorcas Emblem 2" size="19343004" crc="7f7d07d2" />
+	</machine>
+	<machine name="Doubled or Nothing">
+		<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+	</machine>
+	<machine name="Dragon of Apocalypse">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-dragon-of-apocalypse-complete-but-needs-playtesting/14864</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="495 - Dragon of Apocalypse" size="17889200" crc="7f7d1a56" />
 	</machine>
 	<machine name="Dream of Five">
 		<comment>https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
 	</machine>
+	<machine name="Dreams of Twilight">
+		<comment>https://feuniverse.us/t/fire-emblem-dreams-of-twilight-gameplay-focused-fe8-hack/7489</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="486 - Dreams of Twilight" size="19414472" crc="5b62c925" />
+	</machine>
 	<machine name="Elibean Nights">
 		<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="243 - Elibean Nights" size="28260392" crc="0f2076bd" />
+	</machine>
+	<machine name="Endless Nights">
+		<comment>https://github.com/tclendo/Endless-Nights</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="485 - Endless Nights" size="17693232" crc="73c48346" />
+	</machine>
+	<machine name="ErikFE">
+		<comment>https://feuniverse.us/t/fe8-erikfe/4706</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="440 - ErikFE" size="18622088" crc="a255ac4b" />
 	</machine>
 	<machine name="Escape the Mangs Dungeon">
 		<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
@@ -282,6 +362,16 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="288 - Extinguished Blade" size="16777216" crc="5a32401b" />
+	</machine>
+	<machine name="Faith and Blood">
+		<comment>https://feuniverse.us/t/fe8-faith-and-blood-part-i-complete/4501</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="442 - Faith and Blood" size="20661300" crc="e9be2065" />
+	</machine>
+	<machine name="Fallen Flame">
+		<comment>https://github.com/Zmr56/FallenFlameRep</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="457 - Fallen Flame" size="18016452" crc="abed2733" />
 	</machine>
 	<machine name="Fallen King">
 		<comment>https://forums.serenesforest.net/index.php?/topic/66348-fe7-fire-emblem-fallen-king-v10/</comment>
@@ -573,6 +663,11 @@
 		<publisher>Reskin</publisher>
 		<rom name="401 - FE8 The Fallen Princess" size="21021140" crc="3c806e93" />
 	</machine>
+	<machine name="FE8 Totally Vanilla">
+		<comment>https://forums.serenesforest.net/index.php?/topic/67572-fe8-totally-vanilla/</comment>
+		<publisher>Reskin</publisher>
+		<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+	</machine>
 	<machine name="FE8 Weapon Reversal">
 		<comment>https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820</comment>
 		<publisher>Reskin</publisher>
@@ -623,6 +718,26 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="214 - FE The Grand Uprising (Blue default player phase map sprite palette)" size="29066908" crc="adf5269e" />
 	</machine>
+	<machine name="Fe Time Scarred - Rebirth">
+		<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="463 - Fe Time Scarred - Rebirth" size="17197396" crc="fb485921" />
+	</machine>
+	<machine name="Fe Time Scarred - Rikers Crew">
+		<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="462 - Fe Time Scarred - Rikers Crew" size="18320756" crc="ebd4bac5" />
+	</machine>
+	<machine name="Fe Time Scarred - The Unwanted Saga">
+		<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="464 - Fe Time Scarred - The Unwanted Saga" size="17788392" crc="bdb1f1d2" />
+	</machine>
+	<machine name="Ferrica - Project Kenko">
+		<comment>https://feuniverse.us/t/fire-emblem-ferrica-project-kenko/8814</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="478 - Ferrica - Project Kenko" size="23612392" crc="4124c732" />
+	</machine>
 	<machine name="FEU Gacha">
 		<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
 		<publisher>Fan Modding</publisher>
@@ -632,10 +747,25 @@
 		<publisher>Reskin</publisher>
 		<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
 	</machine>
+	<machine name="Fight for Freedom">
+		<comment>https://feuniverse.us/t/fire-emblem-the-fight-for-freedom-rom-hack-v3/9170</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="480 - Fight for Freedom" size="23944208" crc="8c320753" />
+	</machine>
+	<machine name="Final Fantasy 10 Remake">
+		<comment>https://feuniverse.us/t/ffx-remake/7834</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="472 - Final Fantasy 10 Remake" size="20400084" crc="901e461e" />
+	</machine>
 	<machine name="Fire Emblem 6.7">
 		<comment>https://feuniverse.us/t/fe6-fire-emblem-6-7/9138</comment>
 		<publisher>Reskin</publisher>
 		<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
+	</machine>
+	<machine name="Fire Emblem 8 Time Scarred">
+		<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="461 - Fire Emblem 8 Time Scarred" size="24235600" crc="3187a796" />
 	</machine>
 	<machine name="Fire Emblem (Europe) (En,Es,It)">
 		<comment>[Eng-Ita-Spa]</comment>
@@ -660,6 +790,11 @@
 		<comment>https://tanasmanor.net/sites/fe7/</comment>
 		<publisher>Nintendo</publisher>
 		<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
+	</machine>
+	<machine name="Fire Emblem - Aletheia">
+		<comment>https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a5a1d05d" />
 	</machine>
 	<machine name="Fire Emblem - Barhara Revisited">
 		<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
@@ -745,6 +880,11 @@
 		<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+	</machine>
+	<machine name="Fire Emblem - Illuminated">
+		<comment>https://feuniverse.us/t/fire-emblem-illuminated-31-chapters-planned-19-finished/5553</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
 	</machine>
 	<machine name="Fire Emblem - Izarck’s Quest">
 		<comment>https://feuniverse.us/t/fire-emblem-izarcks-quest/2037</comment>
@@ -929,10 +1069,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="246 - Fire Emblem Forever" size="17627116" crc="d93d269a" />
 	</machine>
+	<machine name="Fire Emblem Origins">
+		<comment>https://feuniverse.us/t/fire-emblem-origins-fe1-in-gba/13522</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="419 - Fire Emblem Origins" size="19279388" crc="f433df6e" />
+	</machine>
 	<machine name="Fire Emblem Poop">
 		<comment>https://feuniverse.us/t/completed-fe7-fire-emblem-poop-ver-1-8-where-theres-smoke-they-pinch-back/4684</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+	</machine>
+	<machine name="Fire Emblem Sengoku">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-sengoku-oda-v098-wip-8-chapters-done/6401</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="451 - Fire Emblem Sengoku" size="21393244" crc="8749de83" />
+	</machine>
+	<machine name="Fire Emblem Time Scarred Time Lines - The Beginning">
+		<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="466 - Fire Emblem Time Scarred Time Lines - The Beginning" size="17270412" crc="b9c68cfe" />
 	</machine>
 	<machine name="Fire Emblem Versus">
 		<comment>https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/</comment>
@@ -948,6 +1103,11 @@
 		<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
 		<publisher>Reskin</publisher>
 		<rom name="336 - Fire Memeblem True 0" size="16777332" crc="e25c779f" />
+	</machine>
+	<machine name="Flames of Freedom">
+		<comment>https://feuniverse.us/t/flames-of-freedom-4-21-update-act-1-final-version/6301</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="459 - Flames of Freedom" size="19577796" crc="5ab4c0e1" />
 	</machine>
 	<machine name="Flames of Redemption">
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
@@ -1004,6 +1164,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="249 - Grand Archipelago" size="19579000" crc="14b61c7e" />
 	</machine>
+	<machine name="Grug’s Primitive Disadventure">
+		<comment>https://feuniverse.us/t/grugs-primitve-disadventure-by-team-stoned-stoners-5-chapters-out-of-18-done/9007</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+	</machine>
 	<machine name="Heaven’s Bloom">
 		<comment>https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/</comment>
 		<publisher>Fan Modding</publisher>
@@ -1028,6 +1193,16 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="261 - Heroes of Valencia and Archanea" size="16804540" crc="0c8502f7" />
+	</machine>
+	<machine name="Horizons">
+		<comment>https://feuniverse.us/t/fire-emblem-horizons-7-chapters-of-gameplay/13737</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="493 - Horizons" size="23323800" crc="63f74902" />
+	</machine>
+	<machine name="Host of the Dark">
+		<comment>https://feuniverse.us/t/fe8-host-of-the-dark-0-6-65-done-12-chapters-in-progress/12731</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
 	</machine>
 	<machine name="Inheritance">
 		<comment>https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/</comment>
@@ -1054,10 +1229,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="219 - Journeys" size="26336432" crc="1c83df77" />
 	</machine>
+	<machine name="JP Hack">
+		<comment>https://github.com/Pikmin1211/JP_Hack</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="473 - JP Hack" size="19099644" crc="990f7870" />
+	</machine>
 	<machine name="Jugdral Saga">
 		<comment>https://feuniverse.us/t/jugdral-saga-project/3743</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="268 - Jugdral Saga" size="16777216" crc="b9521183" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria">
+		<comment>https://feuniverse.us/t/justice-pride-gaiden-clash-in-estria/8659</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
 	</machine>
 	<machine name="Justice and Pride - Book 2">
 		<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
@@ -1079,6 +1264,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
 	</machine>
+	<machine name="Land of Heroes">
+		<comment>https://feuniverse.us/t/land-of-heroes-series-html5-game-engine-fe8u-hack/8581</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="476 - Land of Heroes" size="19246184" crc="5c77cc5e" />
+	</machine>
+	<machine name="Last Heavenly Throne">
+		<comment>https://github.com/runadoesathing/Last-Heavenly-Throne</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="453 - Last Heavenly Throne" size="20469068" crc="9001906e" />
+	</machine>
 	<machine name="League of Champions (Patch1)">
 		<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
 		<publisher>Fan Modding</publisher>
@@ -1088,6 +1283,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="256 - League of Champions (Patch2)" size="16939004" crc="1b93a3d4" />
+	</machine>
+	<machine name="Legends of Avenir">
+		<comment>https://github.com/Snakey11/Legends-of-Avenir</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="424 - Legends of Avenir" size="24457576" crc="bdd2a1da" />
 	</machine>
 	<machine name="Lord Weapons Patch Rebalance">
 		<comment>https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/</comment>
@@ -1104,6 +1304,11 @@
 		<publisher>Reskin</publisher>
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
+	<machine name="M. E. R. C. S.">
+		<comment>https://feuniverse.us/t/m-e-r-c-s-hack-wip/7442</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="467 - M" size="18427704" crc="048eb1b6" />
+	</machine>
 	<machine name="Maiden Quest">
 		<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 		<publisher>Fan Modding</publisher>
@@ -1113,6 +1318,11 @@
 		<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+	</machine>
+	<machine name="Mask of Dunham">
+		<comment>https://github.com/sme23/oat-hacc</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="437 - Mask of Dunham" size="19753152" crc="77dd037e" />
 	</machine>
 	<machine name="Midnight Eclipse (Joke hack)">
 		<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
@@ -1133,6 +1343,11 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/89316-rom-hack-fans-and-hacker-i-need-your-help/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="199 - Narcian and the Mirror Chamber" size="18997204" crc="9c298acb" />
+	</machine>
+	<machine name="Nations of Conquest">
+		<comment>https://feuniverse.us/t/fe8-nations-of-conquest-up-to-ch-9/13377</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="494 - Nations of Conquest" size="26854248" crc="df8e92cf" />
 	</machine>
 	<machine name="Necrosis Among the Living (Main hack)">
 		<comment>https://feuniverse.us/t/necrosis-among-the-living/8815</comment>
@@ -1193,6 +1408,11 @@
 		<comment>https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786</comment>
 		<publisher>Reskin</publisher>
 		<rom name="342 - Pick my Sabotage" size="16883688" crc="5529f7fe" />
+	</machine>
+	<machine name="Pokémblem">
+		<comment>https://feuniverse.us/t/pokemblem-lets-beat-brock/8875</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="487 - Pokémblem" size="20667228" crc="ea9ac6a5" />
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
@@ -1259,6 +1479,11 @@
 		<publisher>Reskin</publisher>
 		<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
 	</machine>
+	<machine name="Prophecy of Flames">
+		<comment>https://feuniverse.us/t/fire-emblem-the-prophecy-of-flames/8033</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="481 - Prophecy of Flames" size="29276820" crc="79e1e7fd" />
+	</machine>
 	<machine name="Psychic Emblem (weapons and classes overhaul)">
 		<comment>https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931</comment>
 		<publisher>Reskin</publisher>
@@ -1268,6 +1493,11 @@
 		<comment>https://feuniverse.us/t/puzzle-emblem/7316</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="189 - Puzzle Emblem" size="16824428" crc="83fc3242" />
+	</machine>
+	<machine name="Queen’s Sword (English Translation)">
+		<comment>https://feuniverse.us/t/release-fire-emblem-queens-sword-translation-beta-v1-0-3-07-2020/8611</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
 	</machine>
 	<machine name="Ragefest 5 DLC">
 		<comment>https://feuniverse.us/t/rfv-dlc-official-release/5675</comment>
@@ -1283,6 +1513,11 @@
 		<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055</comment>
 		<publisher>Reskin</publisher>
 		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+	</machine>
+	<machine name="REDFE">
+		<comment>https://feuniverse.us/t/redfe-yes-roy-is-in-this-game/2530</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="417 - REDFE" size="16782396" crc="bd449655" />
 	</machine>
 	<machine name="Remodeling Sealed Thracia">
 		<comment>改造封印トラキア</comment>
@@ -1304,6 +1539,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
 	</machine>
+	<machine name="Resonance - The Hotfix">
+		<comment>https://feuniverse.us/t/resonance-the-hotfix-update-7-9-2020/7247</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="455 - Resonance - The Hotfix" size="27292280" crc="39b68dd5" />
+	</machine>
 	<machine name="Resonance Resurgence Demo">
 		<comment>FEE3 Demo</comment>
 		<publisher>Fan Modding</publisher>
@@ -1313,6 +1553,16 @@
 		<comment>1.2.3</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="284 - Resurgonence" size="23710212" crc="380e45b9" />
+	</machine>
+	<machine name="Revitalised">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-revitalized-working-title/7876</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="469 - Revitalised" size="17708492" crc="4b982aab" />
+	</machine>
+	<machine name="Revolution">
+		<comment>https://feuniverse.us/t/demo-fire-emblem-revolution-fe8/8274</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
 	</machine>
 	<machine name="Royal Army">
 		<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
@@ -1354,15 +1604,35 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
+	<machine name="Sacred Echoes (English)">
+		<comment>https://feuniverse.us/t/fe8-sacred-echoes-44-chapters-playable-act-4-beta-available/4523</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+	</machine>
+	<machine name="Sacred Echoes (Spanish)">
+		<comment>https://feuniverse.us/t/fe8-sacred-echoes-44-chapters-playable-act-4-beta-available/4523</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="427 - Sacred Echoes (Spanish)" size="20347472" crc="844cd7a0" />
+	</machine>
 	<machine name="Sacred Eirika">
 		<comment>https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723</comment>
 		<publisher>Reskin</publisher>
 		<rom name="365 - Sacred Eirika" size="19645624" crc="a0612059" />
 	</machine>
+	<machine name="Sacred Radiance Demo (FE9 Demake)">
+		<comment>https://feuniverse.us/t/sacred-radiance-demo-fe9-demake-by-lagspike-and-stephano/7817</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="470 - Sacred Radiance Demo (FE9 Demake)" size="23845772" crc="90246924" />
+	</machine>
 	<machine name="Sacred Stones Death Difficulty">
 		<comment>https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty</comment>
 		<publisher>Reskin</publisher>
 		<rom name="398 - Sacred Stones Death Difficulty" size="16782360" crc="35d91a7c" />
+	</machine>
+	<machine name="Sacred Texts">
+		<comment>https://forums.serenesforest.net/index.php?/topic/86760-fe-sacred-texts/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
 	</machine>
 	<machine name="Sacred Trilogy Final -Full- Fixed Growths- No AI">
 		<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
@@ -1414,25 +1684,60 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
 	</machine>
+	<machine name="Scourge of Proxima">
+		<comment>https://feuniverse.us/t/fire-emblem-scourge-of-proxima/5652</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="431 - Scourge of Proxima" size="22542928" crc="ced8254f" />
+	</machine>
+	<machine name="Sealed in Light">
+		<comment>https://feuniverse.us/t/fire-emblem-sealed-in-light-beta/5670</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="439 - Sealed in Light" size="17267760" crc="a23144da" />
+	</machine>
 	<machine name="Self-Randomising Rom">
 		<comment>https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+	</machine>
+	<machine name="Seven Siblings">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-seven-siblings-22-chapters-playable/5015</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="425 - Seven Siblings" size="26079424" crc="6ad992e0" />
+	</machine>
+	<machine name="Shackled Power">
+		<comment>https://feuniverse.us/t/fire-emblem-shackled-power-fee3-approved-17-chapters-playable/9254</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="488 - Shackled Power" size="25215756" crc="da531631" />
 	</machine>
 	<machine name="Shining Armor">
 		<comment>http://www.romhacking.net/hacks/538/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
 	</machine>
+	<machine name="SHYUTERz’s Patch">
+		<comment>https://feuniverse.us/t/shyuterz-patch-animation/7434</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="471 - SHYUTERz’s Patch" size="31877676" crc="f40118ba" />
+	</machine>
 	<machine name="SirSerenes FE8 Reskin">
 		<comment>https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/</comment>
 		<publisher>Reskin</publisher>
 		<rom name="382 - SirSerenes FE8 Reskin" size="16777288" crc="2b74a740" />
 	</machine>
+	<machine name="Skliros Saga">
+		<comment>https://forums.serenesforest.net/index.php?/topic/90688-skliros-saga-tragedy-of-deceit-1-chapters-done/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="454 - Skliros Saga" size="23393636" crc="a4f87ba3" />
+	</machine>
 	<machine name="Slot Machine">
 		<comment>https://feuniverse.us/t/slot-machine/8604</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
+	</machine>
+	<machine name="Souls of the Forest">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-souls-of-the-forest/4300</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="435 - Souls of the Forest" size="23221248" crc="d5d8634b" />
 	</machine>
 	<machine name="Spark of Life">
 		<comment>https://feuniverse.us/t/new-hack-spark-of-life/5819</comment>
@@ -1474,10 +1779,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="289 - Tale of Ternon" size="18452460" crc="fb829219" />
 	</machine>
+	<machine name="Tales from Afar">
+		<comment>https://feuniverse.us/t/fire-emblem-tales-from-afar-cancelled/6792</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="458 - Tales from Afar" size="33142244" crc="7bc0139b" />
+	</machine>
 	<machine name="Tales of the Emblem">
 		<comment>http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar</comment>
 		<publisher>Reskin</publisher>
 		<rom name="383 - Tales of the Emblem" size="16866208" crc="960d475e" />
+	</machine>
+	<machine name="Tales of the Golden Knight">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-tales-of-the-golden-knights-update-version-0-1-for-fee3/4166</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="422 - Tales of the Golden Knight" size="27862300" crc="883a1ac6" />
+	</machine>
+	<machine name="Terror of the Forest">
+		<comment>https://feuniverse.us/t/fe8-terror-of-the-forest-final-chapter-out/6003</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
 	<machine name="The Binding Bartre">
 		<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
@@ -1544,10 +1864,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
 	</machine>
+	<machine name="The Eligor’s Spear">
+		<comment>https://feuniverse.us/t/fe-8-full-length-the-eligors-spear-v-1-0-release/4755</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="428 - The Eligor’s Spear" size="24776684" crc="20426aa9" />
+	</machine>
 	<machine name="The Empire’s Reach Revisited">
 		<comment>https://feuniverse.us/t/the-empires-reach-revisited/6954/1</comment>
 		<publisher>Reskin</publisher>
 		<rom name="389 - The Empire’s Reach Revisited" size="16788832" crc="5b0c8f83" />
+	</machine>
+	<machine name="The Empyrean Prophecy">
+		<comment>https://feuniverse.us/t/hiraeth-legacies/5412</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="436 - The Empyrean Prophecy" size="29810060" crc="6039ab3f" />
 	</machine>
 	<machine name="The Final Swear 2">
 		<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696</comment>
@@ -1574,6 +1904,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="207 - The Four Kings (Reverse Recruitment)" size="28852468" crc="34e1170d" />
 	</machine>
+	<machine name="The Golden Kingdom">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-golden-kingdom/4376</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+	</machine>
 	<machine name="The Last Promise">
 		<comment>http://www.feshrine.net/thelastpromise/</comment>
 		<publisher>Fan Modding</publisher>
@@ -1593,6 +1928,26 @@
 		<comment>https://feuniverse.us/t/tlp-weapon-reversal/5339</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+	</machine>
+	<machine name="The Lonely Mirror (Classic)">
+		<comment>https://feuniverse.us/t/fire-emblem-the-lonely-mirror-full-game-fe8-rom-hack/5712</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="433 - The Lonely Mirror (Classic)" size="30220952" crc="9302de3a" />
+	</machine>
+	<machine name="The Lonely Mirror (Friendly)">
+		<comment>https://feuniverse.us/t/fire-emblem-the-lonely-mirror-full-game-fe8-rom-hack/5712</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="434 - The Lonely Mirror (Friendly)" size="30226464" crc="c833f3eb" />
+	</machine>
+	<machine name="The Lullaby of Lust">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-lullaby-of-lust-act-1-6-25-chapters/12687</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="423 - The Lullaby of Lust" size="20183748" crc="3a813e87" />
+	</machine>
+	<machine name="The Nameless Heroes (English Translation)">
+		<comment>https://feuniverse.us/t/fe8-the-nameless-heroes-9-22-update/6262</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="448 - The Nameless Heroes (English Translation)" size="29782176" crc="36042746" />
 	</machine>
 	<machine name="The Queen’s Lament">
 		<comment>https://feuniverse.us/t/the-queens-lament-demo-2-00/930</comment>
@@ -1643,6 +1998,11 @@
 		<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+	</machine>
+	<machine name="The White Feather">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="490 - The White Feather" size="23302696" crc="294c6150" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>
@@ -1699,6 +2059,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
 	</machine>
+	<machine name="War of Retribution">
+		<comment>https://github.com/Slimjim8345/FE_War_of_Retribution_DEMO</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="484 - War of Retribution" size="17084172" crc="7b8abafa" />
+	</machine>
 	<machine name="War on Two Fronts">
 		<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-war-on-two-fronts-v1-2-currently-looking-for-graphical-help/8548</comment>
 		<publisher>Fan Modding</publisher>
@@ -1719,6 +2084,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 	</machine>
+	<machine name="Wrath of the Crusade">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-wrath-of-the-crusade-v0-1-4-1/9213</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="483 - Wrath of the Crusade" size="17347588" crc="83bfa1d6" />
+	</machine>
 	<machine name="Yggdra Hack UI Translation">
 		<comment>https://github.com/jfarr095/YggdraHack</comment>
 		<publisher>Fan Modding</publisher>
@@ -1738,5 +2108,30 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/28111-zombie-apocalypse-meets-fire-emblem-demo-patch-1-is-here/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
+	</machine>
+	<machine name="名も無き英雄">
+		<comment>The Nameless Heroes</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
+	</machine>
+	<machine name="女王の剣 (Queen’s Sword)">
+		<comment>http://fequeen.blog.fc2.com/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+	</machine>
+	<machine name="黄昏の魔剣１部">
+		<comment>Magic Sword of Twilight</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="444 - 黄昏の魔剣１部" size="22610180" crc="02a1d458" />
+	</machine>
+	<machine name="黄昏の魔剣２部パンナルート">
+		<comment>Magic Sword of Twilight</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="445 - 黄昏の魔剣２部パンナルート" size="23248008" crc="f0ac088d" />
+	</machine>
+	<machine name="黄昏の魔剣２部主人公覚醒編">
+		<comment>Magic Sword of Twilight</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="446 - 黄昏の魔剣２部主人公覚醒編" size="22734804" crc="31330711" />
 	</machine>
 </datafile>

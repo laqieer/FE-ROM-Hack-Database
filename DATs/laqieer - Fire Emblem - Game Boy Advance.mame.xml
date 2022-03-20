@@ -15,8 +15,14 @@
 	<machine name="A Sacred Dawn DX">
 		<rom name="285 - A Sacred Dawn DX" size="22333152" crc="651b8fa3" />
 	</machine>
+	<machine name="Alternate Stones">
+		<rom name="449 - Alternate Stones" size="18583756" crc="9acefc25" />
+	</machine>
 	<machine name="Antagonist Emblem">
 		<rom name="169 - Antagonist Emblem" size="17515204" crc="13983cfb" />
+	</machine>
+	<machine name="Apocalypse">
+		<rom name="456 - Apocalypse" size="23013240" crc="288de977" />
 	</machine>
 	<machine name="Armour Emblem">
 		<rom name="390 - Armour Emblem" size="19049856" crc="9fe8fda0" />
@@ -27,11 +33,17 @@
 	<machine name="Atirian Conquest">
 		<rom name="254 - Atirian Conquest" size="17224984" crc="f2f006e1" />
 	</machine>
+	<machine name="Awful Emblem">
+		<rom name="418 - Awful Emblem" size="16777216" crc="29f7ca11" />
+	</machine>
 	<machine name="B3L-H411-A">
 		<rom name="212 - B3L-H411-A" size="17536556" crc="db73120f" />
 	</machine>
 	<machine name="Bandit Emblem">
 		<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+	</machine>
+	<machine name="Barhara Trilogy">
+		<rom name="477 - Barhara Trilogy" size="18061372" crc="b04b7137" />
 	</machine>
 	<machine name="Barry’s Bandits">
 		<rom name="156 - Barry’s Bandits" size="18715144" crc="2ce87ea5" />
@@ -54,8 +66,14 @@
 	<machine name="Battle Simulator (No Control)">
 		<rom name="197 - Battle Simulator (No Control)" size="16802684" crc="bcfccaf8" />
 	</machine>
+	<machine name="Behold the Mega-Flare">
+		<rom name="479 - Behold the Mega-Flare" size="25211820" crc="6346dfb5" />
+	</machine>
 	<machine name="Binks Emblem">
 		<rom name="280 - Binks Emblem" size="16777216" crc="4cc97f98" />
+	</machine>
+	<machine name="Blackwing Struggle">
+		<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
 	</machine>
 	<machine name="Blazer’s One Day Hack">
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
@@ -90,6 +108,9 @@
 	<machine name="Carcino’s Civil War">
 		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
 	</machine>
+	<machine name="Cerulean Coast">
+		<rom name="492 - Cerulean Coast" size="28145516" crc="81bfb293" />
+	</machine>
 	<machine name="Christmas Crossover Carol">
 		<rom name="121 - Christmas Crossover Carol" size="16831344" crc="676c6d7f" />
 	</machine>
@@ -108,6 +129,9 @@
 	<machine name="Crossover Hack">
 		<rom name="265 - Crossover Hack" size="33480004" crc="bc384a67" />
 	</machine>
+	<machine name="Crystal of Bonds">
+		<rom name="443 - Crystal of Bonds" size="17853160" crc="8fe19751" />
+	</machine>
 	<machine name="Dark Emblem">
 		<rom name="263 - Dark Emblem" size="23383092" crc="74277073" />
 	</machine>
@@ -116,6 +140,12 @@
 	</machine>
 	<machine name="Dark Soul">
 		<rom name="415 - Dark Soul" size="19413976" crc="17fe1087" />
+	</machine>
+	<machine name="Dawn of Destiny">
+		<rom name="460 - Dawn of Destiny" size="17208512" crc="4b7374da" />
+	</machine>
+	<machine name="Dawn of the Red Sun">
+		<rom name="438 - Dawn of the Red Sun" size="19758868" crc="c740ae74" />
 	</machine>
 	<machine name="Decay of the Fangs">
 		<rom name="253 - Decay of the Fangs" size="20200548" crc="85f73677" />
@@ -147,20 +177,44 @@
 	<machine name="Different Dimensions Ostian Princess">
 		<rom name="333 - Different Dimensions Ostian Princess" size="16777216" crc="79f1b543" />
 	</machine>
+	<machine name="Divine Keys">
+		<rom name="468 - Divine Keys" size="21116668" crc="9dac7c13" />
+	</machine>
 	<machine name="Dorcas Emblem 2">
 		<rom name="334 - Dorcas Emblem 2" size="19343004" crc="7f7d07d2" />
+	</machine>
+	<machine name="Doubled or Nothing">
+		<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+	</machine>
+	<machine name="Dragon of Apocalypse">
+		<rom name="495 - Dragon of Apocalypse" size="17889200" crc="7f7d1a56" />
 	</machine>
 	<machine name="Dream of Five">
 		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
 	</machine>
+	<machine name="Dreams of Twilight">
+		<rom name="486 - Dreams of Twilight" size="19414472" crc="5b62c925" />
+	</machine>
 	<machine name="Elibean Nights">
 		<rom name="243 - Elibean Nights" size="28260392" crc="0f2076bd" />
+	</machine>
+	<machine name="Endless Nights">
+		<rom name="485 - Endless Nights" size="17693232" crc="73c48346" />
+	</machine>
+	<machine name="ErikFE">
+		<rom name="440 - ErikFE" size="18622088" crc="a255ac4b" />
 	</machine>
 	<machine name="Escape the Mangs Dungeon">
 		<rom name="161 - Escape the Mangs Dungeon" size="17083184" crc="090dffb3" />
 	</machine>
 	<machine name="Extinguished Blade">
 		<rom name="288 - Extinguished Blade" size="16777216" crc="5a32401b" />
+	</machine>
+	<machine name="Faith and Blood">
+		<rom name="442 - Faith and Blood" size="20661300" crc="e9be2065" />
+	</machine>
+	<machine name="Fallen Flame">
+		<rom name="457 - Fallen Flame" size="18016452" crc="abed2733" />
 	</machine>
 	<machine name="Fallen King">
 		<rom name="114 - Fallen King" size="17826344" crc="8b2cbe45" />
@@ -336,6 +390,9 @@
 	<machine name="FE8 The Fallen Princess">
 		<rom name="401 - FE8 The Fallen Princess" size="21021140" crc="3c806e93" />
 	</machine>
+	<machine name="FE8 Totally Vanilla">
+		<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+	</machine>
 	<machine name="FE8 Weapon Reversal">
 		<rom name="376 - FE8 Weapon Reversal" size="18248732" crc="b069af12" />
 	</machine>
@@ -366,14 +423,35 @@
 	<machine name="FE The Grand Uprising (Blue default player phase map sprite palette)">
 		<rom name="214 - FE The Grand Uprising (Blue default player phase map sprite palette)" size="29066908" crc="adf5269e" />
 	</machine>
+	<machine name="Fe Time Scarred - Rebirth">
+		<rom name="463 - Fe Time Scarred - Rebirth" size="17197396" crc="fb485921" />
+	</machine>
+	<machine name="Fe Time Scarred - Rikers Crew">
+		<rom name="462 - Fe Time Scarred - Rikers Crew" size="18320756" crc="ebd4bac5" />
+	</machine>
+	<machine name="Fe Time Scarred - The Unwanted Saga">
+		<rom name="464 - Fe Time Scarred - The Unwanted Saga" size="17788392" crc="bdb1f1d2" />
+	</machine>
+	<machine name="Ferrica - Project Kenko">
+		<rom name="478 - Ferrica - Project Kenko" size="23612392" crc="4124c732" />
+	</machine>
 	<machine name="FEU Gacha">
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
 	</machine>
 	<machine name="FE聖魔 適当に改造 まるっと全部修正">
 		<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
 	</machine>
+	<machine name="Fight for Freedom">
+		<rom name="480 - Fight for Freedom" size="23944208" crc="8c320753" />
+	</machine>
+	<machine name="Final Fantasy 10 Remake">
+		<rom name="472 - Final Fantasy 10 Remake" size="20400084" crc="901e461e" />
+	</machine>
 	<machine name="Fire Emblem 6.7">
 		<rom name="324 - Fire Emblem 6" size="16777532" crc="281520a0" />
+	</machine>
+	<machine name="Fire Emblem 8 Time Scarred">
+		<rom name="461 - Fire Emblem 8 Time Scarred" size="24235600" crc="3187a796" />
 	</machine>
 	<machine name="Fire Emblem (Europe) (En,Es,It)">
 		<rom name="5 - Fire Emblem (Europe) (En,Es,It)" size="16777216" crc="9decc754" />
@@ -389,6 +467,9 @@
 	</machine>
 	<machine name="Fire Emblem (USA, Australia)">
 		<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
+	</machine>
+	<machine name="Fire Emblem - Aletheia">
+		<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a5a1d05d" />
 	</machine>
 	<machine name="Fire Emblem - Barhara Revisited">
 		<rom name="123 - Fire Emblem - Barhara Revisited" size="17529372" crc="15482be6" />
@@ -440,6 +521,9 @@
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
 		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+	</machine>
+	<machine name="Fire Emblem - Illuminated">
+		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
 	</machine>
 	<machine name="Fire Emblem - Izarck’s Quest">
 		<rom name="247 - Fire Emblem - Izarck’s Quest" size="21103520" crc="6bf9575b" />
@@ -552,8 +636,17 @@
 	<machine name="Fire Emblem Forever">
 		<rom name="246 - Fire Emblem Forever" size="17627116" crc="d93d269a" />
 	</machine>
+	<machine name="Fire Emblem Origins">
+		<rom name="419 - Fire Emblem Origins" size="19279388" crc="f433df6e" />
+	</machine>
 	<machine name="Fire Emblem Poop">
 		<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+	</machine>
+	<machine name="Fire Emblem Sengoku">
+		<rom name="451 - Fire Emblem Sengoku" size="21393244" crc="8749de83" />
+	</machine>
+	<machine name="Fire Emblem Time Scarred Time Lines - The Beginning">
+		<rom name="466 - Fire Emblem Time Scarred Time Lines - The Beginning" size="17270412" crc="b9c68cfe" />
 	</machine>
 	<machine name="Fire Emblem Versus">
 		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
@@ -563,6 +656,9 @@
 	</machine>
 	<machine name="Fire Memeblem True 0">
 		<rom name="336 - Fire Memeblem True 0" size="16777332" crc="e25c779f" />
+	</machine>
+	<machine name="Flames of Freedom">
+		<rom name="459 - Flames of Freedom" size="19577796" crc="5ab4c0e1" />
 	</machine>
 	<machine name="Flames of Redemption">
 		<rom name="239 - Flames of Redemption" size="24536888" crc="e1428e68" />
@@ -597,6 +693,9 @@
 	<machine name="Grand Archipelago">
 		<rom name="249 - Grand Archipelago" size="19579000" crc="14b61c7e" />
 	</machine>
+	<machine name="Grug’s Primitive Disadventure">
+		<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+	</machine>
 	<machine name="Heaven’s Bloom">
 		<rom name="154 - Heaven’s Bloom" size="18376448" crc="c998aa0e" />
 	</machine>
@@ -611,6 +710,12 @@
 	</machine>
 	<machine name="Heroes of Valencia and Archanea">
 		<rom name="261 - Heroes of Valencia and Archanea" size="16804540" crc="0c8502f7" />
+	</machine>
+	<machine name="Horizons">
+		<rom name="493 - Horizons" size="23323800" crc="63f74902" />
+	</machine>
+	<machine name="Host of the Dark">
+		<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
 	</machine>
 	<machine name="Inheritance">
 		<rom name="210 - Inheritance" size="27877852" crc="db7233f0" />
@@ -627,8 +732,14 @@
 	<machine name="Journeys">
 		<rom name="219 - Journeys" size="26336432" crc="1c83df77" />
 	</machine>
+	<machine name="JP Hack">
+		<rom name="473 - JP Hack" size="19099644" crc="990f7870" />
+	</machine>
 	<machine name="Jugdral Saga">
 		<rom name="268 - Jugdral Saga" size="16777216" crc="b9521183" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria">
+		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
 	</machine>
 	<machine name="Justice and Pride - Book 2">
 		<rom name="272 - Justice and Pride - Book 2" size="22610380" crc="d28f4951" />
@@ -642,11 +753,20 @@
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
 	</machine>
+	<machine name="Land of Heroes">
+		<rom name="476 - Land of Heroes" size="19246184" crc="5c77cc5e" />
+	</machine>
+	<machine name="Last Heavenly Throne">
+		<rom name="453 - Last Heavenly Throne" size="20469068" crc="9001906e" />
+	</machine>
 	<machine name="League of Champions (Patch1)">
 		<rom name="255 - League of Champions (Patch1)" size="18586224" crc="6c949342" />
 	</machine>
 	<machine name="League of Champions (Patch2)">
 		<rom name="256 - League of Champions (Patch2)" size="16939004" crc="1b93a3d4" />
+	</machine>
+	<machine name="Legends of Avenir">
+		<rom name="424 - Legends of Avenir" size="24457576" crc="bdd2a1da" />
 	</machine>
 	<machine name="Lord Weapons Patch Rebalance">
 		<rom name="340 - Lord Weapons Patch Rebalance" size="16833072" crc="85a80d99" />
@@ -657,11 +777,17 @@
 	<machine name="Lyn Emblem">
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
+	<machine name="M. E. R. C. S.">
+		<rom name="467 - M" size="18427704" crc="048eb1b6" />
+	</machine>
 	<machine name="Maiden Quest">
 		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
 	</machine>
 	<machine name="Marc’s Precious - Revenge">
 		<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
+	</machine>
+	<machine name="Mask of Dunham">
+		<rom name="437 - Mask of Dunham" size="19753152" crc="77dd037e" />
 	</machine>
 	<machine name="Midnight Eclipse (Joke hack)">
 		<rom name="395 - Midnight Eclipse (Joke hack)" size="16959580" crc="2865d6ce" />
@@ -674,6 +800,9 @@
 	</machine>
 	<machine name="Narcian and the Mirror Chamber">
 		<rom name="199 - Narcian and the Mirror Chamber" size="18997204" crc="9c298acb" />
+	</machine>
+	<machine name="Nations of Conquest">
+		<rom name="494 - Nations of Conquest" size="26854248" crc="df8e92cf" />
 	</machine>
 	<machine name="Necrosis Among the Living (Main hack)">
 		<rom name="222 - Necrosis Among the Living (Main hack)" size="25774348" crc="97095ad2" />
@@ -710,6 +839,9 @@
 	</machine>
 	<machine name="Pick my Sabotage">
 		<rom name="342 - Pick my Sabotage" size="16883688" crc="5529f7fe" />
+	</machine>
+	<machine name="Pokémblem">
+		<rom name="487 - Pokémblem" size="20667228" crc="ea9ac6a5" />
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />
@@ -750,11 +882,17 @@
 	<machine name="Project Ember (with Alternate Promotions) (Reverse Recruitment)">
 		<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
 	</machine>
+	<machine name="Prophecy of Flames">
+		<rom name="481 - Prophecy of Flames" size="29276820" crc="79e1e7fd" />
+	</machine>
 	<machine name="Psychic Emblem (weapons and classes overhaul)">
 		<rom name="347 - Psychic Emblem (weapons and classes overhaul)" size="17770636" crc="5b763687" />
 	</machine>
 	<machine name="Puzzle Emblem">
 		<rom name="189 - Puzzle Emblem" size="16824428" crc="83fc3242" />
+	</machine>
+	<machine name="Queen’s Sword (English Translation)">
+		<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
 	</machine>
 	<machine name="Ragefest 5 DLC">
 		<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
@@ -764,6 +902,9 @@
 	</machine>
 	<machine name="Rart Emblem Zero - The Rarted Stones">
 		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+	</machine>
+	<machine name="REDFE">
+		<rom name="417 - REDFE" size="16782396" crc="bd449655" />
 	</machine>
 	<machine name="Remodeling Sealed Thracia">
 		<rom name="405 - Remodeling Sealed Thracia" size="33568120" crc="e0712419" />
@@ -777,11 +918,20 @@
 	<machine name="Resonance">
 		<rom name="144 - Resonance" size="21319464" crc="7d35cc3c" />
 	</machine>
+	<machine name="Resonance - The Hotfix">
+		<rom name="455 - Resonance - The Hotfix" size="27292280" crc="39b68dd5" />
+	</machine>
 	<machine name="Resonance Resurgence Demo">
 		<rom name="283 - Resonance Resurgence Demo" size="23770732" crc="7e89403c" />
 	</machine>
 	<machine name="Resurgonence">
 		<rom name="284 - Resurgonence" size="23710212" crc="380e45b9" />
+	</machine>
+	<machine name="Revitalised">
+		<rom name="469 - Revitalised" size="17708492" crc="4b982aab" />
+	</machine>
+	<machine name="Revolution">
+		<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
 	</machine>
 	<machine name="Royal Army">
 		<rom name="325 - Royal Army" size="18382196" crc="1aac306b" />
@@ -807,11 +957,23 @@
 	<machine name="Sacred Contention (Still Mode)">
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
+	<machine name="Sacred Echoes (English)">
+		<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+	</machine>
+	<machine name="Sacred Echoes (Spanish)">
+		<rom name="427 - Sacred Echoes (Spanish)" size="20347472" crc="844cd7a0" />
+	</machine>
 	<machine name="Sacred Eirika">
 		<rom name="365 - Sacred Eirika" size="19645624" crc="a0612059" />
 	</machine>
+	<machine name="Sacred Radiance Demo (FE9 Demake)">
+		<rom name="470 - Sacred Radiance Demo (FE9 Demake)" size="23845772" crc="90246924" />
+	</machine>
 	<machine name="Sacred Stones Death Difficulty">
 		<rom name="398 - Sacred Stones Death Difficulty" size="16782360" crc="35d91a7c" />
+	</machine>
+	<machine name="Sacred Texts">
+		<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
 	</machine>
 	<machine name="Sacred Trilogy Final -Full- Fixed Growths- No AI">
 		<rom name="358 - Sacred Trilogy Final -Full- Fixed Growths- No AI" size="33532712" crc="9c1dd2f3" />
@@ -843,17 +1005,38 @@
 	<machine name="Scarlet Rising">
 		<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
 	</machine>
+	<machine name="Scourge of Proxima">
+		<rom name="431 - Scourge of Proxima" size="22542928" crc="ced8254f" />
+	</machine>
+	<machine name="Sealed in Light">
+		<rom name="439 - Sealed in Light" size="17267760" crc="a23144da" />
+	</machine>
 	<machine name="Self-Randomising Rom">
 		<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+	</machine>
+	<machine name="Seven Siblings">
+		<rom name="425 - Seven Siblings" size="26079424" crc="6ad992e0" />
+	</machine>
+	<machine name="Shackled Power">
+		<rom name="488 - Shackled Power" size="25215756" crc="da531631" />
 	</machine>
 	<machine name="Shining Armor">
 		<rom name="102 - Shining Armor" size="16788636" crc="67368bbb" />
 	</machine>
+	<machine name="SHYUTERz’s Patch">
+		<rom name="471 - SHYUTERz’s Patch" size="31877676" crc="f40118ba" />
+	</machine>
 	<machine name="SirSerenes FE8 Reskin">
 		<rom name="382 - SirSerenes FE8 Reskin" size="16777288" crc="2b74a740" />
 	</machine>
+	<machine name="Skliros Saga">
+		<rom name="454 - Skliros Saga" size="23393636" crc="a4f87ba3" />
+	</machine>
 	<machine name="Slot Machine">
 		<rom name="215 - Slot Machine" size="16784068" crc="36c739f5" />
+	</machine>
+	<machine name="Souls of the Forest">
+		<rom name="435 - Souls of the Forest" size="23221248" crc="d5d8634b" />
 	</machine>
 	<machine name="Spark of Life">
 		<rom name="409 - Spark of Life" size="19227424" crc="77592e80" />
@@ -879,8 +1062,17 @@
 	<machine name="Tale of Ternon">
 		<rom name="289 - Tale of Ternon" size="18452460" crc="fb829219" />
 	</machine>
+	<machine name="Tales from Afar">
+		<rom name="458 - Tales from Afar" size="33142244" crc="7bc0139b" />
+	</machine>
 	<machine name="Tales of the Emblem">
 		<rom name="383 - Tales of the Emblem" size="16866208" crc="960d475e" />
+	</machine>
+	<machine name="Tales of the Golden Knight">
+		<rom name="422 - Tales of the Golden Knight" size="27862300" crc="883a1ac6" />
+	</machine>
+	<machine name="Terror of the Forest">
+		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
 	<machine name="The Binding Bartre">
 		<rom name="322 - The Binding Bartre" size="16793100" crc="b9605bae" />
@@ -921,8 +1113,14 @@
 	<machine name="The Dragon Herald (DSSave)">
 		<rom name="153 - The Dragon Herald (DSSave)" size="25565628" crc="24eaa892" />
 	</machine>
+	<machine name="The Eligor’s Spear">
+		<rom name="428 - The Eligor’s Spear" size="24776684" crc="20426aa9" />
+	</machine>
 	<machine name="The Empire’s Reach Revisited">
 		<rom name="389 - The Empire’s Reach Revisited" size="16788832" crc="5b0c8f83" />
+	</machine>
+	<machine name="The Empyrean Prophecy">
+		<rom name="436 - The Empyrean Prophecy" size="29810060" crc="6039ab3f" />
 	</machine>
 	<machine name="The Final Swear 2">
 		<rom name="191 - The Final Swear 2" size="18404968" crc="fb400d2d" />
@@ -939,6 +1137,9 @@
 	<machine name="The Four Kings (Reverse Recruitment)">
 		<rom name="207 - The Four Kings (Reverse Recruitment)" size="28852468" crc="34e1170d" />
 	</machine>
+	<machine name="The Golden Kingdom">
+		<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+	</machine>
 	<machine name="The Last Promise">
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
 	</machine>
@@ -950,6 +1151,18 @@
 	</machine>
 	<machine name="The Last Promise (Weapon Reversal)">
 		<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
+	</machine>
+	<machine name="The Lonely Mirror (Classic)">
+		<rom name="433 - The Lonely Mirror (Classic)" size="30220952" crc="9302de3a" />
+	</machine>
+	<machine name="The Lonely Mirror (Friendly)">
+		<rom name="434 - The Lonely Mirror (Friendly)" size="30226464" crc="c833f3eb" />
+	</machine>
+	<machine name="The Lullaby of Lust">
+		<rom name="423 - The Lullaby of Lust" size="20183748" crc="3a813e87" />
+	</machine>
+	<machine name="The Nameless Heroes (English Translation)">
+		<rom name="448 - The Nameless Heroes (English Translation)" size="29782176" crc="36042746" />
 	</machine>
 	<machine name="The Queen’s Lament">
 		<rom name="408 - The Queen’s Lament" size="18021380" crc="e19c9eb7" />
@@ -980,6 +1193,9 @@
 	</machine>
 	<machine name="The Sun God’s Wrath (0 growth)">
 		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+	</machine>
+	<machine name="The White Feather">
+		<rom name="490 - The White Feather" size="23302696" crc="294c6150" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />
@@ -1014,6 +1230,9 @@
 	<machine name="Vs. Mode">
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />
 	</machine>
+	<machine name="War of Retribution">
+		<rom name="484 - War of Retribution" size="17084172" crc="7b8abafa" />
+	</machine>
 	<machine name="War on Two Fronts">
 		<rom name="234 - War on Two Fronts" size="24923600" crc="3c922e66" />
 	</machine>
@@ -1026,6 +1245,9 @@
 	<machine name="Winning Against Gharnef">
 		<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 	</machine>
+	<machine name="Wrath of the Crusade">
+		<rom name="483 - Wrath of the Crusade" size="17347588" crc="83bfa1d6" />
+	</machine>
 	<machine name="Yggdra Hack UI Translation">
 		<rom name="182 - Yggdra Hack UI Translation" size="25450720" crc="63b815ad" />
 	</machine>
@@ -1037,5 +1259,20 @@
 	</machine>
 	<machine name="Zombie Apocalypse">
 		<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
+	</machine>
+	<machine name="名も無き英雄">
+		<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
+	</machine>
+	<machine name="女王の剣 (Queen’s Sword)">
+		<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+	</machine>
+	<machine name="黄昏の魔剣１部">
+		<rom name="444 - 黄昏の魔剣１部" size="22610180" crc="02a1d458" />
+	</machine>
+	<machine name="黄昏の魔剣２部パンナルート">
+		<rom name="445 - 黄昏の魔剣２部パンナルート" size="23248008" crc="f0ac088d" />
+	</machine>
+	<machine name="黄昏の魔剣２部主人公覚醒編">
+		<rom name="446 - 黄昏の魔剣２部主人公覚醒編" size="22734804" crc="31330711" />
 	</machine>
 </mame>

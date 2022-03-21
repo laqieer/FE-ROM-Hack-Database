@@ -36,6 +36,10 @@ game (
 	file ( name 285 - A Sacred Dawn DX size 22333152 crc 651b8fa3 )
 )
 game (
+	name "A Vestrian Tale.zip"
+	file ( name 587 - A Vestrian Tale size 21767000 crc 96b23200 )
+)
+game (
 	name "Alternate Stones.zip"
 	file ( name 449 - Alternate Stones size 18583756 crc 9acefc25 )
 )
@@ -58,6 +62,10 @@ game (
 game (
 	name "Art of Forde.zip"
 	file ( name 534 - Art of Forde size 19443668 crc 0038731b )
+)
+game (
+	name "Ash Blossom.zip"
+	file ( name 612 - Ash Blossom size 19248556 crc 6644733c )
 )
 game (
 	name "Asks Attorney Investigations.zip"
@@ -132,6 +140,14 @@ game (
 	file ( name 280 - Binks Emblem size 16777216 crc 4cc97f98 )
 )
 game (
+	name "Bird Up!.zip"
+	file ( name 562 - Bird Up! size 33511616 crc f1efdf9e )
+)
+game (
+	name "Black Fang.zip"
+	file ( name 578 - Black Fang size 26121676 crc af92f7af )
+)
+game (
 	name "Blackwing Struggle.zip"
 	file ( name 429 - Blackwing Struggle size 17622632 crc ee781f1e )
 )
@@ -140,12 +156,28 @@ game (
 	file ( name 127 - Blazer’s One Day Hack size 20983928 crc c68db4ee )
 )
 game (
+	name "Blight of Acrova.zip"
+	file ( name 574 - Blight of Acrova size 26476404 crc 80219c4c )
+)
+game (
+	name "Blight of Acrova (Reverse Recruitment).zip"
+	file ( name 576 - Blight of Acrova (Reverse Recruitment) size 27003148 crc 0883395d )
+)
+game (
+	name "Blight of Acrova (Zero Percent Growths).zip"
+	file ( name 575 - Blight of Acrova (Zero Percent Growths) size 26476404 crc b9915ad8 )
+)
+game (
 	name "Blood of the Covenant.zip"
 	file ( name 290 - Blood of the Covenant size 20149244 crc 63a45a53 )
 )
 game (
 	name "Bloodlines.zip"
 	file ( name 410 - Bloodlines size 26362620 crc 1e076cea )
+)
+game (
+	name "BobbyYukitsuki's Two Hour Blitz.zip"
+	file ( name 609 - BobbyYukitsuki's Two Hour Blitz size 16959508 crc 93712a28 )
 )
 game (
 	name "Boss Rush.zip"
@@ -200,6 +232,10 @@ game (
 	file ( name 250 - Chronicles of Lussaria size 17605868 crc bee51b0b )
 )
 game (
+	name "Code of the Burger King.zip"
+	file ( name 600 - Code of the Burger King size 28138512 crc e74b3929 )
+)
+game (
 	name "Colm's Big Heist.zip"
 	file ( name 536 - Colm's Big Heist size 16777216 crc 34f20e9d )
 )
@@ -208,8 +244,16 @@ game (
 	file ( name 355 - Communist Emblem 2 - Venezuela size 17175216 crc 9948f176 )
 )
 game (
+	name "Community Blitz 5 - Redemption.zip"
+	file ( name 582 - Community Blitz 5 - Redemption size 18356832 crc 9f4971ec )
+)
+game (
 	name "Cornwell’s Ascension.zip"
 	file ( name 138 - Cornwell’s Ascension size 17109180 crc 6ad635db )
+)
+game (
+	name "Coronavirus Emblem.zip"
+	file ( name 564 - Coronavirus Emblem size 17021212 crc 5d8cd7a8 )
 )
 game (
 	name "Corrupt Theocracy.zip"
@@ -228,8 +272,20 @@ game (
 	file ( name 443 - Crystal of Bonds size 17853160 crc 8fe19751 )
 )
 game (
+	name "Curse of the Edge.zip"
+	file ( name 598 - Curse of the Edge size 17776216 crc e28c8258 )
+)
+game (
 	name "Curse Of The Emblem Version 0.001.zip"
 	file ( name 508 - Curse Of The Emblem Version 0 size 14711608 crc 9c658b28 )
+)
+game (
+	name "Darion’s Blazing Sword (Eliwood mode).zip"
+	file ( name 547 - Darion’s Blazing Sword (Eliwood mode) size 16777216 crc 142e9add )
+)
+game (
+	name "Darion’s Blazing Sword (Hector mode).zip"
+	file ( name 560 - Darion’s Blazing Sword (Hector mode) size 16777216 crc 908e9a34 )
 )
 game (
 	name "Dark Emblem.zip"
@@ -296,8 +352,16 @@ game (
 	file ( name 333 - Different Dimensions Ostian Princess size 16777216 crc 79f1b543 )
 )
 game (
+	name "Dirge of the Departed.zip"
+	file ( name 618 - Dirge of the Departed size 17584264 crc 98ed0044 )
+)
+game (
 	name "DISTORTION.zip"
 	file ( name 523 - DISTORTION size 19069656 crc 7cef7382 )
+)
+game (
+	name "Divine Inheritance.zip"
+	file ( name 613 - Divine Inheritance size 22947816 crc 120ecc1f )
 )
 game (
 	name "Divine Keys.zip"
@@ -328,6 +392,10 @@ game (
 	file ( name 486 - Dreams of Twilight size 19414472 crc 5b62c925 )
 )
 game (
+	name "Dual Fates.zip"
+	file ( name 573 - Dual Fates size 16777216 crc d3037fdb )
+)
+game (
 	name "Duo Geno Escapo.zip"
 	file ( name 498 - Duo Geno Escapo size 21952160 crc a67b6e72 )
 )
@@ -338,6 +406,10 @@ game (
 game (
 	name "Emblem Warriors.zip"
 	file ( name 517 - Emblem Warriors size 21638172 crc 1762a534 )
+)
+game (
+	name "Encryption20's Patch.zip"
+	file ( name 548 - Encryption20's Patch size 16777216 crc 1ee454b6 )
 )
 game (
 	name "Enderslicer's Escape.zip"
@@ -352,8 +424,12 @@ game (
 	file ( name 440 - ErikFE size 18622088 crc a255ac4b )
 )
 game (
-	name "Escape the Mangs Dungeon.zip"
-	file ( name 161 - Escape the Mangs Dungeon size 17083184 crc 090dffb3 )
+	name "Escape From the Mangs Dungeon.zip"
+	file ( name 161 - Escape From the Mangs Dungeon size 17083184 crc 090dffb3 )
+)
+game (
+	name "Ethereal Light.zip"
+	file ( name 580 - Ethereal Light size 18860184 crc a2e2fa4e )
 )
 game (
 	name "Extinguished Blade.zip"
@@ -384,8 +460,48 @@ game (
 	file ( name 297 - FE6 All Mounts size 16777532 crc cc905927 )
 )
 game (
+	name "FE6 Boss Recruitment.zip"
+	file ( name 597 - FE6 Boss Recruitment size 16777532 crc e3a4cd1e )
+)
+game (
+	name "FE6 BugFixEdition.zip"
+	file ( name 620 - FE6 BugFixEdition size 8589272 crc 19bd10e9 )
+)
+game (
+	name "FE6 BugFixEdition (Plus11AFixes).zip"
+	file ( name 622 - FE6 BugFixEdition (Plus11AFixes) size 8589272 crc 4a11f899 )
+)
+game (
+	name "FE6 BugFixEdition (ReduxVers).zip"
+	file ( name 623 - FE6 BugFixEdition (ReduxVers) size 8589312 crc b3045421 )
+)
+game (
+	name "FE6 BugFixEdition (Strong Enemies).zip"
+	file ( name 621 - FE6 BugFixEdition (Strong Enemies) size 8589272 crc 4472a16c )
+)
+game (
+	name "FE6 But Everything Hits.zip"
+	file ( name 614 - FE6 But Everything Hits size 16777532 crc 83aaca23 )
+)
+game (
+	name "FE6 But Everything Hits (Average Growths Mode).zip"
+	file ( name 616 - FE6 But Everything Hits (Average Growths Mode) size 16777532 crc 21234137 )
+)
+game (
+	name "FE6 But Everything Hits (Maximum Growths Mode).zip"
+	file ( name 617 - FE6 But Everything Hits (Maximum Growths Mode) size 16777532 crc 360d935c )
+)
+game (
+	name "FE6 But Everything Hits (Minimum Growths Mode).zip"
+	file ( name 615 - FE6 But Everything Hits (Minimum Growths Mode) size 16777532 crc eb4322ea )
+)
+game (
 	name "FE6 Google Translated.zip"
 	file ( name 299 - FE6 Google Translated size 16777532 crc 1e494685 )
+)
+game (
+	name "FE6 has DSFE movement.zip"
+	file ( name 599 - FE6 has DSFE movement size 8586940 crc c70fea41 )
 )
 game (
 	name "FE6 Incandescence Edition.zip"
@@ -400,12 +516,24 @@ game (
 	file ( name 331 - FE6 Negative Growths (English) size 16777216 crc ac14b603 )
 )
 game (
+	name "FE6 No Redundancy Edition.zip"
+	file ( name 585 - FE6 No Redundancy Edition size 9300520 crc a75aeb75 )
+)
+game (
 	name "FE6 Numbers Patch.zip"
 	file ( name 294 - FE6 Numbers Patch size 8588060 crc 400da207 )
 )
 game (
 	name "FE6 Promoted Mode.zip"
 	file ( name 291 - FE6 Promoted Mode size 16777532 crc 41252a77 )
+)
+game (
+	name "FE6 Rapid Rebalance.zip"
+	file ( name 631 - FE6 Rapid Rebalance size 16777532 crc 502353cb )
+)
+game (
+	name "FE6 Real War Chronicles.zip"
+	file ( name 543 - FE6 Real War Chronicles size 16777216 crc 9eaeda76 )
 )
 game (
 	name "FE6 Recoloured.zip"
@@ -418,6 +546,10 @@ game (
 game (
 	name "FE6 rom with HM bonuses for everyone.zip"
 	file ( name 326 - FE6 rom with HM bonuses for everyone size 16793100 crc 8c9d00cc )
+)
+game (
+	name "FE6 The Divine War.zip"
+	file ( name 551 - FE6 The Divine War size 16777248 crc 281c7e89 )
 )
 game (
 	name "FE6 Unfair and Bad.zip"
@@ -476,16 +608,40 @@ game (
 	file ( name 264 - FE7 Allegiance Reversal+ size 16911048 crc 8870c624 )
 )
 game (
+	name "FE7 Boss Recruitment.zip"
+	file ( name 596 - FE7 Boss Recruitment size 17102564 crc 1e48ca58 )
+)
+game (
 	name "FE7 Chaos Mode.zip"
 	file ( name 332 - FE7 Chaos Mode size 18767508 crc 0f92ff9b )
+)
+game (
+	name "FE7 Heroes.zip"
+	file ( name 581 - FE7 Heroes size 18878172 crc cc769fd5 )
 )
 game (
 	name "FE7 Inflation.zip"
 	file ( name 112 - FE7 Inflation size 17825792 crc 6ea83897 )
 )
 game (
+	name "FE7 Leila Edition.zip"
+	file ( name 554 - FE7 Leila Edition size 17330932 crc 3574373f )
+)
+game (
 	name "FE7 Lute Mode.zip"
 	file ( name 341 - FE7 Lute Mode size 16785796 crc 969bae21 )
+)
+game (
+	name "FE7 Lyn Hard Mode Redux.zip"
+	file ( name 628 - FE7 Lyn Hard Mode Redux size 16829232 crc c0514f76 )
+)
+game (
+	name "FE7 Lyn Hard Mode Redux JP.zip"
+	file ( name 629 - FE7 Lyn Hard Mode Redux JP size 16823200 crc 5344ef57 )
+)
+game (
+	name "FE7 Rewrite.zip"
+	file ( name 626 - FE7 Rewrite size 17894192 crc a3e1d79e )
 )
 game (
 	name "FE7if.zip"
@@ -494,6 +650,10 @@ game (
 game (
 	name "FE8 All Weapons are Devil Weapons.zip"
 	file ( name 384 - FE8 All Weapons are Devil Weapons size 16777216 crc 711edbc9 )
+)
+game (
+	name "FE8 Beta Test 1.zip"
+	file ( name 553 - FE8 Beta Test 1 size 16777616 crc e82ad29c )
 )
 game (
 	name "FE8 Boss Recruitment (Ephraim Route).zip"
@@ -536,6 +696,10 @@ game (
 	file ( name 380 - FE8 Creature Campaign Reverse Recruitment (Ephraim) size 16802988 crc 1cddfc8d )
 )
 game (
+	name "FE8 Darion's Mode.zip"
+	file ( name 546 - FE8 Darion's Mode size 16777216 crc b9965ea1 )
+)
+game (
 	name "FE8 Fanmade Directors Cut.zip"
 	file ( name 400 - FE8 Fanmade Directors Cut size 21871792 crc a7a210d5 )
 )
@@ -560,6 +724,10 @@ game (
 	file ( name 177 - FE8 midori (Green) (English Translation) size 33554432 crc 4279b308 )
 )
 game (
+	name "FE8 Monster Quest.zip"
+	file ( name 555 - FE8 Monster Quest size 16777216 crc 727c8365 )
+)
+game (
 	name "FE8 Negative Growths.zip"
 	file ( name 367 - FE8 Negative Growths size 16777216 crc 3c7352c1 )
 )
@@ -582,6 +750,10 @@ game (
 game (
 	name "FE8 Remix.zip"
 	file ( name 388 - FE8 Remix size 24792284 crc 98a5a872 )
+)
+game (
+	name "FE8 Reunion.zip"
+	file ( name 556 - FE8 Reunion size 16777216 crc 1eeddb5f )
 )
 game (
 	name "FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode).zip"
@@ -612,6 +784,14 @@ game (
 	file ( name 385 - FE8 Wild Mode size 16816344 crc 00db28f0 )
 )
 game (
+	name "FE8 with FE4 Graphics (map sprites).zip"
+	file ( name 550 - FE8 with FE4 Graphics (map sprites) size 16777216 crc dca9a64f )
+)
+game (
+	name "FE8 with FE4 Graphics (weapon icons).zip"
+	file ( name 549 - FE8 with FE4 Graphics (weapon icons) size 16777216 crc d14c8d42 )
+)
+game (
 	name "FE8_GIRLS.zip"
 	file ( name 174 - FE8_GIRLS size 16777216 crc 214b26b9 )
 )
@@ -626,6 +806,10 @@ game (
 game (
 	name "FE8ESHGBTGISTTM.zip"
 	file ( name 387 - FE8ESHGBTGISTTM size 16809264 crc 17c71c14 )
+)
+game (
+	name "FE8Re(gret).zip"
+	file ( name 601 - FE8Re(gret) size 16951928 crc ae563a17 )
 )
 game (
 	name "Fe 8 Chess.zip"
@@ -654,6 +838,14 @@ game (
 game (
 	name "Fe Time Scarred - The Unwanted Saga.zip"
 	file ( name 464 - Fe Time Scarred - The Unwanted Saga size 17788392 crc bdb1f1d2 )
+)
+game (
+	name "FEGirls J with English Menu Names.zip"
+	file ( name 541 - FEGirls J with English Menu Names size 16777216 crc 2fdcc9d8 )
+)
+game (
+	name "FEH2, GBA with GACHA mechanics.zip"
+	file ( name 577 - FEH2, GBA with GACHA mechanics size 17487076 crc bc5cc341 )
 )
 game (
 	name "Ferrica - Project Kenko.zip"
@@ -832,6 +1024,10 @@ game (
 	file ( name 23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS] size 16777216 crc 7aef4edc )
 )
 game (
+	name "Fire Emblem - Saving Christmas.zip"
+	file ( name 568 - Fire Emblem - Saving Christmas size 18449388 crc 5afd94b1 )
+)
+game (
 	name "Fire Emblem - Seima no Kouseki (Japan).zip"
 	file ( name 6 - Fire Emblem - Seima no Kouseki (Japan) size 16777216 crc 9d76826f )
 )
@@ -880,6 +1076,10 @@ game (
 	file ( name 155 - Fire Emblem - The Heroes We Deserve size 22209796 crc a2171a8e )
 )
 game (
+	name "Fire Emblem - The Last Voyage.zip"
+	file ( name 569 - Fire Emblem - The Last Voyage size 17332756 crc e50a258b )
+)
+game (
 	name "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It).zip"
 	file ( name 8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) size 33554432 crc b3005195 )
 )
@@ -924,12 +1124,20 @@ game (
 	file ( name 116 - Fire Emblem [Latino] 2 size 25198924 crc 8ea1444d )
 )
 game (
+	name "Fire Emblem and the INTERESTING Stones.zip"
+	file ( name 584 - Fire Emblem and the INTERESTING Stones size 17594924 crc eb152ad0 )
+)
+game (
 	name "Fire Emblem Destiny.zip"
 	file ( name 276 - Fire Emblem Destiny size 16777216 crc 195fd1df )
 )
 game (
 	name "Fire Emblem Forever.zip"
 	file ( name 246 - Fire Emblem Forever size 17627116 crc d93d269a )
+)
+game (
+	name "Fire Emblem Gilmore Girls Edition.zip"
+	file ( name 579 - Fire Emblem Gilmore Girls Edition size 17205936 crc 1a6576b4 )
 )
 game (
 	name "Fire Emblem Origins.zip"
@@ -972,6 +1180,10 @@ game (
 	file ( name 240 - Flames of Redemption (supports unlocked) size 24536888 crc 0c835af0 )
 )
 game (
+	name "FOAL.zip"
+	file ( name 558 - FOAL size 17556292 crc 5e4cffa1 )
+)
+game (
 	name "Foreboding Dusk.zip"
 	file ( name 244 - Foreboding Dusk size 16888400 crc 2220983b )
 )
@@ -988,8 +1200,16 @@ game (
 	file ( name 209 - Free for All size 16840832 crc c4c15d98 )
 )
 game (
+	name "Frog's Two Hour Blitz - Steel.zip"
+	file ( name 602 - Frog's Two Hour Blitz - Steel size 16855668 crc 8ebafd51 )
+)
+game (
 	name "Gay Baby Emblem.zip"
 	file ( name 166 - Gay Baby Emblem size 17048076 crc a95e4ae4 )
+)
+game (
+	name "Genesis.zip"
+	file ( name 630 - Genesis size 22468416 crc 69d9d2ef )
 )
 game (
 	name "GFE1R.zip"
@@ -1002,6 +1222,10 @@ game (
 game (
 	name "GhebFE.zip"
 	file ( name 381 - GhebFE size 18874368 crc daa23525 )
+)
+game (
+	name "Gorilla Gadek SG.zip"
+	file ( name 542 - Gorilla Gadek SG size 32760640 crc adad84e8 )
 )
 game (
 	name "Grand Archipelago.zip"
@@ -1032,6 +1256,10 @@ game (
 	file ( name 261 - Heroes of Valencia and Archanea size 16804540 crc 0c8502f7 )
 )
 game (
+	name "Home By Winter.zip"
+	file ( name 595 - Home By Winter size 19463740 crc b1ec4ef5 )
+)
+game (
 	name "Horizons.zip"
 	file ( name 493 - Horizons size 23323800 crc 63f74902 )
 )
@@ -1056,8 +1284,24 @@ game (
 	file ( name 411 - Inheritors of the Crusade size 23373980 crc 9f0bced0 )
 )
 game (
+	name "Iron Emblem.zip"
+	file ( name 591 - Iron Emblem size 18033892 crc 8fbd09aa )
+)
+game (
+	name "Iron Emblem (altmenus).zip"
+	file ( name 593 - Iron Emblem (altmenus) size 18033892 crc 141ff3aa )
+)
+game (
+	name "Iron Emblem (Hard Mode).zip"
+	file ( name 592 - Iron Emblem (Hard Mode) size 18035884 crc 2e9551ea )
+)
+game (
 	name "Isekai Emblem.zip"
 	file ( name 237 - Isekai Emblem size 23924912 crc 60a52d28 )
+)
+game (
+	name "jellyunicorn's Two Hour Blitz - bungus badventure.zip"
+	file ( name 605 - jellyunicorn's Two Hour Blitz - bungus badventure size 16911620 crc a28e296a )
 )
 game (
 	name "Journeys.zip"
@@ -1096,6 +1340,10 @@ game (
 	file ( name 162 - Knoll’s Super Spooky Halloween Adventure size 17014360 crc 19a64b75 )
 )
 game (
+	name "Lady of Masks.zip"
+	file ( name 590 - Lady of Masks size 21516196 crc 6142c8a8 )
+)
+game (
 	name "Land of Heroes.zip"
 	file ( name 476 - Land of Heroes size 19246184 crc 5c77cc5e )
 )
@@ -1116,8 +1364,24 @@ game (
 	file ( name 256 - League of Champions (Patch2) size 16939004 crc 1b93a3d4 )
 )
 game (
+	name "Legacy of Sorrow (Easy Mode).zip"
+	file ( name 571 - Legacy of Sorrow (Easy Mode) size 16777216 crc 6765a094 )
+)
+game (
+	name "Legacy of Sorrow (Normal Mode).zip"
+	file ( name 572 - Legacy of Sorrow (Normal Mode) size 16777216 crc b5d64dbf )
+)
+game (
 	name "Legends of Avenir.zip"
 	file ( name 424 - Legends of Avenir size 24457576 crc bdd2a1da )
+)
+game (
+	name "Lengths of Time.zip"
+	file ( name 610 - Lengths of Time size 20673528 crc 3d2f5458 )
+)
+game (
+	name "Liberllion (Rebellion).zip"
+	file ( name 570 - Liberllion (Rebellion) size 29859468 crc 1ae24e75 )
 )
 game (
 	name "Lord Weapons Patch Rebalance.zip"
@@ -1140,8 +1404,16 @@ game (
 	file ( name 467 - M. E. R. C size 18427704 crc 048eb1b6 )
 )
 game (
+	name "MageKnight404's FE7 Hack.zip"
+	file ( name 557 - MageKnight404's FE7 Hack size 22020102 crc f0c9a7ae )
+)
+game (
 	name "Maiden Quest.zip"
 	file ( name 125 - Maiden Quest size 19773496 crc f11864bd )
+)
+game (
+	name "Many Emblem.zip"
+	file ( name 565 - Many Emblem size 31704744 crc 739d2b9e )
 )
 game (
 	name "Marc's Special Day.zip"
@@ -1184,8 +1456,16 @@ game (
 	file ( name 501 - Morph's Last Stand size 16783668 crc 07a1c597 )
 )
 game (
+	name "MrGreen3339's Two Hour Blitz - Vyland vs Matthis.zip"
+	file ( name 607 - MrGreen3339's Two Hour Blitz - Vyland vs Matthis size 16815668 crc 9e5cfd9a )
+)
+game (
 	name "Myrm Emblem.zip"
 	file ( name 238 - Myrm Emblem size 22182264 crc b5a503ae )
+)
+game (
+	name "Mythgraven.zip"
+	file ( name 624 - Mythgraven size 23670068 crc bc28fd5d )
 )
 game (
 	name "Narcian and the Mirror Chamber.zip"
@@ -1216,6 +1496,10 @@ game (
 	file ( name 413 - OC Emblem size 21489356 crc 5f29fe04 )
 )
 game (
+	name "OC Emblem Redux.zip"
+	file ( name 625 - OC Emblem Redux size 17590124 crc c3d04286 )
+)
+game (
 	name "Old Fire Mumblem.zip"
 	file ( name 496 - Old Fire Mumblem size 16838132 crc 04cfa619 )
 )
@@ -1230,6 +1514,10 @@ game (
 game (
 	name "Oops! All Sophias.zip"
 	file ( name 329 - Oops! All Sophias size 16777532 crc 527bbabc )
+)
+game (
+	name "Parliament of Heroes.zip"
+	file ( name 619 - Parliament of Heroes size 18303588 crc d11bdc83 )
 )
 game (
 	name "Path of a Hero.zip"
@@ -1312,6 +1600,14 @@ game (
 	file ( name 347 - Psychic Emblem (weapons and classes overhaul) size 17770636 crc 5b763687 )
 )
 game (
+	name "Pukachi's Contest Patch.zip"
+	file ( name 561 - Pukachi's Contest Patch size 16777216 crc 585f0c17 )
+)
+game (
+	name "Puzon Emblem.zip"
+	file ( name 589 - Puzon Emblem size 19889524 crc 86e37d3c )
+)
+game (
 	name "Puzzle Emblem.zip"
 	file ( name 189 - Puzzle Emblem size 16824428 crc 83fc3242 )
 )
@@ -1332,8 +1628,16 @@ game (
 	file ( name 526 - Ragefest Revengeance size 20406156 crc fc673b9f )
 )
 game (
+	name "RandomWizard's Two Hour Blitz.zip"
+	file ( name 608 - RandomWizard's Two Hour Blitz size 16850440 crc d3b9ce48 )
+)
+game (
 	name "Rart Emblem - Halloween.zip"
 	file ( name 159 - Rart Emblem - Halloween size 17308636 crc 61dad746 )
+)
+game (
+	name "Rart Emblem - Saga of the Shivering Shores.zip"
+	file ( name 194 - Rart Emblem - Saga of the Shivering Shores size 17841112 crc ad3d8b29 )
 )
 game (
 	name "Rart Emblem Zero - The Rarted Stones.zip"
@@ -1352,12 +1656,20 @@ game (
 	file ( name 113 - Requiem size 18774856 crc 1225efff )
 )
 game (
+	name "Requiem of War.zip"
+	file ( name 544 - Requiem of War size 16777240 crc 03945110 )
+)
+game (
 	name "Resident Emblem 8.zip"
 	file ( name 160 - Resident Emblem 8 size 17080688 crc 3d35a4fc )
 )
 game (
 	name "Resonance.zip"
 	file ( name 144 - Resonance size 21319464 crc 7d35cc3c )
+)
+game (
+	name "Resonance 2.zip"
+	file ( name 567 - Resonance 2 size 32802288 crc d423be3f )
 )
 game (
 	name "Resonance - The Hotfix.zip"
@@ -1394,6 +1706,10 @@ game (
 game (
 	name "Runa Does A Thing.zip"
 	file ( name 267 - Runa Does A Thing size 17785916 crc 500fe6c4 )
+)
+game (
+	name "S.S-Monster Mash.zip"
+	file ( name 632 - S size 19363688 crc 32494392 )
 )
 game (
 	name "Sacred Contention.zip"
@@ -1472,8 +1788,8 @@ game (
 	file ( name 361 - Sacred Trilogy Final -Lite- Random Growths- With AI size 33531144 crc c31dc48b )
 )
 game (
-	name "Saga of the Shivering Shores.zip"
-	file ( name 194 - Saga of the Shivering Shores size 17841112 crc ad3d8b29 )
+	name "Saga of the Sigilbearers.zip"
+	file ( name 611 - Saga of the Sigilbearers size 18864616 crc a2c6e6e0 )
 )
 game (
 	name "Scarlet Rising.zip"
@@ -1482,6 +1798,10 @@ game (
 game (
 	name "Scourge of Proxima.zip"
 	file ( name 431 - Scourge of Proxima size 22542928 crc ced8254f )
+)
+game (
+	name "Sea and Sky.zip"
+	file ( name 586 - Sea and Sky size 18548440 crc f94f6c39 )
 )
 game (
 	name "Sealed in Light.zip"
@@ -1508,6 +1828,10 @@ game (
 	file ( name 471 - SHYUTERz’s Patch size 31877676 crc f40118ba )
 )
 game (
+	name "SirNicee's Two Hour Blitz - bandits.zip"
+	file ( name 603 - SirNicee's Two Hour Blitz - bandits size 16879412 crc 06e7424f )
+)
+game (
 	name "SirSerenes FE8 Reskin.zip"
 	file ( name 382 - SirSerenes FE8 Reskin size 16777288 crc 2b74a740 )
 )
@@ -1518,6 +1842,10 @@ game (
 game (
 	name "Slot Machine.zip"
 	file ( name 215 - Slot Machine size 16784068 crc 36c739f5 )
+)
+game (
+	name "Song of Restoration.zip"
+	file ( name 583 - Song of Restoration size 21486612 crc 8f4daa2b )
 )
 game (
 	name "Souls of the Forest.zip"
@@ -1540,6 +1868,10 @@ game (
 	file ( name 270 - Staff of Ages (Fixed Growths) size 24147092 crc 1a55014c )
 )
 game (
+	name "Starlit Souls.zip"
+	file ( name 588 - Starlit Souls size 23069924 crc f4a0ab81 )
+)
+game (
 	name "Stones of a Divine Dragon.zip"
 	file ( name 287 - Stones of a Divine Dragon size 33554436 crc 05c2a230 )
 )
@@ -1548,8 +1880,16 @@ game (
 	file ( name 236 - Storge size 20034916 crc 079106d8 )
 )
 game (
+	name "SubwayBossEmmett's Two Hour Blitz - Royal Escape.zip"
+	file ( name 604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape size 16826076 crc 079fc81e )
+)
+game (
 	name "Super Generic Ragefest Adventure.zip"
 	file ( name 539 - Super Generic Ragefest Adventure size 17028828 crc a727bdb0 )
+)
+game (
+	name "Sword of Heaven and Earth (English Translation).zip"
+	file ( name 594 - Sword of Heaven and Earth (English Translation) size 27323016 crc 0a1734ae )
 )
 game (
 	name "Sword of Seals ReDux.zip"
@@ -1564,12 +1904,20 @@ game (
 	file ( name 458 - Tales from Afar size 33142244 crc 7bc0139b )
 )
 game (
+	name "Tales of Bravery.zip"
+	file ( name 545 - Tales of Bravery size 19320444 crc 9f2de20a )
+)
+game (
 	name "Tales of the Emblem.zip"
 	file ( name 383 - Tales of the Emblem size 16866208 crc 960d475e )
 )
 game (
 	name "Tales of the Golden Knight.zip"
 	file ( name 422 - Tales of the Golden Knight size 27862300 crc 883a1ac6 )
+)
+game (
+	name "Temple of Ardesia.zip"
+	file ( name 566 - Temple of Ardesia size 23414536 crc a67b7ea1 )
 )
 game (
 	name "Terror of the Forest.zip"
@@ -1590,6 +1938,10 @@ game (
 game (
 	name "The Blade’s Legacy Spreading Flames.zip"
 	file ( name 248 - The Blade’s Legacy Spreading Flames size 17896244 crc 4ab46d89 )
+)
+game (
+	name "The Blinding Bald.zip"
+	file ( name 563 - The Blinding Bald size 26143116 crc dee8e482 )
 )
 game (
 	name "The Book of Eden.zip"
@@ -1736,6 +2088,10 @@ game (
 	file ( name 386 - The Sacred Ripping Anniversary Edition size 20858336 crc 7ee376fa )
 )
 game (
+	name "The Sacred Stones - FE7 Crossover.zip"
+	file ( name 552 - The Sacred Stones - FE7 Crossover size 16777216 crc 1749e41f )
+)
+game (
 	name "The Sacred War (Final Update - v1.51).zip"
 	file ( name 173 - The Sacred War (Final Update - v1 size 31187848 crc 8dc775b2 )
 )
@@ -1750,6 +2106,10 @@ game (
 game (
 	name "The Sun God’s Wrath (0 growth).zip"
 	file ( name 218 - The Sun God’s Wrath (0 growth) size 33007108 crc 7def8770 )
+)
+game (
+	name "The Tavern Adventures.zip"
+	file ( name 627 - The Tavern Adventures size 22098544 crc 8ceec8c8 )
 )
 game (
 	name "The White Feather.zip"
@@ -1800,6 +2160,10 @@ game (
 	file ( name 513 - Vaati's Revenge size 20091536 crc cc6ff371 )
 )
 game (
+	name "Version Elibe 776.zip"
+	file ( name 559 - Version Elibe 776 size 16777216 crc 252efd87 )
+)
+game (
 	name "Voice Acting Tech Demo.zip"
 	file ( name 193 - Voice Acting Tech Demo size 17337768 crc c2cd5264 )
 )
@@ -1846,6 +2210,10 @@ game (
 game (
 	name "Wrath of the Crusade.zip"
 	file ( name 483 - Wrath of the Crusade size 17347588 crc 83bfa1d6 )
+)
+game (
+	name "XPGamesNL's Two Hour Blitz - The Town Of Neron.zip"
+	file ( name 606 - XPGamesNL's Two Hour Blitz - The Town Of Neron size 17063944 crc 056cb4b0 )
 )
 game (
 	name "Yet Another Ragefest Hack.zip"

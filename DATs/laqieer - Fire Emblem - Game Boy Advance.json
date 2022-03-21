@@ -233,6 +233,24 @@
 		},
 		{
 			"machine": {
+				"name": "A Vestrian Tale",
+				"comment": "https://feuniverse.us/t/a-vestrian-tale-24-06-21-update-4-10-chapters-completed/12203",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "587 - A Vestrian Tale",
+						"size": 21767000,
+						"crc": "96b23200"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Alternate Stones",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/67233-fe-8-the-alternate-stones/",
 				"description": null,
@@ -335,6 +353,24 @@
 						"name": "534 - Art of Forde",
 						"size": 19443668,
 						"crc": "0038731b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Ash Blossom",
+				"comment": "https://feuniverse.us/t/fe8-demo-fire-emblem-ash-blossom/13825",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "612 - Ash Blossom",
+						"size": 19248556,
+						"crc": "6644733c"
 					}
 				}
 			]
@@ -665,6 +701,42 @@
 		},
 		{
 			"machine": {
+				"name": "Bird Up!",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "562 - Bird Up!",
+						"size": 33511616,
+						"crc": "f1efdf9e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Black Fang",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/93538-fire-emblem-black-fang/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "578 - Black Fang",
+						"size": 26121676,
+						"crc": "af92f7af"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blackwing Struggle",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-blackwing-struggle-technically-dead/6007",
 				"description": null,
@@ -701,6 +773,60 @@
 		},
 		{
 			"machine": {
+				"name": "Blight of Acrova",
+				"comment": "https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "574 - Blight of Acrova",
+						"size": 26476404,
+						"crc": "80219c4c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Blight of Acrova (Reverse Recruitment)",
+				"comment": "https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "576 - Blight of Acrova (Reverse Recruitment)",
+						"size": 27003148,
+						"crc": "0883395d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Blight of Acrova (Zero Percent Growths)",
+				"comment": "https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "575 - Blight of Acrova (Zero Percent Growths)",
+						"size": 26476404,
+						"crc": "b9915ad8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blood of the Covenant",
 				"comment": "https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175",
 				"description": null,
@@ -731,6 +857,24 @@
 						"name": "410 - Bloodlines",
 						"size": 26362620,
 						"crc": "1e076cea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "BobbyYukitsuki's Two Hour Blitz",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/14",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "609 - BobbyYukitsuki's Two Hour Blitz",
+						"size": 16959508,
+						"crc": "93712a28"
 					}
 				}
 			]
@@ -971,6 +1115,24 @@
 		},
 		{
 			"machine": {
+				"name": "Code of the Burger King",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "600 - Code of the Burger King",
+						"size": 28138512,
+						"crc": "e74b3929"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Colm's Big Heist",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -1007,6 +1169,24 @@
 		},
 		{
 			"machine": {
+				"name": "Community Blitz 5 - Redemption",
+				"comment": "https://github.com/Peer56/CommunityBlitz5",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "582 - Community Blitz 5 - Redemption",
+						"size": 18356832,
+						"crc": "9f4971ec"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Cornwell’s Ascension",
 				"comment": "https://www.cornwellsascension.com/",
 				"description": null,
@@ -1019,6 +1199,24 @@
 						"name": "138 - Cornwell’s Ascension",
 						"size": 17109180,
 						"crc": "6ad635db"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Coronavirus Emblem",
+				"comment": "https://feuniverse.us/t/coronavirus-emblem-quick-and-dirty-meme-hack-not-much-has-changed/7419",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "564 - Coronavirus Emblem",
+						"size": 17021212,
+						"crc": "5d8cd7a8"
 					}
 				}
 			]
@@ -1097,6 +1295,24 @@
 		},
 		{
 			"machine": {
+				"name": "Curse of the Edge",
+				"comment": "https://feuniverse.us/t/fire-emblem-curse-of-the-edge-three-chapter-demo/12964",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "598 - Curse of the Edge",
+						"size": 17776216,
+						"crc": "e28c8258"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Curse Of The Emblem Version 0.001",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -1109,6 +1325,42 @@
 						"name": "508 - Curse Of The Emblem Version 0",
 						"size": 14711608,
 						"crc": "9c658b28"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Darion’s Blazing Sword (Eliwood mode)",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "547 - Darion’s Blazing Sword (Eliwood mode)",
+						"size": 16777216,
+						"crc": "142e9add"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Darion’s Blazing Sword (Hector mode)",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "560 - Darion’s Blazing Sword (Hector mode)",
+						"size": 16777216,
+						"crc": "908e9a34"
 					}
 				}
 			]
@@ -1403,6 +1655,24 @@
 		},
 		{
 			"machine": {
+				"name": "Dirge of the Departed",
+				"comment": "https://feuniverse.us/t/fe8-dirge-of-the-departed-7-24-chapters/14012",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "618 - Dirge of the Departed",
+						"size": 17584264,
+						"crc": "98ed0044"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "DISTORTION",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -1415,6 +1685,24 @@
 						"name": "523 - DISTORTION",
 						"size": 19069656,
 						"crc": "7cef7382"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Divine Inheritance",
+				"comment": "https://feuniverse.us/t/fire-emblem-divine-inheritance-demo-released-first-9-chapters/13903",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "613 - Divine Inheritance",
+						"size": 22947816,
+						"crc": "120ecc1f"
 					}
 				}
 			]
@@ -1547,6 +1835,24 @@
 		},
 		{
 			"machine": {
+				"name": "Dual Fates",
+				"comment": "https://feuniverse.us/t/fire-emblem-dual-fates-6-chapters-demo-canceled/9526",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "573 - Dual Fates",
+						"size": 16777216,
+						"crc": "d3037fdb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Duo Geno Escapo",
 				"comment": "https://fecentral.org/?page=hackinfo&hackid=110",
 				"description": null,
@@ -1595,6 +1901,24 @@
 						"name": "517 - Emblem Warriors",
 						"size": 21638172,
 						"crc": "1762a534"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Encryption20's Patch",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/encryption20s-the-sacred-stones/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "548 - Encryption20's Patch",
+						"size": 16777216,
+						"crc": "1ee454b6"
 					}
 				}
 			]
@@ -1655,7 +1979,7 @@
 		},
 		{
 			"machine": {
-				"name": "Escape the Mangs Dungeon",
+				"name": "Escape From the Mangs Dungeon",
 				"comment": "https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -1664,9 +1988,27 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "161 - Escape the Mangs Dungeon",
+						"name": "161 - Escape From the Mangs Dungeon",
 						"size": 17083184,
 						"crc": "090dffb3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Ethereal Light",
+				"comment": "https://feuniverse.us/t/fe8-ethereal-light-8-32-chapters/10828",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "580 - Ethereal Light",
+						"size": 18860184,
+						"crc": "a2e2fa4e"
 					}
 				}
 			]
@@ -1799,6 +2141,168 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Boss Recruitment",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "597 - FE6 Boss Recruitment",
+						"size": 16777532,
+						"crc": "e3a4cd1e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 BugFixEdition",
+				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "620 - FE6 BugFixEdition",
+						"size": 8589272,
+						"crc": "19bd10e9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 BugFixEdition (Plus11AFixes)",
+				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "622 - FE6 BugFixEdition (Plus11AFixes)",
+						"size": 8589272,
+						"crc": "4a11f899"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 BugFixEdition (ReduxVers)",
+				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "623 - FE6 BugFixEdition (ReduxVers)",
+						"size": 8589312,
+						"crc": "b3045421"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 BugFixEdition (Strong Enemies)",
+				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "621 - FE6 BugFixEdition (Strong Enemies)",
+						"size": 8589272,
+						"crc": "4472a16c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 But Everything Hits",
+				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "614 - FE6 But Everything Hits",
+						"size": 16777532,
+						"crc": "83aaca23"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 But Everything Hits (Average Growths Mode)",
+				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "616 - FE6 But Everything Hits (Average Growths Mode)",
+						"size": 16777532,
+						"crc": "21234137"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 But Everything Hits (Maximum Growths Mode)",
+				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "617 - FE6 But Everything Hits (Maximum Growths Mode)",
+						"size": 16777532,
+						"crc": "360d935c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 But Everything Hits (Minimum Growths Mode)",
+				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "615 - FE6 But Everything Hits (Minimum Growths Mode)",
+						"size": 16777532,
+						"crc": "eb4322ea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Google Translated",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666",
 				"description": null,
@@ -1811,6 +2315,24 @@
 						"name": "299 - FE6 Google Translated",
 						"size": 16777532,
 						"crc": "1e494685"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 has DSFE movement",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-binding-blade-but-it-has-dsfe-movement/13067",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "599 - FE6 has DSFE movement",
+						"size": 8586940,
+						"crc": "c70fea41"
 					}
 				}
 			]
@@ -1871,6 +2393,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 No Redundancy Edition",
+				"comment": "https://feuniverse.us/t/fe6-no-redundancy-edition/12138",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "585 - FE6 No Redundancy Edition",
+						"size": 9300520,
+						"crc": "a75aeb75"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Numbers Patch",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/",
 				"description": null,
@@ -1901,6 +2441,42 @@
 						"name": "291 - FE6 Promoted Mode",
 						"size": 16777532,
 						"crc": "41252a77"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Rapid Rebalance",
+				"comment": "https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "631 - FE6 Rapid Rebalance",
+						"size": 16777532,
+						"crc": "502353cb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Real War Chronicles",
+				"comment": "http://www.feshrine.net/hacking/patches/Real%20War%20Chronicles.ups",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "543 - FE6 Real War Chronicles",
+						"size": 16777216,
+						"crc": "9eaeda76"
 					}
 				}
 			]
@@ -1955,6 +2531,24 @@
 						"name": "326 - FE6 rom with HM bonuses for everyone",
 						"size": 16793100,
 						"crc": "8c9d00cc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 The Divine War",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "551 - FE6 The Divine War",
+						"size": 16777248,
+						"crc": "281c7e89"
 					}
 				}
 			]
@@ -2213,6 +2807,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 Boss Recruitment",
+				"comment": "https://feuniverse.us/t/fe7-boss-recruitment-v1-8-as-of-11-10-21/12962",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "596 - FE7 Boss Recruitment",
+						"size": 17102564,
+						"crc": "1e48ca58"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Chaos Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/",
 				"description": null,
@@ -2225,6 +2837,24 @@
 						"name": "332 - FE7 Chaos Mode",
 						"size": 18767508,
 						"crc": "0f92ff9b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 Heroes",
+				"comment": "https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "581 - FE7 Heroes",
+						"size": 18878172,
+						"crc": "cc769fd5"
 					}
 				}
 			]
@@ -2249,6 +2879,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 Leila Edition",
+				"comment": "http://www.feshrine.net/forums/index.php?showtopic=4844",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "554 - FE7 Leila Edition",
+						"size": 17330932,
+						"crc": "3574373f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Lute Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/",
 				"description": null,
@@ -2261,6 +2909,60 @@
 						"name": "341 - FE7 Lute Mode",
 						"size": 16785796,
 						"crc": "969bae21"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 Lyn Hard Mode Redux",
+				"comment": "https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "628 - FE7 Lyn Hard Mode Redux",
+						"size": 16829232,
+						"crc": "c0514f76"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 Lyn Hard Mode Redux JP",
+				"comment": "https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "629 - FE7 Lyn Hard Mode Redux JP",
+						"size": 16823200,
+						"crc": "5344ef57"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 Rewrite",
+				"comment": "https://feuniverse.us/t/fe7-rewrite-fire-emblem-the-blazing-sword/14572",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "626 - FE7 Rewrite",
+						"size": 17894192,
+						"crc": "a3e1d79e"
 					}
 				}
 			]
@@ -2297,6 +2999,24 @@
 						"name": "384 - FE8 All Weapons are Devil Weapons",
 						"size": 16777216,
 						"crc": "711edbc9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Beta Test 1",
+				"comment": "http://www.feshrine.net/forums/index.php?showtopic=4894",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "553 - FE8 Beta Test 1",
+						"size": 16777616,
+						"crc": "e82ad29c"
 					}
 				}
 			]
@@ -2483,6 +3203,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Darion's Mode",
+				"comment": "http://www.serenesforest.net/download/FE8patchfinal2.ips",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "546 - FE8 Darion's Mode",
+						"size": 16777216,
+						"crc": "b9965ea1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Fanmade Directors Cut",
 				"comment": "https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029",
 				"description": null,
@@ -2591,6 +3329,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Monster Quest",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/27680-fire-emlem-monster-quest/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "555 - FE8 Monster Quest",
+						"size": 16777216,
+						"crc": "727c8365"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Negative Growths",
 				"comment": "https://feuniverse.us/t/fe8-negative-growths/4547",
 				"description": null,
@@ -2693,6 +3449,24 @@
 						"name": "388 - FE8 Remix",
 						"size": 24792284,
 						"crc": "98a5a872"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Reunion",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "556 - FE8 Reunion",
+						"size": 16777216,
+						"crc": "1eeddb5f"
 					}
 				}
 			]
@@ -2825,6 +3599,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 with FE4 Graphics (map sprites)",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "550 - FE8 with FE4 Graphics (map sprites)",
+						"size": 16777216,
+						"crc": "dca9a64f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 with FE4 Graphics (weapon icons)",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "549 - FE8 with FE4 Graphics (weapon icons)",
+						"size": 16777216,
+						"crc": "d14c8d42"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8_GIRLS",
 				"comment": "ガールズ(09.10.04)",
 				"description": null,
@@ -2891,6 +3701,24 @@
 						"name": "387 - FE8ESHGBTGISTTM",
 						"size": 16809264,
 						"crc": "17c71c14"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8Re(gret)",
+				"comment": "https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "601 - FE8Re(gret)",
+						"size": 16951928,
+						"crc": "ae563a17"
 					}
 				}
 			]
@@ -3017,6 +3845,42 @@
 						"name": "464 - Fe Time Scarred - The Unwanted Saga",
 						"size": 17788392,
 						"crc": "bdb1f1d2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FEGirls J with English Menu Names",
+				"comment": "http://www.feshrine.net/hacking/patches/FEGirls%20J%20with%20English%20Menu%20Names.ips",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "541 - FEGirls J with English Menu Names",
+						"size": 16777216,
+						"crc": "2fdcc9d8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FEH2, GBA with GACHA mechanics",
+				"comment": "https://feuniverse.us/t/fe8-feh2-gba-with-gacha-mechanics/15208",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "577 - FEH2, GBA with GACHA mechanics",
+						"size": 17487076,
+						"crc": "bc5cc341"
 					}
 				}
 			]
@@ -3815,6 +4679,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Saving Christmas",
+				"comment": "https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "568 - Fire Emblem - Saving Christmas",
+						"size": 18449388,
+						"crc": "5afd94b1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Seima no Kouseki (Japan)",
 				"comment": "https://www.nintendo.co.jp/n08/be8j/",
 				"description": null,
@@ -4031,6 +4913,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - The Last Voyage",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "569 - Fire Emblem - The Last Voyage",
+						"size": 17332756,
+						"crc": "e50a258b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)",
 				"comment": "",
 				"description": null,
@@ -4229,6 +5129,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem and the INTERESTING Stones",
+				"comment": "https://feuniverse.us/t/fire-emblem-and-the-interesting-stones/11934",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "584 - Fire Emblem and the INTERESTING Stones",
+						"size": 17594924,
+						"crc": "eb152ad0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem Destiny",
 				"comment": "https://feuniverse.us/t/fire-emblem-destiny-feu-forum-hack/1888",
 				"description": null,
@@ -4259,6 +5177,24 @@
 						"name": "246 - Fire Emblem Forever",
 						"size": 17627116,
 						"crc": "d93d269a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem Gilmore Girls Edition",
+				"comment": "https://marlowedobbe.itch.io/fegilmoregirls",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "579 - Fire Emblem Gilmore Girls Edition",
+						"size": 17205936,
+						"crc": "1a6576b4"
 					}
 				}
 			]
@@ -4445,6 +5381,24 @@
 		},
 		{
 			"machine": {
+				"name": "FOAL",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "558 - FOAL",
+						"size": 17556292,
+						"crc": "5e4cffa1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Foreboding Dusk",
 				"comment": "https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459",
 				"description": null,
@@ -4517,6 +5471,24 @@
 		},
 		{
 			"machine": {
+				"name": "Frog's Two Hour Blitz - Steel",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/3",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "602 - Frog's Two Hour Blitz - Steel",
+						"size": 16855668,
+						"crc": "8ebafd51"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Gay Baby Emblem",
 				"comment": "https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854",
 				"description": null,
@@ -4529,6 +5501,24 @@
 						"name": "166 - Gay Baby Emblem",
 						"size": 17048076,
 						"crc": "a95e4ae4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Genesis",
+				"comment": "https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "630 - Genesis",
+						"size": 22468416,
+						"crc": "69d9d2ef"
 					}
 				}
 			]
@@ -4583,6 +5573,24 @@
 						"name": "381 - GhebFE",
 						"size": 18874368,
 						"crc": "daa23525"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Gorilla Gadek SG",
+				"comment": "http://www.feshrine.net/hacking/projects/gorillagadek.php",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "542 - Gorilla Gadek SG",
+						"size": 32760640,
+						"crc": "adad84e8"
 					}
 				}
 			]
@@ -4715,8 +5723,26 @@
 		},
 		{
 			"machine": {
+				"name": "Home By Winter",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-home-by-winter-v0-1-wip-10-chapters/12917",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "595 - Home By Winter",
+						"size": 19463740,
+						"crc": "b1ec4ef5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Horizons",
-				"comment": "https://feuniverse.us/t/fire-emblem-horizons-7-chapters-of-gameplay/13737",
+				"comment": "https://feuniverse.us/t/fire-emblem-horizons-8-chapters-of-gameplay/13737",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -4734,7 +5760,7 @@
 		{
 			"machine": {
 				"name": "Host of the Dark",
-				"comment": "https://feuniverse.us/t/fe8-host-of-the-dark-0-6-65-done-12-chapters-in-progress/12731",
+				"comment": "https://feuniverse.us/t/fe8-wip-host-of-the-dark-overhaul-0-2-8-main-chapters-2-gaidens/12731",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -4823,6 +5849,60 @@
 		},
 		{
 			"machine": {
+				"name": "Iron Emblem",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "591 - Iron Emblem",
+						"size": 18033892,
+						"crc": "8fbd09aa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Iron Emblem (altmenus)",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "593 - Iron Emblem (altmenus)",
+						"size": 18033892,
+						"crc": "141ff3aa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Iron Emblem (Hard Mode)",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "592 - Iron Emblem (Hard Mode)",
+						"size": 18035884,
+						"crc": "2e9551ea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Isekai Emblem",
 				"comment": "https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640",
 				"description": null,
@@ -4835,6 +5915,24 @@
 						"name": "237 - Isekai Emblem",
 						"size": 23924912,
 						"crc": "60a52d28"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "jellyunicorn's Two Hour Blitz - bungus badventure",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/7",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "605 - jellyunicorn's Two Hour Blitz - bungus badventure",
+						"size": 16911620,
+						"crc": "a28e296a"
 					}
 				}
 			]
@@ -5003,6 +6101,24 @@
 		},
 		{
 			"machine": {
+				"name": "Lady of Masks",
+				"comment": "https://feuniverse.us/t/fire-emblem-lady-of-masks-0-0-3-two-new-chapters-9-30-chapters-01-02-2022/12435",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "590 - Lady of Masks",
+						"size": 21516196,
+						"crc": "6142c8a8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Land of Heroes",
 				"comment": "https://feuniverse.us/t/land-of-heroes-series-html5-game-engine-fe8u-hack/8581",
 				"description": null,
@@ -5093,6 +6209,42 @@
 		},
 		{
 			"machine": {
+				"name": "Legacy of Sorrow (Easy Mode)",
+				"comment": "https://feuniverse.us/t/fe8-legacy-of-sorrow-6-chapters-complete/9731",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "571 - Legacy of Sorrow (Easy Mode)",
+						"size": 16777216,
+						"crc": "6765a094"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Legacy of Sorrow (Normal Mode)",
+				"comment": "https://feuniverse.us/t/fe8-legacy-of-sorrow-6-chapters-complete/9731",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "572 - Legacy of Sorrow (Normal Mode)",
+						"size": 16777216,
+						"crc": "b5d64dbf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Legends of Avenir",
 				"comment": "https://github.com/Snakey11/Legends-of-Avenir",
 				"description": null,
@@ -5105,6 +6257,42 @@
 						"name": "424 - Legends of Avenir",
 						"size": 24457576,
 						"crc": "bdd2a1da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Lengths of Time",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-lengths-of-time-22-oct-21-v-01-7-chapters-canceled/13756",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "610 - Lengths of Time",
+						"size": 20673528,
+						"crc": "3d2f5458"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Liberllion (Rebellion)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "570 - Liberllion (Rebellion)",
+						"size": 29859468,
+						"crc": "1ae24e75"
 					}
 				}
 			]
@@ -5201,6 +6389,24 @@
 		},
 		{
 			"machine": {
+				"name": "MageKnight404's FE7 Hack",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/8617-mk404s-fe7-hack/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "557 - MageKnight404's FE7 Hack",
+						"size": 22020102,
+						"crc": "f0c9a7ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Maiden Quest",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/",
 				"description": null,
@@ -5213,6 +6419,24 @@
 						"name": "125 - Maiden Quest",
 						"size": 19773496,
 						"crc": "f11864bd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Many Emblem",
+				"comment": "https://fecentral.org/?page=hackinfo&hackid=138",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "565 - Many Emblem",
+						"size": 31704744,
+						"crc": "739d2b9e"
 					}
 				}
 			]
@@ -5399,6 +6623,24 @@
 		},
 		{
 			"machine": {
+				"name": "MrGreen3339's Two Hour Blitz - Vyland vs Matthis",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/10",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "607 - MrGreen3339's Two Hour Blitz - Vyland vs Matthis",
+						"size": 16815668,
+						"crc": "9e5cfd9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Myrm Emblem",
 				"comment": "https://feuniverse.us/t/fe8-complete-myrm-emblem-v1-0/11213",
 				"description": null,
@@ -5411,6 +6653,24 @@
 						"name": "238 - Myrm Emblem",
 						"size": 22182264,
 						"crc": "b5a503ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mythgraven",
+				"comment": "https://feuniverse.us/t/fe8-mythgraven-prologue-ch-3/11039",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "624 - Mythgraven",
+						"size": 23670068,
+						"crc": "bc28fd5d"
 					}
 				}
 			]
@@ -5543,6 +6803,24 @@
 		},
 		{
 			"machine": {
+				"name": "OC Emblem Redux",
+				"comment": "https://feuniverse.us/t/oc-emblem-redux-5-25-chapters-2-8-gaidens-19-49-playable-units-28-custom-songs/14515",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "625 - OC Emblem Redux",
+						"size": 17590124,
+						"crc": "c3d04286"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Old Fire Mumblem",
 				"comment": "https://fecentral.org/?page=hackinfo&hackid=56",
 				"description": null,
@@ -5609,6 +6887,24 @@
 						"name": "329 - Oops! All Sophias",
 						"size": 16777532,
 						"crc": "527bbabc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Parliament of Heroes",
+				"comment": "https://feuniverse.us/t/mafc5/9981/33",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "619 - Parliament of Heroes",
+						"size": 18303588,
+						"crc": "d11bdc83"
 					}
 				}
 			]
@@ -5975,6 +7271,42 @@
 		},
 		{
 			"machine": {
+				"name": "Pukachi's Contest Patch",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "561 - Pukachi's Contest Patch",
+						"size": 16777216,
+						"crc": "585f0c17"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Puzon Emblem",
+				"comment": "https://feuniverse.us/t/puzon-emblem/12243",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "589 - Puzon Emblem",
+						"size": 19889524,
+						"crc": "86e37d3c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Puzzle Emblem",
 				"comment": "https://feuniverse.us/t/puzzle-emblem/7316",
 				"description": null,
@@ -6065,6 +7397,24 @@
 		},
 		{
 			"machine": {
+				"name": "RandomWizard's Two Hour Blitz",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/11",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "608 - RandomWizard's Two Hour Blitz",
+						"size": 16850440,
+						"crc": "d3b9ce48"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Rart Emblem - Halloween",
 				"comment": "https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496",
 				"description": null,
@@ -6077,6 +7427,24 @@
 						"name": "159 - Rart Emblem - Halloween",
 						"size": 17308636,
 						"crc": "61dad746"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Rart Emblem - Saga of the Shivering Shores",
+				"comment": "https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "194 - Rart Emblem - Saga of the Shivering Shores",
+						"size": 17841112,
+						"crc": "ad3d8b29"
 					}
 				}
 			]
@@ -6155,6 +7523,24 @@
 		},
 		{
 			"machine": {
+				"name": "Requiem of War",
+				"comment": "http://www.feshrine.net/hacking/patches/Requiem%20of%20War%20v1.0.ups",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "544 - Requiem of War",
+						"size": 16777240,
+						"crc": "03945110"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Resident Emblem 8",
 				"comment": "https://feuniverse.us/t/fe8-re8-1-chapter-hack-completed-update-v033/6678",
 				"description": null,
@@ -6185,6 +7571,24 @@
 						"name": "144 - Resonance",
 						"size": 21319464,
 						"crc": "7d35cc3c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Resonance 2",
+				"comment": "https://feuniverse.us/t/resonance-2-near-complete-11-chapters-very-epic/11747",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "567 - Resonance 2",
+						"size": 32802288,
+						"crc": "d423be3f"
 					}
 				}
 			]
@@ -6347,6 +7751,24 @@
 						"name": "267 - Runa Does A Thing",
 						"size": 17785916,
 						"crc": "500fe6c4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "S.S-Monster Mash",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-s-s-monster-mash-v1-2-4-a-modified-fe8-campaign-where-you-play-as-monster-classes-new-custom-animation-implemented/15063",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "632 - S",
+						"size": 19363688,
+						"crc": "32494392"
 					}
 				}
 			]
@@ -6695,8 +8117,8 @@
 		},
 		{
 			"machine": {
-				"name": "Saga of the Shivering Shores",
-				"comment": "https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597",
+				"name": "Saga of the Sigilbearers",
+				"comment": "https://feuniverse.us/t/fe8-saga-of-the-sigilbearers-7-chapters/13782",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -6704,9 +8126,9 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "194 - Saga of the Shivering Shores",
-						"size": 17841112,
-						"crc": "ad3d8b29"
+						"name": "611 - Saga of the Sigilbearers",
+						"size": 18864616,
+						"crc": "a2c6e6e0"
 					}
 				}
 			]
@@ -6743,6 +8165,24 @@
 						"name": "431 - Scourge of Proxima",
 						"size": 22542928,
 						"crc": "ced8254f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sea and Sky",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-sea-and-sky-cancelled/12145",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "586 - Sea and Sky",
+						"size": 18548440,
+						"crc": "f94f6c39"
 					}
 				}
 			]
@@ -6857,6 +8297,24 @@
 		},
 		{
 			"machine": {
+				"name": "SirNicee's Two Hour Blitz - bandits",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/4",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "603 - SirNicee's Two Hour Blitz - bandits",
+						"size": 16879412,
+						"crc": "06e7424f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "SirSerenes FE8 Reskin",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/",
 				"description": null,
@@ -6905,6 +8363,24 @@
 						"name": "215 - Slot Machine",
 						"size": 16784068,
 						"crc": "36c739f5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Song of Restoration",
+				"comment": "https://feuniverse.us/t/fe8-song-of-restoration-first-release-first-5-chapters/11847",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "583 - Song of Restoration",
+						"size": 21486612,
+						"crc": "8f4daa2b"
 					}
 				}
 			]
@@ -7001,6 +8477,24 @@
 		},
 		{
 			"machine": {
+				"name": "Starlit Souls",
+				"comment": "https://feuniverse.us/t/fire-emblem-starlit-souls-demo-release-4-32-chapters-completed/12233",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "588 - Starlit Souls",
+						"size": 23069924,
+						"crc": "f4a0ab81"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Stones of a Divine Dragon",
 				"comment": "https://feuniverse.us/t/fe8-stones-of-a-divine-dragon-v1-3-is-no-longer-being-updated-ever-plot-is-fully-explained-in-1st-post/4411",
 				"description": null,
@@ -7037,6 +8531,24 @@
 		},
 		{
 			"machine": {
+				"name": "SubwayBossEmmett's Two Hour Blitz - Royal Escape",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/6",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape",
+						"size": 16826076,
+						"crc": "079fc81e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Super Generic Ragefest Adventure",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -7049,6 +8561,24 @@
 						"name": "539 - Super Generic Ragefest Adventure",
 						"size": 17028828,
 						"crc": "a727bdb0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sword of Heaven and Earth (English Translation)",
+				"comment": "https://feuniverse.us/t/fe7-fire-emblem-sword-of-heaven-and-earth-translation-complete-v1-2/12812",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "594 - Sword of Heaven and Earth (English Translation)",
+						"size": 27323016,
+						"crc": "0a1734ae"
 					}
 				}
 			]
@@ -7109,6 +8639,24 @@
 		},
 		{
 			"machine": {
+				"name": "Tales of Bravery",
+				"comment": "http://www.feshrine.net/hacking/patches/Tales%20of%20Bravery.zip",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "545 - Tales of Bravery",
+						"size": 19320444,
+						"crc": "9f2de20a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Tales of the Emblem",
 				"comment": "http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar",
 				"description": null,
@@ -7139,6 +8687,24 @@
 						"name": "422 - Tales of the Golden Knight",
 						"size": 27862300,
 						"crc": "883a1ac6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Temple of Ardesia",
+				"comment": "https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "566 - Temple of Ardesia",
+						"size": 23414536,
+						"crc": "a67b7ea1"
 					}
 				}
 			]
@@ -7229,6 +8795,24 @@
 						"name": "248 - The Blade’s Legacy Spreading Flames",
 						"size": 17896244,
 						"crc": "4ab46d89"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Blinding Bald",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "563 - The Blinding Bald",
+						"size": 26143116,
+						"crc": "dee8e482"
 					}
 				}
 			]
@@ -7883,6 +9467,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Sacred Stones - FE7 Crossover",
+				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "552 - The Sacred Stones - FE7 Crossover",
+						"size": 16777216,
+						"crc": "1749e41f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Sacred War (Final Update - v1.51)",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867",
 				"description": null,
@@ -7949,6 +9551,24 @@
 						"name": "218 - The Sun God’s Wrath (0 growth)",
 						"size": 33007108,
 						"crc": "7def8770"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Tavern Adventures",
+				"comment": "https://feuniverse.us/t/the-tavern-adventures-3-30-chapters-done/14649",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "627 - The Tavern Adventures",
+						"size": 22098544,
+						"crc": "8ceec8c8"
 					}
 				}
 			]
@@ -8171,6 +9791,24 @@
 		},
 		{
 			"machine": {
+				"name": "Version Elibe 776",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "559 - Version Elibe 776",
+						"size": 16777216,
+						"crc": "252efd87"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Voice Acting Tech Demo",
 				"comment": "https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736",
 				"description": null,
@@ -8381,6 +10019,24 @@
 						"name": "483 - Wrath of the Crusade",
 						"size": 17347588,
 						"crc": "83bfa1d6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "XPGamesNL's Two Hour Blitz - The Town Of Neron",
+				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/8",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "606 - XPGamesNL's Two Hour Blitz - The Town Of Neron",
+						"size": 17063944,
+						"crc": "056cb4b0"
 					}
 				}
 			]

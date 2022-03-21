@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220320"
+	version "20220321"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -23,6 +23,16 @@ game (
 	name "A Glimpse of Time"
 	description "A Glimpse of Time"
 	rom ( name "178 - A Glimpse of Time" size "19436704" crc "caccb1eb" )
+)
+game (
+	name "A Hobbit's Tale"
+	description "A Hobbit's Tale"
+	rom ( name "516 - A Hobbit's Tale" size "16820432" crc "b59f143c" )
+)
+game (
+	name "A New Revelation"
+	description "A New Revelation"
+	rom ( name "530 - A New Revelation" size "17616732" crc "08189dee" )
 )
 game (
 	name "A Sacred Dawn"
@@ -55,6 +65,26 @@ game (
 	rom ( name "390 - Armour Emblem" size "19049856" crc "9fe8fda0" )
 )
 game (
+	name "Array Of Randomness"
+	description "Array Of Randomness"
+	rom ( name "525 - Array Of Randomness" size "16862104" crc "95b209ee" )
+)
+game (
+	name "Art of Forde"
+	description "Art of Forde"
+	rom ( name "534 - Art of Forde" size "19443668" crc "0038731b" )
+)
+game (
+	name "Asks Attorney Investigations"
+	description "Asks Attorney Investigations"
+	rom ( name "537 - Asks Attorney Investigations" size "18548704" crc "809a5207" )
+)
+game (
+	name "Asylum Of Irony"
+	description "Asylum Of Irony"
+	rom ( name "532 - Asylum Of Irony" size "19807284" crc "98402613" )
+)
+game (
 	name "Athos Mode"
 	description "Athos Mode"
 	rom ( name "262 - Athos Mode" size "16788472" crc "2f511659" )
@@ -63,6 +93,11 @@ game (
 	name "Atirian Conquest"
 	description "Atirian Conquest"
 	rom ( name "254 - Atirian Conquest" size "17224984" crc "f2f006e1" )
+)
+game (
+	name "Auto Emblem"
+	description "Auto Emblem"
+	rom ( name "499 - Auto Emblem" size "21952164" crc "0624b3b0" )
 )
 game (
 	name "Awful Emblem"
@@ -150,6 +185,11 @@ game (
 	rom ( name "410 - Bloodlines" size "26362620" crc "1e076cea" )
 )
 game (
+	name "Boss Rush"
+	description "Boss Rush"
+	rom ( name "504 - Boss Rush" size "25165880" crc "ad45b232" )
+)
+game (
 	name "Boss War"
 	description "Boss War"
 	rom ( name "115 - Boss War" size "25171160" crc "186ecc6e" )
@@ -163,6 +203,11 @@ game (
 	name "BS Fire Emblem - Archanea Saga"
 	description "BS Fire Emblem - Archanea Saga"
 	rom ( name "158 - BS Fire Emblem - Archanea Saga" size "16933169" crc "39abb64a" )
+)
+game (
+	name "Bullet Hell Madness"
+	description "Bullet Hell Madness"
+	rom ( name "511 - Bullet Hell Madness" size "21870580" crc "70dc4d72" )
 )
 game (
 	name "Call of the Armor"
@@ -205,6 +250,11 @@ game (
 	rom ( name "250 - Chronicles of Lussaria" size "17605868" crc "bee51b0b" )
 )
 game (
+	name "Colm's Big Heist"
+	description "Colm's Big Heist"
+	rom ( name "536 - Colm's Big Heist" size "16777216" crc "34f20e9d" )
+)
+game (
 	name "Communist Emblem 2 - Venezuela"
 	description "Communist Emblem 2 - Venezuela"
 	rom ( name "355 - Communist Emblem 2 - Venezuela" size "17175216" crc "9948f176" )
@@ -225,9 +275,19 @@ game (
 	rom ( name "265 - Crossover Hack" size "33480004" crc "bc384a67" )
 )
 game (
+	name "Crusaders Of The Void"
+	description "Crusaders Of The Void"
+	rom ( name "533 - Crusaders Of The Void" size "17613044" crc "24c0f555" )
+)
+game (
 	name "Crystal of Bonds"
 	description "Crystal of Bonds"
 	rom ( name "443 - Crystal of Bonds" size "17853160" crc "8fe19751" )
+)
+game (
+	name "Curse Of The Emblem Version 0.001"
+	description "Curse Of The Emblem Version 0.001"
+	rom ( name "508 - Curse Of The Emblem Version 0" size "14711608" crc "9c658b28" )
 )
 game (
 	name "Dark Emblem"
@@ -290,6 +350,11 @@ game (
 	rom ( name "414 - Demon’s Curse" size "25632208" crc "7c088459" )
 )
 game (
+	name "Desperate Struggle"
+	description "Desperate Struggle"
+	rom ( name "506 - Desperate Struggle" size "18881396" crc "b9e5a43c" )
+)
+game (
 	name "Devourer of Time (Hard mode)"
 	description "Devourer of Time (Hard mode)"
 	rom ( name "339 - Devourer of Time (Hard mode)" size "16818192" crc "7fd35f4f" )
@@ -305,9 +370,19 @@ game (
 	rom ( name "333 - Different Dimensions Ostian Princess" size "16777216" crc "79f1b543" )
 )
 game (
+	name "DISTORTION"
+	description "DISTORTION"
+	rom ( name "523 - DISTORTION" size "19069656" crc "7cef7382" )
+)
+game (
 	name "Divine Keys"
 	description "Divine Keys"
 	rom ( name "468 - Divine Keys" size "21116668" crc "9dac7c13" )
+)
+game (
+	name "Dogs of War"
+	description "Dogs of War"
+	rom ( name "538 - Dogs of War" size "16777216" crc "c03ef3c7" )
 )
 game (
 	name "Dorcas Emblem 2"
@@ -335,9 +410,24 @@ game (
 	rom ( name "486 - Dreams of Twilight" size "19414472" crc "5b62c925" )
 )
 game (
+	name "Duo Geno Escapo"
+	description "Duo Geno Escapo"
+	rom ( name "498 - Duo Geno Escapo" size "21952160" crc "a67b6e72" )
+)
+game (
 	name "Elibean Nights"
 	description "Elibean Nights"
 	rom ( name "243 - Elibean Nights" size "28260392" crc "0f2076bd" )
+)
+game (
+	name "Emblem Warriors"
+	description "Emblem Warriors"
+	rom ( name "517 - Emblem Warriors" size "21638172" crc "1762a534" )
+)
+game (
+	name "Enderslicer's Escape"
+	description "Enderslicer's Escape"
+	rom ( name "524 - Enderslicer's Escape" size "16796976" crc "e9bdb90d" )
 )
 game (
 	name "Endless Nights"
@@ -733,6 +823,11 @@ game (
 	name "Ferrica - Project Kenko"
 	description "Ferrica - Project Kenko"
 	rom ( name "478 - Ferrica - Project Kenko" size "23612392" crc "4124c732" )
+)
+game (
+	name "FETO's Last Stand"
+	description "FETO's Last Stand"
+	rom ( name "507 - FETO's Last Stand" size "16784768" crc "b80108e2" )
 )
 game (
 	name "FEU Gacha"
@@ -1185,9 +1280,9 @@ game (
 	rom ( name "164 - Hector Saves Christmas Again" size "17415920" crc "e69b171f" )
 )
 game (
-	name "Heroes of PBAP"
-	description "Heroes of PBAP"
-	rom ( name "190 - Heroes of PBAP" size "19640328" crc "9e78b8ef" )
+	name "Heroes of PaBP"
+	description "Heroes of PaBP"
+	rom ( name "190 - Heroes of PaBP" size "19640328" crc "9e78b8ef" )
 )
 game (
 	name "Heroes of Valencia and Archanea"
@@ -1203,6 +1298,11 @@ game (
 	name "Host of the Dark"
 	description "Host of the Dark"
 	rom ( name "489 - Host of the Dark" size "28808224" crc "7cab585e" )
+)
+game (
+	name "Human Armory"
+	description "Human Armory"
+	rom ( name "527 - Human Armory" size "16784272" crc "90b0a9a5" )
 )
 game (
 	name "Inheritance"
@@ -1240,6 +1340,11 @@ game (
 	rom ( name "268 - Jugdral Saga" size "16777216" crc "b9521183" )
 )
 game (
+	name "Julius's Revenge"
+	description "Julius's Revenge"
+	rom ( name "529 - Julius's Revenge" size "16777216" crc "471de9a1" )
+)
+game (
 	name "Justice & Pride Gaiden - Clash in Estria"
 	description "Justice & Pride Gaiden - Clash in Estria"
 	rom ( name "475 - Justice & Pride Gaiden - Clash in Estria" size "27248856" crc "d625827c" )
@@ -1275,6 +1380,11 @@ game (
 	rom ( name "453 - Last Heavenly Throne" size "20469068" crc "9001906e" )
 )
 game (
+	name "Le Chien Est Adorable"
+	description "Le Chien Est Adorable"
+	rom ( name "505 - Le Chien Est Adorable" size "16777776" crc "08ff3b82" )
+)
+game (
 	name "League of Champions (Patch1)"
 	description "League of Champions (Patch1)"
 	rom ( name "255 - League of Champions (Patch1)" size "18586224" crc "6c949342" )
@@ -1305,6 +1415,11 @@ game (
 	rom ( name "346 - Lyn Emblem" size "17039860" crc "63b047ee" )
 )
 game (
+	name "Lyn's Revenge"
+	description "Lyn's Revenge"
+	rom ( name "519 - Lyn's Revenge" size "16797544" crc "57fe60ed" )
+)
+game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
 	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
@@ -1313,6 +1428,11 @@ game (
 	name "Maiden Quest"
 	description "Maiden Quest"
 	rom ( name "125 - Maiden Quest" size "19773496" crc "f11864bd" )
+)
+game (
+	name "Marc's Special Day"
+	description "Marc's Special Day"
+	rom ( name "510 - Marc's Special Day" size "25189532" crc "f70dfe9b" )
 )
 game (
 	name "Marc’s Precious - Revenge"
@@ -1325,6 +1445,16 @@ game (
 	rom ( name "437 - Mask of Dunham" size "19753152" crc "77dd037e" )
 )
 game (
+	name "Matthew's Nightmare"
+	description "Matthew's Nightmare"
+	rom ( name "503 - Matthew's Nightmare" size "33554808" crc "5124fdf2" )
+)
+game (
+	name "Maze Of The Troll King"
+	description "Maze Of The Troll King"
+	rom ( name "502 - Maze Of The Troll King" size "21814764" crc "a8b2c38b" )
+)
+game (
 	name "Midnight Eclipse (Joke hack)"
 	description "Midnight Eclipse (Joke hack)"
 	rom ( name "395 - Midnight Eclipse (Joke hack)" size "16959580" crc "2865d6ce" )
@@ -1333,6 +1463,21 @@ game (
 	name "Midnight Sun"
 	description "Midnight Sun"
 	rom ( name "266 - Midnight Sun" size "22743256" crc "8164eee8" )
+)
+game (
+	name "Money Man's Last Stand"
+	description "Money Man's Last Stand"
+	rom ( name "522 - Money Man's Last Stand" size "20971560" crc "36f27196" )
+)
+game (
+	name "Moneyfest"
+	description "Moneyfest"
+	rom ( name "520 - Moneyfest" size "16786344" crc "91f66a38" )
+)
+game (
+	name "Morph's Last Stand"
+	description "Morph's Last Stand"
+	rom ( name "501 - Morph's Last Stand" size "16783668" crc "07a1c597" )
 )
 game (
 	name "Myrm Emblem"
@@ -1373,6 +1518,11 @@ game (
 	name "OC Emblem"
 	description "OC Emblem"
 	rom ( name "413 - OC Emblem" size "21489356" crc "5f29fe04" )
+)
+game (
+	name "Old Fire Mumblem"
+	description "Old Fire Mumblem"
+	rom ( name "496 - Old Fire Mumblem" size "16838132" crc "04cfa619" )
 )
 game (
 	name "One-Turn-Clear"
@@ -1505,6 +1655,16 @@ game (
 	rom ( name "137 - Ragefest 5 DLC" size "17194360" crc "0c516c3e" )
 )
 game (
+	name "Ragefest Chronicles"
+	description "Ragefest Chronicles"
+	rom ( name "535 - Ragefest Chronicles" size "16996156" crc "ef471685" )
+)
+game (
+	name "Ragefest Revengeance"
+	description "Ragefest Revengeance"
+	rom ( name "526 - Ragefest Revengeance" size "20406156" crc "fc673b9f" )
+)
+game (
 	name "Rart Emblem - Halloween"
 	description "Rart Emblem - Halloween"
 	rom ( name "159 - Rart Emblem - Halloween" size "17308636" crc "61dad746" )
@@ -1563,6 +1723,11 @@ game (
 	name "Revolution"
 	description "Revolution"
 	rom ( name "474 - Revolution" size "17839068" crc "1561cad6" )
+)
+game (
+	name "Rondo Of Madness"
+	description "Rondo Of Madness"
+	rom ( name "509 - Rondo Of Madness" size "21560644" crc "25d1d129" )
 )
 game (
 	name "Royal Army"
@@ -1770,6 +1935,11 @@ game (
 	rom ( name "236 - Storge" size "20034916" crc "079106d8" )
 )
 game (
+	name "Super Generic Ragefest Adventure"
+	description "Super Generic Ragefest Adventure"
+	rom ( name "539 - Super Generic Ragefest Adventure" size "17028828" crc "a727bdb0" )
+)
+game (
 	name "Sword of Seals ReDux"
 	description "Sword of Seals ReDux"
 	rom ( name "295 - Sword of Seals ReDux" size "16777244" crc "7895cf0d" )
@@ -1798,6 +1968,11 @@ game (
 	name "Terror of the Forest"
 	description "Terror of the Forest"
 	rom ( name "430 - Terror of the Forest" size "27044204" crc "017b8028" )
+)
+game (
+	name "tHE BEGGINING"
+	description "tHE BEGGINING"
+	rom ( name "497 - tHE BEGGINING" size "16777216" crc "a7685715" )
 )
 game (
 	name "The Binding Bartre"
@@ -1838,6 +2013,11 @@ game (
 	name "The Burdened Crown (Blue)"
 	description "The Burdened Crown (Blue)"
 	rom ( name "149 - The Burdened Crown (Blue)" size "22485048" crc "0459d055" )
+)
+game (
+	name "The Corruption Of Roy"
+	description "The Corruption Of Roy"
+	rom ( name "512 - The Corruption Of Roy" size "17761716" crc "41300a20" )
 )
 game (
 	name "The Dark Hour"
@@ -1950,6 +2130,11 @@ game (
 	rom ( name "448 - The Nameless Heroes (English Translation)" size "29782176" crc "36042746" )
 )
 game (
+	name "The Purge Of Weegee"
+	description "The Purge Of Weegee"
+	rom ( name "528 - The Purge Of Weegee" size "21489848" crc "764e473f" )
+)
+game (
 	name "The Queen’s Lament"
 	description "The Queen’s Lament"
 	rom ( name "408 - The Queen’s Lament" size "18021380" crc "e19c9eb7" )
@@ -1958,6 +2143,11 @@ game (
 	name "The Road to Ruin"
 	description "The Road to Ruin"
 	rom ( name "108 - The Road to Ruin" size "21666336" crc "6522df69" )
+)
+game (
+	name "The Roots That Bind"
+	description "The Roots That Bind"
+	rom ( name "531 - The Roots That Bind" size "17350964" crc "014977a9" )
 )
 game (
 	name "The Sacred Chairs"
@@ -2010,6 +2200,11 @@ game (
 	rom ( name "282 - Tirado Emblem" size "18775380" crc "5bb0ae74" )
 )
 game (
+	name "Title Here"
+	description "Title Here"
+	rom ( name "521 - Title Here" size "17072284" crc "e6f15aae" )
+)
+game (
 	name "Touhou Emblem 8 - The Sacred Shrines"
 	description "Touhou Emblem 8 - The Sacred Shrines"
 	rom ( name "402 - Touhou Emblem 8 - The Sacred Shrines" size "17869900" crc "e18fc466" )
@@ -2018,6 +2213,16 @@ game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin"
 	description "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin"
 	rom ( name "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size "22807804" crc "1b8b59c0" )
+)
+game (
+	name "Tower Defense"
+	description "Tower Defense"
+	rom ( name "515 - Tower Defense" size "16793408" crc "6b65ad16" )
+)
+game (
+	name "Trapped In Painful Places"
+	description "Trapped In Painful Places"
+	rom ( name "518 - Trapped In Painful Places" size "17024800" crc "32d3350e" )
 )
 game (
 	name "Typhon’s Wake"
@@ -2033,6 +2238,16 @@ game (
 	name "Under Grey Skies"
 	description "Under Grey Skies"
 	rom ( name "273 - Under Grey Skies" size "19475260" crc "25b2d8d0" )
+)
+game (
+	name "Untitled"
+	description "Untitled"
+	rom ( name "500 - Untitled" size "16780684" crc "7ff80b14" )
+)
+game (
+	name "Vaati's Revenge"
+	description "Vaati's Revenge"
+	rom ( name "513 - Vaati's Revenge" size "20091536" crc "cc6ff371" )
 )
 game (
 	name "Voice Acting Tech Demo"
@@ -2080,6 +2295,11 @@ game (
 	rom ( name "278 - Water Crest - Morps’s Quest For Pants" size "17267760" crc "95d4742f" )
 )
 game (
+	name "Wheel Of Misfortune"
+	description "Wheel Of Misfortune"
+	rom ( name "540 - Wheel Of Misfortune" size "19997476" crc "71238326" )
+)
+game (
 	name "Winning Against Gharnef"
 	description "Winning Against Gharnef"
 	rom ( name "165 - Winning Against Gharnef" size "18085528" crc "03c472ee" )
@@ -2088,6 +2308,11 @@ game (
 	name "Wrath of the Crusade"
 	description "Wrath of the Crusade"
 	rom ( name "483 - Wrath of the Crusade" size "17347588" crc "83bfa1d6" )
+)
+game (
+	name "Yet Another Ragefest Hack"
+	description "Yet Another Ragefest Hack"
+	rom ( name "514 - Yet Another Ragefest Hack" size "16851636" crc "478b418e" )
 )
 game (
 	name "Yggdra Hack UI Translation"

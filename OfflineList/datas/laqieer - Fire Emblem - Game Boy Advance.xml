@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220320</datVersion>
+		<datVersion>20220321</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1037,7 +1037,7 @@
 			<title>Prisoner of Darkness (Hard Mode)</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>20971560</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Ragefest</publisher>
 			<location>1</location>
 			<sourceRom>Blazer</sourceRom>
 			<language>2</language>
@@ -1149,7 +1149,7 @@
 			<title>Prisoner of Darkness</title>
 			<saveType>Sram_F_v102</saveType>
 			<romSize>20971804</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Ragefest</publisher>
 			<location>1</location>
 			<sourceRom>Blazer</sourceRom>
 			<language>2</language>
@@ -1946,7 +1946,7 @@
 		<game>
 			<imageNumber>190</imageNumber>
 			<releaseNumber>190</releaseNumber>
-			<title>Heroes of PBAP</title>
+			<title>Heroes of PaBP</title>
 			<saveType>Sram_F_v103</saveType>
 			<romSize>19640328</romSize>
 			<publisher>Fan Modding</publisher>
@@ -6837,6 +6837,726 @@
 			<im1CRC>250C5D62</im1CRC>
 			<im2CRC>DDB06BCD</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-dragon-of-apocalypse-complete-but-needs-playtesting/14864</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>496</imageNumber>
+			<releaseNumber>496</releaseNumber>
+			<title>Old Fire Mumblem</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16838132</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>markyjoe1990</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">04CFA619</romCRC></files>
+			<im1CRC>82FF183D</im1CRC>
+			<im2CRC>495E3C3A</im2CRC>
+			<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>497</imageNumber>
+			<releaseNumber>497</releaseNumber>
+			<title>tHE BEGGINING</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Alusq</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">A7685715</romCRC></files>
+			<im1CRC>894D4535</im1CRC>
+			<im2CRC>48FF59A3</im2CRC>
+			<comment>https://feuniverse.us/t/the-beggining/3572</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>498</imageNumber>
+			<releaseNumber>498</releaseNumber>
+			<title>Duo Geno Escapo</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21952160</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>SageMatthis &amp; CM9</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">A67B6E72</romCRC></files>
+			<im1CRC>0DFF92DA</im1CRC>
+			<im2CRC>C1594E53</im2CRC>
+			<comment>https://fecentral.org/?page=hackinfo&amp;hackid=110</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>499</imageNumber>
+			<releaseNumber>499</releaseNumber>
+			<title>Auto Emblem</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21952164</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Team Justice</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0624B3B0</romCRC></files>
+			<im1CRC>0DFF92DA</im1CRC>
+			<im2CRC>C1594E53</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>500</imageNumber>
+			<releaseNumber>500</releaseNumber>
+			<title>Untitled</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16780684</romSize>
+			<publisher>Ragefest</publisher>
+			<location>7</location>
+			<sourceRom>Untitled</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7FF80B14</romCRC></files>
+			<im1CRC>EB2DF03C</im1CRC>
+			<im2CRC>EC058B4C</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>501</imageNumber>
+			<releaseNumber>501</releaseNumber>
+			<title>Morph's Last Stand</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16783668</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>24fitz</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">07A1C597</romCRC></files>
+			<im1CRC>8672AD2A</im1CRC>
+			<im2CRC>2EF2D484</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>502</imageNumber>
+			<releaseNumber>502</releaseNumber>
+			<title>Maze Of The Troll King</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21814764</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Camtech075</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">A8B2C38B</romCRC></files>
+			<im1CRC>E2AD9728</im1CRC>
+			<im2CRC>543FA54B</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>503</imageNumber>
+			<releaseNumber>503</releaseNumber>
+			<title>Matthew's Nightmare</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>33554808</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Cedar Nyx</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5124FDF2</romCRC></files>
+			<im1CRC>F0D865B1</im1CRC>
+			<im2CRC>EE56DA6E</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>504</imageNumber>
+			<releaseNumber>504</releaseNumber>
+			<title>Boss Rush</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25165880</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">AD45B232</romCRC></files>
+			<im1CRC>F0D865B1</im1CRC>
+			<im2CRC>B72FB95E</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>505</imageNumber>
+			<releaseNumber>505</releaseNumber>
+			<title>Le Chien Est Adorable</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777776</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Hithere1</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">08FF3B82</romCRC></files>
+			<im1CRC>026565A6</im1CRC>
+			<im2CRC>16384ACA</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>506</imageNumber>
+			<releaseNumber>506</releaseNumber>
+			<title>Desperate Struggle</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18881396</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Subieko</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B9E5A43C</romCRC></files>
+			<im1CRC>5A7883A8</im1CRC>
+			<im2CRC>1842863F</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>507</imageNumber>
+			<releaseNumber>507</releaseNumber>
+			<title>FETO's Last Stand</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16784768</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Hithere1</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B80108E2</romCRC></files>
+			<im1CRC>B4B47861</im1CRC>
+			<im2CRC>764069EB</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>508</imageNumber>
+			<releaseNumber>508</releaseNumber>
+			<title>Curse Of The Emblem Version 0.001</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>14711608</romSize>
+			<publisher>Ragefest</publisher>
+			<location>7</location>
+			<sourceRom>FELover3</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9C658B28</romCRC></files>
+			<im1CRC>EB2DF03C</im1CRC>
+			<im2CRC>363CCAAD</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>509</imageNumber>
+			<releaseNumber>509</releaseNumber>
+			<title>Rondo Of Madness</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21560644</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">25D1D129</romCRC></files>
+			<im1CRC>640D5B9A</im1CRC>
+			<im2CRC>AA83E707</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>510</imageNumber>
+			<releaseNumber>510</releaseNumber>
+			<title>Marc's Special Day</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>25189532</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>FELover3</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">F70DFE9B</romCRC></files>
+			<im1CRC>03E85F63</im1CRC>
+			<im2CRC>AE146588</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>511</imageNumber>
+			<releaseNumber>511</releaseNumber>
+			<title>Bullet Hell Madness</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21870580</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">70DC4D72</romCRC></files>
+			<im1CRC>640D5B9A</im1CRC>
+			<im2CRC>C7057324</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>512</imageNumber>
+			<releaseNumber>512</releaseNumber>
+			<title>The Corruption Of Roy</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17761716</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>MarkyJoe1990</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">41300A20</romCRC></files>
+			<im1CRC>53D2984E</im1CRC>
+			<im2CRC>F61DA62E</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>513</imageNumber>
+			<releaseNumber>513</releaseNumber>
+			<title>Vaati's Revenge</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20091536</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Golden Warrior</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">CC6FF371</romCRC></files>
+			<im1CRC>4F8FD13F</im1CRC>
+			<im2CRC>264E7F64</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>514</imageNumber>
+			<releaseNumber>514</releaseNumber>
+			<title>Yet Another Ragefest Hack</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16851636</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Hithere1</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">478B418E</romCRC></files>
+			<im1CRC>3BD204EC</im1CRC>
+			<im2CRC>F4F2FC5F</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>515</imageNumber>
+			<releaseNumber>515</releaseNumber>
+			<title>Tower Defense</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16793408</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Jay007</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">6B65AD16</romCRC></files>
+			<im1CRC>004E6EF4</im1CRC>
+			<im2CRC>BF1068C5</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>516</imageNumber>
+			<releaseNumber>516</releaseNumber>
+			<title>A Hobbit's Tale</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16820432</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Lifestorm</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B59F143C</romCRC></files>
+			<im1CRC>BC3AA406</im1CRC>
+			<im2CRC>A09D67C4</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>517</imageNumber>
+			<releaseNumber>517</releaseNumber>
+			<title>Emblem Warriors</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21638172</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1762A534</romCRC></files>
+			<im1CRC>51C790C3</im1CRC>
+			<im2CRC>9ACC1D6D</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>518</imageNumber>
+			<releaseNumber>518</releaseNumber>
+			<title>Trapped In Painful Places</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17024800</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Alusq/Sqawl</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">32D3350E</romCRC></files>
+			<im1CRC>9F509E5A</im1CRC>
+			<im2CRC>4FD8F00F</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>519</imageNumber>
+			<releaseNumber>519</releaseNumber>
+			<title>Lyn's Revenge</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16797544</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>SuperSonic1212</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">57FE60ED</romCRC></files>
+			<im1CRC>83D45287</im1CRC>
+			<im2CRC>140D5C82</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>520</imageNumber>
+			<releaseNumber>520</releaseNumber>
+			<title>Moneyfest</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16786344</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Moneyfest</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">91F66A38</romCRC></files>
+			<im1CRC>E61C86FC</im1CRC>
+			<im2CRC>BFB88138</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>521</imageNumber>
+			<releaseNumber>521</releaseNumber>
+			<title>Title Here</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17072284</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>General Ciraxis &amp; Ash3wl</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E6F15AAE</romCRC></files>
+			<im1CRC>ADBED3F6</im1CRC>
+			<im2CRC>810B0F33</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>522</imageNumber>
+			<releaseNumber>522</releaseNumber>
+			<title>Money Man's Last Stand</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20971560</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Pwntagonist</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">36F27196</romCRC></files>
+			<im1CRC>7FD1D61D</im1CRC>
+			<im2CRC>9CCC12CB</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>523</imageNumber>
+			<releaseNumber>523</releaseNumber>
+			<title>DISTORTION</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19069656</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>DH_Ninja</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7CEF7382</romCRC></files>
+			<im1CRC>F0D865B1</im1CRC>
+			<im2CRC>98D5C46D</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>524</imageNumber>
+			<releaseNumber>524</releaseNumber>
+			<title>Enderslicer's Escape</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16796976</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Random Swordmaster</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E9BDB90D</romCRC></files>
+			<im1CRC>39B568A6</im1CRC>
+			<im2CRC>1B8F26A5</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>525</imageNumber>
+			<releaseNumber>525</releaseNumber>
+			<title>Array Of Randomness</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16862104</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>BladeHero22</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">95B209EE</romCRC></files>
+			<im1CRC>BB6991C3</im1CRC>
+			<im2CRC>E63DE68F</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>526</imageNumber>
+			<releaseNumber>526</releaseNumber>
+			<title>Ragefest Revengeance</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20406156</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>HeyItsKyo</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FC673B9F</romCRC></files>
+			<im1CRC>ADBED3F6</im1CRC>
+			<im2CRC>6BA02824</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>527</imageNumber>
+			<releaseNumber>527</releaseNumber>
+			<title>Human Armory</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16784272</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Pwntagonist, Royalty &amp; GenericCivilian3</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">90B0A9A5</romCRC></files>
+			<im1CRC>30C010E8</im1CRC>
+			<im2CRC>E5A81200</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>528</imageNumber>
+			<releaseNumber>528</releaseNumber>
+			<title>The Purge Of Weegee</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21489848</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Tamborrino</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">764E473F</romCRC></files>
+			<im1CRC>70DADF73</im1CRC>
+			<im2CRC>16391865</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>529</imageNumber>
+			<releaseNumber>529</releaseNumber>
+			<title>Julius's Revenge</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Darrman</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">471DE9A1</romCRC></files>
+			<im1CRC>97850301</im1CRC>
+			<im2CRC>597900F0</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>530</imageNumber>
+			<releaseNumber>530</releaseNumber>
+			<title>A New Revelation</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17616732</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Volke0 &amp; TheRealGanon</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">08189DEE</romCRC></files>
+			<im1CRC>FBCCF051</im1CRC>
+			<im2CRC>874D455A</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>531</imageNumber>
+			<releaseNumber>531</releaseNumber>
+			<title>The Roots That Bind</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17350964</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Alusq</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">014977A9</romCRC></files>
+			<im1CRC>55A81D44</im1CRC>
+			<im2CRC>E61AFEB0</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>532</imageNumber>
+			<releaseNumber>532</releaseNumber>
+			<title>Asylum Of Irony</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19807284</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>SageMatthis</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">98402613</romCRC></files>
+			<im1CRC>B45BD5BF</im1CRC>
+			<im2CRC>D1E70FBF</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>533</imageNumber>
+			<releaseNumber>533</releaseNumber>
+			<title>Crusaders Of The Void</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17613044</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>BladeHero22</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">24C0F555</romCRC></files>
+			<im1CRC>FBCCF051</im1CRC>
+			<im2CRC>3C6FA912</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>534</imageNumber>
+			<releaseNumber>534</releaseNumber>
+			<title>Art of Forde</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19443668</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>1st_lieutenant_noguchi &amp; Snakey1</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">0038731B</romCRC></files>
+			<im1CRC>9CCE9F14</im1CRC>
+			<im2CRC>132C70EB</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>535</imageNumber>
+			<releaseNumber>535</releaseNumber>
+			<title>Ragefest Chronicles</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16996156</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ragefest Chronicles</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">EF471685</romCRC></files>
+			<im1CRC>74DE700B</im1CRC>
+			<im2CRC>6A50D99E</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>536</imageNumber>
+			<releaseNumber>536</releaseNumber>
+			<title>Colm's Big Heist</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Ephraim225</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">34F20E9D</romCRC></files>
+			<im1CRC>30852108</im1CRC>
+			<im2CRC>E3557DC9</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>537</imageNumber>
+			<releaseNumber>537</releaseNumber>
+			<title>Asks Attorney Investigations</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18548704</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>CirclesEverywhere</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">809A5207</romCRC></files>
+			<im1CRC>F670BB1A</im1CRC>
+			<im2CRC>7B206489</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>538</imageNumber>
+			<releaseNumber>538</releaseNumber>
+			<title>Dogs of War</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Tequila</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">C03EF3C7</romCRC></files>
+			<im1CRC>33D0594F</im1CRC>
+			<im2CRC>937EB6E1</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>539</imageNumber>
+			<releaseNumber>539</releaseNumber>
+			<title>Super Generic Ragefest Adventure</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17028828</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Pwntagonist</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">A727BDB0</romCRC></files>
+			<im1CRC>CAE7DBAF</im1CRC>
+			<im2CRC>DB901F29</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>540</imageNumber>
+			<releaseNumber>540</releaseNumber>
+			<title>Wheel Of Misfortune</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19997476</romSize>
+			<publisher>Ragefest</publisher>
+			<location>1</location>
+			<sourceRom>Xlelius</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">71238326</romCRC></files>
+			<im1CRC>7469CEF9</im1CRC>
+			<im2CRC>E571DF41</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

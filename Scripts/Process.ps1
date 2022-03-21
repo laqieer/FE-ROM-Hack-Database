@@ -8,7 +8,12 @@ Import-Module .\crc32.psm1
 
 $Basename = [System.IO.Path]::GetFileNameWithoutExtension($ROM)
 $Directory = [System.IO.Path]::GetDirectoryName($ROM)
-$ImgPath = "..\OfflineList\imgs\laqieer - Fire Emblem - Game Boy Advance\1-500\"
+$ImgPath = "..\OfflineList\imgs\laqieer - Fire Emblem - Game Boy Advance\"
+if($x -gt 500){
+   $ImgPath += "501-1000\"
+}else {
+   $ImgPath += "1-500\"
+}
 
 Get-Item $ROM
 get-crc32 $ROM

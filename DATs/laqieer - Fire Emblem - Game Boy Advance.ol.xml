@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>425</datVersion>
+		<datVersion>470</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -93,6 +93,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://ameblo.jp/yu-meigunsi/theme-10033783736.html</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>516 - A Hobbit's Tale</title>
+			<saveType>None</saveType>
+			<romSize>16820432</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B59F143C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>530 - A New Revelation</title>
+			<saveType>None</saveType>
+			<romSize>17616732</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">08189DEE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -206,6 +242,78 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>525 - Array Of Randomness</title>
+			<saveType>None</saveType>
+			<romSize>16862104</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">95B209EE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>534 - Art of Forde</title>
+			<saveType>None</saveType>
+			<romSize>19443668</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0038731B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>537 - Asks Attorney Investigations</title>
+			<saveType>None</saveType>
+			<romSize>18548704</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">809A5207</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>532 - Asylum Of Irony</title>
+			<saveType>None</saveType>
+			<romSize>19807284</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">98402613</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>262 - Athos Mode</title>
 			<saveType>None</saveType>
 			<romSize>16788472</romSize>
@@ -237,6 +345,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>499 - Auto Emblem</title>
+			<saveType>None</saveType>
+			<romSize>21952164</romSize>
+			<publisher>Reskin</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0624B3B0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -548,6 +674,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>504 - Boss Rush</title>
+			<saveType>None</saveType>
+			<romSize>25165880</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AD45B232</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>115 - Boss War</title>
 			<saveType>None</saveType>
 			<romSize>25171160</romSize>
@@ -597,6 +741,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://github.com/sme23/bsfe</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>511 - Bullet Hell Madness</title>
+			<saveType>None</saveType>
+			<romSize>21870580</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">70DC4D72</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -746,6 +908,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>536 - Colm's Big Heist</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">34F20E9D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>355 - Communist Emblem 2 - Venezuela</title>
 			<saveType>None</saveType>
 			<romSize>17175216</romSize>
@@ -818,6 +998,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>533 - Crusaders Of The Void</title>
+			<saveType>None</saveType>
+			<romSize>17613044</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">24C0F555</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>443 - Crystal of Bonds</title>
 			<saveType>None</saveType>
 			<romSize>17853160</romSize>
@@ -831,6 +1029,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-crystal-of-bonds-working-title-fe8-romhack-demo-5-chapters/4801</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>508 - Curse Of The Emblem Version 0</title>
+			<saveType>None</saveType>
+			<romSize>14711608</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9C658B28</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1052,6 +1268,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>506 - Desperate Struggle</title>
+			<saveType>None</saveType>
+			<romSize>18881396</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B9E5A43C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>339 - Devourer of Time (Hard mode)</title>
 			<saveType>None</saveType>
 			<romSize>16818192</romSize>
@@ -1106,6 +1340,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>523 - DISTORTION</title>
+			<saveType>None</saveType>
+			<romSize>19069656</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7CEF7382</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>468 - Divine Keys</title>
 			<saveType>None</saveType>
 			<romSize>21116668</romSize>
@@ -1119,6 +1371,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-the-divine-keys-on-hold/7373</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>538 - Dogs of War</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C03EF3C7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1214,6 +1484,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>498 - Duo Geno Escapo</title>
+			<saveType>None</saveType>
+			<romSize>21952160</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A67B6E72</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecentral.org/?page=hackinfo&amp;hackid=110</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>243 - Elibean Nights</title>
 			<saveType>None</saveType>
 			<romSize>28260392</romSize>
@@ -1227,6 +1515,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>517 - Emblem Warriors</title>
+			<saveType>None</saveType>
+			<romSize>21638172</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1762A534</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>524 - Enderslicer's Escape</title>
+			<saveType>None</saveType>
+			<romSize>16796976</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E9BDB90D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2649,6 +2973,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-ferrica-project-kenko/8814</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>507 - FETO's Last Stand</title>
+			<saveType>None</saveType>
+			<romSize>16784768</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B80108E2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4278,7 +4620,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
-			<title>190 - Heroes of PBAP</title>
+			<title>190 - Heroes of PaBP</title>
 			<saveType>None</saveType>
 			<romSize>19640328</romSize>
 			<publisher>Fan Modding</publisher>
@@ -4345,6 +4687,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-host-of-the-dark-0-6-65-done-12-chapters-in-progress/12731</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>527 - Human Armory</title>
+			<saveType>None</saveType>
+			<romSize>16784272</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">90B0A9A5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4476,6 +4836,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>529 - Julius's Revenge</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">471DE9A1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>475 - Justice &amp; Pride Gaiden - Clash in Estria</title>
 			<saveType>None</saveType>
 			<romSize>27248856</romSize>
@@ -4602,6 +4980,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>505 - Le Chien Est Adorable</title>
+			<saveType>None</saveType>
+			<romSize>16777776</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">08FF3B82</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>255 - League of Champions (Patch1)</title>
 			<saveType>None</saveType>
 			<romSize>18586224</romSize>
@@ -4710,6 +5106,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>519 - Lyn's Revenge</title>
+			<saveType>None</saveType>
+			<romSize>16797544</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">57FE60ED</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>467 - M</title>
 			<saveType>None</saveType>
 			<romSize>18427704</romSize>
@@ -4741,6 +5155,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>510 - Marc's Special Day</title>
+			<saveType>None</saveType>
+			<romSize>25189532</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F70DFE9B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4782,6 +5214,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>503 - Matthew's Nightmare</title>
+			<saveType>None</saveType>
+			<romSize>33554808</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5124FDF2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>502 - Maze Of The Troll King</title>
+			<saveType>None</saveType>
+			<romSize>21814764</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A8B2C38B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>395 - Midnight Eclipse (Joke hack)</title>
 			<saveType>None</saveType>
 			<romSize>16959580</romSize>
@@ -4813,6 +5281,60 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>522 - Money Man's Last Stand</title>
+			<saveType>None</saveType>
+			<romSize>20971560</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">36F27196</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>520 - Moneyfest</title>
+			<saveType>None</saveType>
+			<romSize>16786344</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">91F66A38</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>501 - Morph's Last Stand</title>
+			<saveType>None</saveType>
+			<romSize>16783668</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">07A1C597</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4957,6 +5479,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>496 - Old Fire Mumblem</title>
+			<saveType>None</saveType>
+			<romSize>16838132</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">04CFA619</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5109,7 +5649,7 @@
 			<title>140 - Prisoner of Darkness</title>
 			<saveType>None</saveType>
 			<romSize>20971804</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Ragefest</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5127,7 +5667,7 @@
 			<title>133 - Prisoner of Darkness (Hard Mode)</title>
 			<saveType>None</saveType>
 			<romSize>20971560</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Ragefest</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5430,6 +5970,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>535 - Ragefest Chronicles</title>
+			<saveType>None</saveType>
+			<romSize>16996156</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EF471685</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>526 - Ragefest Revengeance</title>
+			<saveType>None</saveType>
+			<romSize>20406156</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FC673B9F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>159 - Rart Emblem - Halloween</title>
 			<saveType>None</saveType>
 			<romSize>17308636</romSize>
@@ -5641,6 +6217,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/demo-fire-emblem-revolution-fe8/8274</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>509 - Rondo Of Madness</title>
+			<saveType>None</saveType>
+			<romSize>21560644</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">25D1D129</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6384,6 +6978,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>539 - Super Generic Ragefest Adventure</title>
+			<saveType>None</saveType>
+			<romSize>17028828</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A727BDB0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>295 - Sword of Seals ReDux</title>
 			<saveType>None</saveType>
 			<romSize>16777244</romSize>
@@ -6487,6 +7099,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-terror-of-the-forest-final-chapter-out/6003</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>497 - tHE BEGGINING</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A7685715</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/the-beggining/3572</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6631,6 +7261,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>512 - The Corruption Of Roy</title>
+			<saveType>None</saveType>
+			<romSize>17761716</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">41300A20</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7032,6 +7680,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>528 - The Purge Of Weegee</title>
+			<saveType>None</saveType>
+			<romSize>21489848</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">764E473F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>408 - The Queen’s Lament</title>
 			<saveType>None</saveType>
 			<romSize>18021380</romSize>
@@ -7063,6 +7729,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>531 - The Roots That Bind</title>
+			<saveType>None</saveType>
+			<romSize>17350964</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">014977A9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7248,6 +7932,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>521 - Title Here</title>
+			<saveType>None</saveType>
+			<romSize>17072284</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E6F15AAE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>402 - Touhou Emblem 8 - The Sacred Shrines</title>
 			<saveType>None</saveType>
 			<romSize>17869900</romSize>
@@ -7279,6 +7981,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>515 - Tower Defense</title>
+			<saveType>None</saveType>
+			<romSize>16793408</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6B65AD16</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>518 - Trapped In Painful Places</title>
+			<saveType>None</saveType>
+			<romSize>17024800</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">32D3350E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7333,6 +8071,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/under-grey-skies/4133</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>500 - Untitled</title>
+			<saveType>None</saveType>
+			<romSize>16780684</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7FF80B14</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>513 - Vaati's Revenge</title>
+			<saveType>None</saveType>
+			<romSize>20091536</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CC6FF371</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7500,6 +8274,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>540 - Wheel Of Misfortune</title>
+			<saveType>None</saveType>
+			<romSize>19997476</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">71238326</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>165 - Winning Against Gharnef</title>
 			<saveType>None</saveType>
 			<romSize>18085528</romSize>
@@ -7531,6 +8323,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-wrath-of-the-crusade-v0-1-4-1/9213</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>514 - Yet Another Ragefest Hack</title>
+			<saveType>None</saveType>
+			<romSize>16851636</romSize>
+			<publisher>Ragefest</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">478B418E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

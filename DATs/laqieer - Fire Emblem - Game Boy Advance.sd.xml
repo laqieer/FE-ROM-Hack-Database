@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220320</version>
+		<version>20220321</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -149,6 +149,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>A Hobbit's Tale</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>516 - A Hobbit's Tale</name>
+					<size>16820432</size>
+					<crc>b59f143c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>A New Revelation</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>530 - A New Revelation</name>
+					<size>17616732</size>
+					<crc>08189dee</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>A Sacred Dawn</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/</comment>
 				<publisher>Fan Modding</publisher>
@@ -239,6 +269,66 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Array Of Randomness</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>525 - Array Of Randomness</name>
+					<size>16862104</size>
+					<crc>95b209ee</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Art of Forde</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>534 - Art of Forde</name>
+					<size>19443668</size>
+					<crc>0038731b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Asks Attorney Investigations</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>537 - Asks Attorney Investigations</name>
+					<size>18548704</size>
+					<crc>809a5207</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Asylum Of Irony</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>532 - Asylum Of Irony</name>
+					<size>19807284</size>
+					<crc>98402613</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Athos Mode</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/</comment>
 				<publisher>Fan Modding</publisher>
@@ -264,6 +354,21 @@
 					<name>254 - Atirian Conquest</name>
 					<size>17224984</size>
 					<crc>f2f006e1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Auto Emblem</name>
+				<comment>http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip</comment>
+				<publisher>Reskin</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>499 - Auto Emblem</name>
+					<size>21952164</size>
+					<crc>0624b3b0</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -524,6 +629,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Boss Rush</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>504 - Boss Rush</name>
+					<size>25165880</size>
+					<crc>ad45b232</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Boss War</name>
 				<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
 				<publisher>Fan Modding</publisher>
@@ -564,6 +684,21 @@
 					<name>158 - BS Fire Emblem - Archanea Saga</name>
 					<size>16933169</size>
 					<crc>39abb64a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Bullet Hell Madness</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>511 - Bullet Hell Madness</name>
+					<size>21870580</size>
+					<crc>70dc4d72</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -689,6 +824,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Colm's Big Heist</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>536 - Colm's Big Heist</name>
+					<size>16777216</size>
+					<crc>34f20e9d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Communist Emblem 2 - Venezuela</name>
 				<comment>https://feuniverse.us/t/communist-emblem-2-venezuela/3573</comment>
 				<publisher>Reskin</publisher>
@@ -749,6 +899,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Crusaders Of The Void</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>533 - Crusaders Of The Void</name>
+					<size>17613044</size>
+					<crc>24c0f555</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Crystal of Bonds</name>
 				<comment>https://feuniverse.us/t/fire-emblem-crystal-of-bonds-working-title-fe8-romhack-demo-5-chapters/4801</comment>
 				<publisher>Fan Modding</publisher>
@@ -759,6 +924,21 @@
 					<name>443 - Crystal of Bonds</name>
 					<size>17853160</size>
 					<crc>8fe19751</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Curse Of The Emblem Version 0.001</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>508 - Curse Of The Emblem Version 0</name>
+					<size>14711608</size>
+					<crc>9c658b28</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -944,6 +1124,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Desperate Struggle</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>506 - Desperate Struggle</name>
+					<size>18881396</size>
+					<crc>b9e5a43c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Devourer of Time (Hard mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
 				<publisher>Reskin</publisher>
@@ -989,6 +1184,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>DISTORTION</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>523 - DISTORTION</name>
+					<size>19069656</size>
+					<crc>7cef7382</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Divine Keys</name>
 				<comment>https://feuniverse.us/t/fe8-the-divine-keys-on-hold/7373</comment>
 				<publisher>Fan Modding</publisher>
@@ -999,6 +1209,21 @@
 					<name>468 - Divine Keys</name>
 					<size>21116668</size>
 					<crc>9dac7c13</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Dogs of War</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>538 - Dogs of War</name>
+					<size>16777216</size>
+					<crc>c03ef3c7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1079,6 +1304,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Duo Geno Escapo</name>
+				<comment>https://fecentral.org/?page=hackinfo&amp;hackid=110</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>498 - Duo Geno Escapo</name>
+					<size>21952160</size>
+					<crc>a67b6e72</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Elibean Nights</name>
 				<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
 				<publisher>Fan Modding</publisher>
@@ -1089,6 +1329,36 @@
 					<name>243 - Elibean Nights</name>
 					<size>28260392</size>
 					<crc>0f2076bd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Emblem Warriors</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>517 - Emblem Warriors</name>
+					<size>21638172</size>
+					<crc>1762a534</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Enderslicer's Escape</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>524 - Enderslicer's Escape</name>
+					<size>16796976</size>
+					<crc>e9bdb90d</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2274,6 +2544,21 @@
 					<name>478 - Ferrica - Project Kenko</name>
 					<size>23612392</size>
 					<crc>4124c732</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FETO's Last Stand</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>507 - FETO's Last Stand</name>
+					<size>16784768</size>
+					<crc>b80108e2</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3629,14 +3914,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>Heroes of PBAP</name>
+				<name>Heroes of PaBP</name>
 				<comment>https://feuniverse.us/t/fire-emblem-heroes-of-pabp/5296</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>190 - Heroes of PBAP</name>
+					<name>190 - Heroes of PaBP</name>
 					<size>19640328</size>
 					<crc>9e78b8ef</crc>
 				</datitem>
@@ -3684,6 +3969,21 @@
 					<name>489 - Host of the Dark</name>
 					<size>28808224</size>
 					<crc>7cab585e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Human Armory</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>527 - Human Armory</name>
+					<size>16784272</size>
+					<crc>90b0a9a5</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3794,6 +4094,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Julius's Revenge</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>529 - Julius's Revenge</name>
+					<size>16777216</size>
+					<crc>471de9a1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Justice &amp; Pride Gaiden - Clash in Estria</name>
 				<comment>https://feuniverse.us/t/justice-pride-gaiden-clash-in-estria/8659</comment>
 				<publisher>Fan Modding</publisher>
@@ -3899,6 +4214,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Le Chien Est Adorable</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>505 - Le Chien Est Adorable</name>
+					<size>16777776</size>
+					<crc>08ff3b82</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>League of Champions (Patch1)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
 				<publisher>Fan Modding</publisher>
@@ -3989,6 +4319,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Lyn's Revenge</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>519 - Lyn's Revenge</name>
+					<size>16797544</size>
+					<crc>57fe60ed</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>M. E. R. C. S.</name>
 				<comment>https://feuniverse.us/t/m-e-r-c-s-hack-wip/7442</comment>
 				<publisher>Fan Modding</publisher>
@@ -4014,6 +4359,21 @@
 					<name>125 - Maiden Quest</name>
 					<size>19773496</size>
 					<crc>f11864bd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Marc's Special Day</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>510 - Marc's Special Day</name>
+					<size>25189532</size>
+					<crc>f70dfe9b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4049,6 +4409,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Matthew's Nightmare</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>503 - Matthew's Nightmare</name>
+					<size>33554808</size>
+					<crc>5124fdf2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Maze Of The Troll King</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>502 - Maze Of The Troll King</name>
+					<size>21814764</size>
+					<crc>a8b2c38b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Midnight Eclipse (Joke hack)</name>
 				<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
 				<publisher>Reskin</publisher>
@@ -4074,6 +4464,51 @@
 					<name>266 - Midnight Sun</name>
 					<size>22743256</size>
 					<crc>8164eee8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Money Man's Last Stand</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>522 - Money Man's Last Stand</name>
+					<size>20971560</size>
+					<crc>36f27196</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Moneyfest</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>520 - Moneyfest</name>
+					<size>16786344</size>
+					<crc>91f66a38</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Morph's Last Stand</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>501 - Morph's Last Stand</name>
+					<size>16783668</size>
+					<crc>07a1c597</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4194,6 +4629,21 @@
 					<name>413 - OC Emblem</name>
 					<size>21489356</size>
 					<crc>5f29fe04</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Old Fire Mumblem</name>
+				<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>496 - Old Fire Mumblem</name>
+					<size>16838132</size>
+					<crc>04cfa619</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4321,7 +4771,7 @@
 			<machine>
 				<name>Prisoner of Darkness</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Ragefest</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4336,7 +4786,7 @@
 			<machine>
 				<name>Prisoner of Darkness (Hard Mode)</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Ragefest</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4589,6 +5039,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Ragefest Chronicles</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>535 - Ragefest Chronicles</name>
+					<size>16996156</size>
+					<crc>ef471685</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Ragefest Revengeance</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>526 - Ragefest Revengeance</name>
+					<size>20406156</size>
+					<crc>fc673b9f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Rart Emblem - Halloween</name>
 				<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496</comment>
 				<publisher>Fan Modding</publisher>
@@ -4764,6 +5244,21 @@
 					<name>474 - Revolution</name>
 					<size>17839068</size>
 					<crc>1561cad6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Rondo Of Madness</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>509 - Rondo Of Madness</name>
+					<size>21560644</size>
+					<crc>25d1d129</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5384,6 +5879,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Super Generic Ragefest Adventure</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>539 - Super Generic Ragefest Adventure</name>
+					<size>17028828</size>
+					<crc>a727bdb0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Sword of Seals ReDux</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
 				<publisher>Reskin</publisher>
@@ -5469,6 +5979,21 @@
 					<name>430 - Terror of the Forest</name>
 					<size>27044204</size>
 					<crc>017b8028</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>tHE BEGGINING</name>
+				<comment>https://feuniverse.us/t/the-beggining/3572</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>497 - tHE BEGGINING</name>
+					<size>16777216</size>
+					<crc>a7685715</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5589,6 +6114,21 @@
 					<name>149 - The Burdened Crown (Blue)</name>
 					<size>22485048</size>
 					<crc>0459d055</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Corruption Of Roy</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>512 - The Corruption Of Roy</name>
+					<size>17761716</size>
+					<crc>41300a20</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5924,6 +6464,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Purge Of Weegee</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>528 - The Purge Of Weegee</name>
+					<size>21489848</size>
+					<crc>764e473f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Queen’s Lament</name>
 				<comment>https://feuniverse.us/t/the-queens-lament-demo-2-00/930</comment>
 				<publisher>Fan Modding</publisher>
@@ -5949,6 +6504,21 @@
 					<name>108 - The Road to Ruin</name>
 					<size>21666336</size>
 					<crc>6522df69</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Roots That Bind</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>531 - The Roots That Bind</name>
+					<size>17350964</size>
+					<crc>014977a9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6104,6 +6674,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Title Here</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>521 - Title Here</name>
+					<size>17072284</size>
+					<crc>e6f15aae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Touhou Emblem 8 - The Sacred Shrines</name>
 				<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
 				<publisher>Reskin</publisher>
@@ -6129,6 +6714,36 @@
 					<name>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</name>
 					<size>22807804</size>
 					<crc>1b8b59c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Tower Defense</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>515 - Tower Defense</name>
+					<size>16793408</size>
+					<crc>6b65ad16</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Trapped In Painful Places</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>518 - Trapped In Painful Places</name>
+					<size>17024800</size>
+					<crc>32d3350e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6174,6 +6789,36 @@
 					<name>273 - Under Grey Skies</name>
 					<size>19475260</size>
 					<crc>25b2d8d0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Untitled</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>500 - Untitled</name>
+					<size>16780684</size>
+					<crc>7ff80b14</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Vaati's Revenge</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>513 - Vaati's Revenge</name>
+					<size>20091536</size>
+					<crc>cc6ff371</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6314,6 +6959,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Wheel Of Misfortune</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>540 - Wheel Of Misfortune</name>
+					<size>19997476</size>
+					<crc>71238326</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Winning Against Gharnef</name>
 				<comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
 				<publisher>Fan Modding</publisher>
@@ -6339,6 +6999,21 @@
 					<name>483 - Wrath of the Crusade</name>
 					<size>17347588</size>
 					<crc>83bfa1d6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Yet Another Ragefest Hack</name>
+				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<publisher>Ragefest</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>514 - Yet Another Ragefest Hack</name>
+					<size>16851636</size>
+					<crc>478b418e</crc>
 				</datitem>
 			</files>
 		</directory>

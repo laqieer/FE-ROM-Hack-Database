@@ -1,14 +1,21 @@
 183 - 2 Princesses
 184 - 2 Princesses (English Translation)
 178 - A Glimpse of Time
+516 - A Hobbit's Tale
+530 - A New Revelation
 286 - A Sacred Dawn
 285 - A Sacred Dawn DX
 449 - Alternate Stones
 169 - Antagonist Emblem
 456 - Apocalypse
 390 - Armour Emblem
+525 - Array Of Randomness
+534 - Art of Forde
+537 - Asks Attorney Investigations
+532 - Asylum Of Irony
 262 - Athos Mode
 254 - Atirian Conquest
+499 - Auto Emblem
 418 - Awful Emblem
 212 - B3L-H411-A
 204 - Bandit Emblem
@@ -26,9 +33,11 @@
 127 - Blazer’s One Day Hack
 290 - Blood of the Covenant
 410 - Bloodlines
+504 - Boss Rush
 115 - Boss War
 296 - Broken Emblem
 158 - BS Fire Emblem - Archanea Saga
+511 - Bullet Hell Madness
 230 - Call of the Armor
 354 - Cancer Emblem 0 - Joke Hack
 353 - Cancer Emblem 1 - Dazzle-Lunge Emblem
@@ -37,11 +46,14 @@
 492 - Cerulean Coast
 121 - Christmas Crossover Carol
 250 - Chronicles of Lussaria
+536 - Colm's Big Heist
 355 - Communist Emblem 2 - Venezuela
 138 - Cornwell’s Ascension
 107 - Corrupt Theocracy
 265 - Crossover Hack
+533 - Crusaders Of The Void
 443 - Crystal of Bonds
+508 - Curse Of The Emblem Version 0
 263 - Dark Emblem
 120 - Dark Lord and the Maiden of Light
 415 - Dark Soul
@@ -54,16 +66,22 @@
 227 - Deity Device (Part 2)
 228 - Deity Device (Part 3)
 414 - Demon’s Curse
+506 - Desperate Struggle
 339 - Devourer of Time (Hard mode)
 338 - Devourer of Time (Normal mode)
 333 - Different Dimensions Ostian Princess
+523 - DISTORTION
 468 - Divine Keys
+538 - Dogs of War
 334 - Dorcas Emblem 2
 491 - Doubled or Nothing
 495 - Dragon of Apocalypse
 251 - Dream of Five
 486 - Dreams of Twilight
+498 - Duo Geno Escapo
 243 - Elibean Nights
+517 - Emblem Warriors
+524 - Enderslicer's Escape
 485 - Endless Nights
 440 - ErikFE
 161 - Escape the Mangs Dungeon
@@ -143,6 +161,7 @@
 462 - Fe Time Scarred - Rikers Crew
 464 - Fe Time Scarred - The Unwanted Saga
 478 - Ferrica - Project Kenko
+507 - FETO's Last Stand
 168 - FEU Gacha
 364 - FE聖魔 適当に改造 まるっと全部修正
 480 - Fight for Freedom
@@ -233,10 +252,11 @@
 154 - Heaven’s Bloom
 163 - Hector Saves Christmas
 164 - Hector Saves Christmas Again
-190 - Heroes of PBAP
+190 - Heroes of PaBP
 261 - Heroes of Valencia and Archanea
 493 - Horizons
 489 - Host of the Dark
+527 - Human Armory
 210 - Inheritance
 211 - Inheritance (with Minimug)
 411 - Inheritors of the Crusade
@@ -244,6 +264,7 @@
 219 - Journeys
 473 - JP Hack
 268 - Jugdral Saga
+529 - Julius's Revenge
 475 - Justice & Pride Gaiden - Clash in Estria
 272 - Justice and Pride - Book 2
 179 - Kaitou
@@ -251,18 +272,26 @@
 162 - Knoll’s Super Spooky Halloween Adventure
 476 - Land of Heroes
 453 - Last Heavenly Throne
+505 - Le Chien Est Adorable
 255 - League of Champions (Patch1)
 256 - League of Champions (Patch2)
 424 - Legends of Avenir
 340 - Lord Weapons Patch Rebalance
 377 - Lute Emblem - The Sacred Lutes
 346 - Lyn Emblem
-467 - M
+519 - Lyn's Revenge
+467 - M. E
 125 - Maiden Quest
+510 - Marc's Special Day
 170 - Marc’s Precious - Revenge
 437 - Mask of Dunham
+503 - Matthew's Nightmare
+502 - Maze Of The Troll King
 395 - Midnight Eclipse (Joke hack)
 266 - Midnight Sun
+522 - Money Man's Last Stand
+520 - Moneyfest
+501 - Morph's Last Stand
 238 - Myrm Emblem
 199 - Narcian and the Mirror Chamber
 494 - Nations of Conquest
@@ -271,6 +300,7 @@
 257 - Nintenlord Saga
 391 - Not Fire Emblem 8
 413 - OC Emblem
+496 - Old Fire Mumblem
 151 - One-Turn-Clear
 171 - One-Week Hack
 329 - Oops! All Sophias
@@ -297,6 +327,8 @@
 189 - Puzzle Emblem
 421 - Queen’s Sword (English Translation)
 137 - Ragefest 5 DLC
+535 - Ragefest Chronicles
+526 - Ragefest Revengeance
 159 - Rart Emblem - Halloween
 348 - Rart Emblem Zero - The Rarted Stones
 417 - REDFE
@@ -309,6 +341,7 @@
 284 - Resurgonence
 469 - Revitalised
 474 - Revolution
+509 - Rondo Of Madness
 325 - Royal Army
 216 - Rubik’s Cube
 267 - Runa Does A Thing
@@ -350,12 +383,14 @@
 270 - Staff of Ages (Fixed Growths)
 287 - Stones of a Divine Dragon
 236 - Storge
+539 - Super Generic Ragefest Adventure
 295 - Sword of Seals ReDux
 289 - Tale of Ternon
 458 - Tales from Afar
 383 - Tales of the Emblem
 422 - Tales of the Golden Knight
 430 - Terror of the Forest
+497 - tHE BEGGINING
 322 - The Binding Bartre
 323 - The Binding Bartre (with effectiveness and AI fixes)
 248 - The Blade’s Legacy Spreading Flames
@@ -364,6 +399,7 @@
 147 - The Burdened Crown (0 Growths)
 148 - The Burdened Crown (100 Growths)
 149 - The Burdened Crown (Blue)
+512 - The Corruption Of Roy
 201 - The Dark Hour
 202 - The Dark Hour (Hard Mode)
 416 - The Divine Twins’ War
@@ -386,8 +422,10 @@
 434 - The Lonely Mirror (Friendly)
 423 - The Lullaby of Lust
 448 - The Nameless Heroes (English Translation)
+528 - The Purge Of Weegee
 408 - The Queen’s Lament
 108 - The Road to Ruin
+531 - The Roots That Bind
 185 - The Sacred Chairs
 187 - The Sacred Chairs (0% Growths Version)
 186 - The Sacred Chairs (Boss Version)
@@ -398,11 +436,16 @@
 218 - The Sun God’s Wrath (0 growth)
 490 - The White Feather
 282 - Tirado Emblem
+521 - Title Here
 402 - Touhou Emblem 8 - The Sacred Shrines
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
+515 - Tower Defense
+518 - Trapped In Painful Places
 258 - Typhon’s Wake
 136 - Unburdened Liberty
 273 - Under Grey Skies
+500 - Untitled
+513 - Vaati's Revenge
 193 - Voice Acting Tech Demo
 141 - Void’s Blitzarre Adventure
 142 - Void’s Blitzarre Adventure - Blitz Tendency
@@ -412,8 +455,10 @@
 234 - War on Two Fronts
 235 - War on Two Fronts (0% Growths)
 278 - Water Crest - Morps’s Quest For Pants
+540 - Wheel Of Misfortune
 165 - Winning Against Gharnef
 483 - Wrath of the Crusade
+514 - Yet Another Ragefest Hack
 182 - Yggdra Hack UI Translation
 181 - Yugudora Hack
 126 - Yuri’s Sidestory

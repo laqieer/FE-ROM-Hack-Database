@@ -1,14 +1,21 @@
 	2 Princesses/183 - 2 Princesses			44f08e5b	24646064
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	A Glimpse of Time/178 - A Glimpse of Time			caccb1eb	19436704
+	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
+	A New Revelation/530 - A New Revelation			08189dee	17616732
 	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
 	A Sacred Dawn DX/285 - A Sacred Dawn DX			651b8fa3	22333152
 	Alternate Stones/449 - Alternate Stones			9acefc25	18583756
 	Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
 	Apocalypse/456 - Apocalypse			288de977	23013240
 	Armour Emblem/390 - Armour Emblem			9fe8fda0	19049856
+	Array Of Randomness/525 - Array Of Randomness			95b209ee	16862104
+	Art of Forde/534 - Art of Forde			0038731b	19443668
+	Asks Attorney Investigations/537 - Asks Attorney Investigations			809a5207	18548704
+	Asylum Of Irony/532 - Asylum Of Irony			98402613	19807284
 	Athos Mode/262 - Athos Mode			2f511659	16788472
 	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
+	Auto Emblem/499 - Auto Emblem			0624b3b0	21952164
 	Awful Emblem/418 - Awful Emblem			29f7ca11	16777216
 	B3L-H411-A/212 - B3L-H411-A			db73120f	17536556
 	Bandit Emblem/204 - Bandit Emblem			4c0a42a1	17645508
@@ -26,9 +33,11 @@
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
 	Blood of the Covenant/290 - Blood of the Covenant			63a45a53	20149244
 	Bloodlines/410 - Bloodlines			1e076cea	26362620
+	Boss Rush/504 - Boss Rush			ad45b232	25165880
 	Boss War/115 - Boss War			186ecc6e	25171160
 	Broken Emblem/296 - Broken Emblem			320cb889	8393140
 	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
+	Bullet Hell Madness/511 - Bullet Hell Madness			70dc4d72	21870580
 	Call of the Armor/230 - Call of the Armor			688794f7	20330124
 	Cancer Emblem 0 - Joke Hack/354 - Cancer Emblem 0 - Joke Hack			1d729c3e	16814840
 	Cancer Emblem 1 - Dazzle-Lunge Emblem/353 - Cancer Emblem 1 - Dazzle-Lunge Emblem			1ea8b476	16816800
@@ -37,11 +46,14 @@
 	Cerulean Coast/492 - Cerulean Coast			81bfb293	28145516
 	Christmas Crossover Carol/121 - Christmas Crossover Carol			676c6d7f	16831344
 	Chronicles of Lussaria/250 - Chronicles of Lussaria			bee51b0b	17605868
+	Colm's Big Heist/536 - Colm's Big Heist			34f20e9d	16777216
 	Communist Emblem 2 - Venezuela/355 - Communist Emblem 2 - Venezuela			9948f176	17175216
 	Cornwell’s Ascension/138 - Cornwell’s Ascension			6ad635db	17109180
 	Corrupt Theocracy/107 - Corrupt Theocracy			928dbeb0	16873266
 	Crossover Hack/265 - Crossover Hack			bc384a67	33480004
+	Crusaders Of The Void/533 - Crusaders Of The Void			24c0f555	17613044
 	Crystal of Bonds/443 - Crystal of Bonds			8fe19751	17853160
+	Curse Of The Emblem Version 0.001/508 - Curse Of The Emblem Version 0			9c658b28	14711608
 	Dark Emblem/263 - Dark Emblem			74277073	23383092
 	Dark Lord and the Maiden of Light/120 - Dark Lord and the Maiden of Light			2edd404d	24393296
 	Dark Soul/415 - Dark Soul			17fe1087	19413976
@@ -54,16 +66,22 @@
 	Deity Device (Part 2)/227 - Deity Device (Part 2)			4908dcba	28957288
 	Deity Device (Part 3)/228 - Deity Device (Part 3)			5e69347e	28950336
 	Demon’s Curse/414 - Demon’s Curse			7c088459	25632208
+	Desperate Struggle/506 - Desperate Struggle			b9e5a43c	18881396
 	Devourer of Time (Hard mode)/339 - Devourer of Time (Hard mode)			7fd35f4f	16818192
 	Devourer of Time (Normal mode)/338 - Devourer of Time (Normal mode)			200f63aa	16818224
 	Different Dimensions Ostian Princess/333 - Different Dimensions Ostian Princess			79f1b543	16777216
+	DISTORTION/523 - DISTORTION			7cef7382	19069656
 	Divine Keys/468 - Divine Keys			9dac7c13	21116668
+	Dogs of War/538 - Dogs of War			c03ef3c7	16777216
 	Dorcas Emblem 2/334 - Dorcas Emblem 2			7f7d07d2	19343004
 	Doubled or Nothing/491 - Doubled or Nothing			bff057cf	19242308
 	Dragon of Apocalypse/495 - Dragon of Apocalypse			7f7d1a56	17889200
 	Dream of Five/251 - Dream of Five			1cfe67cd	22194508
 	Dreams of Twilight/486 - Dreams of Twilight			5b62c925	19414472
+	Duo Geno Escapo/498 - Duo Geno Escapo			a67b6e72	21952160
 	Elibean Nights/243 - Elibean Nights			0f2076bd	28260392
+	Emblem Warriors/517 - Emblem Warriors			1762a534	21638172
+	Enderslicer's Escape/524 - Enderslicer's Escape			e9bdb90d	16796976
 	Endless Nights/485 - Endless Nights			73c48346	17693232
 	ErikFE/440 - ErikFE			a255ac4b	18622088
 	Escape the Mangs Dungeon/161 - Escape the Mangs Dungeon			090dffb3	17083184
@@ -143,6 +161,7 @@
 	Fe Time Scarred - Rikers Crew/462 - Fe Time Scarred - Rikers Crew			ebd4bac5	18320756
 	Fe Time Scarred - The Unwanted Saga/464 - Fe Time Scarred - The Unwanted Saga			bdb1f1d2	17788392
 	Ferrica - Project Kenko/478 - Ferrica - Project Kenko			4124c732	23612392
+	FETO's Last Stand/507 - FETO's Last Stand			b80108e2	16784768
 	FEU Gacha/168 - FEU Gacha			35c74672	16777216
 	FE聖魔 適当に改造 まるっと全部修正/364 - FE聖魔 適当に改造 まるっと全部修正			3b72f7dc	16963116
 	Fight for Freedom/480 - Fight for Freedom			8c320753	23944208
@@ -233,10 +252,11 @@
 	Heaven’s Bloom/154 - Heaven’s Bloom			c998aa0e	18376448
 	Hector Saves Christmas/163 - Hector Saves Christmas			6896d8c2	17089672
 	Hector Saves Christmas Again/164 - Hector Saves Christmas Again			e69b171f	17415920
-	Heroes of PBAP/190 - Heroes of PBAP			9e78b8ef	19640328
+	Heroes of PaBP/190 - Heroes of PaBP			9e78b8ef	19640328
 	Heroes of Valencia and Archanea/261 - Heroes of Valencia and Archanea			0c8502f7	16804540
 	Horizons/493 - Horizons			63f74902	23323800
 	Host of the Dark/489 - Host of the Dark			7cab585e	28808224
+	Human Armory/527 - Human Armory			90b0a9a5	16784272
 	Inheritance/210 - Inheritance			db7233f0	27877852
 	Inheritance (with Minimug)/211 - Inheritance (with Minimug)			bc0988fd	27877852
 	Inheritors of the Crusade/411 - Inheritors of the Crusade			9f0bced0	23373980
@@ -244,6 +264,7 @@
 	Journeys/219 - Journeys			1c83df77	26336432
 	JP Hack/473 - JP Hack			990f7870	19099644
 	Jugdral Saga/268 - Jugdral Saga			b9521183	16777216
+	Julius's Revenge/529 - Julius's Revenge			471de9a1	16777216
 	Justice & Pride Gaiden - Clash in Estria/475 - Justice & Pride Gaiden - Clash in Estria			d625827c	27248856
 	Justice and Pride - Book 2/272 - Justice and Pride - Book 2			d28f4951	22610380
 	Kaitou/179 - Kaitou			6e2c9f97	33153280
@@ -251,18 +272,26 @@
 	Knoll’s Super Spooky Halloween Adventure/162 - Knoll’s Super Spooky Halloween Adventure			19a64b75	17014360
 	Land of Heroes/476 - Land of Heroes			5c77cc5e	19246184
 	Last Heavenly Throne/453 - Last Heavenly Throne			9001906e	20469068
+	Le Chien Est Adorable/505 - Le Chien Est Adorable			08ff3b82	16777776
 	League of Champions (Patch1)/255 - League of Champions (Patch1)			6c949342	18586224
 	League of Champions (Patch2)/256 - League of Champions (Patch2)			1b93a3d4	16939004
 	Legends of Avenir/424 - Legends of Avenir			bdd2a1da	24457576
 	Lord Weapons Patch Rebalance/340 - Lord Weapons Patch Rebalance			85a80d99	16833072
 	Lute Emblem - The Sacred Lutes/377 - Lute Emblem - The Sacred Lutes			5c7d8d3f	16993256
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
+	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
 	M. E. R. C. S./467 - M			048eb1b6	18427704
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
+	Marc's Special Day/510 - Marc's Special Day			f70dfe9b	25189532
 	Marc’s Precious - Revenge/170 - Marc’s Precious - Revenge			4426c3f9	17332276
 	Mask of Dunham/437 - Mask of Dunham			77dd037e	19753152
+	Matthew's Nightmare/503 - Matthew's Nightmare			5124fdf2	33554808
+	Maze Of The Troll King/502 - Maze Of The Troll King			a8b2c38b	21814764
 	Midnight Eclipse (Joke hack)/395 - Midnight Eclipse (Joke hack)			2865d6ce	16959580
 	Midnight Sun/266 - Midnight Sun			8164eee8	22743256
+	Money Man's Last Stand/522 - Money Man's Last Stand			36f27196	20971560
+	Moneyfest/520 - Moneyfest			91f66a38	16786344
+	Morph's Last Stand/501 - Morph's Last Stand			07a1c597	16783668
 	Myrm Emblem/238 - Myrm Emblem			b5a503ae	22182264
 	Narcian and the Mirror Chamber/199 - Narcian and the Mirror Chamber			9c298acb	18997204
 	Nations of Conquest/494 - Nations of Conquest			df8e92cf	26854248
@@ -271,6 +300,7 @@
 	Nintenlord Saga/257 - Nintenlord Saga			db833f55	16808391
 	Not Fire Emblem 8/391 - Not Fire Emblem 8			feea2917	16777216
 	OC Emblem/413 - OC Emblem			5f29fe04	21489356
+	Old Fire Mumblem/496 - Old Fire Mumblem			04cfa619	16838132
 	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
 	One-Week Hack/171 - One-Week Hack			fb464aca	17087876
 	Oops! All Sophias/329 - Oops! All Sophias			527bbabc	16777532
@@ -297,6 +327,8 @@
 	Puzzle Emblem/189 - Puzzle Emblem			83fc3242	16824428
 	Queen’s Sword (English Translation)/421 - Queen’s Sword (English Translation)			1ed8d8e5	33554432
 	Ragefest 5 DLC/137 - Ragefest 5 DLC			0c516c3e	17194360
+	Ragefest Chronicles/535 - Ragefest Chronicles			ef471685	16996156
+	Ragefest Revengeance/526 - Ragefest Revengeance			fc673b9f	20406156
 	Rart Emblem - Halloween/159 - Rart Emblem - Halloween			61dad746	17308636
 	Rart Emblem Zero - The Rarted Stones/348 - Rart Emblem Zero - The Rarted Stones			2a4ab263	19326044
 	REDFE/417 - REDFE			bd449655	16782396
@@ -309,6 +341,7 @@
 	Resurgonence/284 - Resurgonence			380e45b9	23710212
 	Revitalised/469 - Revitalised			4b982aab	17708492
 	Revolution/474 - Revolution			1561cad6	17839068
+	Rondo Of Madness/509 - Rondo Of Madness			25d1d129	21560644
 	Royal Army/325 - Royal Army			1aac306b	18382196
 	Rubik’s Cube/216 - Rubik’s Cube			38da7267	16777216
 	Runa Does A Thing/267 - Runa Does A Thing			500fe6c4	17785916
@@ -350,12 +383,14 @@
 	Staff of Ages (Fixed Growths)/270 - Staff of Ages (Fixed Growths)			1a55014c	24147092
 	Stones of a Divine Dragon/287 - Stones of a Divine Dragon			05c2a230	33554436
 	Storge/236 - Storge			079106d8	20034916
+	Super Generic Ragefest Adventure/539 - Super Generic Ragefest Adventure			a727bdb0	17028828
 	Sword of Seals ReDux/295 - Sword of Seals ReDux			7895cf0d	16777244
 	Tale of Ternon/289 - Tale of Ternon			fb829219	18452460
 	Tales from Afar/458 - Tales from Afar			7bc0139b	33142244
 	Tales of the Emblem/383 - Tales of the Emblem			960d475e	16866208
 	Tales of the Golden Knight/422 - Tales of the Golden Knight			883a1ac6	27862300
 	Terror of the Forest/430 - Terror of the Forest			017b8028	27044204
+	tHE BEGGINING/497 - tHE BEGGINING			a7685715	16777216
 	The Binding Bartre/322 - The Binding Bartre			b9605bae	16793100
 	The Binding Bartre (with effectiveness and AI fixes)/323 - The Binding Bartre (with effectiveness and AI fixes)			2986a3b6	16793100
 	The Blade’s Legacy Spreading Flames/248 - The Blade’s Legacy Spreading Flames			4ab46d89	17896244
@@ -364,6 +399,7 @@
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048
 	The Burdened Crown (100 Growths)/148 - The Burdened Crown (100 Growths)			c152923c	22485048
 	The Burdened Crown (Blue)/149 - The Burdened Crown (Blue)			0459d055	22485048
+	The Corruption Of Roy/512 - The Corruption Of Roy			41300a20	17761716
 	The Dark Hour/201 - The Dark Hour			8575430f	26994984
 	The Dark Hour (Hard Mode)/202 - The Dark Hour (Hard Mode)			bfc8d218	26995576
 	The Divine Twins’ War/416 - The Divine Twins’ War			4fd88c7b	21006844
@@ -386,8 +422,10 @@
 	The Lonely Mirror (Friendly)/434 - The Lonely Mirror (Friendly)			c833f3eb	30226464
 	The Lullaby of Lust/423 - The Lullaby of Lust			3a813e87	20183748
 	The Nameless Heroes (English Translation)/448 - The Nameless Heroes (English Translation)			36042746	29782176
+	The Purge Of Weegee/528 - The Purge Of Weegee			764e473f	21489848
 	The Queen’s Lament/408 - The Queen’s Lament			e19c9eb7	18021380
 	The Road to Ruin/108 - The Road to Ruin			6522df69	21666336
+	The Roots That Bind/531 - The Roots That Bind			014977a9	17350964
 	The Sacred Chairs/185 - The Sacred Chairs			841a14f7	24229624
 	The Sacred Chairs (0% Growths Version)/187 - The Sacred Chairs (0% Growths Version)			8c316c5e	24229664
 	The Sacred Chairs (Boss Version)/186 - The Sacred Chairs (Boss Version)			34d15caf	24231680
@@ -398,11 +436,16 @@
 	The Sun God’s Wrath (0 growth)/218 - The Sun God’s Wrath (0 growth)			7def8770	33007108
 	The White Feather/490 - The White Feather			294c6150	23302696
 	Tirado Emblem/282 - Tirado Emblem			5bb0ae74	18775380
+	Title Here/521 - Title Here			e6f15aae	17072284
 	Touhou Emblem 8 - The Sacred Shrines/402 - Touhou Emblem 8 - The Sacred Shrines			e18fc466	17869900
 	Touhou Emblem - The One That Isn’t Just An Fe8 Reskin/242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin			1b8b59c0	22807804
+	Tower Defense/515 - Tower Defense			6b65ad16	16793408
+	Trapped In Painful Places/518 - Trapped In Painful Places			32d3350e	17024800
 	Typhon’s Wake/258 - Typhon’s Wake			829af26e	17738116
 	Unburdened Liberty/136 - Unburdened Liberty			b616cc93	21005868
 	Under Grey Skies/273 - Under Grey Skies			25b2d8d0	19475260
+	Untitled/500 - Untitled			7ff80b14	16780684
+	Vaati's Revenge/513 - Vaati's Revenge			cc6ff371	20091536
 	Voice Acting Tech Demo/193 - Voice Acting Tech Demo			c2cd5264	17337768
 	Void’s Blitzarre Adventure/141 - Void’s Blitzarre Adventure			9d22107c	18641452
 	Void’s Blitzarre Adventure - Blitz Tendency/142 - Void’s Blitzarre Adventure - Blitz Tendency			e02d7a82	16777216
@@ -412,8 +455,10 @@
 	War on Two Fronts/234 - War on Two Fronts			3c922e66	24923600
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
+	Wheel Of Misfortune/540 - Wheel Of Misfortune			71238326	19997476
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528
 	Wrath of the Crusade/483 - Wrath of the Crusade			83bfa1d6	17347588
+	Yet Another Ragefest Hack/514 - Yet Another Ragefest Hack			478b418e	16851636
 	Yggdra Hack UI Translation/182 - Yggdra Hack UI Translation			63b815ad	25450720
 	Yugudora Hack/181 - Yugudora Hack			ea667865	26349436
 	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915128

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220320</version>
+		<version>20220321</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -27,6 +27,16 @@
 		<comment>https://ameblo.jp/yu-meigunsi/theme-10033783736.html</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="178 - A Glimpse of Time" size="19436704" crc="caccb1eb" />
+	</machine>
+	<machine name="A Hobbit's Tale">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
+	</machine>
+	<machine name="A New Revelation">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="530 - A New Revelation" size="17616732" crc="08189dee" />
 	</machine>
 	<machine name="A Sacred Dawn">
 		<comment>https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/</comment>
@@ -58,6 +68,26 @@
 		<publisher>Reskin</publisher>
 		<rom name="390 - Armour Emblem" size="19049856" crc="9fe8fda0" />
 	</machine>
+	<machine name="Array Of Randomness">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="525 - Array Of Randomness" size="16862104" crc="95b209ee" />
+	</machine>
+	<machine name="Art of Forde">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="534 - Art of Forde" size="19443668" crc="0038731b" />
+	</machine>
+	<machine name="Asks Attorney Investigations">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="537 - Asks Attorney Investigations" size="18548704" crc="809a5207" />
+	</machine>
+	<machine name="Asylum Of Irony">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="532 - Asylum Of Irony" size="19807284" crc="98402613" />
+	</machine>
 	<machine name="Athos Mode">
 		<comment>https://serenesforest.net/forums/index.php?/topic/27591-athos-mode/</comment>
 		<publisher>Fan Modding</publisher>
@@ -67,6 +97,11 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/64078-atirian-conquest/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="254 - Atirian Conquest" size="17224984" crc="f2f006e1" />
+	</machine>
+	<machine name="Auto Emblem">
+		<comment>http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip</comment>
+		<publisher>Reskin</publisher>
+		<rom name="499 - Auto Emblem" size="21952164" crc="0624b3b0" />
 	</machine>
 	<machine name="Awful Emblem">
 		<comment>https://feuniverse.us/t/awful-emblem-complete-act-1-demo/3987</comment>
@@ -153,6 +188,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="410 - Bloodlines" size="26362620" crc="1e076cea" />
 	</machine>
+	<machine name="Boss Rush">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="504 - Boss Rush" size="25165880" crc="ad45b232" />
+	</machine>
 	<machine name="Boss War">
 		<comment>https://feuniverse.us/t/fe7-boss-war-an-upgrade-of-a-7-year-old-hack/3688</comment>
 		<publisher>Fan Modding</publisher>
@@ -167,6 +207,11 @@
 		<comment>https://github.com/sme23/bsfe</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="158 - BS Fire Emblem - Archanea Saga" size="16933169" crc="39abb64a" />
+	</machine>
+	<machine name="Bullet Hell Madness">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="511 - Bullet Hell Madness" size="21870580" crc="70dc4d72" />
 	</machine>
 	<machine name="Call of the Armor">
 		<comment>https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes/12698</comment>
@@ -208,6 +253,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="250 - Chronicles of Lussaria" size="17605868" crc="bee51b0b" />
 	</machine>
+	<machine name="Colm's Big Heist">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="536 - Colm's Big Heist" size="16777216" crc="34f20e9d" />
+	</machine>
 	<machine name="Communist Emblem 2 - Venezuela">
 		<comment>https://feuniverse.us/t/communist-emblem-2-venezuela/3573</comment>
 		<publisher>Reskin</publisher>
@@ -228,10 +278,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="265 - Crossover Hack" size="33480004" crc="bc384a67" />
 	</machine>
+	<machine name="Crusaders Of The Void">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="533 - Crusaders Of The Void" size="17613044" crc="24c0f555" />
+	</machine>
 	<machine name="Crystal of Bonds">
 		<comment>https://feuniverse.us/t/fire-emblem-crystal-of-bonds-working-title-fe8-romhack-demo-5-chapters/4801</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="443 - Crystal of Bonds" size="17853160" crc="8fe19751" />
+	</machine>
+	<machine name="Curse Of The Emblem Version 0.001">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="508 - Curse Of The Emblem Version 0" size="14711608" crc="9c658b28" />
 	</machine>
 	<machine name="Dark Emblem">
 		<comment>https://forums.serenesforest.net/index.php?/topic/66527-fire-emblem-the-dark-emblem/</comment>
@@ -293,6 +353,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="414 - Demon’s Curse" size="25632208" crc="7c088459" />
 	</machine>
+	<machine name="Desperate Struggle">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="506 - Desperate Struggle" size="18881396" crc="b9e5a43c" />
+	</machine>
 	<machine name="Devourer of Time (Hard mode)">
 		<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
 		<publisher>Reskin</publisher>
@@ -308,10 +373,20 @@
 		<publisher>Reskin</publisher>
 		<rom name="333 - Different Dimensions Ostian Princess" size="16777216" crc="79f1b543" />
 	</machine>
+	<machine name="DISTORTION">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="523 - DISTORTION" size="19069656" crc="7cef7382" />
+	</machine>
 	<machine name="Divine Keys">
 		<comment>https://feuniverse.us/t/fe8-the-divine-keys-on-hold/7373</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="468 - Divine Keys" size="21116668" crc="9dac7c13" />
+	</machine>
+	<machine name="Dogs of War">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="538 - Dogs of War" size="16777216" crc="c03ef3c7" />
 	</machine>
 	<machine name="Dorcas Emblem 2">
 		<comment>https://feuniverse.us/t/dorcas-emblem-2-1/3092</comment>
@@ -338,10 +413,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="486 - Dreams of Twilight" size="19414472" crc="5b62c925" />
 	</machine>
+	<machine name="Duo Geno Escapo">
+		<comment>https://fecentral.org/?page=hackinfo&amp;hackid=110</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="498 - Duo Geno Escapo" size="21952160" crc="a67b6e72" />
+	</machine>
 	<machine name="Elibean Nights">
 		<comment>https://feuniverse.us/t/elibean-nights-final-draft-playtest-patch-6-5-21/83</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="243 - Elibean Nights" size="28260392" crc="0f2076bd" />
+	</machine>
+	<machine name="Emblem Warriors">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="517 - Emblem Warriors" size="21638172" crc="1762a534" />
+	</machine>
+	<machine name="Enderslicer's Escape">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="524 - Enderslicer's Escape" size="16796976" crc="e9bdb90d" />
 	</machine>
 	<machine name="Endless Nights">
 		<comment>https://github.com/tclendo/Endless-Nights</comment>
@@ -737,6 +827,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-ferrica-project-kenko/8814</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="478 - Ferrica - Project Kenko" size="23612392" crc="4124c732" />
+	</machine>
+	<machine name="FETO's Last Stand">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="507 - FETO's Last Stand" size="16784768" crc="b80108e2" />
 	</machine>
 	<machine name="FEU Gacha">
 		<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
@@ -1184,10 +1279,10 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="164 - Hector Saves Christmas Again" size="17415920" crc="e69b171f" />
 	</machine>
-	<machine name="Heroes of PBAP">
+	<machine name="Heroes of PaBP">
 		<comment>https://feuniverse.us/t/fire-emblem-heroes-of-pabp/5296</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="190 - Heroes of PBAP" size="19640328" crc="9e78b8ef" />
+		<rom name="190 - Heroes of PaBP" size="19640328" crc="9e78b8ef" />
 	</machine>
 	<machine name="Heroes of Valencia and Archanea">
 		<comment>https://forums.serenesforest.net/index.php?/topic/59967-fire-emblem-heroes-of-valencia-and-archanea/</comment>
@@ -1203,6 +1298,11 @@
 		<comment>https://feuniverse.us/t/fe8-host-of-the-dark-0-6-65-done-12-chapters-in-progress/12731</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
+	</machine>
+	<machine name="Human Armory">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="527 - Human Armory" size="16784272" crc="90b0a9a5" />
 	</machine>
 	<machine name="Inheritance">
 		<comment>https://forums.serenesforest.net/index.php?/topic/91967-fe8-fe-inheritance-completed-rom-hack/</comment>
@@ -1239,6 +1339,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="268 - Jugdral Saga" size="16777216" crc="b9521183" />
 	</machine>
+	<machine name="Julius's Revenge">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="529 - Julius's Revenge" size="16777216" crc="471de9a1" />
+	</machine>
 	<machine name="Justice &amp; Pride Gaiden - Clash in Estria">
 		<comment>https://feuniverse.us/t/justice-pride-gaiden-clash-in-estria/8659</comment>
 		<publisher>Fan Modding</publisher>
@@ -1274,6 +1379,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="453 - Last Heavenly Throne" size="20469068" crc="9001906e" />
 	</machine>
+	<machine name="Le Chien Est Adorable">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="505 - Le Chien Est Adorable" size="16777776" crc="08ff3b82" />
+	</machine>
 	<machine name="League of Champions (Patch1)">
 		<comment>https://feuniverse.us/t/fire-emblem-league-of-champions/13667</comment>
 		<publisher>Fan Modding</publisher>
@@ -1304,6 +1414,11 @@
 		<publisher>Reskin</publisher>
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
+	<machine name="Lyn's Revenge">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="519 - Lyn's Revenge" size="16797544" crc="57fe60ed" />
+	</machine>
 	<machine name="M. E. R. C. S.">
 		<comment>https://feuniverse.us/t/m-e-r-c-s-hack-wip/7442</comment>
 		<publisher>Fan Modding</publisher>
@@ -1313,6 +1428,11 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/27127-fire-emblem-maiden-quest/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="125 - Maiden Quest" size="19773496" crc="f11864bd" />
+	</machine>
+	<machine name="Marc's Special Day">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="510 - Marc's Special Day" size="25189532" crc="f70dfe9b" />
 	</machine>
 	<machine name="Marc’s Precious - Revenge">
 		<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
@@ -1324,6 +1444,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="437 - Mask of Dunham" size="19753152" crc="77dd037e" />
 	</machine>
+	<machine name="Matthew's Nightmare">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="503 - Matthew's Nightmare" size="33554808" crc="5124fdf2" />
+	</machine>
+	<machine name="Maze Of The Troll King">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="502 - Maze Of The Troll King" size="21814764" crc="a8b2c38b" />
+	</machine>
 	<machine name="Midnight Eclipse (Joke hack)">
 		<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
 		<publisher>Reskin</publisher>
@@ -1333,6 +1463,21 @@
 		<comment>https://serenesforest.net/forums/index.php?/topic/35455-fe8-fire-emblem-midnight-sun-~-v16-out-not-working-on-v20/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="266 - Midnight Sun" size="22743256" crc="8164eee8" />
+	</machine>
+	<machine name="Money Man's Last Stand">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="522 - Money Man's Last Stand" size="20971560" crc="36f27196" />
+	</machine>
+	<machine name="Moneyfest">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="520 - Moneyfest" size="16786344" crc="91f66a38" />
+	</machine>
+	<machine name="Morph's Last Stand">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="501 - Morph's Last Stand" size="16783668" crc="07a1c597" />
 	</machine>
 	<machine name="Myrm Emblem">
 		<comment>https://feuniverse.us/t/fe8-complete-myrm-emblem-v1-0/11213</comment>
@@ -1373,6 +1518,11 @@
 		<comment>https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="413 - OC Emblem" size="21489356" crc="5f29fe04" />
+	</machine>
+	<machine name="Old Fire Mumblem">
+		<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="496 - Old Fire Mumblem" size="16838132" crc="04cfa619" />
 	</machine>
 	<machine name="One-Turn-Clear">
 		<comment>https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638</comment>
@@ -1416,12 +1566,12 @@
 	</machine>
 	<machine name="Prisoner of Darkness">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
-		<publisher>Fan Modding</publisher>
+		<publisher>Ragefest</publisher>
 		<rom name="140 - Prisoner of Darkness" size="20971804" crc="95f14edd" />
 	</machine>
 	<machine name="Prisoner of Darkness (Hard Mode)">
 		<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
-		<publisher>Fan Modding</publisher>
+		<publisher>Ragefest</publisher>
 		<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
 	</machine>
 	<machine name="Project Ember (HM Fixed Growths)">
@@ -1504,6 +1654,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="137 - Ragefest 5 DLC" size="17194360" crc="0c516c3e" />
 	</machine>
+	<machine name="Ragefest Chronicles">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="535 - Ragefest Chronicles" size="16996156" crc="ef471685" />
+	</machine>
+	<machine name="Ragefest Revengeance">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="526 - Ragefest Revengeance" size="20406156" crc="fc673b9f" />
+	</machine>
 	<machine name="Rart Emblem - Halloween">
 		<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496</comment>
 		<publisher>Fan Modding</publisher>
@@ -1563,6 +1723,11 @@
 		<comment>https://feuniverse.us/t/demo-fire-emblem-revolution-fe8/8274</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
+	</machine>
+	<machine name="Rondo Of Madness">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="509 - Rondo Of Madness" size="21560644" crc="25d1d129" />
 	</machine>
 	<machine name="Royal Army">
 		<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
@@ -1769,6 +1934,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="236 - Storge" size="20034916" crc="079106d8" />
 	</machine>
+	<machine name="Super Generic Ragefest Adventure">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="539 - Super Generic Ragefest Adventure" size="17028828" crc="a727bdb0" />
+	</machine>
 	<machine name="Sword of Seals ReDux">
 		<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
 		<publisher>Reskin</publisher>
@@ -1798,6 +1968,11 @@
 		<comment>https://feuniverse.us/t/fe8-terror-of-the-forest-final-chapter-out/6003</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
+	</machine>
+	<machine name="tHE BEGGINING">
+		<comment>https://feuniverse.us/t/the-beggining/3572</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="497 - tHE BEGGINING" size="16777216" crc="a7685715" />
 	</machine>
 	<machine name="The Binding Bartre">
 		<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
@@ -1838,6 +2013,11 @@
 		<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
+	</machine>
+	<machine name="The Corruption Of Roy">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="512 - The Corruption Of Roy" size="17761716" crc="41300a20" />
 	</machine>
 	<machine name="The Dark Hour">
 		<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>
@@ -1949,6 +2129,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="448 - The Nameless Heroes (English Translation)" size="29782176" crc="36042746" />
 	</machine>
+	<machine name="The Purge Of Weegee">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="528 - The Purge Of Weegee" size="21489848" crc="764e473f" />
+	</machine>
 	<machine name="The Queen’s Lament">
 		<comment>https://feuniverse.us/t/the-queens-lament-demo-2-00/930</comment>
 		<publisher>Fan Modding</publisher>
@@ -1958,6 +2143,11 @@
 		<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />
+	</machine>
+	<machine name="The Roots That Bind">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="531 - The Roots That Bind" size="17350964" crc="014977a9" />
 	</machine>
 	<machine name="The Sacred Chairs">
 		<comment>https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944</comment>
@@ -2009,6 +2199,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />
 	</machine>
+	<machine name="Title Here">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="521 - Title Here" size="17072284" crc="e6f15aae" />
+	</machine>
 	<machine name="Touhou Emblem 8 - The Sacred Shrines">
 		<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
 		<publisher>Reskin</publisher>
@@ -2018,6 +2213,16 @@
 		<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+	</machine>
+	<machine name="Tower Defense">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="515 - Tower Defense" size="16793408" crc="6b65ad16" />
+	</machine>
+	<machine name="Trapped In Painful Places">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="518 - Trapped In Painful Places" size="17024800" crc="32d3350e" />
 	</machine>
 	<machine name="Typhon’s Wake">
 		<comment>https://serenesforest.net/forums/index.php?/topic/56803-fe7-typhons-wake/</comment>
@@ -2033,6 +2238,16 @@
 		<comment>https://feuniverse.us/t/under-grey-skies/4133</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="273 - Under Grey Skies" size="19475260" crc="25b2d8d0" />
+	</machine>
+	<machine name="Untitled">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="500 - Untitled" size="16780684" crc="7ff80b14" />
+	</machine>
+	<machine name="Vaati's Revenge">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="513 - Vaati's Revenge" size="20091536" crc="cc6ff371" />
 	</machine>
 	<machine name="Voice Acting Tech Demo">
 		<comment>https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736</comment>
@@ -2079,6 +2294,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
 	</machine>
+	<machine name="Wheel Of Misfortune">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="540 - Wheel Of Misfortune" size="19997476" crc="71238326" />
+	</machine>
 	<machine name="Winning Against Gharnef">
 		<comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
 		<publisher>Fan Modding</publisher>
@@ -2088,6 +2308,11 @@
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-wrath-of-the-crusade-v0-1-4-1/9213</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="483 - Wrath of the Crusade" size="17347588" crc="83bfa1d6" />
+	</machine>
+	<machine name="Yet Another Ragefest Hack">
+		<comment>https://markyjoe.com/?page=rfdl</comment>
+		<publisher>Ragefest</publisher>
+		<rom name="514 - Yet Another Ragefest Hack" size="16851636" crc="478b418e" />
 	</machine>
 	<machine name="Yggdra Hack UI Translation">
 		<comment>https://github.com/jfarr095/YggdraHack</comment>

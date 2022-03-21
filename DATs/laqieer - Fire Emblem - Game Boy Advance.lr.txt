@@ -10,6 +10,14 @@ ROMs required for driver "A Glimpse of Time".
 Name                                   Size Checksum
 178 - A Glimpse of Time            19436704 CRC(caccb1eb)
 
+ROMs required for driver "A Hobbit's Tale".
+Name                                   Size Checksum
+516 - A Hobbit's Tale              16820432 CRC(b59f143c)
+
+ROMs required for driver "A New Revelation".
+Name                                   Size Checksum
+530 - A New Revelation             17616732 CRC(08189dee)
+
 ROMs required for driver "A Sacred Dawn".
 Name                                   Size Checksum
 286 - A Sacred Dawn                22020347 CRC(61c6a436)
@@ -34,6 +42,22 @@ ROMs required for driver "Armour Emblem".
 Name                                   Size Checksum
 390 - Armour Emblem                19049856 CRC(9fe8fda0)
 
+ROMs required for driver "Array Of Randomness".
+Name                                   Size Checksum
+525 - Array Of Randomness          16862104 CRC(95b209ee)
+
+ROMs required for driver "Art of Forde".
+Name                                   Size Checksum
+534 - Art of Forde                 19443668 CRC(0038731b)
+
+ROMs required for driver "Asks Attorney Investigations".
+Name                                   Size Checksum
+537 - Asks Attorney Investigations 18548704 CRC(809a5207)
+
+ROMs required for driver "Asylum Of Irony".
+Name                                   Size Checksum
+532 - Asylum Of Irony              19807284 CRC(98402613)
+
 ROMs required for driver "Athos Mode".
 Name                                   Size Checksum
 262 - Athos Mode                   16788472 CRC(2f511659)
@@ -41,6 +65,10 @@ Name                                   Size Checksum
 ROMs required for driver "Atirian Conquest".
 Name                                   Size Checksum
 254 - Atirian Conquest             17224984 CRC(f2f006e1)
+
+ROMs required for driver "Auto Emblem".
+Name                                   Size Checksum
+499 - Auto Emblem                  21952164 CRC(0624b3b0)
 
 ROMs required for driver "Awful Emblem".
 Name                                   Size Checksum
@@ -110,6 +138,10 @@ ROMs required for driver "Bloodlines".
 Name                                   Size Checksum
 410 - Bloodlines                   26362620 CRC(1e076cea)
 
+ROMs required for driver "Boss Rush".
+Name                                   Size Checksum
+504 - Boss Rush                    25165880 CRC(ad45b232)
+
 ROMs required for driver "Boss War".
 Name                                   Size Checksum
 115 - Boss War                     25171160 CRC(186ecc6e)
@@ -121,6 +153,10 @@ Name                                   Size Checksum
 ROMs required for driver "BS Fire Emblem - Archanea Saga".
 Name                                   Size Checksum
 158 - BS Fire Emblem - Archanea Saga16933169 CRC(39abb64a)
+
+ROMs required for driver "Bullet Hell Madness".
+Name                                   Size Checksum
+511 - Bullet Hell Madness          21870580 CRC(70dc4d72)
 
 ROMs required for driver "Call of the Armor".
 Name                                   Size Checksum
@@ -154,6 +190,10 @@ ROMs required for driver "Chronicles of Lussaria".
 Name                                   Size Checksum
 250 - Chronicles of Lussaria       17605868 CRC(bee51b0b)
 
+ROMs required for driver "Colm's Big Heist".
+Name                                   Size Checksum
+536 - Colm's Big Heist             16777216 CRC(34f20e9d)
+
 ROMs required for driver "Communist Emblem 2 - Venezuela".
 Name                                   Size Checksum
 355 - Communist Emblem 2 - Venezuela17175216 CRC(9948f176)
@@ -170,9 +210,17 @@ ROMs required for driver "Crossover Hack".
 Name                                   Size Checksum
 265 - Crossover Hack               33480004 CRC(bc384a67)
 
+ROMs required for driver "Crusaders Of The Void".
+Name                                   Size Checksum
+533 - Crusaders Of The Void        17613044 CRC(24c0f555)
+
 ROMs required for driver "Crystal of Bonds".
 Name                                   Size Checksum
 443 - Crystal of Bonds             17853160 CRC(8fe19751)
+
+ROMs required for driver "Curse Of The Emblem Version 0.001".
+Name                                   Size Checksum
+508 - Curse Of The Emblem Version 014711608 CRC(9c658b28)
 
 ROMs required for driver "Dark Emblem".
 Name                                   Size Checksum
@@ -222,6 +270,10 @@ ROMs required for driver "Demon’s Curse".
 Name                                   Size Checksum
 414 - Demon’s Curse                25632208 CRC(7c088459)
 
+ROMs required for driver "Desperate Struggle".
+Name                                   Size Checksum
+506 - Desperate Struggle           18881396 CRC(b9e5a43c)
+
 ROMs required for driver "Devourer of Time (Hard mode)".
 Name                                   Size Checksum
 339 - Devourer of Time (Hard mode) 16818192 CRC(7fd35f4f)
@@ -234,9 +286,17 @@ ROMs required for driver "Different Dimensions Ostian Princess".
 Name                                   Size Checksum
 333 - Different Dimensions Ostian Princess16777216 CRC(79f1b543)
 
+ROMs required for driver "DISTORTION".
+Name                                   Size Checksum
+523 - DISTORTION                   19069656 CRC(7cef7382)
+
 ROMs required for driver "Divine Keys".
 Name                                   Size Checksum
 468 - Divine Keys                  21116668 CRC(9dac7c13)
+
+ROMs required for driver "Dogs of War".
+Name                                   Size Checksum
+538 - Dogs of War                  16777216 CRC(c03ef3c7)
 
 ROMs required for driver "Dorcas Emblem 2".
 Name                                   Size Checksum
@@ -258,9 +318,21 @@ ROMs required for driver "Dreams of Twilight".
 Name                                   Size Checksum
 486 - Dreams of Twilight           19414472 CRC(5b62c925)
 
+ROMs required for driver "Duo Geno Escapo".
+Name                                   Size Checksum
+498 - Duo Geno Escapo              21952160 CRC(a67b6e72)
+
 ROMs required for driver "Elibean Nights".
 Name                                   Size Checksum
 243 - Elibean Nights               28260392 CRC(0f2076bd)
+
+ROMs required for driver "Emblem Warriors".
+Name                                   Size Checksum
+517 - Emblem Warriors              21638172 CRC(1762a534)
+
+ROMs required for driver "Enderslicer's Escape".
+Name                                   Size Checksum
+524 - Enderslicer's Escape         16796976 CRC(e9bdb90d)
 
 ROMs required for driver "Endless Nights".
 Name                                   Size Checksum
@@ -577,6 +649,10 @@ Name                                   Size Checksum
 ROMs required for driver "Ferrica - Project Kenko".
 Name                                   Size Checksum
 478 - Ferrica - Project Kenko      23612392 CRC(4124c732)
+
+ROMs required for driver "FETO's Last Stand".
+Name                                   Size Checksum
+507 - FETO's Last Stand            16784768 CRC(b80108e2)
 
 ROMs required for driver "FEU Gacha".
 Name                                   Size Checksum
@@ -938,9 +1014,9 @@ ROMs required for driver "Hector Saves Christmas Again".
 Name                                   Size Checksum
 164 - Hector Saves Christmas Again 17415920 CRC(e69b171f)
 
-ROMs required for driver "Heroes of PBAP".
+ROMs required for driver "Heroes of PaBP".
 Name                                   Size Checksum
-190 - Heroes of PBAP               19640328 CRC(9e78b8ef)
+190 - Heroes of PaBP               19640328 CRC(9e78b8ef)
 
 ROMs required for driver "Heroes of Valencia and Archanea".
 Name                                   Size Checksum
@@ -953,6 +1029,10 @@ Name                                   Size Checksum
 ROMs required for driver "Host of the Dark".
 Name                                   Size Checksum
 489 - Host of the Dark             28808224 CRC(7cab585e)
+
+ROMs required for driver "Human Armory".
+Name                                   Size Checksum
+527 - Human Armory                 16784272 CRC(90b0a9a5)
 
 ROMs required for driver "Inheritance".
 Name                                   Size Checksum
@@ -982,6 +1062,10 @@ ROMs required for driver "Jugdral Saga".
 Name                                   Size Checksum
 268 - Jugdral Saga                 16777216 CRC(b9521183)
 
+ROMs required for driver "Julius's Revenge".
+Name                                   Size Checksum
+529 - Julius's Revenge             16777216 CRC(471de9a1)
+
 ROMs required for driver "Justice & Pride Gaiden - Clash in Estria".
 Name                                   Size Checksum
 475 - Justice & Pride Gaiden - Clash in Estria          27248856 CRC(d625827c)
@@ -1010,6 +1094,10 @@ ROMs required for driver "Last Heavenly Throne".
 Name                                   Size Checksum
 453 - Last Heavenly Throne         20469068 CRC(9001906e)
 
+ROMs required for driver "Le Chien Est Adorable".
+Name                                   Size Checksum
+505 - Le Chien Est Adorable        16777776 CRC(08ff3b82)
+
 ROMs required for driver "League of Champions (Patch1)".
 Name                                   Size Checksum
 255 - League of Champions (Patch1) 18586224 CRC(6c949342)
@@ -1034,13 +1122,21 @@ ROMs required for driver "Lyn Emblem".
 Name                                   Size Checksum
 346 - Lyn Emblem                   17039860 CRC(63b047ee)
 
+ROMs required for driver "Lyn's Revenge".
+Name                                   Size Checksum
+519 - Lyn's Revenge                16797544 CRC(57fe60ed)
+
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E. R                      18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "Maiden Quest".
 Name                                   Size Checksum
 125 - Maiden Quest                 19773496 CRC(f11864bd)
+
+ROMs required for driver "Marc's Special Day".
+Name                                   Size Checksum
+510 - Marc's Special Day           25189532 CRC(f70dfe9b)
 
 ROMs required for driver "Marc’s Precious - Revenge".
 Name                                   Size Checksum
@@ -1050,6 +1146,14 @@ ROMs required for driver "Mask of Dunham".
 Name                                   Size Checksum
 437 - Mask of Dunham               19753152 CRC(77dd037e)
 
+ROMs required for driver "Matthew's Nightmare".
+Name                                   Size Checksum
+503 - Matthew's Nightmare          33554808 CRC(5124fdf2)
+
+ROMs required for driver "Maze Of The Troll King".
+Name                                   Size Checksum
+502 - Maze Of The Troll King       21814764 CRC(a8b2c38b)
+
 ROMs required for driver "Midnight Eclipse (Joke hack)".
 Name                                   Size Checksum
 395 - Midnight Eclipse (Joke hack) 16959580 CRC(2865d6ce)
@@ -1057,6 +1161,18 @@ Name                                   Size Checksum
 ROMs required for driver "Midnight Sun".
 Name                                   Size Checksum
 266 - Midnight Sun                 22743256 CRC(8164eee8)
+
+ROMs required for driver "Money Man's Last Stand".
+Name                                   Size Checksum
+522 - Money Man's Last Stand       20971560 CRC(36f27196)
+
+ROMs required for driver "Moneyfest".
+Name                                   Size Checksum
+520 - Moneyfest                    16786344 CRC(91f66a38)
+
+ROMs required for driver "Morph's Last Stand".
+Name                                   Size Checksum
+501 - Morph's Last Stand           16783668 CRC(07a1c597)
 
 ROMs required for driver "Myrm Emblem".
 Name                                   Size Checksum
@@ -1089,6 +1205,10 @@ Name                                   Size Checksum
 ROMs required for driver "OC Emblem".
 Name                                   Size Checksum
 413 - OC Emblem                    21489356 CRC(5f29fe04)
+
+ROMs required for driver "Old Fire Mumblem".
+Name                                   Size Checksum
+496 - Old Fire Mumblem             16838132 CRC(04cfa619)
 
 ROMs required for driver "One-Turn-Clear".
 Name                                   Size Checksum
@@ -1194,6 +1314,14 @@ ROMs required for driver "Ragefest 5 DLC".
 Name                                   Size Checksum
 137 - Ragefest 5 DLC               17194360 CRC(0c516c3e)
 
+ROMs required for driver "Ragefest Chronicles".
+Name                                   Size Checksum
+535 - Ragefest Chronicles          16996156 CRC(ef471685)
+
+ROMs required for driver "Ragefest Revengeance".
+Name                                   Size Checksum
+526 - Ragefest Revengeance         20406156 CRC(fc673b9f)
+
 ROMs required for driver "Rart Emblem - Halloween".
 Name                                   Size Checksum
 159 - Rart Emblem - Halloween      17308636 CRC(61dad746)
@@ -1241,6 +1369,10 @@ Name                                   Size Checksum
 ROMs required for driver "Revolution".
 Name                                   Size Checksum
 474 - Revolution                   17839068 CRC(1561cad6)
+
+ROMs required for driver "Rondo Of Madness".
+Name                                   Size Checksum
+509 - Rondo Of Madness             21560644 CRC(25d1d129)
 
 ROMs required for driver "Royal Army".
 Name                                   Size Checksum
@@ -1406,6 +1538,10 @@ ROMs required for driver "Storge".
 Name                                   Size Checksum
 236 - Storge                       20034916 CRC(079106d8)
 
+ROMs required for driver "Super Generic Ragefest Adventure".
+Name                                   Size Checksum
+539 - Super Generic Ragefest Adventure17028828 CRC(a727bdb0)
+
 ROMs required for driver "Sword of Seals ReDux".
 Name                                   Size Checksum
 295 - Sword of Seals ReDux         16777244 CRC(7895cf0d)
@@ -1429,6 +1565,10 @@ Name                                   Size Checksum
 ROMs required for driver "Terror of the Forest".
 Name                                   Size Checksum
 430 - Terror of the Forest         27044204 CRC(017b8028)
+
+ROMs required for driver "tHE BEGGINING".
+Name                                   Size Checksum
+497 - tHE BEGGINING                16777216 CRC(a7685715)
 
 ROMs required for driver "The Binding Bartre".
 Name                                   Size Checksum
@@ -1461,6 +1601,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Burdened Crown (Blue)".
 Name                                   Size Checksum
 149 - The Burdened Crown (Blue)    22485048 CRC(0459d055)
+
+ROMs required for driver "The Corruption Of Roy".
+Name                                   Size Checksum
+512 - The Corruption Of Roy        17761716 CRC(41300a20)
 
 ROMs required for driver "The Dark Hour".
 Name                                   Size Checksum
@@ -1550,6 +1694,10 @@ ROMs required for driver "The Nameless Heroes (English Translation)".
 Name                                   Size Checksum
 448 - The Nameless Heroes (English Translation)          29782176 CRC(36042746)
 
+ROMs required for driver "The Purge Of Weegee".
+Name                                   Size Checksum
+528 - The Purge Of Weegee          21489848 CRC(764e473f)
+
 ROMs required for driver "The Queen’s Lament".
 Name                                   Size Checksum
 408 - The Queen’s Lament           18021380 CRC(e19c9eb7)
@@ -1557,6 +1705,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Road to Ruin".
 Name                                   Size Checksum
 108 - The Road to Ruin             21666336 CRC(6522df69)
+
+ROMs required for driver "The Roots That Bind".
+Name                                   Size Checksum
+531 - The Roots That Bind          17350964 CRC(014977a9)
 
 ROMs required for driver "The Sacred Chairs".
 Name                                   Size Checksum
@@ -1598,6 +1750,10 @@ ROMs required for driver "Tirado Emblem".
 Name                                   Size Checksum
 282 - Tirado Emblem                18775380 CRC(5bb0ae74)
 
+ROMs required for driver "Title Here".
+Name                                   Size Checksum
+521 - Title Here                   17072284 CRC(e6f15aae)
+
 ROMs required for driver "Touhou Emblem 8 - The Sacred Shrines".
 Name                                   Size Checksum
 402 - Touhou Emblem 8 - The Sacred Shrines17869900 CRC(e18fc466)
@@ -1605,6 +1761,14 @@ Name                                   Size Checksum
 ROMs required for driver "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin".
 Name                                   Size Checksum
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin          22807804 CRC(1b8b59c0)
+
+ROMs required for driver "Tower Defense".
+Name                                   Size Checksum
+515 - Tower Defense                16793408 CRC(6b65ad16)
+
+ROMs required for driver "Trapped In Painful Places".
+Name                                   Size Checksum
+518 - Trapped In Painful Places    17024800 CRC(32d3350e)
 
 ROMs required for driver "Typhon’s Wake".
 Name                                   Size Checksum
@@ -1617,6 +1781,14 @@ Name                                   Size Checksum
 ROMs required for driver "Under Grey Skies".
 Name                                   Size Checksum
 273 - Under Grey Skies             19475260 CRC(25b2d8d0)
+
+ROMs required for driver "Untitled".
+Name                                   Size Checksum
+500 - Untitled                     16780684 CRC(7ff80b14)
+
+ROMs required for driver "Vaati's Revenge".
+Name                                   Size Checksum
+513 - Vaati's Revenge              20091536 CRC(cc6ff371)
 
 ROMs required for driver "Voice Acting Tech Demo".
 Name                                   Size Checksum
@@ -1654,6 +1826,10 @@ ROMs required for driver "Water Crest - Morps’s Quest For Pants".
 Name                                   Size Checksum
 278 - Water Crest - Morps’s Quest For Pants          17267760 CRC(95d4742f)
 
+ROMs required for driver "Wheel Of Misfortune".
+Name                                   Size Checksum
+540 - Wheel Of Misfortune          19997476 CRC(71238326)
+
 ROMs required for driver "Winning Against Gharnef".
 Name                                   Size Checksum
 165 - Winning Against Gharnef      18085528 CRC(03c472ee)
@@ -1661,6 +1837,10 @@ Name                                   Size Checksum
 ROMs required for driver "Wrath of the Crusade".
 Name                                   Size Checksum
 483 - Wrath of the Crusade         17347588 CRC(83bfa1d6)
+
+ROMs required for driver "Yet Another Ragefest Hack".
+Name                                   Size Checksum
+514 - Yet Another Ragefest Hack    16851636 CRC(478b418e)
 
 ROMs required for driver "Yggdra Hack UI Translation".
 Name                                   Size Checksum

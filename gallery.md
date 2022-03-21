@@ -13,9 +13,14 @@
 {% for rom in site.data.ROMs %}
   <div class="column {{ rom.Language }}">
     <div class="content">
-      <img src="OfflineList/imgs/laqieer - Fire Emblem - Game Boy Advance/1-500/{{ rom.ID }}a.png" alt="Title Screen" style="width:100%">
-      <h4>{{ rom.Title }}</h4>
 {% assign id = rom.ID | plus: 0 %}
+{% if id > 500 %}
+{% assign imgs_dir = "501-1000" %}
+{% else %}
+{% assign imgs_dir = "1-500" %}
+{% endif %}
+      <img src="OfflineList/imgs/laqieer - Fire Emblem - Game Boy Advance/{{ imgs_dir }}/{{ rom.ID }}a.png" alt="Title Screen" style="width:100%">
+      <h4>{{ rom.Title }}</h4>
 {% if id < 20 %}
       <p>{{ rom.Publisher }}</p>
 {% else %}

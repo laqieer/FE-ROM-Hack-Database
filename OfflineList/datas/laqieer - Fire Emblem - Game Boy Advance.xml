@@ -7559,6 +7559,342 @@
 			<comment>https://markyjoe.com/?page=rfdl</comment>
 			<duplicateID>0</duplicateID>
 		</game>
+		<game>
+			<imageNumber>541</imageNumber>
+			<releaseNumber>541</releaseNumber>
+			<title>FEGirls J with English Menu Names</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>chap</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">2FDCC9D8</romCRC></files>
+			<im1CRC>B85EB850</im1CRC>
+			<im2CRC>774D39D8</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/FEGirls%20J%20with%20English%20Menu%20Names.ips</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>542</imageNumber>
+			<releaseNumber>542</releaseNumber>
+			<title>Gorilla Gadek SG</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32760640</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Mage Girl</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">ADAD84E8</romCRC></files>
+			<im1CRC>AD2715D6</im1CRC>
+			<im2CRC>BA723360</im2CRC>
+			<comment>http://www.feshrine.net/hacking/projects/gorillagadek.php</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>543</imageNumber>
+			<releaseNumber>543</releaseNumber>
+			<title>FE6 Real War Chronicles</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>JadeWyvernRider</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9EAEDA76</romCRC></files>
+			<im1CRC>CFCAEE16</im1CRC>
+			<im2CRC>352B1BAD</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Real%20War%20Chronicles.ups</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>544</imageNumber>
+			<releaseNumber>544</releaseNumber>
+			<title>Requiem of War</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777240</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>DH_Ninja</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">03945110</romCRC></files>
+			<im1CRC>8672AD2A</im1CRC>
+			<im2CRC>ED49B9DA</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Requiem%20of%20War%20v1.0.ups</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>545</imageNumber>
+			<releaseNumber>545</releaseNumber>
+			<title>Tales of Bravery</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>19320444</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Blazer</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">9F2DE20A</romCRC></files>
+			<im1CRC>C4C79E80</im1CRC>
+			<im2CRC>9042E3DB</im2CRC>
+			<comment>http://www.feshrine.net/hacking/patches/Tales%20of%20Bravery.zip</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>546</imageNumber>
+			<releaseNumber>546</releaseNumber>
+			<title>FE8 Darion's Mode</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Darion</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B9965EA1</romCRC></files>
+			<im1CRC>CF60B327</im1CRC>
+			<im2CRC>BCBFC0EC</im2CRC>
+			<comment>http://www.serenesforest.net/download/FE8patchfinal2.ips</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>547</imageNumber>
+			<releaseNumber>547</releaseNumber>
+			<title>Darion’s Blazing Sword (Eliwood mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Darion</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">142E9ADD</romCRC></files>
+			<im1CRC>004E6EF4</im1CRC>
+			<im2CRC>046ACBD9</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>548</imageNumber>
+			<releaseNumber>548</releaseNumber>
+			<title>Encryption20's Patch</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>encryption20</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1EE454B6</romCRC></files>
+			<im1CRC>09B2BC59</im1CRC>
+			<im2CRC>D223F8D5</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/encryption20s-the-sacred-stones/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>549</imageNumber>
+			<releaseNumber>549</releaseNumber>
+			<title>FE8 with FE4 Graphics (weapon icons)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Celice</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">D14C8D42</romCRC></files>
+			<im1CRC>CF60B327</im1CRC>
+			<im2CRC>810CF6D6</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>550</imageNumber>
+			<releaseNumber>550</releaseNumber>
+			<title>FE8 with FE4 Graphics (map sprites)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Celice</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">DCA9A64F</romCRC></files>
+			<im1CRC>9B0FFEE0</im1CRC>
+			<im2CRC>C1599FB4</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>551</imageNumber>
+			<releaseNumber>551</releaseNumber>
+			<title>FE6 The Divine War</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777248</romSize>
+			<publisher>Reskin</publisher>
+			<location>7</location>
+			<sourceRom>Onmi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">281C7E89</romCRC></files>
+			<im1CRC>02504B11</im1CRC>
+			<im2CRC>B78800FD</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>552</imageNumber>
+			<releaseNumber>552</releaseNumber>
+			<title>The Sacred Stones - FE7 Crossover</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>CrypticGirl</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1749E41F</romCRC></files>
+			<im1CRC>CF60B327</im1CRC>
+			<im2CRC>8156CE42</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>553</imageNumber>
+			<releaseNumber>553</releaseNumber>
+			<title>FE8 Beta Test 1</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777616</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>licker234</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">E82AD29C</romCRC></files>
+			<im1CRC>D09E5396</im1CRC>
+			<im2CRC>91084A38</im2CRC>
+			<comment>http://www.feshrine.net/forums/index.php?showtopic=4894</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>554</imageNumber>
+			<releaseNumber>554</releaseNumber>
+			<title>FE7 Leila Edition</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17330932</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Leila>Matthew</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">3574373F</romCRC></files>
+			<im1CRC>8672AD2A</im1CRC>
+			<im2CRC>EEC32D52</im2CRC>
+			<comment>http://www.feshrine.net/forums/index.php?showtopic=4844</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>555</imageNumber>
+			<releaseNumber>555</releaseNumber>
+			<title>FE8 Monster Quest</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Kahane</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">727C8365</romCRC></files>
+			<im1CRC>8C6A8B01</im1CRC>
+			<im2CRC>B39B1133</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/27680-fire-emlem-monster-quest/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>556</imageNumber>
+			<releaseNumber>556</releaseNumber>
+			<title>FE8 Reunion</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>sushiz</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1EEDDB5F</romCRC></files>
+			<im1CRC>DD18ADC8</im1CRC>
+			<im2CRC>82429FDE</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>557</imageNumber>
+			<releaseNumber>557</releaseNumber>
+			<title>MageKnight404's FE7 Hack</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>22020102</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>MageKnight404</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">F0C9A7AE</romCRC></files>
+			<im1CRC>83D45287</im1CRC>
+			<im2CRC>C6DC3340</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/8617-mk404s-fe7-hack/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>558</imageNumber>
+			<releaseNumber>558</releaseNumber>
+			<title>FOAL</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17556292</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>unknown</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">5E4CFFA1</romCRC></files>
+			<im1CRC>33EC5D91</im1CRC>
+			<im2CRC>4FE8E453</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>559</imageNumber>
+			<releaseNumber>559</releaseNumber>
+			<title>Version Elibe 776</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>unknown</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">252EFD87</romCRC></files>
+			<im1CRC>0215A316</im1CRC>
+			<im2CRC>9A73F916</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>560</imageNumber>
+			<releaseNumber>560</releaseNumber>
+			<title>Darion’s Blazing Sword (Hector mode)</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin</publisher>
+			<location>1</location>
+			<sourceRom>Darion</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">908E9A34</romCRC></files>
+			<im1CRC>E2AD9728</im1CRC>
+			<im2CRC>69D48538</im2CRC>
+			<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>561</imageNumber>
+			<releaseNumber>561</releaseNumber>
+			<title>Pukachi's Contest Patch</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>Pukachi</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">585F0C17</romCRC></files>
+			<im1CRC>041D8BED</im1CRC>
+			<im2CRC>461C495F</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="487" height="162">

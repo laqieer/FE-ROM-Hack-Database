@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220321",
+		"version": "20220322",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -254,7 +254,7 @@
 				"name": "Alternate Stones",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/67233-fe-8-the-alternate-stones/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -263,6 +263,24 @@
 						"name": "449 - Alternate Stones",
 						"size": 18583756,
 						"crc": "9acefc25"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "AnonymousSpeed's 1h Blitz - Valternate Universe",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/92869-one-hour-blitz/",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "647 - AnonymousSpeed's 1h Blitz - Valternate Universe",
+						"size": 16791084,
+						"crc": "d21a353f"
 					}
 				}
 			]
@@ -308,7 +326,7 @@
 				"name": "Armour Emblem",
 				"comment": "https://feuniverse.us/t/side-project-armor-emblem-fe8/7151",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -452,7 +470,7 @@
 				"name": "Auto Emblem",
 				"comment": "http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -560,7 +578,7 @@
 				"name": "Bartre Emblem",
 				"comment": "https://feuniverse.us/t/bartre-emblem-fe7-the-way-it-was-meant-to-be-played/8238",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -605,6 +623,24 @@
 						"name": "224 - Battle Against Vallui",
 						"size": 18375244,
 						"crc": "d72b1607"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Battle for Galdea",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/100",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "673 - Battle for Galdea",
+						"size": 17342564,
+						"crc": "6c665432"
 					}
 				}
 			]
@@ -755,6 +791,42 @@
 		},
 		{
 			"machine": {
+				"name": "Blades of the Blood Dunes",
+				"comment": "https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "657 - Blades of the Blood Dunes",
+						"size": 18265128,
+						"crc": "4468049f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Blades of the Blood Dunes (April Fools’)",
+				"comment": "https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "658 - Blades of the Blood Dunes (April Fools’)",
+						"size": 18276532,
+						"crc": "026be121"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blazer’s One Day Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/",
 				"description": null,
@@ -866,7 +938,7 @@
 				"name": "BobbyYukitsuki's Two Hour Blitz",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/14",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -917,10 +989,28 @@
 		},
 		{
 			"machine": {
+				"name": "BoxWhatBox",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/93",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "672 - BoxWhatBox",
+						"size": 17267760,
+						"crc": "3026f352"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Broken Emblem",
 				"comment": "https://feuniverse.us/t/fe-6-broken-emblem-wiki-fire-emblem-amino/5818",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -992,7 +1082,7 @@
 				"name": "Cancer Emblem 0 - Joke Hack",
 				"comment": "https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1010,7 +1100,7 @@
 				"name": "Cancer Emblem 1 - Dazzle-Lunge Emblem",
 				"comment": "https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1028,7 +1118,7 @@
 				"name": "Cancer Emblem 2 - Min-Max Emblem",
 				"comment": "https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1115,6 +1205,24 @@
 		},
 		{
 			"machine": {
+				"name": "Clendo's 1h Blitz - Faltharian Heist",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/34",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "645 - Clendo's 1h Blitz - Faltharian Heist",
+						"size": 16889240,
+						"crc": "5ec26df2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Code of the Burger King",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690",
 				"description": null,
@@ -1154,7 +1262,7 @@
 				"name": "Communist Emblem 2 - Venezuela",
 				"comment": "https://feuniverse.us/t/communist-emblem-2-venezuela/3573",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1172,7 +1280,7 @@
 				"name": "Community Blitz 5 - Redemption",
 				"comment": "https://github.com/Peer56/CommunityBlitz5",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -1334,7 +1442,7 @@
 				"name": "Darion’s Blazing Sword (Eliwood mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1352,7 +1460,7 @@
 				"name": "Darion’s Blazing Sword (Hector mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1421,6 +1529,42 @@
 		},
 		{
 			"machine": {
+				"name": "DarkChibimon's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/112",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "676 - DarkChibimon's MAFC FEU It Again patch",
+						"size": 16925640,
+						"crc": "af667ed7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/6",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "635 - Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff",
+						"size": 18213660,
+						"crc": "a9a31beb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Dawn of Destiny",
 				"comment": "https://feuniverse.us/t/the-dawn-of-destiny/7221",
 				"description": null,
@@ -1457,6 +1601,24 @@
 		},
 		{
 			"machine": {
+				"name": "Days of Beta Past",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "648 - Days of Beta Past",
+						"size": 22314492,
+						"crc": "f4b17e5e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Decay of the Fangs",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/",
 				"description": null,
@@ -1475,10 +1637,28 @@
 		},
 		{
 			"machine": {
+				"name": "Defense Mission",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "653 - Defense Mission",
+						"size": 33555892,
+						"crc": "35a357bc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Degeneration Emblem",
 				"comment": "https://feuniverse.us/t/degeneration-emblem/3202",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1604,7 +1784,7 @@
 				"name": "Devourer of Time (Hard mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1622,7 +1802,7 @@
 				"name": "Devourer of Time (Normal mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1640,7 +1820,7 @@
 				"name": "Different Dimensions Ostian Princess",
 				"comment": "http://www.romhacking.net/hacks/432/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1667,6 +1847,24 @@
 						"name": "618 - Dirge of the Departed",
 						"size": 17584264,
 						"crc": "98ed0044"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Disregarding Eighth",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/123",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "682 - Disregarding Eighth",
+						"size": 16920324,
+						"crc": "a3f7fa41"
 					}
 				}
 			]
@@ -1745,10 +1943,46 @@
 		},
 		{
 			"machine": {
+				"name": "DonkinDo's 1h Blitz - My lil sis turned into a dancer",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/37",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "646 - DonkinDo's 1h Blitz - My lil sis turned into a dancer",
+						"size": 18152692,
+						"crc": "0b9c3f91"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Doorway of the Fang",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/117",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "679 - Doorway of the Fang",
+						"size": 18641452,
+						"crc": "5b9cc568"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Dorcas Emblem 2",
 				"comment": "https://feuniverse.us/t/dorcas-emblem-2-1/3092",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -1775,6 +2009,24 @@
 						"name": "491 - Doubled or Nothing",
 						"size": 19242308,
 						"crc": "bff057cf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Down to my Level",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "649 - Down to my Level",
+						"size": 16777216,
+						"crc": "760542af"
 					}
 				}
 			]
@@ -1910,7 +2162,7 @@
 				"name": "Encryption20's Patch",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/encryption20s-the-sacred-stones/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2126,7 +2378,7 @@
 				"name": "FE6 All Mounts",
 				"comment": "https://feuniverse.us/t/fe6-all-mounts/6313",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2144,7 +2396,7 @@
 				"name": "FE6 Boss Recruitment",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2162,7 +2414,7 @@
 				"name": "FE6 BugFixEdition",
 				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2180,7 +2432,7 @@
 				"name": "FE6 BugFixEdition (Plus11AFixes)",
 				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2198,7 +2450,7 @@
 				"name": "FE6 BugFixEdition (ReduxVers)",
 				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2216,7 +2468,7 @@
 				"name": "FE6 BugFixEdition (Strong Enemies)",
 				"comment": "https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2234,7 +2486,7 @@
 				"name": "FE6 But Everything Hits",
 				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2252,7 +2504,7 @@
 				"name": "FE6 But Everything Hits (Average Growths Mode)",
 				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2270,7 +2522,7 @@
 				"name": "FE6 But Everything Hits (Maximum Growths Mode)",
 				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2288,7 +2540,7 @@
 				"name": "FE6 But Everything Hits (Minimum Growths Mode)",
 				"comment": "https://feuniverse.us/t/fe6-but-everything-hits/14008",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2306,7 +2558,7 @@
 				"name": "FE6 Google Translated",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2324,7 +2576,7 @@
 				"name": "FE6 has DSFE movement",
 				"comment": "https://feuniverse.us/t/fire-emblem-the-binding-blade-but-it-has-dsfe-movement/13067",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2342,7 +2594,7 @@
 				"name": "FE6 Incandescence Edition",
 				"comment": "https://feuniverse.us/t/fe6-incandescence-edition/7661",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2360,7 +2612,7 @@
 				"name": "FE6 Negative Growths",
 				"comment": "https://feuniverse.us/t/fe6-negative-growths/9298",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2378,7 +2630,7 @@
 				"name": "FE6 Negative Growths (English)",
 				"comment": "https://feuniverse.us/t/fe6-negative-growths/9298",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2396,7 +2648,7 @@
 				"name": "FE6 No Redundancy Edition",
 				"comment": "https://feuniverse.us/t/fe6-no-redundancy-edition/12138",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2414,7 +2666,7 @@
 				"name": "FE6 Numbers Patch",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2432,7 +2684,7 @@
 				"name": "FE6 Promoted Mode",
 				"comment": "https://feuniverse.us/t/fe6-promoted-mode/8469",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2450,7 +2702,7 @@
 				"name": "FE6 Rapid Rebalance",
 				"comment": "https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2468,7 +2720,7 @@
 				"name": "FE6 Real War Chronicles",
 				"comment": "http://www.feshrine.net/hacking/patches/Real%20War%20Chronicles.ups",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2486,7 +2738,7 @@
 				"name": "FE6 Recoloured",
 				"comment": "https://feuniverse.us/t/fe6-recolored/6383",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2504,7 +2756,7 @@
 				"name": "FE6 Refurbished",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2522,7 +2774,7 @@
 				"name": "FE6 rom with HM bonuses for everyone",
 				"comment": "https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2540,7 +2792,7 @@
 				"name": "FE6 The Divine War",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2558,7 +2810,7 @@
 				"name": "FE6 Unfair and Bad",
 				"comment": "https://feuniverse.us/t/fe6-but-unfair-and-bad/6541",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2576,7 +2828,7 @@
 				"name": "FE6 Unit Swap (Balanced)",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-unit-swap/6732",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2594,7 +2846,7 @@
 				"name": "FE6 Unit Swap (Hard)",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-unit-swap/6732",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2612,7 +2864,7 @@
 				"name": "FE6 Weapon Reversal",
 				"comment": "https://feuniverse.us/t/fe6-weapon-reversal/4851",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2630,7 +2882,7 @@
 				"name": "FE6 Weapon Reversal (Without Weapon Changes)",
 				"comment": "https://feuniverse.us/t/fe6-weapon-reversal/4851",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2648,7 +2900,7 @@
 				"name": "FE6 with no HM bonuses",
 				"comment": "https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2666,7 +2918,7 @@
 				"name": "FE6 with some double HM bonuses",
 				"comment": "https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2684,7 +2936,7 @@
 				"name": "FE6-CharSwap-FE7 (0% Growths)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2702,7 +2954,7 @@
 				"name": "FE6-CharSwap-FE7 (1% Growths)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2720,7 +2972,7 @@
 				"name": "FE6-CharSwap-FE7 (2xHard Mode)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2738,7 +2990,7 @@
 				"name": "FE6-CharSwap-FE7 (100% Growths)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2756,7 +3008,7 @@
 				"name": "FE6-CharSwap-FE7 (Fixed Growths)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2774,7 +3026,7 @@
 				"name": "FE6-CharSwap-FE7",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2810,7 +3062,7 @@
 				"name": "FE7 Boss Recruitment",
 				"comment": "https://feuniverse.us/t/fe7-boss-recruitment-v1-8-as-of-11-10-21/12962",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2828,7 +3080,7 @@
 				"name": "FE7 Chaos Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2846,7 +3098,7 @@
 				"name": "FE7 Heroes",
 				"comment": "https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2864,7 +3116,7 @@
 				"name": "FE7 Inflation",
 				"comment": "ファイアーエムブレム 烈火の剣inflation Ver.20090517",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2882,7 +3134,7 @@
 				"name": "FE7 Leila Edition",
 				"comment": "http://www.feshrine.net/forums/index.php?showtopic=4844",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2900,7 +3152,7 @@
 				"name": "FE7 Lute Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2918,7 +3170,7 @@
 				"name": "FE7 Lyn Hard Mode Redux",
 				"comment": "https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2936,7 +3188,7 @@
 				"name": "FE7 Lyn Hard Mode Redux JP",
 				"comment": "https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -2990,7 +3242,7 @@
 				"name": "FE8 All Weapons are Devil Weapons",
 				"comment": "https://github.com/Adamminn/FE8-devil-weapons",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3008,7 +3260,7 @@
 				"name": "FE8 Beta Test 1",
 				"comment": "http://www.feshrine.net/forums/index.php?showtopic=4894",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3026,7 +3278,7 @@
 				"name": "FE8 Boss Recruitment (Ephraim Route)",
 				"comment": "https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3044,7 +3296,7 @@
 				"name": "FE8 Changes Lite",
 				"comment": "https://feuniverse.us/t/fe8-changes-lite-patch/8874",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3062,7 +3314,7 @@
 				"name": "FE8 Chaos Randomizer (Normal recruitment, original base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3080,7 +3332,7 @@
 				"name": "FE8 Chaos Randomizer (Normal recruitment, randomized base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3098,7 +3350,7 @@
 				"name": "FE8 Chaos Randomizer (Random recruitment, original base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3116,7 +3368,7 @@
 				"name": "FE8 Chaos Randomizer (Random recruitment, randomized base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3134,7 +3386,7 @@
 				"name": "FE8 Chaos Randomizer (Reverse recruitment, original base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3152,7 +3404,7 @@
 				"name": "FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)",
 				"comment": "https://feuniverse.us/t/fe8-chaos-randomizer/2068",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3170,7 +3422,7 @@
 				"name": "FE8 Creature Campaign Reverse Recruitment (Eirika)",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3188,7 +3440,7 @@
 				"name": "FE8 Creature Campaign Reverse Recruitment (Ephraim)",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3206,7 +3458,7 @@
 				"name": "FE8 Darion's Mode",
 				"comment": "http://www.serenesforest.net/download/FE8patchfinal2.ips",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3224,7 +3476,7 @@
 				"name": "FE8 Fanmade Directors Cut",
 				"comment": "https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3242,7 +3494,7 @@
 				"name": "FE8 Lyn Windy",
 				"comment": "リーンの風",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3260,7 +3512,7 @@
 				"name": "FE8 Maniac Mode",
 				"comment": "https://feuniverse.us/t/fe8mm-version-2/7677",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3278,7 +3530,7 @@
 				"name": "FE8 Master Version",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3332,7 +3584,7 @@
 				"name": "FE8 Monster Quest",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/27680-fire-emlem-monster-quest/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3350,7 +3602,7 @@
 				"name": "FE8 Negative Growths",
 				"comment": "https://feuniverse.us/t/fe8-negative-growths/4547",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3368,7 +3620,7 @@
 				"name": "FE8 Oops, All Archers!",
 				"comment": "https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3386,7 +3638,7 @@
 				"name": "FE8 Project Dark",
 				"comment": "https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3404,7 +3656,7 @@
 				"name": "FE8 QoL Edition",
 				"comment": "https://feuniverse.us/t/fe8-qol-edition/3509",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3422,7 +3674,7 @@
 				"name": "FE8 Redux",
 				"comment": "https://feuniverse.us/t/fe8-redux-v2-1-complete/13751",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3440,7 +3692,7 @@
 				"name": "FE8 Remix",
 				"comment": "https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3458,7 +3710,7 @@
 				"name": "FE8 Reunion",
 				"comment": "",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3476,7 +3728,7 @@
 				"name": "FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3494,7 +3746,7 @@
 				"name": "FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3512,7 +3764,7 @@
 				"name": "FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3530,7 +3782,7 @@
 				"name": "FE8 The Fallen Princess",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3548,7 +3800,7 @@
 				"name": "FE8 Totally Vanilla",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/67572-fe8-totally-vanilla/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3566,7 +3818,7 @@
 				"name": "FE8 Weapon Reversal",
 				"comment": "https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3584,7 +3836,7 @@
 				"name": "FE8 Wild Mode",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-wild-mode/6361",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3602,7 +3854,7 @@
 				"name": "FE8 with FE4 Graphics (map sprites)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3620,7 +3872,7 @@
 				"name": "FE8 with FE4 Graphics (weapon icons)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3674,7 +3926,7 @@
 				"name": "FE8BEWHABEWAASAHIHI",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3692,7 +3944,7 @@
 				"name": "FE8ESHGBTGISTTM",
 				"comment": "https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3710,7 +3962,7 @@
 				"name": "FE8Re(gret)",
 				"comment": "https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3944,7 +4196,7 @@
 				"name": "FE聖魔 適当に改造 まるっと全部修正",
 				"comment": "",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -3998,7 +4250,7 @@
 				"name": "Fire Emblem 6.7",
 				"comment": "https://feuniverse.us/t/fe6-fire-emblem-6-7/9138",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -4142,7 +4394,7 @@
 				"name": "Fire Emblem - Barhara Revisited",
 				"comment": "https://feuniverse.us/t/fire-emblem-barhara-revisited/1924",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "MAFC"
 			},
 			"items": [
 				{
@@ -4520,7 +4772,7 @@
 				"name": "Fire Emblem - Reawakening",
 				"comment": "https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -4862,7 +5114,7 @@
 				"name": "Fire Emblem - The Binding Blade Extreme",
 				"comment": "https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5078,7 +5330,7 @@
 				"name": "Fire Emblem - Will of Good and Evil",
 				"comment": "http://www.fireemblem.net/fe/download/index.htm",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5294,7 +5546,7 @@
 				"name": "Fire Memeblem 0",
 				"comment": "https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5312,7 +5564,7 @@
 				"name": "Fire Memeblem True 0",
 				"comment": "https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5321,6 +5573,24 @@
 						"name": "336 - Fire Memeblem True 0",
 						"size": 16777332,
 						"crc": "e25c779f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Flame Seal - The Knight of Light",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/115",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "678 - Flame Seal - The Knight of Light",
+						"size": 26350620,
+						"crc": "94588dc5"
 					}
 				}
 			]
@@ -5420,7 +5690,7 @@
 				"name": "Fort Mangs Emblem",
 				"comment": "https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5429,6 +5699,24 @@
 						"name": "394 - Fort Mangs Emblem",
 						"size": 20269072,
 						"crc": "cadc97eb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fort Nunya",
+				"comment": "https://feuniverse.us/t/mafc5/9981/14",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "660 - Fort Nunya",
+						"size": 17482308,
+						"crc": "2b094a34"
 					}
 				}
 			]
@@ -5474,7 +5762,7 @@
 				"name": "Frog's Two Hour Blitz - Steel",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/3",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -5564,7 +5852,7 @@
 				"name": "GhebFE",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -5609,6 +5897,42 @@
 						"name": "249 - Grand Archipelago",
 						"size": 19579000,
 						"crc": "14b61c7e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "GratedShtick's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/72",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "667 - GratedShtick's MAFC FEU It Again patch",
+						"size": 18122108,
+						"crc": "b6f5a96c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "GreatBeast",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/111",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "675 - GreatBeast",
+						"size": 17035300,
+						"crc": "f0d3c231"
 					}
 				}
 			]
@@ -5924,7 +6248,7 @@
 				"name": "jellyunicorn's Two Hour Blitz - bungus badventure",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/7",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -6245,6 +6569,24 @@
 		},
 		{
 			"machine": {
+				"name": "Legend of the Lost Mugs",
+				"comment": "https://feuniverse.us/t/mafc5/9981/12",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "659 - Legend of the Lost Mugs",
+						"size": 17118056,
+						"crc": "bbb2081c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Legends of Avenir",
 				"comment": "https://github.com/Snakey11/Legends-of-Avenir",
 				"description": null,
@@ -6302,7 +6644,7 @@
 				"name": "Lord Weapons Patch Rebalance",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6320,7 +6662,7 @@
 				"name": "Lute Emblem - The Sacred Lutes",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6338,7 +6680,7 @@
 				"name": "Lyn Emblem",
 				"comment": "https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6392,7 +6734,7 @@
 				"name": "MageKnight404's FE7 Hack",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/8617-mk404s-fe7-hack/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6536,7 +6878,7 @@
 				"name": "Midnight Eclipse (Joke hack)",
 				"comment": "https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6623,10 +6965,46 @@
 		},
 		{
 			"machine": {
+				"name": "MrGreen3339's 1h Blitz - game",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/4",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "633 - MrGreen3339's 1h Blitz - game",
+						"size": 16821636,
+						"crc": "080365df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "MrGreen3339's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/73",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "668 - MrGreen3339's MAFC FEU It Again patch",
+						"size": 18008524,
+						"crc": "c0a84bb0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "MrGreen3339's Two Hour Blitz - Vyland vs Matthis",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/10",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -6635,6 +7013,42 @@
 						"name": "607 - MrGreen3339's Two Hour Blitz - Vyland vs Matthis",
 						"size": 16815668,
 						"crc": "9e5cfd9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "MVPMaster's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/125",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "684 - MVPMaster's MAFC FEU It Again patch",
+						"size": 17016488,
+						"crc": "605abdd8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mycahel's 1h Blitz - Endless Dream",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/13",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "640 - Mycahel's 1h Blitz - Endless Dream",
+						"size": 16802292,
+						"crc": "9bd86faa"
 					}
 				}
 			]
@@ -6659,6 +7073,60 @@
 		},
 		{
 			"machine": {
+				"name": "Myrrh Goes To Mc Donalds",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/103",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "674 - Myrrh Goes To Mc Donalds",
+						"size": 16876620,
+						"crc": "7dab34e7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "MysteriousDancer's 1h Blitz - Questionable Innocence",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/33",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "644 - MysteriousDancer's 1h Blitz - Questionable Innocence",
+						"size": 16841120,
+						"crc": "2181ccac"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mystic's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/128",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "685 - Mystic's MAFC FEU It Again patch",
+						"size": 16777216,
+						"crc": "4d217204"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Mythgraven",
 				"comment": "https://feuniverse.us/t/fe8-mythgraven-prologue-ch-3/11039",
 				"description": null,
@@ -6671,6 +7139,24 @@
 						"name": "624 - Mythgraven",
 						"size": 23670068,
 						"crc": "bc28fd5d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Nabatas Ghost",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/74",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "669 - Nabatas Ghost",
+						"size": 18133972,
+						"crc": "3f42621f"
 					}
 				}
 			]
@@ -6770,7 +7256,7 @@
 				"name": "Not Fire Emblem 8",
 				"comment": "https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6797,6 +7283,24 @@
 						"name": "413 - OC Emblem",
 						"size": 21489356,
 						"crc": "5f29fe04"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "OC Emblem - Endgame",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/75",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "670 - OC Emblem - Endgame",
+						"size": 20235124,
+						"crc": "724d68da"
 					}
 				}
 			]
@@ -6878,7 +7382,7 @@
 				"name": "Oops! All Sophias",
 				"comment": "https://feuniverse.us/t/oops-all-sophias/10190",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6887,6 +7391,24 @@
 						"name": "329 - Oops! All Sophias",
 						"size": 16777532,
 						"crc": "527bbabc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Pandan's 1h Blitz",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/31",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "642 - Pandan's 1h Blitz",
+						"size": 18101564,
+						"crc": "49578a86"
 					}
 				}
 			]
@@ -6914,7 +7436,7 @@
 				"name": "Path of a Hero",
 				"comment": "https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6950,7 +7472,7 @@
 				"name": "Perfect Emblem",
 				"comment": "https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6968,7 +7490,7 @@
 				"name": "Pick my Sabotage",
 				"comment": "https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -6995,6 +7517,24 @@
 						"name": "487 - Pokémblem",
 						"size": 20667228,
 						"crc": "ea9ac6a5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Prepare to Die",
+				"comment": "https://feuniverse.us/t/mafc5/9981/22",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "663 - Prepare to Die",
+						"size": 16982020,
+						"crc": "ae172eb9"
 					}
 				}
 			]
@@ -7040,7 +7580,7 @@
 				"name": "Project Ember (HM Fixed Growths)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7058,7 +7598,7 @@
 				"name": "Project Ember (HM)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7076,7 +7616,7 @@
 				"name": "Project Ember (MM 0% Growths)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7094,7 +7634,7 @@
 				"name": "Project Ember (MM Fixed Growths)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7112,7 +7652,7 @@
 				"name": "Project Ember (MM)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7130,7 +7670,7 @@
 				"name": "Project Ember (Reverse Recruitment with Trial Map units)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7148,7 +7688,7 @@
 				"name": "Project Ember (Reverse Recruitment)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7166,7 +7706,7 @@
 				"name": "Project Ember (Weapon Reversal)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7184,7 +7724,7 @@
 				"name": "Project Ember (Weapon Reversal) (Reverse Recruitment)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7202,7 +7742,7 @@
 				"name": "Project Ember (with Alternate Promotions)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7220,7 +7760,7 @@
 				"name": "Project Ember (with Alternate Promotions) (Reverse Recruitment)",
 				"comment": "https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7256,7 +7796,7 @@
 				"name": "Psychic Emblem (weapons and classes overhaul)",
 				"comment": "https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7292,7 +7832,7 @@
 				"name": "Puzon Emblem",
 				"comment": "https://feuniverse.us/t/puzon-emblem/12243",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7397,10 +7937,28 @@
 		},
 		{
 			"machine": {
+				"name": "RandomWizard's 1h Blitz - Evil Fog Wizard",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/9",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "638 - RandomWizard's 1h Blitz - Evil Fog Wizard",
+						"size": 16854120,
+						"crc": "1c3a5f22"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "RandomWizard's Two Hour Blitz",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/11",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -7436,7 +7994,7 @@
 				"name": "Rart Emblem - Saga of the Shivering Shores",
 				"comment": "https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "MAFC"
 			},
 			"items": [
 				{
@@ -7454,7 +8012,7 @@
 				"name": "Rart Emblem Zero - The Rarted Stones",
 				"comment": "https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7526,7 +8084,7 @@
 				"name": "Requiem of War",
 				"comment": "http://www.feshrine.net/hacking/patches/Requiem%20of%20War%20v1.0.ups",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7562,7 +8120,7 @@
 				"name": "Resonance",
 				"comment": "https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -7706,7 +8264,7 @@
 				"name": "Royal Army",
 				"comment": "https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7757,10 +8315,28 @@
 		},
 		{
 			"machine": {
+				"name": "Runa's 1h Blitz - jon does a thing",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/5",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "634 - Runa's 1h Blitz - jon does a thing",
+						"size": 16929492,
+						"crc": "e8ba39ee"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "S.S-Monster Mash",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-s-s-monster-mash-v1-2-4-a-modified-fe8-campaign-where-you-play-as-monster-classes-new-custom-animation-implemented/15063",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7904,7 +8480,7 @@
 				"name": "Sacred Eirika",
 				"comment": "https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7940,7 +8516,7 @@
 				"name": "Sacred Stones Death Difficulty",
 				"comment": "https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7976,7 +8552,7 @@
 				"name": "Sacred Trilogy Final -Full- Fixed Growths- No AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -7994,7 +8570,7 @@
 				"name": "Sacred Trilogy Final -Full- Fixed Growths- With AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8012,7 +8588,7 @@
 				"name": "Sacred Trilogy Final -Full- Random Growths- No AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8030,7 +8606,7 @@
 				"name": "Sacred Trilogy Final -Full- Random Growths- With AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8048,7 +8624,7 @@
 				"name": "Sacred Trilogy Final -Lite- Fixed Growths- No AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8066,7 +8642,7 @@
 				"name": "Sacred Trilogy Final -Lite- Fixed Growths- With AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8084,7 +8660,7 @@
 				"name": "Sacred Trilogy Final -Lite- Random Growths- No AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8102,7 +8678,7 @@
 				"name": "Sacred Trilogy Final -Lite- Random Growths- With AI",
 				"comment": "https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8129,6 +8705,24 @@
 						"name": "611 - Saga of the Sigilbearers",
 						"size": 18864616,
 						"crc": "a2c6e6e0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "SageMatthis's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/124",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "683 - SageMatthis's MAFC FEU It Again patch",
+						"size": 19914496,
+						"crc": "b5889999"
 					}
 				}
 			]
@@ -8261,6 +8855,60 @@
 		},
 		{
 			"machine": {
+				"name": "Shameless Reused Asset",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "654 - Shameless Reused Asset",
+						"size": 17750452,
+						"crc": "294bcf37"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Shattered Stones",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "651 - Shattered Stones",
+						"size": 17267760,
+						"crc": "db045e48"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Shep & Bluid's MAFC FEU It Again patch",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/119",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "681 - Shep & Bluid's MAFC FEU It Again patch",
+						"size": 17419672,
+						"crc": "14b155d8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Shining Armor",
 				"comment": "http://www.romhacking.net/hacks/538/",
 				"description": null,
@@ -8297,10 +8945,28 @@
 		},
 		{
 			"machine": {
+				"name": "SirNicee's 1h Blitz - Peggy the Pegasus Knight",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/7",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "636 - SirNicee's 1h Blitz - Peggy the Pegasus Knight",
+						"size": 16829684,
+						"crc": "7bc89878"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "SirNicee's Two Hour Blitz - bandits",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/4",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -8318,7 +8984,7 @@
 				"name": "SirSerenes FE8 Reskin",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8363,6 +9029,78 @@
 						"name": "215 - Slot Machine",
 						"size": 16784068,
 						"crc": "36c739f5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sme's 1h Blitz - Spooky Skeleton",
+				"comment": "https://github.com/sme23/OneHourBlitz",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "639 - Sme's 1h Blitz - Spooky Skeleton",
+						"size": 17306804,
+						"crc": "38d9e230"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sme's MAFC FEU It Again patch",
+				"comment": "https://github.com/sme23/MAFC/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "671 - Sme's MAFC FEU It Again patch",
+						"size": 16777216,
+						"crc": "568b5721"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Snake's Revenge",
+				"comment": "https://feuniverse.us/t/mafc5/9981/23",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "664 - Snake's Revenge",
+						"size": 16777216,
+						"crc": "2acfdb6b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Snow wolves",
+				"comment": "https://feuniverse.us/t/mafc5/9981/32",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "666 - Snow wolves",
+						"size": 19680736,
+						"crc": "673b65d7"
 					}
 				}
 			]
@@ -8534,7 +9272,7 @@
 				"name": "SubwayBossEmmett's Two Hour Blitz - Royal Escape",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/6",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -8588,7 +9326,7 @@
 				"name": "Sword of Seals ReDux",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8660,7 +9398,7 @@
 				"name": "Tales of the Emblem",
 				"comment": "http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8687,6 +9425,24 @@
 						"name": "422 - Tales of the Golden Knight",
 						"size": 27862300,
 						"crc": "883a1ac6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Tambo MAFC DD",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/118",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "680 - Tambo MAFC DD",
+						"size": 18445776,
+						"crc": "c2d923fb"
 					}
 				}
 			]
@@ -8729,6 +9485,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Akaneian Mafia",
+				"comment": "https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "656 - The Akaneian Mafia",
+						"size": 16777216,
+						"crc": "33e27ba8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "tHE BEGGINING",
 				"comment": "https://feuniverse.us/t/the-beggining/3572",
 				"description": null,
@@ -8750,7 +9524,7 @@
 				"name": "The Binding Bartre",
 				"comment": "https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8768,7 +9542,7 @@
 				"name": "The Binding Bartre (with effectiveness and AI fixes)",
 				"comment": "https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -8831,6 +9605,24 @@
 						"name": "412 - The Book of Eden",
 						"size": 27155364,
 						"crc": "5444a96b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Burdened Advanced",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "650 - The Burdened Advanced",
+						"size": 20998488,
+						"crc": "11e69465"
 					}
 				}
 			]
@@ -8921,6 +9713,24 @@
 						"name": "512 - The Corruption Of Roy",
 						"size": 17761716,
 						"crc": "41300a20"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Cult",
+				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/113",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "677 - The Cult",
+						"size": 17872864,
+						"crc": "22905a74"
 					}
 				}
 			]
@@ -9038,7 +9848,7 @@
 				"name": "The Empire’s Reach Revisited",
 				"comment": "https://feuniverse.us/t/the-empires-reach-revisited/6954/1",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -9101,6 +9911,24 @@
 						"name": "192 - The Final Swear 4",
 						"size": 24565116,
 						"crc": "458fb062"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Five Legends",
+				"comment": "https://feuniverse.us/t/fe8-demo-fire-emblem-the-five-legends/10327",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "665 - The Five Legends",
+						"size": 19471600,
+						"crc": "2e00aab9"
 					}
 				}
 			]
@@ -9305,6 +10133,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Marquess' Trial",
+				"comment": "https://feuniverse.us/t/mafc5/9981/19",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "661 - The Marquess' Trial",
+						"size": 17921916,
+						"crc": "a3442ac2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Nameless Heroes (English Translation)",
 				"comment": "https://feuniverse.us/t/fe8-the-nameless-heroes-9-22-update/6262",
 				"description": null,
@@ -9452,7 +10298,7 @@
 				"name": "The Sacred Ripping Anniversary Edition",
 				"comment": "https://feuniverse.us/t/the-sacred-ripping/6253",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -9470,7 +10316,7 @@
 				"name": "The Sacred Stones - FE7 Crossover",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -9575,6 +10421,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Teq Demo",
+				"comment": "Teq Chess",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "652 - The Teq Demo",
+						"size": 16777216,
+						"crc": "cde9a0dd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The White Feather",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974",
 				"description": null,
@@ -9587,6 +10451,24 @@
 						"name": "490 - The White Feather",
 						"size": 23302696,
 						"crc": "294c6150"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "There Is No Dialogue, Die",
+				"comment": "https://feuniverse.us/t/mafc5/9981/20",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "662 - There Is No Dialogue, Die",
+						"size": 17267948,
+						"crc": "06900b89"
 					}
 				}
 			]
@@ -9632,7 +10514,7 @@
 				"name": "Touhou Emblem 8 - The Sacred Shrines",
 				"comment": "https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -9722,7 +10604,7 @@
 				"name": "Unburdened Liberty",
 				"comment": "https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "MAFC"
 			},
 			"items": [
 				{
@@ -9794,7 +10676,7 @@
 				"name": "Version Elibe 776",
 				"comment": "",
 				"description": null,
-				"publisher": "Reskin"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
@@ -9803,6 +10685,24 @@
 						"name": "559 - Version Elibe 776",
 						"size": 16777216,
 						"crc": "252efd87"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/8",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry",
+						"size": 18282704,
+						"crc": "79786f56"
 					}
 				}
 			]
@@ -9830,7 +10730,7 @@
 				"name": "Void’s Blitzarre Adventure",
 				"comment": "https://github.com/FireEmblemUniverse/CCB_Round1",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -9848,7 +10748,7 @@
 				"name": "Void’s Blitzarre Adventure - Blitz Tendency",
 				"comment": "https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -9866,7 +10766,7 @@
 				"name": "Void’s Blitzarre Adventure - Blitz Tendency (debug)",
 				"comment": "https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -10025,10 +10925,46 @@
 		},
 		{
 			"machine": {
+				"name": "Xenith's MAFC4 patch",
+				"comment": "https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/57",
+				"description": null,
+				"publisher": "MAFC"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "655 - Xenith's MAFC4 patch",
+						"size": 20483620,
+						"crc": "e0ba0c18"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "XPGamesNL's 1h Blitz - The Sacred MacGuffin",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/32",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "643 - XPGamesNL's 1h Blitz - The Sacred MacGuffin",
+						"size": 16959048,
+						"crc": "d3b29462"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "XPGamesNL's Two Hour Blitz - The Town Of Neron",
 				"comment": "https://feuniverse.us/t/two-hour-blitz/13728/8",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Blitz"
 			},
 			"items": [
 				{
@@ -10109,6 +11045,24 @@
 						"name": "126 - Yuri’s Sidestory",
 						"size": 19915128,
 						"crc": "8c417a5c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Zmr's 1h Blitz - Hour of Dusk",
+				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/17",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "641 - Zmr's 1h Blitz - Hour of Dusk",
+						"size": 17312208,
+						"crc": "a3cec0b0"
 					}
 				}
 			]

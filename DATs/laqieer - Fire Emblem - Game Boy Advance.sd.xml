@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220321</version>
+		<version>20220322</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -226,7 +226,7 @@
 			<machine>
 				<name>Alternate Stones</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/67233-fe-8-the-alternate-stones/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -234,6 +234,21 @@
 					<name>449 - Alternate Stones</name>
 					<size>18583756</size>
 					<crc>9acefc25</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>AnonymousSpeed's 1h Blitz - Valternate Universe</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/92869-one-hour-blitz/</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>647 - AnonymousSpeed's 1h Blitz - Valternate Universe</name>
+					<size>16791084</size>
+					<crc>d21a353f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -271,7 +286,7 @@
 			<machine>
 				<name>Armour Emblem</name>
 				<comment>https://feuniverse.us/t/side-project-armor-emblem-fe8/7151</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -391,7 +406,7 @@
 			<machine>
 				<name>Auto Emblem</name>
 				<comment>http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -481,7 +496,7 @@
 			<machine>
 				<name>Bartre Emblem</name>
 				<comment>https://feuniverse.us/t/bartre-emblem-fe7-the-way-it-was-meant-to-be-played/8238</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -519,6 +534,21 @@
 					<name>224 - Battle Against Vallui</name>
 					<size>18375244</size>
 					<crc>d72b1607</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Battle for Galdea</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/100</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>673 - Battle for Galdea</name>
+					<size>17342564</size>
+					<crc>6c665432</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -644,6 +674,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Blades of the Blood Dunes</name>
+				<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>657 - Blades of the Blood Dunes</name>
+					<size>18265128</size>
+					<crc>4468049f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Blades of the Blood Dunes (April Fools’)</name>
+				<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>658 - Blades of the Blood Dunes (April Fools’)</name>
+					<size>18276532</size>
+					<crc>026be121</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Blazer’s One Day Hack</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/32943-fire-emblem-one-day-hack/</comment>
 				<publisher>Fan Modding</publisher>
@@ -736,7 +796,7 @@
 			<machine>
 				<name>BobbyYukitsuki's Two Hour Blitz</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/14</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -779,9 +839,24 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>BoxWhatBox</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/93</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>672 - BoxWhatBox</name>
+					<size>17267760</size>
+					<crc>3026f352</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Broken Emblem</name>
 				<comment>https://feuniverse.us/t/fe-6-broken-emblem-wiki-fire-emblem-amino/5818</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -841,7 +916,7 @@
 			<machine>
 				<name>Cancer Emblem 0 - Joke Hack</name>
 				<comment>https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -856,7 +931,7 @@
 			<machine>
 				<name>Cancer Emblem 1 - Dazzle-Lunge Emblem</name>
 				<comment>https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -871,7 +946,7 @@
 			<machine>
 				<name>Cancer Emblem 2 - Min-Max Emblem</name>
 				<comment>https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -944,6 +1019,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Clendo's 1h Blitz - Faltharian Heist</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/34</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>645 - Clendo's 1h Blitz - Faltharian Heist</name>
+					<size>16889240</size>
+					<crc>5ec26df2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Code of the Burger King</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690</comment>
 				<publisher>Fan Modding</publisher>
@@ -976,7 +1066,7 @@
 			<machine>
 				<name>Communist Emblem 2 - Venezuela</name>
 				<comment>https://feuniverse.us/t/communist-emblem-2-venezuela/3573</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -991,7 +1081,7 @@
 			<machine>
 				<name>Community Blitz 5 - Redemption</name>
 				<comment>https://github.com/Peer56/CommunityBlitz5</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1126,7 +1216,7 @@
 			<machine>
 				<name>Darion’s Blazing Sword (Eliwood mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1141,7 +1231,7 @@
 			<machine>
 				<name>Darion’s Blazing Sword (Hector mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1199,6 +1289,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>DarkChibimon's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/112</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>676 - DarkChibimon's MAFC FEU It Again patch</name>
+					<size>16925640</size>
+					<crc>af667ed7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/6</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>635 - Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff</name>
+					<size>18213660</size>
+					<crc>a9a31beb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Dawn of Destiny</name>
 				<comment>https://feuniverse.us/t/the-dawn-of-destiny/7221</comment>
 				<publisher>Fan Modding</publisher>
@@ -1229,6 +1349,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Days of Beta Past</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>648 - Days of Beta Past</name>
+					<size>22314492</size>
+					<crc>f4b17e5e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Decay of the Fangs</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/</comment>
 				<publisher>Fan Modding</publisher>
@@ -1244,9 +1379,24 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Defense Mission</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>653 - Defense Mission</name>
+					<size>33555892</size>
+					<crc>35a357bc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Degeneration Emblem</name>
 				<comment>https://feuniverse.us/t/degeneration-emblem/3202</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1351,7 +1501,7 @@
 			<machine>
 				<name>Devourer of Time (Hard mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1366,7 +1516,7 @@
 			<machine>
 				<name>Devourer of Time (Normal mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1381,7 +1531,7 @@
 			<machine>
 				<name>Different Dimensions Ostian Princess</name>
 				<comment>http://www.romhacking.net/hacks/432/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1404,6 +1554,21 @@
 					<name>618 - Dirge of the Departed</name>
 					<size>17584264</size>
 					<crc>98ed0044</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Disregarding Eighth</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/123</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>682 - Disregarding Eighth</name>
+					<size>16920324</size>
+					<crc>a3f7fa41</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1469,9 +1634,39 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>DonkinDo's 1h Blitz - My lil sis turned into a dancer</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/37</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>646 - DonkinDo's 1h Blitz - My lil sis turned into a dancer</name>
+					<size>18152692</size>
+					<crc>0b9c3f91</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Doorway of the Fang</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/117</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>679 - Doorway of the Fang</name>
+					<size>18641452</size>
+					<crc>5b9cc568</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Dorcas Emblem 2</name>
 				<comment>https://feuniverse.us/t/dorcas-emblem-2-1/3092</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1494,6 +1689,21 @@
 					<name>491 - Doubled or Nothing</name>
 					<size>19242308</size>
 					<crc>bff057cf</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Down to my Level</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>649 - Down to my Level</name>
+					<size>16777216</size>
+					<crc>760542af</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1606,7 +1816,7 @@
 			<machine>
 				<name>Encryption20's Patch</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/encryption20s-the-sacred-stones/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1786,7 +1996,7 @@
 			<machine>
 				<name>FE6 All Mounts</name>
 				<comment>https://feuniverse.us/t/fe6-all-mounts/6313</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1801,7 +2011,7 @@
 			<machine>
 				<name>FE6 Boss Recruitment</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1816,7 +2026,7 @@
 			<machine>
 				<name>FE6 BugFixEdition</name>
 				<comment>https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1831,7 +2041,7 @@
 			<machine>
 				<name>FE6 BugFixEdition (Plus11AFixes)</name>
 				<comment>https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1846,7 +2056,7 @@
 			<machine>
 				<name>FE6 BugFixEdition (ReduxVers)</name>
 				<comment>https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1861,7 +2071,7 @@
 			<machine>
 				<name>FE6 BugFixEdition (Strong Enemies)</name>
 				<comment>https://feuniverse.us/t/fe6-bugfixedition-9-3-2022-silence-fix-fixed/14208</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1876,7 +2086,7 @@
 			<machine>
 				<name>FE6 But Everything Hits</name>
 				<comment>https://feuniverse.us/t/fe6-but-everything-hits/14008</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1891,7 +2101,7 @@
 			<machine>
 				<name>FE6 But Everything Hits (Average Growths Mode)</name>
 				<comment>https://feuniverse.us/t/fe6-but-everything-hits/14008</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1906,7 +2116,7 @@
 			<machine>
 				<name>FE6 But Everything Hits (Maximum Growths Mode)</name>
 				<comment>https://feuniverse.us/t/fe6-but-everything-hits/14008</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1921,7 +2131,7 @@
 			<machine>
 				<name>FE6 But Everything Hits (Minimum Growths Mode)</name>
 				<comment>https://feuniverse.us/t/fe6-but-everything-hits/14008</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1936,7 +2146,7 @@
 			<machine>
 				<name>FE6 Google Translated</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1951,7 +2161,7 @@
 			<machine>
 				<name>FE6 has DSFE movement</name>
 				<comment>https://feuniverse.us/t/fire-emblem-the-binding-blade-but-it-has-dsfe-movement/13067</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1966,7 +2176,7 @@
 			<machine>
 				<name>FE6 Incandescence Edition</name>
 				<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1981,7 +2191,7 @@
 			<machine>
 				<name>FE6 Negative Growths</name>
 				<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -1996,7 +2206,7 @@
 			<machine>
 				<name>FE6 Negative Growths (English)</name>
 				<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2011,7 +2221,7 @@
 			<machine>
 				<name>FE6 No Redundancy Edition</name>
 				<comment>https://feuniverse.us/t/fe6-no-redundancy-edition/12138</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2026,7 +2236,7 @@
 			<machine>
 				<name>FE6 Numbers Patch</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/54110-fe6-numbers-patch-v21-fe6-with-almost-no-ambush-spawns-hm-bonuses-for-more-units-fe7-values-and-more/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2041,7 +2251,7 @@
 			<machine>
 				<name>FE6 Promoted Mode</name>
 				<comment>https://feuniverse.us/t/fe6-promoted-mode/8469</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2056,7 +2266,7 @@
 			<machine>
 				<name>FE6 Rapid Rebalance</name>
 				<comment>https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2071,7 +2281,7 @@
 			<machine>
 				<name>FE6 Real War Chronicles</name>
 				<comment>http://www.feshrine.net/hacking/patches/Real%20War%20Chronicles.ups</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2086,7 +2296,7 @@
 			<machine>
 				<name>FE6 Recoloured</name>
 				<comment>https://feuniverse.us/t/fe6-recolored/6383</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2101,7 +2311,7 @@
 			<machine>
 				<name>FE6 Refurbished</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2116,7 +2326,7 @@
 			<machine>
 				<name>FE6 rom with HM bonuses for everyone</name>
 				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2131,7 +2341,7 @@
 			<machine>
 				<name>FE6 The Divine War</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2146,7 +2356,7 @@
 			<machine>
 				<name>FE6 Unfair and Bad</name>
 				<comment>https://feuniverse.us/t/fe6-but-unfair-and-bad/6541</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2161,7 +2371,7 @@
 			<machine>
 				<name>FE6 Unit Swap (Balanced)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2176,7 +2386,7 @@
 			<machine>
 				<name>FE6 Unit Swap (Hard)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2191,7 +2401,7 @@
 			<machine>
 				<name>FE6 Weapon Reversal</name>
 				<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2206,7 +2416,7 @@
 			<machine>
 				<name>FE6 Weapon Reversal (Without Weapon Changes)</name>
 				<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2221,7 +2431,7 @@
 			<machine>
 				<name>FE6 with no HM bonuses</name>
 				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2236,7 +2446,7 @@
 			<machine>
 				<name>FE6 with some double HM bonuses</name>
 				<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2251,7 +2461,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7 (0% Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2266,7 +2476,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7 (1% Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2281,7 +2491,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7 (2xHard Mode)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2296,7 +2506,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7 (100% Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2311,7 +2521,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7 (Fixed Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2326,7 +2536,7 @@
 			<machine>
 				<name>FE6-CharSwap-FE7</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2356,7 +2566,7 @@
 			<machine>
 				<name>FE7 Boss Recruitment</name>
 				<comment>https://feuniverse.us/t/fe7-boss-recruitment-v1-8-as-of-11-10-21/12962</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2371,7 +2581,7 @@
 			<machine>
 				<name>FE7 Chaos Mode</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2386,7 +2596,7 @@
 			<machine>
 				<name>FE7 Heroes</name>
 				<comment>https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2401,7 +2611,7 @@
 			<machine>
 				<name>FE7 Inflation</name>
 				<comment>ファイアーエムブレム 烈火の剣inflation Ver.20090517</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2416,7 +2626,7 @@
 			<machine>
 				<name>FE7 Leila Edition</name>
 				<comment>http://www.feshrine.net/forums/index.php?showtopic=4844</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2431,7 +2641,7 @@
 			<machine>
 				<name>FE7 Lute Mode</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2446,7 +2656,7 @@
 			<machine>
 				<name>FE7 Lyn Hard Mode Redux</name>
 				<comment>https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2461,7 +2671,7 @@
 			<machine>
 				<name>FE7 Lyn Hard Mode Redux JP</name>
 				<comment>https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2506,7 +2716,7 @@
 			<machine>
 				<name>FE8 All Weapons are Devil Weapons</name>
 				<comment>https://github.com/Adamminn/FE8-devil-weapons</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2521,7 +2731,7 @@
 			<machine>
 				<name>FE8 Beta Test 1</name>
 				<comment>http://www.feshrine.net/forums/index.php?showtopic=4894</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2536,7 +2746,7 @@
 			<machine>
 				<name>FE8 Boss Recruitment (Ephraim Route)</name>
 				<comment>https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2551,7 +2761,7 @@
 			<machine>
 				<name>FE8 Changes Lite</name>
 				<comment>https://feuniverse.us/t/fe8-changes-lite-patch/8874</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2566,7 +2776,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Normal recruitment, original base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2581,7 +2791,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2596,7 +2806,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Random recruitment, original base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2611,7 +2821,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Random recruitment, randomized base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2626,7 +2836,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Reverse recruitment, original base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2641,7 +2851,7 @@
 			<machine>
 				<name>FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</name>
 				<comment>https://feuniverse.us/t/fe8-chaos-randomizer/2068</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2656,7 +2866,7 @@
 			<machine>
 				<name>FE8 Creature Campaign Reverse Recruitment (Eirika)</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2671,7 +2881,7 @@
 			<machine>
 				<name>FE8 Creature Campaign Reverse Recruitment (Ephraim)</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/63349-matthewthemans-fe8-creature-campaign-reverse-recruitment-version-31/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2686,7 +2896,7 @@
 			<machine>
 				<name>FE8 Darion's Mode</name>
 				<comment>http://www.serenesforest.net/download/FE8patchfinal2.ips</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2701,7 +2911,7 @@
 			<machine>
 				<name>FE8 Fanmade Directors Cut</name>
 				<comment>https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2716,7 +2926,7 @@
 			<machine>
 				<name>FE8 Lyn Windy</name>
 				<comment>リーンの風</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2731,7 +2941,7 @@
 			<machine>
 				<name>FE8 Maniac Mode</name>
 				<comment>https://feuniverse.us/t/fe8mm-version-2/7677</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2746,7 +2956,7 @@
 			<machine>
 				<name>FE8 Master Version</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/58795-fe8-master-version/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2791,7 +3001,7 @@
 			<machine>
 				<name>FE8 Monster Quest</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/27680-fire-emlem-monster-quest/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2806,7 +3016,7 @@
 			<machine>
 				<name>FE8 Negative Growths</name>
 				<comment>https://feuniverse.us/t/fe8-negative-growths/4547</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2821,7 +3031,7 @@
 			<machine>
 				<name>FE8 Oops, All Archers!</name>
 				<comment>https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2836,7 +3046,7 @@
 			<machine>
 				<name>FE8 Project Dark</name>
 				<comment>https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2851,7 +3061,7 @@
 			<machine>
 				<name>FE8 QoL Edition</name>
 				<comment>https://feuniverse.us/t/fe8-qol-edition/3509</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2866,7 +3076,7 @@
 			<machine>
 				<name>FE8 Redux</name>
 				<comment>https://feuniverse.us/t/fe8-redux-v2-1-complete/13751</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2881,7 +3091,7 @@
 			<machine>
 				<name>FE8 Remix</name>
 				<comment>https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2896,7 +3106,7 @@
 			<machine>
 				<name>FE8 Reunion</name>
 				<comment />
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2911,7 +3121,7 @@
 			<machine>
 				<name>FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2926,7 +3136,7 @@
 			<machine>
 				<name>FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2941,7 +3151,7 @@
 			<machine>
 				<name>FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-self-randomizer-reverse-recruitment-edition/6523</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2956,7 +3166,7 @@
 			<machine>
 				<name>FE8 The Fallen Princess</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2971,7 +3181,7 @@
 			<machine>
 				<name>FE8 Totally Vanilla</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/67572-fe8-totally-vanilla/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -2986,7 +3196,7 @@
 			<machine>
 				<name>FE8 Weapon Reversal</name>
 				<comment>https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3001,7 +3211,7 @@
 			<machine>
 				<name>FE8 Wild Mode</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-wild-mode/6361</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3016,7 +3226,7 @@
 			<machine>
 				<name>FE8 with FE4 Graphics (map sprites)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3031,7 +3241,7 @@
 			<machine>
 				<name>FE8 with FE4 Graphics (weapon icons)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe4-graphics/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3076,7 +3286,7 @@
 			<machine>
 				<name>FE8BEWHABEWAASAHIHI</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3091,7 +3301,7 @@
 			<machine>
 				<name>FE8ESHGBTGISTTM</name>
 				<comment>https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3106,7 +3316,7 @@
 			<machine>
 				<name>FE8Re(gret)</name>
 				<comment>https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3301,7 +3511,7 @@
 			<machine>
 				<name>FE聖魔 適当に改造 まるっと全部修正</name>
 				<comment />
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3346,7 +3556,7 @@
 			<machine>
 				<name>Fire Emblem 6.7</name>
 				<comment>https://feuniverse.us/t/fe6-fire-emblem-6-7/9138</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3466,7 +3676,7 @@
 			<machine>
 				<name>Fire Emblem - Barhara Revisited</name>
 				<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>MAFC</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -3781,7 +3991,7 @@
 			<machine>
 				<name>Fire Emblem - Reawakening</name>
 				<comment>https://feuniverse.us/t/community-blitz-4-reawakening-version-1-0-out/5952</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4066,7 +4276,7 @@
 			<machine>
 				<name>Fire Emblem - The Binding Blade Extreme</name>
 				<comment>https://feuniverse.us/t/fire-emblem-the-binding-blade-extreme/5722</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4246,7 +4456,7 @@
 			<machine>
 				<name>Fire Emblem - Will of Good and Evil</name>
 				<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4426,7 +4636,7 @@
 			<machine>
 				<name>Fire Memeblem 0</name>
 				<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4441,7 +4651,7 @@
 			<machine>
 				<name>Fire Memeblem True 0</name>
 				<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4449,6 +4659,21 @@
 					<name>336 - Fire Memeblem True 0</name>
 					<size>16777332</size>
 					<crc>e25c779f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Flame Seal - The Knight of Light</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/115</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>678 - Flame Seal - The Knight of Light</name>
+					<size>26350620</size>
+					<crc>94588dc5</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4531,7 +4756,7 @@
 			<machine>
 				<name>Fort Mangs Emblem</name>
 				<comment>https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4539,6 +4764,21 @@
 					<name>394 - Fort Mangs Emblem</name>
 					<size>20269072</size>
 					<crc>cadc97eb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fort Nunya</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/14</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>660 - Fort Nunya</name>
+					<size>17482308</size>
+					<crc>2b094a34</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4576,7 +4816,7 @@
 			<machine>
 				<name>Frog's Two Hour Blitz - Steel</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/3</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4651,7 +4891,7 @@
 			<machine>
 				<name>GhebFE</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -4689,6 +4929,36 @@
 					<name>249 - Grand Archipelago</name>
 					<size>19579000</size>
 					<crc>14b61c7e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>GratedShtick's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/72</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>667 - GratedShtick's MAFC FEU It Again patch</name>
+					<size>18122108</size>
+					<crc>b6f5a96c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>GreatBeast</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/111</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>675 - GreatBeast</name>
+					<size>17035300</size>
+					<crc>f0d3c231</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4951,7 +5221,7 @@
 			<machine>
 				<name>jellyunicorn's Two Hour Blitz - bungus badventure</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/7</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5219,6 +5489,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Legend of the Lost Mugs</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/12</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>659 - Legend of the Lost Mugs</name>
+					<size>17118056</size>
+					<crc>bbb2081c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Legends of Avenir</name>
 				<comment>https://github.com/Snakey11/Legends-of-Avenir</comment>
 				<publisher>Fan Modding</publisher>
@@ -5266,7 +5551,7 @@
 			<machine>
 				<name>Lord Weapons Patch Rebalance</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/83702-blazing-blade-lords-weapon-patch/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5281,7 +5566,7 @@
 			<machine>
 				<name>Lute Emblem - The Sacred Lutes</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5296,7 +5581,7 @@
 			<machine>
 				<name>Lyn Emblem</name>
 				<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5341,7 +5626,7 @@
 			<machine>
 				<name>MageKnight404's FE7 Hack</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/8617-mk404s-fe7-hack/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5461,7 +5746,7 @@
 			<machine>
 				<name>Midnight Eclipse (Joke hack)</name>
 				<comment>https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5534,9 +5819,39 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>MrGreen3339's 1h Blitz - game</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/4</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>633 - MrGreen3339's 1h Blitz - game</name>
+					<size>16821636</size>
+					<crc>080365df</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>MrGreen3339's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/73</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>668 - MrGreen3339's MAFC FEU It Again patch</name>
+					<size>18008524</size>
+					<crc>c0a84bb0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>MrGreen3339's Two Hour Blitz - Vyland vs Matthis</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/10</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5544,6 +5859,36 @@
 					<name>607 - MrGreen3339's Two Hour Blitz - Vyland vs Matthis</name>
 					<size>16815668</size>
 					<crc>9e5cfd9a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>MVPMaster's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/125</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>684 - MVPMaster's MAFC FEU It Again patch</name>
+					<size>17016488</size>
+					<crc>605abdd8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Mycahel's 1h Blitz - Endless Dream</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/13</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>640 - Mycahel's 1h Blitz - Endless Dream</name>
+					<size>16802292</size>
+					<crc>9bd86faa</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5564,6 +5909,51 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Myrrh Goes To Mc Donalds</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/103</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>674 - Myrrh Goes To Mc Donalds</name>
+					<size>16876620</size>
+					<crc>7dab34e7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>MysteriousDancer's 1h Blitz - Questionable Innocence</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/33</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>644 - MysteriousDancer's 1h Blitz - Questionable Innocence</name>
+					<size>16841120</size>
+					<crc>2181ccac</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Mystic's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/128</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>685 - Mystic's MAFC FEU It Again patch</name>
+					<size>16777216</size>
+					<crc>4d217204</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Mythgraven</name>
 				<comment>https://feuniverse.us/t/fe8-mythgraven-prologue-ch-3/11039</comment>
 				<publisher>Fan Modding</publisher>
@@ -5574,6 +5964,21 @@
 					<name>624 - Mythgraven</name>
 					<size>23670068</size>
 					<crc>bc28fd5d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Nabatas Ghost</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/74</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>669 - Nabatas Ghost</name>
+					<size>18133972</size>
+					<crc>3f42621f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5656,7 +6061,7 @@
 			<machine>
 				<name>Not Fire Emblem 8</name>
 				<comment>https://feuniverse.us/t/fe8-shitpost-hack-not-fire-emblem-8/6030</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5679,6 +6084,21 @@
 					<name>413 - OC Emblem</name>
 					<size>21489356</size>
 					<crc>5f29fe04</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>OC Emblem - Endgame</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/75</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>670 - OC Emblem - Endgame</name>
+					<size>20235124</size>
+					<crc>724d68da</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5746,7 +6166,7 @@
 			<machine>
 				<name>Oops! All Sophias</name>
 				<comment>https://feuniverse.us/t/oops-all-sophias/10190</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5754,6 +6174,21 @@
 					<name>329 - Oops! All Sophias</name>
 					<size>16777532</size>
 					<crc>527bbabc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Pandan's 1h Blitz</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/31</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>642 - Pandan's 1h Blitz</name>
+					<size>18101564</size>
+					<crc>49578a86</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5776,7 +6211,7 @@
 			<machine>
 				<name>Path of a Hero</name>
 				<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5806,7 +6241,7 @@
 			<machine>
 				<name>Perfect Emblem</name>
 				<comment>https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5821,7 +6256,7 @@
 			<machine>
 				<name>Pick my Sabotage</name>
 				<comment>https://feuniverse.us/t/fe7u-pick-my-sabotage-completed/6786</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5844,6 +6279,21 @@
 					<name>487 - Pokémblem</name>
 					<size>20667228</size>
 					<crc>ea9ac6a5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Prepare to Die</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/22</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>663 - Prepare to Die</name>
+					<size>16982020</size>
+					<crc>ae172eb9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5881,7 +6331,7 @@
 			<machine>
 				<name>Project Ember (HM Fixed Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5896,7 +6346,7 @@
 			<machine>
 				<name>Project Ember (HM)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5911,7 +6361,7 @@
 			<machine>
 				<name>Project Ember (MM 0% Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5926,7 +6376,7 @@
 			<machine>
 				<name>Project Ember (MM Fixed Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5941,7 +6391,7 @@
 			<machine>
 				<name>Project Ember (MM)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5956,7 +6406,7 @@
 			<machine>
 				<name>Project Ember (Reverse Recruitment with Trial Map units)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5971,7 +6421,7 @@
 			<machine>
 				<name>Project Ember (Reverse Recruitment)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -5986,7 +6436,7 @@
 			<machine>
 				<name>Project Ember (Weapon Reversal)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6001,7 +6451,7 @@
 			<machine>
 				<name>Project Ember (Weapon Reversal) (Reverse Recruitment)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6016,7 +6466,7 @@
 			<machine>
 				<name>Project Ember (with Alternate Promotions)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6031,7 +6481,7 @@
 			<machine>
 				<name>Project Ember (with Alternate Promotions) (Reverse Recruitment)</name>
 				<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6061,7 +6511,7 @@
 			<machine>
 				<name>Psychic Emblem (weapons and classes overhaul)</name>
 				<comment>https://feuniverse.us/t/fe8-psychic-emblem-a-sacred-stones-reskin-that-overhauls-the-weapon-class-system-complete/7931</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6091,7 +6541,7 @@
 			<machine>
 				<name>Puzon Emblem</name>
 				<comment>https://feuniverse.us/t/puzon-emblem/12243</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6179,9 +6629,24 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>RandomWizard's 1h Blitz - Evil Fog Wizard</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/9</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>638 - RandomWizard's 1h Blitz - Evil Fog Wizard</name>
+					<size>16854120</size>
+					<crc>1c3a5f22</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>RandomWizard's Two Hour Blitz</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/11</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6211,7 +6676,7 @@
 			<machine>
 				<name>Rart Emblem - Saga of the Shivering Shores</name>
 				<comment>https://feuniverse.us/t/fe8-hack-re-saga-of-the-shivering-shores/6597</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>MAFC</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6226,7 +6691,7 @@
 			<machine>
 				<name>Rart Emblem Zero - The Rarted Stones</name>
 				<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6286,7 +6751,7 @@
 			<machine>
 				<name>Requiem of War</name>
 				<comment>http://www.feshrine.net/hacking/patches/Requiem%20of%20War%20v1.0.ups</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6316,7 +6781,7 @@
 			<machine>
 				<name>Resonance</name>
 				<comment>https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6436,7 +6901,7 @@
 			<machine>
 				<name>Royal Army</name>
 				<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6479,9 +6944,24 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Runa's 1h Blitz - jon does a thing</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/5</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>634 - Runa's 1h Blitz - jon does a thing</name>
+					<size>16929492</size>
+					<crc>e8ba39ee</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>S.S-Monster Mash</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-s-s-monster-mash-v1-2-4-a-modified-fe8-campaign-where-you-play-as-monster-classes-new-custom-animation-implemented/15063</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6601,7 +7081,7 @@
 			<machine>
 				<name>Sacred Eirika</name>
 				<comment>https://feuniverse.us/t/sacred-erika-the-erika-emblem-project/5723</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6631,7 +7111,7 @@
 			<machine>
 				<name>Sacred Stones Death Difficulty</name>
 				<comment>https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6661,7 +7141,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Full- Fixed Growths- No AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6676,7 +7156,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Full- Fixed Growths- With AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6691,7 +7171,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Full- Random Growths- No AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6706,7 +7186,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Full- Random Growths- With AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6721,7 +7201,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Lite- Fixed Growths- No AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6736,7 +7216,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Lite- Fixed Growths- With AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6751,7 +7231,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Lite- Random Growths- No AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6766,7 +7246,7 @@
 			<machine>
 				<name>Sacred Trilogy Final -Lite- Random Growths- With AI</name>
 				<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6789,6 +7269,21 @@
 					<name>611 - Saga of the Sigilbearers</name>
 					<size>18864616</size>
 					<crc>a2c6e6e0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>SageMatthis's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/124</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>683 - SageMatthis's MAFC FEU It Again patch</name>
+					<size>19914496</size>
+					<crc>b5889999</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6899,6 +7394,51 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Shameless Reused Asset</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>654 - Shameless Reused Asset</name>
+					<size>17750452</size>
+					<crc>294bcf37</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Shattered Stones</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>651 - Shattered Stones</name>
+					<size>17267760</size>
+					<crc>db045e48</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Shep &amp; Bluid's MAFC FEU It Again patch</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/119</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>681 - Shep &amp; Bluid's MAFC FEU It Again patch</name>
+					<size>17419672</size>
+					<crc>14b155d8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Shining Armor</name>
 				<comment>http://www.romhacking.net/hacks/538/</comment>
 				<publisher>Fan Modding</publisher>
@@ -6929,9 +7469,24 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>SirNicee's 1h Blitz - Peggy the Pegasus Knight</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/7</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>636 - SirNicee's 1h Blitz - Peggy the Pegasus Knight</name>
+					<size>16829684</size>
+					<crc>7bc89878</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>SirNicee's Two Hour Blitz - bandits</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/4</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6946,7 +7501,7 @@
 			<machine>
 				<name>SirSerenes FE8 Reskin</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -6984,6 +7539,66 @@
 					<name>215 - Slot Machine</name>
 					<size>16784068</size>
 					<crc>36c739f5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sme's 1h Blitz - Spooky Skeleton</name>
+				<comment>https://github.com/sme23/OneHourBlitz</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>639 - Sme's 1h Blitz - Spooky Skeleton</name>
+					<size>17306804</size>
+					<crc>38d9e230</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sme's MAFC FEU It Again patch</name>
+				<comment>https://github.com/sme23/MAFC/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>671 - Sme's MAFC FEU It Again patch</name>
+					<size>16777216</size>
+					<crc>568b5721</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Snake's Revenge</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/23</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>664 - Snake's Revenge</name>
+					<size>16777216</size>
+					<crc>2acfdb6b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Snow wolves</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/32</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>666 - Snow wolves</name>
+					<size>19680736</size>
+					<crc>673b65d7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7126,7 +7741,7 @@
 			<machine>
 				<name>SubwayBossEmmett's Two Hour Blitz - Royal Escape</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/6</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7171,7 +7786,7 @@
 			<machine>
 				<name>Sword of Seals ReDux</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/34333-sword-of-seals-fe6-redux/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7231,7 +7846,7 @@
 			<machine>
 				<name>Tales of the Emblem</name>
 				<comment>http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7254,6 +7869,21 @@
 					<name>422 - Tales of the Golden Knight</name>
 					<size>27862300</size>
 					<crc>883a1ac6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Tambo MAFC DD</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/118</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>680 - Tambo MAFC DD</name>
+					<size>18445776</size>
+					<crc>c2d923fb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7289,6 +7919,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Akaneian Mafia</name>
+				<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>656 - The Akaneian Mafia</name>
+					<size>16777216</size>
+					<crc>33e27ba8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>tHE BEGGINING</name>
 				<comment>https://feuniverse.us/t/the-beggining/3572</comment>
 				<publisher>Fan Modding</publisher>
@@ -7306,7 +7951,7 @@
 			<machine>
 				<name>The Binding Bartre</name>
 				<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7321,7 +7966,7 @@
 			<machine>
 				<name>The Binding Bartre (with effectiveness and AI fixes)</name>
 				<comment>https://feuniverse.us/t/bartre-emblem-the-binding-bartre/8427</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7374,6 +8019,21 @@
 					<name>412 - The Book of Eden</name>
 					<size>27155364</size>
 					<crc>5444a96b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Burdened Advanced</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>650 - The Burdened Advanced</name>
+					<size>20998488</size>
+					<crc>11e69465</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7449,6 +8109,21 @@
 					<name>512 - The Corruption Of Roy</name>
 					<size>17761716</size>
 					<crc>41300a20</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Cult</name>
+				<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/113</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>677 - The Cult</name>
+					<size>17872864</size>
+					<crc>22905a74</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7546,7 +8221,7 @@
 			<machine>
 				<name>The Empire’s Reach Revisited</name>
 				<comment>https://feuniverse.us/t/the-empires-reach-revisited/6954/1</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7599,6 +8274,21 @@
 					<name>192 - The Final Swear 4</name>
 					<size>24565116</size>
 					<crc>458fb062</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Five Legends</name>
+				<comment>https://feuniverse.us/t/fe8-demo-fire-emblem-the-five-legends/10327</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>665 - The Five Legends</name>
+					<size>19471600</size>
+					<crc>2e00aab9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7769,6 +8459,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Marquess' Trial</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/19</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>661 - The Marquess' Trial</name>
+					<size>17921916</size>
+					<crc>a3442ac2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Nameless Heroes (English Translation)</name>
 				<comment>https://feuniverse.us/t/fe8-the-nameless-heroes-9-22-update/6262</comment>
 				<publisher>Fan Modding</publisher>
@@ -7891,7 +8596,7 @@
 			<machine>
 				<name>The Sacred Ripping Anniversary Edition</name>
 				<comment>https://feuniverse.us/t/the-sacred-ripping/6253</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7906,7 +8611,7 @@
 			<machine>
 				<name>The Sacred Stones - FE7 Crossover</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -7994,6 +8699,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Teq Demo</name>
+				<comment>Teq Chess</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>652 - The Teq Demo</name>
+					<size>16777216</size>
+					<crc>cde9a0dd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The White Feather</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974</comment>
 				<publisher>Fan Modding</publisher>
@@ -8004,6 +8724,21 @@
 					<name>490 - The White Feather</name>
 					<size>23302696</size>
 					<crc>294c6150</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>There Is No Dialogue, Die</name>
+				<comment>https://feuniverse.us/t/mafc5/9981/20</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>662 - There Is No Dialogue, Die</name>
+					<size>17267948</size>
+					<crc>06900b89</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8041,7 +8776,7 @@
 			<machine>
 				<name>Touhou Emblem 8 - The Sacred Shrines</name>
 				<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8116,7 +8851,7 @@
 			<machine>
 				<name>Unburdened Liberty</name>
 				<comment>https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>MAFC</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8176,7 +8911,7 @@
 			<machine>
 				<name>Version Elibe 776</name>
 				<comment />
-				<publisher>Reskin</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8184,6 +8919,21 @@
 					<name>559 - Version Elibe 776</name>
 					<size>16777216</size>
 					<crc>252efd87</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/8</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry</name>
+					<size>18282704</size>
+					<crc>79786f56</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8206,7 +8956,7 @@
 			<machine>
 				<name>Void’s Blitzarre Adventure</name>
 				<comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8221,7 +8971,7 @@
 			<machine>
 				<name>Void’s Blitzarre Adventure - Blitz Tendency</name>
 				<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8236,7 +8986,7 @@
 			<machine>
 				<name>Void’s Blitzarre Adventure - Blitz Tendency (debug)</name>
 				<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8369,9 +9119,39 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Xenith's MAFC4 patch</name>
+				<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/57</comment>
+				<publisher>MAFC</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>655 - Xenith's MAFC4 patch</name>
+					<size>20483620</size>
+					<crc>e0ba0c18</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>XPGamesNL's 1h Blitz - The Sacred MacGuffin</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/32</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>643 - XPGamesNL's 1h Blitz - The Sacred MacGuffin</name>
+					<size>16959048</size>
+					<crc>d3b29462</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>XPGamesNL's Two Hour Blitz - The Town Of Neron</name>
 				<comment>https://feuniverse.us/t/two-hour-blitz/13728/8</comment>
-				<publisher>Fan Modding</publisher>
+				<publisher>Blitz</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
@@ -8439,6 +9219,21 @@
 					<name>126 - Yuri’s Sidestory</name>
 					<size>19915128</size>
 					<crc>8c417a5c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Zmr's 1h Blitz - Hour of Dusk</name>
+				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/17</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>641 - Zmr's 1h Blitz - Hour of Dusk</name>
+					<size>17312208</size>
+					<crc>a3cec0b0</crc>
 				</datitem>
 			</files>
 		</directory>

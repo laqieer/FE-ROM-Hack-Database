@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>562</datVersion>
+		<datVersion>615</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -191,7 +191,7 @@
 			<title>449 - Alternate Stones</title>
 			<saveType>None</saveType>
 			<romSize>18583756</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -201,6 +201,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/67233-fe-8-the-alternate-stones/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>647 - AnonymousSpeed's 1h Blitz - Valternate Universe</title>
+			<saveType>None</saveType>
+			<romSize>16791084</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D21A353F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/92869-one-hour-blitz/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -245,7 +263,7 @@
 			<title>390 - Armour Emblem</title>
 			<saveType>None</saveType>
 			<romSize>19049856</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -389,7 +407,7 @@
 			<title>499 - Auto Emblem</title>
 			<saveType>None</saveType>
 			<romSize>21952164</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -497,7 +515,7 @@
 			<title>343 - Bartre Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16898080</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -543,6 +561,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-battle-against-vallui/11760</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>673 - Battle for Galdea</title>
+			<saveType>None</saveType>
+			<romSize>17342564</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6C665432</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/100</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -693,6 +729,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>657 - Blades of the Blood Dunes</title>
+			<saveType>None</saveType>
+			<romSize>18265128</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4468049F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>658 - Blades of the Blood Dunes (April Fools’)</title>
+			<saveType>None</saveType>
+			<romSize>18276532</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">026BE121</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>127 - Blazer’s One Day Hack</title>
 			<saveType>None</saveType>
 			<romSize>20983928</romSize>
@@ -804,7 +876,7 @@
 			<title>609 - BobbyYukitsuki's Two Hour Blitz</title>
 			<saveType>None</saveType>
 			<romSize>16959508</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -855,10 +927,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>672 - BoxWhatBox</title>
+			<saveType>None</saveType>
+			<romSize>17267760</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3026F352</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/93</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>296 - Broken Emblem</title>
 			<saveType>None</saveType>
 			<romSize>8393140</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -930,7 +1020,7 @@
 			<title>354 - Cancer Emblem 0 - Joke Hack</title>
 			<saveType>None</saveType>
 			<romSize>16814840</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -948,7 +1038,7 @@
 			<title>353 - Cancer Emblem 1 - Dazzle-Lunge Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16816800</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -966,7 +1056,7 @@
 			<title>352 - Cancer Emblem 2 - Min-Max Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17344212</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1053,6 +1143,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>645 - Clendo's 1h Blitz - Faltharian Heist</title>
+			<saveType>None</saveType>
+			<romSize>16889240</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5EC26DF2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/34</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>600 - Code of the Burger King</title>
 			<saveType>None</saveType>
 			<romSize>28138512</romSize>
@@ -1092,7 +1200,7 @@
 			<title>355 - Communist Emblem 2 - Venezuela</title>
 			<saveType>None</saveType>
 			<romSize>17175216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1110,7 +1218,7 @@
 			<title>582 - Community Blitz 5 - Redemption</title>
 			<saveType>None</saveType>
 			<romSize>18356832</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1272,7 +1380,7 @@
 			<title>547 - Darion’s Blazing Sword (Eliwood mode)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1290,7 +1398,7 @@
 			<title>560 - Darion’s Blazing Sword (Hector mode)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1359,6 +1467,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>676 - DarkChibimon's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>16925640</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AF667ED7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/112</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>635 - Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff</title>
+			<saveType>None</saveType>
+			<romSize>18213660</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A9A31BEB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/6</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>460 - Dawn of Destiny</title>
 			<saveType>None</saveType>
 			<romSize>17208512</romSize>
@@ -1395,6 +1539,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>648 - Days of Beta Past</title>
+			<saveType>None</saveType>
+			<romSize>22314492</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F4B17E5E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>253 - Decay of the Fangs</title>
 			<saveType>None</saveType>
 			<romSize>20200548</romSize>
@@ -1413,10 +1575,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>653 - Defense Mission</title>
+			<saveType>None</saveType>
+			<romSize>33555892</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">35A357BC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>337 - Degeneration Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1542,7 +1722,7 @@
 			<title>339 - Devourer of Time (Hard mode)</title>
 			<saveType>None</saveType>
 			<romSize>16818192</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1560,7 +1740,7 @@
 			<title>338 - Devourer of Time (Normal mode)</title>
 			<saveType>None</saveType>
 			<romSize>16818224</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1578,7 +1758,7 @@
 			<title>333 - Different Dimensions Ostian Princess</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1606,6 +1786,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-dirge-of-the-departed-7-24-chapters/14012</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>682 - Disregarding Eighth</title>
+			<saveType>None</saveType>
+			<romSize>16920324</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A3F7FA41</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/123</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1683,10 +1881,46 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>646 - DonkinDo's 1h Blitz - My lil sis turned into a dancer</title>
+			<saveType>None</saveType>
+			<romSize>18152692</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0B9C3F91</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/37</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>679 - Doorway of the Fang</title>
+			<saveType>None</saveType>
+			<romSize>18641452</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5B9CC568</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/117</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>334 - Dorcas Emblem 2</title>
 			<saveType>None</saveType>
 			<romSize>19343004</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -1714,6 +1948,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>649 - Down to my Level</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">760542AF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1848,7 +2100,7 @@
 			<title>548 - Encryption20's Patch</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2064,7 +2316,7 @@
 			<title>297 - FE6 All Mounts</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2082,7 +2334,7 @@
 			<title>597 - FE6 Boss Recruitment</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2100,7 +2352,7 @@
 			<title>620 - FE6 BugFixEdition</title>
 			<saveType>None</saveType>
 			<romSize>8589272</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2118,7 +2370,7 @@
 			<title>622 - FE6 BugFixEdition (Plus11AFixes)</title>
 			<saveType>None</saveType>
 			<romSize>8589272</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2136,7 +2388,7 @@
 			<title>623 - FE6 BugFixEdition (ReduxVers)</title>
 			<saveType>None</saveType>
 			<romSize>8589312</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2154,7 +2406,7 @@
 			<title>621 - FE6 BugFixEdition (Strong Enemies)</title>
 			<saveType>None</saveType>
 			<romSize>8589272</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2172,7 +2424,7 @@
 			<title>614 - FE6 But Everything Hits</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2190,7 +2442,7 @@
 			<title>616 - FE6 But Everything Hits (Average Growths Mode)</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2208,7 +2460,7 @@
 			<title>617 - FE6 But Everything Hits (Maximum Growths Mode)</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2226,7 +2478,7 @@
 			<title>615 - FE6 But Everything Hits (Minimum Growths Mode)</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2244,7 +2496,7 @@
 			<title>299 - FE6 Google Translated</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2262,7 +2514,7 @@
 			<title>599 - FE6 has DSFE movement</title>
 			<saveType>None</saveType>
 			<romSize>8586940</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2280,7 +2532,7 @@
 			<title>320 - FE6 Incandescence Edition</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2298,7 +2550,7 @@
 			<title>330 - FE6 Negative Growths</title>
 			<saveType>None</saveType>
 			<romSize>10655928</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2316,7 +2568,7 @@
 			<title>331 - FE6 Negative Growths (English)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2334,7 +2586,7 @@
 			<title>585 - FE6 No Redundancy Edition</title>
 			<saveType>None</saveType>
 			<romSize>9300520</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2352,7 +2604,7 @@
 			<title>294 - FE6 Numbers Patch</title>
 			<saveType>None</saveType>
 			<romSize>8588060</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2370,7 +2622,7 @@
 			<title>291 - FE6 Promoted Mode</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2388,7 +2640,7 @@
 			<title>631 - FE6 Rapid Rebalance</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2406,7 +2658,7 @@
 			<title>543 - FE6 Real War Chronicles</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2424,7 +2676,7 @@
 			<title>302 - FE6 Recoloured</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2442,7 +2694,7 @@
 			<title>321 - FE6 Refurbished</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2460,7 +2712,7 @@
 			<title>326 - FE6 rom with HM bonuses for everyone</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2478,7 +2730,7 @@
 			<title>551 - FE6 The Divine War</title>
 			<saveType>None</saveType>
 			<romSize>16777248</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2496,7 +2748,7 @@
 			<title>298 - FE6 Unfair and Bad</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2514,7 +2766,7 @@
 			<title>300 - FE6 Unit Swap (Balanced)</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2532,7 +2784,7 @@
 			<title>301 - FE6 Unit Swap (Hard)</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2550,7 +2802,7 @@
 			<title>292 - FE6 Weapon Reversal</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2568,7 +2820,7 @@
 			<title>293 - FE6 Weapon Reversal (Without Weapon Changes)</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2586,7 +2838,7 @@
 			<title>328 - FE6 with no HM bonuses</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2604,7 +2856,7 @@
 			<title>327 - FE6 with some double HM bonuses</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2622,7 +2874,7 @@
 			<title>305 - FE6-CharSwap-FE7 (0% Growths)</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2640,7 +2892,7 @@
 			<title>306 - FE6-CharSwap-FE7 (1% Growths)</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2658,7 +2910,7 @@
 			<title>308 - FE6-CharSwap-FE7 (2xHard Mode)</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2676,7 +2928,7 @@
 			<title>307 - FE6-CharSwap-FE7 (100% Growths)</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2694,7 +2946,7 @@
 			<title>304 - FE6-CharSwap-FE7 (Fixed Growths)</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2712,7 +2964,7 @@
 			<title>303 - FE6-CharSwap-FE7</title>
 			<saveType>None</saveType>
 			<romSize>18309172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2748,7 +3000,7 @@
 			<title>596 - FE7 Boss Recruitment</title>
 			<saveType>None</saveType>
 			<romSize>17102564</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2766,7 +3018,7 @@
 			<title>332 - FE7 Chaos Mode</title>
 			<saveType>None</saveType>
 			<romSize>18767508</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2784,7 +3036,7 @@
 			<title>581 - FE7 Heroes</title>
 			<saveType>None</saveType>
 			<romSize>18878172</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2802,7 +3054,7 @@
 			<title>112 - FE7 Inflation</title>
 			<saveType>None</saveType>
 			<romSize>17825792</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2820,7 +3072,7 @@
 			<title>554 - FE7 Leila Edition</title>
 			<saveType>None</saveType>
 			<romSize>17330932</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2838,7 +3090,7 @@
 			<title>341 - FE7 Lute Mode</title>
 			<saveType>None</saveType>
 			<romSize>16785796</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2856,7 +3108,7 @@
 			<title>628 - FE7 Lyn Hard Mode Redux</title>
 			<saveType>None</saveType>
 			<romSize>16829232</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2874,7 +3126,7 @@
 			<title>629 - FE7 Lyn Hard Mode Redux JP</title>
 			<saveType>None</saveType>
 			<romSize>16823200</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2928,7 +3180,7 @@
 			<title>384 - FE8 All Weapons are Devil Weapons</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2946,7 +3198,7 @@
 			<title>553 - FE8 Beta Test 1</title>
 			<saveType>None</saveType>
 			<romSize>16777616</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2964,7 +3216,7 @@
 			<title>366 - FE8 Boss Recruitment (Ephraim Route)</title>
 			<saveType>None</saveType>
 			<romSize>17208220</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -2982,7 +3234,7 @@
 			<title>396 - FE8 Changes Lite</title>
 			<saveType>None</saveType>
 			<romSize>16795848</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3000,7 +3252,7 @@
 			<title>368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17060990</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3018,7 +3270,7 @@
 			<title>369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17060850</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3036,7 +3288,7 @@
 			<title>372 - FE8 Chaos Randomizer (Random recruitment, original base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17060850</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3054,7 +3306,7 @@
 			<title>373 - FE8 Chaos Randomizer (Random recruitment, randomized base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17061057</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3072,7 +3324,7 @@
 			<title>370 - FE8 Chaos Randomizer (Reverse recruitment, original base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17060992</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3090,7 +3342,7 @@
 			<title>371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)</title>
 			<saveType>None</saveType>
 			<romSize>17061045</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3108,7 +3360,7 @@
 			<title>379 - FE8 Creature Campaign Reverse Recruitment (Eirika)</title>
 			<saveType>None</saveType>
 			<romSize>16799568</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3126,7 +3378,7 @@
 			<title>380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)</title>
 			<saveType>None</saveType>
 			<romSize>16802988</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3144,7 +3396,7 @@
 			<title>546 - FE8 Darion's Mode</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3162,7 +3414,7 @@
 			<title>400 - FE8 Fanmade Directors Cut</title>
 			<saveType>None</saveType>
 			<romSize>21871792</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3180,7 +3432,7 @@
 			<title>374 - FE8 Lyn Windy</title>
 			<saveType>None</saveType>
 			<romSize>17203948</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3198,7 +3450,7 @@
 			<title>393 - FE8 Maniac Mode</title>
 			<saveType>None</saveType>
 			<romSize>16863800</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3216,7 +3468,7 @@
 			<title>378 - FE8 Master Version</title>
 			<saveType>None</saveType>
 			<romSize>16822640</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3270,7 +3522,7 @@
 			<title>555 - FE8 Monster Quest</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3288,7 +3540,7 @@
 			<title>367 - FE8 Negative Growths</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3306,7 +3558,7 @@
 			<title>403 - FE8 Oops, All Archers!</title>
 			<saveType>None</saveType>
 			<romSize>16912200</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3324,7 +3576,7 @@
 			<title>397 - FE8 Project Dark</title>
 			<saveType>None</saveType>
 			<romSize>17578004</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3342,7 +3594,7 @@
 			<title>375 - FE8 QoL Edition</title>
 			<saveType>None</saveType>
 			<romSize>16802916</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3360,7 +3612,7 @@
 			<title>399 - FE8 Redux</title>
 			<saveType>None</saveType>
 			<romSize>29224272</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3378,7 +3630,7 @@
 			<title>388 - FE8 Remix</title>
 			<saveType>None</saveType>
 			<romSize>24792284</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3396,7 +3648,7 @@
 			<title>556 - FE8 Reunion</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3415,7 +3667,7 @@
 			<title>351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)</title>
 			<saveType>None</saveType>
 			<romSize>28528740</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3433,7 +3685,7 @@
 			<title>350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)</title>
 			<saveType>None</saveType>
 			<romSize>27797400</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3451,7 +3703,7 @@
 			<title>349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)</title>
 			<saveType>None</saveType>
 			<romSize>27797400</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3469,7 +3721,7 @@
 			<title>401 - FE8 The Fallen Princess</title>
 			<saveType>None</saveType>
 			<romSize>21021140</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3487,7 +3739,7 @@
 			<title>450 - FE8 Totally Vanilla</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3505,7 +3757,7 @@
 			<title>376 - FE8 Weapon Reversal</title>
 			<saveType>None</saveType>
 			<romSize>18248732</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3523,7 +3775,7 @@
 			<title>385 - FE8 Wild Mode</title>
 			<saveType>None</saveType>
 			<romSize>16816344</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3541,7 +3793,7 @@
 			<title>550 - FE8 with FE4 Graphics (map sprites)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3559,7 +3811,7 @@
 			<title>549 - FE8 with FE4 Graphics (weapon icons)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3613,7 +3865,7 @@
 			<title>404 - FE8BEWHABEWAASAHIHI</title>
 			<saveType>None</saveType>
 			<romSize>16818460</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3631,7 +3883,7 @@
 			<title>387 - FE8ESHGBTGISTTM</title>
 			<saveType>None</saveType>
 			<romSize>16809264</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3649,7 +3901,7 @@
 			<title>601 - FE8Re(gret)</title>
 			<saveType>None</saveType>
 			<romSize>16951928</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3883,7 +4135,7 @@
 			<title>364 - FE聖魔 適当に改造 まるっと全部修正</title>
 			<saveType>None</saveType>
 			<romSize>16963116</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -3938,7 +4190,7 @@
 			<title>324 - Fire Emblem 6</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -4083,7 +4335,7 @@
 			<title>123 - Fire Emblem - Barhara Revisited</title>
 			<saveType>None</saveType>
 			<romSize>17529372</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>MAFC</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -4461,7 +4713,7 @@
 			<title>146 - Fire Emblem - Reawakening</title>
 			<saveType>None</saveType>
 			<romSize>20016012</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -4803,7 +5055,7 @@
 			<title>281 - Fire Emblem - The Binding Blade Extreme</title>
 			<saveType>None</saveType>
 			<romSize>17766392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5022,7 +5274,7 @@
 			<title>101 - Fire Emblem - Will of Good and Evil</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5238,7 +5490,7 @@
 			<title>335 - Fire Memeblem 0</title>
 			<saveType>None</saveType>
 			<romSize>16777280</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5256,7 +5508,7 @@
 			<title>336 - Fire Memeblem True 0</title>
 			<saveType>None</saveType>
 			<romSize>16777332</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5266,6 +5518,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>678 - Flame Seal - The Knight of Light</title>
+			<saveType>None</saveType>
+			<romSize>26350620</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">94588DC5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/115</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5365,7 +5635,7 @@
 			<title>394 - Fort Mangs Emblem</title>
 			<saveType>None</saveType>
 			<romSize>20269072</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5375,6 +5645,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/complete-fe8-fort-mangs-emblem/7906</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>660 - Fort Nunya</title>
+			<saveType>None</saveType>
+			<romSize>17482308</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2B094A34</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/14</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5419,7 +5707,7 @@
 			<title>602 - Frog's Two Hour Blitz - Steel</title>
 			<saveType>None</saveType>
 			<romSize>16855668</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5509,7 +5797,7 @@
 			<title>381 - GhebFE</title>
 			<saveType>None</saveType>
 			<romSize>18874368</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -5555,6 +5843,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/63655-fire-emblem-the-grand-archipelago-~-v11-now-available/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>667 - GratedShtick's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>18122108</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B6F5A96C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/72</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>675 - GreatBeast</title>
+			<saveType>None</saveType>
+			<romSize>17035300</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F0D3C231</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/111</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5869,7 +6193,7 @@
 			<title>605 - jellyunicorn's Two Hour Blitz - bungus badventure</title>
 			<saveType>None</saveType>
 			<romSize>16911620</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6190,6 +6514,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>659 - Legend of the Lost Mugs</title>
+			<saveType>None</saveType>
+			<romSize>17118056</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BBB2081C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/12</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>424 - Legends of Avenir</title>
 			<saveType>None</saveType>
 			<romSize>24457576</romSize>
@@ -6248,7 +6590,7 @@
 			<title>340 - Lord Weapons Patch Rebalance</title>
 			<saveType>None</saveType>
 			<romSize>16833072</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6266,7 +6608,7 @@
 			<title>377 - Lute Emblem - The Sacred Lutes</title>
 			<saveType>None</saveType>
 			<romSize>16993256</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6284,7 +6626,7 @@
 			<title>346 - Lyn Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17039860</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6338,7 +6680,7 @@
 			<title>557 - MageKnight404's FE7 Hack</title>
 			<saveType>None</saveType>
 			<romSize>22020102</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6482,7 +6824,7 @@
 			<title>395 - Midnight Eclipse (Joke hack)</title>
 			<saveType>None</saveType>
 			<romSize>16959580</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6569,10 +6911,46 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>633 - MrGreen3339's 1h Blitz - game</title>
+			<saveType>None</saveType>
+			<romSize>16821636</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">080365DF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/4</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>668 - MrGreen3339's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>18008524</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C0A84BB0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/73</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>607 - MrGreen3339's Two Hour Blitz - Vyland vs Matthis</title>
 			<saveType>None</saveType>
 			<romSize>16815668</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6582,6 +6960,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/two-hour-blitz/13728/10</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>684 - MVPMaster's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>17016488</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">605ABDD8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/125</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>640 - Mycahel's 1h Blitz - Endless Dream</title>
+			<saveType>None</saveType>
+			<romSize>16802292</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9BD86FAA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/13</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6605,6 +7019,60 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>674 - Myrrh Goes To Mc Donalds</title>
+			<saveType>None</saveType>
+			<romSize>16876620</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7DAB34E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/103</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>644 - MysteriousDancer's 1h Blitz - Questionable Innocence</title>
+			<saveType>None</saveType>
+			<romSize>16841120</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2181CCAC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/33</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>685 - Mystic's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4D217204</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/128</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>624 - Mythgraven</title>
 			<saveType>None</saveType>
 			<romSize>23670068</romSize>
@@ -6618,6 +7086,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-mythgraven-prologue-ch-3/11039</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>669 - Nabatas Ghost</title>
+			<saveType>None</saveType>
+			<romSize>18133972</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3F42621F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/74</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6716,7 +7202,7 @@
 			<title>391 - Not Fire Emblem 8</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6744,6 +7230,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/oc-emblem-alpha-1-1-6-act-1-complete/6250</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>670 - OC Emblem - Endgame</title>
+			<saveType>None</saveType>
+			<romSize>20235124</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">724D68DA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/75</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6824,7 +7328,7 @@
 			<title>329 - Oops! All Sophias</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6834,6 +7338,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/oops-all-sophias/10190</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>642 - Pandan's 1h Blitz</title>
+			<saveType>None</saveType>
+			<romSize>18101564</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">49578A86</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/31</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6860,7 +7382,7 @@
 			<title>344 - Path of a Hero</title>
 			<saveType>None</saveType>
 			<romSize>23385656</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6896,7 +7418,7 @@
 			<title>392 - Perfect Emblem</title>
 			<saveType>None</saveType>
 			<romSize>18174872</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6914,7 +7436,7 @@
 			<title>342 - Pick my Sabotage</title>
 			<saveType>None</saveType>
 			<romSize>16883688</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -6942,6 +7464,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/pokemblem-lets-beat-brock/8875</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>663 - Prepare to Die</title>
+			<saveType>None</saveType>
+			<romSize>16982020</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AE172EB9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/22</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6986,7 +7526,7 @@
 			<title>313 - Project Ember (HM Fixed Growths)</title>
 			<saveType>None</saveType>
 			<romSize>25355392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7004,7 +7544,7 @@
 			<title>309 - Project Ember (HM)</title>
 			<saveType>None</saveType>
 			<romSize>25355392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7022,7 +7562,7 @@
 			<title>311 - Project Ember (MM 0% Growths)</title>
 			<saveType>None</saveType>
 			<romSize>25355392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7040,7 +7580,7 @@
 			<title>312 - Project Ember (MM Fixed Growths)</title>
 			<saveType>None</saveType>
 			<romSize>25355392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7058,7 +7598,7 @@
 			<title>310 - Project Ember (MM)</title>
 			<saveType>None</saveType>
 			<romSize>25355392</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7076,7 +7616,7 @@
 			<title>315 - Project Ember (Reverse Recruitment with Trial Map units)</title>
 			<saveType>None</saveType>
 			<romSize>24921012</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7094,7 +7634,7 @@
 			<title>314 - Project Ember (Reverse Recruitment)</title>
 			<saveType>None</saveType>
 			<romSize>24475812</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7112,7 +7652,7 @@
 			<title>316 - Project Ember (Weapon Reversal)</title>
 			<saveType>None</saveType>
 			<romSize>25595968</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7130,7 +7670,7 @@
 			<title>317 - Project Ember (Weapon Reversal) (Reverse Recruitment)</title>
 			<saveType>None</saveType>
 			<romSize>25102896</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7148,7 +7688,7 @@
 			<title>318 - Project Ember (with Alternate Promotions)</title>
 			<saveType>None</saveType>
 			<romSize>25029976</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7166,7 +7706,7 @@
 			<title>319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)</title>
 			<saveType>None</saveType>
 			<romSize>25877192</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7202,7 +7742,7 @@
 			<title>347 - Psychic Emblem (weapons and classes overhaul)</title>
 			<saveType>None</saveType>
 			<romSize>17770636</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7239,7 +7779,7 @@
 			<title>589 - Puzon Emblem</title>
 			<saveType>None</saveType>
 			<romSize>19889524</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7344,10 +7884,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>638 - RandomWizard's 1h Blitz - Evil Fog Wizard</title>
+			<saveType>None</saveType>
+			<romSize>16854120</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1C3A5F22</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/9</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>608 - RandomWizard's Two Hour Blitz</title>
 			<saveType>None</saveType>
 			<romSize>16850440</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7383,7 +7941,7 @@
 			<title>194 - Rart Emblem - Saga of the Shivering Shores</title>
 			<saveType>None</saveType>
 			<romSize>17841112</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>MAFC</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7401,7 +7959,7 @@
 			<title>348 - Rart Emblem Zero - The Rarted Stones</title>
 			<saveType>None</saveType>
 			<romSize>19326044</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7473,7 +8031,7 @@
 			<title>544 - Requiem of War</title>
 			<saveType>None</saveType>
 			<romSize>16777240</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7509,7 +8067,7 @@
 			<title>144 - Resonance</title>
 			<saveType>None</saveType>
 			<romSize>21319464</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7653,7 +8211,7 @@
 			<title>325 - Royal Army</title>
 			<saveType>None</saveType>
 			<romSize>18382196</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7704,10 +8262,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>634 - Runa's 1h Blitz - jon does a thing</title>
+			<saveType>None</saveType>
+			<romSize>16929492</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E8BA39EE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/5</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>632 - S</title>
 			<saveType>None</saveType>
 			<romSize>19363688</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7851,7 +8427,7 @@
 			<title>365 - Sacred Eirika</title>
 			<saveType>None</saveType>
 			<romSize>19645624</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7887,7 +8463,7 @@
 			<title>398 - Sacred Stones Death Difficulty</title>
 			<saveType>None</saveType>
 			<romSize>16782360</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7923,7 +8499,7 @@
 			<title>358 - Sacred Trilogy Final -Full- Fixed Growths- No AI</title>
 			<saveType>None</saveType>
 			<romSize>33532712</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7941,7 +8517,7 @@
 			<title>359 - Sacred Trilogy Final -Full- Fixed Growths- With AI</title>
 			<saveType>None</saveType>
 			<romSize>33532712</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7959,7 +8535,7 @@
 			<title>356 - Sacred Trilogy Final -Full- Random Growths- No AI</title>
 			<saveType>None</saveType>
 			<romSize>33532712</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7977,7 +8553,7 @@
 			<title>357 - Sacred Trilogy Final -Full- Random Growths- With AI</title>
 			<saveType>None</saveType>
 			<romSize>33532712</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -7995,7 +8571,7 @@
 			<title>362 - Sacred Trilogy Final -Lite- Fixed Growths- No AI</title>
 			<saveType>None</saveType>
 			<romSize>33531144</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8013,7 +8589,7 @@
 			<title>363 - Sacred Trilogy Final -Lite- Fixed Growths- With AI</title>
 			<saveType>None</saveType>
 			<romSize>33531144</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8031,7 +8607,7 @@
 			<title>360 - Sacred Trilogy Final -Lite- Random Growths- No AI</title>
 			<saveType>None</saveType>
 			<romSize>33531144</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8049,7 +8625,7 @@
 			<title>361 - Sacred Trilogy Final -Lite- Random Growths- With AI</title>
 			<saveType>None</saveType>
 			<romSize>33531144</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8077,6 +8653,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-saga-of-the-sigilbearers-7-chapters/13782</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>683 - SageMatthis's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>19914496</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B5889999</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/124</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8208,6 +8802,60 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>654 - Shameless Reused Asset</title>
+			<saveType>None</saveType>
+			<romSize>17750452</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">294BCF37</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/58410-make-a-fun-chapter-3-its-over/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>651 - Shattered Stones</title>
+			<saveType>None</saveType>
+			<romSize>17267760</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DB045E48</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>681 - Shep &amp; Bluid's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>17419672</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">14B155D8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/119</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>102 - Shining Armor</title>
 			<saveType>None</saveType>
 			<romSize>16788636</romSize>
@@ -8244,10 +8892,28 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>636 - SirNicee's 1h Blitz - Peggy the Pegasus Knight</title>
+			<saveType>None</saveType>
+			<romSize>16829684</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7BC89878</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/7</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>603 - SirNicee's Two Hour Blitz - bandits</title>
 			<saveType>None</saveType>
 			<romSize>16879412</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8265,7 +8931,7 @@
 			<title>382 - SirSerenes FE8 Reskin</title>
 			<saveType>None</saveType>
 			<romSize>16777288</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8311,6 +8977,78 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/slot-machine/8604</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>639 - Sme's 1h Blitz - Spooky Skeleton</title>
+			<saveType>None</saveType>
+			<romSize>17306804</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">38D9E230</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/sme23/OneHourBlitz</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>671 - Sme's MAFC FEU It Again patch</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">568B5721</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/sme23/MAFC/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>664 - Snake's Revenge</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2ACFDB6B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/23</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>666 - Snow wolves</title>
+			<saveType>None</saveType>
+			<romSize>19680736</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">673B65D7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/32</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8481,7 +9219,7 @@
 			<title>604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape</title>
 			<saveType>None</saveType>
 			<romSize>16826076</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8535,7 +9273,7 @@
 			<title>295 - Sword of Seals ReDux</title>
 			<saveType>None</saveType>
 			<romSize>16777244</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8607,7 +9345,7 @@
 			<title>383 - Tales of the Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16866208</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8635,6 +9373,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-tales-of-the-golden-knights-update-version-0-1-for-fee3/4166</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>680 - Tambo MAFC DD</title>
+			<saveType>None</saveType>
+			<romSize>18445776</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C2D923FB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/118</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8676,6 +9432,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>656 - The Akaneian Mafia</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">33E27BA8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>497 - tHE BEGGINING</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -8697,7 +9471,7 @@
 			<title>322 - The Binding Bartre</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8715,7 +9489,7 @@
 			<title>323 - The Binding Bartre (with effectiveness and AI fixes)</title>
 			<saveType>None</saveType>
 			<romSize>16793100</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -8780,6 +9554,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-book-of-eden-v2-2-6-updated-01-10-22/1532</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>650 - The Burdened Advanced</title>
+			<saveType>None</saveType>
+			<romSize>20998488</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">11E69465</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8870,6 +9662,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>677 - The Cult</title>
+			<saveType>None</saveType>
+			<romSize>17872864</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">22905A74</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/113</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8986,7 +9796,7 @@
 			<title>389 - The Empire’s Reach Revisited</title>
 			<saveType>None</saveType>
 			<romSize>16788832</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9050,6 +9860,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8u-the-final-swear-4-completed/7896</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>665 - The Five Legends</title>
+			<saveType>None</saveType>
+			<romSize>19471600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2E00AAB9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-demo-fire-emblem-the-five-legends/10327</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9253,6 +10081,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>661 - The Marquess' Trial</title>
+			<saveType>None</saveType>
+			<romSize>17921916</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A3442AC2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/19</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>448 - The Nameless Heroes (English Translation)</title>
 			<saveType>None</saveType>
 			<romSize>29782176</romSize>
@@ -9400,7 +10246,7 @@
 			<title>386 - The Sacred Ripping Anniversary Edition</title>
 			<saveType>None</saveType>
 			<romSize>20858336</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9418,7 +10264,7 @@
 			<title>552 - The Sacred Stones - FE7 Crossover</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9523,6 +10369,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>652 - The Teq Demo</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CDE9A0DD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>Teq Chess</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>490 - The White Feather</title>
 			<saveType>None</saveType>
 			<romSize>23302696</romSize>
@@ -9536,6 +10400,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>662 - There Is No Dialogue, Die</title>
+			<saveType>None</saveType>
+			<romSize>17267948</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">06900B89</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/mafc5/9981/20</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9580,7 +10462,7 @@
 			<title>402 - Touhou Emblem 8 - The Sacred Shrines</title>
 			<saveType>None</saveType>
 			<romSize>17869900</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9670,7 +10552,7 @@
 			<title>136 - Unburdened Liberty</title>
 			<saveType>None</saveType>
 			<romSize>21005868</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>MAFC</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9742,7 +10624,7 @@
 			<title>559 - Version Elibe 776</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Reskin</publisher>
+			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9753,6 +10635,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry</title>
+			<saveType>None</saveType>
+			<romSize>18282704</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">79786F56</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/8</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9779,7 +10679,7 @@
 			<title>141 - Void’s Blitzarre Adventure</title>
 			<saveType>None</saveType>
 			<romSize>18641452</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9797,7 +10697,7 @@
 			<title>142 - Void’s Blitzarre Adventure - Blitz Tendency</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9815,7 +10715,7 @@
 			<title>143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -9974,10 +10874,46 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>655 - Xenith's MAFC4 patch</title>
+			<saveType>None</saveType>
+			<romSize>20483620</romSize>
+			<publisher>MAFC</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E0BA0C18</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/57</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>643 - XPGamesNL's 1h Blitz - The Sacred MacGuffin</title>
+			<saveType>None</saveType>
+			<romSize>16959048</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D3B29462</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/32</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>606 - XPGamesNL's Two Hour Blitz - The Town Of Neron</title>
 			<saveType>None</saveType>
 			<romSize>17063944</romSize>
-			<publisher>Fan Modding</publisher>
+			<publisher>Blitz</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
@@ -10059,6 +10995,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>641 - Zmr's 1h Blitz - Hour of Dusk</title>
+			<saveType>None</saveType>
+			<romSize>17312208</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A3CEC0B0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/17</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

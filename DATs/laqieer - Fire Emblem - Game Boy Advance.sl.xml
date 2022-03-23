@@ -17,11 +17,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="A Glimpse of Time">
+	<software name="A Glimpse of Time (時の垣間 エリウッド編)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="178 - A Glimpse of Time" size="19436704" crc="caccb1eb" />
+				<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 			</dataarea>
 		</part>
 	</software>
@@ -1193,6 +1193,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 smabroROY">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="694 - FE6 smabroROY" size="8829832" crc="187655d6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 The Divine War">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1257,6 +1265,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="fe6-10">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="688 - fe6-10" size="17825792" crc="26361a11" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6-CharSwap-FE7 (0% Growths)">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1302,6 +1318,35 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="303 - FE6-CharSwap-FE7" size="18309172" crc="077fb7f5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="fe6_reshuffle">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="686 - fe6_reshuffle" size="8475760" crc="c0ee82a1" />
+			</dataarea>
+		</part>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="687 - fe6_reshuffle" size="10029964" crc="29923ad6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="fe6hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="689 - fe6hack" size="17825792" crc="fd53467e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6R">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="690 - FE6R" size="10281640" crc="451b2f22" />
 			</dataarea>
 		</part>
 	</software>
@@ -1385,6 +1430,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 デビル">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="698 - FE7 デビル" size="8388608" crc="e6193f78" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 自作改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="702 - FE7 自作改造" size="31522816" crc="dd53e68a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7if">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1401,6 +1462,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 AWS(Another War Story)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="712 - FE8 AWS(Another War Story)" size="16894316" crc="8f4a878a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Beta Test 1">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1414,6 +1483,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="366 - FE8 Boss Recruitment (Ephraim Route)" size="17208220" crc="6fa24ab4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 BS">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
 			</dataarea>
 		</part>
 	</software>
@@ -1502,6 +1579,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="400 - FE8 Fanmade Directors Cut" size="21871792" crc="a7a210d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 HazelCustom">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="711 - FE8 HazelCustom" size="17480036" crc="6f49856f" />
 			</dataarea>
 		</part>
 	</software>
@@ -1601,6 +1686,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Reshuffle">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="725 - FE8 Reshuffle" size="17341536" crc="0dc30ee9" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Reunion">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1633,6 +1726,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 ROY">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="722 - FE8 ROY" size="15899116" crc="963c09c5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 The Fallen Princess">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1646,6 +1747,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 TS">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="723 - FE8 TS" size="20971520" crc="cb745df9" />
 			</dataarea>
 		</part>
 	</software>
@@ -1681,6 +1790,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 803">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="707 - FE8 803" size="16777216" crc="2cf2cd8f" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8_GIRLS">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1694,6 +1811,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="175 - FE8_GIRLS (English Translation)" size="16777216" crc="d98445bc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8_GIRLS (test)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="709 - FE8_GIRLS (test)" size="16777216" crc="26c1b0fb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8_GIRLS English Patch (only interface)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="710 - FE8_GIRLS English Patch (only interface)" size="16777216" crc="de83049e" />
 			</dataarea>
 		</part>
 	</software>
@@ -1713,11 +1846,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8plus">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="713 - FE8plus" size="18874368" crc="a8b1fb0b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8Re(gret)">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="601 - FE8Re(gret)" size="16951928" crc="ae563a17" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8S+アルファ版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="714 - FE8S+アルファ版" size="26753744" crc="535a31dd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="706 - FE8改造" size="16777216" crc="616dfbb4" />
 			</dataarea>
 		</part>
 	</software>
@@ -1814,6 +1971,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE封印 改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="691 - FE封印 改造" size="8388608" crc="2139cad4" />
 			</dataarea>
 		</part>
 	</software>
@@ -4425,6 +4590,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Last Promise (Japanese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="696 - The Last Promise (Japanese Translation)" size="32505856" crc="33c46851" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise (Japanese Translation) (Fixed Only)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="697 - The Last Promise (Japanese Translation) (Fixed Only)" size="32505856" crc="ece0afc9" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Last Promise (Weapon Reversal)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4793,6 +4974,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="WillanZ Rebellion (リベリオン)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="715 - WillanZ Rebellion (リベリオン)" size="28914848" crc="de84bb04" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Winning Against Gharnef">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4849,11 +5038,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Yugudora Hack">
+	<software name="Yugudora Hack (ユグドラパッチ)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="181 - Yugudora Hack" size="26349436" crc="ea667865" />
+				<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="26349436" crc="ea667865" />
 			</dataarea>
 		</part>
 	</software>
@@ -4881,6 +5070,54 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="つどえ八神将 (tsudoe)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="717 - つどえ八神将 (tsudoe)" size="23261184" crc="75d63f23" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="つどえ八神将 (しねおじ)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="718 - つどえ八神将 (しねおじ)" size="16931672" crc="c7df9ecc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="エイリークパッチ">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="716 - エイリークパッチ" size="27746224" crc="2ba502ca" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="デフレ聖魔の光石">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="719 - デフレ聖魔の光石" size="33554432" crc="08547586" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="デフ烈火の剣">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="703 - デフ烈火の剣" size="33554432" crc="0b5cb986" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="ヘイデンの野望">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="名も無き英雄">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4894,6 +5131,94 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印ちょっと改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="692 - 封印ちょっと改造" size="8700080" crc="5b167458" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印ノーマルプラス">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="695 - 封印ノーマルプラス" size="8388608" crc="847ed5df" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印ベリーハードっぽいもの">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="693 - 封印ベリーハードっぽいもの" size="16777232" crc="ca21e647" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="東方炎紋章">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="724 - 東方炎紋章" size="16777216" crc="188eaaf6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="烈火の剣 if (test)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="700 - 烈火の剣 if (test)" size="33554432" crc="163a9cf2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="烈火の剣 if (update)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="701 - 烈火の剣 if (update)" size="33554432" crc="1560b86c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="烈火の剣 if D(イージー）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="699 - 烈火の剣 if D(イージー）" size="33554432" crc="ee349ea5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="烈火の剣ベリーハード">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="704 - 烈火の剣ベリーハード" size="16777216" crc="aebff0c0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="烈火マニアック勝手に完成版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="705 - 烈火マニアック勝手に完成版" size="16777216" crc="92be8dbd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="聖魔 ちょっ改">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="720 - 聖魔 ちょっ改" size="16777216" crc="0a9ab177" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="聖魔ベリーハード">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="721 - 聖魔ベリーハード" size="33554472" crc="5da9b5ea" />
 			</dataarea>
 		</part>
 	</software>

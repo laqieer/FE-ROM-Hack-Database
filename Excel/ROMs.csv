@@ -106,10 +106,10 @@
 175,FE8_GIRLS (English Translation),Fan Modding,Japan,Tequila,English,D98445BC,https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516
 176,FE8 midori (Green),Fan Modding,Japan,unknown,Japanese,25D88B16,緑パッチ（ＦＥ８）　ver.191020
 177,FE8 midori (Green) (English Translation),Fan Modding,Japan,Tequila,English,4279B308,https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516
-178,A Glimpse of Time,Fan Modding,Japan,名軍師YU,Japanese,CACCB1EB,https://ameblo.jp/yu-meigunsi/theme-10033783736.html
+178,A Glimpse of Time (時の垣間 エリウッド編),Fan Modding,Japan,名軍師YU,Japanese,CACCB1EB,https://ameblo.jp/yu-meigunsi/theme-10033783736.html
 179,Kaitou,Fan Modding,Japan,7743,Japanese,6E2C9F97,https://feuniverse.us/t/fe8-kaitou-patch/2984
 180,Kaitou (English),Fan Modding,Japan,7743,English,9CAD49EB,https://feuniverse.us/t/fe8-kaitou-patch/2984
-181,Yugudora Hack,Fan Modding,Japan,Isaac,Japanese,EA667865,ユグドラパッチ
+181,Yugudora Hack (ユグドラパッチ),Fan Modding,Japan,Isaac,Japanese,EA667865,http://feyugudora444.livedoor.blog/
 182,Yggdra Hack UI Translation,Fan Modding,Japan,Pikmin1211,English,63B815AD,https://github.com/jfarr095/YggdraHack
 183,2 Princesses,Fan Modding,Japan,レイファ,Japanese,44F08E5B,二人の王女
 184,2 Princesses (English Translation),Fan Modding,Japan,Pollen,English,CDF24969,https://feuniverse.us/t/fe-2-princesses-english-translation/8380
@@ -614,3 +614,44 @@
 683,SageMatthis's MAFC FEU It Again patch,MAFC,USA,SageMatthis,English,B5889999,https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/124
 684,MVPMaster's MAFC FEU It Again patch,MAFC,USA,MVPMaster,English,605ABDD8,https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/125
 685,Mystic's MAFC FEU It Again patch,MAFC,USA,Mystic,English,4D217204,https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/128
+686,fe6_reshuffle,Fan Modding,Japan,unknown,Japanese,C0EE82A1,
+687,fe6_reshuffle,Fan Modding,Japan,unknown,Japanese,29923AD6,
+688,fe6-10,Reskin/Rebalance,Japan,unknown,Japanese,26361A11,
+689,fe6hack,Fan Modding,Japan,unknown,Japanese,FD53467E,
+690,FE6R,Reskin/Rebalance,Japan,unknown,Japanese,451B2F22,
+691,FE封印 改造,Reskin/Rebalance,Japan,unknown,Japanese,2139CAD4,
+692,封印ちょっと改造,Reskin/Rebalance,Japan,unknown,Japanese,5B167458,
+693,封印ベリーハードっぽいもの,Reskin/Rebalance,Japan,unknown,Japanese,CA21E647,
+694,FE6 smabroROY,Reskin/Rebalance,Japan,unknown,Japanese,187655D6,
+695,封印ノーマルプラス,Reskin/Rebalance,Japan,unknown,Japanese,847ED5DF,
+696,The Last Promise (Japanese Translation),Fan Modding,USA,7743,Japanese,33C46851,tlp の google翻訳バージョンです
+697,The Last Promise (Japanese Translation) (Fixed Only),Fan Modding,USA,7743,Japanese,ECE0AFC9,変更されていないテキストをそのまま変換しただけのものです
+698,FE7 デビル,Reskin/Rebalance,Japan,unknown,Japanese,E6193F78,
+699,烈火の剣 if D(イージー）,Fan Modding,Japan,unknown,Japanese,EE349EA5,FE7ifに比べてデフレ化してみたもの
+700,烈火の剣 if (test),Fan Modding,Japan,unknown,Japanese,163A9CF2,タキオンさんが作ったFE7if unofficial support Patchを正式に採用しました
+701,烈火の剣 if (update),Fan Modding,Japan,unknown,Japanese,1560B86C,烈火の剣ＩＦ　アップデートパッチ
+702,FE7 自作改造,Reskin/Rebalance,Japan,unknown,Japanese,DD53E68A,http://www.evernote.com/l/ARljQw9kh8RABo8yThbKTTYHVBmCkzEXLKo/
+703,デフ烈火の剣,Reskin/Rebalance,Japan,unknown,Japanese,0B5CB986,イラナイツ系、ネタ動画向き
+704,烈火の剣ベリーハード,Reskin/Rebalance,Japan,unknown,Japanese,AEBFF0C0,もう少し難しいのがいいな、という程度の人向けです
+705,烈火マニアック勝手に完成版,Reskin/Rebalance,Japan,unknown,Japanese,92BE8DBD,
+706,FE8改造,Reskin/Rebalance,Japan,unknown,Japanese,616DFBB4,
+707,FE8 803,Reskin/Rebalance,Japan,unknown,Japanese,2CF2CD8F,
+708,ヘイデンの野望,Reskin/Rebalance,Japan,unknown,Japanese,EF551A7A,
+709,FE8_GIRLS (test),Fan Modding,Japan,unknown,Japanese,26C1B0FB,ver.test_100105
+710,FE8_GIRLS English Patch (only interface),Fan Modding,Japan,unknown,English,DE83049E,インターフェースのみ英語版を作ってみました
+711,FE8 HazelCustom,Reskin/Rebalance,Japan,unknown,Japanese,6F49856F,
+712,FE8 AWS(Another War Story),Reskin/Rebalance,Japan,施音,Japanese,8F4A878A,
+713,FE8plus,Reskin/Rebalance,Japan,unknown,Japanese,A8B1FB0B,
+714,FE8S+アルファ版,Reskin/Rebalance,Japan,Tikihuku1,Japanese,535A31DD,
+715,WillanZ Rebellion (リベリオン),Fan Modding,Japan,V,Japanese,DE84BB04,
+716,エイリークパッチ,Fan Modding,Japan,Isaac,Japanese,2BA502CA,http://feyugudora444.livedoor.blog/
+717,つどえ八神将 (tsudoe),Fan Modding,Japan,unknown,Japanese,75D63F23,
+718,つどえ八神将 (しねおじ),Fan Modding,Japan,unknown,Japanese,C7DF9ECC,
+719,デフレ聖魔の光石,Reskin/Rebalance,Japan,unknown,Japanese,08547586,
+720,聖魔 ちょっ改,Reskin/Rebalance,Japan,unknown,Japanese,0A9AB177,
+721,聖魔ベリーハード,Reskin/Rebalance,Japan,unknown,Japanese,5DA9B5EA,
+722,FE8 ROY,Reskin/Rebalance,Japan,unknown,Japanese,963C09C5,
+723,FE8 TS,Reskin/Rebalance,Japan,tata,Chinese,CB745DF9,
+724,東方炎紋章,Reskin/Rebalance,Japan,unknown,Japanese,188EAAF6,
+725,FE8 Reshuffle,Reskin/Rebalance,Japan,unknown,Japanese,0DC30EE9,
+726,FE8 BS,Reskin/Rebalance,Japan,unknown,Japanese,31E71EF6,

@@ -1,6 +1,6 @@
 	2 Princesses/183 - 2 Princesses			44f08e5b	24646064
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
-	A Glimpse of Time/178 - A Glimpse of Time			caccb1eb	19436704
+	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
 	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
 	A New Revelation/530 - A New Revelation			08189dee	17616732
 	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
@@ -147,6 +147,7 @@
 	FE6 Recoloured/302 - FE6 Recoloured			6c2527d9	16777532
 	FE6 Refurbished/321 - FE6 Refurbished			eb687c4e	16777532
 	FE6 rom with HM bonuses for everyone/326 - FE6 rom with HM bonuses for everyone			8c9d00cc	16793100
+	FE6 smabroROY/694 - FE6 smabroROY			187655d6	8829832
 	FE6 The Divine War/551 - FE6 The Divine War			281c7e89	16777248
 	FE6 Unfair and Bad/298 - FE6 Unfair and Bad			7a081ae9	16777532
 	FE6 Unit Swap (Balanced)/300 - FE6 Unit Swap (Balanced)			dcef0b86	16777532
@@ -155,12 +156,17 @@
 	FE6 Weapon Reversal (Without Weapon Changes)/293 - FE6 Weapon Reversal (Without Weapon Changes)			1fb89d62	16793100
 	FE6 with no HM bonuses/328 - FE6 with no HM bonuses			44db6192	16793100
 	FE6 with some double HM bonuses/327 - FE6 with some double HM bonuses			64329423	16793100
+	fe6-10/688 - fe6-10			26361a11	17825792
 	FE6-CharSwap-FE7 (0% Growths)/305 - FE6-CharSwap-FE7 (0% Growths)			cc8c2df2	18309172
 	FE6-CharSwap-FE7 (1% Growths)/306 - FE6-CharSwap-FE7 (1% Growths)			02c72c3e	18309172
 	FE6-CharSwap-FE7 (2xHard Mode)/308 - FE6-CharSwap-FE7 (2xHard Mode)			bb581777	18309172
 	FE6-CharSwap-FE7 (100% Growths)/307 - FE6-CharSwap-FE7 (100% Growths)			77c9f83b	18309172
 	FE6-CharSwap-FE7 (Fixed Growths)/304 - FE6-CharSwap-FE7 (Fixed Growths)			5b05e1b3	18309172
 	FE6-CharSwap-FE7/303 - FE6-CharSwap-FE7			077fb7f5	18309172
+	fe6_reshuffle/686 - fe6_reshuffle			c0ee82a1	8475760
+	fe6_reshuffle/687 - fe6_reshuffle			29923ad6	10029964
+	fe6hack/689 - fe6hack			fd53467e	17825792
+	FE6R/690 - FE6R			451b2f22	10281640
 	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
 	FE7 Boss Recruitment/596 - FE7 Boss Recruitment			1e48ca58	17102564
 	FE7 Chaos Mode/332 - FE7 Chaos Mode			0f92ff9b	18767508
@@ -171,10 +177,14 @@
 	FE7 Lyn Hard Mode Redux/628 - FE7 Lyn Hard Mode Redux			c0514f76	16829232
 	FE7 Lyn Hard Mode Redux JP/629 - FE7 Lyn Hard Mode Redux JP			5344ef57	16823200
 	FE7 Rewrite/626 - FE7 Rewrite			a3e1d79e	17894192
+	FE7 デビル/698 - FE7 デビル			e6193f78	8388608
+	FE7 自作改造/702 - FE7 自作改造			dd53e68a	31522816
 	FE7if/109 - FE7if			6eca79ce	33554432
 	FE8 All Weapons are Devil Weapons/384 - FE8 All Weapons are Devil Weapons			711edbc9	16777216
+	FE8 AWS(Another War Story)/712 - FE8 AWS(Another War Story)			8f4a878a	16894316
 	FE8 Beta Test 1/553 - FE8 Beta Test 1			e82ad29c	16777616
 	FE8 Boss Recruitment (Ephraim Route)/366 - FE8 Boss Recruitment (Ephraim Route)			6fa24ab4	17208220
+	FE8 BS/726 - FE8 BS			31e71ef6	16777216
 	FE8 Changes Lite/396 - FE8 Changes Lite			e41e4c1e	16795848
 	FE8 Chaos Randomizer (Normal recruitment, original base stats)/368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)			bff6749e	17060990
 	FE8 Chaos Randomizer (Normal recruitment, randomized base stats)/369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)			ae757366	17060850
@@ -186,6 +196,7 @@
 	FE8 Creature Campaign Reverse Recruitment (Ephraim)/380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)			1cddfc8d	16802988
 	FE8 Darion's Mode/546 - FE8 Darion's Mode			b9965ea1	16777216
 	FE8 Fanmade Directors Cut/400 - FE8 Fanmade Directors Cut			a7a210d5	21871792
+	FE8 HazelCustom/711 - FE8 HazelCustom			6f49856f	17480036
 	FE8 Lyn Windy/374 - FE8 Lyn Windy			c7a95be3	17203948
 	FE8 Maniac Mode/393 - FE8 Maniac Mode			b4861fca	16863800
 	FE8 Master Version/378 - FE8 Master Version			51b9c9db	16822640
@@ -198,21 +209,30 @@
 	FE8 QoL Edition/375 - FE8 QoL Edition			f45762e5	16802916
 	FE8 Redux/399 - FE8 Redux			b767b1dd	29224272
 	FE8 Remix/388 - FE8 Remix			98a5a872	24792284
+	FE8 Reshuffle/725 - FE8 Reshuffle			0dc30ee9	17341536
 	FE8 Reunion/556 - FE8 Reunion			1eeddb5f	16777216
 	FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)/351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)			2e232219	28528740
 	FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)/350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)			f0217101	27797400
 	FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)/349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)			66e98aba	27797400
+	FE8 ROY/722 - FE8 ROY			963c09c5	15899116
 	FE8 The Fallen Princess/401 - FE8 The Fallen Princess			3c806e93	21021140
 	FE8 Totally Vanilla/450 - FE8 Totally Vanilla			cb15d1a3	16777216
+	FE8 TS/723 - FE8 TS			cb745df9	20971520
 	FE8 Weapon Reversal/376 - FE8 Weapon Reversal			b069af12	18248732
 	FE8 Wild Mode/385 - FE8 Wild Mode			00db28f0	16816344
 	FE8 with FE4 Graphics (map sprites)/550 - FE8 with FE4 Graphics (map sprites)			dca9a64f	16777216
 	FE8 with FE4 Graphics (weapon icons)/549 - FE8 with FE4 Graphics (weapon icons)			d14c8d42	16777216
+	FE8 803/707 - FE8 803			2cf2cd8f	16777216
 	FE8_GIRLS/174 - FE8_GIRLS			214b26b9	16777216
 	FE8_GIRLS (English Translation)/175 - FE8_GIRLS (English Translation)			d98445bc	16777216
+	FE8_GIRLS (test)/709 - FE8_GIRLS (test)			26c1b0fb	16777216
+	FE8_GIRLS English Patch (only interface)/710 - FE8_GIRLS English Patch (only interface)			de83049e	16777216
 	FE8BEWHABEWAASAHIHI/404 - FE8BEWHABEWAASAHIHI			2bb3fd58	16818460
 	FE8ESHGBTGISTTM/387 - FE8ESHGBTGISTTM			17c71c14	16809264
+	FE8plus/713 - FE8plus			a8b1fb0b	18874368
 	FE8Re(gret)/601 - FE8Re(gret)			ae563a17	16951928
+	FE8S+アルファ版/714 - FE8S+アルファ版			535a31dd	26753744
+	FE8改造/706 - FE8改造			616dfbb4	16777216
 	Fe 8 Chess/241 - Fe 8 Chess			d5ddb5e8	16806152
 	FE but it’s my Biology Homework/198 - FE but it’s my Biology Homework			385de2ec	17279456
 	FE The Grand Uprising/213 - FE The Grand Uprising			535448a4	29479028
@@ -225,6 +245,7 @@
 	Ferrica - Project Kenko/478 - Ferrica - Project Kenko			4124c732	23612392
 	FETO's Last Stand/507 - FETO's Last Stand			b80108e2	16784768
 	FEU Gacha/168 - FEU Gacha			35c74672	16777216
+	FE封印 改造/691 - FE封印 改造			2139cad4	8388608
 	FE聖魔 適当に改造 まるっと全部修正/364 - FE聖魔 適当に改造 まるっと全部修正			3b72f7dc	16963116
 	Fight for Freedom/480 - Fight for Freedom			8c320753	23944208
 	Final Fantasy 10 Remake/472 - Final Fantasy 10 Remake			901e461e	20400084
@@ -365,7 +386,7 @@
 	Lute Emblem - The Sacred Lutes/377 - Lute Emblem - The Sacred Lutes			5c7d8d3f	16993256
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -551,6 +572,8 @@
 	The Last Promise/103 - The Last Promise			d1c6e5d5	32505856
 	The Last Promise (Chaos Mode DEMO)/105 - The Last Promise (Chaos Mode DEMO)			365cf432	32446048
 	The Last Promise (Easy Mode)/104 - The Last Promise (Easy Mode)			be1b4153	32445120
+	The Last Promise (Japanese Translation)/696 - The Last Promise (Japanese Translation)			33c46851	32505856
+	The Last Promise (Japanese Translation) (Fixed Only)/697 - The Last Promise (Japanese Translation) (Fixed Only)			ece0afc9	32505856
 	The Last Promise (Weapon Reversal)/106 - The Last Promise (Weapon Reversal)			38f7a2c6	33302356
 	The Lonely Mirror (Classic)/433 - The Lonely Mirror (Classic)			9302de3a	30220952
 	The Lonely Mirror (Friendly)/434 - The Lonely Mirror (Friendly)			c833f3eb	30226464
@@ -597,6 +620,7 @@
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
 	Wheel Of Misfortune/540 - Wheel Of Misfortune			71238326	19997476
+	WillanZ Rebellion (リベリオン)/715 - WillanZ Rebellion (リベリオン)			de84bb04	28914848
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528
 	Wrath of the Crusade/483 - Wrath of the Crusade			83bfa1d6	17347588
 	Xenith's MAFC4 patch/655 - Xenith's MAFC4 patch			e0ba0c18	20483620
@@ -604,12 +628,29 @@
 	XPGamesNL's Two Hour Blitz - The Town Of Neron/606 - XPGamesNL's Two Hour Blitz - The Town Of Neron			056cb4b0	17063944
 	Yet Another Ragefest Hack/514 - Yet Another Ragefest Hack			478b418e	16851636
 	Yggdra Hack UI Translation/182 - Yggdra Hack UI Translation			63b815ad	25450720
-	Yugudora Hack/181 - Yugudora Hack			ea667865	26349436
+	Yugudora Hack (ユグドラパッチ)/181 - Yugudora Hack (ユグドラパッチ)			ea667865	26349436
 	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915128
 	Zmr's 1h Blitz - Hour of Dusk/641 - Zmr's 1h Blitz - Hour of Dusk			a3cec0b0	17312208
 	Zombie Apocalypse/252 - Zombie Apocalypse			93ee3ea3	18992412
+	つどえ八神将 (tsudoe)/717 - つどえ八神将 (tsudoe)			75d63f23	23261184
+	つどえ八神将 (しねおじ)/718 - つどえ八神将 (しねおじ)			c7df9ecc	16931672
+	エイリークパッチ/716 - エイリークパッチ			2ba502ca	27746224
+	デフレ聖魔の光石/719 - デフレ聖魔の光石			08547586	33554432
+	デフ烈火の剣/703 - デフ烈火の剣			0b5cb986	33554432
+	ヘイデンの野望/708 - ヘイデンの野望			ef551a7a	16777216
 	名も無き英雄/447 - 名も無き英雄			b9a6e9c7	29840204
 	女王の剣 (Queen’s Sword)/420 - 女王の剣 (Queen’s Sword)			658dc7e3	33554432
+	封印ちょっと改造/692 - 封印ちょっと改造			5b167458	8700080
+	封印ノーマルプラス/695 - 封印ノーマルプラス			847ed5df	8388608
+	封印ベリーハードっぽいもの/693 - 封印ベリーハードっぽいもの			ca21e647	16777232
+	東方炎紋章/724 - 東方炎紋章			188eaaf6	16777216
+	烈火の剣 if (test)/700 - 烈火の剣 if (test)			163a9cf2	33554432
+	烈火の剣 if (update)/701 - 烈火の剣 if (update)			1560b86c	33554432
+	烈火の剣 if D(イージー）/699 - 烈火の剣 if D(イージー）			ee349ea5	33554432
+	烈火の剣ベリーハード/704 - 烈火の剣ベリーハード			aebff0c0	16777216
+	烈火マニアック勝手に完成版/705 - 烈火マニアック勝手に完成版			92be8dbd	16777216
+	聖魔 ちょっ改/720 - 聖魔 ちょっ改			0a9ab177	16777216
+	聖魔ベリーハード/721 - 聖魔ベリーハード			5da9b5ea	33554472
 	黄昏の魔剣１部/444 - 黄昏の魔剣１部			02a1d458	22610180
 	黄昏の魔剣２部パンナルート/445 - 黄昏の魔剣２部パンナルート			f0ac088d	23248008
 	黄昏の魔剣２部主人公覚醒編/446 - 黄昏の魔剣２部主人公覚醒編			31330711	22734804

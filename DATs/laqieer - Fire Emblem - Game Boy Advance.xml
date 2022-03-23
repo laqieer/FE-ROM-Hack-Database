@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220322</version>
+		<version>20220323</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -23,10 +23,10 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</game>
-	<game name="A Glimpse of Time">
+	<game name="A Glimpse of Time (時の垣間 エリウッド編)">
 		<comment>https://ameblo.jp/yu-meigunsi/theme-10033783736.html</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="178 - A Glimpse of Time" size="19436704" crc="caccb1eb" />
+		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</game>
 	<game name="A Hobbit's Tale">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -757,6 +757,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="326 - FE6 rom with HM bonuses for everyone" size="16793100" crc="8c9d00cc" />
 	</game>
+	<game name="FE6 smabroROY">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="694 - FE6 smabroROY" size="8829832" crc="187655d6" />
+	</game>
 	<game name="FE6 The Divine War">
 		<comment>https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -797,6 +801,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="327 - FE6 with some double HM bonuses" size="16793100" crc="64329423" />
 	</game>
+	<game name="fe6-10">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="688 - fe6-10" size="17825792" crc="26361a11" />
+	</game>
 	<game name="FE6-CharSwap-FE7 (0% Growths)">
 		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -826,6 +834,19 @@
 		<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="303 - FE6-CharSwap-FE7" size="18309172" crc="077fb7f5" />
+	</game>
+	<game name="fe6_reshuffle">
+		<publisher>Fan Modding</publisher>
+		<rom name="686 - fe6_reshuffle" size="8475760" crc="c0ee82a1" />
+		<rom name="687 - fe6_reshuffle" size="10029964" crc="29923ad6" />
+	</game>
+	<game name="fe6hack">
+		<publisher>Fan Modding</publisher>
+		<rom name="689 - fe6hack" size="17825792" crc="fd53467e" />
+	</game>
+	<game name="FE6R">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="690 - FE6R" size="10281640" crc="451b2f22" />
 	</game>
 	<game name="FE7 Allegiance Reversal+">
 		<comment>https://feuniverse.us/t/fe7-allegiance-reversal-up-to-ch16x-discontinued/6440</comment>
@@ -877,6 +898,15 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="626 - FE7 Rewrite" size="17894192" crc="a3e1d79e" />
 	</game>
+	<game name="FE7 デビル">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="698 - FE7 デビル" size="8388608" crc="e6193f78" />
+	</game>
+	<game name="FE7 自作改造">
+		<comment>http://www.evernote.com/l/ARljQw9kh8RABo8yThbKTTYHVBmCkzEXLKo/</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="702 - FE7 自作改造" size="31522816" crc="dd53e68a" />
+	</game>
 	<game name="FE7if">
 		<comment>https://seesaawiki.jp/fe7if/</comment>
 		<publisher>Fan Modding</publisher>
@@ -887,6 +917,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="384 - FE8 All Weapons are Devil Weapons" size="16777216" crc="711edbc9" />
 	</game>
+	<game name="FE8 AWS(Another War Story)">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="712 - FE8 AWS(Another War Story)" size="16894316" crc="8f4a878a" />
+	</game>
 	<game name="FE8 Beta Test 1">
 		<comment>http://www.feshrine.net/forums/index.php?showtopic=4894</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -896,6 +930,10 @@
 		<comment>https://feuniverse.us/t/fe8-boss-recruitment-ephraim-route-edition/11439</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="366 - FE8 Boss Recruitment (Ephraim Route)" size="17208220" crc="6fa24ab4" />
+	</game>
+	<game name="FE8 BS">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
 	</game>
 	<game name="FE8 Changes Lite">
 		<comment>https://feuniverse.us/t/fe8-changes-lite-patch/8874</comment>
@@ -951,6 +989,10 @@
 		<comment>https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="400 - FE8 Fanmade Directors Cut" size="21871792" crc="a7a210d5" />
+	</game>
+	<game name="FE8 HazelCustom">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="711 - FE8 HazelCustom" size="17480036" crc="6f49856f" />
 	</game>
 	<game name="FE8 Lyn Windy">
 		<comment>リーンの風</comment>
@@ -1012,6 +1054,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="388 - FE8 Remix" size="24792284" crc="98a5a872" />
 	</game>
+	<game name="FE8 Reshuffle">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="725 - FE8 Reshuffle" size="17341536" crc="0dc30ee9" />
+	</game>
 	<game name="FE8 Reunion">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="556 - FE8 Reunion" size="16777216" crc="1eeddb5f" />
@@ -1031,6 +1077,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)" size="27797400" crc="66e98aba" />
 	</game>
+	<game name="FE8 ROY">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="722 - FE8 ROY" size="15899116" crc="963c09c5" />
+	</game>
 	<game name="FE8 The Fallen Princess">
 		<comment>https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1040,6 +1090,10 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/67572-fe8-totally-vanilla/</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+	</game>
+	<game name="FE8 TS">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="723 - FE8 TS" size="20971520" crc="cb745df9" />
 	</game>
 	<game name="FE8 Weapon Reversal">
 		<comment>https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820</comment>
@@ -1061,6 +1115,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="549 - FE8 with FE4 Graphics (weapon icons)" size="16777216" crc="d14c8d42" />
 	</game>
+	<game name="FE8 803">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="707 - FE8 803" size="16777216" crc="2cf2cd8f" />
+	</game>
 	<game name="FE8_GIRLS">
 		<comment>ガールズ(09.10.04)</comment>
 		<publisher>Fan Modding</publisher>
@@ -1070,6 +1128,16 @@
 		<comment>https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="175 - FE8_GIRLS (English Translation)" size="16777216" crc="d98445bc" />
+	</game>
+	<game name="FE8_GIRLS (test)">
+		<comment>ver.test_100105</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="709 - FE8_GIRLS (test)" size="16777216" crc="26c1b0fb" />
+	</game>
+	<game name="FE8_GIRLS English Patch (only interface)">
+		<comment>インターフェースのみ英語版を作ってみました</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="710 - FE8_GIRLS English Patch (only interface)" size="16777216" crc="de83049e" />
 	</game>
 	<game name="FE8BEWHABEWAASAHIHI">
 		<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
@@ -1081,10 +1149,22 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="387 - FE8ESHGBTGISTTM" size="16809264" crc="17c71c14" />
 	</game>
+	<game name="FE8plus">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="713 - FE8plus" size="18874368" crc="a8b1fb0b" />
+	</game>
 	<game name="FE8Re(gret)">
 		<comment>https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="601 - FE8Re(gret)" size="16951928" crc="ae563a17" />
+	</game>
+	<game name="FE8S+アルファ版">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="714 - FE8S+アルファ版" size="26753744" crc="535a31dd" />
+	</game>
+	<game name="FE8改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="706 - FE8改造" size="16777216" crc="616dfbb4" />
 	</game>
 	<game name="Fe 8 Chess">
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-8-chess/14805</comment>
@@ -1145,6 +1225,10 @@
 		<comment>https://feuniverse.us/t/complete-fe8-feu-gacha/5251</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+	</game>
+	<game name="FE封印 改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="691 - FE封印 改造" size="8388608" crc="2139cad4" />
 	</game>
 	<game name="FE聖魔 適当に改造 まるっと全部修正">
 		<publisher>Reskin/Rebalance</publisher>
@@ -2767,6 +2851,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="104 - The Last Promise (Easy Mode)" size="32445120" crc="be1b4153" />
 	</game>
+	<game name="The Last Promise (Japanese Translation)">
+		<comment>tlp の google翻訳バージョンです</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="696 - The Last Promise (Japanese Translation)" size="32505856" crc="33c46851" />
+	</game>
+	<game name="The Last Promise (Japanese Translation) (Fixed Only)">
+		<comment>変更されていないテキストをそのまま変換しただけのものです</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="697 - The Last Promise (Japanese Translation) (Fixed Only)" size="32505856" crc="ece0afc9" />
+	</game>
 	<game name="The Last Promise (Weapon Reversal)">
 		<comment>https://feuniverse.us/t/tlp-weapon-reversal/5339</comment>
 		<publisher>Fan Modding</publisher>
@@ -2996,6 +3090,10 @@
 		<publisher>Ragefest</publisher>
 		<rom name="540 - Wheel Of Misfortune" size="19997476" crc="71238326" />
 	</game>
+	<game name="WillanZ Rebellion (リベリオン)">
+		<publisher>Fan Modding</publisher>
+		<rom name="715 - WillanZ Rebellion (リベリオン)" size="28914848" crc="de84bb04" />
+	</game>
 	<game name="Winning Against Gharnef">
 		<comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
 		<publisher>Fan Modding</publisher>
@@ -3031,10 +3129,10 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="182 - Yggdra Hack UI Translation" size="25450720" crc="63b815ad" />
 	</game>
-	<game name="Yugudora Hack">
-		<comment>ユグドラパッチ</comment>
+	<game name="Yugudora Hack (ユグドラパッチ)">
+		<comment>http://feyugudora444.livedoor.blog/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="181 - Yugudora Hack" size="26349436" crc="ea667865" />
+		<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="26349436" crc="ea667865" />
 	</game>
 	<game name="Yuri’s Sidestory">
 		<comment>https://forums.serenesforest.net/index.php?/topic/26213-a-mk404-special-yuri-tanakas-sidestory/</comment>
@@ -3051,6 +3149,32 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
 	</game>
+	<game name="つどえ八神将 (tsudoe)">
+		<publisher>Fan Modding</publisher>
+		<rom name="717 - つどえ八神将 (tsudoe)" size="23261184" crc="75d63f23" />
+	</game>
+	<game name="つどえ八神将 (しねおじ)">
+		<publisher>Fan Modding</publisher>
+		<rom name="718 - つどえ八神将 (しねおじ)" size="16931672" crc="c7df9ecc" />
+	</game>
+	<game name="エイリークパッチ">
+		<comment>http://feyugudora444.livedoor.blog/</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="716 - エイリークパッチ" size="27746224" crc="2ba502ca" />
+	</game>
+	<game name="デフレ聖魔の光石">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="719 - デフレ聖魔の光石" size="33554432" crc="08547586" />
+	</game>
+	<game name="デフ烈火の剣">
+		<comment>イラナイツ系、ネタ動画向き</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="703 - デフ烈火の剣" size="33554432" crc="0b5cb986" />
+	</game>
+	<game name="ヘイデンの野望">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
+	</game>
 	<game name="名も無き英雄">
 		<comment>The Nameless Heroes</comment>
 		<publisher>Fan Modding</publisher>
@@ -3060,6 +3184,54 @@
 		<comment>http://fequeen.blog.fc2.com/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+	</game>
+	<game name="封印ちょっと改造">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="692 - 封印ちょっと改造" size="8700080" crc="5b167458" />
+	</game>
+	<game name="封印ノーマルプラス">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="695 - 封印ノーマルプラス" size="8388608" crc="847ed5df" />
+	</game>
+	<game name="封印ベリーハードっぽいもの">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="693 - 封印ベリーハードっぽいもの" size="16777232" crc="ca21e647" />
+	</game>
+	<game name="東方炎紋章">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="724 - 東方炎紋章" size="16777216" crc="188eaaf6" />
+	</game>
+	<game name="烈火の剣 if (test)">
+		<comment>タキオンさんが作ったFE7if unofficial support Patchを正式に採用しました</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="700 - 烈火の剣 if (test)" size="33554432" crc="163a9cf2" />
+	</game>
+	<game name="烈火の剣 if (update)">
+		<comment>烈火の剣ＩＦ　アップデートパッチ</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="701 - 烈火の剣 if (update)" size="33554432" crc="1560b86c" />
+	</game>
+	<game name="烈火の剣 if D(イージー）">
+		<comment>FE7ifに比べてデフレ化してみたもの</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="699 - 烈火の剣 if D(イージー）" size="33554432" crc="ee349ea5" />
+	</game>
+	<game name="烈火の剣ベリーハード">
+		<comment>もう少し難しいのがいいな、という程度の人向けです</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="704 - 烈火の剣ベリーハード" size="16777216" crc="aebff0c0" />
+	</game>
+	<game name="烈火マニアック勝手に完成版">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="705 - 烈火マニアック勝手に完成版" size="16777216" crc="92be8dbd" />
+	</game>
+	<game name="聖魔 ちょっ改">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="720 - 聖魔 ちょっ改" size="16777216" crc="0a9ab177" />
+	</game>
+	<game name="聖魔ベリーハード">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="721 - 聖魔ベリーハード" size="33554472" crc="5da9b5ea" />
 	</game>
 	<game name="黄昏の魔剣１部">
 		<comment>Magic Sword of Twilight</comment>

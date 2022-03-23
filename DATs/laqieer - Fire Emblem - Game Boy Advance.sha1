@@ -1,6 +1,6 @@
  183 - 2 Princesses.gba
  184 - 2 Princesses (English Translation).gba
- 178 - A Glimpse of Time.gba
+ 178 - A Glimpse of Time (時の垣間 エリウッド編).gba
  516 - A Hobbit's Tale.gba
  530 - A New Revelation.gba
  286 - A Sacred Dawn.gba
@@ -147,6 +147,7 @@
  302 - FE6 Recoloured.gba
  321 - FE6 Refurbished.gba
  326 - FE6 rom with HM bonuses for everyone.gba
+ 694 - FE6 smabroROY.gba
  551 - FE6 The Divine War.gba
  298 - FE6 Unfair and Bad.gba
  300 - FE6 Unit Swap (Balanced).gba
@@ -155,12 +156,17 @@
  293 - FE6 Weapon Reversal (Without Weapon Changes).gba
  328 - FE6 with no HM bonuses.gba
  327 - FE6 with some double HM bonuses.gba
+ 688 - fe6-10.gba
  305 - FE6-CharSwap-FE7 (0% Growths).gba
  306 - FE6-CharSwap-FE7 (1% Growths).gba
  308 - FE6-CharSwap-FE7 (2xHard Mode).gba
  307 - FE6-CharSwap-FE7 (100% Growths).gba
  304 - FE6-CharSwap-FE7 (Fixed Growths).gba
  303 - FE6-CharSwap-FE7.gba
+ 686 - fe6_reshuffle.gba
+ 687 - fe6_reshuffle.gba
+ 689 - fe6hack.gba
+ 690 - FE6R.gba
  264 - FE7 Allegiance Reversal+.gba
  596 - FE7 Boss Recruitment.gba
  332 - FE7 Chaos Mode.gba
@@ -171,10 +177,14 @@
  628 - FE7 Lyn Hard Mode Redux.gba
  629 - FE7 Lyn Hard Mode Redux JP.gba
  626 - FE7 Rewrite.gba
+ 698 - FE7 デビル.gba
+ 702 - FE7 自作改造.gba
  109 - FE7if.gba
  384 - FE8 All Weapons are Devil Weapons.gba
+ 712 - FE8 AWS(Another War Story).gba
  553 - FE8 Beta Test 1.gba
  366 - FE8 Boss Recruitment (Ephraim Route).gba
+ 726 - FE8 BS.gba
  396 - FE8 Changes Lite.gba
  368 - FE8 Chaos Randomizer (Normal recruitment, original base stats).gba
  369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats).gba
@@ -186,6 +196,7 @@
  380 - FE8 Creature Campaign Reverse Recruitment (Ephraim).gba
  546 - FE8 Darion's Mode.gba
  400 - FE8 Fanmade Directors Cut.gba
+ 711 - FE8 HazelCustom.gba
  374 - FE8 Lyn Windy.gba
  393 - FE8 Maniac Mode.gba
  378 - FE8 Master Version.gba
@@ -198,21 +209,30 @@
  375 - FE8 QoL Edition.gba
  399 - FE8 Redux.gba
  388 - FE8 Remix.gba
+ 725 - FE8 Reshuffle.gba
  556 - FE8 Reunion.gba
  351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode).gba
  350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage).gba
  349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage).gba
+ 722 - FE8 ROY.gba
  401 - FE8 The Fallen Princess.gba
  450 - FE8 Totally Vanilla.gba
+ 723 - FE8 TS.gba
  376 - FE8 Weapon Reversal.gba
  385 - FE8 Wild Mode.gba
  550 - FE8 with FE4 Graphics (map sprites).gba
  549 - FE8 with FE4 Graphics (weapon icons).gba
+ 707 - FE8 803.gba
  174 - FE8_GIRLS.gba
  175 - FE8_GIRLS (English Translation).gba
+ 709 - FE8_GIRLS (test).gba
+ 710 - FE8_GIRLS English Patch (only interface).gba
  404 - FE8BEWHABEWAASAHIHI.gba
  387 - FE8ESHGBTGISTTM.gba
+ 713 - FE8plus.gba
  601 - FE8Re(gret).gba
+ 714 - FE8S+アルファ版.gba
+ 706 - FE8改造.gba
  241 - Fe 8 Chess.gba
  198 - FE but it’s my Biology Homework.gba
  213 - FE The Grand Uprising.gba
@@ -225,6 +245,7 @@
  478 - Ferrica - Project Kenko.gba
  507 - FETO's Last Stand.gba
  168 - FEU Gacha.gba
+ 691 - FE封印 改造.gba
  364 - FE聖魔 適当に改造 まるっと全部修正.gba
  480 - Fight for Freedom.gba
  472 - Final Fantasy 10 Remake.gba
@@ -551,6 +572,8 @@
  103 - The Last Promise.gba
  105 - The Last Promise (Chaos Mode DEMO).gba
  104 - The Last Promise (Easy Mode).gba
+ 696 - The Last Promise (Japanese Translation).gba
+ 697 - The Last Promise (Japanese Translation) (Fixed Only).gba
  106 - The Last Promise (Weapon Reversal).gba
  433 - The Lonely Mirror (Classic).gba
  434 - The Lonely Mirror (Friendly).gba
@@ -597,6 +620,7 @@
  235 - War on Two Fronts (0% Growths).gba
  278 - Water Crest - Morps’s Quest For Pants.gba
  540 - Wheel Of Misfortune.gba
+ 715 - WillanZ Rebellion (リベリオン).gba
  165 - Winning Against Gharnef.gba
  483 - Wrath of the Crusade.gba
  655 - Xenith's MAFC4 patch.gba
@@ -604,12 +628,29 @@
  606 - XPGamesNL's Two Hour Blitz - The Town Of Neron.gba
  514 - Yet Another Ragefest Hack.gba
  182 - Yggdra Hack UI Translation.gba
- 181 - Yugudora Hack.gba
+ 181 - Yugudora Hack (ユグドラパッチ).gba
  126 - Yuri’s Sidestory.gba
  641 - Zmr's 1h Blitz - Hour of Dusk.gba
  252 - Zombie Apocalypse.gba
+ 717 - つどえ八神将 (tsudoe).gba
+ 718 - つどえ八神将 (しねおじ).gba
+ 716 - エイリークパッチ.gba
+ 719 - デフレ聖魔の光石.gba
+ 703 - デフ烈火の剣.gba
+ 708 - ヘイデンの野望.gba
  447 - 名も無き英雄.gba
  420 - 女王の剣 (Queen’s Sword).gba
+ 692 - 封印ちょっと改造.gba
+ 695 - 封印ノーマルプラス.gba
+ 693 - 封印ベリーハードっぽいもの.gba
+ 724 - 東方炎紋章.gba
+ 700 - 烈火の剣 if (test).gba
+ 701 - 烈火の剣 if (update).gba
+ 699 - 烈火の剣 if D(イージー）.gba
+ 704 - 烈火の剣ベリーハード.gba
+ 705 - 烈火マニアック勝手に完成版.gba
+ 720 - 聖魔 ちょっ改.gba
+ 721 - 聖魔ベリーハード.gba
  444 - 黄昏の魔剣１部.gba
  445 - 黄昏の魔剣２部パンナルート.gba
  446 - 黄昏の魔剣２部主人公覚醒編.gba

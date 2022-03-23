@@ -6,8 +6,8 @@
 	<machine name="2 Princesses (English Translation)">
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
-	<machine name="A Glimpse of Time">
-		<rom name="178 - A Glimpse of Time" size="19436704" crc="caccb1eb" />
+	<machine name="A Glimpse of Time (時の垣間 エリウッド編)">
+		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</machine>
 	<machine name="A Hobbit's Tale">
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
@@ -447,6 +447,9 @@
 	<machine name="FE6 rom with HM bonuses for everyone">
 		<rom name="326 - FE6 rom with HM bonuses for everyone" size="16793100" crc="8c9d00cc" />
 	</machine>
+	<machine name="FE6 smabroROY">
+		<rom name="694 - FE6 smabroROY" size="8829832" crc="187655d6" />
+	</machine>
 	<machine name="FE6 The Divine War">
 		<rom name="551 - FE6 The Divine War" size="16777248" crc="281c7e89" />
 	</machine>
@@ -471,6 +474,9 @@
 	<machine name="FE6 with some double HM bonuses">
 		<rom name="327 - FE6 with some double HM bonuses" size="16793100" crc="64329423" />
 	</machine>
+	<machine name="fe6-10">
+		<rom name="688 - fe6-10" size="17825792" crc="26361a11" />
+	</machine>
 	<machine name="FE6-CharSwap-FE7 (0% Growths)">
 		<rom name="305 - FE6-CharSwap-FE7 (0% Growths)" size="18309172" crc="cc8c2df2" />
 	</machine>
@@ -488,6 +494,16 @@
 	</machine>
 	<machine name="FE6-CharSwap-FE7">
 		<rom name="303 - FE6-CharSwap-FE7" size="18309172" crc="077fb7f5" />
+	</machine>
+	<machine name="fe6_reshuffle">
+		<rom name="686 - fe6_reshuffle" size="8475760" crc="c0ee82a1" />
+		<rom name="687 - fe6_reshuffle" size="10029964" crc="29923ad6" />
+	</machine>
+	<machine name="fe6hack">
+		<rom name="689 - fe6hack" size="17825792" crc="fd53467e" />
+	</machine>
+	<machine name="FE6R">
+		<rom name="690 - FE6R" size="10281640" crc="451b2f22" />
 	</machine>
 	<machine name="FE7 Allegiance Reversal+">
 		<rom name="264 - FE7 Allegiance Reversal+" size="16911048" crc="8870c624" />
@@ -519,17 +535,29 @@
 	<machine name="FE7 Rewrite">
 		<rom name="626 - FE7 Rewrite" size="17894192" crc="a3e1d79e" />
 	</machine>
+	<machine name="FE7 デビル">
+		<rom name="698 - FE7 デビル" size="8388608" crc="e6193f78" />
+	</machine>
+	<machine name="FE7 自作改造">
+		<rom name="702 - FE7 自作改造" size="31522816" crc="dd53e68a" />
+	</machine>
 	<machine name="FE7if">
 		<rom name="109 - FE7if" size="33554432" crc="6eca79ce" />
 	</machine>
 	<machine name="FE8 All Weapons are Devil Weapons">
 		<rom name="384 - FE8 All Weapons are Devil Weapons" size="16777216" crc="711edbc9" />
 	</machine>
+	<machine name="FE8 AWS(Another War Story)">
+		<rom name="712 - FE8 AWS(Another War Story)" size="16894316" crc="8f4a878a" />
+	</machine>
 	<machine name="FE8 Beta Test 1">
 		<rom name="553 - FE8 Beta Test 1" size="16777616" crc="e82ad29c" />
 	</machine>
 	<machine name="FE8 Boss Recruitment (Ephraim Route)">
 		<rom name="366 - FE8 Boss Recruitment (Ephraim Route)" size="17208220" crc="6fa24ab4" />
+	</machine>
+	<machine name="FE8 BS">
+		<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
 	</machine>
 	<machine name="FE8 Changes Lite">
 		<rom name="396 - FE8 Changes Lite" size="16795848" crc="e41e4c1e" />
@@ -563,6 +591,9 @@
 	</machine>
 	<machine name="FE8 Fanmade Directors Cut">
 		<rom name="400 - FE8 Fanmade Directors Cut" size="21871792" crc="a7a210d5" />
+	</machine>
+	<machine name="FE8 HazelCustom">
+		<rom name="711 - FE8 HazelCustom" size="17480036" crc="6f49856f" />
 	</machine>
 	<machine name="FE8 Lyn Windy">
 		<rom name="374 - FE8 Lyn Windy" size="17203948" crc="c7a95be3" />
@@ -600,6 +631,9 @@
 	<machine name="FE8 Remix">
 		<rom name="388 - FE8 Remix" size="24792284" crc="98a5a872" />
 	</machine>
+	<machine name="FE8 Reshuffle">
+		<rom name="725 - FE8 Reshuffle" size="17341536" crc="0dc30ee9" />
+	</machine>
 	<machine name="FE8 Reunion">
 		<rom name="556 - FE8 Reunion" size="16777216" crc="1eeddb5f" />
 	</machine>
@@ -612,11 +646,17 @@
 	<machine name="FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)">
 		<rom name="349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)" size="27797400" crc="66e98aba" />
 	</machine>
+	<machine name="FE8 ROY">
+		<rom name="722 - FE8 ROY" size="15899116" crc="963c09c5" />
+	</machine>
 	<machine name="FE8 The Fallen Princess">
 		<rom name="401 - FE8 The Fallen Princess" size="21021140" crc="3c806e93" />
 	</machine>
 	<machine name="FE8 Totally Vanilla">
 		<rom name="450 - FE8 Totally Vanilla" size="16777216" crc="cb15d1a3" />
+	</machine>
+	<machine name="FE8 TS">
+		<rom name="723 - FE8 TS" size="20971520" crc="cb745df9" />
 	</machine>
 	<machine name="FE8 Weapon Reversal">
 		<rom name="376 - FE8 Weapon Reversal" size="18248732" crc="b069af12" />
@@ -630,11 +670,20 @@
 	<machine name="FE8 with FE4 Graphics (weapon icons)">
 		<rom name="549 - FE8 with FE4 Graphics (weapon icons)" size="16777216" crc="d14c8d42" />
 	</machine>
+	<machine name="FE8 803">
+		<rom name="707 - FE8 803" size="16777216" crc="2cf2cd8f" />
+	</machine>
 	<machine name="FE8_GIRLS">
 		<rom name="174 - FE8_GIRLS" size="16777216" crc="214b26b9" />
 	</machine>
 	<machine name="FE8_GIRLS (English Translation)">
 		<rom name="175 - FE8_GIRLS (English Translation)" size="16777216" crc="d98445bc" />
+	</machine>
+	<machine name="FE8_GIRLS (test)">
+		<rom name="709 - FE8_GIRLS (test)" size="16777216" crc="26c1b0fb" />
+	</machine>
+	<machine name="FE8_GIRLS English Patch (only interface)">
+		<rom name="710 - FE8_GIRLS English Patch (only interface)" size="16777216" crc="de83049e" />
 	</machine>
 	<machine name="FE8BEWHABEWAASAHIHI">
 		<rom name="404 - FE8BEWHABEWAASAHIHI" size="16818460" crc="2bb3fd58" />
@@ -642,8 +691,17 @@
 	<machine name="FE8ESHGBTGISTTM">
 		<rom name="387 - FE8ESHGBTGISTTM" size="16809264" crc="17c71c14" />
 	</machine>
+	<machine name="FE8plus">
+		<rom name="713 - FE8plus" size="18874368" crc="a8b1fb0b" />
+	</machine>
 	<machine name="FE8Re(gret)">
 		<rom name="601 - FE8Re(gret)" size="16951928" crc="ae563a17" />
+	</machine>
+	<machine name="FE8S+アルファ版">
+		<rom name="714 - FE8S+アルファ版" size="26753744" crc="535a31dd" />
+	</machine>
+	<machine name="FE8改造">
+		<rom name="706 - FE8改造" size="16777216" crc="616dfbb4" />
 	</machine>
 	<machine name="Fe 8 Chess">
 		<rom name="241 - Fe 8 Chess" size="16806152" crc="d5ddb5e8" />
@@ -680,6 +738,9 @@
 	</machine>
 	<machine name="FEU Gacha">
 		<rom name="168 - FEU Gacha" size="16777216" crc="35c74672" />
+	</machine>
+	<machine name="FE封印 改造">
+		<rom name="691 - FE封印 改造" size="8388608" crc="2139cad4" />
 	</machine>
 	<machine name="FE聖魔 適当に改造 まるっと全部修正">
 		<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
@@ -1659,6 +1720,12 @@
 	<machine name="The Last Promise (Easy Mode)">
 		<rom name="104 - The Last Promise (Easy Mode)" size="32445120" crc="be1b4153" />
 	</machine>
+	<machine name="The Last Promise (Japanese Translation)">
+		<rom name="696 - The Last Promise (Japanese Translation)" size="32505856" crc="33c46851" />
+	</machine>
+	<machine name="The Last Promise (Japanese Translation) (Fixed Only)">
+		<rom name="697 - The Last Promise (Japanese Translation) (Fixed Only)" size="32505856" crc="ece0afc9" />
+	</machine>
 	<machine name="The Last Promise (Weapon Reversal)">
 		<rom name="106 - The Last Promise (Weapon Reversal)" size="33302356" crc="38f7a2c6" />
 	</machine>
@@ -1797,6 +1864,9 @@
 	<machine name="Wheel Of Misfortune">
 		<rom name="540 - Wheel Of Misfortune" size="19997476" crc="71238326" />
 	</machine>
+	<machine name="WillanZ Rebellion (リベリオン)">
+		<rom name="715 - WillanZ Rebellion (リベリオン)" size="28914848" crc="de84bb04" />
+	</machine>
 	<machine name="Winning Against Gharnef">
 		<rom name="165 - Winning Against Gharnef" size="18085528" crc="03c472ee" />
 	</machine>
@@ -1818,8 +1888,8 @@
 	<machine name="Yggdra Hack UI Translation">
 		<rom name="182 - Yggdra Hack UI Translation" size="25450720" crc="63b815ad" />
 	</machine>
-	<machine name="Yugudora Hack">
-		<rom name="181 - Yugudora Hack" size="26349436" crc="ea667865" />
+	<machine name="Yugudora Hack (ユグドラパッチ)">
+		<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="26349436" crc="ea667865" />
 	</machine>
 	<machine name="Yuri’s Sidestory">
 		<rom name="126 - Yuri’s Sidestory" size="19915128" crc="8c417a5c" />
@@ -1830,11 +1900,62 @@
 	<machine name="Zombie Apocalypse">
 		<rom name="252 - Zombie Apocalypse" size="18992412" crc="93ee3ea3" />
 	</machine>
+	<machine name="つどえ八神将 (tsudoe)">
+		<rom name="717 - つどえ八神将 (tsudoe)" size="23261184" crc="75d63f23" />
+	</machine>
+	<machine name="つどえ八神将 (しねおじ)">
+		<rom name="718 - つどえ八神将 (しねおじ)" size="16931672" crc="c7df9ecc" />
+	</machine>
+	<machine name="エイリークパッチ">
+		<rom name="716 - エイリークパッチ" size="27746224" crc="2ba502ca" />
+	</machine>
+	<machine name="デフレ聖魔の光石">
+		<rom name="719 - デフレ聖魔の光石" size="33554432" crc="08547586" />
+	</machine>
+	<machine name="デフ烈火の剣">
+		<rom name="703 - デフ烈火の剣" size="33554432" crc="0b5cb986" />
+	</machine>
+	<machine name="ヘイデンの野望">
+		<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
+	</machine>
 	<machine name="名も無き英雄">
 		<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
 	</machine>
 	<machine name="女王の剣 (Queen’s Sword)">
 		<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+	</machine>
+	<machine name="封印ちょっと改造">
+		<rom name="692 - 封印ちょっと改造" size="8700080" crc="5b167458" />
+	</machine>
+	<machine name="封印ノーマルプラス">
+		<rom name="695 - 封印ノーマルプラス" size="8388608" crc="847ed5df" />
+	</machine>
+	<machine name="封印ベリーハードっぽいもの">
+		<rom name="693 - 封印ベリーハードっぽいもの" size="16777232" crc="ca21e647" />
+	</machine>
+	<machine name="東方炎紋章">
+		<rom name="724 - 東方炎紋章" size="16777216" crc="188eaaf6" />
+	</machine>
+	<machine name="烈火の剣 if (test)">
+		<rom name="700 - 烈火の剣 if (test)" size="33554432" crc="163a9cf2" />
+	</machine>
+	<machine name="烈火の剣 if (update)">
+		<rom name="701 - 烈火の剣 if (update)" size="33554432" crc="1560b86c" />
+	</machine>
+	<machine name="烈火の剣 if D(イージー）">
+		<rom name="699 - 烈火の剣 if D(イージー）" size="33554432" crc="ee349ea5" />
+	</machine>
+	<machine name="烈火の剣ベリーハード">
+		<rom name="704 - 烈火の剣ベリーハード" size="16777216" crc="aebff0c0" />
+	</machine>
+	<machine name="烈火マニアック勝手に完成版">
+		<rom name="705 - 烈火マニアック勝手に完成版" size="16777216" crc="92be8dbd" />
+	</machine>
+	<machine name="聖魔 ちょっ改">
+		<rom name="720 - 聖魔 ちょっ改" size="16777216" crc="0a9ab177" />
+	</machine>
+	<machine name="聖魔ベリーハード">
+		<rom name="721 - 聖魔ベリーハード" size="33554472" crc="5da9b5ea" />
 	</machine>
 	<machine name="黄昏の魔剣１部">
 		<rom name="444 - 黄昏の魔剣１部" size="22610180" crc="02a1d458" />

@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220322",
+		"version": "20220323",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -143,7 +143,7 @@
 		},
 		{
 			"machine": {
-				"name": "A Glimpse of Time",
+				"name": "A Glimpse of Time (時の垣間 エリウッド編)",
 				"comment": "https://ameblo.jp/yu-meigunsi/theme-10033783736.html",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -152,7 +152,7 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "178 - A Glimpse of Time",
+						"name": "178 - A Glimpse of Time (時の垣間 エリウッド編)",
 						"size": 19436704,
 						"crc": "caccb1eb"
 					}
@@ -2789,6 +2789,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 smabroROY",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "694 - FE6 smabroROY",
+						"size": 8829832,
+						"crc": "187655d6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 The Divine War",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/",
 				"description": null,
@@ -2933,6 +2951,24 @@
 		},
 		{
 			"machine": {
+				"name": "fe6-10",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "688 - fe6-10",
+						"size": 17825792,
+						"crc": "26361a11"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6-CharSwap-FE7 (0% Growths)",
 				"comment": "https://feuniverse.us/t/fe6-charswap-fe7/14944",
 				"description": null,
@@ -3035,6 +3071,68 @@
 						"name": "303 - FE6-CharSwap-FE7",
 						"size": 18309172,
 						"crc": "077fb7f5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "fe6_reshuffle",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "686 - fe6_reshuffle",
+						"size": 8475760,
+						"crc": "c0ee82a1"
+					}
+				},
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "687 - fe6_reshuffle",
+						"size": 10029964,
+						"crc": "29923ad6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "fe6hack",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "689 - fe6hack",
+						"size": 17825792,
+						"crc": "fd53467e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6R",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "690 - FE6R",
+						"size": 10281640,
+						"crc": "451b2f22"
 					}
 				}
 			]
@@ -3221,6 +3319,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 デビル",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "698 - FE7 デビル",
+						"size": 8388608,
+						"crc": "e6193f78"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 自作改造",
+				"comment": "http://www.evernote.com/l/ARljQw9kh8RABo8yThbKTTYHVBmCkzEXLKo/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "702 - FE7 自作改造",
+						"size": 31522816,
+						"crc": "dd53e68a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7if",
 				"comment": "https://seesaawiki.jp/fe7if/",
 				"description": null,
@@ -3257,6 +3391,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 AWS(Another War Story)",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "712 - FE8 AWS(Another War Story)",
+						"size": 16894316,
+						"crc": "8f4a878a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Beta Test 1",
 				"comment": "http://www.feshrine.net/forums/index.php?showtopic=4894",
 				"description": null,
@@ -3287,6 +3439,24 @@
 						"name": "366 - FE8 Boss Recruitment (Ephraim Route)",
 						"size": 17208220,
 						"crc": "6fa24ab4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 BS",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "726 - FE8 BS",
+						"size": 16777216,
+						"crc": "31e71ef6"
 					}
 				}
 			]
@@ -3485,6 +3655,24 @@
 						"name": "400 - FE8 Fanmade Directors Cut",
 						"size": 21871792,
 						"crc": "a7a210d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 HazelCustom",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "711 - FE8 HazelCustom",
+						"size": 17480036,
+						"crc": "6f49856f"
 					}
 				}
 			]
@@ -3707,6 +3895,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Reshuffle",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "725 - FE8 Reshuffle",
+						"size": 17341536,
+						"crc": "0dc30ee9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Reunion",
 				"comment": "",
 				"description": null,
@@ -3779,6 +3985,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 ROY",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "722 - FE8 ROY",
+						"size": 15899116,
+						"crc": "963c09c5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 The Fallen Princess",
 				"comment": "https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317",
 				"description": null,
@@ -3809,6 +4033,24 @@
 						"name": "450 - FE8 Totally Vanilla",
 						"size": 16777216,
 						"crc": "cb15d1a3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 TS",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "723 - FE8 TS",
+						"size": 20971520,
+						"crc": "cb745df9"
 					}
 				}
 			]
@@ -3887,6 +4129,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 803",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "707 - FE8 803",
+						"size": 16777216,
+						"crc": "2cf2cd8f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8_GIRLS",
 				"comment": "ガールズ(09.10.04)",
 				"description": null,
@@ -3917,6 +4177,42 @@
 						"name": "175 - FE8_GIRLS (English Translation)",
 						"size": 16777216,
 						"crc": "d98445bc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8_GIRLS (test)",
+				"comment": "ver.test_100105",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "709 - FE8_GIRLS (test)",
+						"size": 16777216,
+						"crc": "26c1b0fb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8_GIRLS English Patch (only interface)",
+				"comment": "インターフェースのみ英語版を作ってみました",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "710 - FE8_GIRLS English Patch (only interface)",
+						"size": 16777216,
+						"crc": "de83049e"
 					}
 				}
 			]
@@ -3959,6 +4255,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8plus",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "713 - FE8plus",
+						"size": 18874368,
+						"crc": "a8b1fb0b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8Re(gret)",
 				"comment": "https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721",
 				"description": null,
@@ -3971,6 +4285,42 @@
 						"name": "601 - FE8Re(gret)",
 						"size": 16951928,
 						"crc": "ae563a17"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8S+アルファ版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "714 - FE8S+アルファ版",
+						"size": 26753744,
+						"crc": "535a31dd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8改造",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "706 - FE8改造",
+						"size": 16777216,
+						"crc": "616dfbb4"
 					}
 				}
 			]
@@ -4187,6 +4537,24 @@
 						"name": "168 - FEU Gacha",
 						"size": 16777216,
 						"crc": "35c74672"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE封印 改造",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "691 - FE封印 改造",
+						"size": 8388608,
+						"crc": "2139cad4"
 					}
 				}
 			]
@@ -10061,6 +10429,42 @@
 		},
 		{
 			"machine": {
+				"name": "The Last Promise (Japanese Translation)",
+				"comment": "tlp の google翻訳バージョンです",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "696 - The Last Promise (Japanese Translation)",
+						"size": 32505856,
+						"crc": "33c46851"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Last Promise (Japanese Translation) (Fixed Only)",
+				"comment": "変更されていないテキストをそのまま変換しただけのものです",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "697 - The Last Promise (Japanese Translation) (Fixed Only)",
+						"size": 32505856,
+						"crc": "ece0afc9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Last Promise (Weapon Reversal)",
 				"comment": "https://feuniverse.us/t/tlp-weapon-reversal/5339",
 				"description": null,
@@ -10889,6 +11293,24 @@
 		},
 		{
 			"machine": {
+				"name": "WillanZ Rebellion (リベリオン)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "715 - WillanZ Rebellion (リベリオン)",
+						"size": 28914848,
+						"crc": "de84bb04"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Winning Against Gharnef",
 				"comment": "https://github.com/sme23/MekkahRestrictedHackComp1",
 				"description": null,
@@ -11015,8 +11437,8 @@
 		},
 		{
 			"machine": {
-				"name": "Yugudora Hack",
-				"comment": "ユグドラパッチ",
+				"name": "Yugudora Hack (ユグドラパッチ)",
+				"comment": "http://feyugudora444.livedoor.blog/",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -11024,7 +11446,7 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "181 - Yugudora Hack",
+						"name": "181 - Yugudora Hack (ユグドラパッチ)",
 						"size": 26349436,
 						"crc": "ea667865"
 					}
@@ -11087,6 +11509,114 @@
 		},
 		{
 			"machine": {
+				"name": "つどえ八神将 (tsudoe)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "717 - つどえ八神将 (tsudoe)",
+						"size": 23261184,
+						"crc": "75d63f23"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "つどえ八神将 (しねおじ)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "718 - つどえ八神将 (しねおじ)",
+						"size": 16931672,
+						"crc": "c7df9ecc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "エイリークパッチ",
+				"comment": "http://feyugudora444.livedoor.blog/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "716 - エイリークパッチ",
+						"size": 27746224,
+						"crc": "2ba502ca"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "デフレ聖魔の光石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "719 - デフレ聖魔の光石",
+						"size": 33554432,
+						"crc": "08547586"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "デフ烈火の剣",
+				"comment": "イラナイツ系、ネタ動画向き",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "703 - デフ烈火の剣",
+						"size": 33554432,
+						"crc": "0b5cb986"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "ヘイデンの野望",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "708 - ヘイデンの野望",
+						"size": 16777216,
+						"crc": "ef551a7a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "名も無き英雄",
 				"comment": "The Nameless Heroes",
 				"description": null,
@@ -11117,6 +11647,204 @@
 						"name": "420 - 女王の剣 (Queen’s Sword)",
 						"size": 33554432,
 						"crc": "658dc7e3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印ちょっと改造",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "692 - 封印ちょっと改造",
+						"size": 8700080,
+						"crc": "5b167458"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印ノーマルプラス",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "695 - 封印ノーマルプラス",
+						"size": 8388608,
+						"crc": "847ed5df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印ベリーハードっぽいもの",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "693 - 封印ベリーハードっぽいもの",
+						"size": 16777232,
+						"crc": "ca21e647"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "東方炎紋章",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "724 - 東方炎紋章",
+						"size": 16777216,
+						"crc": "188eaaf6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火の剣 if (test)",
+				"comment": "タキオンさんが作ったFE7if unofficial support Patchを正式に採用しました",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "700 - 烈火の剣 if (test)",
+						"size": 33554432,
+						"crc": "163a9cf2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火の剣 if (update)",
+				"comment": "烈火の剣ＩＦ　アップデートパッチ",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "701 - 烈火の剣 if (update)",
+						"size": 33554432,
+						"crc": "1560b86c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火の剣 if D(イージー）",
+				"comment": "FE7ifに比べてデフレ化してみたもの",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "699 - 烈火の剣 if D(イージー）",
+						"size": 33554432,
+						"crc": "ee349ea5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火の剣ベリーハード",
+				"comment": "もう少し難しいのがいいな、という程度の人向けです",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "704 - 烈火の剣ベリーハード",
+						"size": 16777216,
+						"crc": "aebff0c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火マニアック勝手に完成版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "705 - 烈火マニアック勝手に完成版",
+						"size": 16777216,
+						"crc": "92be8dbd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "聖魔 ちょっ改",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "720 - 聖魔 ちょっ改",
+						"size": 16777216,
+						"crc": "0a9ab177"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "聖魔ベリーハード",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "721 - 聖魔ベリーハード",
+						"size": 33554472,
+						"crc": "5da9b5ea"
 					}
 				}
 			]

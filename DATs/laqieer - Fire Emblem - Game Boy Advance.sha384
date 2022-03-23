@@ -1,6 +1,6 @@
  183 - 2 Princesses
  184 - 2 Princesses (English Translation)
- 178 - A Glimpse of Time
+ 178 - A Glimpse of Time (時の垣間 エリウッド編)
  516 - A Hobbit's Tale
  530 - A New Revelation
  286 - A Sacred Dawn
@@ -147,6 +147,7 @@
  302 - FE6 Recoloured
  321 - FE6 Refurbished
  326 - FE6 rom with HM bonuses for everyone
+ 694 - FE6 smabroROY
  551 - FE6 The Divine War
  298 - FE6 Unfair and Bad
  300 - FE6 Unit Swap (Balanced)
@@ -155,12 +156,17 @@
  293 - FE6 Weapon Reversal (Without Weapon Changes)
  328 - FE6 with no HM bonuses
  327 - FE6 with some double HM bonuses
+ 688 - fe6-10
  305 - FE6-CharSwap-FE7 (0% Growths)
  306 - FE6-CharSwap-FE7 (1% Growths)
  308 - FE6-CharSwap-FE7 (2xHard Mode)
  307 - FE6-CharSwap-FE7 (100% Growths)
  304 - FE6-CharSwap-FE7 (Fixed Growths)
  303 - FE6-CharSwap-FE7
+ 686 - fe6_reshuffle
+ 687 - fe6_reshuffle
+ 689 - fe6hack
+ 690 - FE6R
  264 - FE7 Allegiance Reversal+
  596 - FE7 Boss Recruitment
  332 - FE7 Chaos Mode
@@ -171,10 +177,14 @@
  628 - FE7 Lyn Hard Mode Redux
  629 - FE7 Lyn Hard Mode Redux JP
  626 - FE7 Rewrite
+ 698 - FE7 デビル
+ 702 - FE7 自作改造
  109 - FE7if
  384 - FE8 All Weapons are Devil Weapons
+ 712 - FE8 AWS(Another War Story)
  553 - FE8 Beta Test 1
  366 - FE8 Boss Recruitment (Ephraim Route)
+ 726 - FE8 BS
  396 - FE8 Changes Lite
  368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)
  369 - FE8 Chaos Randomizer (Normal recruitment, randomized base stats)
@@ -186,6 +196,7 @@
  380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)
  546 - FE8 Darion's Mode
  400 - FE8 Fanmade Directors Cut
+ 711 - FE8 HazelCustom
  374 - FE8 Lyn Windy
  393 - FE8 Maniac Mode
  378 - FE8 Master Version
@@ -198,21 +209,30 @@
  375 - FE8 QoL Edition
  399 - FE8 Redux
  388 - FE8 Remix
+ 725 - FE8 Reshuffle
  556 - FE8 Reunion
  351 - FE8 Reverse Recruitment Self Randomizer (The Sacred Lyon’s Hard Mode)
  350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage)
  349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage)
+ 722 - FE8 ROY
  401 - FE8 The Fallen Princess
  450 - FE8 Totally Vanilla
+ 723 - FE8 TS
  376 - FE8 Weapon Reversal
  385 - FE8 Wild Mode
  550 - FE8 with FE4 Graphics (map sprites)
  549 - FE8 with FE4 Graphics (weapon icons)
+ 707 - FE8 803
  174 - FE8_GIRLS
  175 - FE8_GIRLS (English Translation)
+ 709 - FE8_GIRLS (test)
+ 710 - FE8_GIRLS English Patch (only interface)
  404 - FE8BEWHABEWAASAHIHI
  387 - FE8ESHGBTGISTTM
+ 713 - FE8plus
  601 - FE8Re(gret)
+ 714 - FE8S+アルファ版
+ 706 - FE8改造
  241 - Fe 8 Chess
  198 - FE but it’s my Biology Homework
  213 - FE The Grand Uprising
@@ -225,6 +245,7 @@
  478 - Ferrica - Project Kenko
  507 - FETO's Last Stand
  168 - FEU Gacha
+ 691 - FE封印 改造
  364 - FE聖魔 適当に改造 まるっと全部修正
  480 - Fight for Freedom
  472 - Final Fantasy 10 Remake
@@ -275,7 +296,7 @@
  28 - Fire Emblem - Sword of Seals (English Translation v2
  110 - Fire Emblem - Tenchi no Ken (Japan)
  157 - Fire Emblem - The Arch of Coups
- 29 - Fire Emblem - The Binding Blade (English Localization v1
+ 29 - Fire Emblem - The Binding Blade (English Localization v1.1
  281 - Fire Emblem - The Binding Blade Extreme
  221 - Fire Emblem - The Fall of Thabes
  155 - Fire Emblem - The Heroes We Deserve
@@ -365,7 +386,7 @@
  377 - Lute Emblem - The Sacred Lutes
  346 - Lyn Emblem
  519 - Lyn's Revenge
- 467 - M. E. R. C
+ 467 - M. E. R. C. S
  557 - MageKnight404's FE7 Hack
  125 - Maiden Quest
  565 - Many Emblem
@@ -551,6 +572,8 @@
  103 - The Last Promise
  105 - The Last Promise (Chaos Mode DEMO)
  104 - The Last Promise (Easy Mode)
+ 696 - The Last Promise (Japanese Translation)
+ 697 - The Last Promise (Japanese Translation) (Fixed Only)
  106 - The Last Promise (Weapon Reversal)
  433 - The Lonely Mirror (Classic)
  434 - The Lonely Mirror (Friendly)
@@ -597,6 +620,7 @@
  235 - War on Two Fronts (0% Growths)
  278 - Water Crest - Morps’s Quest For Pants
  540 - Wheel Of Misfortune
+ 715 - WillanZ Rebellion (リベリオン)
  165 - Winning Against Gharnef
  483 - Wrath of the Crusade
  655 - Xenith's MAFC4 patch
@@ -604,12 +628,29 @@
  606 - XPGamesNL's Two Hour Blitz - The Town Of Neron
  514 - Yet Another Ragefest Hack
  182 - Yggdra Hack UI Translation
- 181 - Yugudora Hack
+ 181 - Yugudora Hack (ユグドラパッチ)
  126 - Yuri’s Sidestory
  641 - Zmr's 1h Blitz - Hour of Dusk
  252 - Zombie Apocalypse
+ 717 - つどえ八神将 (tsudoe)
+ 718 - つどえ八神将 (しねおじ)
+ 716 - エイリークパッチ
+ 719 - デフレ聖魔の光石
+ 703 - デフ烈火の剣
+ 708 - ヘイデンの野望
  447 - 名も無き英雄
  420 - 女王の剣 (Queen’s Sword)
+ 692 - 封印ちょっと改造
+ 695 - 封印ノーマルプラス
+ 693 - 封印ベリーハードっぽいもの
+ 724 - 東方炎紋章
+ 700 - 烈火の剣 if (test)
+ 701 - 烈火の剣 if (update)
+ 699 - 烈火の剣 if D(イージー）
+ 704 - 烈火の剣ベリーハード
+ 705 - 烈火マニアック勝手に完成版
+ 720 - 聖魔 ちょっ改
+ 721 - 聖魔ベリーハード
  444 - 黄昏の魔剣１部
  445 - 黄昏の魔剣２部パンナルート
  446 - 黄昏の魔剣２部主人公覚醒編

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220322</version>
+		<version>20220323</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -134,14 +134,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>A Glimpse of Time</name>
+				<name>A Glimpse of Time (時の垣間 エリウッド編)</name>
 				<comment>https://ameblo.jp/yu-meigunsi/theme-10033783736.html</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>178 - A Glimpse of Time</name>
+					<name>178 - A Glimpse of Time (時の垣間 エリウッド編)</name>
 					<size>19436704</size>
 					<crc>caccb1eb</crc>
 				</datitem>
@@ -2339,6 +2339,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 smabroROY</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>694 - FE6 smabroROY</name>
+					<size>8829832</size>
+					<crc>187655d6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 The Divine War</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/27091-fire-emblem-6-sword-of-seals-the-divine-war-ontrack-for-a-2014-release/</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2459,6 +2474,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>fe6-10</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>688 - fe6-10</name>
+					<size>17825792</size>
+					<crc>26361a11</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6-CharSwap-FE7 (0% Growths)</name>
 				<comment>https://feuniverse.us/t/fe6-charswap-fe7/14944</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2544,6 +2574,57 @@
 					<name>303 - FE6-CharSwap-FE7</name>
 					<size>18309172</size>
 					<crc>077fb7f5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>fe6_reshuffle</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>686 - fe6_reshuffle</name>
+					<size>8475760</size>
+					<crc>c0ee82a1</crc>
+				</datitem>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>687 - fe6_reshuffle</name>
+					<size>10029964</size>
+					<crc>29923ad6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>fe6hack</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>689 - fe6hack</name>
+					<size>17825792</size>
+					<crc>fd53467e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6R</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>690 - FE6R</name>
+					<size>10281640</size>
+					<crc>451b2f22</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2699,6 +2780,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 デビル</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>698 - FE7 デビル</name>
+					<size>8388608</size>
+					<crc>e6193f78</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 自作改造</name>
+				<comment>http://www.evernote.com/l/ARljQw9kh8RABo8yThbKTTYHVBmCkzEXLKo/</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>702 - FE7 自作改造</name>
+					<size>31522816</size>
+					<crc>dd53e68a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7if</name>
 				<comment>https://seesaawiki.jp/fe7if/</comment>
 				<publisher>Fan Modding</publisher>
@@ -2729,6 +2840,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 AWS(Another War Story)</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>712 - FE8 AWS(Another War Story)</name>
+					<size>16894316</size>
+					<crc>8f4a878a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 Beta Test 1</name>
 				<comment>http://www.feshrine.net/forums/index.php?showtopic=4894</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2754,6 +2880,21 @@
 					<name>366 - FE8 Boss Recruitment (Ephraim Route)</name>
 					<size>17208220</size>
 					<crc>6fa24ab4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 BS</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>726 - FE8 BS</name>
+					<size>16777216</size>
+					<crc>31e71ef6</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2919,6 +3060,21 @@
 					<name>400 - FE8 Fanmade Directors Cut</name>
 					<size>21871792</size>
 					<crc>a7a210d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 HazelCustom</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>711 - FE8 HazelCustom</name>
+					<size>17480036</size>
+					<crc>6f49856f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3104,6 +3260,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 Reshuffle</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>725 - FE8 Reshuffle</name>
+					<size>17341536</size>
+					<crc>0dc30ee9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 Reunion</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -3164,6 +3335,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 ROY</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>722 - FE8 ROY</name>
+					<size>15899116</size>
+					<crc>963c09c5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 The Fallen Princess</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3189,6 +3375,21 @@
 					<name>450 - FE8 Totally Vanilla</name>
 					<size>16777216</size>
 					<crc>cb15d1a3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 TS</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>723 - FE8 TS</name>
+					<size>20971520</size>
+					<crc>cb745df9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3254,6 +3455,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 803</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>707 - FE8 803</name>
+					<size>16777216</size>
+					<crc>2cf2cd8f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8_GIRLS</name>
 				<comment>ガールズ(09.10.04)</comment>
 				<publisher>Fan Modding</publisher>
@@ -3279,6 +3495,36 @@
 					<name>175 - FE8_GIRLS (English Translation)</name>
 					<size>16777216</size>
 					<crc>d98445bc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8_GIRLS (test)</name>
+				<comment>ver.test_100105</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>709 - FE8_GIRLS (test)</name>
+					<size>16777216</size>
+					<crc>26c1b0fb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8_GIRLS English Patch (only interface)</name>
+				<comment>インターフェースのみ英語版を作ってみました</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>710 - FE8_GIRLS English Patch (only interface)</name>
+					<size>16777216</size>
+					<crc>de83049e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3314,6 +3560,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8plus</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>713 - FE8plus</name>
+					<size>18874368</size>
+					<crc>a8b1fb0b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8Re(gret)</name>
 				<comment>https://feuniverse.us/t/wip-fe8re-gret-v0-41e-thats-right-im-making-it-public-now/13721</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3324,6 +3585,36 @@
 					<name>601 - FE8Re(gret)</name>
 					<size>16951928</size>
 					<crc>ae563a17</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8S+アルファ版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>714 - FE8S+アルファ版</name>
+					<size>26753744</size>
+					<crc>535a31dd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8改造</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>706 - FE8改造</name>
+					<size>16777216</size>
+					<crc>616dfbb4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3504,6 +3795,21 @@
 					<name>168 - FEU Gacha</name>
 					<size>16777216</size>
 					<crc>35c74672</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE封印 改造</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>691 - FE封印 改造</name>
+					<size>8388608</size>
+					<crc>2139cad4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8399,6 +8705,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Last Promise (Japanese Translation)</name>
+				<comment>tlp の google翻訳バージョンです</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>696 - The Last Promise (Japanese Translation)</name>
+					<size>32505856</size>
+					<crc>33c46851</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Last Promise (Japanese Translation) (Fixed Only)</name>
+				<comment>変更されていないテキストをそのまま変換しただけのものです</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>697 - The Last Promise (Japanese Translation) (Fixed Only)</name>
+					<size>32505856</size>
+					<crc>ece0afc9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Last Promise (Weapon Reversal)</name>
 				<comment>https://feuniverse.us/t/tlp-weapon-reversal/5339</comment>
 				<publisher>Fan Modding</publisher>
@@ -9089,6 +9425,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>WillanZ Rebellion (リベリオン)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>715 - WillanZ Rebellion (リベリオン)</name>
+					<size>28914848</size>
+					<crc>de84bb04</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Winning Against Gharnef</name>
 				<comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
 				<publisher>Fan Modding</publisher>
@@ -9194,14 +9545,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>Yugudora Hack</name>
-				<comment>ユグドラパッチ</comment>
+				<name>Yugudora Hack (ユグドラパッチ)</name>
+				<comment>http://feyugudora444.livedoor.blog/</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>181 - Yugudora Hack</name>
+					<name>181 - Yugudora Hack (ユグドラパッチ)</name>
 					<size>26349436</size>
 					<crc>ea667865</crc>
 				</datitem>
@@ -9254,6 +9605,96 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>つどえ八神将 (tsudoe)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>717 - つどえ八神将 (tsudoe)</name>
+					<size>23261184</size>
+					<crc>75d63f23</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>つどえ八神将 (しねおじ)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>718 - つどえ八神将 (しねおじ)</name>
+					<size>16931672</size>
+					<crc>c7df9ecc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>エイリークパッチ</name>
+				<comment>http://feyugudora444.livedoor.blog/</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>716 - エイリークパッチ</name>
+					<size>27746224</size>
+					<crc>2ba502ca</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>デフレ聖魔の光石</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>719 - デフレ聖魔の光石</name>
+					<size>33554432</size>
+					<crc>08547586</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>デフ烈火の剣</name>
+				<comment>イラナイツ系、ネタ動画向き</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>703 - デフ烈火の剣</name>
+					<size>33554432</size>
+					<crc>0b5cb986</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>ヘイデンの野望</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>708 - ヘイデンの野望</name>
+					<size>16777216</size>
+					<crc>ef551a7a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>名も無き英雄</name>
 				<comment>The Nameless Heroes</comment>
 				<publisher>Fan Modding</publisher>
@@ -9279,6 +9720,171 @@
 					<name>420 - 女王の剣 (Queen’s Sword)</name>
 					<size>33554432</size>
 					<crc>658dc7e3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印ちょっと改造</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>692 - 封印ちょっと改造</name>
+					<size>8700080</size>
+					<crc>5b167458</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印ノーマルプラス</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>695 - 封印ノーマルプラス</name>
+					<size>8388608</size>
+					<crc>847ed5df</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印ベリーハードっぽいもの</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>693 - 封印ベリーハードっぽいもの</name>
+					<size>16777232</size>
+					<crc>ca21e647</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>東方炎紋章</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>724 - 東方炎紋章</name>
+					<size>16777216</size>
+					<crc>188eaaf6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>烈火の剣 if (test)</name>
+				<comment>タキオンさんが作ったFE7if unofficial support Patchを正式に採用しました</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>700 - 烈火の剣 if (test)</name>
+					<size>33554432</size>
+					<crc>163a9cf2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>烈火の剣 if (update)</name>
+				<comment>烈火の剣ＩＦ　アップデートパッチ</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>701 - 烈火の剣 if (update)</name>
+					<size>33554432</size>
+					<crc>1560b86c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>烈火の剣 if D(イージー）</name>
+				<comment>FE7ifに比べてデフレ化してみたもの</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>699 - 烈火の剣 if D(イージー）</name>
+					<size>33554432</size>
+					<crc>ee349ea5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>烈火の剣ベリーハード</name>
+				<comment>もう少し難しいのがいいな、という程度の人向けです</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>704 - 烈火の剣ベリーハード</name>
+					<size>16777216</size>
+					<crc>aebff0c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>烈火マニアック勝手に完成版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>705 - 烈火マニアック勝手に完成版</name>
+					<size>16777216</size>
+					<crc>92be8dbd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>聖魔 ちょっ改</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>720 - 聖魔 ちょっ改</name>
+					<size>16777216</size>
+					<crc>0a9ab177</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>聖魔ベリーハード</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>721 - 聖魔ベリーハード</name>
+					<size>33554472</size>
+					<crc>5da9b5ea</crc>
 				</datitem>
 			</files>
 		</directory>

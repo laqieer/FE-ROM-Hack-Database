@@ -28,7 +28,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>A Glimpse of Time</title>
+		<title>A Glimpse of Time (時の垣間 エリウッド編)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1939,6 +1939,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE6 smabroROY</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE6 The Divine War</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2043,6 +2056,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>fe6-10</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE6-CharSwap-FE7 (0% Growths)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2109,6 +2135,50 @@
 	</software>
 	<software>
 		<title>FE6-CharSwap-FE7</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>fe6_reshuffle</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>fe6hack</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6R</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2251,6 +2321,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 デビル</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 自作改造</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7if</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2277,6 +2373,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 AWS(Another War Story)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Beta Test 1</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2291,6 +2400,19 @@
 	</software>
 	<software>
 		<title>FE8 Boss Recruitment (Ephraim Route)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 BS</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2434,6 +2556,19 @@
 	</software>
 	<software>
 		<title>FE8 Fanmade Directors Cut</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 HazelCustom</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2602,6 +2737,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Reshuffle</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Reunion</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2654,6 +2802,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 ROY</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 The Fallen Princess</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2668,6 +2829,19 @@
 	</software>
 	<software>
 		<title>FE8 Totally Vanilla</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 TS</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2732,6 +2906,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 803</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8_GIRLS</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2746,6 +2933,32 @@
 	</software>
 	<software>
 		<title>FE8_GIRLS (English Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8_GIRLS (test)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8_GIRLS English Patch (only interface)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2784,7 +2997,46 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8plus</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8Re(gret)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8S+アルファ版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8改造</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2941,6 +3193,19 @@
 	</software>
 	<software>
 		<title>FEU Gacha</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE封印 改造</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7191,6 +7456,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Last Promise (Japanese Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Last Promise (Japanese Translation) (Fixed Only)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Last Promise (Weapon Reversal)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7789,6 +8080,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>WillanZ Rebellion (リベリオン)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Winning Against Gharnef</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7880,7 +8184,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>Yugudora Hack</title>
+		<title>Yugudora Hack (ユグドラパッチ)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7932,6 +8236,84 @@
 		</dump>
 	</software>
 	<software>
+		<title>つどえ八神将 (tsudoe)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>つどえ八神将 (しねおじ)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>エイリークパッチ</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>デフレ聖魔の光石</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>デフ烈火の剣</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>ヘイデンの野望</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>名も無き英雄</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7946,6 +8328,149 @@
 	</software>
 	<software>
 		<title>女王の剣 (Queen’s Sword)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>封印ちょっと改造</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>封印ノーマルプラス</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>封印ベリーハードっぽいもの</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>東方炎紋章</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火の剣 if (test)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火の剣 if (update)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火の剣 if D(イージー）</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火の剣ベリーハード</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火マニアック勝手に完成版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>聖魔 ちょっ改</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>聖魔ベリーハード</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220323
+version=20220325
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -11,8 +11,9 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬2 Princesses¬2 Princesses¬183 - 2 Princesses¬44f08e5b¬24646064¬¬¬
+¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
+¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬44f08e5b¬24646064¬¬¬
 ¬¬¬A Glimpse of Time (時の垣間 エリウッド編)¬A Glimpse of Time (時の垣間 エリウッド編)¬178 - A Glimpse of Time (時の垣間 エリウッド編)¬caccb1eb¬19436704¬¬¬
 ¬¬¬A Hobbit's Tale¬A Hobbit's Tale¬516 - A Hobbit's Tale¬b59f143c¬16820432¬¬¬
 ¬¬¬A New Revelation¬A New Revelation¬530 - A New Revelation¬08189dee¬17616732¬¬¬
@@ -34,7 +35,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬Auto Emblem¬Auto Emblem¬499 - Auto Emblem¬0624b3b0¬21952164¬¬¬
 ¬¬¬Awful Emblem¬Awful Emblem¬418 - Awful Emblem¬29f7ca11¬16777216¬¬¬
 ¬¬¬B3L-H411-A¬B3L-H411-A¬212 - B3L-H411-A¬db73120f¬17536556¬¬¬
+¬¬¬Back to the Stones¬Back to the Stones¬781 - Back to the Stones¬3b21a3cf¬16777216¬¬¬
 ¬¬¬Bandit Emblem¬Bandit Emblem¬204 - Bandit Emblem¬4c0a42a1¬17645508¬¬¬
+¬¬¬Bankai-Silverworld's Emblem¬Bankai-Silverworld's Emblem¬761 - Bankai-Silverworld's Emblem¬b0429e8d¬17454908¬¬¬
 ¬¬¬Barhara Trilogy¬Barhara Trilogy¬477 - Barhara Trilogy¬b04b7137¬18061372¬¬¬
 ¬¬¬Barry’s Bandits¬Barry’s Bandits¬156 - Barry’s Bandits¬2ce87ea5¬18715144¬¬¬
 ¬¬¬Bartre Emblem¬Bartre Emblem¬343 - Bartre Emblem¬e0fbf1e0¬16898080¬¬¬
@@ -95,6 +98,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Dawn of Destiny¬Dawn of Destiny¬460 - Dawn of Destiny¬4b7374da¬17208512¬¬¬
 ¬¬¬Dawn of the Red Sun¬Dawn of the Red Sun¬438 - Dawn of the Red Sun¬c740ae74¬19758868¬¬¬
 ¬¬¬Days of Beta Past¬Days of Beta Past¬648 - Days of Beta Past¬f4b17e5e¬22314492¬¬¬
+¬¬¬Death or Glory¬Death or Glory¬124 - Death or Glory¬c745ae1b¬21204928¬¬¬
 ¬¬¬Decay of the Fangs¬Decay of the Fangs¬253 - Decay of the Fangs¬85f73677¬20200548¬¬¬
 ¬¬¬Defense Mission¬Defense Mission¬653 - Defense Mission¬35a357bc¬33555892¬¬¬
 ¬¬¬Degeneration Emblem¬Degeneration Emblem¬337 - Degeneration Emblem¬dbc4ac1a¬16777216¬¬¬
@@ -124,6 +128,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Dual Fates¬Dual Fates¬573 - Dual Fates¬d3037fdb¬16777216¬¬¬
 ¬¬¬Duo Geno Escapo¬Duo Geno Escapo¬498 - Duo Geno Escapo¬a67b6e72¬21952160¬¬¬
 ¬¬¬Elibean Nights¬Elibean Nights¬243 - Elibean Nights¬0f2076bd¬28260392¬¬¬
+¬¬¬Eliwood vs Everyone¬Eliwood vs Everyone¬754 - Eliwood vs Everyone¬f61becac¬16777216¬¬¬
 ¬¬¬Emblem Warriors¬Emblem Warriors¬517 - Emblem Warriors¬1762a534¬21638172¬¬¬
 ¬¬¬Encryption20's Patch¬Encryption20's Patch¬548 - Encryption20's Patch¬1ee454b6¬16777216¬¬¬
 ¬¬¬Enderslicer's Escape¬Enderslicer's Escape¬524 - Enderslicer's Escape¬e9bdb90d¬16796976¬¬¬
@@ -131,12 +136,15 @@ version=Fire Emblem ROM hacks
 ¬¬¬ErikFE¬ErikFE¬440 - ErikFE¬a255ac4b¬18622088¬¬¬
 ¬¬¬Escape From the Mangs Dungeon¬Escape From the Mangs Dungeon¬161 - Escape From the Mangs Dungeon¬090dffb3¬17083184¬¬¬
 ¬¬¬Ethereal Light¬Ethereal Light¬580 - Ethereal Light¬a2e2fa4e¬18860184¬¬¬
+¬¬¬Exalted Legacy¬Exalted Legacy¬773 - Exalted Legacy¬02bc5b08¬18772600¬¬¬
 ¬¬¬Extinguished Blade¬Extinguished Blade¬288 - Extinguished Blade¬5a32401b¬16777216¬¬¬
 ¬¬¬Faith and Blood¬Faith and Blood¬442 - Faith and Blood¬e9be2065¬20661300¬¬¬
 ¬¬¬Fallen Flame¬Fallen Flame¬457 - Fallen Flame¬abed2733¬18016452¬¬¬
 ¬¬¬Fallen King¬Fallen King¬114 - Fallen King¬8b2cbe45¬17826344¬¬¬
 ¬¬¬Fallen Kingdom¬Fallen Kingdom¬406 - Fallen Kingdom¬9e3db0b4¬23128196¬¬¬
+¬¬¬Father of a Legend¬Father of a Legend¬558 - Father of a Legend¬5e4cffa1¬17556292¬¬¬
 ¬¬¬FE1 GBA¬FE1 GBA¬260 - FE1 GBA¬9be58bd8¬17361761¬¬¬
+¬¬¬FE4 Advance (joke demo)¬FE4 Advance (joke demo)¬762 - FE4 Advance (joke demo)¬3b1913e8¬22586360¬¬¬
 ¬¬¬FE6 All Mounts¬FE6 All Mounts¬297 - FE6 All Mounts¬cc905927¬16777532¬¬¬
 ¬¬¬FE6 Boss Recruitment¬FE6 Boss Recruitment¬597 - FE6 Boss Recruitment¬e3a4cd1e¬16777532¬¬¬
 ¬¬¬FE6 BugFixEdition¬FE6 BugFixEdition¬620 - FE6 BugFixEdition¬19bd10e9¬8589272¬¬¬
@@ -150,6 +158,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE6 Google Translated¬FE6 Google Translated¬299 - FE6 Google Translated¬1e494685¬16777532¬¬¬
 ¬¬¬FE6 has DSFE movement¬FE6 has DSFE movement¬599 - FE6 has DSFE movement¬c70fea41¬8586940¬¬¬
 ¬¬¬FE6 Incandescence Edition¬FE6 Incandescence Edition¬320 - FE6 Incandescence Edition¬564d7782¬16777532¬¬¬
+¬¬¬FE6 James Patch¬FE6 James Patch¬764 - FE6 James Patch¬af26efb5¬16777216¬¬¬
 ¬¬¬FE6 Negative Growths¬FE6 Negative Growths¬330 - FE6 Negative Growths¬08186206¬10655928¬¬¬
 ¬¬¬FE6 Negative Growths (English)¬FE6 Negative Growths (English)¬331 - FE6 Negative Growths (English)¬ac14b603¬16777216¬¬¬
 ¬¬¬FE6 No Redundancy Edition¬FE6 No Redundancy Edition¬585 - FE6 No Redundancy Edition¬a75aeb75¬9300520¬¬¬
@@ -179,22 +188,32 @@ version=Fire Emblem ROM hacks
 ¬¬¬fe6_reshuffle¬fe6_reshuffle¬686 - fe6_reshuffle¬c0ee82a1¬8475760¬¬¬
 ¬¬¬fe6_reshuffle¬fe6_reshuffle¬687 - fe6_reshuffle¬29923ad6¬10029964¬¬¬
 ¬¬¬fe6hack¬fe6hack¬689 - fe6hack¬fd53467e¬17825792¬¬¬
+¬¬¬FE6J 0% growths¬FE6J 0% growths¬757 - FE6J 0% growths¬5ff6a6b9¬8388608¬¬¬
 ¬¬¬FE6R¬FE6R¬690 - FE6R¬451b2f22¬10281640¬¬¬
+¬¬¬FE6RR¬FE6RR¬765 - FE6RR¬eaf32b75¬8388608¬¬¬
+¬¬¬FE6RRaddendum¬FE6RRaddendum¬766 - FE6RRaddendum¬d360f35f¬8388608¬¬¬
 ¬¬¬FE7 Allegiance Reversal+¬FE7 Allegiance Reversal+¬264 - FE7 Allegiance Reversal+¬8870c624¬16911048¬¬¬
 ¬¬¬FE7 Boss Recruitment¬FE7 Boss Recruitment¬596 - FE7 Boss Recruitment¬1e48ca58¬17102564¬¬¬
 ¬¬¬FE7 Chaos Mode¬FE7 Chaos Mode¬332 - FE7 Chaos Mode¬0f92ff9b¬18767508¬¬¬
 ¬¬¬FE7 Heroes¬FE7 Heroes¬581 - FE7 Heroes¬cc769fd5¬18878172¬¬¬
 ¬¬¬FE7 Inflation¬FE7 Inflation¬112 - FE7 Inflation¬6ea83897¬17825792¬¬¬
 ¬¬¬FE7 Leila Edition¬FE7 Leila Edition¬554 - FE7 Leila Edition¬3574373f¬17330932¬¬¬
+¬¬¬FE7 Letras espanyol¬FE7 Letras espanyol¬767 - FE7 Letras espanyol¬14d046df¬16777216¬¬¬
 ¬¬¬FE7 Lute Mode¬FE7 Lute Mode¬341 - FE7 Lute Mode¬969bae21¬16785796¬¬¬
 ¬¬¬FE7 Lyn Hard Mode Redux¬FE7 Lyn Hard Mode Redux¬628 - FE7 Lyn Hard Mode Redux¬c0514f76¬16829232¬¬¬
 ¬¬¬FE7 Lyn Hard Mode Redux JP¬FE7 Lyn Hard Mode Redux JP¬629 - FE7 Lyn Hard Mode Redux JP¬5344ef57¬16823200¬¬¬
 ¬¬¬FE7 Rewrite¬FE7 Rewrite¬626 - FE7 Rewrite¬a3e1d79e¬17894192¬¬¬
 ¬¬¬FE7 デビル¬FE7 デビル¬698 - FE7 デビル¬e6193f78¬8388608¬¬¬
 ¬¬¬FE7 自作改造¬FE7 自作改造¬702 - FE7 自作改造¬dd53e68a¬31522816¬¬¬
+¬¬¬FE7akaneiaproject¬FE7akaneiaproject¬772 - FE7akaneiaproject¬abc9be5e¬33554442¬¬¬
+¬¬¬fe7gaiden¬fe7gaiden¬771 - fe7gaiden¬53e75c22¬33785312¬¬¬
 ¬¬¬FE7if¬FE7if¬109 - FE7if¬6eca79ce¬33554432¬¬¬
+¬¬¬FE7PATCH¬FE7PATCH¬734 - FE7PATCH¬36191c57¬20019568¬¬¬
+¬¬¬FE7U 0% growths¬FE7U 0% growths¬758 - FE7U 0% growths¬b6a05eb3¬16777216¬¬¬
 ¬¬¬FE8 All Weapons are Devil Weapons¬FE8 All Weapons are Devil Weapons¬384 - FE8 All Weapons are Devil Weapons¬711edbc9¬16777216¬¬¬
+¬¬¬FE8 Another¬FE8 Another¬770 - FE8 Another¬436e6c5e¬19922944¬¬¬
 ¬¬¬FE8 AWS(Another War Story)¬FE8 AWS(Another War Story)¬712 - FE8 AWS(Another War Story)¬8f4a878a¬16894316¬¬¬
+¬¬¬FE8 Battle Royaleもどき(DEMO).α版¬FE8 Battle Royaleもどき(DEMO).α版¬727 - FE8 Battle Royaleもどき(DEMO).α版¬c3530fb4¬28596692¬¬¬
 ¬¬¬FE8 Beta Test 1¬FE8 Beta Test 1¬553 - FE8 Beta Test 1¬e82ad29c¬16777616¬¬¬
 ¬¬¬FE8 Boss Recruitment (Ephraim Route)¬FE8 Boss Recruitment (Ephraim Route)¬366 - FE8 Boss Recruitment (Ephraim Route)¬6fa24ab4¬17208220¬¬¬
 ¬¬¬FE8 BS¬FE8 BS¬726 - FE8 BS¬31e71ef6¬16777216¬¬¬
@@ -209,6 +228,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE8 Creature Campaign Reverse Recruitment (Ephraim)¬FE8 Creature Campaign Reverse Recruitment (Ephraim)¬380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)¬1cddfc8d¬16802988¬¬¬
 ¬¬¬FE8 Darion's Mode¬FE8 Darion's Mode¬546 - FE8 Darion's Mode¬b9965ea1¬16777216¬¬¬
 ¬¬¬FE8 Fanmade Directors Cut¬FE8 Fanmade Directors Cut¬400 - FE8 Fanmade Directors Cut¬a7a210d5¬21871792¬¬¬
+¬¬¬FE8 Harder patch¬FE8 Harder patch¬768 - FE8 Harder patch¬52733cf0¬16777216¬¬¬
 ¬¬¬FE8 HazelCustom¬FE8 HazelCustom¬711 - FE8 HazelCustom¬6f49856f¬17480036¬¬¬
 ¬¬¬FE8 Lyn Windy¬FE8 Lyn Windy¬374 - FE8 Lyn Windy¬c7a95be3¬17203948¬¬¬
 ¬¬¬FE8 Maniac Mode¬FE8 Maniac Mode¬393 - FE8 Maniac Mode¬b4861fca¬16863800¬¬¬
@@ -219,6 +239,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE8 Negative Growths¬FE8 Negative Growths¬367 - FE8 Negative Growths¬3c7352c1¬16777216¬¬¬
 ¬¬¬FE8 Oops, All Archers!¬FE8 Oops, All Archers!¬403 - FE8 Oops, All Archers!¬0c7a2625¬16912200¬¬¬
 ¬¬¬FE8 Project Dark¬FE8 Project Dark¬397 - FE8 Project Dark¬4b31296b¬17578004¬¬¬
+¬¬¬FE8 prologue (序章if)¬FE8 prologue (序章if)¬769 - FE8 prologue (序章if)¬a4fdf618¬16786688¬¬¬
 ¬¬¬FE8 QoL Edition¬FE8 QoL Edition¬375 - FE8 QoL Edition¬f45762e5¬16802916¬¬¬
 ¬¬¬FE8 Redux¬FE8 Redux¬399 - FE8 Redux¬b767b1dd¬29224272¬¬¬
 ¬¬¬FE8 Remix¬FE8 Remix¬388 - FE8 Remix¬98a5a872¬24792284¬¬¬
@@ -230,11 +251,13 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE8 ROY¬FE8 ROY¬722 - FE8 ROY¬963c09c5¬15899116¬¬¬
 ¬¬¬FE8 The Fallen Princess¬FE8 The Fallen Princess¬401 - FE8 The Fallen Princess¬3c806e93¬21021140¬¬¬
 ¬¬¬FE8 Totally Vanilla¬FE8 Totally Vanilla¬450 - FE8 Totally Vanilla¬cb15d1a3¬16777216¬¬¬
-¬¬¬FE8 TS¬FE8 TS¬723 - FE8 TS¬cb745df9¬20971520¬¬¬
+¬¬¬FE8 TS (圣魔光石个人特技版)¬FE8 TS (圣魔光石个人特技版)¬723 - FE8 TS (圣魔光石个人特技版)¬cb745df9¬20971520¬¬¬
 ¬¬¬FE8 Weapon Reversal¬FE8 Weapon Reversal¬376 - FE8 Weapon Reversal¬b069af12¬18248732¬¬¬
 ¬¬¬FE8 Wild Mode¬FE8 Wild Mode¬385 - FE8 Wild Mode¬00db28f0¬16816344¬¬¬
 ¬¬¬FE8 with FE4 Graphics (map sprites)¬FE8 with FE4 Graphics (map sprites)¬550 - FE8 with FE4 Graphics (map sprites)¬dca9a64f¬16777216¬¬¬
 ¬¬¬FE8 with FE4 Graphics (weapon icons)¬FE8 with FE4 Graphics (weapon icons)¬549 - FE8 with FE4 Graphics (weapon icons)¬d14c8d42¬16777216¬¬¬
+¬¬¬FE8 无聊之士版¬FE8 无聊之士版¬728 - FE8 无聊之士版¬d42a364c¬16777216¬¬¬
+¬¬¬FE8 麻袋修改版¬FE8 麻袋修改版¬745 - FE8 麻袋修改版¬3cc28078¬16809216¬¬¬
 ¬¬¬FE8 803¬FE8 803¬707 - FE8 803¬2cf2cd8f¬16777216¬¬¬
 ¬¬¬FE8_GIRLS¬FE8_GIRLS¬174 - FE8_GIRLS¬214b26b9¬16777216¬¬¬
 ¬¬¬FE8_GIRLS (English Translation)¬FE8_GIRLS (English Translation)¬175 - FE8_GIRLS (English Translation)¬d98445bc¬16777216¬¬¬
@@ -245,6 +268,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE8plus¬FE8plus¬713 - FE8plus¬a8b1fb0b¬18874368¬¬¬
 ¬¬¬FE8Re(gret)¬FE8Re(gret)¬601 - FE8Re(gret)¬ae563a17¬16951928¬¬¬
 ¬¬¬FE8S+アルファ版¬FE8S+アルファ版¬714 - FE8S+アルファ版¬535a31dd¬26753744¬¬¬
+¬¬¬FE8U 0% growths¬FE8U 0% growths¬759 - FE8U 0% growths¬a157be6b¬16777216¬¬¬
 ¬¬¬FE8改造¬FE8改造¬706 - FE8改造¬616dfbb4¬16777216¬¬¬
 ¬¬¬Fe 8 Chess¬Fe 8 Chess¬241 - Fe 8 Chess¬d5ddb5e8¬16806152¬¬¬
 ¬¬¬FE but it’s my Biology Homework¬FE but it’s my Biology Homework¬198 - FE but it’s my Biology Homework¬385de2ec¬17279456¬¬¬
@@ -273,7 +297,6 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Barhara Revisited¬Fire Emblem - Barhara Revisited¬123 - Fire Emblem - Barhara Revisited¬15482be6¬17529372¬¬¬
 ¬¬¬Fire Emblem - Code of the Black Knights¬Fire Emblem - Code of the Black Knights¬150 - Fire Emblem - Code of the Black Knights¬c666f8b1¬33016900¬¬¬
 ¬¬¬Fire Emblem - Darkest Blade¬Fire Emblem - Darkest Blade¬275 - Fire Emblem - Darkest Blade¬138220f4¬16827380¬¬¬
-¬¬¬Fire Emblem - Death or Glory¬Fire Emblem - Death or Glory¬124 - Fire Emblem - Death or Glory¬cf613764¬19915268¬¬¬
 ¬¬¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬122 - Fire Emblem - Different Dimensions Ostian Princess 2.0¬624f1b70¬17357688¬¬¬
 ¬¬¬Fire Emblem - Dust to Dust¬Fire Emblem - Dust to Dust¬277 - Fire Emblem - Dust to Dust¬f59dc2f8¬17845052¬¬¬
 ¬¬¬Fire Emblem - Emulation Theory¬Fire Emblem - Emulation Theory¬231 - Fire Emblem - Emulation Theory¬2960b252¬20286080¬¬¬
@@ -340,7 +363,6 @@ version=Fire Emblem ROM hacks
 ¬¬¬Flames of Freedom¬Flames of Freedom¬459 - Flames of Freedom¬5ab4c0e1¬19577796¬¬¬
 ¬¬¬Flames of Redemption¬Flames of Redemption¬239 - Flames of Redemption¬e1428e68¬24536888¬¬¬
 ¬¬¬Flames of Redemption (supports unlocked)¬Flames of Redemption (supports unlocked)¬240 - Flames of Redemption (supports unlocked)¬0c835af0¬24536888¬¬¬
-¬¬¬FOAL¬FOAL¬558 - FOAL¬5e4cffa1¬17556292¬¬¬
 ¬¬¬Foreboding Dusk¬Foreboding Dusk¬244 - Foreboding Dusk¬2220983b¬16888400¬¬¬
 ¬¬¬Fort Mangs Emblem¬Fort Mangs Emblem¬394 - Fort Mangs Emblem¬cadc97eb¬20269072¬¬¬
 ¬¬¬Fort Nunya¬Fort Nunya¬660 - Fort Nunya¬2b094a34¬17482308¬¬¬
@@ -383,10 +405,13 @@ version=Fire Emblem ROM hacks
 ¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬6e2c9f97¬33153280¬¬¬
 ¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬9cad49eb¬33465472¬¬¬
 ¬¬¬Knoll’s Super Spooky Halloween Adventure¬Knoll’s Super Spooky Halloween Adventure¬162 - Knoll’s Super Spooky Halloween Adventure¬19a64b75¬17014360¬¬¬
+¬¬¬Kylin Dragons¬Kylin Dragons¬763 - Kylin Dragons¬9bd3db9a¬17375996¬¬¬
 ¬¬¬Lady of Masks¬Lady of Masks¬590 - Lady of Masks¬6142c8a8¬21516196¬¬¬
 ¬¬¬Land of Heroes¬Land of Heroes¬476 - Land of Heroes¬5c77cc5e¬19246184¬¬¬
 ¬¬¬Last Heavenly Throne¬Last Heavenly Throne¬453 - Last Heavenly Throne¬9001906e¬20469068¬¬¬
 ¬¬¬Le Chien Est Adorable¬Le Chien Est Adorable¬505 - Le Chien Est Adorable¬08ff3b82¬16777776¬¬¬
+¬¬¬League of ASDF¬League of ASDF¬776 - League of ASDF¬30be1528¬18411908¬¬¬
+¬¬¬League of ASDF (Fixed Mode)¬League of ASDF (Fixed Mode)¬777 - League of ASDF (Fixed Mode)¬a4299f1b¬18411908¬¬¬
 ¬¬¬League of Champions (Patch1)¬League of Champions (Patch1)¬255 - League of Champions (Patch1)¬6c949342¬18586224¬¬¬
 ¬¬¬League of Champions (Patch2)¬League of Champions (Patch2)¬256 - League of Champions (Patch2)¬1b93a3d4¬16939004¬¬¬
 ¬¬¬Legacy of Sorrow (Easy Mode)¬Legacy of Sorrow (Easy Mode)¬571 - Legacy of Sorrow (Easy Mode)¬6765a094¬16777216¬¬¬
@@ -447,6 +472,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Prepare to Die¬Prepare to Die¬663 - Prepare to Die¬ae172eb9¬16982020¬¬¬
 ¬¬¬Prisoner of Darkness¬Prisoner of Darkness¬140 - Prisoner of Darkness¬95f14edd¬20971804¬¬¬
 ¬¬¬Prisoner of Darkness (Hard Mode)¬Prisoner of Darkness (Hard Mode)¬133 - Prisoner of Darkness (Hard Mode)¬1bbb05e1¬20971560¬¬¬
+¬¬¬Project dondon¬Project dondon¬778 - Project dondon¬2e260b2e¬16779108¬¬¬
 ¬¬¬Project Ember (HM Fixed Growths)¬Project Ember (HM Fixed Growths)¬313 - Project Ember (HM Fixed Growths)¬2d2abfb0¬25355392¬¬¬
 ¬¬¬Project Ember (HM)¬Project Ember (HM)¬309 - Project Ember (HM)¬636f7b05¬25355392¬¬¬
 ¬¬¬Project Ember (MM 0% Growths)¬Project Ember (MM 0% Growths)¬311 - Project Ember (MM 0% Growths)¬01e86337¬25355392¬¬¬
@@ -520,6 +546,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Shackled Power¬Shackled Power¬488 - Shackled Power¬da531631¬25215756¬¬¬
 ¬¬¬Shameless Reused Asset¬Shameless Reused Asset¬654 - Shameless Reused Asset¬294bcf37¬17750452¬¬¬
 ¬¬¬Shattered Stones¬Shattered Stones¬651 - Shattered Stones¬db045e48¬17267760¬¬¬
+¬¬¬Shatterlight¬Shatterlight¬774 - Shatterlight¬59213bb8¬17644220¬¬¬
 ¬¬¬Shep & Bluid's MAFC FEU It Again patch¬Shep & Bluid's MAFC FEU It Again patch¬681 - Shep & Bluid's MAFC FEU It Again patch¬14b155d8¬17419672¬¬¬
 ¬¬¬Shining Armor¬Shining Armor¬102 - Shining Armor¬67368bbb¬16788636¬¬¬
 ¬¬¬SHYUTERz’s Patch¬SHYUTERz’s Patch¬471 - SHYUTERz’s Patch¬f40118ba¬31877676¬¬¬
@@ -545,6 +572,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Super Generic Ragefest Adventure¬Super Generic Ragefest Adventure¬539 - Super Generic Ragefest Adventure¬a727bdb0¬17028828¬¬¬
 ¬¬¬Sword of Heaven and Earth (English Translation)¬Sword of Heaven and Earth (English Translation)¬594 - Sword of Heaven and Earth (English Translation)¬0a1734ae¬27323016¬¬¬
 ¬¬¬Sword of Seals ReDux¬Sword of Seals ReDux¬295 - Sword of Seals ReDux¬7895cf0d¬16777244¬¬¬
+¬¬¬TactHack - Redux¬TactHack - Redux¬779 - TactHack - Redux¬7c7a1ed7¬21649512¬¬¬
 ¬¬¬Tale of Ternon¬Tale of Ternon¬289 - Tale of Ternon¬fb829219¬18452460¬¬¬
 ¬¬¬Tales from Afar¬Tales from Afar¬458 - Tales from Afar¬7bc0139b¬33142244¬¬¬
 ¬¬¬Tales of Bravery¬Tales of Bravery¬545 - Tales of Bravery¬9f2de20a¬19320444¬¬¬
@@ -565,6 +593,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Burdened Crown (0 Growths)¬The Burdened Crown (0 Growths)¬147 - The Burdened Crown (0 Growths)¬25e8f03d¬22485048¬¬¬
 ¬¬¬The Burdened Crown (100 Growths)¬The Burdened Crown (100 Growths)¬148 - The Burdened Crown (100 Growths)¬c152923c¬22485048¬¬¬
 ¬¬¬The Burdened Crown (Blue)¬The Burdened Crown (Blue)¬149 - The Burdened Crown (Blue)¬0459d055¬22485048¬¬¬
+¬¬¬The Christmas Blitz¬The Christmas Blitz¬782 - The Christmas Blitz¬3d7b5ca4¬16777216¬¬¬
 ¬¬¬The Corruption Of Roy¬The Corruption Of Roy¬512 - The Corruption Of Roy¬41300a20¬17761716¬¬¬
 ¬¬¬The Cult¬The Cult¬677 - The Cult¬22905a74¬17872864¬¬¬
 ¬¬¬The Dark Hour¬The Dark Hour¬201 - The Dark Hour¬8575430f¬26994984¬¬¬
@@ -585,6 +614,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Last Promise¬The Last Promise¬103 - The Last Promise¬d1c6e5d5¬32505856¬¬¬
 ¬¬¬The Last Promise (Chaos Mode DEMO)¬The Last Promise (Chaos Mode DEMO)¬105 - The Last Promise (Chaos Mode DEMO)¬365cf432¬32446048¬¬¬
 ¬¬¬The Last Promise (Easy Mode)¬The Last Promise (Easy Mode)¬104 - The Last Promise (Easy Mode)¬be1b4153¬32445120¬¬¬
+¬¬¬The Last Promise (Hard)¬The Last Promise (Hard)¬775 - The Last Promise (Hard)¬0ede0149¬32520472¬¬¬
 ¬¬¬The Last Promise (Japanese Translation)¬The Last Promise (Japanese Translation)¬696 - The Last Promise (Japanese Translation)¬33c46851¬32505856¬¬¬
 ¬¬¬The Last Promise (Japanese Translation) (Fixed Only)¬The Last Promise (Japanese Translation) (Fixed Only)¬697 - The Last Promise (Japanese Translation) (Fixed Only)¬ece0afc9¬32505856¬¬¬
 ¬¬¬The Last Promise (Weapon Reversal)¬The Last Promise (Weapon Reversal)¬106 - The Last Promise (Weapon Reversal)¬38f7a2c6¬33302356¬¬¬
@@ -600,6 +630,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Sacred Chairs¬The Sacred Chairs¬185 - The Sacred Chairs¬841a14f7¬24229624¬¬¬
 ¬¬¬The Sacred Chairs (0% Growths Version)¬The Sacred Chairs (0% Growths Version)¬187 - The Sacred Chairs (0% Growths Version)¬8c316c5e¬24229664¬¬¬
 ¬¬¬The Sacred Chairs (Boss Version)¬The Sacred Chairs (Boss Version)¬186 - The Sacred Chairs (Boss Version)¬34d15caf¬24231680¬¬¬
+¬¬¬The Sacred Overhaul¬The Sacred Overhaul¬780 - The Sacred Overhaul¬cbd2d3e0¬16784840¬¬¬
 ¬¬¬The Sacred Ripping Anniversary Edition¬The Sacred Ripping Anniversary Edition¬386 - The Sacred Ripping Anniversary Edition¬7ee376fa¬20858336¬¬¬
 ¬¬¬The Sacred Stones - FE7 Crossover¬The Sacred Stones - FE7 Crossover¬552 - The Sacred Stones - FE7 Crossover¬1749e41f¬16777216¬¬¬
 ¬¬¬The Sacred War (Final Update - v1.51)¬The Sacred War (Final Update - v1.51)¬173 - The Sacred War (Final Update - v1.51)¬8dc775b2¬31187848¬¬¬
@@ -648,22 +679,65 @@ version=Fire Emblem ROM hacks
 ¬¬¬つどえ八神将 (tsudoe)¬つどえ八神将 (tsudoe)¬717 - つどえ八神将 (tsudoe)¬75d63f23¬23261184¬¬¬
 ¬¬¬つどえ八神将 (しねおじ)¬つどえ八神将 (しねおじ)¬718 - つどえ八神将 (しねおじ)¬c7df9ecc¬16931672¬¬¬
 ¬¬¬エイリークパッチ¬エイリークパッチ¬716 - エイリークパッチ¬2ba502ca¬27746224¬¬¬
+¬¬¬エムブレムサーガ¬エムブレムサーガ¬760 - エムブレムサーガ¬6c701371¬16777216¬¬¬
 ¬¬¬デフレ聖魔の光石¬デフレ聖魔の光石¬719 - デフレ聖魔の光石¬08547586¬33554432¬¬¬
 ¬¬¬デフ烈火の剣¬デフ烈火の剣¬703 - デフ烈火の剣¬0b5cb986¬33554432¬¬¬
 ¬¬¬ヘイデンの野望¬ヘイデンの野望¬708 - ヘイデンの野望¬ef551a7a¬16777216¬¬¬
+¬¬¬六写封神¬六写封神¬753 - 六写封神¬e42b4642¬18576656¬¬¬
 ¬¬¬名も無き英雄¬名も無き英雄¬447 - 名も無き英雄¬b9a6e9c7¬29840204¬¬¬
+¬¬¬圣光之魔石62人变态版¬圣光之魔石62人变态版¬732 - 圣光之魔石62人变态版¬1273a90d¬16777216¬¬¬
+¬¬¬圣光之魔石62人正常版¬圣光之魔石62人正常版¬731 - 圣光之魔石62人正常版¬078557fd¬16777216¬¬¬
+¬¬¬圣光之魔石真·62人变态版¬圣光之魔石真·62人变态版¬733 - 圣光之魔石真·62人变态版¬953e4110¬16777216¬¬¬
+¬¬¬圣光之魔石终极修改版¬圣光之魔石终极修改版¬786 - 圣光之魔石终极修改版¬99c47af7¬16777216¬¬¬
+¬¬¬圣邪之意志配色版¬圣邪之意志配色版¬797 - 圣邪之意志配色版¬172720d5¬16777216¬¬¬
+¬¬¬圣魔之光石人物道具增量版¬圣魔之光石人物道具增量版¬742 - 圣魔之光石人物道具增量版¬c01de0fe¬18874368¬¬¬
+¬¬¬圣魔之光石最后修改版¬圣魔之光石最后修改版¬743 - 圣魔之光石最后修改版¬4d19e238¬18874368¬¬¬
+¬¬¬圣魔之魔物军团最终版¬圣魔之魔物军团最终版¬796 - 圣魔之魔物军团最终版¬03987441¬16777216¬¬¬
+¬¬¬圣魔新元素补丁¬圣魔新元素补丁¬730 - 圣魔新元素补丁¬98d3754b¬20971520¬¬¬
+¬¬¬圣魔极限挑战版¬圣魔极限挑战版¬744 - 圣魔极限挑战版¬3a10c2d0¬16777216¬¬¬
+¬¬¬圣魔烈火版¬圣魔烈火版¬729 - 圣魔烈火版¬db871cd1¬17582114¬¬¬
+¬¬¬奇怪的改版¬奇怪的改版¬793 - 奇怪的改版¬9d32ba55¬20971520¬¬¬
 ¬¬¬女王の剣 (Queen’s Sword)¬女王の剣 (Queen’s Sword)¬420 - 女王の剣 (Queen’s Sword)¬658dc7e3¬33554432¬¬¬
 ¬¬¬封印ちょっと改造¬封印ちょっと改造¬692 - 封印ちょっと改造¬5b167458¬8700080¬¬¬
 ¬¬¬封印ノーマルプラス¬封印ノーマルプラス¬695 - 封印ノーマルプラス¬847ed5df¬8388608¬¬¬
 ¬¬¬封印ベリーハードっぽいもの¬封印ベリーハードっぽいもの¬693 - 封印ベリーハードっぽいもの¬ca21e647¬16777232¬¬¬
+¬¬¬新烈火勇者的阔斧¬新烈火勇者的阔斧¬798 - 新烈火勇者的阔斧¬f0c2f1e1¬17301504¬¬¬
+¬¬¬暗之魔女¬暗之魔女¬783 - 暗之魔女¬5f847710¬18874368¬¬¬
+¬¬¬月影剑圣2¬月影剑圣2¬736 - 月影剑圣2¬97552f78¬18350080¬¬¬
+¬¬¬月影剑圣¬月影剑圣¬794 - 月影剑圣¬66c59dc3¬18350080¬¬¬
+¬¬¬杰哥的复仇¬杰哥的复仇¬795 - 杰哥的复仇¬48c6a376¬17601384¬¬¬
 ¬¬¬東方炎紋章¬東方炎紋章¬724 - 東方炎紋章¬188eaaf6¬16777216¬¬¬
+¬¬¬火焰纹章 挑战0.1地狱模式¬火焰纹章 挑战0.1地狱模式¬787 - 火焰纹章 挑战0.1地狱模式¬b86e23c5¬17911088¬¬¬
+¬¬¬火焰纹章 挑战0.2¬火焰纹章 挑战0.2¬788 - 火焰纹章 挑战0.2¬2230351d¬17919848¬¬¬
 ¬¬¬烈火の剣 if (test)¬烈火の剣 if (test)¬700 - 烈火の剣 if (test)¬163a9cf2¬33554432¬¬¬
 ¬¬¬烈火の剣 if (update)¬烈火の剣 if (update)¬701 - 烈火の剣 if (update)¬1560b86c¬33554432¬¬¬
 ¬¬¬烈火の剣 if D(イージー）¬烈火の剣 if D(イージー）¬699 - 烈火の剣 if D(イージー）¬ee349ea5¬33554432¬¬¬
 ¬¬¬烈火の剣ベリーハード¬烈火の剣ベリーハード¬704 - 烈火の剣ベリーハード¬aebff0c0¬16777216¬¬¬
 ¬¬¬烈火マニアック勝手に完成版¬烈火マニアック勝手に完成版¬705 - 烈火マニアック勝手に完成版¬92be8dbd¬16777216¬¬¬
+¬¬¬烈火之剑1.1¬烈火之剑1.1¬790 - 烈火之剑1.1¬677383d9¬16777216¬¬¬
+¬¬¬烈火之剑(H)¬烈火之剑(H)¬789 - 烈火之剑(H)¬2c881921¬18874368¬¬¬
+¬¬¬烈火之剑(ZZ)¬烈火之剑(ZZ)¬740 - 烈火之剑(ZZ)¬dc0cffd9¬18874368¬¬¬
+¬¬¬烈火之剑-四牙版¬烈火之剑-四牙版¬791 - 烈火之剑-四牙版¬f96ef074¬16777216¬¬¬
+¬¬¬烈火之剑人物道具增量版¬烈火之剑人物道具增量版¬735 - 烈火之剑人物道具增量版¬871baea0¬18874368¬¬¬
+¬¬¬烈火之剑最终改版¬烈火之剑最终改版¬755 - 烈火之剑最终改版¬1eb0812a¬18874368¬¬¬
+¬¬¬烈火极限对战¬烈火极限对战¬739 - 烈火极限对战¬a05c4651¬16777216¬¬¬
+¬¬¬第二梦¬第二梦¬784 - 第二梦¬1ada9fe3¬33554431¬¬¬
+¬¬¬罪封印之剑¬罪封印之剑¬799 - 罪封印之剑¬b3472c99¬10415546¬¬¬
+¬¬¬罪烈火之剑¬罪烈火之剑¬800 - 罪烈火之剑¬1170764d¬16777216¬¬¬
 ¬¬¬聖魔 ちょっ改¬聖魔 ちょっ改¬720 - 聖魔 ちょっ改¬0a9ab177¬16777216¬¬¬
 ¬¬¬聖魔ベリーハード¬聖魔ベリーハード¬721 - 聖魔ベリーハード¬5da9b5ea¬33554472¬¬¬
+¬¬¬逆烈火之剑¬逆烈火之剑¬738 - 逆烈火之剑¬1dad8b96¬16777216¬¬¬
+¬¬¬逆转版圣魔之光石¬逆转版圣魔之光石¬741 - 逆转版圣魔之光石¬ffe11353¬16777216¬¬¬
+¬¬¬逆风的小强¬逆风的小强¬792 - 逆风的小强¬49549fa3¬18780940¬¬¬
+¬¬¬风恋夕林版新圣魔之光石¬风恋夕林版新圣魔之光石¬747 - 风恋夕林版新圣魔之光石¬8143d28f¬23074892¬¬¬
+¬¬¬风恋夕林版新封印之剑¬风恋夕林版新封印之剑¬751 - 风恋夕林版新封印之剑¬2ce47629¬33354000¬¬¬
+¬¬¬风恋夕林版新烈火之剑¬风恋夕林版新烈火之剑¬746 - 风恋夕林版新烈火之剑¬e5772a86¬33354000¬¬¬
+¬¬¬风恋夕林版暗黑龙与光之剑¬风恋夕林版暗黑龙与光之剑¬748 - 风恋夕林版暗黑龙与光之剑¬86abaa80¬33354000¬¬¬
+¬¬¬风恋夕林版火纹外传¬风恋夕林版火纹外传¬749 - 风恋夕林版火纹外传¬2384e3d3¬33354000¬¬¬
+¬¬¬风恋夕林版逆圣魔之光石¬风恋夕林版逆圣魔之光石¬752 - 风恋夕林版逆圣魔之光石¬9d078218¬33354000¬¬¬
+¬¬¬风恋夕林版逆封印之剑¬风恋夕林版逆封印之剑¬750 - 风恋夕林版逆封印之剑¬efcb0299¬8400656¬¬¬
+¬¬¬魔幻封神¬魔幻封神¬737 - 魔幻封神¬ee865884¬18388264¬¬¬
 ¬¬¬黄昏の魔剣１部¬黄昏の魔剣１部¬444 - 黄昏の魔剣１部¬02a1d458¬22610180¬¬¬
 ¬¬¬黄昏の魔剣２部パンナルート¬黄昏の魔剣２部パンナルート¬445 - 黄昏の魔剣２部パンナルート¬f0ac088d¬23248008¬¬¬
 ¬¬¬黄昏の魔剣２部主人公覚醒編¬黄昏の魔剣２部主人公覚醒編¬446 - 黄昏の魔剣２部主人公覚醒編¬31330711¬22734804¬¬¬
+¬¬¬黑暗的指引¬黑暗的指引¬785 - 黑暗的指引¬ac009a17¬17825792¬¬¬

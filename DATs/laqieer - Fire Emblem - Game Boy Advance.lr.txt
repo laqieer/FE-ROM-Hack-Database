@@ -1,10 +1,14 @@
-ROMs required for driver "2 Princesses".
+ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
-183 - 2 Princesses                 24646064 CRC(44f08e5b)
+756 - 0sheng mo                    16777216 CRC(9179c574)
 
 ROMs required for driver "2 Princesses (English Translation)".
 Name                                   Size Checksum
 184 - 2 Princesses (English Translation)27926780 CRC(cdf24969)
+
+ROMs required for driver "2 Princesses (二人の王女)".
+Name                                   Size Checksum
+183 - 2 Princesses (二人の王女)         24646064 CRC(44f08e5b)
 
 ROMs required for driver "A Glimpse of Time (時の垣間 エリウッド編)".
 Name                                   Size Checksum
@@ -90,9 +94,17 @@ ROMs required for driver "B3L-H411-A".
 Name                                   Size Checksum
 212 - B3L-H411-A                   17536556 CRC(db73120f)
 
+ROMs required for driver "Back to the Stones".
+Name                                   Size Checksum
+781 - Back to the Stones           16777216 CRC(3b21a3cf)
+
 ROMs required for driver "Bandit Emblem".
 Name                                   Size Checksum
 204 - Bandit Emblem                17645508 CRC(4c0a42a1)
+
+ROMs required for driver "Bankai-Silverworld's Emblem".
+Name                                   Size Checksum
+761 - Bankai-Silverworld's Emblem  17454908 CRC(b0429e8d)
 
 ROMs required for driver "Barhara Trilogy".
 Name                                   Size Checksum
@@ -334,6 +346,10 @@ ROMs required for driver "Days of Beta Past".
 Name                                   Size Checksum
 648 - Days of Beta Past            22314492 CRC(f4b17e5e)
 
+ROMs required for driver "Death or Glory".
+Name                                   Size Checksum
+124 - Death or Glory               21204928 CRC(c745ae1b)
+
 ROMs required for driver "Decay of the Fangs".
 Name                                   Size Checksum
 253 - Decay of the Fangs           20200548 CRC(85f73677)
@@ -450,6 +466,10 @@ ROMs required for driver "Elibean Nights".
 Name                                   Size Checksum
 243 - Elibean Nights               28260392 CRC(0f2076bd)
 
+ROMs required for driver "Eliwood vs Everyone".
+Name                                   Size Checksum
+754 - Eliwood vs Everyone          16777216 CRC(f61becac)
+
 ROMs required for driver "Emblem Warriors".
 Name                                   Size Checksum
 517 - Emblem Warriors              21638172 CRC(1762a534)
@@ -478,6 +498,10 @@ ROMs required for driver "Ethereal Light".
 Name                                   Size Checksum
 580 - Ethereal Light               18860184 CRC(a2e2fa4e)
 
+ROMs required for driver "Exalted Legacy".
+Name                                   Size Checksum
+773 - Exalted Legacy               18772600 CRC(02bc5b08)
+
 ROMs required for driver "Extinguished Blade".
 Name                                   Size Checksum
 288 - Extinguished Blade           16777216 CRC(5a32401b)
@@ -498,9 +522,17 @@ ROMs required for driver "Fallen Kingdom".
 Name                                   Size Checksum
 406 - Fallen Kingdom               23128196 CRC(9e3db0b4)
 
+ROMs required for driver "Father of a Legend".
+Name                                   Size Checksum
+558 - Father of a Legend           17556292 CRC(5e4cffa1)
+
 ROMs required for driver "FE1 GBA".
 Name                                   Size Checksum
 260 - FE1 GBA                      17361761 CRC(9be58bd8)
+
+ROMs required for driver "FE4 Advance (joke demo)".
+Name                                   Size Checksum
+762 - FE4 Advance (joke demo)      22586360 CRC(3b1913e8)
 
 ROMs required for driver "FE6 All Mounts".
 Name                                   Size Checksum
@@ -553,6 +585,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE6 Incandescence Edition".
 Name                                   Size Checksum
 320 - FE6 Incandescence Edition    16777532 CRC(564d7782)
+
+ROMs required for driver "FE6 James Patch".
+Name                                   Size Checksum
+764 - FE6 James Patch              16777216 CRC(af26efb5)
 
 ROMs required for driver "FE6 Negative Growths".
 Name                                   Size Checksum
@@ -667,9 +703,21 @@ ROMs required for driver "fe6hack".
 Name                                   Size Checksum
 689 - fe6hack                      17825792 CRC(fd53467e)
 
+ROMs required for driver "FE6J 0% growths".
+Name                                   Size Checksum
+757 - FE6J 0% growths               8388608 CRC(5ff6a6b9)
+
 ROMs required for driver "FE6R".
 Name                                   Size Checksum
 690 - FE6R                         10281640 CRC(451b2f22)
+
+ROMs required for driver "FE6RR".
+Name                                   Size Checksum
+765 - FE6RR                         8388608 CRC(eaf32b75)
+
+ROMs required for driver "FE6RRaddendum".
+Name                                   Size Checksum
+766 - FE6RRaddendum                 8388608 CRC(d360f35f)
 
 ROMs required for driver "FE7 Allegiance Reversal+".
 Name                                   Size Checksum
@@ -695,6 +743,10 @@ ROMs required for driver "FE7 Leila Edition".
 Name                                   Size Checksum
 554 - FE7 Leila Edition            17330932 CRC(3574373f)
 
+ROMs required for driver "FE7 Letras espanyol".
+Name                                   Size Checksum
+767 - FE7 Letras espanyol          16777216 CRC(14d046df)
+
 ROMs required for driver "FE7 Lute Mode".
 Name                                   Size Checksum
 341 - FE7 Lute Mode                16785796 CRC(969bae21)
@@ -719,17 +771,41 @@ ROMs required for driver "FE7 自作改造".
 Name                                   Size Checksum
 702 - FE7 自作改造                     31522816 CRC(dd53e68a)
 
+ROMs required for driver "FE7akaneiaproject".
+Name                                   Size Checksum
+772 - FE7akaneiaproject            33554442 CRC(abc9be5e)
+
+ROMs required for driver "fe7gaiden".
+Name                                   Size Checksum
+771 - fe7gaiden                    33785312 CRC(53e75c22)
+
 ROMs required for driver "FE7if".
 Name                                   Size Checksum
 109 - FE7if                        33554432 CRC(6eca79ce)
+
+ROMs required for driver "FE7PATCH".
+Name                                   Size Checksum
+734 - FE7PATCH                     20019568 CRC(36191c57)
+
+ROMs required for driver "FE7U 0% growths".
+Name                                   Size Checksum
+758 - FE7U 0% growths              16777216 CRC(b6a05eb3)
 
 ROMs required for driver "FE8 All Weapons are Devil Weapons".
 Name                                   Size Checksum
 384 - FE8 All Weapons are Devil Weapons16777216 CRC(711edbc9)
 
+ROMs required for driver "FE8 Another".
+Name                                   Size Checksum
+770 - FE8 Another                  19922944 CRC(436e6c5e)
+
 ROMs required for driver "FE8 AWS(Another War Story)".
 Name                                   Size Checksum
 712 - FE8 AWS(Another War Story)   16894316 CRC(8f4a878a)
+
+ROMs required for driver "FE8 Battle Royaleもどき(DEMO).α版".
+Name                                   Size Checksum
+727 - FE8 Battle Royaleもどき(DEMO)   28596692 CRC(c3530fb4)
 
 ROMs required for driver "FE8 Beta Test 1".
 Name                                   Size Checksum
@@ -787,6 +863,10 @@ ROMs required for driver "FE8 Fanmade Directors Cut".
 Name                                   Size Checksum
 400 - FE8 Fanmade Directors Cut    21871792 CRC(a7a210d5)
 
+ROMs required for driver "FE8 Harder patch".
+Name                                   Size Checksum
+768 - FE8 Harder patch             16777216 CRC(52733cf0)
+
 ROMs required for driver "FE8 HazelCustom".
 Name                                   Size Checksum
 711 - FE8 HazelCustom              17480036 CRC(6f49856f)
@@ -826,6 +906,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 Project Dark".
 Name                                   Size Checksum
 397 - FE8 Project Dark             17578004 CRC(4b31296b)
+
+ROMs required for driver "FE8 prologue (序章if)".
+Name                                   Size Checksum
+769 - FE8 prologue (序章if)          16786688 CRC(a4fdf618)
 
 ROMs required for driver "FE8 QoL Edition".
 Name                                   Size Checksum
@@ -871,9 +955,9 @@ ROMs required for driver "FE8 Totally Vanilla".
 Name                                   Size Checksum
 450 - FE8 Totally Vanilla          16777216 CRC(cb15d1a3)
 
-ROMs required for driver "FE8 TS".
+ROMs required for driver "FE8 TS (圣魔光石个人特技版)".
 Name                                   Size Checksum
-723 - FE8 TS                       20971520 CRC(cb745df9)
+723 - FE8 TS (圣魔光石个人特技版)           20971520 CRC(cb745df9)
 
 ROMs required for driver "FE8 Weapon Reversal".
 Name                                   Size Checksum
@@ -890,6 +974,14 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 with FE4 Graphics (weapon icons)".
 Name                                   Size Checksum
 549 - FE8 with FE4 Graphics (weapon icons)16777216 CRC(d14c8d42)
+
+ROMs required for driver "FE8 无聊之士版".
+Name                                   Size Checksum
+728 - FE8 无聊之士版                    16777216 CRC(d42a364c)
+
+ROMs required for driver "FE8 麻袋修改版".
+Name                                   Size Checksum
+745 - FE8 麻袋修改版                    16809216 CRC(3cc28078)
 
 ROMs required for driver "FE8 803".
 Name                                   Size Checksum
@@ -930,6 +1022,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8S+アルファ版".
 Name                                   Size Checksum
 714 - FE8S+アルファ版                   26753744 CRC(535a31dd)
+
+ROMs required for driver "FE8U 0% growths".
+Name                                   Size Checksum
+759 - FE8U 0% growths              16777216 CRC(a157be6b)
 
 ROMs required for driver "FE8改造".
 Name                                   Size Checksum
@@ -1042,10 +1138,6 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - Darkest Blade".
 Name                                   Size Checksum
 275 - Fire Emblem - Darkest Blade  16827380 CRC(138220f4)
-
-ROMs required for driver "Fire Emblem - Death or Glory".
-Name                                   Size Checksum
-124 - Fire Emblem - Death or Glory 19915268 CRC(cf613764)
 
 ROMs required for driver "Fire Emblem - Different Dimensions Ostian Princess 2.0".
 Name                                   Size Checksum
@@ -1311,10 +1403,6 @@ ROMs required for driver "Flames of Redemption (supports unlocked)".
 Name                                   Size Checksum
 240 - Flames of Redemption (supports unlocked)          24536888 CRC(0c835af0)
 
-ROMs required for driver "FOAL".
-Name                                   Size Checksum
-558 - FOAL                         17556292 CRC(5e4cffa1)
-
 ROMs required for driver "Foreboding Dusk".
 Name                                   Size Checksum
 244 - Foreboding Dusk              16888400 CRC(2220983b)
@@ -1483,6 +1571,10 @@ ROMs required for driver "Knoll’s Super Spooky Halloween Adventure".
 Name                                   Size Checksum
 162 - Knoll’s Super Spooky Halloween Adventure          17014360 CRC(19a64b75)
 
+ROMs required for driver "Kylin Dragons".
+Name                                   Size Checksum
+763 - Kylin Dragons                17375996 CRC(9bd3db9a)
+
 ROMs required for driver "Lady of Masks".
 Name                                   Size Checksum
 590 - Lady of Masks                21516196 CRC(6142c8a8)
@@ -1498,6 +1590,14 @@ Name                                   Size Checksum
 ROMs required for driver "Le Chien Est Adorable".
 Name                                   Size Checksum
 505 - Le Chien Est Adorable        16777776 CRC(08ff3b82)
+
+ROMs required for driver "League of ASDF".
+Name                                   Size Checksum
+776 - League of ASDF               18411908 CRC(30be1528)
+
+ROMs required for driver "League of ASDF (Fixed Mode)".
+Name                                   Size Checksum
+777 - League of ASDF (Fixed Mode)  18411908 CRC(a4299f1b)
 
 ROMs required for driver "League of Champions (Patch1)".
 Name                                   Size Checksum
@@ -1549,7 +1649,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E. R                      18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -1738,6 +1838,10 @@ Name                                   Size Checksum
 ROMs required for driver "Prisoner of Darkness (Hard Mode)".
 Name                                   Size Checksum
 133 - Prisoner of Darkness (Hard Mode)20971560 CRC(1bbb05e1)
+
+ROMs required for driver "Project dondon".
+Name                                   Size Checksum
+778 - Project dondon               16779108 CRC(2e260b2e)
 
 ROMs required for driver "Project Ember (HM Fixed Growths)".
 Name                                   Size Checksum
@@ -2031,6 +2135,10 @@ ROMs required for driver "Shattered Stones".
 Name                                   Size Checksum
 651 - Shattered Stones             17267760 CRC(db045e48)
 
+ROMs required for driver "Shatterlight".
+Name                                   Size Checksum
+774 - Shatterlight                 17644220 CRC(59213bb8)
+
 ROMs required for driver "Shep & Bluid's MAFC FEU It Again patch".
 Name                                   Size Checksum
 681 - Shep & Bluid's MAFC FEU It Again patch          17419672 CRC(14b155d8)
@@ -2131,6 +2239,10 @@ ROMs required for driver "Sword of Seals ReDux".
 Name                                   Size Checksum
 295 - Sword of Seals ReDux         16777244 CRC(7895cf0d)
 
+ROMs required for driver "TactHack - Redux".
+Name                                   Size Checksum
+779 - TactHack - Redux             21649512 CRC(7c7a1ed7)
+
 ROMs required for driver "Tale of Ternon".
 Name                                   Size Checksum
 289 - Tale of Ternon               18452460 CRC(fb829219)
@@ -2210,6 +2322,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Burdened Crown (Blue)".
 Name                                   Size Checksum
 149 - The Burdened Crown (Blue)    22485048 CRC(0459d055)
+
+ROMs required for driver "The Christmas Blitz".
+Name                                   Size Checksum
+782 - The Christmas Blitz          16777216 CRC(3d7b5ca4)
 
 ROMs required for driver "The Corruption Of Roy".
 Name                                   Size Checksum
@@ -2291,6 +2407,10 @@ ROMs required for driver "The Last Promise (Easy Mode)".
 Name                                   Size Checksum
 104 - The Last Promise (Easy Mode) 32445120 CRC(be1b4153)
 
+ROMs required for driver "The Last Promise (Hard)".
+Name                                   Size Checksum
+775 - The Last Promise (Hard)      32520472 CRC(0ede0149)
+
 ROMs required for driver "The Last Promise (Japanese Translation)".
 Name                                   Size Checksum
 696 - The Last Promise (Japanese Translation)          32505856 CRC(33c46851)
@@ -2350,6 +2470,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Sacred Chairs (Boss Version)".
 Name                                   Size Checksum
 186 - The Sacred Chairs (Boss Version)24231680 CRC(34d15caf)
+
+ROMs required for driver "The Sacred Overhaul".
+Name                                   Size Checksum
+780 - The Sacred Overhaul          16784840 CRC(cbd2d3e0)
 
 ROMs required for driver "The Sacred Ripping Anniversary Edition".
 Name                                   Size Checksum
@@ -2543,6 +2667,10 @@ ROMs required for driver "エイリークパッチ".
 Name                                   Size Checksum
 716 - エイリークパッチ                     27746224 CRC(2ba502ca)
 
+ROMs required for driver "エムブレムサーガ".
+Name                                   Size Checksum
+760 - エムブレムサーガ                     16777216 CRC(6c701371)
+
 ROMs required for driver "デフレ聖魔の光石".
 Name                                   Size Checksum
 719 - デフレ聖魔の光石                     33554432 CRC(08547586)
@@ -2555,9 +2683,61 @@ ROMs required for driver "ヘイデンの野望".
 Name                                   Size Checksum
 708 - ヘイデンの野望                      16777216 CRC(ef551a7a)
 
+ROMs required for driver "六写封神".
+Name                                   Size Checksum
+753 - 六写封神                         18576656 CRC(e42b4642)
+
 ROMs required for driver "名も無き英雄".
 Name                                   Size Checksum
 447 - 名も無き英雄                       29840204 CRC(b9a6e9c7)
+
+ROMs required for driver "圣光之魔石62人变态版".
+Name                                   Size Checksum
+732 - 圣光之魔石62人变态版                  16777216 CRC(1273a90d)
+
+ROMs required for driver "圣光之魔石62人正常版".
+Name                                   Size Checksum
+731 - 圣光之魔石62人正常版                  16777216 CRC(078557fd)
+
+ROMs required for driver "圣光之魔石真·62人变态版".
+Name                                   Size Checksum
+733 - 圣光之魔石真·62人变态版                16777216 CRC(953e4110)
+
+ROMs required for driver "圣光之魔石终极修改版".
+Name                                   Size Checksum
+786 - 圣光之魔石终极修改版                   16777216 CRC(99c47af7)
+
+ROMs required for driver "圣邪之意志配色版".
+Name                                   Size Checksum
+797 - 圣邪之意志配色版                     16777216 CRC(172720d5)
+
+ROMs required for driver "圣魔之光石人物道具增量版".
+Name                                   Size Checksum
+742 - 圣魔之光石人物道具增量版                 18874368 CRC(c01de0fe)
+
+ROMs required for driver "圣魔之光石最后修改版".
+Name                                   Size Checksum
+743 - 圣魔之光石最后修改版                   18874368 CRC(4d19e238)
+
+ROMs required for driver "圣魔之魔物军团最终版".
+Name                                   Size Checksum
+796 - 圣魔之魔物军团最终版                   16777216 CRC(03987441)
+
+ROMs required for driver "圣魔新元素补丁".
+Name                                   Size Checksum
+730 - 圣魔新元素补丁                      20971520 CRC(98d3754b)
+
+ROMs required for driver "圣魔极限挑战版".
+Name                                   Size Checksum
+744 - 圣魔极限挑战版                      16777216 CRC(3a10c2d0)
+
+ROMs required for driver "圣魔烈火版".
+Name                                   Size Checksum
+729 - 圣魔烈火版                        17582114 CRC(db871cd1)
+
+ROMs required for driver "奇怪的改版".
+Name                                   Size Checksum
+793 - 奇怪的改版                        20971520 CRC(9d32ba55)
 
 ROMs required for driver "女王の剣 (Queen’s Sword)".
 Name                                   Size Checksum
@@ -2575,9 +2755,37 @@ ROMs required for driver "封印ベリーハードっぽいもの".
 Name                                   Size Checksum
 693 - 封印ベリーハードっぽいもの                16777232 CRC(ca21e647)
 
+ROMs required for driver "新烈火勇者的阔斧".
+Name                                   Size Checksum
+798 - 新烈火勇者的阔斧                     17301504 CRC(f0c2f1e1)
+
+ROMs required for driver "暗之魔女".
+Name                                   Size Checksum
+783 - 暗之魔女                         18874368 CRC(5f847710)
+
+ROMs required for driver "月影剑圣2".
+Name                                   Size Checksum
+736 - 月影剑圣2                        18350080 CRC(97552f78)
+
+ROMs required for driver "月影剑圣".
+Name                                   Size Checksum
+794 - 月影剑圣                         18350080 CRC(66c59dc3)
+
+ROMs required for driver "杰哥的复仇".
+Name                                   Size Checksum
+795 - 杰哥的复仇                        17601384 CRC(48c6a376)
+
 ROMs required for driver "東方炎紋章".
 Name                                   Size Checksum
 724 - 東方炎紋章                        16777216 CRC(188eaaf6)
+
+ROMs required for driver "火焰纹章 挑战0.1地狱模式".
+Name                                   Size Checksum
+787 - 火焰纹章 挑战0                     17911088 CRC(b86e23c5)
+
+ROMs required for driver "火焰纹章 挑战0.2".
+Name                                   Size Checksum
+788 - 火焰纹章 挑战0                     17919848 CRC(2230351d)
 
 ROMs required for driver "烈火の剣 if (test)".
 Name                                   Size Checksum
@@ -2599,6 +2807,46 @@ ROMs required for driver "烈火マニアック勝手に完成版".
 Name                                   Size Checksum
 705 - 烈火マニアック勝手に完成版                16777216 CRC(92be8dbd)
 
+ROMs required for driver "烈火之剑1.1".
+Name                                   Size Checksum
+790 - 烈火之剑1                        16777216 CRC(677383d9)
+
+ROMs required for driver "烈火之剑(H)".
+Name                                   Size Checksum
+789 - 烈火之剑(H)                      18874368 CRC(2c881921)
+
+ROMs required for driver "烈火之剑(ZZ)".
+Name                                   Size Checksum
+740 - 烈火之剑(ZZ)                     18874368 CRC(dc0cffd9)
+
+ROMs required for driver "烈火之剑-四牙版".
+Name                                   Size Checksum
+791 - 烈火之剑-四牙版                     16777216 CRC(f96ef074)
+
+ROMs required for driver "烈火之剑人物道具增量版".
+Name                                   Size Checksum
+735 - 烈火之剑人物道具增量版                  18874368 CRC(871baea0)
+
+ROMs required for driver "烈火之剑最终改版".
+Name                                   Size Checksum
+755 - 烈火之剑最终改版                     18874368 CRC(1eb0812a)
+
+ROMs required for driver "烈火极限对战".
+Name                                   Size Checksum
+739 - 烈火极限对战                       16777216 CRC(a05c4651)
+
+ROMs required for driver "第二梦".
+Name                                   Size Checksum
+784 - 第二梦                          33554431 CRC(1ada9fe3)
+
+ROMs required for driver "罪封印之剑".
+Name                                   Size Checksum
+799 - 罪封印之剑                        10415546 CRC(b3472c99)
+
+ROMs required for driver "罪烈火之剑".
+Name                                   Size Checksum
+800 - 罪烈火之剑                        16777216 CRC(1170764d)
+
 ROMs required for driver "聖魔 ちょっ改".
 Name                                   Size Checksum
 720 - 聖魔 ちょっ改                      16777216 CRC(0a9ab177)
@@ -2606,6 +2854,50 @@ Name                                   Size Checksum
 ROMs required for driver "聖魔ベリーハード".
 Name                                   Size Checksum
 721 - 聖魔ベリーハード                     33554472 CRC(5da9b5ea)
+
+ROMs required for driver "逆烈火之剑".
+Name                                   Size Checksum
+738 - 逆烈火之剑                        16777216 CRC(1dad8b96)
+
+ROMs required for driver "逆转版圣魔之光石".
+Name                                   Size Checksum
+741 - 逆转版圣魔之光石                     16777216 CRC(ffe11353)
+
+ROMs required for driver "逆风的小强".
+Name                                   Size Checksum
+792 - 逆风的小强                        18780940 CRC(49549fa3)
+
+ROMs required for driver "风恋夕林版新圣魔之光石".
+Name                                   Size Checksum
+747 - 风恋夕林版新圣魔之光石                  23074892 CRC(8143d28f)
+
+ROMs required for driver "风恋夕林版新封印之剑".
+Name                                   Size Checksum
+751 - 风恋夕林版新封印之剑                   33354000 CRC(2ce47629)
+
+ROMs required for driver "风恋夕林版新烈火之剑".
+Name                                   Size Checksum
+746 - 风恋夕林版新烈火之剑                   33354000 CRC(e5772a86)
+
+ROMs required for driver "风恋夕林版暗黑龙与光之剑".
+Name                                   Size Checksum
+748 - 风恋夕林版暗黑龙与光之剑                 33354000 CRC(86abaa80)
+
+ROMs required for driver "风恋夕林版火纹外传".
+Name                                   Size Checksum
+749 - 风恋夕林版火纹外传                    33354000 CRC(2384e3d3)
+
+ROMs required for driver "风恋夕林版逆圣魔之光石".
+Name                                   Size Checksum
+752 - 风恋夕林版逆圣魔之光石                  33354000 CRC(9d078218)
+
+ROMs required for driver "风恋夕林版逆封印之剑".
+Name                                   Size Checksum
+750 - 风恋夕林版逆封印之剑                    8400656 CRC(efcb0299)
+
+ROMs required for driver "魔幻封神".
+Name                                   Size Checksum
+737 - 魔幻封神                         18388264 CRC(ee865884)
 
 ROMs required for driver "黄昏の魔剣１部".
 Name                                   Size Checksum
@@ -2618,3 +2910,7 @@ Name                                   Size Checksum
 ROMs required for driver "黄昏の魔剣２部主人公覚醒編".
 Name                                   Size Checksum
 446 - 黄昏の魔剣２部主人公覚醒編                22734804 CRC(31330711)
+
+ROMs required for driver "黑暗的指引".
+Name                                   Size Checksum
+785 - 黑暗的指引                        17825792 CRC(ac009a17)

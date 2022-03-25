@@ -1,19 +1,23 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220323
+	Version: 20220325
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
 	Comment: https://github.com/laqieer/FE-ROM-Hack-Database
 )
 game (
-	name "2 Princesses.zip"
-	file ( name 183 - 2 Princesses size 24646064 crc 44f08e5b )
+	name "0sheng mo.zip"
+	file ( name 756 - 0sheng mo size 16777216 crc 9179c574 )
 )
 game (
 	name "2 Princesses (English Translation).zip"
 	file ( name 184 - 2 Princesses (English Translation) size 27926780 crc cdf24969 )
+)
+game (
+	name "2 Princesses (二人の王女).zip"
+	file ( name 183 - 2 Princesses (二人の王女) size 24646064 crc 44f08e5b )
 )
 game (
 	name "A Glimpse of Time (時の垣間 エリウッド編).zip"
@@ -100,8 +104,16 @@ game (
 	file ( name 212 - B3L-H411-A size 17536556 crc db73120f )
 )
 game (
+	name "Back to the Stones.zip"
+	file ( name 781 - Back to the Stones size 16777216 crc 3b21a3cf )
+)
+game (
 	name "Bandit Emblem.zip"
 	file ( name 204 - Bandit Emblem size 17645508 crc 4c0a42a1 )
+)
+game (
+	name "Bankai-Silverworld's Emblem.zip"
+	file ( name 761 - Bankai-Silverworld's Emblem size 17454908 crc b0429e8d )
 )
 game (
 	name "Barhara Trilogy.zip"
@@ -344,6 +356,10 @@ game (
 	file ( name 648 - Days of Beta Past size 22314492 crc f4b17e5e )
 )
 game (
+	name "Death or Glory.zip"
+	file ( name 124 - Death or Glory size 21204928 crc c745ae1b )
+)
+game (
 	name "Decay of the Fangs.zip"
 	file ( name 253 - Decay of the Fangs size 20200548 crc 85f73677 )
 )
@@ -460,6 +476,10 @@ game (
 	file ( name 243 - Elibean Nights size 28260392 crc 0f2076bd )
 )
 game (
+	name "Eliwood vs Everyone.zip"
+	file ( name 754 - Eliwood vs Everyone size 16777216 crc f61becac )
+)
+game (
 	name "Emblem Warriors.zip"
 	file ( name 517 - Emblem Warriors size 21638172 crc 1762a534 )
 )
@@ -488,6 +508,10 @@ game (
 	file ( name 580 - Ethereal Light size 18860184 crc a2e2fa4e )
 )
 game (
+	name "Exalted Legacy.zip"
+	file ( name 773 - Exalted Legacy size 18772600 crc 02bc5b08 )
+)
+game (
 	name "Extinguished Blade.zip"
 	file ( name 288 - Extinguished Blade size 16777216 crc 5a32401b )
 )
@@ -508,8 +532,16 @@ game (
 	file ( name 406 - Fallen Kingdom size 23128196 crc 9e3db0b4 )
 )
 game (
+	name "Father of a Legend.zip"
+	file ( name 558 - Father of a Legend size 17556292 crc 5e4cffa1 )
+)
+game (
 	name "FE1 GBA.zip"
 	file ( name 260 - FE1 GBA size 17361761 crc 9be58bd8 )
+)
+game (
+	name "FE4 Advance (joke demo).zip"
+	file ( name 762 - FE4 Advance (joke demo) size 22586360 crc 3b1913e8 )
 )
 game (
 	name "FE6 All Mounts.zip"
@@ -562,6 +594,10 @@ game (
 game (
 	name "FE6 Incandescence Edition.zip"
 	file ( name 320 - FE6 Incandescence Edition size 16777532 crc 564d7782 )
+)
+game (
+	name "FE6 James Patch.zip"
+	file ( name 764 - FE6 James Patch size 16777216 crc af26efb5 )
 )
 game (
 	name "FE6 Negative Growths.zip"
@@ -677,8 +713,20 @@ game (
 	file ( name 689 - fe6hack size 17825792 crc fd53467e )
 )
 game (
+	name "FE6J 0% growths.zip"
+	file ( name 757 - FE6J 0% growths size 8388608 crc 5ff6a6b9 )
+)
+game (
 	name "FE6R.zip"
 	file ( name 690 - FE6R size 10281640 crc 451b2f22 )
+)
+game (
+	name "FE6RR.zip"
+	file ( name 765 - FE6RR size 8388608 crc eaf32b75 )
+)
+game (
+	name "FE6RRaddendum.zip"
+	file ( name 766 - FE6RRaddendum size 8388608 crc d360f35f )
 )
 game (
 	name "FE7 Allegiance Reversal+.zip"
@@ -705,6 +753,10 @@ game (
 	file ( name 554 - FE7 Leila Edition size 17330932 crc 3574373f )
 )
 game (
+	name "FE7 Letras espanyol.zip"
+	file ( name 767 - FE7 Letras espanyol size 16777216 crc 14d046df )
+)
+game (
 	name "FE7 Lute Mode.zip"
 	file ( name 341 - FE7 Lute Mode size 16785796 crc 969bae21 )
 )
@@ -729,16 +781,40 @@ game (
 	file ( name 702 - FE7 自作改造 size 31522816 crc dd53e68a )
 )
 game (
+	name "FE7akaneiaproject.zip"
+	file ( name 772 - FE7akaneiaproject size 33554442 crc abc9be5e )
+)
+game (
+	name "fe7gaiden.zip"
+	file ( name 771 - fe7gaiden size 33785312 crc 53e75c22 )
+)
+game (
 	name "FE7if.zip"
 	file ( name 109 - FE7if size 33554432 crc 6eca79ce )
+)
+game (
+	name "FE7PATCH.zip"
+	file ( name 734 - FE7PATCH size 20019568 crc 36191c57 )
+)
+game (
+	name "FE7U 0% growths.zip"
+	file ( name 758 - FE7U 0% growths size 16777216 crc b6a05eb3 )
 )
 game (
 	name "FE8 All Weapons are Devil Weapons.zip"
 	file ( name 384 - FE8 All Weapons are Devil Weapons size 16777216 crc 711edbc9 )
 )
 game (
+	name "FE8 Another.zip"
+	file ( name 770 - FE8 Another size 19922944 crc 436e6c5e )
+)
+game (
 	name "FE8 AWS(Another War Story).zip"
 	file ( name 712 - FE8 AWS(Another War Story) size 16894316 crc 8f4a878a )
+)
+game (
+	name "FE8 Battle Royaleもどき(DEMO).α版.zip"
+	file ( name 727 - FE8 Battle Royaleもどき(DEMO) size 28596692 crc c3530fb4 )
 )
 game (
 	name "FE8 Beta Test 1.zip"
@@ -797,6 +873,10 @@ game (
 	file ( name 400 - FE8 Fanmade Directors Cut size 21871792 crc a7a210d5 )
 )
 game (
+	name "FE8 Harder patch.zip"
+	file ( name 768 - FE8 Harder patch size 16777216 crc 52733cf0 )
+)
+game (
 	name "FE8 HazelCustom.zip"
 	file ( name 711 - FE8 HazelCustom size 17480036 crc 6f49856f )
 )
@@ -835,6 +915,10 @@ game (
 game (
 	name "FE8 Project Dark.zip"
 	file ( name 397 - FE8 Project Dark size 17578004 crc 4b31296b )
+)
+game (
+	name "FE8 prologue (序章if).zip"
+	file ( name 769 - FE8 prologue (序章if) size 16786688 crc a4fdf618 )
 )
 game (
 	name "FE8 QoL Edition.zip"
@@ -881,8 +965,8 @@ game (
 	file ( name 450 - FE8 Totally Vanilla size 16777216 crc cb15d1a3 )
 )
 game (
-	name "FE8 TS.zip"
-	file ( name 723 - FE8 TS size 20971520 crc cb745df9 )
+	name "FE8 TS (圣魔光石个人特技版).zip"
+	file ( name 723 - FE8 TS (圣魔光石个人特技版) size 20971520 crc cb745df9 )
 )
 game (
 	name "FE8 Weapon Reversal.zip"
@@ -899,6 +983,14 @@ game (
 game (
 	name "FE8 with FE4 Graphics (weapon icons).zip"
 	file ( name 549 - FE8 with FE4 Graphics (weapon icons) size 16777216 crc d14c8d42 )
+)
+game (
+	name "FE8 无聊之士版.zip"
+	file ( name 728 - FE8 无聊之士版 size 16777216 crc d42a364c )
+)
+game (
+	name "FE8 麻袋修改版.zip"
+	file ( name 745 - FE8 麻袋修改版 size 16809216 crc 3cc28078 )
 )
 game (
 	name "FE8 803.zip"
@@ -939,6 +1031,10 @@ game (
 game (
 	name "FE8S+アルファ版.zip"
 	file ( name 714 - FE8S+アルファ版 size 26753744 crc 535a31dd )
+)
+game (
+	name "FE8U 0% growths.zip"
+	file ( name 759 - FE8U 0% growths size 16777216 crc a157be6b )
 )
 game (
 	name "FE8改造.zip"
@@ -1051,10 +1147,6 @@ game (
 game (
 	name "Fire Emblem - Darkest Blade.zip"
 	file ( name 275 - Fire Emblem - Darkest Blade size 16827380 crc 138220f4 )
-)
-game (
-	name "Fire Emblem - Death or Glory.zip"
-	file ( name 124 - Fire Emblem - Death or Glory size 19915268 crc cf613764 )
 )
 game (
 	name "Fire Emblem - Different Dimensions Ostian Princess 2.0.zip"
@@ -1321,10 +1413,6 @@ game (
 	file ( name 240 - Flames of Redemption (supports unlocked) size 24536888 crc 0c835af0 )
 )
 game (
-	name "FOAL.zip"
-	file ( name 558 - FOAL size 17556292 crc 5e4cffa1 )
-)
-game (
 	name "Foreboding Dusk.zip"
 	file ( name 244 - Foreboding Dusk size 16888400 crc 2220983b )
 )
@@ -1493,6 +1581,10 @@ game (
 	file ( name 162 - Knoll’s Super Spooky Halloween Adventure size 17014360 crc 19a64b75 )
 )
 game (
+	name "Kylin Dragons.zip"
+	file ( name 763 - Kylin Dragons size 17375996 crc 9bd3db9a )
+)
+game (
 	name "Lady of Masks.zip"
 	file ( name 590 - Lady of Masks size 21516196 crc 6142c8a8 )
 )
@@ -1507,6 +1599,14 @@ game (
 game (
 	name "Le Chien Est Adorable.zip"
 	file ( name 505 - Le Chien Est Adorable size 16777776 crc 08ff3b82 )
+)
+game (
+	name "League of ASDF.zip"
+	file ( name 776 - League of ASDF size 18411908 crc 30be1528 )
+)
+game (
+	name "League of ASDF (Fixed Mode).zip"
+	file ( name 777 - League of ASDF (Fixed Mode) size 18411908 crc a4299f1b )
 )
 game (
 	name "League of Champions (Patch1).zip"
@@ -1747,6 +1847,10 @@ game (
 game (
 	name "Prisoner of Darkness (Hard Mode).zip"
 	file ( name 133 - Prisoner of Darkness (Hard Mode) size 20971560 crc 1bbb05e1 )
+)
+game (
+	name "Project dondon.zip"
+	file ( name 778 - Project dondon size 16779108 crc 2e260b2e )
 )
 game (
 	name "Project Ember (HM Fixed Growths).zip"
@@ -2041,6 +2145,10 @@ game (
 	file ( name 651 - Shattered Stones size 17267760 crc db045e48 )
 )
 game (
+	name "Shatterlight.zip"
+	file ( name 774 - Shatterlight size 17644220 crc 59213bb8 )
+)
+game (
 	name "Shep & Bluid's MAFC FEU It Again patch.zip"
 	file ( name 681 - Shep & Bluid's MAFC FEU It Again patch size 17419672 crc 14b155d8 )
 )
@@ -2141,6 +2249,10 @@ game (
 	file ( name 295 - Sword of Seals ReDux size 16777244 crc 7895cf0d )
 )
 game (
+	name "TactHack - Redux.zip"
+	file ( name 779 - TactHack - Redux size 21649512 crc 7c7a1ed7 )
+)
+game (
 	name "Tale of Ternon.zip"
 	file ( name 289 - Tale of Ternon size 18452460 crc fb829219 )
 )
@@ -2219,6 +2331,10 @@ game (
 game (
 	name "The Burdened Crown (Blue).zip"
 	file ( name 149 - The Burdened Crown (Blue) size 22485048 crc 0459d055 )
+)
+game (
+	name "The Christmas Blitz.zip"
+	file ( name 782 - The Christmas Blitz size 16777216 crc 3d7b5ca4 )
 )
 game (
 	name "The Corruption Of Roy.zip"
@@ -2301,6 +2417,10 @@ game (
 	file ( name 104 - The Last Promise (Easy Mode) size 32445120 crc be1b4153 )
 )
 game (
+	name "The Last Promise (Hard).zip"
+	file ( name 775 - The Last Promise (Hard) size 32520472 crc 0ede0149 )
+)
+game (
 	name "The Last Promise (Japanese Translation).zip"
 	file ( name 696 - The Last Promise (Japanese Translation) size 32505856 crc 33c46851 )
 )
@@ -2359,6 +2479,10 @@ game (
 game (
 	name "The Sacred Chairs (Boss Version).zip"
 	file ( name 186 - The Sacred Chairs (Boss Version) size 24231680 crc 34d15caf )
+)
+game (
+	name "The Sacred Overhaul.zip"
+	file ( name 780 - The Sacred Overhaul size 16784840 crc cbd2d3e0 )
 )
 game (
 	name "The Sacred Ripping Anniversary Edition.zip"
@@ -2553,6 +2677,10 @@ game (
 	file ( name 716 - エイリークパッチ size 27746224 crc 2ba502ca )
 )
 game (
+	name "エムブレムサーガ.zip"
+	file ( name 760 - エムブレムサーガ size 16777216 crc 6c701371 )
+)
+game (
 	name "デフレ聖魔の光石.zip"
 	file ( name 719 - デフレ聖魔の光石 size 33554432 crc 08547586 )
 )
@@ -2565,8 +2693,60 @@ game (
 	file ( name 708 - ヘイデンの野望 size 16777216 crc ef551a7a )
 )
 game (
+	name "六写封神.zip"
+	file ( name 753 - 六写封神 size 18576656 crc e42b4642 )
+)
+game (
 	name "名も無き英雄.zip"
 	file ( name 447 - 名も無き英雄 size 29840204 crc b9a6e9c7 )
+)
+game (
+	name "圣光之魔石62人变态版.zip"
+	file ( name 732 - 圣光之魔石62人变态版 size 16777216 crc 1273a90d )
+)
+game (
+	name "圣光之魔石62人正常版.zip"
+	file ( name 731 - 圣光之魔石62人正常版 size 16777216 crc 078557fd )
+)
+game (
+	name "圣光之魔石真·62人变态版.zip"
+	file ( name 733 - 圣光之魔石真·62人变态版 size 16777216 crc 953e4110 )
+)
+game (
+	name "圣光之魔石终极修改版.zip"
+	file ( name 786 - 圣光之魔石终极修改版 size 16777216 crc 99c47af7 )
+)
+game (
+	name "圣邪之意志配色版.zip"
+	file ( name 797 - 圣邪之意志配色版 size 16777216 crc 172720d5 )
+)
+game (
+	name "圣魔之光石人物道具增量版.zip"
+	file ( name 742 - 圣魔之光石人物道具增量版 size 18874368 crc c01de0fe )
+)
+game (
+	name "圣魔之光石最后修改版.zip"
+	file ( name 743 - 圣魔之光石最后修改版 size 18874368 crc 4d19e238 )
+)
+game (
+	name "圣魔之魔物军团最终版.zip"
+	file ( name 796 - 圣魔之魔物军团最终版 size 16777216 crc 03987441 )
+)
+game (
+	name "圣魔新元素补丁.zip"
+	file ( name 730 - 圣魔新元素补丁 size 20971520 crc 98d3754b )
+)
+game (
+	name "圣魔极限挑战版.zip"
+	file ( name 744 - 圣魔极限挑战版 size 16777216 crc 3a10c2d0 )
+)
+game (
+	name "圣魔烈火版.zip"
+	file ( name 729 - 圣魔烈火版 size 17582114 crc db871cd1 )
+)
+game (
+	name "奇怪的改版.zip"
+	file ( name 793 - 奇怪的改版 size 20971520 crc 9d32ba55 )
 )
 game (
 	name "女王の剣 (Queen’s Sword).zip"
@@ -2585,8 +2765,36 @@ game (
 	file ( name 693 - 封印ベリーハードっぽいもの size 16777232 crc ca21e647 )
 )
 game (
+	name "新烈火勇者的阔斧.zip"
+	file ( name 798 - 新烈火勇者的阔斧 size 17301504 crc f0c2f1e1 )
+)
+game (
+	name "暗之魔女.zip"
+	file ( name 783 - 暗之魔女 size 18874368 crc 5f847710 )
+)
+game (
+	name "月影剑圣2.zip"
+	file ( name 736 - 月影剑圣2 size 18350080 crc 97552f78 )
+)
+game (
+	name "月影剑圣.zip"
+	file ( name 794 - 月影剑圣 size 18350080 crc 66c59dc3 )
+)
+game (
+	name "杰哥的复仇.zip"
+	file ( name 795 - 杰哥的复仇 size 17601384 crc 48c6a376 )
+)
+game (
 	name "東方炎紋章.zip"
 	file ( name 724 - 東方炎紋章 size 16777216 crc 188eaaf6 )
+)
+game (
+	name "火焰纹章 挑战0.1地狱模式.zip"
+	file ( name 787 - 火焰纹章 挑战0 size 17911088 crc b86e23c5 )
+)
+game (
+	name "火焰纹章 挑战0.2.zip"
+	file ( name 788 - 火焰纹章 挑战0 size 17919848 crc 2230351d )
 )
 game (
 	name "烈火の剣 if (test).zip"
@@ -2609,12 +2817,96 @@ game (
 	file ( name 705 - 烈火マニアック勝手に完成版 size 16777216 crc 92be8dbd )
 )
 game (
+	name "烈火之剑1.1.zip"
+	file ( name 790 - 烈火之剑1 size 16777216 crc 677383d9 )
+)
+game (
+	name "烈火之剑(H).zip"
+	file ( name 789 - 烈火之剑(H) size 18874368 crc 2c881921 )
+)
+game (
+	name "烈火之剑(ZZ).zip"
+	file ( name 740 - 烈火之剑(ZZ) size 18874368 crc dc0cffd9 )
+)
+game (
+	name "烈火之剑-四牙版.zip"
+	file ( name 791 - 烈火之剑-四牙版 size 16777216 crc f96ef074 )
+)
+game (
+	name "烈火之剑人物道具增量版.zip"
+	file ( name 735 - 烈火之剑人物道具增量版 size 18874368 crc 871baea0 )
+)
+game (
+	name "烈火之剑最终改版.zip"
+	file ( name 755 - 烈火之剑最终改版 size 18874368 crc 1eb0812a )
+)
+game (
+	name "烈火极限对战.zip"
+	file ( name 739 - 烈火极限对战 size 16777216 crc a05c4651 )
+)
+game (
+	name "第二梦.zip"
+	file ( name 784 - 第二梦 size 33554431 crc 1ada9fe3 )
+)
+game (
+	name "罪封印之剑.zip"
+	file ( name 799 - 罪封印之剑 size 10415546 crc b3472c99 )
+)
+game (
+	name "罪烈火之剑.zip"
+	file ( name 800 - 罪烈火之剑 size 16777216 crc 1170764d )
+)
+game (
 	name "聖魔 ちょっ改.zip"
 	file ( name 720 - 聖魔 ちょっ改 size 16777216 crc 0a9ab177 )
 )
 game (
 	name "聖魔ベリーハード.zip"
 	file ( name 721 - 聖魔ベリーハード size 33554472 crc 5da9b5ea )
+)
+game (
+	name "逆烈火之剑.zip"
+	file ( name 738 - 逆烈火之剑 size 16777216 crc 1dad8b96 )
+)
+game (
+	name "逆转版圣魔之光石.zip"
+	file ( name 741 - 逆转版圣魔之光石 size 16777216 crc ffe11353 )
+)
+game (
+	name "逆风的小强.zip"
+	file ( name 792 - 逆风的小强 size 18780940 crc 49549fa3 )
+)
+game (
+	name "风恋夕林版新圣魔之光石.zip"
+	file ( name 747 - 风恋夕林版新圣魔之光石 size 23074892 crc 8143d28f )
+)
+game (
+	name "风恋夕林版新封印之剑.zip"
+	file ( name 751 - 风恋夕林版新封印之剑 size 33354000 crc 2ce47629 )
+)
+game (
+	name "风恋夕林版新烈火之剑.zip"
+	file ( name 746 - 风恋夕林版新烈火之剑 size 33354000 crc e5772a86 )
+)
+game (
+	name "风恋夕林版暗黑龙与光之剑.zip"
+	file ( name 748 - 风恋夕林版暗黑龙与光之剑 size 33354000 crc 86abaa80 )
+)
+game (
+	name "风恋夕林版火纹外传.zip"
+	file ( name 749 - 风恋夕林版火纹外传 size 33354000 crc 2384e3d3 )
+)
+game (
+	name "风恋夕林版逆圣魔之光石.zip"
+	file ( name 752 - 风恋夕林版逆圣魔之光石 size 33354000 crc 9d078218 )
+)
+game (
+	name "风恋夕林版逆封印之剑.zip"
+	file ( name 750 - 风恋夕林版逆封印之剑 size 8400656 crc efcb0299 )
+)
+game (
+	name "魔幻封神.zip"
+	file ( name 737 - 魔幻封神 size 18388264 crc ee865884 )
 )
 game (
 	name "黄昏の魔剣１部.zip"
@@ -2627,4 +2919,8 @@ game (
 game (
 	name "黄昏の魔剣２部主人公覚醒編.zip"
 	file ( name 446 - 黄昏の魔剣２部主人公覚醒編 size 22734804 crc 31330711 )
+)
+game (
+	name "黑暗的指引.zip"
+	file ( name 785 - 黑暗的指引 size 17825792 crc ac009a17 )
 )

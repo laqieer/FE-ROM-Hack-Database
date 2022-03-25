@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220323",
+		"version": "20220325",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,18 +107,18 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "2 Princesses",
-				"comment": "二人の王女",
+				"name": "0sheng mo",
+				"comment": "",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "183 - 2 Princesses",
-						"size": 24646064,
-						"crc": "44f08e5b"
+						"name": "756 - 0sheng mo",
+						"size": 16777216,
+						"crc": "9179c574"
 					}
 				}
 			]
@@ -137,6 +137,24 @@
 						"name": "184 - 2 Princesses (English Translation)",
 						"size": 27926780,
 						"crc": "cdf24969"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "2 Princesses (二人の王女)",
+				"comment": "http://fequeen.blog.fc2.com/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "183 - 2 Princesses (二人の王女)",
+						"size": 24646064,
+						"crc": "44f08e5b"
 					}
 				}
 			]
@@ -521,6 +539,24 @@
 		},
 		{
 			"machine": {
+				"name": "Back to the Stones",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "781 - Back to the Stones",
+						"size": 16777216,
+						"crc": "3b21a3cf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Bandit Emblem",
 				"comment": "https://feuniverse.us/t/fe8-complete-bandit-emblem/8501",
 				"description": null,
@@ -533,6 +569,24 @@
 						"name": "204 - Bandit Emblem",
 						"size": 17645508,
 						"crc": "4c0a42a1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Bankai-Silverworld's Emblem",
+				"comment": "http://www.feshrine.net/forums/index.php?showtopic=3919",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "761 - Bankai-Silverworld's Emblem",
+						"size": 17454908,
+						"crc": "b0429e8d"
 					}
 				}
 			]
@@ -1619,6 +1673,24 @@
 		},
 		{
 			"machine": {
+				"name": "Death or Glory",
+				"comment": "https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "124 - Death or Glory",
+						"size": 21204928,
+						"crc": "c745ae1b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Decay of the Fangs",
 				"comment": "https://serenesforest.net/forums/index.php?/topic/24810-fire-emblem-decay-of-the-fangs-first-11-chapters/",
 				"description": null,
@@ -2141,6 +2213,24 @@
 		},
 		{
 			"machine": {
+				"name": "Eliwood vs Everyone",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "754 - Eliwood vs Everyone",
+						"size": 16777216,
+						"crc": "f61becac"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Emblem Warriors",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -2267,6 +2357,24 @@
 		},
 		{
 			"machine": {
+				"name": "Exalted Legacy",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/35570-fire-emblem-exalted-legacy/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "773 - Exalted Legacy",
+						"size": 18772600,
+						"crc": "02bc5b08"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Extinguished Blade",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/",
 				"description": null,
@@ -2357,6 +2465,24 @@
 		},
 		{
 			"machine": {
+				"name": "Father of a Legend",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "558 - Father of a Legend",
+						"size": 17556292,
+						"crc": "5e4cffa1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE1 GBA",
 				"comment": "https://www.reddit.com/r/fireemblem/comments/727nyo/hackplaying_my_really_old_fe1_remake_on_gba/",
 				"description": null,
@@ -2369,6 +2495,24 @@
 						"name": "260 - FE1 GBA",
 						"size": 17361761,
 						"crc": "9be58bd8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE4 Advance (joke demo)",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/39130-feiv-v0a-released/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "762 - FE4 Advance (joke demo)",
+						"size": 22586360,
+						"crc": "3b1913e8"
 					}
 				}
 			]
@@ -2603,6 +2747,24 @@
 						"name": "320 - FE6 Incandescence Edition",
 						"size": 16777532,
 						"crc": "564d7782"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 James Patch",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/36598-fire-emblem-sword-of-seals-james-patch/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "764 - FE6 James Patch",
+						"size": 16777216,
+						"crc": "af26efb5"
 					}
 				}
 			]
@@ -3121,6 +3283,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6J 0% growths",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/29452-fire-emblem-5-8-11-0-growth-patches/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "757 - FE6J 0% growths",
+						"size": 8388608,
+						"crc": "5ff6a6b9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6R",
 				"comment": "",
 				"description": null,
@@ -3133,6 +3313,42 @@
 						"name": "690 - FE6R",
 						"size": 10281640,
 						"crc": "451b2f22"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6RR",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "765 - FE6RR",
+						"size": 8388608,
+						"crc": "eaf32b75"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6RRaddendum",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "766 - FE6RRaddendum",
+						"size": 8388608,
+						"crc": "d360f35f"
 					}
 				}
 			]
@@ -3247,6 +3463,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 Letras espanyol",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "767 - FE7 Letras espanyol",
+						"size": 16777216,
+						"crc": "14d046df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Lute Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/",
 				"description": null,
@@ -3355,6 +3589,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE7akaneiaproject",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "772 - FE7akaneiaproject",
+						"size": 33554442,
+						"crc": "abc9be5e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "fe7gaiden",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "771 - fe7gaiden",
+						"size": 33785312,
+						"crc": "53e75c22"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7if",
 				"comment": "https://seesaawiki.jp/fe7if/",
 				"description": null,
@@ -3367,6 +3637,42 @@
 						"name": "109 - FE7if",
 						"size": 33554432,
 						"crc": "6eca79ce"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7PATCH",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "734 - FE7PATCH",
+						"size": 20019568,
+						"crc": "36191c57"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7U 0% growths",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/29452-fire-emblem-5-8-11-0-growth-patches/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "758 - FE7U 0% growths",
+						"size": 16777216,
+						"crc": "b6a05eb3"
 					}
 				}
 			]
@@ -3391,6 +3697,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Another",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "770 - FE8 Another",
+						"size": 19922944,
+						"crc": "436e6c5e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 AWS(Another War Story)",
 				"comment": "",
 				"description": null,
@@ -3403,6 +3727,24 @@
 						"name": "712 - FE8 AWS(Another War Story)",
 						"size": 16894316,
 						"crc": "8f4a878a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Battle Royaleもどき(DEMO).α版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "727 - FE8 Battle Royaleもどき(DEMO)",
+						"size": 28596692,
+						"crc": "c3530fb4"
 					}
 				}
 			]
@@ -3661,6 +4003,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Harder patch",
+				"comment": "https://feuniverse.us/t/fe8-harder-patch/2783",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "768 - FE8 Harder patch",
+						"size": 16777216,
+						"crc": "52733cf0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 HazelCustom",
 				"comment": "",
 				"description": null,
@@ -3835,6 +4195,24 @@
 						"name": "397 - FE8 Project Dark",
 						"size": 17578004,
 						"crc": "4b31296b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 prologue (序章if)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "769 - FE8 prologue (序章if)",
+						"size": 16786688,
+						"crc": "a4fdf618"
 					}
 				}
 			]
@@ -4039,7 +4417,7 @@
 		},
 		{
 			"machine": {
-				"name": "FE8 TS",
+				"name": "FE8 TS (圣魔光石个人特技版)",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -4048,7 +4426,7 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "723 - FE8 TS",
+						"name": "723 - FE8 TS (圣魔光石个人特技版)",
 						"size": 20971520,
 						"crc": "cb745df9"
 					}
@@ -4123,6 +4501,42 @@
 						"name": "549 - FE8 with FE4 Graphics (weapon icons)",
 						"size": 16777216,
 						"crc": "d14c8d42"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 无聊之士版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "728 - FE8 无聊之士版",
+						"size": 16777216,
+						"crc": "d42a364c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 麻袋修改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "745 - FE8 麻袋修改版",
+						"size": 16809216,
+						"crc": "3cc28078"
 					}
 				}
 			]
@@ -4303,6 +4717,24 @@
 						"name": "714 - FE8S+アルファ版",
 						"size": 26753744,
 						"crc": "535a31dd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8U 0% growths",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/29452-fire-emblem-5-8-11-0-growth-patches/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "759 - FE8U 0% growths",
+						"size": 16777216,
+						"crc": "a157be6b"
 					}
 				}
 			]
@@ -4807,24 +5239,6 @@
 						"name": "275 - Fire Emblem - Darkest Blade",
 						"size": 16827380,
 						"crc": "138220f4"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
-				"name": "Fire Emblem - Death or Glory",
-				"comment": "https://feuniverse.us/t/fire-emblem-death-or-glory-version-2-5/376",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "124 - Fire Emblem - Death or Glory",
-						"size": 19915268,
-						"crc": "cf613764"
 					}
 				}
 			]
@@ -6019,24 +6433,6 @@
 		},
 		{
 			"machine": {
-				"name": "FOAL",
-				"comment": "",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "558 - FOAL",
-						"size": 17556292,
-						"crc": "5e4cffa1"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
 				"name": "Foreboding Dusk",
 				"comment": "https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459",
 				"description": null,
@@ -6793,6 +7189,24 @@
 		},
 		{
 			"machine": {
+				"name": "Kylin Dragons",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "763 - Kylin Dragons",
+						"size": 17375996,
+						"crc": "9bd3db9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Lady of Masks",
 				"comment": "https://feuniverse.us/t/fire-emblem-lady-of-masks-0-0-3-two-new-chapters-9-30-chapters-01-02-2022/12435",
 				"description": null,
@@ -6859,6 +7273,42 @@
 						"name": "505 - Le Chien Est Adorable",
 						"size": 16777776,
 						"crc": "08ff3b82"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "League of ASDF",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/42161-league-of-asdf/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "776 - League of ASDF",
+						"size": 18411908,
+						"crc": "30be1528"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "League of ASDF (Fixed Mode)",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/42161-league-of-asdf/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "777 - League of ASDF (Fixed Mode)",
+						"size": 18411908,
+						"crc": "a4299f1b"
 					}
 				}
 			]
@@ -7939,6 +8389,24 @@
 						"name": "133 - Prisoner of Darkness (Hard Mode)",
 						"size": 20971560,
 						"crc": "1bbb05e1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Project dondon",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/34273-project-dondon/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "778 - Project dondon",
+						"size": 16779108,
+						"crc": "2e260b2e"
 					}
 				}
 			]
@@ -9259,6 +9727,24 @@
 		},
 		{
 			"machine": {
+				"name": "Shatterlight",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/42668-shatterlight-ver-010-released/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "774 - Shatterlight",
+						"size": 17644220,
+						"crc": "59213bb8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Shep & Bluid's MAFC FEU It Again patch",
 				"comment": "https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/119",
 				"description": null,
@@ -9709,6 +10195,24 @@
 		},
 		{
 			"machine": {
+				"name": "TactHack - Redux",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/40746-tacthackredux/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "779 - TactHack - Redux",
+						"size": 21649512,
+						"crc": "7c7a1ed7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Tale of Ternon",
 				"comment": "https://feuniverse.us/t/tale-of-ternon/6622",
 				"description": null,
@@ -10063,6 +10567,24 @@
 						"name": "149 - The Burdened Crown (Blue)",
 						"size": 22485048,
 						"crc": "0459d055"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Christmas Blitz",
+				"comment": "",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "782 - The Christmas Blitz",
+						"size": 16777216,
+						"crc": "3d7b5ca4"
 					}
 				}
 			]
@@ -10429,6 +10951,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Last Promise (Hard)",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/52374-the-last-promise-hard-modeno-growth-v032-chapter-20/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "775 - The Last Promise (Hard)",
+						"size": 32520472,
+						"crc": "0ede0149"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Last Promise (Japanese Translation)",
 				"comment": "tlp の google翻訳バージョンです",
 				"description": null,
@@ -10693,6 +11233,24 @@
 						"name": "186 - The Sacred Chairs (Boss Version)",
 						"size": 24231680,
 						"crc": "34d15caf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sacred Overhaul",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/52547-fire-emblem-the-sacred-overhaul/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "780 - The Sacred Overhaul",
+						"size": 16784840,
+						"crc": "cbd2d3e0"
 					}
 				}
 			]
@@ -11294,7 +11852,7 @@
 		{
 			"machine": {
 				"name": "WillanZ Rebellion (リベリオン)",
-				"comment": "",
+				"comment": "http://feblackrebellion.livedoor.blog/",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -11563,6 +12121,24 @@
 		},
 		{
 			"machine": {
+				"name": "エムブレムサーガ",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "760 - エムブレムサーガ",
+						"size": 16777216,
+						"crc": "6c701371"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "デフレ聖魔の光石",
 				"comment": "",
 				"description": null,
@@ -11617,6 +12193,24 @@
 		},
 		{
 			"machine": {
+				"name": "六写封神",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "753 - 六写封神",
+						"size": 18576656,
+						"crc": "e42b4642"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "名も無き英雄",
 				"comment": "The Nameless Heroes",
 				"description": null,
@@ -11629,6 +12223,222 @@
 						"name": "447 - 名も無き英雄",
 						"size": 29840204,
 						"crc": "b9a6e9c7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之魔石62人变态版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "732 - 圣光之魔石62人变态版",
+						"size": 16777216,
+						"crc": "1273a90d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之魔石62人正常版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "731 - 圣光之魔石62人正常版",
+						"size": 16777216,
+						"crc": "078557fd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之魔石真·62人变态版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "733 - 圣光之魔石真·62人变态版",
+						"size": 16777216,
+						"crc": "953e4110"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之魔石终极修改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "786 - 圣光之魔石终极修改版",
+						"size": 16777216,
+						"crc": "99c47af7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣邪之意志配色版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "797 - 圣邪之意志配色版",
+						"size": 16777216,
+						"crc": "172720d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石人物道具增量版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "742 - 圣魔之光石人物道具增量版",
+						"size": 18874368,
+						"crc": "c01de0fe"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石最后修改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "743 - 圣魔之光石最后修改版",
+						"size": 18874368,
+						"crc": "4d19e238"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之魔物军团最终版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "796 - 圣魔之魔物军团最终版",
+						"size": 16777216,
+						"crc": "03987441"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔新元素补丁",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "730 - 圣魔新元素补丁",
+						"size": 20971520,
+						"crc": "98d3754b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔极限挑战版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "744 - 圣魔极限挑战版",
+						"size": 16777216,
+						"crc": "3a10c2d0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔烈火版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "729 - 圣魔烈火版",
+						"size": 17582114,
+						"crc": "db871cd1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "奇怪的改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "793 - 奇怪的改版",
+						"size": 20971520,
+						"crc": "9d32ba55"
 					}
 				}
 			]
@@ -11707,6 +12517,96 @@
 		},
 		{
 			"machine": {
+				"name": "新烈火勇者的阔斧",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "798 - 新烈火勇者的阔斧",
+						"size": 17301504,
+						"crc": "f0c2f1e1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "暗之魔女",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "783 - 暗之魔女",
+						"size": 18874368,
+						"crc": "5f847710"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "月影剑圣2",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "736 - 月影剑圣2",
+						"size": 18350080,
+						"crc": "97552f78"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "月影剑圣",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "794 - 月影剑圣",
+						"size": 18350080,
+						"crc": "66c59dc3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "杰哥的复仇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "795 - 杰哥的复仇",
+						"size": 17601384,
+						"crc": "48c6a376"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "東方炎紋章",
 				"comment": "",
 				"description": null,
@@ -11719,6 +12619,42 @@
 						"name": "724 - 東方炎紋章",
 						"size": 16777216,
 						"crc": "188eaaf6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "火焰纹章 挑战0.1地狱模式",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "787 - 火焰纹章 挑战0",
+						"size": 17911088,
+						"crc": "b86e23c5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "火焰纹章 挑战0.2",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "788 - 火焰纹章 挑战0",
+						"size": 17919848,
+						"crc": "2230351d"
 					}
 				}
 			]
@@ -11815,6 +12751,186 @@
 		},
 		{
 			"machine": {
+				"name": "烈火之剑1.1",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "790 - 烈火之剑1",
+						"size": 16777216,
+						"crc": "677383d9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火之剑(H)",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "789 - 烈火之剑(H)",
+						"size": 18874368,
+						"crc": "2c881921"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火之剑(ZZ)",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "740 - 烈火之剑(ZZ)",
+						"size": 18874368,
+						"crc": "dc0cffd9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火之剑-四牙版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "791 - 烈火之剑-四牙版",
+						"size": 16777216,
+						"crc": "f96ef074"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火之剑人物道具增量版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "735 - 烈火之剑人物道具增量版",
+						"size": 18874368,
+						"crc": "871baea0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火之剑最终改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "755 - 烈火之剑最终改版",
+						"size": 18874368,
+						"crc": "1eb0812a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "烈火极限对战",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "739 - 烈火极限对战",
+						"size": 16777216,
+						"crc": "a05c4651"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "第二梦",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "784 - 第二梦",
+						"size": 33554431,
+						"crc": "1ada9fe3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "罪封印之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "799 - 罪封印之剑",
+						"size": 10415546,
+						"crc": "b3472c99"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "罪烈火之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "800 - 罪烈火之剑",
+						"size": 16777216,
+						"crc": "1170764d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "聖魔 ちょっ改",
 				"comment": "",
 				"description": null,
@@ -11845,6 +12961,204 @@
 						"name": "721 - 聖魔ベリーハード",
 						"size": 33554472,
 						"crc": "5da9b5ea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆烈火之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "738 - 逆烈火之剑",
+						"size": 16777216,
+						"crc": "1dad8b96"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆转版圣魔之光石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "741 - 逆转版圣魔之光石",
+						"size": 16777216,
+						"crc": "ffe11353"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆风的小强",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "792 - 逆风的小强",
+						"size": 18780940,
+						"crc": "49549fa3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版新圣魔之光石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "747 - 风恋夕林版新圣魔之光石",
+						"size": 23074892,
+						"crc": "8143d28f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版新封印之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "751 - 风恋夕林版新封印之剑",
+						"size": 33354000,
+						"crc": "2ce47629"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版新烈火之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "746 - 风恋夕林版新烈火之剑",
+						"size": 33354000,
+						"crc": "e5772a86"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版暗黑龙与光之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "748 - 风恋夕林版暗黑龙与光之剑",
+						"size": 33354000,
+						"crc": "86abaa80"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版火纹外传",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "749 - 风恋夕林版火纹外传",
+						"size": 33354000,
+						"crc": "2384e3d3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版逆圣魔之光石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "752 - 风恋夕林版逆圣魔之光石",
+						"size": 33354000,
+						"crc": "9d078218"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "风恋夕林版逆封印之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "750 - 风恋夕林版逆封印之剑",
+						"size": 8400656,
+						"crc": "efcb0299"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "魔幻封神",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "737 - 魔幻封神",
+						"size": 18388264,
+						"crc": "ee865884"
 					}
 				}
 			]
@@ -11899,6 +13213,24 @@
 						"name": "446 - 黄昏の魔剣２部主人公覚醒編",
 						"size": 22734804,
 						"crc": "31330711"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "黑暗的指引",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "785 - 黑暗的指引",
+						"size": 17825792,
+						"crc": "ac009a17"
 					}
 				}
 			]

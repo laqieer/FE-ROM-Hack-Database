@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>2 Princesses</title>
+		<title>0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -16,6 +16,19 @@
 	</software>
 	<software>
 		<title>2 Princesses (English Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>2 Princesses (二人の王女)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -301,7 +314,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>Back to the Stones</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Bandit Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Bankai-Silverworld's Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1094,6 +1133,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Death or Glory</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Decay of the Fangs</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1471,6 +1523,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Eliwood vs Everyone</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Emblem Warriors</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1562,6 +1627,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Exalted Legacy</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Extinguished Blade</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1627,7 +1705,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>Father of a Legend</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE1 GBA</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE4 Advance (joke demo)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1797,6 +1901,19 @@
 	</software>
 	<software>
 		<title>FE6 Incandescence Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 James Patch</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2178,7 +2295,46 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE6J 0% growths</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE6R</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6RR</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6RRaddendum</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2269,6 +2425,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 Letras espanyol</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Lute Mode</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2347,7 +2516,59 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7akaneiaproject</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>fe7gaiden</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7if</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7PATCH</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7U 0% growths</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2373,7 +2594,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Another</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 AWS(Another War Story)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Battle Royaleもどき(DEMO).α版</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2568,6 +2815,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Harder patch</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 HazelCustom</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2686,6 +2946,19 @@
 	</software>
 	<software>
 		<title>FE8 Project Dark</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 prologue (序章if)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2841,7 +3114,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>FE8 TS</title>
+		<title>FE8 TS (圣魔光石个人特技版)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2894,6 +3167,32 @@
 	</software>
 	<software>
 		<title>FE8 with FE4 Graphics (weapon icons)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 无聊之士版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 麻袋修改版</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3024,6 +3323,19 @@
 	</software>
 	<software>
 		<title>FE8S+アルファ版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8U 0% growths</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3388,19 +3700,6 @@
 	</software>
 	<software>
 		<title>Fire Emblem - Darkest Blade</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
-		<title>Fire Emblem - Death or Glory</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -4271,19 +4570,6 @@
 		</dump>
 	</software>
 	<software>
-		<title>FOAL</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
 		<title>Foreboding Dusk</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4830,6 +5116,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Kylin Dragons</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Lady of Masks</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4870,6 +5169,32 @@
 	</software>
 	<software>
 		<title>Le Chien Est Adorable</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>League of ASDF</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>League of ASDF (Fixed Mode)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5650,6 +5975,19 @@
 	</software>
 	<software>
 		<title>Prisoner of Darkness (Hard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project dondon</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -6611,6 +6949,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Shatterlight</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Shep &amp; Bluid's MAFC FEU It Again patch</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -6936,6 +7287,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>TactHack - Redux</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Tale of Ternon</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7184,6 +7548,19 @@
 	</software>
 	<software>
 		<title>The Burdened Crown (Blue)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Christmas Blitz</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7456,6 +7833,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Last Promise (Hard)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Last Promise (Japanese Translation)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7639,6 +8029,19 @@
 	</software>
 	<software>
 		<title>The Sacred Chairs (Boss Version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Sacred Overhaul</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8275,6 +8678,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>エムブレムサーガ</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>デフレ聖魔の光石</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8314,7 +8730,176 @@
 		</dump>
 	</software>
 	<software>
+		<title>六写封神</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>名も無き英雄</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣光之魔石62人变态版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣光之魔石62人正常版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣光之魔石真·62人变态版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣光之魔石终极修改版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣邪之意志配色版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔之光石人物道具增量版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔之光石最后修改版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔之魔物军团最终版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔新元素补丁</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔极限挑战版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>圣魔烈火版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>奇怪的改版</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8379,7 +8964,98 @@
 		</dump>
 	</software>
 	<software>
+		<title>新烈火勇者的阔斧</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>暗之魔女</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>月影剑圣2</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>月影剑圣</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>杰哥的复仇</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>東方炎紋章</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>火焰纹章 挑战0.1地狱模式</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>火焰纹章 挑战0.2</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8457,6 +9133,136 @@
 		</dump>
 	</software>
 	<software>
+		<title>烈火之剑1.1</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火之剑(H)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火之剑(ZZ)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火之剑-四牙版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火之剑人物道具增量版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火之剑最终改版</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>烈火极限对战</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>第二梦</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>罪封印之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>罪烈火之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>聖魔 ちょっ改</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8471,6 +9277,149 @@
 	</software>
 	<software>
 		<title>聖魔ベリーハード</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>逆烈火之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>逆转版圣魔之光石</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>逆风的小强</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版新圣魔之光石</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版新封印之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版新烈火之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版暗黑龙与光之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版火纹外传</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版逆圣魔之光石</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>风恋夕林版逆封印之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>魔幻封神</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8510,6 +9459,19 @@
 	</software>
 	<software>
 		<title>黄昏の魔剣２部主人公覚醒編</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>黑暗的指引</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

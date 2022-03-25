@@ -1,5 +1,6 @@
- 183 - 2 Princesses.gba
+ 756 - 0sheng mo.gba
  184 - 2 Princesses (English Translation).gba
+ 183 - 2 Princesses (二人の王女).gba
  178 - A Glimpse of Time (時の垣間 エリウッド編).gba
  516 - A Hobbit's Tale.gba
  530 - A New Revelation.gba
@@ -21,7 +22,9 @@
  499 - Auto Emblem.gba
  418 - Awful Emblem.gba
  212 - B3L-H411-A.gba
+ 781 - Back to the Stones.gba
  204 - Bandit Emblem.gba
+ 761 - Bankai-Silverworld's Emblem.gba
  477 - Barhara Trilogy.gba
  156 - Barry’s Bandits.gba
  343 - Bartre Emblem.gba
@@ -82,6 +85,7 @@
  460 - Dawn of Destiny.gba
  438 - Dawn of the Red Sun.gba
  648 - Days of Beta Past.gba
+ 124 - Death or Glory.gba
  253 - Decay of the Fangs.gba
  653 - Defense Mission.gba
  337 - Degeneration Emblem.gba
@@ -111,6 +115,7 @@
  573 - Dual Fates.gba
  498 - Duo Geno Escapo.gba
  243 - Elibean Nights.gba
+ 754 - Eliwood vs Everyone.gba
  517 - Emblem Warriors.gba
  548 - Encryption20's Patch.gba
  524 - Enderslicer's Escape.gba
@@ -118,12 +123,15 @@
  440 - ErikFE.gba
  161 - Escape From the Mangs Dungeon.gba
  580 - Ethereal Light.gba
+ 773 - Exalted Legacy.gba
  288 - Extinguished Blade.gba
  442 - Faith and Blood.gba
  457 - Fallen Flame.gba
  114 - Fallen King.gba
  406 - Fallen Kingdom.gba
+ 558 - Father of a Legend.gba
  260 - FE1 GBA.gba
+ 762 - FE4 Advance (joke demo).gba
  297 - FE6 All Mounts.gba
  597 - FE6 Boss Recruitment.gba
  620 - FE6 BugFixEdition.gba
@@ -137,6 +145,7 @@
  299 - FE6 Google Translated.gba
  599 - FE6 has DSFE movement.gba
  320 - FE6 Incandescence Edition.gba
+ 764 - FE6 James Patch.gba
  330 - FE6 Negative Growths.gba
  331 - FE6 Negative Growths (English).gba
  585 - FE6 No Redundancy Edition.gba
@@ -166,22 +175,32 @@
  686 - fe6_reshuffle.gba
  687 - fe6_reshuffle.gba
  689 - fe6hack.gba
+ 757 - FE6J 0% growths.gba
  690 - FE6R.gba
+ 765 - FE6RR.gba
+ 766 - FE6RRaddendum.gba
  264 - FE7 Allegiance Reversal+.gba
  596 - FE7 Boss Recruitment.gba
  332 - FE7 Chaos Mode.gba
  581 - FE7 Heroes.gba
  112 - FE7 Inflation.gba
  554 - FE7 Leila Edition.gba
+ 767 - FE7 Letras espanyol.gba
  341 - FE7 Lute Mode.gba
  628 - FE7 Lyn Hard Mode Redux.gba
  629 - FE7 Lyn Hard Mode Redux JP.gba
  626 - FE7 Rewrite.gba
  698 - FE7 デビル.gba
  702 - FE7 自作改造.gba
+ 772 - FE7akaneiaproject.gba
+ 771 - fe7gaiden.gba
  109 - FE7if.gba
+ 734 - FE7PATCH.gba
+ 758 - FE7U 0% growths.gba
  384 - FE8 All Weapons are Devil Weapons.gba
+ 770 - FE8 Another.gba
  712 - FE8 AWS(Another War Story).gba
+ 727 - FE8 Battle Royaleもどき(DEMO).α版.gba
  553 - FE8 Beta Test 1.gba
  366 - FE8 Boss Recruitment (Ephraim Route).gba
  726 - FE8 BS.gba
@@ -196,6 +215,7 @@
  380 - FE8 Creature Campaign Reverse Recruitment (Ephraim).gba
  546 - FE8 Darion's Mode.gba
  400 - FE8 Fanmade Directors Cut.gba
+ 768 - FE8 Harder patch.gba
  711 - FE8 HazelCustom.gba
  374 - FE8 Lyn Windy.gba
  393 - FE8 Maniac Mode.gba
@@ -206,6 +226,7 @@
  367 - FE8 Negative Growths.gba
  403 - FE8 Oops, All Archers!.gba
  397 - FE8 Project Dark.gba
+ 769 - FE8 prologue (序章if).gba
  375 - FE8 QoL Edition.gba
  399 - FE8 Redux.gba
  388 - FE8 Remix.gba
@@ -217,11 +238,13 @@
  722 - FE8 ROY.gba
  401 - FE8 The Fallen Princess.gba
  450 - FE8 Totally Vanilla.gba
- 723 - FE8 TS.gba
+ 723 - FE8 TS (圣魔光石个人特技版).gba
  376 - FE8 Weapon Reversal.gba
  385 - FE8 Wild Mode.gba
  550 - FE8 with FE4 Graphics (map sprites).gba
  549 - FE8 with FE4 Graphics (weapon icons).gba
+ 728 - FE8 无聊之士版.gba
+ 745 - FE8 麻袋修改版.gba
  707 - FE8 803.gba
  174 - FE8_GIRLS.gba
  175 - FE8_GIRLS (English Translation).gba
@@ -232,6 +255,7 @@
  713 - FE8plus.gba
  601 - FE8Re(gret).gba
  714 - FE8S+アルファ版.gba
+ 759 - FE8U 0% growths.gba
  706 - FE8改造.gba
  241 - Fe 8 Chess.gba
  198 - FE but it’s my Biology Homework.gba
@@ -260,7 +284,6 @@
  123 - Fire Emblem - Barhara Revisited.gba
  150 - Fire Emblem - Code of the Black Knights.gba
  275 - Fire Emblem - Darkest Blade.gba
- 124 - Fire Emblem - Death or Glory.gba
  122 - Fire Emblem - Different Dimensions Ostian Princess 2.0.gba
  277 - Fire Emblem - Dust to Dust.gba
  231 - Fire Emblem - Emulation Theory.gba
@@ -327,7 +350,6 @@
  459 - Flames of Freedom.gba
  239 - Flames of Redemption.gba
  240 - Flames of Redemption (supports unlocked).gba
- 558 - FOAL.gba
  244 - Foreboding Dusk.gba
  394 - Fort Mangs Emblem.gba
  660 - Fort Nunya.gba
@@ -370,10 +392,13 @@
  179 - Kaitou.gba
  180 - Kaitou (English).gba
  162 - Knoll’s Super Spooky Halloween Adventure.gba
+ 763 - Kylin Dragons.gba
  590 - Lady of Masks.gba
  476 - Land of Heroes.gba
  453 - Last Heavenly Throne.gba
  505 - Le Chien Est Adorable.gba
+ 776 - League of ASDF.gba
+ 777 - League of ASDF (Fixed Mode).gba
  255 - League of Champions (Patch1).gba
  256 - League of Champions (Patch2).gba
  571 - Legacy of Sorrow (Easy Mode).gba
@@ -434,6 +459,7 @@
  663 - Prepare to Die.gba
  140 - Prisoner of Darkness.gba
  133 - Prisoner of Darkness (Hard Mode).gba
+ 778 - Project dondon.gba
  313 - Project Ember (HM Fixed Growths).gba
  309 - Project Ember (HM).gba
  311 - Project Ember (MM 0% Growths).gba
@@ -507,6 +533,7 @@
  488 - Shackled Power.gba
  654 - Shameless Reused Asset.gba
  651 - Shattered Stones.gba
+ 774 - Shatterlight.gba
  681 - Shep & Bluid's MAFC FEU It Again patch.gba
  102 - Shining Armor.gba
  471 - SHYUTERz’s Patch.gba
@@ -532,6 +559,7 @@
  539 - Super Generic Ragefest Adventure.gba
  594 - Sword of Heaven and Earth (English Translation).gba
  295 - Sword of Seals ReDux.gba
+ 779 - TactHack - Redux.gba
  289 - Tale of Ternon.gba
  458 - Tales from Afar.gba
  545 - Tales of Bravery.gba
@@ -552,6 +580,7 @@
  147 - The Burdened Crown (0 Growths).gba
  148 - The Burdened Crown (100 Growths).gba
  149 - The Burdened Crown (Blue).gba
+ 782 - The Christmas Blitz.gba
  512 - The Corruption Of Roy.gba
  677 - The Cult.gba
  201 - The Dark Hour.gba
@@ -572,6 +601,7 @@
  103 - The Last Promise.gba
  105 - The Last Promise (Chaos Mode DEMO).gba
  104 - The Last Promise (Easy Mode).gba
+ 775 - The Last Promise (Hard).gba
  696 - The Last Promise (Japanese Translation).gba
  697 - The Last Promise (Japanese Translation) (Fixed Only).gba
  106 - The Last Promise (Weapon Reversal).gba
@@ -587,6 +617,7 @@
  185 - The Sacred Chairs.gba
  187 - The Sacred Chairs (0% Growths Version).gba
  186 - The Sacred Chairs (Boss Version).gba
+ 780 - The Sacred Overhaul.gba
  386 - The Sacred Ripping Anniversary Edition.gba
  552 - The Sacred Stones - FE7 Crossover.gba
  173 - The Sacred War (Final Update - v1.51).gba
@@ -635,22 +666,65 @@
  717 - つどえ八神将 (tsudoe).gba
  718 - つどえ八神将 (しねおじ).gba
  716 - エイリークパッチ.gba
+ 760 - エムブレムサーガ.gba
  719 - デフレ聖魔の光石.gba
  703 - デフ烈火の剣.gba
  708 - ヘイデンの野望.gba
+ 753 - 六写封神.gba
  447 - 名も無き英雄.gba
+ 732 - 圣光之魔石62人变态版.gba
+ 731 - 圣光之魔石62人正常版.gba
+ 733 - 圣光之魔石真·62人变态版.gba
+ 786 - 圣光之魔石终极修改版.gba
+ 797 - 圣邪之意志配色版.gba
+ 742 - 圣魔之光石人物道具增量版.gba
+ 743 - 圣魔之光石最后修改版.gba
+ 796 - 圣魔之魔物军团最终版.gba
+ 730 - 圣魔新元素补丁.gba
+ 744 - 圣魔极限挑战版.gba
+ 729 - 圣魔烈火版.gba
+ 793 - 奇怪的改版.gba
  420 - 女王の剣 (Queen’s Sword).gba
  692 - 封印ちょっと改造.gba
  695 - 封印ノーマルプラス.gba
  693 - 封印ベリーハードっぽいもの.gba
+ 798 - 新烈火勇者的阔斧.gba
+ 783 - 暗之魔女.gba
+ 736 - 月影剑圣2.gba
+ 794 - 月影剑圣.gba
+ 795 - 杰哥的复仇.gba
  724 - 東方炎紋章.gba
+ 787 - 火焰纹章 挑战0.1地狱模式.gba
+ 788 - 火焰纹章 挑战0.2.gba
  700 - 烈火の剣 if (test).gba
  701 - 烈火の剣 if (update).gba
  699 - 烈火の剣 if D(イージー）.gba
  704 - 烈火の剣ベリーハード.gba
  705 - 烈火マニアック勝手に完成版.gba
+ 790 - 烈火之剑1.1.gba
+ 789 - 烈火之剑(H).gba
+ 740 - 烈火之剑(ZZ).gba
+ 791 - 烈火之剑-四牙版.gba
+ 735 - 烈火之剑人物道具增量版.gba
+ 755 - 烈火之剑最终改版.gba
+ 739 - 烈火极限对战.gba
+ 784 - 第二梦.gba
+ 799 - 罪封印之剑.gba
+ 800 - 罪烈火之剑.gba
  720 - 聖魔 ちょっ改.gba
  721 - 聖魔ベリーハード.gba
+ 738 - 逆烈火之剑.gba
+ 741 - 逆转版圣魔之光石.gba
+ 792 - 逆风的小强.gba
+ 747 - 风恋夕林版新圣魔之光石.gba
+ 751 - 风恋夕林版新封印之剑.gba
+ 746 - 风恋夕林版新烈火之剑.gba
+ 748 - 风恋夕林版暗黑龙与光之剑.gba
+ 749 - 风恋夕林版火纹外传.gba
+ 752 - 风恋夕林版逆圣魔之光石.gba
+ 750 - 风恋夕林版逆封印之剑.gba
+ 737 - 魔幻封神.gba
  444 - 黄昏の魔剣１部.gba
  445 - 黄昏の魔剣２部パンナルート.gba
  446 - 黄昏の魔剣２部主人公覚醒編.gba
+ 785 - 黑暗的指引.gba

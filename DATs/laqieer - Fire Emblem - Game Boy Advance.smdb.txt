@@ -1,6 +1,8 @@
 	0sheng mo/756 - 0sheng mo			9179c574	16777216
+	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			44f08e5b	24646064
+	21关开始-封印之剑/930 - 21关开始-封印之剑			75da6fb9	8388608
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
 	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
 	A New Revelation/530 - A New Revelation			08189dee	17616732
@@ -62,6 +64,7 @@
 	Cerulean Coast/492 - Cerulean Coast			81bfb293	28145516
 	Christmas Crossover Carol/121 - Christmas Crossover Carol			676c6d7f	16831344
 	Chronicles of Lussaria/250 - Chronicles of Lussaria			bee51b0b	17605868
+	Clash of Fates/939 - Clash of Fates			1637f575	16832828
 	Clendo's 1h Blitz - Faltharian Heist/645 - Clendo's 1h Blitz - Faltharian Heist			5ec26df2	16889240
 	Code of the Burger King/600 - Code of the Burger King			e74b3929	28138512
 	Colm's Big Heist/536 - Colm's Big Heist			34f20e9d	16777216
@@ -97,6 +100,7 @@
 	Desperate Struggle/506 - Desperate Struggle			b9e5a43c	18881396
 	Devourer of Time (Hard mode)/339 - Devourer of Time (Hard mode)			7fd35f4f	16818192
 	Devourer of Time (Normal mode)/338 - Devourer of Time (Normal mode)			200f63aa	16818224
+	Devourer of Worlds/903 - Devourer of Worlds			b72f5a94	16891404
 	Different Dimensions Ostian Princess/333 - Different Dimensions Ostian Princess			79f1b543	16777216
 	Dirge of the Departed/618 - Dirge of the Departed			98ed0044	17584264
 	Disregarding Eighth/682 - Disregarding Eighth			a3f7fa41	16920324
@@ -256,7 +260,9 @@
 	FE8Re(gret)/601 - FE8Re(gret)			ae563a17	16951928
 	FE8S+アルファ版/714 - FE8S+アルファ版			535a31dd	26753744
 	FE8U 0% growths/759 - FE8U 0% growths			a157be6b	16777216
+	FE8女版/977 - FE8女版			7f66973d	16898520
 	FE8改造/706 - FE8改造			616dfbb4	16777216
+	FE16RE/812 - FE16RE			d1d36019	16777216
 	Fe 8 Chess/241 - Fe 8 Chess			d5ddb5e8	16806152
 	FE but it’s my Biology Homework/198 - FE but it’s my Biology Homework			385de2ec	17279456
 	FE The Grand Uprising/213 - FE The Grand Uprising			535448a4	29479028
@@ -300,6 +306,7 @@
 	Fire Emblem - Illuminated/432 - Fire Emblem - Illuminated			6150b83f	29741960
 	Fire Emblem - Izarck’s Quest/247 - Fire Emblem - Izarck’s Quest			6bf9575b	21103520
 	Fire Emblem - Justice and Pride/188 - Fire Emblem - Justice and Pride			c166ce14	26189708
+	Fire Emblem - Justice and Pride (Chinese Translation)/827 - Fire Emblem - Justice and Pride (Chinese Translation)			3c5e7160	27407516
 	Fire Emblem - Order of the Crimson Arm/407 - Fire Emblem - Order of the Crimson Arm			7f5a1b3a	25073560
 	Fire Emblem - Reawakening/146 - Fire Emblem - Reawakening			9f92a410	20016012
 	Fire Emblem - Reborn Dimensions, Olethian Princess/220 - Fire Emblem - Reborn Dimensions, Olethian Princess			f379d286	23413200
@@ -310,7 +317,6 @@
 	Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]/25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]			eafa4ef0	19086336
 	Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS]/31 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1			4186d6e5	16777216
 	Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]/23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]			7aef4edc	16777216
-	Fire Emblem - Saving Christmas/568 - Fire Emblem - Saving Christmas			5afd94b1	18449388
 	Fire Emblem - Seima no Kouseki (Japan)/6 - Fire Emblem - Seima no Kouseki (Japan)			9d76826f	16777216
 	Fire Emblem - Seima no Kouseki (Japan) (Beta)/11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)			cd9d8972	16777216
 	Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]/27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]			223f8fc4	16777216
@@ -375,6 +381,8 @@
 	Horizons/493 - Horizons			63f74902	23323800
 	Host of the Dark/489 - Host of the Dark			7cab585e	28808224
 	Human Armory/527 - Human Armory			90b0a9a5	16784272
+	IF禁忌/810 - IF禁忌			32934a7b	19896368
+	IF禁忌 - 十六夜/820 - IF禁忌 - 十六夜			b95e4efb	27691692
 	Inheritance/210 - Inheritance			db7233f0	27877852
 	Inheritance (with Minimug)/211 - Inheritance (with Minimug)			bc0988fd	27877852
 	Inheritors of the Crusade/411 - Inheritors of the Crusade			9f0bced0	23373980
@@ -411,7 +419,7 @@
 	Lute Emblem - The Sacred Lutes/377 - Lute Emblem - The Sacred Lutes			5c7d8d3f	16993256
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -524,6 +532,8 @@
 	Sacred Trilogy Final -Lite- Random Growths- With AI/361 - Sacred Trilogy Final -Lite- Random Growths- With AI			c31dc48b	33531144
 	Saga of the Sigilbearers/611 - Saga of the Sigilbearers			a2c6e6e0	18864616
 	SageMatthis's MAFC FEU It Again patch/683 - SageMatthis's MAFC FEU It Again patch			b5889999	19914496
+	Saving Christmas/568 - Saving Christmas			5afd94b1	18449388
+	Saving Christmas (Chinese Translation)/872 - Saving Christmas (Chinese Translation)			efdbe109	19442516
 	Scarlet Rising/200 - Scarlet Rising			8c78f4a5	20488132
 	Scourge of Proxima/431 - Scourge of Proxima			ced8254f	22542928
 	Sea and Sky/586 - Sea and Sky			f94f6c39	18548440
@@ -580,6 +590,7 @@
 	The Burdened Crown (0 Growths)/147 - The Burdened Crown (0 Growths)			25e8f03d	22485048
 	The Burdened Crown (100 Growths)/148 - The Burdened Crown (100 Growths)			c152923c	22485048
 	The Burdened Crown (Blue)/149 - The Burdened Crown (Blue)			0459d055	22485048
+	The Burdened Crown (Chinese Translation)/851 - The Burdened Crown (Chinese Translation)			3089e40a	24029140
 	The Christmas Blitz/782 - The Christmas Blitz			3d7b5ca4	16777216
 	The Corruption Of Roy/512 - The Corruption Of Roy			41300a20	17761716
 	The Cult/677 - The Cult			22905a74	17872864
@@ -589,6 +600,7 @@
 	The Dragon Herald/152 - The Dragon Herald			72d65e0b	25565628
 	The Dragon Herald (DSSave)/153 - The Dragon Herald (DSSave)			24eaa892	25565628
 	The Eligor’s Spear/428 - The Eligor’s Spear			20426aa9	24776684
+	The Eligor’s Spear (Chinese Translation)/871 - The Eligor’s Spear (Chinese Translation)			81d49d3e	25809240
 	The Empire’s Reach Revisited/389 - The Empire’s Reach Revisited			5b0c8f83	16788832
 	The Empyrean Prophecy/436 - The Empyrean Prophecy			6039ab3f	29810060
 	The Final Swear 2/191 - The Final Swear 2			fb400d2d	18404968
@@ -600,6 +612,7 @@
 	The Golden Kingdom/441 - The Golden Kingdom			78f00579	20092192
 	The Last Promise/103 - The Last Promise			d1c6e5d5	32505856
 	The Last Promise (Chaos Mode DEMO)/105 - The Last Promise (Chaos Mode DEMO)			365cf432	32446048
+	The Last Promise (Chinese Translation)/819 - The Last Promise (Chinese Translation)			68b22f19	33340904
 	The Last Promise (Easy Mode)/104 - The Last Promise (Easy Mode)			be1b4153	32445120
 	The Last Promise (Hard)/775 - The Last Promise (Hard)			0ede0149	32520472
 	The Last Promise (Japanese Translation)/696 - The Last Promise (Japanese Translation)			33c46851	32505856
@@ -624,6 +637,7 @@
 	The Sacred War (Starting Version - v1.36)/172 - The Sacred War (Starting Version - v1			9ff4790d	31133988
 	The Sun God’s Wrath/217 - The Sun God’s Wrath			cc06a4ef	33007088
 	The Sun God’s Wrath (0 growth)/218 - The Sun God’s Wrath (0 growth)			7def8770	33007108
+	The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)/815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)			c5c281e7	33531452
 	The Tavern Adventures/627 - The Tavern Adventures			8ceec8c8	22098544
 	The Teq Demo/652 - The Teq Demo			cde9a0dd	16777216
 	The White Feather/490 - The White Feather			294c6150	23302696
@@ -670,32 +684,144 @@
 	デフレ聖魔の光石/719 - デフレ聖魔の光石			08547586	33554432
 	デフ烈火の剣/703 - デフ烈火の剣			0b5cb986	33554432
 	ヘイデンの野望/708 - ヘイデンの野望			ef551a7a	16777216
+	不知名改版/860 - 不知名改版			a347d734	25166900
+	东方苍神缘起无印大神版/828 - 东方苍神缘起无印大神版			d0954d10	23055512
+	东方苍神缘起无印平民版/829 - 东方苍神缘起无印平民版			46b02c58	23016040
+	东方苍神缘起残暑大神版/850 - 东方苍神缘起残暑大神版			b23ea3b9	27038084
+	东方苍神缘起残暑平民版/849 - 东方苍神缘起残暑平民版			5a02d5b4	27040524
+	主角大联盟/863 - 主角大联盟			09fb7e5d	30134392
+	主角大联盟完结版/888 - 主角大联盟完结版			5001696d	27805428
+	主角大联盟超高难度/889 - 主角大联盟超高难度			0975e53d	27557216
+	僵尸道长/886 - 僵尸道长			7e731649	21486460
+	光明的救赎/874 - 光明的救赎			8321f5d3	29117088
 	六写封神/753 - 六写封神			e42b4642	18576656
+	再渡雄起/944 - 再渡雄起			595e735f	17825792
+	冰焰灵境/824 - 冰焰灵境			58c4f4bc	17779304
+	冰焰雪莉/825 - 冰焰雪莉			3859dd97	24355492
+	冰风烈焰/823 - 冰风烈焰			e60b3691	27852748
+	勇者天下/953 - 勇者天下			01d7b03b	16777216
+	半成品/896 - 半成品			1f1f8988	22072704
+	召唤师2.0中秋限定版/942 - 召唤师2			5865db9c	26095224
+	召唤师/864 - 召唤师			4f89c557	25077656
 	名も無き英雄/447 - 名も無き英雄			b9a6e9c7	29840204
+	后宫战纪/818 - 后宫战纪			74352ac4	31942288
+	后宫战纪全人物平衡版/862 - 后宫战纪全人物平衡版			4b5ef030	32070988
+	后宫战纪新修版/817 - 后宫战纪新修版			de942803	31979420
+	后宫战纪新编版/816 - 后宫战纪新编版			f2ae9e8f	33500920
+	命运/861 - 命运			3dc1ca38	22296164
+	四大魔王/960 - 四大魔王			32485799	16777216
+	回忆都去哪了/837 - 回忆都去哪了			f4b8b913	18501884
+	圣光之义友军/978 - 圣光之义友军			aa119a5c	17825792
+	圣光之战/802 - 圣光之战			a3e52600	30783480
 	圣光之魔石62人变态版/732 - 圣光之魔石62人变态版			1273a90d	16777216
 	圣光之魔石62人正常版/731 - 圣光之魔石62人正常版			078557fd	16777216
 	圣光之魔石真·62人变态版/733 - 圣光之魔石真·62人变态版			953e4110	16777216
 	圣光之魔石终极修改版/786 - 圣光之魔石终极修改版			99c47af7	16777216
+	圣兵风云录/923 - 圣兵风云录			0a85f774	25911312
+	圣王的刃与诗/891 - 圣王的刃与诗			84703d5b	17668068
 	圣邪之意志配色版/797 - 圣邪之意志配色版			172720d5	16777216
+	圣邪的意志1.4冰剑/964 - 圣邪的意志1			44baaa73	16777216
+	圣邪的意志  最帅修改终极版/962 - 圣邪的意志  最帅修改终极版			ec8def8b	16777216
+	圣邪的意志 风之刃/963 - 圣邪的意志 风之刃			221d31c4	16777216
+	圣魔F版/867 - 圣魔F版			b7b978d5	20352452
+	圣魔IF破晓/852 - 圣魔IF破晓			f8185593	32667416
+	圣魔之光石 魔物版/985 - 圣魔之光石 魔物版			19346fbb	16778240
+	圣魔之光石-苍天龙骑士版/970 - 圣魔之光石-苍天龙骑士版			657f9606	16777216
 	圣魔之光石人物道具增量版/742 - 圣魔之光石人物道具增量版			c01de0fe	18874368
+	圣魔之光石孩子版/972 - 圣魔之光石孩子版			68c0ae78	16939360
+	圣魔之光石巴拉那之改版/929 - 圣魔之光石巴拉那之改版			ee14f542	16778240
+	圣魔之光石新的国王/976 - 圣魔之光石新的国王			babe3584	16777216
+	圣魔之光石无等级版/968 - 圣魔之光石无等级版			9b8ec9d9	18388268
+	圣魔之光石晚夕版/969 - 圣魔之光石晚夕版			705f679d	16777216
 	圣魔之光石最后修改版/743 - 圣魔之光石最后修改版			4d19e238	18874368
+	圣魔之光石精修版/868 - 圣魔之光石精修版			76532a14	16777216
+	圣魔之公主的逆袭/984 - 圣魔之公主的逆袭			bf03bf90	20971520
+	圣魔之战/909 - 圣魔之战			fa6a203a	24413620
+	圣魔之渣新成长记/967 - 圣魔之渣新成长记			11f17402	16877216
+	圣魔之王者的复仇/966 - 圣魔之王者的复仇			4284723f	20971520
+	圣魔之飞龙的世界/908 - 圣魔之飞龙的世界			8a1970b6	20971520
 	圣魔之魔物军团最终版/796 - 圣魔之魔物军团最终版			03987441	16777216
+	圣魔光石 马修已/982 - 圣魔光石 马修已			30e212d7	18807972
+	圣魔光石(烈火改)自改版/938 - 圣魔光石(烈火改)自改版			9c28e397	20426668
+	圣魔光石IS/912 - 圣魔光石IS			525bab37	21501708
+	圣魔光石魔物职业混合版/983 - 圣魔光石魔物职业混合版			58b4a6c8	16778240
 	圣魔新元素补丁/730 - 圣魔新元素补丁			98d3754b	20971520
 	圣魔极限挑战版/744 - 圣魔极限挑战版			3a10c2d0	16777216
 	圣魔烈火版/729 - 圣魔烈火版			db871cd1	17582114
+	多拉基亚776GBA复刻版/870 - 多拉基亚776GBA复刻版			3ee35095	33327848
+	天地之月/957 - 天地之月			ba12e1a4	16777216
+	天王之战/838 - 天王之战			ffbd4892	16777216
 	奇怪的改版/793 - 奇怪的改版			9d32ba55	20971520
 	女王の剣 (Queen’s Sword)/420 - 女王の剣 (Queen’s Sword)			658dc7e3	33554432
+	女皇的复仇/945 - 女皇的复仇			81b20b66	16777216
+	女神的救赎重置版/845 - 女神的救赎重置版			c0e36c50	33000160
+	女神的救赎重置版（固定加点）/846 - 女神的救赎重置版（固定加点）			3c8e4a20	33001600
+	完整版/897 - 完整版			a010b1ca	16777216
+	宿命交锋/940 - 宿命交锋			fd716da0	21207896
+	宿命传说/843 - 宿命传说			7454de30	24664964
+	寂世/890 - 寂世			395ac70c	33554428
 	封印ちょっと改造/692 - 封印ちょっと改造			5b167458	8700080
 	封印ノーマルプラス/695 - 封印ノーマルプラス			847ed5df	8388608
 	封印ベリーハードっぽいもの/693 - 封印ベリーハードっぽいもの			ca21e647	16777232
+	封印丧心病狂/932 - 封印丧心病狂			8b70be90	8388608
+	封印之剑 @浪/933 - 封印之剑 @浪			478cfa46	8388608
+	封印之剑 美丽改版/931 - 封印之剑 美丽改版			bef89cf2	8388608
+	封印之剑 重生/927 - 封印之剑 重生			d6241e80	8388608
+	封印之剑if/914 - 封印之剑if			18d44fea	28507884
+	封印之剑re英雄王传说/875 - 封印之剑re英雄王传说			364be0dd	33554432
+	封印之剑修改后/936 - 封印之剑修改后			d5259176	8388608
+	封印之剑国王版/975 - 封印之剑国王版			f7bee1fa	10415546
+	封印加强版/928 - 封印加强版			5979b3ae	8388608
+	封印的竹光/814 - 封印的竹光			5d65f64b	25830312
+	屠神之星/877 - 屠神之星			dad5f1c9	18274940
+	帝·鲁尼之剑/974 - 帝·鲁尼之剑			cd07df67	16777216
+	帝国除魔战争/879 - 帝国除魔战争			73981433	17972796
+	幸运的七色花/884 - 幸运的七色花			d497bd48	33554432
+	幻想烈火传/833 - 幻想烈火传			4fcc4e9a	31445952
+	幽影华尔兹/811 - 幽影华尔兹			c37960cd	25919968
+	异界旅者/881 - 异界旅者			5b1de0b8	25891756
+	强大的女皇/905 - 强大的女皇			4b4086ff	16777216
+	放开那个魔王/900 - 放开那个魔王			38f11041	19019252
+	新公主同盟/925 - 新公主同盟			bb40f18a	22946116
+	新圣火微章/921 - 新圣火微章			20c552d6	27446884
+	新封神传奇/943 - 新封神传奇			738d53da	18576652
+	新烈火之剑简单版/922 - 新烈火之剑简单版			30e3e535	17301504
 	新烈火勇者的阔斧/798 - 新烈火勇者的阔斧			f0c2f1e1	17301504
+	新的改版（圣魔）/958 - 新的改版（圣魔）			e4708bc6	20971520
+	新逆封印之剑（最骚改版）/895 - 新逆封印之剑（最骚改版）			1e2c7ade	18582592
+	旅程/917 - 旅程			91930108	20442448
+	无敌刺客版/955 - 无敌刺客版			6222f431	16777216
+	时光战纪上/831 - 时光战纪上			29738e88	33279872
+	时光战纪下/832 - 时光战纪下			2106bdc7	27484372
+	时空与乱斗/919 - 时空与乱斗			6b545e1b	21932096
+	时空的咆哮/885 - 时空的咆哮			cef50cd5	28798752
+	时空的羁绊/836 - 时空的羁绊			f91db891	17595116
+	时间之石/880 - 时间之石			03a578a3	27554636
+	明与宵之章/865 - 明与宵之章			e57890af	27254088
+	星痕改版/949 - 星痕改版			baaba5c7	18868356
+	智慧的结晶/804 - 智慧的结晶			de4128f9	17822480
+	暗之彼方/866 - 暗之彼方			d348549a	33113720
 	暗之魔女/783 - 暗之魔女			5f847710	18874368
+	暗黑の黎明/806 - 暗黑の黎明			a387b295	24837392
+	最帅修改 圣魔新地图/951 - 最帅修改 圣魔新地图			24eadfef	16777216
+	最帅出品 圣邪地狱篇/950 - 最帅出品 圣邪地狱篇			6843b393	16777300
+	最帅改版 封印无敌篇/934 - 最帅改版 封印无敌篇			f1787236	10415546
+	最帅新做 圣魔召唤篇/946 - 最帅新做 圣魔召唤篇			7f3e78fc	18388268
+	最终的噩梦/965 - 最终的噩梦			dd52bae7	16777216
 	月影剑圣2/736 - 月影剑圣2			97552f78	18350080
 	月影剑圣/794 - 月影剑圣			66c59dc3	18350080
+	木叶战记/906 - 木叶战记			1c9af3d5	22802384
+	杰哥新复仇 元旦福利版/979 - 杰哥新复仇 元旦福利版			dafdb65b	17613360
 	杰哥的复仇/795 - 杰哥的复仇			48c6a376	17601384
 	東方炎紋章/724 - 東方炎紋章			188eaaf6	16777216
+	某不知名改版/859 - 某不知名改版			10aa75ac	30530508
+	次元の幻想/913 - 次元の幻想			0b9ae87a	16877216
+	死灵复生2/840 - 死灵复生2			72c9caf7	21288008
+	死灵复生/986 - 死灵复生			a5c39099	16778240
+	流浪公主/858 - 流浪公主			c5707104	29583392
 	火焰纹章 挑战0.1地狱模式/787 - 火焰纹章 挑战0			b86e23c5	17911088
 	火焰纹章 挑战0.2/788 - 火焰纹章 挑战0			2230351d	17919848
+	火纹三国/847 - 火纹三国			d5c254e8	27345504
 	烈火の剣 if (test)/700 - 烈火の剣 if (test)			163a9cf2	33554432
 	烈火の剣 if (update)/701 - 烈火の剣 if (update)			1560b86c	33554432
 	烈火の剣 if D(イージー）/699 - 烈火の剣 if D(イージー）			ee349ea5	33554432
@@ -707,15 +833,66 @@
 	烈火之剑-四牙版/791 - 烈火之剑-四牙版			f96ef074	16777216
 	烈火之剑人物道具增量版/735 - 烈火之剑人物道具增量版			871baea0	18874368
 	烈火之剑最终改版/755 - 烈火之剑最终改版			1eb0812a	18874368
+	烈火之剑火龙之怒/937 - 烈火之剑火龙之怒			bec9321a	16777216
 	烈火极限对战/739 - 烈火极限对战			a05c4651	16777216
+	烈火系谱乱入高必杀版/941 - 烈火系谱乱入高必杀版			4b0e82a0	17825792
+	王之誓约/856 - 王之誓约			e5ba4301	33164648
+	王子/947 - 王子			634fe88a	16922452
+	玩不下去的圣魔/954 - 玩不下去的圣魔			a4de5b6c	16777216
+	疾风的勇王/907 - 疾风的勇王			e30f64fd	16777216
+	直到遇见你/876 - 直到遇见你			d93aa3a6	31957948
+	真♂圣魔之光石/952 - 真♂圣魔之光石			23bf26ed	16777216
+	祈悠之月/878 - 祈悠之月			3625756a	33554432
+	神光之公主/822 - 神光之公主			0771cf0c	22451192
+	神光女线/915 - 神光女线			bff6ec2f	21354600
+	神兵无双/826 - 神兵无双			1ebafc19	21464504
+	神魂之绯石/904 - 神魂之绯石			8c2a8d70	16777216
+	秩序之剑/898 - 秩序之剑			1dc6ffb7	22683944
+	童子军/835 - 童子军			5831a5cc	18672992
 	第二梦/784 - 第二梦			1ada9fe3	33554431
+	粗鄙的我/834 - 粗鄙的我			3f5c8fc7	30229972
+	红月Z/901 - 红月Z			b5729868	33554432
+	红月第一部/902 - 红月第一部			92a16c4b	33554432
+	结局/892 - 结局			ab9ed24b	26605304
+	绝望游戏/893 - 绝望游戏			1152edce	26201932
+	绯红之章/830 - 绯红之章			b5fab1af	33111688
 	罪封印之剑/799 - 罪封印之剑			b3472c99	10415546
 	罪烈火之剑/800 - 罪烈火之剑			1170764d	16777216
 	聖魔 ちょっ改/720 - 聖魔 ちょっ改			0a9ab177	16777216
 	聖魔ベリーハード/721 - 聖魔ベリーハード			5da9b5ea	33554472
+	能勉强玩的下去的圣魔/981 - 能勉强玩的下去的圣魔			d90e4bc3	16777216
+	舞撩烈火之断牙之痛/924 - 舞撩烈火之断牙之痛			44416773	19437920
+	花开于漠/841 - 花开于漠			8f7e5642	20968000
+	苍月传重置版/920 - 苍月传重置版			f33463e7	24235944
+	苍炎乱入版/869 - 苍炎乱入版			dc7bbd0c	19922944
+	苍炎的勇者/848 - 苍炎的勇者			00ee59e6	32668748
+	英雄世界/857 - 英雄世界			e889fa3a	33433540
+	英雄的挑战/887 - 英雄的挑战			8241e45e	26018900
+	英雄的黎明ED-Ver8黎明盡頭（A）/807 - 英雄的黎明ED-Ver8黎明盡頭（A）			f69edfe4	33493848
+	英雄的黎明ED-Ver8黎明盡頭（J）/808 - 英雄的黎明ED-Ver8黎明盡頭（J）			8db1cda1	32777920
+	英雄的黎明ED-简易修复版（A+J）/809 - 英雄的黎明ED-简易修复版（A+J）			f752202f	33411816
+	虚空之魂/805 - 虚空之魂			a10d3741	31816536
+	血族再生/873 - 血族再生			34e72f95	16972040
+	血族家族/961 - 血族家族			629ba120	16972040
+	衫雨初空/839 - 衫雨初空			c3af7709	17202772
+	西克斯の最终版/956 - 西克斯の最终版			ce656409	16777216
+	西克斯の最终版（重甲三角）/948 - 西克斯の最终版（重甲三角）			f1b6214f	16777216
+	西克斯烈火/801 - 西克斯烈火			1b1668fa	20347892
+	誓约传说/899 - 誓约传说			68be4ab9	23814716
+	逆反圣魔/821 - 逆反圣魔			f9c6a3fe	28266452
+	逆反圣魔番外传/844 - 逆反圣魔番外传			26e8522d	28607756
+	逆圣魔之光石/918 - 逆圣魔之光石			acbc1952	19131208
+	逆封印之剑/882 - 逆封印之剑			4322f8d3	8400800
 	逆烈火之剑/738 - 逆烈火之剑			1dad8b96	16777216
+	逆转月痕/916 - 逆转月痕			18848ff4	18512580
 	逆转版圣魔之光石/741 - 逆转版圣魔之光石			ffe11353	16777216
-	逆风的小强/792 - 逆风的小强			49549fa3	18780940
+	逆风之小强/792 - 逆风之小强			74acbe7e	18780940
+	选召者们/842 - 选召者们			23974ff1	20789272
+	选召者们IF/910 - 选召者们IF			c8cbdb1e	21967880
+	选召者们完结更新1.1/911 - 选召者们完结更新1			e0020fab	21856700
+	重置竹光/813 - 重置竹光			9d1ccda8	32227848
+	锋哥的复仇/935 - 锋哥的复仇			6dda6eab	8388608
+	错乱的时间/973 - 错乱的时间			223668f4	20971520
 	风恋夕林版新圣魔之光石/747 - 风恋夕林版新圣魔之光石			8143d28f	23074892
 	风恋夕林版新封印之剑/751 - 风恋夕林版新封印之剑			2ce47629	33354000
 	风恋夕林版新烈火之剑/746 - 风恋夕林版新烈火之剑			e5772a86	33354000
@@ -723,8 +900,17 @@
 	风恋夕林版火纹外传/749 - 风恋夕林版火纹外传			2384e3d3	33354000
 	风恋夕林版逆圣魔之光石/752 - 风恋夕林版逆圣魔之光石			9d078218	33354000
 	风恋夕林版逆封印之剑/750 - 风恋夕林版逆封印之剑			efcb0299	8400656
+	鬼鬼专属/926 - 鬼鬼专属			307fb47e	24759364
+	魔之暗/883 - 魔之暗			48e54442	19044148
 	魔幻封神/737 - 魔幻封神			ee865884	18388264
+	魔物变态版/980 - 魔物变态版			2865e7d9	16777216
+	魔物狩猎者/971 - 魔物狩猎者			e26f95c8	16777216
+	麻烦制造者/894 - 麻烦制造者			27a0fd3e	17914508
 	黄昏の魔剣１部/444 - 黄昏の魔剣１部			02a1d458	22610180
 	黄昏の魔剣２部パンナルート/445 - 黄昏の魔剣２部パンナルート			f0ac088d	23248008
 	黄昏の魔剣２部主人公覚醒編/446 - 黄昏の魔剣２部主人公覚醒編			31330711	22734804
+	黑暗复苏/959 - 黑暗复苏			0ea7fb9d	16777216
+	黑暗无双/803 - 黑暗无双			7e7ef874	17008656
 	黑暗的指引/785 - 黑暗的指引			ac009a17	17825792
+	黑暗轮回者-006最终版/855 - 黑暗轮回者-006最终版			4188cf4b	32267124
+	黑暗轮回者-007优化简单版/854 - 黑暗轮回者-007优化简单版			48d59dbf	32270164

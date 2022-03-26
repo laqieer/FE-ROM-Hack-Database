@@ -2,6 +2,10 @@ ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
+ROMs required for driver "0的逆圣魔".
+Name                                   Size Checksum
+853 - 0的逆圣魔                        20252024 CRC(077d94bb)
+
 ROMs required for driver "2 Princesses (English Translation)".
 Name                                   Size Checksum
 184 - 2 Princesses (English Translation)27926780 CRC(cdf24969)
@@ -9,6 +13,10 @@ Name                                   Size Checksum
 ROMs required for driver "2 Princesses (二人の王女)".
 Name                                   Size Checksum
 183 - 2 Princesses (二人の王女)         24646064 CRC(44f08e5b)
+
+ROMs required for driver "21关开始-封印之剑".
+Name                                   Size Checksum
+930 - 21关开始-封印之剑                    8388608 CRC(75da6fb9)
 
 ROMs required for driver "A Glimpse of Time (時の垣間 エリウッド編)".
 Name                                   Size Checksum
@@ -254,6 +262,10 @@ ROMs required for driver "Chronicles of Lussaria".
 Name                                   Size Checksum
 250 - Chronicles of Lussaria       17605868 CRC(bee51b0b)
 
+ROMs required for driver "Clash of Fates".
+Name                                   Size Checksum
+939 - Clash of Fates               16832828 CRC(1637f575)
+
 ROMs required for driver "Clendo's 1h Blitz - Faltharian Heist".
 Name                                   Size Checksum
 645 - Clendo's 1h Blitz - Faltharian Heist16889240 CRC(5ec26df2)
@@ -393,6 +405,10 @@ Name                                   Size Checksum
 ROMs required for driver "Devourer of Time (Normal mode)".
 Name                                   Size Checksum
 338 - Devourer of Time (Normal mode)16818224 CRC(200f63aa)
+
+ROMs required for driver "Devourer of Worlds".
+Name                                   Size Checksum
+903 - Devourer of Worlds           16891404 CRC(b72f5a94)
 
 ROMs required for driver "Different Dimensions Ostian Princess".
 Name                                   Size Checksum
@@ -1027,9 +1043,17 @@ ROMs required for driver "FE8U 0% growths".
 Name                                   Size Checksum
 759 - FE8U 0% growths              16777216 CRC(a157be6b)
 
+ROMs required for driver "FE8女版".
+Name                                   Size Checksum
+977 - FE8女版                        16898520 CRC(7f66973d)
+
 ROMs required for driver "FE8改造".
 Name                                   Size Checksum
 706 - FE8改造                        16777216 CRC(616dfbb4)
+
+ROMs required for driver "FE16RE".
+Name                                   Size Checksum
+812 - FE16RE                       16777216 CRC(d1d36019)
 
 ROMs required for driver "Fe 8 Chess".
 Name                                   Size Checksum
@@ -1203,6 +1227,10 @@ ROMs required for driver "Fire Emblem - Justice and Pride".
 Name                                   Size Checksum
 188 - Fire Emblem - Justice and Pride26189708 CRC(c166ce14)
 
+ROMs required for driver "Fire Emblem - Justice and Pride (Chinese Translation)".
+Name                                   Size Checksum
+827 - Fire Emblem - Justice and Pride (Chinese Translation)          27407516 CRC(3c5e7160)
+
 ROMs required for driver "Fire Emblem - Order of the Crimson Arm".
 Name                                   Size Checksum
 407 - Fire Emblem - Order of the Crimson Arm          25073560 CRC(7f5a1b3a)
@@ -1242,10 +1270,6 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]".
 Name                                   Size Checksum
 23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]          16777216 CRC(7aef4edc)
-
-ROMs required for driver "Fire Emblem - Saving Christmas".
-Name                                   Size Checksum
-568 - Fire Emblem - Saving Christmas18449388 CRC(5afd94b1)
 
 ROMs required for driver "Fire Emblem - Seima no Kouseki (Japan)".
 Name                                   Size Checksum
@@ -1503,6 +1527,14 @@ ROMs required for driver "Human Armory".
 Name                                   Size Checksum
 527 - Human Armory                 16784272 CRC(90b0a9a5)
 
+ROMs required for driver "IF禁忌".
+Name                                   Size Checksum
+810 - IF禁忌                         19896368 CRC(32934a7b)
+
+ROMs required for driver "IF禁忌 - 十六夜".
+Name                                   Size Checksum
+820 - IF禁忌 - 十六夜                   27691692 CRC(b95e4efb)
+
 ROMs required for driver "Inheritance".
 Name                                   Size Checksum
 210 - Inheritance                  27877852 CRC(db7233f0)
@@ -1649,7 +1681,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2099,6 +2131,14 @@ ROMs required for driver "SageMatthis's MAFC FEU It Again patch".
 Name                                   Size Checksum
 683 - SageMatthis's MAFC FEU It Again patch          19914496 CRC(b5889999)
 
+ROMs required for driver "Saving Christmas".
+Name                                   Size Checksum
+568 - Saving Christmas             18449388 CRC(5afd94b1)
+
+ROMs required for driver "Saving Christmas (Chinese Translation)".
+Name                                   Size Checksum
+872 - Saving Christmas (Chinese Translation)          19442516 CRC(efdbe109)
+
 ROMs required for driver "Scarlet Rising".
 Name                                   Size Checksum
 200 - Scarlet Rising               20488132 CRC(8c78f4a5)
@@ -2323,6 +2363,10 @@ ROMs required for driver "The Burdened Crown (Blue)".
 Name                                   Size Checksum
 149 - The Burdened Crown (Blue)    22485048 CRC(0459d055)
 
+ROMs required for driver "The Burdened Crown (Chinese Translation)".
+Name                                   Size Checksum
+851 - The Burdened Crown (Chinese Translation)          24029140 CRC(3089e40a)
+
 ROMs required for driver "The Christmas Blitz".
 Name                                   Size Checksum
 782 - The Christmas Blitz          16777216 CRC(3d7b5ca4)
@@ -2358,6 +2402,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Eligor’s Spear".
 Name                                   Size Checksum
 428 - The Eligor’s Spear           24776684 CRC(20426aa9)
+
+ROMs required for driver "The Eligor’s Spear (Chinese Translation)".
+Name                                   Size Checksum
+871 - The Eligor’s Spear (Chinese Translation)          25809240 CRC(81d49d3e)
 
 ROMs required for driver "The Empire’s Reach Revisited".
 Name                                   Size Checksum
@@ -2402,6 +2450,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Last Promise (Chaos Mode DEMO)".
 Name                                   Size Checksum
 105 - The Last Promise (Chaos Mode DEMO)32446048 CRC(365cf432)
+
+ROMs required for driver "The Last Promise (Chinese Translation)".
+Name                                   Size Checksum
+819 - The Last Promise (Chinese Translation)          33340904 CRC(68b22f19)
 
 ROMs required for driver "The Last Promise (Easy Mode)".
 Name                                   Size Checksum
@@ -2498,6 +2550,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Sun God’s Wrath (0 growth)".
 Name                                   Size Checksum
 218 - The Sun God’s Wrath (0 growth)33007108 CRC(7def8770)
+
+ROMs required for driver "The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)".
+Name                                   Size Checksum
+815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)          33531452 CRC(c5c281e7)
 
 ROMs required for driver "The Tavern Adventures".
 Name                                   Size Checksum
@@ -2683,13 +2739,121 @@ ROMs required for driver "ヘイデンの野望".
 Name                                   Size Checksum
 708 - ヘイデンの野望                      16777216 CRC(ef551a7a)
 
+ROMs required for driver "不知名改版".
+Name                                   Size Checksum
+860 - 不知名改版                        25166900 CRC(a347d734)
+
+ROMs required for driver "东方苍神缘起无印大神版".
+Name                                   Size Checksum
+828 - 东方苍神缘起无印大神版                  23055512 CRC(d0954d10)
+
+ROMs required for driver "东方苍神缘起无印平民版".
+Name                                   Size Checksum
+829 - 东方苍神缘起无印平民版                  23016040 CRC(46b02c58)
+
+ROMs required for driver "东方苍神缘起残暑大神版".
+Name                                   Size Checksum
+850 - 东方苍神缘起残暑大神版                  27038084 CRC(b23ea3b9)
+
+ROMs required for driver "东方苍神缘起残暑平民版".
+Name                                   Size Checksum
+849 - 东方苍神缘起残暑平民版                  27040524 CRC(5a02d5b4)
+
+ROMs required for driver "主角大联盟".
+Name                                   Size Checksum
+863 - 主角大联盟                        30134392 CRC(09fb7e5d)
+
+ROMs required for driver "主角大联盟完结版".
+Name                                   Size Checksum
+888 - 主角大联盟完结版                     27805428 CRC(5001696d)
+
+ROMs required for driver "主角大联盟超高难度".
+Name                                   Size Checksum
+889 - 主角大联盟超高难度                    27557216 CRC(0975e53d)
+
+ROMs required for driver "僵尸道长".
+Name                                   Size Checksum
+886 - 僵尸道长                         21486460 CRC(7e731649)
+
+ROMs required for driver "光明的救赎".
+Name                                   Size Checksum
+874 - 光明的救赎                        29117088 CRC(8321f5d3)
+
 ROMs required for driver "六写封神".
 Name                                   Size Checksum
 753 - 六写封神                         18576656 CRC(e42b4642)
 
+ROMs required for driver "再渡雄起".
+Name                                   Size Checksum
+944 - 再渡雄起                         17825792 CRC(595e735f)
+
+ROMs required for driver "冰焰灵境".
+Name                                   Size Checksum
+824 - 冰焰灵境                         17779304 CRC(58c4f4bc)
+
+ROMs required for driver "冰焰雪莉".
+Name                                   Size Checksum
+825 - 冰焰雪莉                         24355492 CRC(3859dd97)
+
+ROMs required for driver "冰风烈焰".
+Name                                   Size Checksum
+823 - 冰风烈焰                         27852748 CRC(e60b3691)
+
+ROMs required for driver "勇者天下".
+Name                                   Size Checksum
+953 - 勇者天下                         16777216 CRC(01d7b03b)
+
+ROMs required for driver "半成品".
+Name                                   Size Checksum
+896 - 半成品                          22072704 CRC(1f1f8988)
+
+ROMs required for driver "召唤师2.0中秋限定版".
+Name                                   Size Checksum
+942 - 召唤师2                         26095224 CRC(5865db9c)
+
+ROMs required for driver "召唤师".
+Name                                   Size Checksum
+864 - 召唤师                          25077656 CRC(4f89c557)
+
 ROMs required for driver "名も無き英雄".
 Name                                   Size Checksum
 447 - 名も無き英雄                       29840204 CRC(b9a6e9c7)
+
+ROMs required for driver "后宫战纪".
+Name                                   Size Checksum
+818 - 后宫战纪                         31942288 CRC(74352ac4)
+
+ROMs required for driver "后宫战纪全人物平衡版".
+Name                                   Size Checksum
+862 - 后宫战纪全人物平衡版                   32070988 CRC(4b5ef030)
+
+ROMs required for driver "后宫战纪新修版".
+Name                                   Size Checksum
+817 - 后宫战纪新修版                      31979420 CRC(de942803)
+
+ROMs required for driver "后宫战纪新编版".
+Name                                   Size Checksum
+816 - 后宫战纪新编版                      33500920 CRC(f2ae9e8f)
+
+ROMs required for driver "命运".
+Name                                   Size Checksum
+861 - 命运                           22296164 CRC(3dc1ca38)
+
+ROMs required for driver "四大魔王".
+Name                                   Size Checksum
+960 - 四大魔王                         16777216 CRC(32485799)
+
+ROMs required for driver "回忆都去哪了".
+Name                                   Size Checksum
+837 - 回忆都去哪了                       18501884 CRC(f4b8b913)
+
+ROMs required for driver "圣光之义友军".
+Name                                   Size Checksum
+978 - 圣光之义友军                       17825792 CRC(aa119a5c)
+
+ROMs required for driver "圣光之战".
+Name                                   Size Checksum
+802 - 圣光之战                         30783480 CRC(a3e52600)
 
 ROMs required for driver "圣光之魔石62人变态版".
 Name                                   Size Checksum
@@ -2707,21 +2871,117 @@ ROMs required for driver "圣光之魔石终极修改版".
 Name                                   Size Checksum
 786 - 圣光之魔石终极修改版                   16777216 CRC(99c47af7)
 
+ROMs required for driver "圣兵风云录".
+Name                                   Size Checksum
+923 - 圣兵风云录                        25911312 CRC(0a85f774)
+
+ROMs required for driver "圣王的刃与诗".
+Name                                   Size Checksum
+891 - 圣王的刃与诗                       17668068 CRC(84703d5b)
+
 ROMs required for driver "圣邪之意志配色版".
 Name                                   Size Checksum
 797 - 圣邪之意志配色版                     16777216 CRC(172720d5)
+
+ROMs required for driver "圣邪的意志1.4冰剑".
+Name                                   Size Checksum
+964 - 圣邪的意志1                       16777216 CRC(44baaa73)
+
+ROMs required for driver "圣邪的意志  最帅修改终极版".
+Name                                   Size Checksum
+962 - 圣邪的意志  最帅修改终极版               16777216 CRC(ec8def8b)
+
+ROMs required for driver "圣邪的意志 风之刃".
+Name                                   Size Checksum
+963 - 圣邪的意志 风之刃                    16777216 CRC(221d31c4)
+
+ROMs required for driver "圣魔F版".
+Name                                   Size Checksum
+867 - 圣魔F版                         20352452 CRC(b7b978d5)
+
+ROMs required for driver "圣魔IF破晓".
+Name                                   Size Checksum
+852 - 圣魔IF破晓                       32667416 CRC(f8185593)
+
+ROMs required for driver "圣魔之光石 魔物版".
+Name                                   Size Checksum
+985 - 圣魔之光石 魔物版                    16778240 CRC(19346fbb)
+
+ROMs required for driver "圣魔之光石-苍天龙骑士版".
+Name                                   Size Checksum
+970 - 圣魔之光石-苍天龙骑士版                 16777216 CRC(657f9606)
 
 ROMs required for driver "圣魔之光石人物道具增量版".
 Name                                   Size Checksum
 742 - 圣魔之光石人物道具增量版                 18874368 CRC(c01de0fe)
 
+ROMs required for driver "圣魔之光石孩子版".
+Name                                   Size Checksum
+972 - 圣魔之光石孩子版                     16939360 CRC(68c0ae78)
+
+ROMs required for driver "圣魔之光石巴拉那之改版".
+Name                                   Size Checksum
+929 - 圣魔之光石巴拉那之改版                  16778240 CRC(ee14f542)
+
+ROMs required for driver "圣魔之光石新的国王".
+Name                                   Size Checksum
+976 - 圣魔之光石新的国王                    16777216 CRC(babe3584)
+
+ROMs required for driver "圣魔之光石无等级版".
+Name                                   Size Checksum
+968 - 圣魔之光石无等级版                    18388268 CRC(9b8ec9d9)
+
+ROMs required for driver "圣魔之光石晚夕版".
+Name                                   Size Checksum
+969 - 圣魔之光石晚夕版                     16777216 CRC(705f679d)
+
 ROMs required for driver "圣魔之光石最后修改版".
 Name                                   Size Checksum
 743 - 圣魔之光石最后修改版                   18874368 CRC(4d19e238)
 
+ROMs required for driver "圣魔之光石精修版".
+Name                                   Size Checksum
+868 - 圣魔之光石精修版                     16777216 CRC(76532a14)
+
+ROMs required for driver "圣魔之公主的逆袭".
+Name                                   Size Checksum
+984 - 圣魔之公主的逆袭                     20971520 CRC(bf03bf90)
+
+ROMs required for driver "圣魔之战".
+Name                                   Size Checksum
+909 - 圣魔之战                         24413620 CRC(fa6a203a)
+
+ROMs required for driver "圣魔之渣新成长记".
+Name                                   Size Checksum
+967 - 圣魔之渣新成长记                     16877216 CRC(11f17402)
+
+ROMs required for driver "圣魔之王者的复仇".
+Name                                   Size Checksum
+966 - 圣魔之王者的复仇                     20971520 CRC(4284723f)
+
+ROMs required for driver "圣魔之飞龙的世界".
+Name                                   Size Checksum
+908 - 圣魔之飞龙的世界                     20971520 CRC(8a1970b6)
+
 ROMs required for driver "圣魔之魔物军团最终版".
 Name                                   Size Checksum
 796 - 圣魔之魔物军团最终版                   16777216 CRC(03987441)
+
+ROMs required for driver "圣魔光石 马修已".
+Name                                   Size Checksum
+982 - 圣魔光石 马修已                     18807972 CRC(30e212d7)
+
+ROMs required for driver "圣魔光石(烈火改)自改版".
+Name                                   Size Checksum
+938 - 圣魔光石(烈火改)自改版                 20426668 CRC(9c28e397)
+
+ROMs required for driver "圣魔光石IS".
+Name                                   Size Checksum
+912 - 圣魔光石IS                       21501708 CRC(525bab37)
+
+ROMs required for driver "圣魔光石魔物职业混合版".
+Name                                   Size Checksum
+983 - 圣魔光石魔物职业混合版                  16778240 CRC(58b4a6c8)
 
 ROMs required for driver "圣魔新元素补丁".
 Name                                   Size Checksum
@@ -2735,6 +2995,18 @@ ROMs required for driver "圣魔烈火版".
 Name                                   Size Checksum
 729 - 圣魔烈火版                        17582114 CRC(db871cd1)
 
+ROMs required for driver "多拉基亚776GBA复刻版".
+Name                                   Size Checksum
+870 - 多拉基亚776GBA复刻版                33327848 CRC(3ee35095)
+
+ROMs required for driver "天地之月".
+Name                                   Size Checksum
+957 - 天地之月                         16777216 CRC(ba12e1a4)
+
+ROMs required for driver "天王之战".
+Name                                   Size Checksum
+838 - 天王之战                         16777216 CRC(ffbd4892)
+
 ROMs required for driver "奇怪的改版".
 Name                                   Size Checksum
 793 - 奇怪的改版                        20971520 CRC(9d32ba55)
@@ -2742,6 +3014,34 @@ Name                                   Size Checksum
 ROMs required for driver "女王の剣 (Queen’s Sword)".
 Name                                   Size Checksum
 420 - 女王の剣 (Queen’s Sword)         33554432 CRC(658dc7e3)
+
+ROMs required for driver "女皇的复仇".
+Name                                   Size Checksum
+945 - 女皇的复仇                        16777216 CRC(81b20b66)
+
+ROMs required for driver "女神的救赎重置版".
+Name                                   Size Checksum
+845 - 女神的救赎重置版                     33000160 CRC(c0e36c50)
+
+ROMs required for driver "女神的救赎重置版（固定加点）".
+Name                                   Size Checksum
+846 - 女神的救赎重置版（固定加点）               33001600 CRC(3c8e4a20)
+
+ROMs required for driver "完整版".
+Name                                   Size Checksum
+897 - 完整版                          16777216 CRC(a010b1ca)
+
+ROMs required for driver "宿命交锋".
+Name                                   Size Checksum
+940 - 宿命交锋                         21207896 CRC(fd716da0)
+
+ROMs required for driver "宿命传说".
+Name                                   Size Checksum
+843 - 宿命传说                         24664964 CRC(7454de30)
+
+ROMs required for driver "寂世".
+Name                                   Size Checksum
+890 - 寂世                           33554428 CRC(395ac70c)
 
 ROMs required for driver "封印ちょっと改造".
 Name                                   Size Checksum
@@ -2755,13 +3055,185 @@ ROMs required for driver "封印ベリーハードっぽいもの".
 Name                                   Size Checksum
 693 - 封印ベリーハードっぽいもの                16777232 CRC(ca21e647)
 
+ROMs required for driver "封印丧心病狂".
+Name                                   Size Checksum
+932 - 封印丧心病狂                        8388608 CRC(8b70be90)
+
+ROMs required for driver "封印之剑 @浪".
+Name                                   Size Checksum
+933 - 封印之剑 @浪                       8388608 CRC(478cfa46)
+
+ROMs required for driver "封印之剑 美丽改版".
+Name                                   Size Checksum
+931 - 封印之剑 美丽改版                     8388608 CRC(bef89cf2)
+
+ROMs required for driver "封印之剑 重生".
+Name                                   Size Checksum
+927 - 封印之剑 重生                       8388608 CRC(d6241e80)
+
+ROMs required for driver "封印之剑if".
+Name                                   Size Checksum
+914 - 封印之剑if                       28507884 CRC(18d44fea)
+
+ROMs required for driver "封印之剑re英雄王传说".
+Name                                   Size Checksum
+875 - 封印之剑re英雄王传说                  33554432 CRC(364be0dd)
+
+ROMs required for driver "封印之剑修改后".
+Name                                   Size Checksum
+936 - 封印之剑修改后                       8388608 CRC(d5259176)
+
+ROMs required for driver "封印之剑国王版".
+Name                                   Size Checksum
+975 - 封印之剑国王版                      10415546 CRC(f7bee1fa)
+
+ROMs required for driver "封印加强版".
+Name                                   Size Checksum
+928 - 封印加强版                         8388608 CRC(5979b3ae)
+
+ROMs required for driver "封印的竹光".
+Name                                   Size Checksum
+814 - 封印的竹光                        25830312 CRC(5d65f64b)
+
+ROMs required for driver "屠神之星".
+Name                                   Size Checksum
+877 - 屠神之星                         18274940 CRC(dad5f1c9)
+
+ROMs required for driver "帝·鲁尼之剑".
+Name                                   Size Checksum
+974 - 帝·鲁尼之剑                       16777216 CRC(cd07df67)
+
+ROMs required for driver "帝国除魔战争".
+Name                                   Size Checksum
+879 - 帝国除魔战争                       17972796 CRC(73981433)
+
+ROMs required for driver "幸运的七色花".
+Name                                   Size Checksum
+884 - 幸运的七色花                       33554432 CRC(d497bd48)
+
+ROMs required for driver "幻想烈火传".
+Name                                   Size Checksum
+833 - 幻想烈火传                        31445952 CRC(4fcc4e9a)
+
+ROMs required for driver "幽影华尔兹".
+Name                                   Size Checksum
+811 - 幽影华尔兹                        25919968 CRC(c37960cd)
+
+ROMs required for driver "异界旅者".
+Name                                   Size Checksum
+881 - 异界旅者                         25891756 CRC(5b1de0b8)
+
+ROMs required for driver "强大的女皇".
+Name                                   Size Checksum
+905 - 强大的女皇                        16777216 CRC(4b4086ff)
+
+ROMs required for driver "放开那个魔王".
+Name                                   Size Checksum
+900 - 放开那个魔王                       19019252 CRC(38f11041)
+
+ROMs required for driver "新公主同盟".
+Name                                   Size Checksum
+925 - 新公主同盟                        22946116 CRC(bb40f18a)
+
+ROMs required for driver "新圣火微章".
+Name                                   Size Checksum
+921 - 新圣火微章                        27446884 CRC(20c552d6)
+
+ROMs required for driver "新封神传奇".
+Name                                   Size Checksum
+943 - 新封神传奇                        18576652 CRC(738d53da)
+
+ROMs required for driver "新烈火之剑简单版".
+Name                                   Size Checksum
+922 - 新烈火之剑简单版                     17301504 CRC(30e3e535)
+
 ROMs required for driver "新烈火勇者的阔斧".
 Name                                   Size Checksum
 798 - 新烈火勇者的阔斧                     17301504 CRC(f0c2f1e1)
 
+ROMs required for driver "新的改版（圣魔）".
+Name                                   Size Checksum
+958 - 新的改版（圣魔）                     20971520 CRC(e4708bc6)
+
+ROMs required for driver "新逆封印之剑（最骚改版）".
+Name                                   Size Checksum
+895 - 新逆封印之剑（最骚改版）                 18582592 CRC(1e2c7ade)
+
+ROMs required for driver "旅程".
+Name                                   Size Checksum
+917 - 旅程                           20442448 CRC(91930108)
+
+ROMs required for driver "无敌刺客版".
+Name                                   Size Checksum
+955 - 无敌刺客版                        16777216 CRC(6222f431)
+
+ROMs required for driver "时光战纪上".
+Name                                   Size Checksum
+831 - 时光战纪上                        33279872 CRC(29738e88)
+
+ROMs required for driver "时光战纪下".
+Name                                   Size Checksum
+832 - 时光战纪下                        27484372 CRC(2106bdc7)
+
+ROMs required for driver "时空与乱斗".
+Name                                   Size Checksum
+919 - 时空与乱斗                        21932096 CRC(6b545e1b)
+
+ROMs required for driver "时空的咆哮".
+Name                                   Size Checksum
+885 - 时空的咆哮                        28798752 CRC(cef50cd5)
+
+ROMs required for driver "时空的羁绊".
+Name                                   Size Checksum
+836 - 时空的羁绊                        17595116 CRC(f91db891)
+
+ROMs required for driver "时间之石".
+Name                                   Size Checksum
+880 - 时间之石                         27554636 CRC(03a578a3)
+
+ROMs required for driver "明与宵之章".
+Name                                   Size Checksum
+865 - 明与宵之章                        27254088 CRC(e57890af)
+
+ROMs required for driver "星痕改版".
+Name                                   Size Checksum
+949 - 星痕改版                         18868356 CRC(baaba5c7)
+
+ROMs required for driver "智慧的结晶".
+Name                                   Size Checksum
+804 - 智慧的结晶                        17822480 CRC(de4128f9)
+
+ROMs required for driver "暗之彼方".
+Name                                   Size Checksum
+866 - 暗之彼方                         33113720 CRC(d348549a)
+
 ROMs required for driver "暗之魔女".
 Name                                   Size Checksum
 783 - 暗之魔女                         18874368 CRC(5f847710)
+
+ROMs required for driver "暗黑の黎明".
+Name                                   Size Checksum
+806 - 暗黑の黎明                        24837392 CRC(a387b295)
+
+ROMs required for driver "最帅修改 圣魔新地图".
+Name                                   Size Checksum
+951 - 最帅修改 圣魔新地图                   16777216 CRC(24eadfef)
+
+ROMs required for driver "最帅出品 圣邪地狱篇".
+Name                                   Size Checksum
+950 - 最帅出品 圣邪地狱篇                   16777300 CRC(6843b393)
+
+ROMs required for driver "最帅改版 封印无敌篇".
+Name                                   Size Checksum
+934 - 最帅改版 封印无敌篇                   10415546 CRC(f1787236)
+
+ROMs required for driver "最帅新做 圣魔召唤篇".
+Name                                   Size Checksum
+946 - 最帅新做 圣魔召唤篇                   18388268 CRC(7f3e78fc)
+
+ROMs required for driver "最终的噩梦".
+Name                                   Size Checksum
+965 - 最终的噩梦                        16777216 CRC(dd52bae7)
 
 ROMs required for driver "月影剑圣2".
 Name                                   Size Checksum
@@ -2771,6 +3243,14 @@ ROMs required for driver "月影剑圣".
 Name                                   Size Checksum
 794 - 月影剑圣                         18350080 CRC(66c59dc3)
 
+ROMs required for driver "木叶战记".
+Name                                   Size Checksum
+906 - 木叶战记                         22802384 CRC(1c9af3d5)
+
+ROMs required for driver "杰哥新复仇 元旦福利版".
+Name                                   Size Checksum
+979 - 杰哥新复仇 元旦福利版                  17613360 CRC(dafdb65b)
+
 ROMs required for driver "杰哥的复仇".
 Name                                   Size Checksum
 795 - 杰哥的复仇                        17601384 CRC(48c6a376)
@@ -2779,6 +3259,26 @@ ROMs required for driver "東方炎紋章".
 Name                                   Size Checksum
 724 - 東方炎紋章                        16777216 CRC(188eaaf6)
 
+ROMs required for driver "某不知名改版".
+Name                                   Size Checksum
+859 - 某不知名改版                       30530508 CRC(10aa75ac)
+
+ROMs required for driver "次元の幻想".
+Name                                   Size Checksum
+913 - 次元の幻想                        16877216 CRC(0b9ae87a)
+
+ROMs required for driver "死灵复生2".
+Name                                   Size Checksum
+840 - 死灵复生2                        21288008 CRC(72c9caf7)
+
+ROMs required for driver "死灵复生".
+Name                                   Size Checksum
+986 - 死灵复生                         16778240 CRC(a5c39099)
+
+ROMs required for driver "流浪公主".
+Name                                   Size Checksum
+858 - 流浪公主                         29583392 CRC(c5707104)
+
 ROMs required for driver "火焰纹章 挑战0.1地狱模式".
 Name                                   Size Checksum
 787 - 火焰纹章 挑战0                     17911088 CRC(b86e23c5)
@@ -2786,6 +3286,10 @@ Name                                   Size Checksum
 ROMs required for driver "火焰纹章 挑战0.2".
 Name                                   Size Checksum
 788 - 火焰纹章 挑战0                     17919848 CRC(2230351d)
+
+ROMs required for driver "火纹三国".
+Name                                   Size Checksum
+847 - 火纹三国                         27345504 CRC(d5c254e8)
 
 ROMs required for driver "烈火の剣 if (test)".
 Name                                   Size Checksum
@@ -2831,13 +3335,97 @@ ROMs required for driver "烈火之剑最终改版".
 Name                                   Size Checksum
 755 - 烈火之剑最终改版                     18874368 CRC(1eb0812a)
 
+ROMs required for driver "烈火之剑火龙之怒".
+Name                                   Size Checksum
+937 - 烈火之剑火龙之怒                     16777216 CRC(bec9321a)
+
 ROMs required for driver "烈火极限对战".
 Name                                   Size Checksum
 739 - 烈火极限对战                       16777216 CRC(a05c4651)
 
+ROMs required for driver "烈火系谱乱入高必杀版".
+Name                                   Size Checksum
+941 - 烈火系谱乱入高必杀版                   17825792 CRC(4b0e82a0)
+
+ROMs required for driver "王之誓约".
+Name                                   Size Checksum
+856 - 王之誓约                         33164648 CRC(e5ba4301)
+
+ROMs required for driver "王子".
+Name                                   Size Checksum
+947 - 王子                           16922452 CRC(634fe88a)
+
+ROMs required for driver "玩不下去的圣魔".
+Name                                   Size Checksum
+954 - 玩不下去的圣魔                      16777216 CRC(a4de5b6c)
+
+ROMs required for driver "疾风的勇王".
+Name                                   Size Checksum
+907 - 疾风的勇王                        16777216 CRC(e30f64fd)
+
+ROMs required for driver "直到遇见你".
+Name                                   Size Checksum
+876 - 直到遇见你                        31957948 CRC(d93aa3a6)
+
+ROMs required for driver "真♂圣魔之光石".
+Name                                   Size Checksum
+952 - 真♂圣魔之光石                      16777216 CRC(23bf26ed)
+
+ROMs required for driver "祈悠之月".
+Name                                   Size Checksum
+878 - 祈悠之月                         33554432 CRC(3625756a)
+
+ROMs required for driver "神光之公主".
+Name                                   Size Checksum
+822 - 神光之公主                        22451192 CRC(0771cf0c)
+
+ROMs required for driver "神光女线".
+Name                                   Size Checksum
+915 - 神光女线                         21354600 CRC(bff6ec2f)
+
+ROMs required for driver "神兵无双".
+Name                                   Size Checksum
+826 - 神兵无双                         21464504 CRC(1ebafc19)
+
+ROMs required for driver "神魂之绯石".
+Name                                   Size Checksum
+904 - 神魂之绯石                        16777216 CRC(8c2a8d70)
+
+ROMs required for driver "秩序之剑".
+Name                                   Size Checksum
+898 - 秩序之剑                         22683944 CRC(1dc6ffb7)
+
+ROMs required for driver "童子军".
+Name                                   Size Checksum
+835 - 童子军                          18672992 CRC(5831a5cc)
+
 ROMs required for driver "第二梦".
 Name                                   Size Checksum
 784 - 第二梦                          33554431 CRC(1ada9fe3)
+
+ROMs required for driver "粗鄙的我".
+Name                                   Size Checksum
+834 - 粗鄙的我                         30229972 CRC(3f5c8fc7)
+
+ROMs required for driver "红月Z".
+Name                                   Size Checksum
+901 - 红月Z                          33554432 CRC(b5729868)
+
+ROMs required for driver "红月第一部".
+Name                                   Size Checksum
+902 - 红月第一部                        33554432 CRC(92a16c4b)
+
+ROMs required for driver "结局".
+Name                                   Size Checksum
+892 - 结局                           26605304 CRC(ab9ed24b)
+
+ROMs required for driver "绝望游戏".
+Name                                   Size Checksum
+893 - 绝望游戏                         26201932 CRC(1152edce)
+
+ROMs required for driver "绯红之章".
+Name                                   Size Checksum
+830 - 绯红之章                         33111688 CRC(b5fab1af)
 
 ROMs required for driver "罪封印之剑".
 Name                                   Size Checksum
@@ -2855,17 +3443,137 @@ ROMs required for driver "聖魔ベリーハード".
 Name                                   Size Checksum
 721 - 聖魔ベリーハード                     33554472 CRC(5da9b5ea)
 
+ROMs required for driver "能勉强玩的下去的圣魔".
+Name                                   Size Checksum
+981 - 能勉强玩的下去的圣魔                   16777216 CRC(d90e4bc3)
+
+ROMs required for driver "舞撩烈火之断牙之痛".
+Name                                   Size Checksum
+924 - 舞撩烈火之断牙之痛                    19437920 CRC(44416773)
+
+ROMs required for driver "花开于漠".
+Name                                   Size Checksum
+841 - 花开于漠                         20968000 CRC(8f7e5642)
+
+ROMs required for driver "苍月传重置版".
+Name                                   Size Checksum
+920 - 苍月传重置版                       24235944 CRC(f33463e7)
+
+ROMs required for driver "苍炎乱入版".
+Name                                   Size Checksum
+869 - 苍炎乱入版                        19922944 CRC(dc7bbd0c)
+
+ROMs required for driver "苍炎的勇者".
+Name                                   Size Checksum
+848 - 苍炎的勇者                        32668748 CRC(00ee59e6)
+
+ROMs required for driver "英雄世界".
+Name                                   Size Checksum
+857 - 英雄世界                         33433540 CRC(e889fa3a)
+
+ROMs required for driver "英雄的挑战".
+Name                                   Size Checksum
+887 - 英雄的挑战                        26018900 CRC(8241e45e)
+
+ROMs required for driver "英雄的黎明ED-Ver8黎明盡頭（A）".
+Name                                   Size Checksum
+807 - 英雄的黎明ED-Ver8黎明盡頭（A）          33493848 CRC(f69edfe4)
+
+ROMs required for driver "英雄的黎明ED-Ver8黎明盡頭（J）".
+Name                                   Size Checksum
+808 - 英雄的黎明ED-Ver8黎明盡頭（J）          32777920 CRC(8db1cda1)
+
+ROMs required for driver "英雄的黎明ED-简易修复版（A+J）".
+Name                                   Size Checksum
+809 - 英雄的黎明ED-简易修复版（A+J）           33411816 CRC(f752202f)
+
+ROMs required for driver "虚空之魂".
+Name                                   Size Checksum
+805 - 虚空之魂                         31816536 CRC(a10d3741)
+
+ROMs required for driver "血族再生".
+Name                                   Size Checksum
+873 - 血族再生                         16972040 CRC(34e72f95)
+
+ROMs required for driver "血族家族".
+Name                                   Size Checksum
+961 - 血族家族                         16972040 CRC(629ba120)
+
+ROMs required for driver "衫雨初空".
+Name                                   Size Checksum
+839 - 衫雨初空                         17202772 CRC(c3af7709)
+
+ROMs required for driver "西克斯の最终版".
+Name                                   Size Checksum
+956 - 西克斯の最终版                      16777216 CRC(ce656409)
+
+ROMs required for driver "西克斯の最终版（重甲三角）".
+Name                                   Size Checksum
+948 - 西克斯の最终版（重甲三角）                16777216 CRC(f1b6214f)
+
+ROMs required for driver "西克斯烈火".
+Name                                   Size Checksum
+801 - 西克斯烈火                        20347892 CRC(1b1668fa)
+
+ROMs required for driver "誓约传说".
+Name                                   Size Checksum
+899 - 誓约传说                         23814716 CRC(68be4ab9)
+
+ROMs required for driver "逆反圣魔".
+Name                                   Size Checksum
+821 - 逆反圣魔                         28266452 CRC(f9c6a3fe)
+
+ROMs required for driver "逆反圣魔番外传".
+Name                                   Size Checksum
+844 - 逆反圣魔番外传                      28607756 CRC(26e8522d)
+
+ROMs required for driver "逆圣魔之光石".
+Name                                   Size Checksum
+918 - 逆圣魔之光石                       19131208 CRC(acbc1952)
+
+ROMs required for driver "逆封印之剑".
+Name                                   Size Checksum
+882 - 逆封印之剑                         8400800 CRC(4322f8d3)
+
 ROMs required for driver "逆烈火之剑".
 Name                                   Size Checksum
 738 - 逆烈火之剑                        16777216 CRC(1dad8b96)
+
+ROMs required for driver "逆转月痕".
+Name                                   Size Checksum
+916 - 逆转月痕                         18512580 CRC(18848ff4)
 
 ROMs required for driver "逆转版圣魔之光石".
 Name                                   Size Checksum
 741 - 逆转版圣魔之光石                     16777216 CRC(ffe11353)
 
-ROMs required for driver "逆风的小强".
+ROMs required for driver "逆风之小强".
 Name                                   Size Checksum
-792 - 逆风的小强                        18780940 CRC(49549fa3)
+792 - 逆风之小强                        18780940 CRC(74acbe7e)
+
+ROMs required for driver "选召者们".
+Name                                   Size Checksum
+842 - 选召者们                         20789272 CRC(23974ff1)
+
+ROMs required for driver "选召者们IF".
+Name                                   Size Checksum
+910 - 选召者们IF                       21967880 CRC(c8cbdb1e)
+
+ROMs required for driver "选召者们完结更新1.1".
+Name                                   Size Checksum
+911 - 选召者们完结更新1                    21856700 CRC(e0020fab)
+
+ROMs required for driver "重置竹光".
+Name                                   Size Checksum
+813 - 重置竹光                         32227848 CRC(9d1ccda8)
+
+ROMs required for driver "锋哥的复仇".
+Name                                   Size Checksum
+935 - 锋哥的复仇                         8388608 CRC(6dda6eab)
+
+ROMs required for driver "错乱的时间".
+Name                                   Size Checksum
+973 - 错乱的时间                        20971520 CRC(223668f4)
 
 ROMs required for driver "风恋夕林版新圣魔之光石".
 Name                                   Size Checksum
@@ -2895,9 +3603,29 @@ ROMs required for driver "风恋夕林版逆封印之剑".
 Name                                   Size Checksum
 750 - 风恋夕林版逆封印之剑                    8400656 CRC(efcb0299)
 
+ROMs required for driver "鬼鬼专属".
+Name                                   Size Checksum
+926 - 鬼鬼专属                         24759364 CRC(307fb47e)
+
+ROMs required for driver "魔之暗".
+Name                                   Size Checksum
+883 - 魔之暗                          19044148 CRC(48e54442)
+
 ROMs required for driver "魔幻封神".
 Name                                   Size Checksum
 737 - 魔幻封神                         18388264 CRC(ee865884)
+
+ROMs required for driver "魔物变态版".
+Name                                   Size Checksum
+980 - 魔物变态版                        16777216 CRC(2865e7d9)
+
+ROMs required for driver "魔物狩猎者".
+Name                                   Size Checksum
+971 - 魔物狩猎者                        16777216 CRC(e26f95c8)
+
+ROMs required for driver "麻烦制造者".
+Name                                   Size Checksum
+894 - 麻烦制造者                        17914508 CRC(27a0fd3e)
 
 ROMs required for driver "黄昏の魔剣１部".
 Name                                   Size Checksum
@@ -2911,6 +3639,22 @@ ROMs required for driver "黄昏の魔剣２部主人公覚醒編".
 Name                                   Size Checksum
 446 - 黄昏の魔剣２部主人公覚醒編                22734804 CRC(31330711)
 
+ROMs required for driver "黑暗复苏".
+Name                                   Size Checksum
+959 - 黑暗复苏                         16777216 CRC(0ea7fb9d)
+
+ROMs required for driver "黑暗无双".
+Name                                   Size Checksum
+803 - 黑暗无双                         17008656 CRC(7e7ef874)
+
 ROMs required for driver "黑暗的指引".
 Name                                   Size Checksum
 785 - 黑暗的指引                        17825792 CRC(ac009a17)
+
+ROMs required for driver "黑暗轮回者-006最终版".
+Name                                   Size Checksum
+855 - 黑暗轮回者-006最终版                 32267124 CRC(4188cf4b)
+
+ROMs required for driver "黑暗轮回者-007优化简单版".
+Name                                   Size Checksum
+854 - 黑暗轮回者-007优化简单版               32270164 CRC(48d59dbf)

@@ -3,11 +3,17 @@
 	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
+	<machine name="0的逆圣魔">
+		<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
+	</machine>
 	<machine name="2 Princesses (English Translation)">
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
 	<machine name="2 Princesses (二人の王女)">
 		<rom name="183 - 2 Princesses (二人の王女)" size="24646064" crc="44f08e5b" />
+	</machine>
+	<machine name="21关开始-封印之剑">
+		<rom name="930 - 21关开始-封印之剑" size="8388608" crc="75da6fb9" />
 	</machine>
 	<machine name="A Glimpse of Time (時の垣間 エリウッド編)">
 		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
@@ -192,6 +198,9 @@
 	<machine name="Chronicles of Lussaria">
 		<rom name="250 - Chronicles of Lussaria" size="17605868" crc="bee51b0b" />
 	</machine>
+	<machine name="Clash of Fates">
+		<rom name="939 - Clash of Fates" size="16832828" crc="1637f575" />
+	</machine>
 	<machine name="Clendo's 1h Blitz - Faltharian Heist">
 		<rom name="645 - Clendo's 1h Blitz - Faltharian Heist" size="16889240" crc="5ec26df2" />
 	</machine>
@@ -296,6 +305,9 @@
 	</machine>
 	<machine name="Devourer of Time (Normal mode)">
 		<rom name="338 - Devourer of Time (Normal mode)" size="16818224" crc="200f63aa" />
+	</machine>
+	<machine name="Devourer of Worlds">
+		<rom name="903 - Devourer of Worlds" size="16891404" crc="b72f5a94" />
 	</machine>
 	<machine name="Different Dimensions Ostian Princess">
 		<rom name="333 - Different Dimensions Ostian Princess" size="16777216" crc="79f1b543" />
@@ -772,8 +784,14 @@
 	<machine name="FE8U 0% growths">
 		<rom name="759 - FE8U 0% growths" size="16777216" crc="a157be6b" />
 	</machine>
+	<machine name="FE8女版">
+		<rom name="977 - FE8女版" size="16898520" crc="7f66973d" />
+	</machine>
 	<machine name="FE8改造">
 		<rom name="706 - FE8改造" size="16777216" crc="616dfbb4" />
+	</machine>
+	<machine name="FE16RE">
+		<rom name="812 - FE16RE" size="16777216" crc="d1d36019" />
 	</machine>
 	<machine name="Fe 8 Chess">
 		<rom name="241 - Fe 8 Chess" size="16806152" crc="d5ddb5e8" />
@@ -904,6 +922,9 @@
 	<machine name="Fire Emblem - Justice and Pride">
 		<rom name="188 - Fire Emblem - Justice and Pride" size="26189708" crc="c166ce14" />
 	</machine>
+	<machine name="Fire Emblem - Justice and Pride (Chinese Translation)">
+		<rom name="827 - Fire Emblem - Justice and Pride (Chinese Translation)" size="27407516" crc="3c5e7160" />
+	</machine>
 	<machine name="Fire Emblem - Order of the Crimson Arm">
 		<rom name="407 - Fire Emblem - Order of the Crimson Arm" size="25073560" crc="7f5a1b3a" />
 	</machine>
@@ -933,9 +954,6 @@
 	</machine>
 	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
 		<rom name="23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]" size="16777216" crc="7aef4edc" />
-	</machine>
-	<machine name="Fire Emblem - Saving Christmas">
-		<rom name="568 - Fire Emblem - Saving Christmas" size="18449388" crc="5afd94b1" />
 	</machine>
 	<machine name="Fire Emblem - Seima no Kouseki (Japan)">
 		<rom name="6 - Fire Emblem - Seima no Kouseki (Japan)" size="16777216" crc="9d76826f" />
@@ -1128,6 +1146,12 @@
 	</machine>
 	<machine name="Human Armory">
 		<rom name="527 - Human Armory" size="16784272" crc="90b0a9a5" />
+	</machine>
+	<machine name="IF禁忌">
+		<rom name="810 - IF禁忌" size="19896368" crc="32934a7b" />
+	</machine>
+	<machine name="IF禁忌 - 十六夜">
+		<rom name="820 - IF禁忌 - 十六夜" size="27691692" crc="b95e4efb" />
 	</machine>
 	<machine name="Inheritance">
 		<rom name="210 - Inheritance" size="27877852" crc="db7233f0" />
@@ -1576,6 +1600,12 @@
 	<machine name="SageMatthis's MAFC FEU It Again patch">
 		<rom name="683 - SageMatthis's MAFC FEU It Again patch" size="19914496" crc="b5889999" />
 	</machine>
+	<machine name="Saving Christmas">
+		<rom name="568 - Saving Christmas" size="18449388" crc="5afd94b1" />
+	</machine>
+	<machine name="Saving Christmas (Chinese Translation)">
+		<rom name="872 - Saving Christmas (Chinese Translation)" size="19442516" crc="efdbe109" />
+	</machine>
 	<machine name="Scarlet Rising">
 		<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
 	</machine>
@@ -1744,6 +1774,9 @@
 	<machine name="The Burdened Crown (Blue)">
 		<rom name="149 - The Burdened Crown (Blue)" size="22485048" crc="0459d055" />
 	</machine>
+	<machine name="The Burdened Crown (Chinese Translation)">
+		<rom name="851 - The Burdened Crown (Chinese Translation)" size="24029140" crc="3089e40a" />
+	</machine>
 	<machine name="The Christmas Blitz">
 		<rom name="782 - The Christmas Blitz" size="16777216" crc="3d7b5ca4" />
 	</machine>
@@ -1770,6 +1803,9 @@
 	</machine>
 	<machine name="The Eligor’s Spear">
 		<rom name="428 - The Eligor’s Spear" size="24776684" crc="20426aa9" />
+	</machine>
+	<machine name="The Eligor’s Spear (Chinese Translation)">
+		<rom name="871 - The Eligor’s Spear (Chinese Translation)" size="25809240" crc="81d49d3e" />
 	</machine>
 	<machine name="The Empire’s Reach Revisited">
 		<rom name="389 - The Empire’s Reach Revisited" size="16788832" crc="5b0c8f83" />
@@ -1803,6 +1839,9 @@
 	</machine>
 	<machine name="The Last Promise (Chaos Mode DEMO)">
 		<rom name="105 - The Last Promise (Chaos Mode DEMO)" size="32446048" crc="365cf432" />
+	</machine>
+	<machine name="The Last Promise (Chinese Translation)">
+		<rom name="819 - The Last Promise (Chinese Translation)" size="33340904" crc="68b22f19" />
 	</machine>
 	<machine name="The Last Promise (Easy Mode)">
 		<rom name="104 - The Last Promise (Easy Mode)" size="32445120" crc="be1b4153" />
@@ -1875,6 +1914,9 @@
 	</machine>
 	<machine name="The Sun God’s Wrath (0 growth)">
 		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+	</machine>
+	<machine name="The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)">
+		<rom name="815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)" size="33531452" crc="c5c281e7" />
 	</machine>
 	<machine name="The Tavern Adventures">
 		<rom name="627 - The Tavern Adventures" size="22098544" crc="8ceec8c8" />
@@ -2014,11 +2056,92 @@
 	<machine name="ヘイデンの野望">
 		<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
 	</machine>
+	<machine name="不知名改版">
+		<rom name="860 - 不知名改版" size="25166900" crc="a347d734" />
+	</machine>
+	<machine name="东方苍神缘起无印大神版">
+		<rom name="828 - 东方苍神缘起无印大神版" size="23055512" crc="d0954d10" />
+	</machine>
+	<machine name="东方苍神缘起无印平民版">
+		<rom name="829 - 东方苍神缘起无印平民版" size="23016040" crc="46b02c58" />
+	</machine>
+	<machine name="东方苍神缘起残暑大神版">
+		<rom name="850 - 东方苍神缘起残暑大神版" size="27038084" crc="b23ea3b9" />
+	</machine>
+	<machine name="东方苍神缘起残暑平民版">
+		<rom name="849 - 东方苍神缘起残暑平民版" size="27040524" crc="5a02d5b4" />
+	</machine>
+	<machine name="主角大联盟">
+		<rom name="863 - 主角大联盟" size="30134392" crc="09fb7e5d" />
+	</machine>
+	<machine name="主角大联盟完结版">
+		<rom name="888 - 主角大联盟完结版" size="27805428" crc="5001696d" />
+	</machine>
+	<machine name="主角大联盟超高难度">
+		<rom name="889 - 主角大联盟超高难度" size="27557216" crc="0975e53d" />
+	</machine>
+	<machine name="僵尸道长">
+		<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
+	</machine>
+	<machine name="光明的救赎">
+		<rom name="874 - 光明的救赎" size="29117088" crc="8321f5d3" />
+	</machine>
 	<machine name="六写封神">
 		<rom name="753 - 六写封神" size="18576656" crc="e42b4642" />
 	</machine>
+	<machine name="再渡雄起">
+		<rom name="944 - 再渡雄起" size="17825792" crc="595e735f" />
+	</machine>
+	<machine name="冰焰灵境">
+		<rom name="824 - 冰焰灵境" size="17779304" crc="58c4f4bc" />
+	</machine>
+	<machine name="冰焰雪莉">
+		<rom name="825 - 冰焰雪莉" size="24355492" crc="3859dd97" />
+	</machine>
+	<machine name="冰风烈焰">
+		<rom name="823 - 冰风烈焰" size="27852748" crc="e60b3691" />
+	</machine>
+	<machine name="勇者天下">
+		<rom name="953 - 勇者天下" size="16777216" crc="01d7b03b" />
+	</machine>
+	<machine name="半成品">
+		<rom name="896 - 半成品" size="22072704" crc="1f1f8988" />
+	</machine>
+	<machine name="召唤师2.0中秋限定版">
+		<rom name="942 - 召唤师2" size="26095224" crc="5865db9c" />
+	</machine>
+	<machine name="召唤师">
+		<rom name="864 - 召唤师" size="25077656" crc="4f89c557" />
+	</machine>
 	<machine name="名も無き英雄">
 		<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
+	</machine>
+	<machine name="后宫战纪">
+		<rom name="818 - 后宫战纪" size="31942288" crc="74352ac4" />
+	</machine>
+	<machine name="后宫战纪全人物平衡版">
+		<rom name="862 - 后宫战纪全人物平衡版" size="32070988" crc="4b5ef030" />
+	</machine>
+	<machine name="后宫战纪新修版">
+		<rom name="817 - 后宫战纪新修版" size="31979420" crc="de942803" />
+	</machine>
+	<machine name="后宫战纪新编版">
+		<rom name="816 - 后宫战纪新编版" size="33500920" crc="f2ae9e8f" />
+	</machine>
+	<machine name="命运">
+		<rom name="861 - 命运" size="22296164" crc="3dc1ca38" />
+	</machine>
+	<machine name="四大魔王">
+		<rom name="960 - 四大魔王" size="16777216" crc="32485799" />
+	</machine>
+	<machine name="回忆都去哪了">
+		<rom name="837 - 回忆都去哪了" size="18501884" crc="f4b8b913" />
+	</machine>
+	<machine name="圣光之义友军">
+		<rom name="978 - 圣光之义友军" size="17825792" crc="aa119a5c" />
+	</machine>
+	<machine name="圣光之战">
+		<rom name="802 - 圣光之战" size="30783480" crc="a3e52600" />
 	</machine>
 	<machine name="圣光之魔石62人变态版">
 		<rom name="732 - 圣光之魔石62人变态版" size="16777216" crc="1273a90d" />
@@ -2032,17 +2155,89 @@
 	<machine name="圣光之魔石终极修改版">
 		<rom name="786 - 圣光之魔石终极修改版" size="16777216" crc="99c47af7" />
 	</machine>
+	<machine name="圣兵风云录">
+		<rom name="923 - 圣兵风云录" size="25911312" crc="0a85f774" />
+	</machine>
+	<machine name="圣王的刃与诗">
+		<rom name="891 - 圣王的刃与诗" size="17668068" crc="84703d5b" />
+	</machine>
 	<machine name="圣邪之意志配色版">
 		<rom name="797 - 圣邪之意志配色版" size="16777216" crc="172720d5" />
+	</machine>
+	<machine name="圣邪的意志1.4冰剑">
+		<rom name="964 - 圣邪的意志1" size="16777216" crc="44baaa73" />
+	</machine>
+	<machine name="圣邪的意志  最帅修改终极版">
+		<rom name="962 - 圣邪的意志  最帅修改终极版" size="16777216" crc="ec8def8b" />
+	</machine>
+	<machine name="圣邪的意志 风之刃">
+		<rom name="963 - 圣邪的意志 风之刃" size="16777216" crc="221d31c4" />
+	</machine>
+	<machine name="圣魔F版">
+		<rom name="867 - 圣魔F版" size="20352452" crc="b7b978d5" />
+	</machine>
+	<machine name="圣魔IF破晓">
+		<rom name="852 - 圣魔IF破晓" size="32667416" crc="f8185593" />
+	</machine>
+	<machine name="圣魔之光石 魔物版">
+		<rom name="985 - 圣魔之光石 魔物版" size="16778240" crc="19346fbb" />
+	</machine>
+	<machine name="圣魔之光石-苍天龙骑士版">
+		<rom name="970 - 圣魔之光石-苍天龙骑士版" size="16777216" crc="657f9606" />
 	</machine>
 	<machine name="圣魔之光石人物道具增量版">
 		<rom name="742 - 圣魔之光石人物道具增量版" size="18874368" crc="c01de0fe" />
 	</machine>
+	<machine name="圣魔之光石孩子版">
+		<rom name="972 - 圣魔之光石孩子版" size="16939360" crc="68c0ae78" />
+	</machine>
+	<machine name="圣魔之光石巴拉那之改版">
+		<rom name="929 - 圣魔之光石巴拉那之改版" size="16778240" crc="ee14f542" />
+	</machine>
+	<machine name="圣魔之光石新的国王">
+		<rom name="976 - 圣魔之光石新的国王" size="16777216" crc="babe3584" />
+	</machine>
+	<machine name="圣魔之光石无等级版">
+		<rom name="968 - 圣魔之光石无等级版" size="18388268" crc="9b8ec9d9" />
+	</machine>
+	<machine name="圣魔之光石晚夕版">
+		<rom name="969 - 圣魔之光石晚夕版" size="16777216" crc="705f679d" />
+	</machine>
 	<machine name="圣魔之光石最后修改版">
 		<rom name="743 - 圣魔之光石最后修改版" size="18874368" crc="4d19e238" />
 	</machine>
+	<machine name="圣魔之光石精修版">
+		<rom name="868 - 圣魔之光石精修版" size="16777216" crc="76532a14" />
+	</machine>
+	<machine name="圣魔之公主的逆袭">
+		<rom name="984 - 圣魔之公主的逆袭" size="20971520" crc="bf03bf90" />
+	</machine>
+	<machine name="圣魔之战">
+		<rom name="909 - 圣魔之战" size="24413620" crc="fa6a203a" />
+	</machine>
+	<machine name="圣魔之渣新成长记">
+		<rom name="967 - 圣魔之渣新成长记" size="16877216" crc="11f17402" />
+	</machine>
+	<machine name="圣魔之王者的复仇">
+		<rom name="966 - 圣魔之王者的复仇" size="20971520" crc="4284723f" />
+	</machine>
+	<machine name="圣魔之飞龙的世界">
+		<rom name="908 - 圣魔之飞龙的世界" size="20971520" crc="8a1970b6" />
+	</machine>
 	<machine name="圣魔之魔物军团最终版">
 		<rom name="796 - 圣魔之魔物军团最终版" size="16777216" crc="03987441" />
+	</machine>
+	<machine name="圣魔光石 马修已">
+		<rom name="982 - 圣魔光石 马修已" size="18807972" crc="30e212d7" />
+	</machine>
+	<machine name="圣魔光石(烈火改)自改版">
+		<rom name="938 - 圣魔光石(烈火改)自改版" size="20426668" crc="9c28e397" />
+	</machine>
+	<machine name="圣魔光石IS">
+		<rom name="912 - 圣魔光石IS" size="21501708" crc="525bab37" />
+	</machine>
+	<machine name="圣魔光石魔物职业混合版">
+		<rom name="983 - 圣魔光石魔物职业混合版" size="16778240" crc="58b4a6c8" />
 	</machine>
 	<machine name="圣魔新元素补丁">
 		<rom name="730 - 圣魔新元素补丁" size="20971520" crc="98d3754b" />
@@ -2053,11 +2248,41 @@
 	<machine name="圣魔烈火版">
 		<rom name="729 - 圣魔烈火版" size="17582114" crc="db871cd1" />
 	</machine>
+	<machine name="多拉基亚776GBA复刻版">
+		<rom name="870 - 多拉基亚776GBA复刻版" size="33327848" crc="3ee35095" />
+	</machine>
+	<machine name="天地之月">
+		<rom name="957 - 天地之月" size="16777216" crc="ba12e1a4" />
+	</machine>
+	<machine name="天王之战">
+		<rom name="838 - 天王之战" size="16777216" crc="ffbd4892" />
+	</machine>
 	<machine name="奇怪的改版">
 		<rom name="793 - 奇怪的改版" size="20971520" crc="9d32ba55" />
 	</machine>
 	<machine name="女王の剣 (Queen’s Sword)">
 		<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+	</machine>
+	<machine name="女皇的复仇">
+		<rom name="945 - 女皇的复仇" size="16777216" crc="81b20b66" />
+	</machine>
+	<machine name="女神的救赎重置版">
+		<rom name="845 - 女神的救赎重置版" size="33000160" crc="c0e36c50" />
+	</machine>
+	<machine name="女神的救赎重置版（固定加点）">
+		<rom name="846 - 女神的救赎重置版（固定加点）" size="33001600" crc="3c8e4a20" />
+	</machine>
+	<machine name="完整版">
+		<rom name="897 - 完整版" size="16777216" crc="a010b1ca" />
+	</machine>
+	<machine name="宿命交锋">
+		<rom name="940 - 宿命交锋" size="21207896" crc="fd716da0" />
+	</machine>
+	<machine name="宿命传说">
+		<rom name="843 - 宿命传说" size="24664964" crc="7454de30" />
+	</machine>
+	<machine name="寂世">
+		<rom name="890 - 寂世" size="33554428" crc="395ac70c" />
 	</machine>
 	<machine name="封印ちょっと改造">
 		<rom name="692 - 封印ちょっと改造" size="8700080" crc="5b167458" />
@@ -2068,11 +2293,140 @@
 	<machine name="封印ベリーハードっぽいもの">
 		<rom name="693 - 封印ベリーハードっぽいもの" size="16777232" crc="ca21e647" />
 	</machine>
+	<machine name="封印丧心病狂">
+		<rom name="932 - 封印丧心病狂" size="8388608" crc="8b70be90" />
+	</machine>
+	<machine name="封印之剑 @浪">
+		<rom name="933 - 封印之剑 @浪" size="8388608" crc="478cfa46" />
+	</machine>
+	<machine name="封印之剑 美丽改版">
+		<rom name="931 - 封印之剑 美丽改版" size="8388608" crc="bef89cf2" />
+	</machine>
+	<machine name="封印之剑 重生">
+		<rom name="927 - 封印之剑 重生" size="8388608" crc="d6241e80" />
+	</machine>
+	<machine name="封印之剑if">
+		<rom name="914 - 封印之剑if" size="28507884" crc="18d44fea" />
+	</machine>
+	<machine name="封印之剑re英雄王传说">
+		<rom name="875 - 封印之剑re英雄王传说" size="33554432" crc="364be0dd" />
+	</machine>
+	<machine name="封印之剑修改后">
+		<rom name="936 - 封印之剑修改后" size="8388608" crc="d5259176" />
+	</machine>
+	<machine name="封印之剑国王版">
+		<rom name="975 - 封印之剑国王版" size="10415546" crc="f7bee1fa" />
+	</machine>
+	<machine name="封印加强版">
+		<rom name="928 - 封印加强版" size="8388608" crc="5979b3ae" />
+	</machine>
+	<machine name="封印的竹光">
+		<rom name="814 - 封印的竹光" size="25830312" crc="5d65f64b" />
+	</machine>
+	<machine name="屠神之星">
+		<rom name="877 - 屠神之星" size="18274940" crc="dad5f1c9" />
+	</machine>
+	<machine name="帝·鲁尼之剑">
+		<rom name="974 - 帝·鲁尼之剑" size="16777216" crc="cd07df67" />
+	</machine>
+	<machine name="帝国除魔战争">
+		<rom name="879 - 帝国除魔战争" size="17972796" crc="73981433" />
+	</machine>
+	<machine name="幸运的七色花">
+		<rom name="884 - 幸运的七色花" size="33554432" crc="d497bd48" />
+	</machine>
+	<machine name="幻想烈火传">
+		<rom name="833 - 幻想烈火传" size="31445952" crc="4fcc4e9a" />
+	</machine>
+	<machine name="幽影华尔兹">
+		<rom name="811 - 幽影华尔兹" size="25919968" crc="c37960cd" />
+	</machine>
+	<machine name="异界旅者">
+		<rom name="881 - 异界旅者" size="25891756" crc="5b1de0b8" />
+	</machine>
+	<machine name="强大的女皇">
+		<rom name="905 - 强大的女皇" size="16777216" crc="4b4086ff" />
+	</machine>
+	<machine name="放开那个魔王">
+		<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />
+	</machine>
+	<machine name="新公主同盟">
+		<rom name="925 - 新公主同盟" size="22946116" crc="bb40f18a" />
+	</machine>
+	<machine name="新圣火微章">
+		<rom name="921 - 新圣火微章" size="27446884" crc="20c552d6" />
+	</machine>
+	<machine name="新封神传奇">
+		<rom name="943 - 新封神传奇" size="18576652" crc="738d53da" />
+	</machine>
+	<machine name="新烈火之剑简单版">
+		<rom name="922 - 新烈火之剑简单版" size="17301504" crc="30e3e535" />
+	</machine>
 	<machine name="新烈火勇者的阔斧">
 		<rom name="798 - 新烈火勇者的阔斧" size="17301504" crc="f0c2f1e1" />
 	</machine>
+	<machine name="新的改版（圣魔）">
+		<rom name="958 - 新的改版（圣魔）" size="20971520" crc="e4708bc6" />
+	</machine>
+	<machine name="新逆封印之剑（最骚改版）">
+		<rom name="895 - 新逆封印之剑（最骚改版）" size="18582592" crc="1e2c7ade" />
+	</machine>
+	<machine name="旅程">
+		<rom name="917 - 旅程" size="20442448" crc="91930108" />
+	</machine>
+	<machine name="无敌刺客版">
+		<rom name="955 - 无敌刺客版" size="16777216" crc="6222f431" />
+	</machine>
+	<machine name="时光战纪上">
+		<rom name="831 - 时光战纪上" size="33279872" crc="29738e88" />
+	</machine>
+	<machine name="时光战纪下">
+		<rom name="832 - 时光战纪下" size="27484372" crc="2106bdc7" />
+	</machine>
+	<machine name="时空与乱斗">
+		<rom name="919 - 时空与乱斗" size="21932096" crc="6b545e1b" />
+	</machine>
+	<machine name="时空的咆哮">
+		<rom name="885 - 时空的咆哮" size="28798752" crc="cef50cd5" />
+	</machine>
+	<machine name="时空的羁绊">
+		<rom name="836 - 时空的羁绊" size="17595116" crc="f91db891" />
+	</machine>
+	<machine name="时间之石">
+		<rom name="880 - 时间之石" size="27554636" crc="03a578a3" />
+	</machine>
+	<machine name="明与宵之章">
+		<rom name="865 - 明与宵之章" size="27254088" crc="e57890af" />
+	</machine>
+	<machine name="星痕改版">
+		<rom name="949 - 星痕改版" size="18868356" crc="baaba5c7" />
+	</machine>
+	<machine name="智慧的结晶">
+		<rom name="804 - 智慧的结晶" size="17822480" crc="de4128f9" />
+	</machine>
+	<machine name="暗之彼方">
+		<rom name="866 - 暗之彼方" size="33113720" crc="d348549a" />
+	</machine>
 	<machine name="暗之魔女">
 		<rom name="783 - 暗之魔女" size="18874368" crc="5f847710" />
+	</machine>
+	<machine name="暗黑の黎明">
+		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
+	</machine>
+	<machine name="最帅修改 圣魔新地图">
+		<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />
+	</machine>
+	<machine name="最帅出品 圣邪地狱篇">
+		<rom name="950 - 最帅出品 圣邪地狱篇" size="16777300" crc="6843b393" />
+	</machine>
+	<machine name="最帅改版 封印无敌篇">
+		<rom name="934 - 最帅改版 封印无敌篇" size="10415546" crc="f1787236" />
+	</machine>
+	<machine name="最帅新做 圣魔召唤篇">
+		<rom name="946 - 最帅新做 圣魔召唤篇" size="18388268" crc="7f3e78fc" />
+	</machine>
+	<machine name="最终的噩梦">
+		<rom name="965 - 最终的噩梦" size="16777216" crc="dd52bae7" />
 	</machine>
 	<machine name="月影剑圣2">
 		<rom name="736 - 月影剑圣2" size="18350080" crc="97552f78" />
@@ -2080,17 +2434,41 @@
 	<machine name="月影剑圣">
 		<rom name="794 - 月影剑圣" size="18350080" crc="66c59dc3" />
 	</machine>
+	<machine name="木叶战记">
+		<rom name="906 - 木叶战记" size="22802384" crc="1c9af3d5" />
+	</machine>
+	<machine name="杰哥新复仇 元旦福利版">
+		<rom name="979 - 杰哥新复仇 元旦福利版" size="17613360" crc="dafdb65b" />
+	</machine>
 	<machine name="杰哥的复仇">
 		<rom name="795 - 杰哥的复仇" size="17601384" crc="48c6a376" />
 	</machine>
 	<machine name="東方炎紋章">
 		<rom name="724 - 東方炎紋章" size="16777216" crc="188eaaf6" />
 	</machine>
+	<machine name="某不知名改版">
+		<rom name="859 - 某不知名改版" size="30530508" crc="10aa75ac" />
+	</machine>
+	<machine name="次元の幻想">
+		<rom name="913 - 次元の幻想" size="16877216" crc="0b9ae87a" />
+	</machine>
+	<machine name="死灵复生2">
+		<rom name="840 - 死灵复生2" size="21288008" crc="72c9caf7" />
+	</machine>
+	<machine name="死灵复生">
+		<rom name="986 - 死灵复生" size="16778240" crc="a5c39099" />
+	</machine>
+	<machine name="流浪公主">
+		<rom name="858 - 流浪公主" size="29583392" crc="c5707104" />
+	</machine>
 	<machine name="火焰纹章 挑战0.1地狱模式">
 		<rom name="787 - 火焰纹章 挑战0" size="17911088" crc="b86e23c5" />
 	</machine>
 	<machine name="火焰纹章 挑战0.2">
 		<rom name="788 - 火焰纹章 挑战0" size="17919848" crc="2230351d" />
+	</machine>
+	<machine name="火纹三国">
+		<rom name="847 - 火纹三国" size="27345504" crc="d5c254e8" />
 	</machine>
 	<machine name="烈火の剣 if (test)">
 		<rom name="700 - 烈火の剣 if (test)" size="33554432" crc="163a9cf2" />
@@ -2125,11 +2503,74 @@
 	<machine name="烈火之剑最终改版">
 		<rom name="755 - 烈火之剑最终改版" size="18874368" crc="1eb0812a" />
 	</machine>
+	<machine name="烈火之剑火龙之怒">
+		<rom name="937 - 烈火之剑火龙之怒" size="16777216" crc="bec9321a" />
+	</machine>
 	<machine name="烈火极限对战">
 		<rom name="739 - 烈火极限对战" size="16777216" crc="a05c4651" />
 	</machine>
+	<machine name="烈火系谱乱入高必杀版">
+		<rom name="941 - 烈火系谱乱入高必杀版" size="17825792" crc="4b0e82a0" />
+	</machine>
+	<machine name="王之誓约">
+		<rom name="856 - 王之誓约" size="33164648" crc="e5ba4301" />
+	</machine>
+	<machine name="王子">
+		<rom name="947 - 王子" size="16922452" crc="634fe88a" />
+	</machine>
+	<machine name="玩不下去的圣魔">
+		<rom name="954 - 玩不下去的圣魔" size="16777216" crc="a4de5b6c" />
+	</machine>
+	<machine name="疾风的勇王">
+		<rom name="907 - 疾风的勇王" size="16777216" crc="e30f64fd" />
+	</machine>
+	<machine name="直到遇见你">
+		<rom name="876 - 直到遇见你" size="31957948" crc="d93aa3a6" />
+	</machine>
+	<machine name="真♂圣魔之光石">
+		<rom name="952 - 真♂圣魔之光石" size="16777216" crc="23bf26ed" />
+	</machine>
+	<machine name="祈悠之月">
+		<rom name="878 - 祈悠之月" size="33554432" crc="3625756a" />
+	</machine>
+	<machine name="神光之公主">
+		<rom name="822 - 神光之公主" size="22451192" crc="0771cf0c" />
+	</machine>
+	<machine name="神光女线">
+		<rom name="915 - 神光女线" size="21354600" crc="bff6ec2f" />
+	</machine>
+	<machine name="神兵无双">
+		<rom name="826 - 神兵无双" size="21464504" crc="1ebafc19" />
+	</machine>
+	<machine name="神魂之绯石">
+		<rom name="904 - 神魂之绯石" size="16777216" crc="8c2a8d70" />
+	</machine>
+	<machine name="秩序之剑">
+		<rom name="898 - 秩序之剑" size="22683944" crc="1dc6ffb7" />
+	</machine>
+	<machine name="童子军">
+		<rom name="835 - 童子军" size="18672992" crc="5831a5cc" />
+	</machine>
 	<machine name="第二梦">
 		<rom name="784 - 第二梦" size="33554431" crc="1ada9fe3" />
+	</machine>
+	<machine name="粗鄙的我">
+		<rom name="834 - 粗鄙的我" size="30229972" crc="3f5c8fc7" />
+	</machine>
+	<machine name="红月Z">
+		<rom name="901 - 红月Z" size="33554432" crc="b5729868" />
+	</machine>
+	<machine name="红月第一部">
+		<rom name="902 - 红月第一部" size="33554432" crc="92a16c4b" />
+	</machine>
+	<machine name="结局">
+		<rom name="892 - 结局" size="26605304" crc="ab9ed24b" />
+	</machine>
+	<machine name="绝望游戏">
+		<rom name="893 - 绝望游戏" size="26201932" crc="1152edce" />
+	</machine>
+	<machine name="绯红之章">
+		<rom name="830 - 绯红之章" size="33111688" crc="b5fab1af" />
 	</machine>
 	<machine name="罪封印之剑">
 		<rom name="799 - 罪封印之剑" size="10415546" crc="b3472c99" />
@@ -2143,14 +2584,104 @@
 	<machine name="聖魔ベリーハード">
 		<rom name="721 - 聖魔ベリーハード" size="33554472" crc="5da9b5ea" />
 	</machine>
+	<machine name="能勉强玩的下去的圣魔">
+		<rom name="981 - 能勉强玩的下去的圣魔" size="16777216" crc="d90e4bc3" />
+	</machine>
+	<machine name="舞撩烈火之断牙之痛">
+		<rom name="924 - 舞撩烈火之断牙之痛" size="19437920" crc="44416773" />
+	</machine>
+	<machine name="花开于漠">
+		<rom name="841 - 花开于漠" size="20968000" crc="8f7e5642" />
+	</machine>
+	<machine name="苍月传重置版">
+		<rom name="920 - 苍月传重置版" size="24235944" crc="f33463e7" />
+	</machine>
+	<machine name="苍炎乱入版">
+		<rom name="869 - 苍炎乱入版" size="19922944" crc="dc7bbd0c" />
+	</machine>
+	<machine name="苍炎的勇者">
+		<rom name="848 - 苍炎的勇者" size="32668748" crc="00ee59e6" />
+	</machine>
+	<machine name="英雄世界">
+		<rom name="857 - 英雄世界" size="33433540" crc="e889fa3a" />
+	</machine>
+	<machine name="英雄的挑战">
+		<rom name="887 - 英雄的挑战" size="26018900" crc="8241e45e" />
+	</machine>
+	<machine name="英雄的黎明ED-Ver8黎明盡頭（A）">
+		<rom name="807 - 英雄的黎明ED-Ver8黎明盡頭（A）" size="33493848" crc="f69edfe4" />
+	</machine>
+	<machine name="英雄的黎明ED-Ver8黎明盡頭（J）">
+		<rom name="808 - 英雄的黎明ED-Ver8黎明盡頭（J）" size="32777920" crc="8db1cda1" />
+	</machine>
+	<machine name="英雄的黎明ED-简易修复版（A+J）">
+		<rom name="809 - 英雄的黎明ED-简易修复版（A+J）" size="33411816" crc="f752202f" />
+	</machine>
+	<machine name="虚空之魂">
+		<rom name="805 - 虚空之魂" size="31816536" crc="a10d3741" />
+	</machine>
+	<machine name="血族再生">
+		<rom name="873 - 血族再生" size="16972040" crc="34e72f95" />
+	</machine>
+	<machine name="血族家族">
+		<rom name="961 - 血族家族" size="16972040" crc="629ba120" />
+	</machine>
+	<machine name="衫雨初空">
+		<rom name="839 - 衫雨初空" size="17202772" crc="c3af7709" />
+	</machine>
+	<machine name="西克斯の最终版">
+		<rom name="956 - 西克斯の最终版" size="16777216" crc="ce656409" />
+	</machine>
+	<machine name="西克斯の最终版（重甲三角）">
+		<rom name="948 - 西克斯の最终版（重甲三角）" size="16777216" crc="f1b6214f" />
+	</machine>
+	<machine name="西克斯烈火">
+		<rom name="801 - 西克斯烈火" size="20347892" crc="1b1668fa" />
+	</machine>
+	<machine name="誓约传说">
+		<rom name="899 - 誓约传说" size="23814716" crc="68be4ab9" />
+	</machine>
+	<machine name="逆反圣魔">
+		<rom name="821 - 逆反圣魔" size="28266452" crc="f9c6a3fe" />
+	</machine>
+	<machine name="逆反圣魔番外传">
+		<rom name="844 - 逆反圣魔番外传" size="28607756" crc="26e8522d" />
+	</machine>
+	<machine name="逆圣魔之光石">
+		<rom name="918 - 逆圣魔之光石" size="19131208" crc="acbc1952" />
+	</machine>
+	<machine name="逆封印之剑">
+		<rom name="882 - 逆封印之剑" size="8400800" crc="4322f8d3" />
+	</machine>
 	<machine name="逆烈火之剑">
 		<rom name="738 - 逆烈火之剑" size="16777216" crc="1dad8b96" />
+	</machine>
+	<machine name="逆转月痕">
+		<rom name="916 - 逆转月痕" size="18512580" crc="18848ff4" />
 	</machine>
 	<machine name="逆转版圣魔之光石">
 		<rom name="741 - 逆转版圣魔之光石" size="16777216" crc="ffe11353" />
 	</machine>
-	<machine name="逆风的小强">
-		<rom name="792 - 逆风的小强" size="18780940" crc="49549fa3" />
+	<machine name="逆风之小强">
+		<rom name="792 - 逆风之小强" size="18780940" crc="74acbe7e" />
+	</machine>
+	<machine name="选召者们">
+		<rom name="842 - 选召者们" size="20789272" crc="23974ff1" />
+	</machine>
+	<machine name="选召者们IF">
+		<rom name="910 - 选召者们IF" size="21967880" crc="c8cbdb1e" />
+	</machine>
+	<machine name="选召者们完结更新1.1">
+		<rom name="911 - 选召者们完结更新1" size="21856700" crc="e0020fab" />
+	</machine>
+	<machine name="重置竹光">
+		<rom name="813 - 重置竹光" size="32227848" crc="9d1ccda8" />
+	</machine>
+	<machine name="锋哥的复仇">
+		<rom name="935 - 锋哥的复仇" size="8388608" crc="6dda6eab" />
+	</machine>
+	<machine name="错乱的时间">
+		<rom name="973 - 错乱的时间" size="20971520" crc="223668f4" />
 	</machine>
 	<machine name="风恋夕林版新圣魔之光石">
 		<rom name="747 - 风恋夕林版新圣魔之光石" size="23074892" crc="8143d28f" />
@@ -2173,8 +2704,23 @@
 	<machine name="风恋夕林版逆封印之剑">
 		<rom name="750 - 风恋夕林版逆封印之剑" size="8400656" crc="efcb0299" />
 	</machine>
+	<machine name="鬼鬼专属">
+		<rom name="926 - 鬼鬼专属" size="24759364" crc="307fb47e" />
+	</machine>
+	<machine name="魔之暗">
+		<rom name="883 - 魔之暗" size="19044148" crc="48e54442" />
+	</machine>
 	<machine name="魔幻封神">
 		<rom name="737 - 魔幻封神" size="18388264" crc="ee865884" />
+	</machine>
+	<machine name="魔物变态版">
+		<rom name="980 - 魔物变态版" size="16777216" crc="2865e7d9" />
+	</machine>
+	<machine name="魔物狩猎者">
+		<rom name="971 - 魔物狩猎者" size="16777216" crc="e26f95c8" />
+	</machine>
+	<machine name="麻烦制造者">
+		<rom name="894 - 麻烦制造者" size="17914508" crc="27a0fd3e" />
 	</machine>
 	<machine name="黄昏の魔剣１部">
 		<rom name="444 - 黄昏の魔剣１部" size="22610180" crc="02a1d458" />
@@ -2185,7 +2731,19 @@
 	<machine name="黄昏の魔剣２部主人公覚醒編">
 		<rom name="446 - 黄昏の魔剣２部主人公覚醒編" size="22734804" crc="31330711" />
 	</machine>
+	<machine name="黑暗复苏">
+		<rom name="959 - 黑暗复苏" size="16777216" crc="0ea7fb9d" />
+	</machine>
+	<machine name="黑暗无双">
+		<rom name="803 - 黑暗无双" size="17008656" crc="7e7ef874" />
+	</machine>
 	<machine name="黑暗的指引">
 		<rom name="785 - 黑暗的指引" size="17825792" crc="ac009a17" />
+	</machine>
+	<machine name="黑暗轮回者-006最终版">
+		<rom name="855 - 黑暗轮回者-006最终版" size="32267124" crc="4188cf4b" />
+	</machine>
+	<machine name="黑暗轮回者-007优化简单版">
+		<rom name="854 - 黑暗轮回者-007优化简单版" size="32270164" crc="48d59dbf" />
 	</machine>
 </mame>

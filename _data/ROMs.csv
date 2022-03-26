@@ -496,7 +496,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 565,Many Emblem,Fan Modding,USA,Kris.k,English,739D2B9E,https://fecentral.org/?page=hackinfo&hackid=138
 566,Temple of Ardesia,Fan Modding,USA,FrecciaVerde,English,A67B7EA1,https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246
 567,Resonance 2,Fan Modding,USA,serif,English,D423BE3F,https://feuniverse.us/t/resonance-2-near-complete-11-chapters-very-epic/11747
-568,Fire Emblem - Saving Christmas,Fan Modding,USA,knabepicer,English,5AFD94B1,https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503
+568,Saving Christmas,Fan Modding,USA,knabepicer,English,5AFD94B1,https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503
 569,Fire Emblem - The Last Voyage,Fan Modding,USA,Mystletainn,English,E50A258B,
 570,Liberllion (Rebellion),Fan Modding,Japan,unknown,Japanese,1AE24E75,
 571,Legacy of Sorrow (Easy Mode),Fan Modding,USA,bpat,English,6765A094,https://feuniverse.us/t/fe8-legacy-of-sorrow-6-chapters-complete/9731
@@ -720,7 +720,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 789,烈火之剑(H),Reskin/Rebalance,Japan,unknown,Chinese,2C881921,
 790,烈火之剑1.1,Reskin/Rebalance,Japan,unknown,Chinese,677383D9,
 791,烈火之剑-四牙版,Reskin/Rebalance,Japan,unknown,Chinese,F96EF074,
-792,逆风的小强,Reskin/Rebalance,Japan,unknown,Chinese,49549FA3,
+792,逆风之小强,Reskin/Rebalance,Japan,unknown,Chinese,74ACBE7E,最终版
 793,奇怪的改版,Reskin/Rebalance,Japan,unknown,Chinese,9D32BA55,
 794,月影剑圣,Reskin/Rebalance,Japan,江枫月影,Chinese,66C59DC3,
 795,杰哥的复仇,Reskin/Rebalance,Japan,杰哥,Chinese,48C6A376,
@@ -729,3 +729,189 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 798,新烈火勇者的阔斧,Reskin/Rebalance,Japan,江枫月影,Chinese,F0C2F1E1,
 799,罪封印之剑,Reskin/Rebalance,Japan,FEshrine,Chinese,B3472C99,
 800,罪烈火之剑,Reskin/Rebalance,USA,unknown,English,1170764D,
+801,西克斯烈火,Reskin/Rebalance,Japan,西克斯,Chinese,1B1668FA,
+802,圣光之战,Reskin/Rebalance,Japan,真银之骑士SS,Chinese,A3E52600,4.6
+803,黑暗无双,Reskin/Rebalance,Japan,yygyqkhh,Chinese,7E7EF874,
+804,智慧的结晶,Reskin/Rebalance,Japan,yygyqkhh,Chinese,DE4128F9,
+805,虚空之魂,Fan Modding,Japan,阿库娅,Chinese,A10D3741,
+806,暗黑の黎明,Fan Modding,Japan,unknown,Chinese,A387B295,
+807,英雄的黎明ED-Ver8黎明盡頭（A）,Fan Modding,Japan,竜則,Chinese,F69EDFE4,
+808,英雄的黎明ED-Ver8黎明盡頭（J）,Fan Modding,Japan,竜則,Chinese,8DB1CDA1,
+809,英雄的黎明ED-简易修复版（A+J）,Fan Modding,Japan,竜則,Chinese,F752202F,
+810,IF禁忌,Fan Modding,Japan,LinEir,Chinese,32934A7B,v0.08体验版
+811,幽影华尔兹,Reskin/Rebalance,Japan,unknown,Chinese,C37960CD,
+812,FE16RE,Fan Modding,Japan,悠木晓缺,Chinese,D1D36019,DEMO
+813,重置竹光,Fan Modding,Japan,神韵,Chinese,9D1CCDA8,20211120第三章开始1618
+814,封印的竹光,Fan Modding,Japan,神韵,Chinese,5D65F64B,完结技能版修复001
+815,The Sun God’s Wrath (Chinese Translation) (Item & Skill Only),Fan Modding,USA,冬瓜,Chinese,C5C281E7,太阳神v1.64道具技能汉化
+816,后宫战纪新编版,Fan Modding,Japan,艾丝特,Chinese,F2AE9E8F,002
+817,后宫战纪新修版,Fan Modding,Japan,艾丝特,Chinese,DE942803,009
+818,后宫战纪,Fan Modding,Japan,艾丝特,Chinese,74352AC4,完结追加007
+819,The Last Promise (Chinese Translation),Fan Modding,USA,冬瓜,Chinese,68B22F19,
+820,IF禁忌 - 十六夜,Fan Modding,Japan,LinEir,Chinese,B95E4EFB,
+821,逆反圣魔,Fan Modding,Japan,君二大爷,Chinese,F9C6A3FE,
+822,神光之公主,Fan Modding,Japan,君二大爷,Chinese,0771CF0C,
+823,冰风烈焰,Fan Modding,Japan,回忆,Chinese,E60B3691,1.04
+824,冰焰灵境,Fan Modding,Japan,回忆,Chinese,58C4F4BC,0.001
+825,冰焰雪莉,Fan Modding,Japan,回忆,Chinese,3859DD97,二章
+826,神兵无双,Reskin/Rebalance,Japan,时雨,Chinese,1EBAFC19,
+827,Fire Emblem - Justice and Pride (Chinese Translation),Fan Modding,USA,阿库娅,Chinese,3C5E7160,正义与荣耀汉化版v1.0
+828,东方苍神缘起无印大神版,Fan Modding,Japan,奇峰先生,Chinese,D0954D10,003
+829,东方苍神缘起无印平民版,Fan Modding,Japan,奇峰先生,Chinese,46B02C58,002
+830,绯红之章,Fan Modding,Japan,艾丝特,Chinese,B5FAB1AF,完结修复005
+831,时光战纪上,Fan Modding,Japan,尘霜,Chinese,29738E88,完结修复
+832,时光战纪下,Fan Modding,Japan,尘霜,Chinese,2106BDC7,完结修复
+833,幻想烈火传,Fan Modding,Japan,蕾贝卡的主人,Chinese,4FCC4E9A,1.7修复版
+834,粗鄙的我,Fan Modding,Japan,蕾贝卡的主人,Chinese,3F5C8FC7,特制版
+835,童子军,Fan Modding,Japan,血族领主,Chinese,5831A5CC,V2.2
+836,时空的羁绊,Fan Modding,Japan,剑舞,Chinese,F91DB891,0.25
+837,回忆都去哪了,Fan Modding,Japan,unknown,Chinese,F4B8B913,
+838,天王之战,Fan Modding,Japan,unknown,Chinese,FFBD4892,
+839,衫雨初空,Fan Modding,Japan,unknown,Chinese,C3AF7709,
+840,死灵复生2,Reskin/Rebalance,Japan,unknown,Chinese,72C9CAF7,1.2.9
+841,花开于漠,Fan Modding,Japan,依米,Chinese,8F7E5642,
+842,选召者们,Fan Modding,Japan,半夏,Chinese,23974FF1,
+843,宿命传说,Fan Modding,Japan,半夏,Chinese,7454DE30,
+844,逆反圣魔番外传,Fan Modding,Japan,君二大爷,Chinese,26E8522D,
+845,女神的救赎重置版,Fan Modding,Japan,纱魅子,Chinese,C0E36C50,
+846,女神的救赎重置版（固定加点）,Fan Modding,Japan,纱魅子,Chinese,3C8E4A20,
+847,火纹三国,Fan Modding,Japan,unknown,Chinese,D5C254E8,9章
+848,苍炎的勇者,Fan Modding,Japan,xxx的戏剧,Chinese,00EE59E6,
+849,东方苍神缘起残暑平民版,Fan Modding,Japan,奇峰先生,Chinese,5A02D5B4,
+850,东方苍神缘起残暑大神版,Fan Modding,Japan,奇峰先生,Chinese,B23EA3B9,003
+851,The Burdened Crown (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,3089E40A,沉重的王冠汉化正式版
+852,圣魔IF破晓,Fan Modding,Japan,罗生门大眼睛,Chinese,F8185593,
+853,0的逆圣魔,Reskin/Rebalance,Japan,0,Chinese,077D94BB,
+854,黑暗轮回者-007优化简单版,Fan Modding,Japan,悲桑酱,Chinese,48D59DBF,
+855,黑暗轮回者-006最终版,Fan Modding,Japan,悲桑酱,Chinese,4188CF4B,
+856,王之誓约,Fan Modding,Japan,unknown,Chinese,E5BA4301,4.2
+857,英雄世界,Fan Modding,Japan,小林游太,Chinese,E889FA3A,3.0
+858,流浪公主,Fan Modding,Japan,伊蕾娜,Chinese,C5707104,15章阉割完结版
+859,某不知名改版,Fan Modding,Japan,诺言,Chinese,10AA75AC,
+860,不知名改版,Reskin/Rebalance,Japan,unknown,Chinese,A347D734,
+861,命运,Fan Modding,Japan,unknown,Chinese,3DC1CA38,3.4
+862,后宫战纪全人物平衡版,Fan Modding,Japan,艾丝特,Chinese,4B5EF030,
+863,主角大联盟,Fan Modding,Japan,小林游太,Chinese,09FB7E5D,
+864,召唤师,Fan Modding,Japan,阿库娅,Chinese,4F89C557,1.4
+865,明与宵之章,Reskin/Rebalance,Japan,大魔王AS,Chinese,E57890AF,beta0.2版
+866,暗之彼方,Fan Modding,Japan,一剑生死两茫茫,Chinese,D348549A,
+867,圣魔F版,Fan Modding,Japan,飞鹰隼翼,Chinese,B7B978D5,
+868,圣魔之光石精修版,Reskin/Rebalance,Japan,圣灵奥瑞尔,Chinese,76532A14,
+869,苍炎乱入版,Reskin/Rebalance,Japan,unknown,Japanese,DC7BBD0C,
+870,多拉基亚776GBA复刻版,Fan Modding,Japan,蕾贝卡的主人,Chinese,3EE35095,
+871,The Eligor’s Spear (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,81D49D3E,埃力格之枪V1.4完全汉化最终版v1.0
+872,Saving Christmas (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,EFDBE109,圣诞大作战汉化版V1.1
+873,血族再生,Fan Modding,Japan,血族领主,Chinese,34E72F95,圣诞大作战汉化版V1.1
+874,光明的救赎,Fan Modding,Japan,诺言,Chinese,8321F5D3,
+875,封印之剑re英雄王传说,Fan Modding,Japan,终极牛头人,Chinese,364BE0DD,
+876,直到遇见你,Fan Modding,Japan,伊雷娜,Chinese,D93AA3A6,完结002
+877,屠神之星,Fan Modding,Japan,剑舞,Chinese,DAD5F1C9,
+878,祈悠之月,Fan Modding,Japan,小晴天,Chinese,3625756A,正式版
+879,帝国除魔战争,Fan Modding,Japan,杰哥,Chinese,73981433,
+880,时间之石,Fan Modding,Japan,unknown,Chinese,03A578A3,1.15
+881,异界旅者,Fan Modding,Japan,艾丝特,Chinese,5B1DE0B8,鸟篇完结
+882,逆封印之剑,Fan Modding,Japan,unknown,Japanese,4322F8D3,
+883,魔之暗,Fan Modding,Japan,unknown,Chinese,48E54442,1
+884,幸运的七色花,Fan Modding,Japan,xxx的戏剧,Chinese,D497BD48,2篇章完结最终修复版
+885,时空的咆哮,Fan Modding,Japan,星痕,Chinese,CEF50CD5,
+886,僵尸道长,Fan Modding,Japan,蕾贝卡的主人,Chinese,7E731649,200406
+887,英雄的挑战,Fan Modding,Japan,尘霜,Chinese,8241E45E,完结
+888,主角大联盟完结版,Fan Modding,Japan,小林游太,Chinese,5001696D,
+889,主角大联盟超高难度,Fan Modding,Japan,小林游太,Chinese,0975E53D,
+890,寂世,Fan Modding,Japan,寂世,Chinese,395AC70C,0.03
+891,圣王的刃与诗,Fan Modding,Japan,尘霜,Chinese,84703D5B,第二章
+892,结局,Fan Modding,Japan,星痕,Chinese,AB9ED24B,
+893,绝望游戏,Fan Modding,Japan,蕾贝卡的主人,Chinese,1152EDCE,完结
+894,麻烦制造者,Fan Modding,Japan,unknown,Chinese,27A0FD3E,
+895,新逆封印之剑（最骚改版）,Fan Modding,Japan,最骚,Chinese,1E2C7ADE,
+896,半成品,Fan Modding,Japan,unknown,Chinese,1F1F8988,
+897,完整版,Fan Modding,Japan,Reskin/Rebalance,Chinese,A010B1CA,
+898,秩序之剑,Fan Modding,Japan,HAYATE,Chinese,1DC6FFB7,DEMO2022-1-17
+899,誓约传说,Fan Modding,Japan,悲桑酱,Chinese,68BE4AB9,更9章
+900,放开那个魔王,Reskin/Rebalance,Japan,unknown,Chinese,38F11041,前8章测试版
+901,红月Z,Fan Modding,Japan,xxx的戏剧,Chinese,B5729868,
+902,红月第一部,Fan Modding,Japan,xxx的戏剧,Chinese,92A16C4B,完结最终版
+903,Devourer of Worlds,Fan Modding,USA,FlyingAce,English,B72F5A94,
+904,神魂之绯石,Reskin/Rebalance,Japan,unknown,Chinese,8C2A8D70,
+905,强大的女皇,Reskin/Rebalance,Japan,unknown,Chinese,4B4086FF,
+906,木叶战记,Fan Modding,Japan,unknown,Chinese,1C9AF3D5,修复版
+907,疾风的勇王,Fan Modding,Japan,unknown,Chinese,E30F64FD,
+908,圣魔之飞龙的世界,Reskin/Rebalance,Japan,unknown,Chinese,8A1970B6,
+909,圣魔之战,Reskin/Rebalance,Japan,unknown,Chinese,FA6A203A,修复版
+910,选召者们IF,Fan Modding,Japan,半夏,Chinese,C8CBDB1E,
+911,选召者们完结更新1.1,Fan Modding,Japan,半夏,Chinese,E0020FAB,
+912,圣魔光石IS,Fan Modding,Japan,unknown,Chinese,525BAB37,
+913,次元の幻想,Reskin/Rebalance,Japan,unknown,Chinese,0B9AE87A,
+914,封印之剑if,Fan Modding,Japan,诗you澜,Chinese,18D44FEA,完结v1.2
+915,神光女线,Fan Modding,Japan,unknown,Chinese,BFF6EC2F,最终完结
+916,逆转月痕,Reskin/Rebalance,Japan,unknown,Chinese,18848FF4,
+917,旅程,Fan Modding,Japan,零,Chinese,91930108,0.3
+918,逆圣魔之光石,Fan Modding,Japan,unknown,Chinese,ACBC1952,目前第一章
+919,时空与乱斗,Fan Modding,Japan,风起人散,Chinese,6B545E1B,
+920,苍月传重置版,Fan Modding,Japan,蕾贝卡的主人,Chinese,F33463E7,
+921,新圣火微章,Fan Modding,Japan,unknown,Chinese,20C552D6,修复版
+922,新烈火之剑简单版,Reskin/Rebalance,Japan,unknown,Chinese,30E3E535,
+923,圣兵风云录,Reskin/Rebalance,Japan,unknown,Chinese,0A85F774,
+924,舞撩烈火之断牙之痛,Fan Modding,Japan,unknown,Chinese,44416773,
+925,新公主同盟,Fan Modding,Japan,小萌新,Chinese,BB40F18A,完结版
+926,鬼鬼专属,Reskin/Rebalance,Japan,unknown,Chinese,307FB47E,
+927,封印之剑 重生,Reskin/Rebalance,Japan,沙耶ノ唄,Chinese,D6241E80,1.20
+928,封印加强版,Reskin/Rebalance,Japan,unknown,Chinese,5979B3AE,
+929,圣魔之光石巴拉那之改版,Reskin/Rebalance,Japan,unknown,Chinese,EE14F542,
+930,21关开始-封印之剑,Reskin/Rebalance,Japan,unknown,Chinese,75DA6FB9,
+931,封印之剑 美丽改版,Reskin/Rebalance,Japan,美丽,Chinese,BEF89CF2,
+932,封印丧心病狂,Reskin/Rebalance,Japan,美丽,Chinese,8B70BE90,
+933,封印之剑 @浪,Reskin/Rebalance,Japan,浪,Chinese,478CFA46,
+934,最帅改版 封印无敌篇,Reskin/Rebalance,Japan,最帅,Chinese,F1787236,
+935,锋哥的复仇,Reskin/Rebalance,Japan,锋哥,Chinese,6DDA6EAB,
+936,封印之剑修改后,Reskin/Rebalance,Japan,unknown,Chinese,D5259176,
+937,烈火之剑火龙之怒,Reskin/Rebalance,Japan,unknown,Chinese,BEC9321A,
+938,圣魔光石(烈火改)自改版,Reskin/Rebalance,Japan,unknown,Chinese,9C28E397,
+939,Clash of Fates,Fan Modding,USA,DH_Ninja,English,1637F575,https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/
+940,宿命交锋,Fan Modding,USA,unknown,English,FD716DA0,
+941,烈火系谱乱入高必杀版,Reskin/Rebalance,Japan,unknown,Japanese,4B0E82A0,
+942,召唤师2.0中秋限定版,Fan Modding,Japan,阿库娅,Chinese,5865DB9C,
+943,新封神传奇,Fan Modding,Japan,unknown,Chinese,738D53DA,
+944,再渡雄起,Reskin/Rebalance,Japan,unknown,Chinese,595E735F,1.5版最终版
+945,女皇的复仇,Reskin/Rebalance,Japan,unknown,Chinese,81B20B66,
+946,最帅新做 圣魔召唤篇,Reskin/Rebalance,Japan,最帅,Chinese,7F3E78FC,
+947,王子,Fan Modding,Japan,unknown,Chinese,634FE88A,
+948,西克斯の最终版（重甲三角）,Reskin/Rebalance,Japan,西克斯,Chinese,F1B6214F,
+949,星痕改版,Fan Modding,Japan,星痕,Chinese,BAABA5C7,
+950,最帅出品 圣邪地狱篇,Reskin/Rebalance,Japan,最帅,Chinese,6843B393,
+951,最帅修改 圣魔新地图,Reskin/Rebalance,Japan,最帅,Chinese,24EADFEF,
+952,真♂圣魔之光石,Reskin/Rebalance,Japan,unknown,Chinese,23BF26ED,
+953,勇者天下,Reskin/Rebalance,Japan,unknown,Chinese,01D7B03B,
+954,玩不下去的圣魔,Reskin/Rebalance,Japan,unknown,Chinese,A4DE5B6C,
+955,无敌刺客版,Reskin/Rebalance,Japan,unknown,Chinese,6222F431,
+956,西克斯の最终版,Reskin/Rebalance,Japan,unknown,Chinese,CE656409,
+957,天地之月,Reskin/Rebalance,Japan,unknown,Chinese,BA12E1A4,
+958,新的改版（圣魔）,Reskin/Rebalance,Japan,unknown,Chinese,E4708BC6,
+959,黑暗复苏,Reskin/Rebalance,Japan,unknown,Chinese,0EA7FB9D,
+960,四大魔王,Reskin/Rebalance,Japan,unknown,Chinese,32485799,
+961,血族家族,Reskin/Rebalance,Japan,血族领主,Chinese,629BA120,1.0试玩版
+962,圣邪的意志  最帅修改终极版,Reskin/Rebalance,Japan,最帅,Chinese,EC8DEF8B,
+963,圣邪的意志 风之刃,Reskin/Rebalance,Japan,unknown,Chinese,221D31C4,
+964,圣邪的意志1.4冰剑,Reskin/Rebalance,Japan,unknown,Chinese,44BAAA73,
+965,最终的噩梦,Reskin/Rebalance,Japan,unknown,Chinese,DD52BAE7,
+966,圣魔之王者的复仇,Reskin/Rebalance,Japan,unknown,Chinese,4284723F,
+967,圣魔之渣新成长记,Reskin/Rebalance,Japan,unknown,Chinese,11F17402,
+968,圣魔之光石无等级版,Reskin/Rebalance,Japan,unknown,Chinese,9B8EC9D9,
+969,圣魔之光石晚夕版,Reskin/Rebalance,Japan,unknown,Chinese,705F679D,
+970,圣魔之光石-苍天龙骑士版,Reskin/Rebalance,Japan,unknown,Chinese,657F9606,
+971,魔物狩猎者,Reskin/Rebalance,Japan,unknown,Chinese,E26F95C8,双线完全修改版
+972,圣魔之光石孩子版,Reskin/Rebalance,Japan,血族领主,Chinese,68C0AE78,2.0
+973,错乱的时间,Reskin/Rebalance,Japan,unknown,Chinese,223668F4,
+974,帝·鲁尼之剑,Reskin/Rebalance,Japan,unknown,Chinese,CD07DF67,改正
+975,封印之剑国王版,Reskin/Rebalance,Japan,unknown,Chinese,F7BEE1FA,
+976,圣魔之光石新的国王,Reskin/Rebalance,Japan,unknown,Chinese,BABE3584,
+977,FE8女版,Reskin/Rebalance,USA,unknown,English,7F66973D,
+978,圣光之义友军,Reskin/Rebalance,Japan,青山万水如柳树,Chinese,AA119A5C,测试版
+979,杰哥新复仇 元旦福利版,Reskin/Rebalance,Japan,杰哥,Chinese,DAFDB65B,
+980,魔物变态版,Reskin/Rebalance,Japan,unknown,Chinese,2865E7D9,
+981,能勉强玩的下去的圣魔,Reskin/Rebalance,Japan,unknown,Chinese,D90E4BC3,
+982,圣魔光石 马修已,Reskin/Rebalance,Japan,unknown,Chinese,30E212D7,
+983,圣魔光石魔物职业混合版,Reskin/Rebalance,Japan,unknown,Chinese,58B4A6C8,1.5
+984,圣魔之公主的逆袭,Reskin/Rebalance,Japan,unknown,Chinese,BF03BF90,
+985,圣魔之光石 魔物版,Reskin/Rebalance,Japan,unknown,Chinese,19346FBB,修订版
+986,死灵复生,Reskin/Rebalance,Japan,unknown,Chinese,A5C39099,

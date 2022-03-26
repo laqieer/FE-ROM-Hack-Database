@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220325</datVersion>
+		<datVersion>20220326</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -7994,7 +7994,7 @@
 		<game>
 			<imageNumber>568</imageNumber>
 			<releaseNumber>568</releaseNumber>
-			<title>Fire Emblem - Saving Christmas</title>
+			<title>Saving Christmas</title>
 			<saveType>Sram_F_v103</saveType>
 			<romSize>18449388</romSize>
 			<publisher>Fan Modding</publisher>
@@ -11578,17 +11578,17 @@
 		<game>
 			<imageNumber>792</imageNumber>
 			<releaseNumber>792</releaseNumber>
-			<title>逆风的小强</title>
+			<title>逆风之小强</title>
 			<saveType>Sram_F_v103</saveType>
 			<romSize>18780940</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>7</location>
 			<sourceRom>unknown</sourceRom>
 			<language>4</language>
-			<files><romCRC extension=".gba">49549FA3</romCRC></files>
+			<files><romCRC extension=".gba">74ACBE7E</romCRC></files>
 			<im1CRC>2C76DC46</im1CRC>
 			<im2CRC>87DCD890</im2CRC>
-			<comment></comment>
+			<comment>最终版</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -11716,6 +11716,2982 @@
 			<files><romCRC extension=".gba">1170764D</romCRC></files>
 			<im1CRC>B68B34C0</im1CRC>
 			<im2CRC>B5442D90</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>801</imageNumber>
+			<releaseNumber>801</releaseNumber>
+			<title>西克斯烈火</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20347892</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>西克斯</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1B1668FA</romCRC></files>
+			<im1CRC>010A230D</im1CRC>
+			<im2CRC>74E1B503</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>802</imageNumber>
+			<releaseNumber>802</releaseNumber>
+			<title>圣光之战</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>30783480</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>真银之骑士SS</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A3E52600</romCRC></files>
+			<im1CRC>E19F39C8</im1CRC>
+			<im2CRC>6FBC682C</im2CRC>
+			<comment>4.6</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>803</imageNumber>
+			<releaseNumber>803</releaseNumber>
+			<title>黑暗无双</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17008656</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>yygyqkhh</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">7E7EF874</romCRC></files>
+			<im1CRC>6BAE4BD1</im1CRC>
+			<im2CRC>FADAB8E4</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>804</imageNumber>
+			<releaseNumber>804</releaseNumber>
+			<title>智慧的结晶</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17822480</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>yygyqkhh</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">DE4128F9</romCRC></files>
+			<im1CRC>C3EAAE55</im1CRC>
+			<im2CRC>4C58BFB9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>805</imageNumber>
+			<releaseNumber>805</releaseNumber>
+			<title>虚空之魂</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>31816536</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>阿库娅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A10D3741</romCRC></files>
+			<im1CRC>DDA03E55</im1CRC>
+			<im2CRC>EAE63C88</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>806</imageNumber>
+			<releaseNumber>806</releaseNumber>
+			<title>暗黑の黎明</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24837392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A387B295</romCRC></files>
+			<im1CRC>073F2730</im1CRC>
+			<im2CRC>05A3264D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>807</imageNumber>
+			<releaseNumber>807</releaseNumber>
+			<title>英雄的黎明ED-Ver8黎明盡頭（A）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33493848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>竜則</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F69EDFE4</romCRC></files>
+			<im1CRC>37E8D1A2</im1CRC>
+			<im2CRC>0FC8B786</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>808</imageNumber>
+			<releaseNumber>808</releaseNumber>
+			<title>英雄的黎明ED-Ver8黎明盡頭（J）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32777920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>竜則</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8DB1CDA1</romCRC></files>
+			<im1CRC>714E2832</im1CRC>
+			<im2CRC>2761E5DF</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>809</imageNumber>
+			<releaseNumber>809</releaseNumber>
+			<title>英雄的黎明ED-简易修复版（A+J）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33411816</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>竜則</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F752202F</romCRC></files>
+			<im1CRC>9B9F7E91</im1CRC>
+			<im2CRC>9FCD8A56</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>810</imageNumber>
+			<releaseNumber>810</releaseNumber>
+			<title>IF禁忌</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19896368</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>LinEir</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">32934A7B</romCRC></files>
+			<im1CRC>82DB1083</im1CRC>
+			<im2CRC>19CD364E</im2CRC>
+			<comment>v0.08体验版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>811</imageNumber>
+			<releaseNumber>811</releaseNumber>
+			<title>幽影华尔兹</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25919968</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C37960CD</romCRC></files>
+			<im1CRC>A05DE2A9</im1CRC>
+			<im2CRC>885E480F</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>812</imageNumber>
+			<releaseNumber>812</releaseNumber>
+			<title>FE16RE</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>悠木晓缺</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D1D36019</romCRC></files>
+			<im1CRC>BDE2419F</im1CRC>
+			<im2CRC>62A0C227</im2CRC>
+			<comment>DEMO</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>813</imageNumber>
+			<releaseNumber>813</releaseNumber>
+			<title>重置竹光</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32227848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>神韵</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">9D1CCDA8</romCRC></files>
+			<im1CRC>1921FB9E</im1CRC>
+			<im2CRC>C7753D85</im2CRC>
+			<comment>20211120第三章开始1618</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>814</imageNumber>
+			<releaseNumber>814</releaseNumber>
+			<title>封印的竹光</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25830312</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>神韵</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5D65F64B</romCRC></files>
+			<im1CRC>D75CF16B</im1CRC>
+			<im2CRC>F9AC8103</im2CRC>
+			<comment>完结技能版修复001</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>815</imageNumber>
+			<releaseNumber>815</releaseNumber>
+			<title>The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33531452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>冬瓜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C5C281E7</romCRC></files>
+			<im1CRC>27D4E770</im1CRC>
+			<im2CRC>0900727E</im2CRC>
+			<comment>太阳神v1.64道具技能汉化</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>816</imageNumber>
+			<releaseNumber>816</releaseNumber>
+			<title>后宫战纪新编版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33500920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F2AE9E8F</romCRC></files>
+			<im1CRC>5752AB01</im1CRC>
+			<im2CRC>60D8C4CE</im2CRC>
+			<comment>002</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>817</imageNumber>
+			<releaseNumber>817</releaseNumber>
+			<title>后宫战纪新修版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>31979420</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">DE942803</romCRC></files>
+			<im1CRC>5752AB01</im1CRC>
+			<im2CRC>5F586A68</im2CRC>
+			<comment>009</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>818</imageNumber>
+			<releaseNumber>818</releaseNumber>
+			<title>后宫战纪</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>31942288</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">74352AC4</romCRC></files>
+			<im1CRC>5752AB01</im1CRC>
+			<im2CRC>9AC574D1</im2CRC>
+			<comment>完结追加007</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>819</imageNumber>
+			<releaseNumber>819</releaseNumber>
+			<title>The Last Promise (Chinese Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33340904</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>冬瓜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">68B22F19</romCRC></files>
+			<im1CRC>A4CD91D3</im1CRC>
+			<im2CRC>0BA4758D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>820</imageNumber>
+			<releaseNumber>820</releaseNumber>
+			<title>IF禁忌 - 十六夜</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27691692</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>LinEir</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">B95E4EFB</romCRC></files>
+			<im1CRC>7A195F11</im1CRC>
+			<im2CRC>FF3849F8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>821</imageNumber>
+			<releaseNumber>821</releaseNumber>
+			<title>逆反圣魔</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28266452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>君二大爷</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F9C6A3FE</romCRC></files>
+			<im1CRC>852EBC91</im1CRC>
+			<im2CRC>D510F670</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>822</imageNumber>
+			<releaseNumber>822</releaseNumber>
+			<title>神光之公主</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22451192</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>君二大爷</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">0771CF0C</romCRC></files>
+			<im1CRC>4887FA07</im1CRC>
+			<im2CRC>A6A358F6</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>823</imageNumber>
+			<releaseNumber>823</releaseNumber>
+			<title>冰风烈焰</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27852748</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>回忆</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E60B3691</romCRC></files>
+			<im1CRC>7D5F2156</im1CRC>
+			<im2CRC>7CE3F8F9</im2CRC>
+			<comment>1.04</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>824</imageNumber>
+			<releaseNumber>824</releaseNumber>
+			<title>冰焰灵境</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17779304</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>回忆</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">58C4F4BC</romCRC></files>
+			<im1CRC>E2141E91</im1CRC>
+			<im2CRC>CF809958</im2CRC>
+			<comment>0.001</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>825</imageNumber>
+			<releaseNumber>825</releaseNumber>
+			<title>冰焰雪莉</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24355492</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>回忆</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3859DD97</romCRC></files>
+			<im1CRC>525EDB4D</im1CRC>
+			<im2CRC>8915F4CD</im2CRC>
+			<comment>二章</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>826</imageNumber>
+			<releaseNumber>826</releaseNumber>
+			<title>神兵无双</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21464504</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>时雨</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1EBAFC19</romCRC></files>
+			<im1CRC>CE954243</im1CRC>
+			<im2CRC>AF4BD747</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>827</imageNumber>
+			<releaseNumber>827</releaseNumber>
+			<title>Fire Emblem - Justice and Pride (Chinese Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27407516</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>阿库娅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3C5E7160</romCRC></files>
+			<im1CRC>ABE65C2D</im1CRC>
+			<im2CRC>9BF1BAEE</im2CRC>
+			<comment>正义与荣耀汉化版v1.0</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>828</imageNumber>
+			<releaseNumber>828</releaseNumber>
+			<title>东方苍神缘起无印大神版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23055512</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>奇峰先生</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D0954D10</romCRC></files>
+			<im1CRC>0844F3CF</im1CRC>
+			<im2CRC>57ECFD86</im2CRC>
+			<comment>003</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>829</imageNumber>
+			<releaseNumber>829</releaseNumber>
+			<title>东方苍神缘起无印平民版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23016040</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>奇峰先生</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">46B02C58</romCRC></files>
+			<im1CRC>CF09FDEE</im1CRC>
+			<im2CRC>627A895B</im2CRC>
+			<comment>002</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>830</imageNumber>
+			<releaseNumber>830</releaseNumber>
+			<title>绯红之章</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33111688</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">B5FAB1AF</romCRC></files>
+			<im1CRC>1C8BCB7E</im1CRC>
+			<im2CRC>5900273C</im2CRC>
+			<comment>完结修复005</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>831</imageNumber>
+			<releaseNumber>831</releaseNumber>
+			<title>时光战纪上</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33279872</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>尘霜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">29738E88</romCRC></files>
+			<im1CRC>1C945634</im1CRC>
+			<im2CRC>7C3E0F92</im2CRC>
+			<comment>完结修复</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>832</imageNumber>
+			<releaseNumber>832</releaseNumber>
+			<title>时光战纪下</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27484372</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>尘霜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">2106BDC7</romCRC></files>
+			<im1CRC>86ED6CB1</im1CRC>
+			<im2CRC>616B7BC0</im2CRC>
+			<comment>完结修复</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>833</imageNumber>
+			<releaseNumber>833</releaseNumber>
+			<title>幻想烈火传</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>31445952</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4FCC4E9A</romCRC></files>
+			<im1CRC>95080DCE</im1CRC>
+			<im2CRC>2EDFC38C</im2CRC>
+			<comment>1.7修复版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>834</imageNumber>
+			<releaseNumber>834</releaseNumber>
+			<title>粗鄙的我</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>30229972</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3F5C8FC7</romCRC></files>
+			<im1CRC>DAD17CF7</im1CRC>
+			<im2CRC>E8477774</im2CRC>
+			<comment>特制版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>835</imageNumber>
+			<releaseNumber>835</releaseNumber>
+			<title>童子军</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18672992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>血族领主</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5831A5CC</romCRC></files>
+			<im1CRC>9DB75600</im1CRC>
+			<im2CRC>1F61CF19</im2CRC>
+			<comment>V2.2</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>836</imageNumber>
+			<releaseNumber>836</releaseNumber>
+			<title>时空的羁绊</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17595116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>剑舞</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F91DB891</romCRC></files>
+			<im1CRC>93B46BBC</im1CRC>
+			<im2CRC>6E68F875</im2CRC>
+			<comment>0.25</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>837</imageNumber>
+			<releaseNumber>837</releaseNumber>
+			<title>回忆都去哪了</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18501884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F4B8B913</romCRC></files>
+			<im1CRC>1C945634</im1CRC>
+			<im2CRC>63AFE4AA</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>838</imageNumber>
+			<releaseNumber>838</releaseNumber>
+			<title>天王之战</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">FFBD4892</romCRC></files>
+			<im1CRC>4410FE71</im1CRC>
+			<im2CRC>7D33AED8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>839</imageNumber>
+			<releaseNumber>839</releaseNumber>
+			<title>衫雨初空</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17202772</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C3AF7709</romCRC></files>
+			<im1CRC>97B4BF05</im1CRC>
+			<im2CRC>DF01A878</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>840</imageNumber>
+			<releaseNumber>840</releaseNumber>
+			<title>死灵复生2</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21288008</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">72C9CAF7</romCRC></files>
+			<im1CRC>C4E36A2F</im1CRC>
+			<im2CRC>B08A6973</im2CRC>
+			<comment>1.2.9</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>841</imageNumber>
+			<releaseNumber>841</releaseNumber>
+			<title>花开于漠</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20968000</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>依米</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8F7E5642</romCRC></files>
+			<im1CRC>171302DE</im1CRC>
+			<im2CRC>F46DC67E</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>842</imageNumber>
+			<releaseNumber>842</releaseNumber>
+			<title>选召者们</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20789272</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>半夏</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">23974FF1</romCRC></files>
+			<im1CRC>D21EB213</im1CRC>
+			<im2CRC>D53E671B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>843</imageNumber>
+			<releaseNumber>843</releaseNumber>
+			<title>宿命传说</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24664964</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>半夏</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">7454DE30</romCRC></files>
+			<im1CRC>DC3B16AD</im1CRC>
+			<im2CRC>8273E175</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>844</imageNumber>
+			<releaseNumber>844</releaseNumber>
+			<title>逆反圣魔番外传</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28607756</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>君二大爷</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">26E8522D</romCRC></files>
+			<im1CRC>E78A8011</im1CRC>
+			<im2CRC>323FD10E</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>845</imageNumber>
+			<releaseNumber>845</releaseNumber>
+			<title>女神的救赎重置版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33000160</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>纱魅子</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C0E36C50</romCRC></files>
+			<im1CRC>670709B8</im1CRC>
+			<im2CRC>141D1692</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>846</imageNumber>
+			<releaseNumber>846</releaseNumber>
+			<title>女神的救赎重置版（固定加点）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33001600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>纱魅子</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3C8E4A20</romCRC></files>
+			<im1CRC>811AE61F</im1CRC>
+			<im2CRC>9537C352</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>847</imageNumber>
+			<releaseNumber>847</releaseNumber>
+			<title>火纹三国</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27345504</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D5C254E8</romCRC></files>
+			<im1CRC>A6EE718A</im1CRC>
+			<im2CRC>78A8ABB8</im2CRC>
+			<comment>9章</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>848</imageNumber>
+			<releaseNumber>848</releaseNumber>
+			<title>苍炎的勇者</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32668748</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>xxx的戏剧</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">00EE59E6</romCRC></files>
+			<im1CRC>71703B57</im1CRC>
+			<im2CRC>0DF97B03</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>849</imageNumber>
+			<releaseNumber>849</releaseNumber>
+			<title>东方苍神缘起残暑平民版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27040524</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>奇峰先生</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5A02D5B4</romCRC></files>
+			<im1CRC>42BD2C20</im1CRC>
+			<im2CRC>3FB41E15</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>850</imageNumber>
+			<releaseNumber>850</releaseNumber>
+			<title>东方苍神缘起残暑大神版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27038084</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>奇峰先生</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">B23EA3B9</romCRC></files>
+			<im1CRC>2E2C25DF</im1CRC>
+			<im2CRC>F9987D17</im2CRC>
+			<comment>003</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>851</imageNumber>
+			<releaseNumber>851</releaseNumber>
+			<title>The Burdened Crown (Chinese Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24029140</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>小丑の梦</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3089E40A</romCRC></files>
+			<im1CRC>AFA9C15E</im1CRC>
+			<im2CRC>AB57098E</im2CRC>
+			<comment>沉重的王冠汉化正式版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>852</imageNumber>
+			<releaseNumber>852</releaseNumber>
+			<title>圣魔IF破晓</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32667416</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>罗生门大眼睛</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F8185593</romCRC></files>
+			<im1CRC>4A99A24D</im1CRC>
+			<im2CRC>A52905D1</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>853</imageNumber>
+			<releaseNumber>853</releaseNumber>
+			<title>0的逆圣魔</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20252024</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>0</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">077D94BB</romCRC></files>
+			<im1CRC>EE89CBB3</im1CRC>
+			<im2CRC>ABC0D2A8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>854</imageNumber>
+			<releaseNumber>854</releaseNumber>
+			<title>黑暗轮回者-007优化简单版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32270164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>悲桑酱</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">48D59DBF</romCRC></files>
+			<im1CRC>852351EF</im1CRC>
+			<im2CRC>D2B38B7B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>855</imageNumber>
+			<releaseNumber>855</releaseNumber>
+			<title>黑暗轮回者-006最终版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32267124</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>悲桑酱</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4188CF4B</romCRC></files>
+			<im1CRC>852351EF</im1CRC>
+			<im2CRC>1D468E15</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>856</imageNumber>
+			<releaseNumber>856</releaseNumber>
+			<title>王之誓约</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33164648</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E5BA4301</romCRC></files>
+			<im1CRC>4E5596D2</im1CRC>
+			<im2CRC>D41886BE</im2CRC>
+			<comment>4.2</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>857</imageNumber>
+			<releaseNumber>857</releaseNumber>
+			<title>英雄世界</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33433540</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小林游太</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E889FA3A</romCRC></files>
+			<im1CRC>F291F290</im1CRC>
+			<im2CRC>84013E26</im2CRC>
+			<comment>3.0</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>858</imageNumber>
+			<releaseNumber>858</releaseNumber>
+			<title>流浪公主</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29583392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>伊蕾娜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C5707104</romCRC></files>
+			<im1CRC>CDB374A0</im1CRC>
+			<im2CRC>8FD98205</im2CRC>
+			<comment>15章阉割完结版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>859</imageNumber>
+			<releaseNumber>859</releaseNumber>
+			<title>某不知名改版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>30530508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>诺言</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">10AA75AC</romCRC></files>
+			<im1CRC>C37C1FCE</im1CRC>
+			<im2CRC>44F4632C</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>860</imageNumber>
+			<releaseNumber>860</releaseNumber>
+			<title>不知名改版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25166900</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A347D734</romCRC></files>
+			<im1CRC>26DF72A2</im1CRC>
+			<im2CRC>3576D51F</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>861</imageNumber>
+			<releaseNumber>861</releaseNumber>
+			<title>命运</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22296164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3DC1CA38</romCRC></files>
+			<im1CRC>82A2B000</im1CRC>
+			<im2CRC>BA50BDDC</im2CRC>
+			<comment>3.4</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>862</imageNumber>
+			<releaseNumber>862</releaseNumber>
+			<title>后宫战纪全人物平衡版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>32070988</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4B5EF030</romCRC></files>
+			<im1CRC>5752AB01</im1CRC>
+			<im2CRC>A0F0F0F6</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>863</imageNumber>
+			<releaseNumber>863</releaseNumber>
+			<title>主角大联盟</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>30134392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小林游太</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">09FB7E5D</romCRC></files>
+			<im1CRC>5AF6F33B</im1CRC>
+			<im2CRC>C00C03D6</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>864</imageNumber>
+			<releaseNumber>864</releaseNumber>
+			<title>召唤师</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25077656</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>阿库娅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4F89C557</romCRC></files>
+			<im1CRC>9B5693A7</im1CRC>
+			<im2CRC>1BFA8315</im2CRC>
+			<comment>1.4</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>865</imageNumber>
+			<releaseNumber>865</releaseNumber>
+			<title>明与宵之章</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27254088</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>大魔王AS</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E57890AF</romCRC></files>
+			<im1CRC>A1F2777E</im1CRC>
+			<im2CRC>26A6795C</im2CRC>
+			<comment>beta0.2版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>866</imageNumber>
+			<releaseNumber>866</releaseNumber>
+			<title>暗之彼方</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33113720</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>一剑生死两茫茫</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D348549A</romCRC></files>
+			<im1CRC>FC38E9B6</im1CRC>
+			<im2CRC>A4CCF761</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>867</imageNumber>
+			<releaseNumber>867</releaseNumber>
+			<title>圣魔F版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20352452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>飞鹰隼翼</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">B7B978D5</romCRC></files>
+			<im1CRC>614D3F86</im1CRC>
+			<im2CRC>CF54E508</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>868</imageNumber>
+			<releaseNumber>868</releaseNumber>
+			<title>圣魔之光石精修版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>圣灵奥瑞尔</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">76532A14</romCRC></files>
+			<im1CRC>82A2B000</im1CRC>
+			<im2CRC>7C47F841</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>869</imageNumber>
+			<releaseNumber>869</releaseNumber>
+			<title>苍炎乱入版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19922944</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">DC7BBD0C</romCRC></files>
+			<im1CRC>4644330B</im1CRC>
+			<im2CRC>A13FF8B1</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>870</imageNumber>
+			<releaseNumber>870</releaseNumber>
+			<title>多拉基亚776GBA复刻版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33327848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3EE35095</romCRC></files>
+			<im1CRC>53880E64</im1CRC>
+			<im2CRC>CD39C8D2</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>871</imageNumber>
+			<releaseNumber>871</releaseNumber>
+			<title>The Eligor’s Spear (Chinese Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25809240</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>小丑の梦</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">81D49D3E</romCRC></files>
+			<im1CRC>DF4D7382</im1CRC>
+			<im2CRC>594AAEF9</im2CRC>
+			<comment>埃力格之枪V1.4完全汉化最终版v1.0</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>872</imageNumber>
+			<releaseNumber>872</releaseNumber>
+			<title>Saving Christmas (Chinese Translation)</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19442516</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>小丑の梦</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">EFDBE109</romCRC></files>
+			<im1CRC>7FABB488</im1CRC>
+			<im2CRC>C0878D62</im2CRC>
+			<comment>圣诞大作战汉化版V1.1</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>873</imageNumber>
+			<releaseNumber>873</releaseNumber>
+			<title>血族再生</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16972040</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>血族领主</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">34E72F95</romCRC></files>
+			<im1CRC>D46637F4</im1CRC>
+			<im2CRC>263C005C</im2CRC>
+			<comment>圣诞大作战汉化版V1.1</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>874</imageNumber>
+			<releaseNumber>874</releaseNumber>
+			<title>光明的救赎</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>29117088</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>诺言</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8321F5D3</romCRC></files>
+			<im1CRC>C37C1FCE</im1CRC>
+			<im2CRC>B0DBB1B3</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>875</imageNumber>
+			<releaseNumber>875</releaseNumber>
+			<title>封印之剑re英雄王传说</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>终极牛头人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">364BE0DD</romCRC></files>
+			<im1CRC>47DF85F8</im1CRC>
+			<im2CRC>ABE0277D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>876</imageNumber>
+			<releaseNumber>876</releaseNumber>
+			<title>直到遇见你</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>31957948</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>伊雷娜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D93AA3A6</romCRC></files>
+			<im1CRC>88166799</im1CRC>
+			<im2CRC>D7500A5B</im2CRC>
+			<comment>完结002</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>877</imageNumber>
+			<releaseNumber>877</releaseNumber>
+			<title>屠神之星</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18274940</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>剑舞</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">DAD5F1C9</romCRC></files>
+			<im1CRC>97B4BF05</im1CRC>
+			<im2CRC>795DD78D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>878</imageNumber>
+			<releaseNumber>878</releaseNumber>
+			<title>祈悠之月</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小晴天</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">3625756A</romCRC></files>
+			<im1CRC>849070E5</im1CRC>
+			<im2CRC>6AE07C28</im2CRC>
+			<comment>正式版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>879</imageNumber>
+			<releaseNumber>879</releaseNumber>
+			<title>帝国除魔战争</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17972796</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>杰哥</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">73981433</romCRC></files>
+			<im1CRC>E94D7C8E</im1CRC>
+			<im2CRC>FE45C4A6</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>880</imageNumber>
+			<releaseNumber>880</releaseNumber>
+			<title>时间之石</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27554636</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">03A578A3</romCRC></files>
+			<im1CRC>23A49F15</im1CRC>
+			<im2CRC>3989D0A1</im2CRC>
+			<comment>1.15</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>881</imageNumber>
+			<releaseNumber>881</releaseNumber>
+			<title>异界旅者</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25891756</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>艾丝特</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5B1DE0B8</romCRC></files>
+			<im1CRC>E726A578</im1CRC>
+			<im2CRC>013542CC</im2CRC>
+			<comment>鸟篇完结</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>882</imageNumber>
+			<releaseNumber>882</releaseNumber>
+			<title>逆封印之剑</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8400800</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">4322F8D3</romCRC></files>
+			<im1CRC>70F43149</im1CRC>
+			<im2CRC>A3450E8E</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>883</imageNumber>
+			<releaseNumber>883</releaseNumber>
+			<title>魔之暗</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19044148</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">48E54442</romCRC></files>
+			<im1CRC>D21CE455</im1CRC>
+			<im2CRC>4FE9EA6D</im2CRC>
+			<comment>1</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>884</imageNumber>
+			<releaseNumber>884</releaseNumber>
+			<title>幸运的七色花</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>xxx的戏剧</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D497BD48</romCRC></files>
+			<im1CRC>6510EA15</im1CRC>
+			<im2CRC>859DFFA1</im2CRC>
+			<comment>2篇章完结最终修复版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>885</imageNumber>
+			<releaseNumber>885</releaseNumber>
+			<title>时空的咆哮</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28798752</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>星痕</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">CEF50CD5</romCRC></files>
+			<im1CRC>8867D0DB</im1CRC>
+			<im2CRC>A723ADEC</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>886</imageNumber>
+			<releaseNumber>886</releaseNumber>
+			<title>僵尸道长</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21486460</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">7E731649</romCRC></files>
+			<im1CRC>44DC2309</im1CRC>
+			<im2CRC>BC779062</im2CRC>
+			<comment>200406</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>887</imageNumber>
+			<releaseNumber>887</releaseNumber>
+			<title>英雄的挑战</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26018900</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>尘霜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8241E45E</romCRC></files>
+			<im1CRC>B54DC97E</im1CRC>
+			<im2CRC>48057A6B</im2CRC>
+			<comment>完结</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>888</imageNumber>
+			<releaseNumber>888</releaseNumber>
+			<title>主角大联盟完结版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27805428</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小林游太</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5001696D</romCRC></files>
+			<im1CRC>8FCBF3D3</im1CRC>
+			<im2CRC>09483ED4</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>889</imageNumber>
+			<releaseNumber>889</releaseNumber>
+			<title>主角大联盟超高难度</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27557216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小林游太</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">0975E53D</romCRC></files>
+			<im1CRC>EB32C8B3</im1CRC>
+			<im2CRC>E5A9A7D8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>890</imageNumber>
+			<releaseNumber>890</releaseNumber>
+			<title>寂世</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554428</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>寂世</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">395AC70C</romCRC></files>
+			<im1CRC>58DF13EB</im1CRC>
+			<im2CRC>8270B6D1</im2CRC>
+			<comment>0.03</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>891</imageNumber>
+			<releaseNumber>891</releaseNumber>
+			<title>圣王的刃与诗</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17668068</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>尘霜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">84703D5B</romCRC></files>
+			<im1CRC>46ADEB5B</im1CRC>
+			<im2CRC>C7B1ACD4</im2CRC>
+			<comment>第二章</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>892</imageNumber>
+			<releaseNumber>892</releaseNumber>
+			<title>结局</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26605304</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>星痕</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">AB9ED24B</romCRC></files>
+			<im1CRC>1C92F97D</im1CRC>
+			<im2CRC>6F484194</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>893</imageNumber>
+			<releaseNumber>893</releaseNumber>
+			<title>绝望游戏</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26201932</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1152EDCE</romCRC></files>
+			<im1CRC>0496BF87</im1CRC>
+			<im2CRC>B9058551</im2CRC>
+			<comment>完结</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>894</imageNumber>
+			<releaseNumber>894</releaseNumber>
+			<title>麻烦制造者</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17914508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">27A0FD3E</romCRC></files>
+			<im1CRC>916DD76D</im1CRC>
+			<im2CRC>D7F9D4CF</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>895</imageNumber>
+			<releaseNumber>895</releaseNumber>
+			<title>新逆封印之剑（最骚改版）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18582592</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>最骚</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1E2C7ADE</romCRC></files>
+			<im1CRC>97B4BF05</im1CRC>
+			<im2CRC>24D42E09</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>896</imageNumber>
+			<releaseNumber>896</releaseNumber>
+			<title>半成品</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>22072704</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1F1F8988</romCRC></files>
+			<im1CRC>D60EADCB</im1CRC>
+			<im2CRC>3E1D1177</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>897</imageNumber>
+			<releaseNumber>897</releaseNumber>
+			<title>完整版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>Reskin/Rebalance</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A010B1CA</romCRC></files>
+			<im1CRC>C1392B77</im1CRC>
+			<im2CRC>8F1D4CC4</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>898</imageNumber>
+			<releaseNumber>898</releaseNumber>
+			<title>秩序之剑</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22683944</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>HAYATE</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1DC6FFB7</romCRC></files>
+			<im1CRC>E3AD365B</im1CRC>
+			<im2CRC>09FFF1C6</im2CRC>
+			<comment>DEMO2022-1-17</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>899</imageNumber>
+			<releaseNumber>899</releaseNumber>
+			<title>誓约传说</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>23814716</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>悲桑酱</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">68BE4AB9</romCRC></files>
+			<im1CRC>4053B4C6</im1CRC>
+			<im2CRC>F9109D3F</im2CRC>
+			<comment>更9章</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>900</imageNumber>
+			<releaseNumber>900</releaseNumber>
+			<title>放开那个魔王</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19019252</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">38F11041</romCRC></files>
+			<im1CRC>1C945634</im1CRC>
+			<im2CRC>758F8229</im2CRC>
+			<comment>前8章测试版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>901</imageNumber>
+			<releaseNumber>901</releaseNumber>
+			<title>红月Z</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>xxx的戏剧</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">B5729868</romCRC></files>
+			<im1CRC>D471C977</im1CRC>
+			<im2CRC>075AF79F</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>902</imageNumber>
+			<releaseNumber>902</releaseNumber>
+			<title>红月第一部</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>xxx的戏剧</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">92A16C4B</romCRC></files>
+			<im1CRC>946865FB</im1CRC>
+			<im2CRC>D8503499</im2CRC>
+			<comment>完结最终版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>903</imageNumber>
+			<releaseNumber>903</releaseNumber>
+			<title>Devourer of Worlds</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16891404</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>FlyingAce</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">B72F5A94</romCRC></files>
+			<im1CRC>4977E05D</im1CRC>
+			<im2CRC>1EF8F5B9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>904</imageNumber>
+			<releaseNumber>904</releaseNumber>
+			<title>神魂之绯石</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8C2A8D70</romCRC></files>
+			<im1CRC>B34227AF</im1CRC>
+			<im2CRC>81F68720</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>905</imageNumber>
+			<releaseNumber>905</releaseNumber>
+			<title>强大的女皇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4B4086FF</romCRC></files>
+			<im1CRC>5C94F19C</im1CRC>
+			<im2CRC>ED70DD6F</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>906</imageNumber>
+			<releaseNumber>906</releaseNumber>
+			<title>木叶战记</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22802384</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">1C9AF3D5</romCRC></files>
+			<im1CRC>D65A1DDE</im1CRC>
+			<im2CRC>6F417EC7</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>907</imageNumber>
+			<releaseNumber>907</releaseNumber>
+			<title>疾风的勇王</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E30F64FD</romCRC></files>
+			<im1CRC>47DFE545</im1CRC>
+			<im2CRC>8D6DF2E9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>908</imageNumber>
+			<releaseNumber>908</releaseNumber>
+			<title>圣魔之飞龙的世界</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8A1970B6</romCRC></files>
+			<im1CRC>C1392B77</im1CRC>
+			<im2CRC>3C4FA274</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>909</imageNumber>
+			<releaseNumber>909</releaseNumber>
+			<title>圣魔之战</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24413620</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">FA6A203A</romCRC></files>
+			<im1CRC>4F1DB0E9</im1CRC>
+			<im2CRC>2BECC35F</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>910</imageNumber>
+			<releaseNumber>910</releaseNumber>
+			<title>选召者们IF</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21967880</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>半夏</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">C8CBDB1E</romCRC></files>
+			<im1CRC>433FA85D</im1CRC>
+			<im2CRC>50368641</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>911</imageNumber>
+			<releaseNumber>911</releaseNumber>
+			<title>选召者们完结更新1.1</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21856700</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>半夏</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E0020FAB</romCRC></files>
+			<im1CRC>A10580F4</im1CRC>
+			<im2CRC>5FE65D79</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>912</imageNumber>
+			<releaseNumber>912</releaseNumber>
+			<title>圣魔光石IS</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21501708</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">525BAB37</romCRC></files>
+			<im1CRC>EF3E1765</im1CRC>
+			<im2CRC>D82CE0EF</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>913</imageNumber>
+			<releaseNumber>913</releaseNumber>
+			<title>次元の幻想</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16877216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">0B9AE87A</romCRC></files>
+			<im1CRC>A9BABC2D</im1CRC>
+			<im2CRC>715C3DAC</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>914</imageNumber>
+			<releaseNumber>914</releaseNumber>
+			<title>封印之剑if</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>28507884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>诗you澜</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">18D44FEA</romCRC></files>
+			<im1CRC>DB3FC292</im1CRC>
+			<im2CRC>7C8F235A</im2CRC>
+			<comment>完结v1.2</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>915</imageNumber>
+			<releaseNumber>915</releaseNumber>
+			<title>神光女线</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21354600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BFF6EC2F</romCRC></files>
+			<im1CRC>97B4BF05</im1CRC>
+			<im2CRC>C605CA3C</im2CRC>
+			<comment>最终完结</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>916</imageNumber>
+			<releaseNumber>916</releaseNumber>
+			<title>逆转月痕</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18512580</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">18848FF4</romCRC></files>
+			<im1CRC>BD759798</im1CRC>
+			<im2CRC>B73FCFA5</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>917</imageNumber>
+			<releaseNumber>917</releaseNumber>
+			<title>旅程</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20442448</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>零</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">91930108</romCRC></files>
+			<im1CRC>99CB96A3</im1CRC>
+			<im2CRC>277C54E9</im2CRC>
+			<comment>0.3</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>918</imageNumber>
+			<releaseNumber>918</releaseNumber>
+			<title>逆圣魔之光石</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19131208</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">ACBC1952</romCRC></files>
+			<im1CRC>2762B57E</im1CRC>
+			<im2CRC>9B53DD4B</im2CRC>
+			<comment>目前第一章</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>919</imageNumber>
+			<releaseNumber>919</releaseNumber>
+			<title>时空与乱斗</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>21932096</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>风起人散</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">6B545E1B</romCRC></files>
+			<im1CRC>CEBA594E</im1CRC>
+			<im2CRC>1D16FD56</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>920</imageNumber>
+			<releaseNumber>920</releaseNumber>
+			<title>苍月传重置版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24235944</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>蕾贝卡的主人</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F33463E7</romCRC></files>
+			<im1CRC>7B89C325</im1CRC>
+			<im2CRC>D81266D8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>921</imageNumber>
+			<releaseNumber>921</releaseNumber>
+			<title>新圣火微章</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>27446884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">20C552D6</romCRC></files>
+			<im1CRC>F7D96733</im1CRC>
+			<im2CRC>D8552832</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>922</imageNumber>
+			<releaseNumber>922</releaseNumber>
+			<title>新烈火之剑简单版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17301504</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">30E3E535</romCRC></files>
+			<im1CRC>2C125952</im1CRC>
+			<im2CRC>64C2FC15</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>923</imageNumber>
+			<releaseNumber>923</releaseNumber>
+			<title>圣兵风云录</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25911312</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">0A85F774</romCRC></files>
+			<im1CRC>87E97DCB</im1CRC>
+			<im2CRC>5732F7B9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>924</imageNumber>
+			<releaseNumber>924</releaseNumber>
+			<title>舞撩烈火之断牙之痛</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>19437920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">44416773</romCRC></files>
+			<im1CRC>8015ADCE</im1CRC>
+			<im2CRC>5E545EC9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>925</imageNumber>
+			<releaseNumber>925</releaseNumber>
+			<title>新公主同盟</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22946116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>小萌新</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BB40F18A</romCRC></files>
+			<im1CRC>7FE43F75</im1CRC>
+			<im2CRC>8E7E6C68</im2CRC>
+			<comment>完结版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>926</imageNumber>
+			<releaseNumber>926</releaseNumber>
+			<title>鬼鬼专属</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>24759364</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">307FB47E</romCRC></files>
+			<im1CRC>66115717</im1CRC>
+			<im2CRC>1E7FB0F5</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>927</imageNumber>
+			<releaseNumber>927</releaseNumber>
+			<title>封印之剑 重生</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>沙耶ノ唄</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D6241E80</romCRC></files>
+			<im1CRC>F148ACE8</im1CRC>
+			<im2CRC>09DB79EF</im2CRC>
+			<comment>1.20</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>928</imageNumber>
+			<releaseNumber>928</releaseNumber>
+			<title>封印加强版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5979B3AE</romCRC></files>
+			<im1CRC>021D2FC4</im1CRC>
+			<im2CRC>25D7F9AA</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>929</imageNumber>
+			<releaseNumber>929</releaseNumber>
+			<title>圣魔之光石巴拉那之改版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">EE14F542</romCRC></files>
+			<im1CRC>5C94F19C</im1CRC>
+			<im2CRC>19AFDCE3</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>930</imageNumber>
+			<releaseNumber>930</releaseNumber>
+			<title>21关开始-封印之剑</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">75DA6FB9</romCRC></files>
+			<im1CRC>021D2FC4</im1CRC>
+			<im2CRC>8DA5EFFE</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>931</imageNumber>
+			<releaseNumber>931</releaseNumber>
+			<title>封印之剑 美丽改版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>美丽</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BEF89CF2</romCRC></files>
+			<im1CRC>916DD76D</im1CRC>
+			<im2CRC>2F00A5E9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>932</imageNumber>
+			<releaseNumber>932</releaseNumber>
+			<title>封印丧心病狂</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>美丽</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">8B70BE90</romCRC></files>
+			<im1CRC>179F970F</im1CRC>
+			<im2CRC>967C5F89</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>933</imageNumber>
+			<releaseNumber>933</releaseNumber>
+			<title>封印之剑 @浪</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>浪</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">478CFA46</romCRC></files>
+			<im1CRC>369A1245</im1CRC>
+			<im2CRC>63980432</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>934</imageNumber>
+			<releaseNumber>934</releaseNumber>
+			<title>最帅改版 封印无敌篇</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>10415546</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>最帅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F1787236</romCRC></files>
+			<im1CRC>7F3ABAC8</im1CRC>
+			<im2CRC>68283311</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>935</imageNumber>
+			<releaseNumber>935</releaseNumber>
+			<title>锋哥的复仇</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>锋哥</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">6DDA6EAB</romCRC></files>
+			<im1CRC>179F970F</im1CRC>
+			<im2CRC>C3043439</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>936</imageNumber>
+			<releaseNumber>936</releaseNumber>
+			<title>封印之剑修改后</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D5259176</romCRC></files>
+			<im1CRC>06629630</im1CRC>
+			<im2CRC>90D32522</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>937</imageNumber>
+			<releaseNumber>937</releaseNumber>
+			<title>烈火之剑火龙之怒</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BEC9321A</romCRC></files>
+			<im1CRC>48646C34</im1CRC>
+			<im2CRC>BE897ABA</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>938</imageNumber>
+			<releaseNumber>938</releaseNumber>
+			<title>圣魔光石(烈火改)自改版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20426668</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">9C28E397</romCRC></files>
+			<im1CRC>5C94F19C</im1CRC>
+			<im2CRC>5C17DFC3</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>939</imageNumber>
+			<releaseNumber>939</releaseNumber>
+			<title>Clash of Fates</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16832828</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>DH_Ninja</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1637F575</romCRC></files>
+			<im1CRC>D40B067F</im1CRC>
+			<im2CRC>B4F52E25</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>940</imageNumber>
+			<releaseNumber>940</releaseNumber>
+			<title>宿命交锋</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>21207896</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>unknown</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FD716DA0</romCRC></files>
+			<im1CRC>72714256</im1CRC>
+			<im2CRC>EAB2144C</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>941</imageNumber>
+			<releaseNumber>941</releaseNumber>
+			<title>烈火系谱乱入高必杀版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>256</language>
+			<files><romCRC extension=".gba">4B0E82A0</romCRC></files>
+			<im1CRC>73C932F5</im1CRC>
+			<im2CRC>57D5CD92</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>942</imageNumber>
+			<releaseNumber>942</releaseNumber>
+			<title>召唤师2.0中秋限定版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>26095224</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>阿库娅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">5865DB9C</romCRC></files>
+			<im1CRC>AD1F1681</im1CRC>
+			<im2CRC>C9C72834</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>943</imageNumber>
+			<releaseNumber>943</releaseNumber>
+			<title>新封神传奇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18576652</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">738D53DA</romCRC></files>
+			<im1CRC>BC87FC51</im1CRC>
+			<im2CRC>55A0D190</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>944</imageNumber>
+			<releaseNumber>944</releaseNumber>
+			<title>再渡雄起</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">595E735F</romCRC></files>
+			<im1CRC>3868F49B</im1CRC>
+			<im2CRC>FAA0D023</im2CRC>
+			<comment>1.5版最终版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>945</imageNumber>
+			<releaseNumber>945</releaseNumber>
+			<title>女皇的复仇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">81B20B66</romCRC></files>
+			<im1CRC>BB2E643C</im1CRC>
+			<im2CRC>A7C13B74</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>946</imageNumber>
+			<releaseNumber>946</releaseNumber>
+			<title>最帅新做 圣魔召唤篇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18388268</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>最帅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">7F3E78FC</romCRC></files>
+			<im1CRC>26DF72A2</im1CRC>
+			<im2CRC>D1E45F96</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>947</imageNumber>
+			<releaseNumber>947</releaseNumber>
+			<title>王子</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16922452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">634FE88A</romCRC></files>
+			<im1CRC>4F1DB0E9</im1CRC>
+			<im2CRC>FB8B0F28</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>948</imageNumber>
+			<releaseNumber>948</releaseNumber>
+			<title>西克斯の最终版（重甲三角）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>西克斯</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F1B6214F</romCRC></files>
+			<im1CRC>786039BC</im1CRC>
+			<im2CRC>A68DDA4D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>949</imageNumber>
+			<releaseNumber>949</releaseNumber>
+			<title>星痕改版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18868356</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>7</location>
+			<sourceRom>星痕</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BAABA5C7</romCRC></files>
+			<im1CRC>777B223E</im1CRC>
+			<im2CRC>D354BE07</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>950</imageNumber>
+			<releaseNumber>950</releaseNumber>
+			<title>最帅出品 圣邪地狱篇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777300</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>最帅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">6843B393</romCRC></files>
+			<im1CRC>AE0B2375</im1CRC>
+			<im2CRC>85FA9B15</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>951</imageNumber>
+			<releaseNumber>951</releaseNumber>
+			<title>最帅修改 圣魔新地图</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>最帅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">24EADFEF</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>706A829A</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>952</imageNumber>
+			<releaseNumber>952</releaseNumber>
+			<title>真♂圣魔之光石</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">23BF26ED</romCRC></files>
+			<im1CRC>C1392B77</im1CRC>
+			<im2CRC>2C4DBF51</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>953</imageNumber>
+			<releaseNumber>953</releaseNumber>
+			<title>勇者天下</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">01D7B03B</romCRC></files>
+			<im1CRC>C1392B77</im1CRC>
+			<im2CRC>AC8E00F8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>954</imageNumber>
+			<releaseNumber>954</releaseNumber>
+			<title>玩不下去的圣魔</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A4DE5B6C</romCRC></files>
+			<im1CRC>7ED01C30</im1CRC>
+			<im2CRC>90290F46</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>955</imageNumber>
+			<releaseNumber>955</releaseNumber>
+			<title>无敌刺客版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">6222F431</romCRC></files>
+			<im1CRC>82A2B000</im1CRC>
+			<im2CRC>DE2FA8C1</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>956</imageNumber>
+			<releaseNumber>956</releaseNumber>
+			<title>西克斯の最终版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">CE656409</romCRC></files>
+			<im1CRC>EE89CBB3</im1CRC>
+			<im2CRC>B2AA80CD</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>957</imageNumber>
+			<releaseNumber>957</releaseNumber>
+			<title>天地之月</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BA12E1A4</romCRC></files>
+			<im1CRC>7ED01C30</im1CRC>
+			<im2CRC>9ABCA432</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>958</imageNumber>
+			<releaseNumber>958</releaseNumber>
+			<title>新的改版（圣魔）</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E4708BC6</romCRC></files>
+			<im1CRC>7ED01C30</im1CRC>
+			<im2CRC>A6E2946A</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>959</imageNumber>
+			<releaseNumber>959</releaseNumber>
+			<title>黑暗复苏</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">0EA7FB9D</romCRC></files>
+			<im1CRC>93B46BBC</im1CRC>
+			<im2CRC>9505AAFC</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>960</imageNumber>
+			<releaseNumber>960</releaseNumber>
+			<title>四大魔王</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">32485799</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>DDB49ED3</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>961</imageNumber>
+			<releaseNumber>961</releaseNumber>
+			<title>血族家族</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16972040</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>血族领主</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">629BA120</romCRC></files>
+			<im1CRC>D46637F4</im1CRC>
+			<im2CRC>DD967654</im2CRC>
+			<comment>1.0试玩版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>962</imageNumber>
+			<releaseNumber>962</releaseNumber>
+			<title>圣邪的意志  最帅修改终极版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>最帅</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">EC8DEF8B</romCRC></files>
+			<im1CRC>0420F868</im1CRC>
+			<im2CRC>F7F93EF5</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>963</imageNumber>
+			<releaseNumber>963</releaseNumber>
+			<title>圣邪的意志 风之刃</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">221D31C4</romCRC></files>
+			<im1CRC>A0841B44</im1CRC>
+			<im2CRC>100B35D9</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>964</imageNumber>
+			<releaseNumber>964</releaseNumber>
+			<title>圣邪的意志1.4冰剑</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">44BAAA73</romCRC></files>
+			<im1CRC>33A5390F</im1CRC>
+			<im2CRC>3B4F6633</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>965</imageNumber>
+			<releaseNumber>965</releaseNumber>
+			<title>最终的噩梦</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">DD52BAE7</romCRC></files>
+			<im1CRC>A0841B44</im1CRC>
+			<im2CRC>F20A3140</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>966</imageNumber>
+			<releaseNumber>966</releaseNumber>
+			<title>圣魔之王者的复仇</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">4284723F</romCRC></files>
+			<im1CRC>A9BABC2D</im1CRC>
+			<im2CRC>9326B8B5</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>967</imageNumber>
+			<releaseNumber>967</releaseNumber>
+			<title>圣魔之渣新成长记</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16877216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">11F17402</romCRC></files>
+			<im1CRC>4521A0CB</im1CRC>
+			<im2CRC>B978B04B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>968</imageNumber>
+			<releaseNumber>968</releaseNumber>
+			<title>圣魔之光石无等级版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>18388268</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">9B8EC9D9</romCRC></files>
+			<im1CRC>93B46BBC</im1CRC>
+			<im2CRC>CD8F9C20</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>969</imageNumber>
+			<releaseNumber>969</releaseNumber>
+			<title>圣魔之光石晚夕版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">705F679D</romCRC></files>
+			<im1CRC>786039BC</im1CRC>
+			<im2CRC>BD751634</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>970</imageNumber>
+			<releaseNumber>970</releaseNumber>
+			<title>圣魔之光石-苍天龙骑士版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">657F9606</romCRC></files>
+			<im1CRC>C1392B77</im1CRC>
+			<im2CRC>DDFE904B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>971</imageNumber>
+			<releaseNumber>971</releaseNumber>
+			<title>魔物狩猎者</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">E26F95C8</romCRC></files>
+			<im1CRC>82A2B000</im1CRC>
+			<im2CRC>F7C20206</im2CRC>
+			<comment>双线完全修改版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>972</imageNumber>
+			<releaseNumber>972</releaseNumber>
+			<title>圣魔之光石孩子版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16939360</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>血族领主</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">68C0AE78</romCRC></files>
+			<im1CRC>99066564</im1CRC>
+			<im2CRC>D42723EC</im2CRC>
+			<comment>2.0</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>973</imageNumber>
+			<releaseNumber>973</releaseNumber>
+			<title>错乱的时间</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">223668F4</romCRC></files>
+			<im1CRC>93B46BBC</im1CRC>
+			<im2CRC>D38BD5E7</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>974</imageNumber>
+			<releaseNumber>974</releaseNumber>
+			<title>帝·鲁尼之剑</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">CD07DF67</romCRC></files>
+			<im1CRC>A9BABC2D</im1CRC>
+			<im2CRC>D74717A3</im2CRC>
+			<comment>改正</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>975</imageNumber>
+			<releaseNumber>975</releaseNumber>
+			<title>封印之剑国王版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>10415546</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">F7BEE1FA</romCRC></files>
+			<im1CRC>317C5FD5</im1CRC>
+			<im2CRC>BB330A2B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>976</imageNumber>
+			<releaseNumber>976</releaseNumber>
+			<title>圣魔之光石新的国王</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BABE3584</romCRC></files>
+			<im1CRC>4521A0CB</im1CRC>
+			<im2CRC>2C32EB6B</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>977</imageNumber>
+			<releaseNumber>977</releaseNumber>
+			<title>FE8女版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>16898520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>1</location>
+			<sourceRom>unknown</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">7F66973D</romCRC></files>
+			<im1CRC>B65A3ACE</im1CRC>
+			<im2CRC>574D2944</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>978</imageNumber>
+			<releaseNumber>978</releaseNumber>
+			<title>圣光之义友军</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>青山万水如柳树</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">AA119A5C</romCRC></files>
+			<im1CRC>786039BC</im1CRC>
+			<im2CRC>D3BCE27A</im2CRC>
+			<comment>测试版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>979</imageNumber>
+			<releaseNumber>979</releaseNumber>
+			<title>杰哥新复仇 元旦福利版</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17613360</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>杰哥</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">DAFDB65B</romCRC></files>
+			<im1CRC>AE3AEEF2</im1CRC>
+			<im2CRC>905269DE</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>980</imageNumber>
+			<releaseNumber>980</releaseNumber>
+			<title>魔物变态版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">2865E7D9</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>F663AB10</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>981</imageNumber>
+			<releaseNumber>981</releaseNumber>
+			<title>能勉强玩的下去的圣魔</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D90E4BC3</romCRC></files>
+			<im1CRC>26DF72A2</im1CRC>
+			<im2CRC>1333E17C</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>982</imageNumber>
+			<releaseNumber>982</releaseNumber>
+			<title>圣魔光石 马修已</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>18807972</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">30E212D7</romCRC></files>
+			<im1CRC>7ED01C30</im1CRC>
+			<im2CRC>2DFBD52D</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>983</imageNumber>
+			<releaseNumber>983</releaseNumber>
+			<title>圣魔光石魔物职业混合版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">58B4A6C8</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>9F42A284</im2CRC>
+			<comment>1.5</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>984</imageNumber>
+			<releaseNumber>984</releaseNumber>
+			<title>圣魔之公主的逆袭</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">BF03BF90</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>274839E8</im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>985</imageNumber>
+			<releaseNumber>985</releaseNumber>
+			<title>圣魔之光石 魔物版</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">19346FBB</romCRC></files>
+			<im1CRC>097D0CCB</im1CRC>
+			<im2CRC>F9EBF201</im2CRC>
+			<comment>修订版</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>986</imageNumber>
+			<releaseNumber>986</releaseNumber>
+			<title>死灵复生</title>
+			<saveType>Sram_F_v102</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>7</location>
+			<sourceRom>unknown</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">A5C39099</romCRC></files>
+			<im1CRC>08BC1D4B</im1CRC>
+			<im2CRC>FEA8D099</im2CRC>
 			<comment></comment>
 			<duplicateID>0</duplicateID>
 		</game>

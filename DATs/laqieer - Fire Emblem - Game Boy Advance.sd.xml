@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220325</version>
+		<version>20220326</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -119,6 +119,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>0的逆圣魔</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>853 - 0的逆圣魔</name>
+					<size>20252024</size>
+					<crc>077d94bb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>2 Princesses (English Translation)</name>
 				<comment>https://feuniverse.us/t/fe-2-princesses-english-translation/8380</comment>
 				<publisher>Fan Modding</publisher>
@@ -144,6 +159,21 @@
 					<name>183 - 2 Princesses (二人の王女)</name>
 					<size>24646064</size>
 					<crc>44f08e5b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>21关开始-封印之剑</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>930 - 21关开始-封印之剑</name>
+					<size>8388608</size>
+					<crc>75da6fb9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1064,6 +1094,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Clash of Fates</name>
+				<comment>https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>939 - Clash of Fates</name>
+					<size>16832828</size>
+					<crc>1637f575</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Clendo's 1h Blitz - Faltharian Heist</name>
 				<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/34</comment>
 				<publisher>Blitz</publisher>
@@ -1584,6 +1629,21 @@
 					<name>338 - Devourer of Time (Normal mode)</name>
 					<size>16818224</size>
 					<crc>200f63aa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Devourer of Worlds</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>903 - Devourer of Worlds</name>
+					<size>16891404</size>
+					<crc>b72f5a94</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3965,6 +4025,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8女版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>977 - FE8女版</name>
+					<size>16898520</size>
+					<crc>7f66973d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8改造</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -3975,6 +4050,21 @@
 					<name>706 - FE8改造</name>
 					<size>16777216</size>
 					<crc>616dfbb4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE16RE</name>
+				<comment>DEMO</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>812 - FE16RE</name>
+					<size>16777216</size>
+					<crc>d1d36019</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4625,6 +4715,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Justice and Pride (Chinese Translation)</name>
+				<comment>正义与荣耀汉化版v1.0</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>827 - Fire Emblem - Justice and Pride (Chinese Translation)</name>
+					<size>27407516</size>
+					<crc>3c5e7160</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Order of the Crimson Arm</name>
 				<comment>https://feuniverse.us/t/fire-emblem-order-of-the-crimson-arm/1836</comment>
 				<publisher>Fan Modding</publisher>
@@ -4770,21 +4875,6 @@
 					<name>23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]</name>
 					<size>16777216</size>
 					<crc>7aef4edc</crc>
-				</datitem>
-			</files>
-		</directory>
-		<directory>
-			<machine>
-				<name>Fire Emblem - Saving Christmas</name>
-				<comment>https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503</comment>
-				<publisher>Fan Modding</publisher>
-			</machine>
-			<files>
-				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
-					<itemtype>Rom</itemtype>
-					<name>568 - Fire Emblem - Saving Christmas</name>
-					<size>18449388</size>
-					<crc>5afd94b1</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5745,6 +5835,36 @@
 					<name>527 - Human Armory</name>
 					<size>16784272</size>
 					<crc>90b0a9a5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>IF禁忌</name>
+				<comment>v0.08体验版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>810 - IF禁忌</name>
+					<size>19896368</size>
+					<crc>32934a7b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>IF禁忌 - 十六夜</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>820 - IF禁忌 - 十六夜</name>
+					<size>27691692</size>
+					<crc>b95e4efb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7985,6 +8105,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Saving Christmas</name>
+				<comment>https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>568 - Saving Christmas</name>
+					<size>18449388</size>
+					<crc>5afd94b1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Saving Christmas (Chinese Translation)</name>
+				<comment>圣诞大作战汉化版V1.1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>872 - Saving Christmas (Chinese Translation)</name>
+					<size>19442516</size>
+					<crc>efdbe109</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Scarlet Rising</name>
 				<comment>https://feuniverse.us/t/complete-fe8-scarlet-rising/7890</comment>
 				<publisher>Fan Modding</publisher>
@@ -8825,6 +8975,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Burdened Crown (Chinese Translation)</name>
+				<comment>沉重的王冠汉化正式版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>851 - The Burdened Crown (Chinese Translation)</name>
+					<size>24029140</size>
+					<crc>3089e40a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Christmas Blitz</name>
 				<comment />
 				<publisher>Blitz</publisher>
@@ -8955,6 +9120,21 @@
 					<name>428 - The Eligor’s Spear</name>
 					<size>24776684</size>
 					<crc>20426aa9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Eligor’s Spear (Chinese Translation)</name>
+				<comment>埃力格之枪V1.4完全汉化最终版v1.0</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>871 - The Eligor’s Spear (Chinese Translation)</name>
+					<size>25809240</size>
+					<crc>81d49d3e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9120,6 +9300,21 @@
 					<name>105 - The Last Promise (Chaos Mode DEMO)</name>
 					<size>32446048</size>
 					<crc>365cf432</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Last Promise (Chinese Translation)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>819 - The Last Promise (Chinese Translation)</name>
+					<size>33340904</size>
+					<crc>68b22f19</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9480,6 +9675,21 @@
 					<name>218 - The Sun God’s Wrath (0 growth)</name>
 					<size>33007108</size>
 					<crc>7def8770</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)</name>
+				<comment>太阳神v1.64道具技能汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)</name>
+					<size>33531452</size>
+					<crc>c5c281e7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10175,6 +10385,156 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>不知名改版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>860 - 不知名改版</name>
+					<size>25166900</size>
+					<crc>a347d734</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>东方苍神缘起无印大神版</name>
+				<comment>003</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>828 - 东方苍神缘起无印大神版</name>
+					<size>23055512</size>
+					<crc>d0954d10</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>东方苍神缘起无印平民版</name>
+				<comment>002</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>829 - 东方苍神缘起无印平民版</name>
+					<size>23016040</size>
+					<crc>46b02c58</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>东方苍神缘起残暑大神版</name>
+				<comment>003</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>850 - 东方苍神缘起残暑大神版</name>
+					<size>27038084</size>
+					<crc>b23ea3b9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>东方苍神缘起残暑平民版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>849 - 东方苍神缘起残暑平民版</name>
+					<size>27040524</size>
+					<crc>5a02d5b4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>主角大联盟</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>863 - 主角大联盟</name>
+					<size>30134392</size>
+					<crc>09fb7e5d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>主角大联盟完结版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>888 - 主角大联盟完结版</name>
+					<size>27805428</size>
+					<crc>5001696d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>主角大联盟超高难度</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>889 - 主角大联盟超高难度</name>
+					<size>27557216</size>
+					<crc>0975e53d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>僵尸道长</name>
+				<comment>200406</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>886 - 僵尸道长</name>
+					<size>21486460</size>
+					<crc>7e731649</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>光明的救赎</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>874 - 光明的救赎</name>
+					<size>29117088</size>
+					<crc>8321f5d3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>六写封神</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10190,6 +10550,126 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>再渡雄起</name>
+				<comment>1.5版最终版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>944 - 再渡雄起</name>
+					<size>17825792</size>
+					<crc>595e735f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>冰焰灵境</name>
+				<comment>0.001</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>824 - 冰焰灵境</name>
+					<size>17779304</size>
+					<crc>58c4f4bc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>冰焰雪莉</name>
+				<comment>二章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>825 - 冰焰雪莉</name>
+					<size>24355492</size>
+					<crc>3859dd97</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>冰风烈焰</name>
+				<comment>1.04</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>823 - 冰风烈焰</name>
+					<size>27852748</size>
+					<crc>e60b3691</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>勇者天下</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>953 - 勇者天下</name>
+					<size>16777216</size>
+					<crc>01d7b03b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>半成品</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>896 - 半成品</name>
+					<size>22072704</size>
+					<crc>1f1f8988</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>召唤师2.0中秋限定版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>942 - 召唤师2</name>
+					<size>26095224</size>
+					<crc>5865db9c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>召唤师</name>
+				<comment>1.4</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>864 - 召唤师</name>
+					<size>25077656</size>
+					<crc>4f89c557</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>名も無き英雄</name>
 				<comment>The Nameless Heroes</comment>
 				<publisher>Fan Modding</publisher>
@@ -10200,6 +10680,141 @@
 					<name>447 - 名も無き英雄</name>
 					<size>29840204</size>
 					<crc>b9a6e9c7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>后宫战纪</name>
+				<comment>完结追加007</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>818 - 后宫战纪</name>
+					<size>31942288</size>
+					<crc>74352ac4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>后宫战纪全人物平衡版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>862 - 后宫战纪全人物平衡版</name>
+					<size>32070988</size>
+					<crc>4b5ef030</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>后宫战纪新修版</name>
+				<comment>009</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>817 - 后宫战纪新修版</name>
+					<size>31979420</size>
+					<crc>de942803</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>后宫战纪新编版</name>
+				<comment>002</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>816 - 后宫战纪新编版</name>
+					<size>33500920</size>
+					<crc>f2ae9e8f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>命运</name>
+				<comment>3.4</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>861 - 命运</name>
+					<size>22296164</size>
+					<crc>3dc1ca38</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>四大魔王</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>960 - 四大魔王</name>
+					<size>16777216</size>
+					<crc>32485799</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>回忆都去哪了</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>837 - 回忆都去哪了</name>
+					<size>18501884</size>
+					<crc>f4b8b913</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣光之义友军</name>
+				<comment>测试版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>978 - 圣光之义友军</name>
+					<size>17825792</size>
+					<crc>aa119a5c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣光之战</name>
+				<comment>4.6</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>802 - 圣光之战</name>
+					<size>30783480</size>
+					<crc>a3e52600</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10265,6 +10880,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>圣兵风云录</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>923 - 圣兵风云录</name>
+					<size>25911312</size>
+					<crc>0a85f774</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣王的刃与诗</name>
+				<comment>第二章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>891 - 圣王的刃与诗</name>
+					<size>17668068</size>
+					<crc>84703d5b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>圣邪之意志配色版</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10275,6 +10920,111 @@
 					<name>797 - 圣邪之意志配色版</name>
 					<size>16777216</size>
 					<crc>172720d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣邪的意志1.4冰剑</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>964 - 圣邪的意志1</name>
+					<size>16777216</size>
+					<crc>44baaa73</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣邪的意志  最帅修改终极版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>962 - 圣邪的意志  最帅修改终极版</name>
+					<size>16777216</size>
+					<crc>ec8def8b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣邪的意志 风之刃</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>963 - 圣邪的意志 风之刃</name>
+					<size>16777216</size>
+					<crc>221d31c4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔F版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>867 - 圣魔F版</name>
+					<size>20352452</size>
+					<crc>b7b978d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔IF破晓</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>852 - 圣魔IF破晓</name>
+					<size>32667416</size>
+					<crc>f8185593</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石 魔物版</name>
+				<comment>修订版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>985 - 圣魔之光石 魔物版</name>
+					<size>16778240</size>
+					<crc>19346fbb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石-苍天龙骑士版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>970 - 圣魔之光石-苍天龙骑士版</name>
+					<size>16777216</size>
+					<crc>657f9606</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10295,6 +11045,81 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>圣魔之光石孩子版</name>
+				<comment>2.0</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>972 - 圣魔之光石孩子版</name>
+					<size>16939360</size>
+					<crc>68c0ae78</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石巴拉那之改版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>929 - 圣魔之光石巴拉那之改版</name>
+					<size>16778240</size>
+					<crc>ee14f542</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石新的国王</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>976 - 圣魔之光石新的国王</name>
+					<size>16777216</size>
+					<crc>babe3584</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石无等级版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>968 - 圣魔之光石无等级版</name>
+					<size>18388268</size>
+					<crc>9b8ec9d9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之光石晚夕版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>969 - 圣魔之光石晚夕版</name>
+					<size>16777216</size>
+					<crc>705f679d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>圣魔之光石最后修改版</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10310,6 +11135,96 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>圣魔之光石精修版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>868 - 圣魔之光石精修版</name>
+					<size>16777216</size>
+					<crc>76532a14</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之公主的逆袭</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>984 - 圣魔之公主的逆袭</name>
+					<size>20971520</size>
+					<crc>bf03bf90</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之战</name>
+				<comment>修复版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>909 - 圣魔之战</name>
+					<size>24413620</size>
+					<crc>fa6a203a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之渣新成长记</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>967 - 圣魔之渣新成长记</name>
+					<size>16877216</size>
+					<crc>11f17402</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之王者的复仇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>966 - 圣魔之王者的复仇</name>
+					<size>20971520</size>
+					<crc>4284723f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔之飞龙的世界</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>908 - 圣魔之飞龙的世界</name>
+					<size>20971520</size>
+					<crc>8a1970b6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>圣魔之魔物军团最终版</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10320,6 +11235,66 @@
 					<name>796 - 圣魔之魔物军团最终版</name>
 					<size>16777216</size>
 					<crc>03987441</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔光石 马修已</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>982 - 圣魔光石 马修已</name>
+					<size>18807972</size>
+					<crc>30e212d7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔光石(烈火改)自改版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>938 - 圣魔光石(烈火改)自改版</name>
+					<size>20426668</size>
+					<crc>9c28e397</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔光石IS</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>912 - 圣魔光石IS</name>
+					<size>21501708</size>
+					<crc>525bab37</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>圣魔光石魔物职业混合版</name>
+				<comment>1.5</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>983 - 圣魔光石魔物职业混合版</name>
+					<size>16778240</size>
+					<crc>58b4a6c8</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10370,6 +11345,51 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>多拉基亚776GBA复刻版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>870 - 多拉基亚776GBA复刻版</name>
+					<size>33327848</size>
+					<crc>3ee35095</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>天地之月</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>957 - 天地之月</name>
+					<size>16777216</size>
+					<crc>ba12e1a4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>天王之战</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>838 - 天王之战</name>
+					<size>16777216</size>
+					<crc>ffbd4892</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>奇怪的改版</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10395,6 +11415,111 @@
 					<name>420 - 女王の剣 (Queen’s Sword)</name>
 					<size>33554432</size>
 					<crc>658dc7e3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>女皇的复仇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>945 - 女皇的复仇</name>
+					<size>16777216</size>
+					<crc>81b20b66</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>女神的救赎重置版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>845 - 女神的救赎重置版</name>
+					<size>33000160</size>
+					<crc>c0e36c50</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>女神的救赎重置版（固定加点）</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>846 - 女神的救赎重置版（固定加点）</name>
+					<size>33001600</size>
+					<crc>3c8e4a20</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>完整版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>897 - 完整版</name>
+					<size>16777216</size>
+					<crc>a010b1ca</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>宿命交锋</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>940 - 宿命交锋</name>
+					<size>21207896</size>
+					<crc>fd716da0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>宿命传说</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>843 - 宿命传说</name>
+					<size>24664964</size>
+					<crc>7454de30</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>寂世</name>
+				<comment>0.03</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>890 - 寂世</name>
+					<size>33554428</size>
+					<crc>395ac70c</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10445,6 +11570,351 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>封印丧心病狂</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>932 - 封印丧心病狂</name>
+					<size>8388608</size>
+					<crc>8b70be90</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑 @浪</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>933 - 封印之剑 @浪</name>
+					<size>8388608</size>
+					<crc>478cfa46</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑 美丽改版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>931 - 封印之剑 美丽改版</name>
+					<size>8388608</size>
+					<crc>bef89cf2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑 重生</name>
+				<comment>1.20</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>927 - 封印之剑 重生</name>
+					<size>8388608</size>
+					<crc>d6241e80</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑if</name>
+				<comment>完结v1.2</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>914 - 封印之剑if</name>
+					<size>28507884</size>
+					<crc>18d44fea</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑re英雄王传说</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>875 - 封印之剑re英雄王传说</name>
+					<size>33554432</size>
+					<crc>364be0dd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑修改后</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>936 - 封印之剑修改后</name>
+					<size>8388608</size>
+					<crc>d5259176</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印之剑国王版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>975 - 封印之剑国王版</name>
+					<size>10415546</size>
+					<crc>f7bee1fa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印加强版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>928 - 封印加强版</name>
+					<size>8388608</size>
+					<crc>5979b3ae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>封印的竹光</name>
+				<comment>完结技能版修复001</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>814 - 封印的竹光</name>
+					<size>25830312</size>
+					<crc>5d65f64b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>屠神之星</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>877 - 屠神之星</name>
+					<size>18274940</size>
+					<crc>dad5f1c9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>帝·鲁尼之剑</name>
+				<comment>改正</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>974 - 帝·鲁尼之剑</name>
+					<size>16777216</size>
+					<crc>cd07df67</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>帝国除魔战争</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>879 - 帝国除魔战争</name>
+					<size>17972796</size>
+					<crc>73981433</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>幸运的七色花</name>
+				<comment>2篇章完结最终修复版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>884 - 幸运的七色花</name>
+					<size>33554432</size>
+					<crc>d497bd48</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>幻想烈火传</name>
+				<comment>1.7修复版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>833 - 幻想烈火传</name>
+					<size>31445952</size>
+					<crc>4fcc4e9a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>幽影华尔兹</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>811 - 幽影华尔兹</name>
+					<size>25919968</size>
+					<crc>c37960cd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>异界旅者</name>
+				<comment>鸟篇完结</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>881 - 异界旅者</name>
+					<size>25891756</size>
+					<crc>5b1de0b8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>强大的女皇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>905 - 强大的女皇</name>
+					<size>16777216</size>
+					<crc>4b4086ff</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>放开那个魔王</name>
+				<comment>前8章测试版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>900 - 放开那个魔王</name>
+					<size>19019252</size>
+					<crc>38f11041</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新公主同盟</name>
+				<comment>完结版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>925 - 新公主同盟</name>
+					<size>22946116</size>
+					<crc>bb40f18a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新圣火微章</name>
+				<comment>修复版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>921 - 新圣火微章</name>
+					<size>27446884</size>
+					<crc>20c552d6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新封神传奇</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>943 - 新封神传奇</name>
+					<size>18576652</size>
+					<crc>738d53da</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新烈火之剑简单版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>922 - 新烈火之剑简单版</name>
+					<size>17301504</size>
+					<crc>30e3e535</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>新烈火勇者的阔斧</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10460,6 +11930,216 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>新的改版（圣魔）</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>958 - 新的改版（圣魔）</name>
+					<size>20971520</size>
+					<crc>e4708bc6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新逆封印之剑（最骚改版）</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>895 - 新逆封印之剑（最骚改版）</name>
+					<size>18582592</size>
+					<crc>1e2c7ade</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>旅程</name>
+				<comment>0.3</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>917 - 旅程</name>
+					<size>20442448</size>
+					<crc>91930108</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>无敌刺客版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>955 - 无敌刺客版</name>
+					<size>16777216</size>
+					<crc>6222f431</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时光战纪上</name>
+				<comment>完结修复</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>831 - 时光战纪上</name>
+					<size>33279872</size>
+					<crc>29738e88</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时光战纪下</name>
+				<comment>完结修复</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>832 - 时光战纪下</name>
+					<size>27484372</size>
+					<crc>2106bdc7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时空与乱斗</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>919 - 时空与乱斗</name>
+					<size>21932096</size>
+					<crc>6b545e1b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时空的咆哮</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>885 - 时空的咆哮</name>
+					<size>28798752</size>
+					<crc>cef50cd5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时空的羁绊</name>
+				<comment>0.25</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>836 - 时空的羁绊</name>
+					<size>17595116</size>
+					<crc>f91db891</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>时间之石</name>
+				<comment>1.15</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>880 - 时间之石</name>
+					<size>27554636</size>
+					<crc>03a578a3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>明与宵之章</name>
+				<comment>beta0.2版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>865 - 明与宵之章</name>
+					<size>27254088</size>
+					<crc>e57890af</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>星痕改版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>949 - 星痕改版</name>
+					<size>18868356</size>
+					<crc>baaba5c7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>智慧的结晶</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>804 - 智慧的结晶</name>
+					<size>17822480</size>
+					<crc>de4128f9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>暗之彼方</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>866 - 暗之彼方</name>
+					<size>33113720</size>
+					<crc>d348549a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>暗之魔女</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10470,6 +12150,96 @@
 					<name>783 - 暗之魔女</name>
 					<size>18874368</size>
 					<crc>5f847710</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>暗黑の黎明</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>806 - 暗黑の黎明</name>
+					<size>24837392</size>
+					<crc>a387b295</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>最帅修改 圣魔新地图</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>951 - 最帅修改 圣魔新地图</name>
+					<size>16777216</size>
+					<crc>24eadfef</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>最帅出品 圣邪地狱篇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>950 - 最帅出品 圣邪地狱篇</name>
+					<size>16777300</size>
+					<crc>6843b393</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>最帅改版 封印无敌篇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>934 - 最帅改版 封印无敌篇</name>
+					<size>10415546</size>
+					<crc>f1787236</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>最帅新做 圣魔召唤篇</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>946 - 最帅新做 圣魔召唤篇</name>
+					<size>18388268</size>
+					<crc>7f3e78fc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>最终的噩梦</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>965 - 最终的噩梦</name>
+					<size>16777216</size>
+					<crc>dd52bae7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10505,6 +12275,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>木叶战记</name>
+				<comment>修复版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>906 - 木叶战记</name>
+					<size>22802384</size>
+					<crc>1c9af3d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>杰哥新复仇 元旦福利版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>979 - 杰哥新复仇 元旦福利版</name>
+					<size>17613360</size>
+					<crc>dafdb65b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>杰哥的复仇</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10535,6 +12335,81 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>某不知名改版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>859 - 某不知名改版</name>
+					<size>30530508</size>
+					<crc>10aa75ac</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>次元の幻想</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>913 - 次元の幻想</name>
+					<size>16877216</size>
+					<crc>0b9ae87a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>死灵复生2</name>
+				<comment>1.2.9</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>840 - 死灵复生2</name>
+					<size>21288008</size>
+					<crc>72c9caf7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>死灵复生</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>986 - 死灵复生</name>
+					<size>16778240</size>
+					<crc>a5c39099</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>流浪公主</name>
+				<comment>15章阉割完结版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>858 - 流浪公主</name>
+					<size>29583392</size>
+					<crc>c5707104</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>火焰纹章 挑战0.1地狱模式</name>
 				<comment />
 				<publisher>Fan Modding</publisher>
@@ -10560,6 +12435,21 @@
 					<name>788 - 火焰纹章 挑战0</name>
 					<size>17919848</size>
 					<crc>2230351d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>火纹三国</name>
+				<comment>9章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>847 - 火纹三国</name>
+					<size>27345504</size>
+					<crc>d5c254e8</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10730,6 +12620,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>烈火之剑火龙之怒</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>937 - 烈火之剑火龙之怒</name>
+					<size>16777216</size>
+					<crc>bec9321a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>烈火极限对战</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10745,6 +12650,216 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>烈火系谱乱入高必杀版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>941 - 烈火系谱乱入高必杀版</name>
+					<size>17825792</size>
+					<crc>4b0e82a0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>王之誓约</name>
+				<comment>4.2</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>856 - 王之誓约</name>
+					<size>33164648</size>
+					<crc>e5ba4301</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>王子</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>947 - 王子</name>
+					<size>16922452</size>
+					<crc>634fe88a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>玩不下去的圣魔</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>954 - 玩不下去的圣魔</name>
+					<size>16777216</size>
+					<crc>a4de5b6c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>疾风的勇王</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>907 - 疾风的勇王</name>
+					<size>16777216</size>
+					<crc>e30f64fd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>直到遇见你</name>
+				<comment>完结002</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>876 - 直到遇见你</name>
+					<size>31957948</size>
+					<crc>d93aa3a6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>真♂圣魔之光石</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>952 - 真♂圣魔之光石</name>
+					<size>16777216</size>
+					<crc>23bf26ed</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>祈悠之月</name>
+				<comment>正式版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>878 - 祈悠之月</name>
+					<size>33554432</size>
+					<crc>3625756a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>神光之公主</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>822 - 神光之公主</name>
+					<size>22451192</size>
+					<crc>0771cf0c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>神光女线</name>
+				<comment>最终完结</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>915 - 神光女线</name>
+					<size>21354600</size>
+					<crc>bff6ec2f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>神兵无双</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>826 - 神兵无双</name>
+					<size>21464504</size>
+					<crc>1ebafc19</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>神魂之绯石</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>904 - 神魂之绯石</name>
+					<size>16777216</size>
+					<crc>8c2a8d70</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>秩序之剑</name>
+				<comment>DEMO2022-1-17</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>898 - 秩序之剑</name>
+					<size>22683944</size>
+					<crc>1dc6ffb7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>童子军</name>
+				<comment>V2.2</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>835 - 童子军</name>
+					<size>18672992</size>
+					<crc>5831a5cc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>第二梦</name>
 				<comment />
 				<publisher>Fan Modding</publisher>
@@ -10755,6 +12870,96 @@
 					<name>784 - 第二梦</name>
 					<size>33554431</size>
 					<crc>1ada9fe3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>粗鄙的我</name>
+				<comment>特制版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>834 - 粗鄙的我</name>
+					<size>30229972</size>
+					<crc>3f5c8fc7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>红月Z</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>901 - 红月Z</name>
+					<size>33554432</size>
+					<crc>b5729868</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>红月第一部</name>
+				<comment>完结最终版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>902 - 红月第一部</name>
+					<size>33554432</size>
+					<crc>92a16c4b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>结局</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>892 - 结局</name>
+					<size>26605304</size>
+					<crc>ab9ed24b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>绝望游戏</name>
+				<comment>完结</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>893 - 绝望游戏</name>
+					<size>26201932</size>
+					<crc>1152edce</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>绯红之章</name>
+				<comment>完结修复005</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>830 - 绯红之章</name>
+					<size>33111688</size>
+					<crc>b5fab1af</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10820,6 +13025,351 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>能勉强玩的下去的圣魔</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>981 - 能勉强玩的下去的圣魔</name>
+					<size>16777216</size>
+					<crc>d90e4bc3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>舞撩烈火之断牙之痛</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>924 - 舞撩烈火之断牙之痛</name>
+					<size>19437920</size>
+					<crc>44416773</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>花开于漠</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>841 - 花开于漠</name>
+					<size>20968000</size>
+					<crc>8f7e5642</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>苍月传重置版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>920 - 苍月传重置版</name>
+					<size>24235944</size>
+					<crc>f33463e7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>苍炎乱入版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>869 - 苍炎乱入版</name>
+					<size>19922944</size>
+					<crc>dc7bbd0c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>苍炎的勇者</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>848 - 苍炎的勇者</name>
+					<size>32668748</size>
+					<crc>00ee59e6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>英雄世界</name>
+				<comment>3.0</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>857 - 英雄世界</name>
+					<size>33433540</size>
+					<crc>e889fa3a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>英雄的挑战</name>
+				<comment>完结</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>887 - 英雄的挑战</name>
+					<size>26018900</size>
+					<crc>8241e45e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>英雄的黎明ED-Ver8黎明盡頭（A）</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>807 - 英雄的黎明ED-Ver8黎明盡頭（A）</name>
+					<size>33493848</size>
+					<crc>f69edfe4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>英雄的黎明ED-Ver8黎明盡頭（J）</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>808 - 英雄的黎明ED-Ver8黎明盡頭（J）</name>
+					<size>32777920</size>
+					<crc>8db1cda1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>英雄的黎明ED-简易修复版（A+J）</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>809 - 英雄的黎明ED-简易修复版（A+J）</name>
+					<size>33411816</size>
+					<crc>f752202f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>虚空之魂</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>805 - 虚空之魂</name>
+					<size>31816536</size>
+					<crc>a10d3741</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>血族再生</name>
+				<comment>圣诞大作战汉化版V1.1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>873 - 血族再生</name>
+					<size>16972040</size>
+					<crc>34e72f95</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>血族家族</name>
+				<comment>1.0试玩版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>961 - 血族家族</name>
+					<size>16972040</size>
+					<crc>629ba120</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>衫雨初空</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>839 - 衫雨初空</name>
+					<size>17202772</size>
+					<crc>c3af7709</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>西克斯の最终版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>956 - 西克斯の最终版</name>
+					<size>16777216</size>
+					<crc>ce656409</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>西克斯の最终版（重甲三角）</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>948 - 西克斯の最终版（重甲三角）</name>
+					<size>16777216</size>
+					<crc>f1b6214f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>西克斯烈火</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>801 - 西克斯烈火</name>
+					<size>20347892</size>
+					<crc>1b1668fa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>誓约传说</name>
+				<comment>更9章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>899 - 誓约传说</name>
+					<size>23814716</size>
+					<crc>68be4ab9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>逆反圣魔</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>821 - 逆反圣魔</name>
+					<size>28266452</size>
+					<crc>f9c6a3fe</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>逆反圣魔番外传</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>844 - 逆反圣魔番外传</name>
+					<size>28607756</size>
+					<crc>26e8522d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>逆圣魔之光石</name>
+				<comment>目前第一章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>918 - 逆圣魔之光石</name>
+					<size>19131208</size>
+					<crc>acbc1952</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>逆封印之剑</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>882 - 逆封印之剑</name>
+					<size>8400800</size>
+					<crc>4322f8d3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>逆烈火之剑</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10830,6 +13380,21 @@
 					<name>738 - 逆烈火之剑</name>
 					<size>16777216</size>
 					<crc>1dad8b96</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>逆转月痕</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>916 - 逆转月痕</name>
+					<size>18512580</size>
+					<crc>18848ff4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10850,16 +13415,106 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>逆风的小强</name>
+				<name>逆风之小强</name>
+				<comment>最终版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>792 - 逆风之小强</name>
+					<size>18780940</size>
+					<crc>74acbe7e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>选召者们</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>842 - 选召者们</name>
+					<size>20789272</size>
+					<crc>23974ff1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>选召者们IF</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>910 - 选召者们IF</name>
+					<size>21967880</size>
+					<crc>c8cbdb1e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>选召者们完结更新1.1</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>911 - 选召者们完结更新1</name>
+					<size>21856700</size>
+					<crc>e0020fab</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>重置竹光</name>
+				<comment>20211120第三章开始1618</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>813 - 重置竹光</name>
+					<size>32227848</size>
+					<crc>9d1ccda8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>锋哥的复仇</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>792 - 逆风的小强</name>
-					<size>18780940</size>
-					<crc>49549fa3</crc>
+					<name>935 - 锋哥的复仇</name>
+					<size>8388608</size>
+					<crc>6dda6eab</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>错乱的时间</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>973 - 错乱的时间</name>
+					<size>20971520</size>
+					<crc>223668f4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10970,6 +13625,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>鬼鬼专属</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>926 - 鬼鬼专属</name>
+					<size>24759364</size>
+					<crc>307fb47e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>魔之暗</name>
+				<comment>1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>883 - 魔之暗</name>
+					<size>19044148</size>
+					<crc>48e54442</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>魔幻封神</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -10980,6 +13665,51 @@
 					<name>737 - 魔幻封神</name>
 					<size>18388264</size>
 					<crc>ee865884</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>魔物变态版</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>980 - 魔物变态版</name>
+					<size>16777216</size>
+					<crc>2865e7d9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>魔物狩猎者</name>
+				<comment>双线完全修改版</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>971 - 魔物狩猎者</name>
+					<size>16777216</size>
+					<crc>e26f95c8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>麻烦制造者</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>894 - 麻烦制造者</name>
+					<size>17914508</size>
+					<crc>27a0fd3e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11030,6 +13760,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>黑暗复苏</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>959 - 黑暗复苏</name>
+					<size>16777216</size>
+					<crc>0ea7fb9d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>黑暗无双</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>803 - 黑暗无双</name>
+					<size>17008656</size>
+					<crc>7e7ef874</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>黑暗的指引</name>
 				<comment />
 				<publisher>Fan Modding</publisher>
@@ -11040,6 +13800,36 @@
 					<name>785 - 黑暗的指引</name>
 					<size>17825792</size>
 					<crc>ac009a17</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>黑暗轮回者-006最终版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>855 - 黑暗轮回者-006最终版</name>
+					<size>32267124</size>
+					<crc>4188cf4b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>黑暗轮回者-007优化简单版</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>854 - 黑暗轮回者-007优化简单版</name>
+					<size>32270164</size>
+					<crc>48d59dbf</crc>
 				</datitem>
 			</files>
 		</directory>

@@ -9,6 +9,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="0的逆圣魔">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="2 Princesses (English Translation)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -22,6 +30,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="183 - 2 Princesses (二人の王女)" size="24646064" crc="44f08e5b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="21关开始-封印之剑">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="930 - 21关开始-封印之剑" size="8388608" crc="75da6fb9" />
 			</dataarea>
 		</part>
 	</software>
@@ -513,6 +529,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Clash of Fates">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="939 - Clash of Fates" size="16832828" crc="1637f575" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Clendo's 1h Blitz - Faltharian Heist">
 		<publisher>Blitz</publisher>
 		<part name="" interface="">
@@ -790,6 +814,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="338 - Devourer of Time (Normal mode)" size="16818224" crc="200f63aa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Devourer of Worlds">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="903 - Devourer of Worlds" size="16891404" crc="b72f5a94" />
 			</dataarea>
 		</part>
 	</software>
@@ -2062,11 +2094,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8女版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="977 - FE8女版" size="16898520" crc="7f66973d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8改造">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="706 - FE8改造" size="16777216" crc="616dfbb4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE16RE">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="812 - FE16RE" size="16777216" crc="d1d36019" />
 			</dataarea>
 		</part>
 	</software>
@@ -2414,6 +2462,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Justice and Pride (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="827 - Fire Emblem - Justice and Pride (Chinese Translation)" size="27407516" crc="3c5e7160" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Order of the Crimson Arm">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2491,14 +2547,6 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]" size="16777216" crc="7aef4edc" />
-			</dataarea>
-		</part>
-	</software>
-	<software name="Fire Emblem - Saving Christmas">
-		<publisher>Fan Modding</publisher>
-		<part name="" interface="">
-			<dataarea name="rom">
-				<rom name="568 - Fire Emblem - Saving Christmas" size="18449388" crc="5afd94b1" />
 			</dataarea>
 		</part>
 	</software>
@@ -3011,6 +3059,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="527 - Human Armory" size="16784272" crc="90b0a9a5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="IF禁忌">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="810 - IF禁忌" size="19896368" crc="32934a7b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="IF禁忌 - 十六夜">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="820 - IF禁忌 - 十六夜" size="27691692" crc="b95e4efb" />
 			</dataarea>
 		</part>
 	</software>
@@ -4206,6 +4270,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Saving Christmas">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="568 - Saving Christmas" size="18449388" crc="5afd94b1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Saving Christmas (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="872 - Saving Christmas (Chinese Translation)" size="19442516" crc="efdbe109" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Scarlet Rising">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4654,6 +4734,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Burdened Crown (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="851 - The Burdened Crown (Chinese Translation)" size="24029140" crc="3089e40a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Christmas Blitz">
 		<publisher>Blitz</publisher>
 		<part name="" interface="">
@@ -4723,6 +4811,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="428 - The Eligor’s Spear" size="24776684" crc="20426aa9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Eligor’s Spear (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="871 - The Eligor’s Spear (Chinese Translation)" size="25809240" crc="81d49d3e" />
 			</dataarea>
 		</part>
 	</software>
@@ -4811,6 +4907,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="105 - The Last Promise (Chaos Mode DEMO)" size="32446048" crc="365cf432" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="819 - The Last Promise (Chinese Translation)" size="33340904" crc="68b22f19" />
 			</dataarea>
 		</part>
 	</software>
@@ -5003,6 +5107,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)" size="33531452" crc="c5c281e7" />
 			</dataarea>
 		</part>
 	</software>
@@ -5374,6 +5486,86 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="不知名改版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="860 - 不知名改版" size="25166900" crc="a347d734" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="东方苍神缘起无印大神版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="828 - 东方苍神缘起无印大神版" size="23055512" crc="d0954d10" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="东方苍神缘起无印平民版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="829 - 东方苍神缘起无印平民版" size="23016040" crc="46b02c58" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="东方苍神缘起残暑大神版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="850 - 东方苍神缘起残暑大神版" size="27038084" crc="b23ea3b9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="东方苍神缘起残暑平民版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="849 - 东方苍神缘起残暑平民版" size="27040524" crc="5a02d5b4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="主角大联盟">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="863 - 主角大联盟" size="30134392" crc="09fb7e5d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="主角大联盟完结版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="888 - 主角大联盟完结版" size="27805428" crc="5001696d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="主角大联盟超高难度">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="889 - 主角大联盟超高难度" size="27557216" crc="0975e53d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="僵尸道长">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="光明的救赎">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="874 - 光明的救赎" size="29117088" crc="8321f5d3" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="六写封神">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5382,11 +5574,147 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="再渡雄起">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="944 - 再渡雄起" size="17825792" crc="595e735f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="冰焰灵境">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="824 - 冰焰灵境" size="17779304" crc="58c4f4bc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="冰焰雪莉">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="825 - 冰焰雪莉" size="24355492" crc="3859dd97" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="冰风烈焰">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="823 - 冰风烈焰" size="27852748" crc="e60b3691" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="勇者天下">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="953 - 勇者天下" size="16777216" crc="01d7b03b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="半成品">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="896 - 半成品" size="22072704" crc="1f1f8988" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="召唤师2.0中秋限定版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="942 - 召唤师2" size="26095224" crc="5865db9c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="召唤师">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="864 - 召唤师" size="25077656" crc="4f89c557" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="名も無き英雄">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="447 - 名も無き英雄" size="29840204" crc="b9a6e9c7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="后宫战纪">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="818 - 后宫战纪" size="31942288" crc="74352ac4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="后宫战纪全人物平衡版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="862 - 后宫战纪全人物平衡版" size="32070988" crc="4b5ef030" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="后宫战纪新修版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="817 - 后宫战纪新修版" size="31979420" crc="de942803" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="后宫战纪新编版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="816 - 后宫战纪新编版" size="33500920" crc="f2ae9e8f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="命运">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="861 - 命运" size="22296164" crc="3dc1ca38" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="四大魔王">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="960 - 四大魔王" size="16777216" crc="32485799" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="回忆都去哪了">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="837 - 回忆都去哪了" size="18501884" crc="f4b8b913" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣光之义友军">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="978 - 圣光之义友军" size="17825792" crc="aa119a5c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣光之战">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="802 - 圣光之战" size="30783480" crc="a3e52600" />
 			</dataarea>
 		</part>
 	</software>
@@ -5422,11 +5750,83 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="圣兵风云录">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="923 - 圣兵风云录" size="25911312" crc="0a85f774" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣王的刃与诗">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="891 - 圣王的刃与诗" size="17668068" crc="84703d5b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="圣邪之意志配色版">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="797 - 圣邪之意志配色版" size="16777216" crc="172720d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣邪的意志1.4冰剑">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="964 - 圣邪的意志1" size="16777216" crc="44baaa73" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣邪的意志  最帅修改终极版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="962 - 圣邪的意志  最帅修改终极版" size="16777216" crc="ec8def8b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣邪的意志 风之刃">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="963 - 圣邪的意志 风之刃" size="16777216" crc="221d31c4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔F版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="867 - 圣魔F版" size="20352452" crc="b7b978d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔IF破晓">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="852 - 圣魔IF破晓" size="32667416" crc="f8185593" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石 魔物版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="985 - 圣魔之光石 魔物版" size="16778240" crc="19346fbb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石-苍天龙骑士版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="970 - 圣魔之光石-苍天龙骑士版" size="16777216" crc="657f9606" />
 			</dataarea>
 		</part>
 	</software>
@@ -5438,6 +5838,46 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="圣魔之光石孩子版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="972 - 圣魔之光石孩子版" size="16939360" crc="68c0ae78" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石巴拉那之改版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="929 - 圣魔之光石巴拉那之改版" size="16778240" crc="ee14f542" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石新的国王">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="976 - 圣魔之光石新的国王" size="16777216" crc="babe3584" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石无等级版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="968 - 圣魔之光石无等级版" size="18388268" crc="9b8ec9d9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之光石晚夕版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="969 - 圣魔之光石晚夕版" size="16777216" crc="705f679d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="圣魔之光石最后修改版">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5446,11 +5886,91 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="圣魔之光石精修版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="868 - 圣魔之光石精修版" size="16777216" crc="76532a14" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之公主的逆袭">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="984 - 圣魔之公主的逆袭" size="20971520" crc="bf03bf90" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之战">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="909 - 圣魔之战" size="24413620" crc="fa6a203a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之渣新成长记">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="967 - 圣魔之渣新成长记" size="16877216" crc="11f17402" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之王者的复仇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="966 - 圣魔之王者的复仇" size="20971520" crc="4284723f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔之飞龙的世界">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="908 - 圣魔之飞龙的世界" size="20971520" crc="8a1970b6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="圣魔之魔物军团最终版">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="796 - 圣魔之魔物军团最终版" size="16777216" crc="03987441" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔光石 马修已">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="982 - 圣魔光石 马修已" size="18807972" crc="30e212d7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔光石(烈火改)自改版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="938 - 圣魔光石(烈火改)自改版" size="20426668" crc="9c28e397" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔光石IS">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="912 - 圣魔光石IS" size="21501708" crc="525bab37" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="圣魔光石魔物职业混合版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="983 - 圣魔光石魔物职业混合版" size="16778240" crc="58b4a6c8" />
 			</dataarea>
 		</part>
 	</software>
@@ -5478,6 +5998,30 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="多拉基亚776GBA复刻版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="870 - 多拉基亚776GBA复刻版" size="33327848" crc="3ee35095" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="天地之月">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="957 - 天地之月" size="16777216" crc="ba12e1a4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="天王之战">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="838 - 天王之战" size="16777216" crc="ffbd4892" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="奇怪的改版">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5491,6 +6035,62 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="420 - 女王の剣 (Queen’s Sword)" size="33554432" crc="658dc7e3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="女皇的复仇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="945 - 女皇的复仇" size="16777216" crc="81b20b66" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="女神的救赎重置版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="845 - 女神的救赎重置版" size="33000160" crc="c0e36c50" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="女神的救赎重置版（固定加点）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="846 - 女神的救赎重置版（固定加点）" size="33001600" crc="3c8e4a20" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="完整版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="897 - 完整版" size="16777216" crc="a010b1ca" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="宿命交锋">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="940 - 宿命交锋" size="21207896" crc="fd716da0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="宿命传说">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="843 - 宿命传说" size="24664964" crc="7454de30" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="寂世">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="890 - 寂世" size="33554428" crc="395ac70c" />
 			</dataarea>
 		</part>
 	</software>
@@ -5518,6 +6118,190 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="封印丧心病狂">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="932 - 封印丧心病狂" size="8388608" crc="8b70be90" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑 @浪">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="933 - 封印之剑 @浪" size="8388608" crc="478cfa46" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑 美丽改版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="931 - 封印之剑 美丽改版" size="8388608" crc="bef89cf2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑 重生">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="927 - 封印之剑 重生" size="8388608" crc="d6241e80" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑if">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="914 - 封印之剑if" size="28507884" crc="18d44fea" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑re英雄王传说">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="875 - 封印之剑re英雄王传说" size="33554432" crc="364be0dd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑修改后">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="936 - 封印之剑修改后" size="8388608" crc="d5259176" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印之剑国王版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="975 - 封印之剑国王版" size="10415546" crc="f7bee1fa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印加强版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="928 - 封印加强版" size="8388608" crc="5979b3ae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="封印的竹光">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="814 - 封印的竹光" size="25830312" crc="5d65f64b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="屠神之星">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="877 - 屠神之星" size="18274940" crc="dad5f1c9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="帝·鲁尼之剑">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="974 - 帝·鲁尼之剑" size="16777216" crc="cd07df67" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="帝国除魔战争">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="879 - 帝国除魔战争" size="17972796" crc="73981433" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="幸运的七色花">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="884 - 幸运的七色花" size="33554432" crc="d497bd48" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="幻想烈火传">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="833 - 幻想烈火传" size="31445952" crc="4fcc4e9a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="幽影华尔兹">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="811 - 幽影华尔兹" size="25919968" crc="c37960cd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="异界旅者">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="881 - 异界旅者" size="25891756" crc="5b1de0b8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="强大的女皇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="905 - 强大的女皇" size="16777216" crc="4b4086ff" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="放开那个魔王">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新公主同盟">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="925 - 新公主同盟" size="22946116" crc="bb40f18a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新圣火微章">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="921 - 新圣火微章" size="27446884" crc="20c552d6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新封神传奇">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="943 - 新封神传奇" size="18576652" crc="738d53da" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新烈火之剑简单版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="922 - 新烈火之剑简单版" size="17301504" crc="30e3e535" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="新烈火勇者的阔斧">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5526,11 +6310,171 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="新的改版（圣魔）">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="958 - 新的改版（圣魔）" size="20971520" crc="e4708bc6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新逆封印之剑（最骚改版）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="895 - 新逆封印之剑（最骚改版）" size="18582592" crc="1e2c7ade" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="旅程">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="917 - 旅程" size="20442448" crc="91930108" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="无敌刺客版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="955 - 无敌刺客版" size="16777216" crc="6222f431" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时光战纪上">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="831 - 时光战纪上" size="33279872" crc="29738e88" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时光战纪下">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="832 - 时光战纪下" size="27484372" crc="2106bdc7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时空与乱斗">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="919 - 时空与乱斗" size="21932096" crc="6b545e1b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时空的咆哮">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="885 - 时空的咆哮" size="28798752" crc="cef50cd5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时空的羁绊">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="836 - 时空的羁绊" size="17595116" crc="f91db891" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="时间之石">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="880 - 时间之石" size="27554636" crc="03a578a3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="明与宵之章">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="865 - 明与宵之章" size="27254088" crc="e57890af" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="星痕改版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="949 - 星痕改版" size="18868356" crc="baaba5c7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="智慧的结晶">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="804 - 智慧的结晶" size="17822480" crc="de4128f9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="暗之彼方">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="866 - 暗之彼方" size="33113720" crc="d348549a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="暗之魔女">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="783 - 暗之魔女" size="18874368" crc="5f847710" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="暗黑の黎明">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="最帅修改 圣魔新地图">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="最帅出品 圣邪地狱篇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="950 - 最帅出品 圣邪地狱篇" size="16777300" crc="6843b393" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="最帅改版 封印无敌篇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="934 - 最帅改版 封印无敌篇" size="10415546" crc="f1787236" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="最帅新做 圣魔召唤篇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="946 - 最帅新做 圣魔召唤篇" size="18388268" crc="7f3e78fc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="最终的噩梦">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="965 - 最终的噩梦" size="16777216" crc="dd52bae7" />
 			</dataarea>
 		</part>
 	</software>
@@ -5550,6 +6494,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="木叶战记">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="906 - 木叶战记" size="22802384" crc="1c9af3d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="杰哥新复仇 元旦福利版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="979 - 杰哥新复仇 元旦福利版" size="17613360" crc="dafdb65b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="杰哥的复仇">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5566,6 +6526,46 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="某不知名改版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="859 - 某不知名改版" size="30530508" crc="10aa75ac" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="次元の幻想">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="913 - 次元の幻想" size="16877216" crc="0b9ae87a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="死灵复生2">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="840 - 死灵复生2" size="21288008" crc="72c9caf7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="死灵复生">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="986 - 死灵复生" size="16778240" crc="a5c39099" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="流浪公主">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="858 - 流浪公主" size="29583392" crc="c5707104" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="火焰纹章 挑战0.1地狱模式">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5579,6 +6579,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="788 - 火焰纹章 挑战0" size="17919848" crc="2230351d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="火纹三国">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="847 - 火纹三国" size="27345504" crc="d5c254e8" />
 			</dataarea>
 		</part>
 	</software>
@@ -5670,6 +6678,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="烈火之剑火龙之怒">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="937 - 烈火之剑火龙之怒" size="16777216" crc="bec9321a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="烈火极限对战">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5678,11 +6694,171 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="烈火系谱乱入高必杀版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="941 - 烈火系谱乱入高必杀版" size="17825792" crc="4b0e82a0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="王之誓约">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="856 - 王之誓约" size="33164648" crc="e5ba4301" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="王子">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="947 - 王子" size="16922452" crc="634fe88a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="玩不下去的圣魔">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="954 - 玩不下去的圣魔" size="16777216" crc="a4de5b6c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="疾风的勇王">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="907 - 疾风的勇王" size="16777216" crc="e30f64fd" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="直到遇见你">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="876 - 直到遇见你" size="31957948" crc="d93aa3a6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="真♂圣魔之光石">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="952 - 真♂圣魔之光石" size="16777216" crc="23bf26ed" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="祈悠之月">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="878 - 祈悠之月" size="33554432" crc="3625756a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="神光之公主">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="822 - 神光之公主" size="22451192" crc="0771cf0c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="神光女线">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="915 - 神光女线" size="21354600" crc="bff6ec2f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="神兵无双">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="826 - 神兵无双" size="21464504" crc="1ebafc19" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="神魂之绯石">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="904 - 神魂之绯石" size="16777216" crc="8c2a8d70" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="秩序之剑">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="898 - 秩序之剑" size="22683944" crc="1dc6ffb7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="童子军">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="835 - 童子军" size="18672992" crc="5831a5cc" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="第二梦">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="784 - 第二梦" size="33554431" crc="1ada9fe3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="粗鄙的我">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="834 - 粗鄙的我" size="30229972" crc="3f5c8fc7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="红月Z">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="901 - 红月Z" size="33554432" crc="b5729868" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="红月第一部">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="902 - 红月第一部" size="33554432" crc="92a16c4b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="结局">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="892 - 结局" size="26605304" crc="ab9ed24b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="绝望游戏">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="893 - 绝望游戏" size="26201932" crc="1152edce" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="绯红之章">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="830 - 绯红之章" size="33111688" crc="b5fab1af" />
 			</dataarea>
 		</part>
 	</software>
@@ -5718,11 +6894,203 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="能勉强玩的下去的圣魔">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="981 - 能勉强玩的下去的圣魔" size="16777216" crc="d90e4bc3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="舞撩烈火之断牙之痛">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="924 - 舞撩烈火之断牙之痛" size="19437920" crc="44416773" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="花开于漠">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="841 - 花开于漠" size="20968000" crc="8f7e5642" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="苍月传重置版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="920 - 苍月传重置版" size="24235944" crc="f33463e7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="苍炎乱入版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="869 - 苍炎乱入版" size="19922944" crc="dc7bbd0c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="苍炎的勇者">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="848 - 苍炎的勇者" size="32668748" crc="00ee59e6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="英雄世界">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="857 - 英雄世界" size="33433540" crc="e889fa3a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="英雄的挑战">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="887 - 英雄的挑战" size="26018900" crc="8241e45e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="英雄的黎明ED-Ver8黎明盡頭（A）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="807 - 英雄的黎明ED-Ver8黎明盡頭（A）" size="33493848" crc="f69edfe4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="英雄的黎明ED-Ver8黎明盡頭（J）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="808 - 英雄的黎明ED-Ver8黎明盡頭（J）" size="32777920" crc="8db1cda1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="英雄的黎明ED-简易修复版（A+J）">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="809 - 英雄的黎明ED-简易修复版（A+J）" size="33411816" crc="f752202f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="虚空之魂">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="805 - 虚空之魂" size="31816536" crc="a10d3741" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="血族再生">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="873 - 血族再生" size="16972040" crc="34e72f95" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="血族家族">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="961 - 血族家族" size="16972040" crc="629ba120" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="衫雨初空">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="839 - 衫雨初空" size="17202772" crc="c3af7709" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="西克斯の最终版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="956 - 西克斯の最终版" size="16777216" crc="ce656409" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="西克斯の最终版（重甲三角）">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="948 - 西克斯の最终版（重甲三角）" size="16777216" crc="f1b6214f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="西克斯烈火">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="801 - 西克斯烈火" size="20347892" crc="1b1668fa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="誓约传说">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="899 - 誓约传说" size="23814716" crc="68be4ab9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="逆反圣魔">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="821 - 逆反圣魔" size="28266452" crc="f9c6a3fe" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="逆反圣魔番外传">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="844 - 逆反圣魔番外传" size="28607756" crc="26e8522d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="逆圣魔之光石">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="918 - 逆圣魔之光石" size="19131208" crc="acbc1952" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="逆封印之剑">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="882 - 逆封印之剑" size="8400800" crc="4322f8d3" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="逆烈火之剑">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="738 - 逆烈火之剑" size="16777216" crc="1dad8b96" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="逆转月痕">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="916 - 逆转月痕" size="18512580" crc="18848ff4" />
 			</dataarea>
 		</part>
 	</software>
@@ -5734,11 +7102,59 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="逆风的小强">
+	<software name="逆风之小强">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="792 - 逆风的小强" size="18780940" crc="49549fa3" />
+				<rom name="792 - 逆风之小强" size="18780940" crc="74acbe7e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="选召者们">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="842 - 选召者们" size="20789272" crc="23974ff1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="选召者们IF">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="910 - 选召者们IF" size="21967880" crc="c8cbdb1e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="选召者们完结更新1.1">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="911 - 选召者们完结更新1" size="21856700" crc="e0020fab" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="重置竹光">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="813 - 重置竹光" size="32227848" crc="9d1ccda8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="锋哥的复仇">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="935 - 锋哥的复仇" size="8388608" crc="6dda6eab" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="错乱的时间">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="973 - 错乱的时间" size="20971520" crc="223668f4" />
 			</dataarea>
 		</part>
 	</software>
@@ -5798,11 +7214,51 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="鬼鬼专属">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="926 - 鬼鬼专属" size="24759364" crc="307fb47e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="魔之暗">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="883 - 魔之暗" size="19044148" crc="48e54442" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="魔幻封神">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="737 - 魔幻封神" size="18388264" crc="ee865884" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="魔物变态版">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="980 - 魔物变态版" size="16777216" crc="2865e7d9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="魔物狩猎者">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="971 - 魔物狩猎者" size="16777216" crc="e26f95c8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="麻烦制造者">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="894 - 麻烦制造者" size="17914508" crc="27a0fd3e" />
 			</dataarea>
 		</part>
 	</software>
@@ -5830,11 +7286,43 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="黑暗复苏">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="959 - 黑暗复苏" size="16777216" crc="0ea7fb9d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黑暗无双">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="803 - 黑暗无双" size="17008656" crc="7e7ef874" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="黑暗的指引">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="785 - 黑暗的指引" size="17825792" crc="ac009a17" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黑暗轮回者-006最终版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="855 - 黑暗轮回者-006最终版" size="32267124" crc="4188cf4b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黑暗轮回者-007优化简单版">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="854 - 黑暗轮回者-007优化简单版" size="32270164" crc="48d59dbf" />
 			</dataarea>
 		</part>
 	</software>

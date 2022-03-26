@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>730</datVersion>
+		<datVersion>916</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -63,6 +63,25 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>853 - 0的逆圣魔</title>
+			<saveType>None</saveType>
+			<romSize>20252024</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">077D94BB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>184 - 2 Princesses (English Translation)</title>
 			<saveType>None</saveType>
 			<romSize>27926780</romSize>
@@ -94,6 +113,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>http://fequeen.blog.fc2.com/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>930 - 21关开始-封印之剑</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">75DA6FB9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1199,6 +1237,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>939 - Clash of Fates</title>
+			<saveType>None</saveType>
+			<romSize>16832828</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1637F575</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>645 - Clendo's 1h Blitz - Faltharian Heist</title>
 			<saveType>None</saveType>
 			<romSize>16889240</romSize>
@@ -1824,6 +1880,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://serenesforest.net/general/translation-patches-and-hacks/blazing-sword-devourer-of-time/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>903 - Devourer of Worlds</title>
+			<saveType>None</saveType>
+			<romSize>16891404</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B72F5A94</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4721,6 +4796,25 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>977 - FE8女版</title>
+			<saveType>None</saveType>
+			<romSize>16898520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7F66973D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>706 - FE8改造</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -4735,6 +4829,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>812 - FE16RE</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D1D36019</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>DEMO</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5517,6 +5629,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>827 - Fire Emblem - Justice and Pride (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>27407516</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3C5E7160</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>正义与荣耀汉化版v1.0</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>407 - Fire Emblem - Order of the Crimson Arm</title>
 			<saveType>None</saveType>
 			<romSize>25073560</romSize>
@@ -5692,24 +5822,6 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>
-			<duplicateID></duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1</releaseNumber>
-			<title>568 - Fire Emblem - Saving Christmas</title>
-			<saveType>None</saveType>
-			<romSize>18449388</romSize>
-			<publisher>Fan Modding</publisher>
-			<location>0</location>
-			<sourceRom>None</sourceRom>
-			<language>0</language>
-			<files>
-				<romCRC extension=".">5AFD94B1</romCRC>
-			</files>
-			<im1CRC>00000000</im1CRC>
-			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6865,6 +6977,43 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>810 - IF禁忌</title>
+			<saveType>None</saveType>
+			<romSize>19896368</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">32934A7B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>v0.08体验版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>820 - IF禁忌 - 十六夜</title>
+			<saveType>None</saveType>
+			<romSize>27691692</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B95E4EFB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9555,6 +9704,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>568 - Saving Christmas</title>
+			<saveType>None</saveType>
+			<romSize>18449388</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5AFD94B1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>872 - Saving Christmas (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>19442516</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EFDBE109</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>圣诞大作战汉化版V1.1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>200 - Scarlet Rising</title>
 			<saveType>None</saveType>
 			<romSize>20488132</romSize>
@@ -10564,6 +10749,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>851 - The Burdened Crown (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>24029140</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3089E40A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>沉重的王冠汉化正式版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>782 - The Christmas Blitz</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -10722,6 +10925,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe-8-full-length-the-eligors-spear-v-1-0-release/4755</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>871 - The Eligor’s Spear (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>25809240</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">81D49D3E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>埃力格之枪V1.4完全汉化最终版v1.0</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10920,6 +11141,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>http://www.feshrine.net/thelastpromise/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>819 - The Last Promise (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>33340904</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">68B22F19</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -11352,6 +11592,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)</title>
+			<saveType>None</saveType>
+			<romSize>33531452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C5C281E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>太阳神v1.64道具技能汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12191,6 +12449,192 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>860 - 不知名改版</title>
+			<saveType>None</saveType>
+			<romSize>25166900</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A347D734</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>828 - 东方苍神缘起无印大神版</title>
+			<saveType>None</saveType>
+			<romSize>23055512</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D0954D10</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>003</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>829 - 东方苍神缘起无印平民版</title>
+			<saveType>None</saveType>
+			<romSize>23016040</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">46B02C58</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>002</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>850 - 东方苍神缘起残暑大神版</title>
+			<saveType>None</saveType>
+			<romSize>27038084</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B23EA3B9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>003</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>849 - 东方苍神缘起残暑平民版</title>
+			<saveType>None</saveType>
+			<romSize>27040524</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5A02D5B4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>863 - 主角大联盟</title>
+			<saveType>None</saveType>
+			<romSize>30134392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">09FB7E5D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>888 - 主角大联盟完结版</title>
+			<saveType>None</saveType>
+			<romSize>27805428</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5001696D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>889 - 主角大联盟超高难度</title>
+			<saveType>None</saveType>
+			<romSize>27557216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0975E53D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>886 - 僵尸道长</title>
+			<saveType>None</saveType>
+			<romSize>21486460</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7E731649</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>200406</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>874 - 光明的救赎</title>
+			<saveType>None</saveType>
+			<romSize>29117088</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8321F5D3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>753 - 六写封神</title>
 			<saveType>None</saveType>
 			<romSize>18576656</romSize>
@@ -12210,6 +12654,153 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>944 - 再渡雄起</title>
+			<saveType>None</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">595E735F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.5版最终版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>824 - 冰焰灵境</title>
+			<saveType>None</saveType>
+			<romSize>17779304</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">58C4F4BC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>0.001</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>825 - 冰焰雪莉</title>
+			<saveType>None</saveType>
+			<romSize>24355492</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3859DD97</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>二章</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>823 - 冰风烈焰</title>
+			<saveType>None</saveType>
+			<romSize>27852748</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E60B3691</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.04</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>953 - 勇者天下</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">01D7B03B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>896 - 半成品</title>
+			<saveType>None</saveType>
+			<romSize>22072704</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1F1F8988</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>942 - 召唤师2</title>
+			<saveType>None</saveType>
+			<romSize>26095224</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5865DB9C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>864 - 召唤师</title>
+			<saveType>None</saveType>
+			<romSize>25077656</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4F89C557</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.4</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>447 - 名も無き英雄</title>
 			<saveType>None</saveType>
 			<romSize>29840204</romSize>
@@ -12223,6 +12814,171 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>The Nameless Heroes</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>818 - 后宫战纪</title>
+			<saveType>None</saveType>
+			<romSize>31942288</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">74352AC4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结追加007</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>862 - 后宫战纪全人物平衡版</title>
+			<saveType>None</saveType>
+			<romSize>32070988</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4B5EF030</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>817 - 后宫战纪新修版</title>
+			<saveType>None</saveType>
+			<romSize>31979420</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DE942803</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>009</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>816 - 后宫战纪新编版</title>
+			<saveType>None</saveType>
+			<romSize>33500920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F2AE9E8F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>002</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>861 - 命运</title>
+			<saveType>None</saveType>
+			<romSize>22296164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3DC1CA38</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>3.4</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>960 - 四大魔王</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">32485799</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>837 - 回忆都去哪了</title>
+			<saveType>None</saveType>
+			<romSize>18501884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F4B8B913</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>978 - 圣光之义友军</title>
+			<saveType>None</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AA119A5C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>测试版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>802 - 圣光之战</title>
+			<saveType>None</saveType>
+			<romSize>30783480</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A3E52600</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>4.6</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12304,6 +13060,43 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>923 - 圣兵风云录</title>
+			<saveType>None</saveType>
+			<romSize>25911312</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0A85F774</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>891 - 圣王的刃与诗</title>
+			<saveType>None</saveType>
+			<romSize>17668068</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">84703D5B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>第二章</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>797 - 圣邪之意志配色版</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -12313,6 +13106,138 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">172720D5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>964 - 圣邪的意志1</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">44BAAA73</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>962 - 圣邪的意志  最帅修改终极版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EC8DEF8B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>963 - 圣邪的意志 风之刃</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">221D31C4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>867 - 圣魔F版</title>
+			<saveType>None</saveType>
+			<romSize>20352452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B7B978D5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>852 - 圣魔IF破晓</title>
+			<saveType>None</saveType>
+			<romSize>32667416</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F8185593</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>985 - 圣魔之光石 魔物版</title>
+			<saveType>None</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">19346FBB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>修订版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>970 - 圣魔之光石-苍天龙骑士版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">657F9606</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -12342,6 +13267,100 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>972 - 圣魔之光石孩子版</title>
+			<saveType>None</saveType>
+			<romSize>16939360</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">68C0AE78</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>2.0</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>929 - 圣魔之光石巴拉那之改版</title>
+			<saveType>None</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EE14F542</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>976 - 圣魔之光石新的国王</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BABE3584</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>968 - 圣魔之光石无等级版</title>
+			<saveType>None</saveType>
+			<romSize>18388268</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9B8EC9D9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>969 - 圣魔之光石晚夕版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">705F679D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>743 - 圣魔之光石最后修改版</title>
 			<saveType>None</saveType>
 			<romSize>18874368</romSize>
@@ -12351,6 +13370,119 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">4D19E238</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>868 - 圣魔之光石精修版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">76532A14</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>984 - 圣魔之公主的逆袭</title>
+			<saveType>None</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BF03BF90</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>909 - 圣魔之战</title>
+			<saveType>None</saveType>
+			<romSize>24413620</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FA6A203A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>967 - 圣魔之渣新成长记</title>
+			<saveType>None</saveType>
+			<romSize>16877216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">11F17402</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>966 - 圣魔之王者的复仇</title>
+			<saveType>None</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4284723F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>908 - 圣魔之飞龙的世界</title>
+			<saveType>None</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8A1970B6</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -12375,6 +13507,81 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>982 - 圣魔光石 马修已</title>
+			<saveType>None</saveType>
+			<romSize>18807972</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">30E212D7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>938 - 圣魔光石(烈火改)自改版</title>
+			<saveType>None</saveType>
+			<romSize>20426668</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9C28E397</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>912 - 圣魔光石IS</title>
+			<saveType>None</saveType>
+			<romSize>21501708</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">525BAB37</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>983 - 圣魔光石魔物职业混合版</title>
+			<saveType>None</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">58B4A6C8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.5</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12437,6 +13644,63 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>870 - 多拉基亚776GBA复刻版</title>
+			<saveType>None</saveType>
+			<romSize>33327848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3EE35095</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>957 - 天地之月</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BA12E1A4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>838 - 天王之战</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FFBD4892</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>793 - 奇怪的改版</title>
 			<saveType>None</saveType>
 			<romSize>20971520</romSize>
@@ -12469,6 +13733,138 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>http://fequeen.blog.fc2.com/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>945 - 女皇的复仇</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">81B20B66</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>845 - 女神的救赎重置版</title>
+			<saveType>None</saveType>
+			<romSize>33000160</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C0E36C50</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>846 - 女神的救赎重置版（固定加点）</title>
+			<saveType>None</saveType>
+			<romSize>33001600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3C8E4A20</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>897 - 完整版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A010B1CA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>940 - 宿命交锋</title>
+			<saveType>None</saveType>
+			<romSize>21207896</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FD716DA0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>843 - 宿命传说</title>
+			<saveType>None</saveType>
+			<romSize>24664964</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7454DE30</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>890 - 寂世</title>
+			<saveType>None</saveType>
+			<romSize>33554428</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">395AC70C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>0.03</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12531,6 +13927,433 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>932 - 封印丧心病狂</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8B70BE90</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>933 - 封印之剑 @浪</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">478CFA46</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>931 - 封印之剑 美丽改版</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BEF89CF2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>927 - 封印之剑 重生</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D6241E80</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.20</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>914 - 封印之剑if</title>
+			<saveType>None</saveType>
+			<romSize>28507884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">18D44FEA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结v1.2</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>875 - 封印之剑re英雄王传说</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">364BE0DD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>936 - 封印之剑修改后</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D5259176</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>975 - 封印之剑国王版</title>
+			<saveType>None</saveType>
+			<romSize>10415546</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F7BEE1FA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>928 - 封印加强版</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5979B3AE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>814 - 封印的竹光</title>
+			<saveType>None</saveType>
+			<romSize>25830312</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5D65F64B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结技能版修复001</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>877 - 屠神之星</title>
+			<saveType>None</saveType>
+			<romSize>18274940</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DAD5F1C9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>974 - 帝·鲁尼之剑</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CD07DF67</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>改正</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>879 - 帝国除魔战争</title>
+			<saveType>None</saveType>
+			<romSize>17972796</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">73981433</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>884 - 幸运的七色花</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D497BD48</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>2篇章完结最终修复版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>833 - 幻想烈火传</title>
+			<saveType>None</saveType>
+			<romSize>31445952</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4FCC4E9A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.7修复版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>811 - 幽影华尔兹</title>
+			<saveType>None</saveType>
+			<romSize>25919968</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C37960CD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>881 - 异界旅者</title>
+			<saveType>None</saveType>
+			<romSize>25891756</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5B1DE0B8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>鸟篇完结</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>905 - 强大的女皇</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4B4086FF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>900 - 放开那个魔王</title>
+			<saveType>None</saveType>
+			<romSize>19019252</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">38F11041</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>前8章测试版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>925 - 新公主同盟</title>
+			<saveType>None</saveType>
+			<romSize>22946116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BB40F18A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>921 - 新圣火微章</title>
+			<saveType>None</saveType>
+			<romSize>27446884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">20C552D6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>943 - 新封神传奇</title>
+			<saveType>None</saveType>
+			<romSize>18576652</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">738D53DA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>922 - 新烈火之剑简单版</title>
+			<saveType>None</saveType>
+			<romSize>17301504</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">30E3E535</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>798 - 新烈火勇者的阔斧</title>
 			<saveType>None</saveType>
 			<romSize>17301504</romSize>
@@ -12550,6 +14373,266 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>958 - 新的改版（圣魔）</title>
+			<saveType>None</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E4708BC6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>895 - 新逆封印之剑（最骚改版）</title>
+			<saveType>None</saveType>
+			<romSize>18582592</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1E2C7ADE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>917 - 旅程</title>
+			<saveType>None</saveType>
+			<romSize>20442448</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">91930108</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>0.3</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>955 - 无敌刺客版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6222F431</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>831 - 时光战纪上</title>
+			<saveType>None</saveType>
+			<romSize>33279872</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">29738E88</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结修复</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>832 - 时光战纪下</title>
+			<saveType>None</saveType>
+			<romSize>27484372</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2106BDC7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结修复</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>919 - 时空与乱斗</title>
+			<saveType>None</saveType>
+			<romSize>21932096</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6B545E1B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>885 - 时空的咆哮</title>
+			<saveType>None</saveType>
+			<romSize>28798752</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CEF50CD5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>836 - 时空的羁绊</title>
+			<saveType>None</saveType>
+			<romSize>17595116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F91DB891</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>0.25</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>880 - 时间之石</title>
+			<saveType>None</saveType>
+			<romSize>27554636</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">03A578A3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.15</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>865 - 明与宵之章</title>
+			<saveType>None</saveType>
+			<romSize>27254088</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E57890AF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>beta0.2版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>949 - 星痕改版</title>
+			<saveType>None</saveType>
+			<romSize>18868356</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BAABA5C7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>804 - 智慧的结晶</title>
+			<saveType>None</saveType>
+			<romSize>17822480</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DE4128F9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>866 - 暗之彼方</title>
+			<saveType>None</saveType>
+			<romSize>33113720</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D348549A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>783 - 暗之魔女</title>
 			<saveType>None</saveType>
 			<romSize>18874368</romSize>
@@ -12559,6 +14642,120 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">5F847710</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>806 - 暗黑の黎明</title>
+			<saveType>None</saveType>
+			<romSize>24837392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A387B295</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>951 - 最帅修改 圣魔新地图</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">24EADFEF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>950 - 最帅出品 圣邪地狱篇</title>
+			<saveType>None</saveType>
+			<romSize>16777300</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6843B393</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>934 - 最帅改版 封印无敌篇</title>
+			<saveType>None</saveType>
+			<romSize>10415546</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F1787236</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>946 - 最帅新做 圣魔召唤篇</title>
+			<saveType>None</saveType>
+			<romSize>18388268</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7F3E78FC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>965 - 最终的噩梦</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DD52BAE7</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -12607,6 +14804,43 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>906 - 木叶战记</title>
+			<saveType>None</saveType>
+			<romSize>22802384</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1C9AF3D5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>修复版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>979 - 杰哥新复仇 元旦福利版</title>
+			<saveType>None</saveType>
+			<romSize>17613360</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DAFDB65B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>795 - 杰哥的复仇</title>
 			<saveType>None</saveType>
 			<romSize>17601384</romSize>
@@ -12645,6 +14879,99 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>859 - 某不知名改版</title>
+			<saveType>None</saveType>
+			<romSize>30530508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">10AA75AC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>913 - 次元の幻想</title>
+			<saveType>None</saveType>
+			<romSize>16877216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0B9AE87A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>840 - 死灵复生2</title>
+			<saveType>None</saveType>
+			<romSize>21288008</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">72C9CAF7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.2.9</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>986 - 死灵复生</title>
+			<saveType>None</saveType>
+			<romSize>16778240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A5C39099</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>858 - 流浪公主</title>
+			<saveType>None</saveType>
+			<romSize>29583392</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C5707104</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>15章阉割完结版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>787 - 火焰纹章 挑战0</title>
 			<saveType>None</saveType>
 			<romSize>17911088</romSize>
@@ -12678,6 +15005,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>847 - 火纹三国</title>
+			<saveType>None</saveType>
+			<romSize>27345504</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D5C254E8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>9章</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12888,6 +15233,25 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>937 - 烈火之剑火龙之怒</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BEC9321A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>739 - 烈火极限对战</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -12907,6 +15271,266 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>941 - 烈火系谱乱入高必杀版</title>
+			<saveType>None</saveType>
+			<romSize>17825792</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4B0E82A0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>856 - 王之誓约</title>
+			<saveType>None</saveType>
+			<romSize>33164648</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E5BA4301</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>4.2</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>947 - 王子</title>
+			<saveType>None</saveType>
+			<romSize>16922452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">634FE88A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>954 - 玩不下去的圣魔</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A4DE5B6C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>907 - 疾风的勇王</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E30F64FD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>876 - 直到遇见你</title>
+			<saveType>None</saveType>
+			<romSize>31957948</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D93AA3A6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结002</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>952 - 真♂圣魔之光石</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">23BF26ED</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>878 - 祈悠之月</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3625756A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>正式版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>822 - 神光之公主</title>
+			<saveType>None</saveType>
+			<romSize>22451192</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0771CF0C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>915 - 神光女线</title>
+			<saveType>None</saveType>
+			<romSize>21354600</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BFF6EC2F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>最终完结</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>826 - 神兵无双</title>
+			<saveType>None</saveType>
+			<romSize>21464504</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1EBAFC19</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>904 - 神魂之绯石</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8C2A8D70</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>898 - 秩序之剑</title>
+			<saveType>None</saveType>
+			<romSize>22683944</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1DC6FFB7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>DEMO2022-1-17</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>835 - 童子军</title>
+			<saveType>None</saveType>
+			<romSize>18672992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5831A5CC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>V2.2</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>784 - 第二梦</title>
 			<saveType>None</saveType>
 			<romSize>33554431</romSize>
@@ -12921,6 +15545,116 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>834 - 粗鄙的我</title>
+			<saveType>None</saveType>
+			<romSize>30229972</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3F5C8FC7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>特制版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>901 - 红月Z</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B5729868</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>902 - 红月第一部</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">92A16C4B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结最终版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>892 - 结局</title>
+			<saveType>None</saveType>
+			<romSize>26605304</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AB9ED24B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>893 - 绝望游戏</title>
+			<saveType>None</saveType>
+			<romSize>26201932</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1152EDCE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>830 - 绯红之章</title>
+			<saveType>None</saveType>
+			<romSize>33111688</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B5FAB1AF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结修复005</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -13002,6 +15736,437 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>981 - 能勉强玩的下去的圣魔</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D90E4BC3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>924 - 舞撩烈火之断牙之痛</title>
+			<saveType>None</saveType>
+			<romSize>19437920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">44416773</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>841 - 花开于漠</title>
+			<saveType>None</saveType>
+			<romSize>20968000</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8F7E5642</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>920 - 苍月传重置版</title>
+			<saveType>None</saveType>
+			<romSize>24235944</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F33463E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>869 - 苍炎乱入版</title>
+			<saveType>None</saveType>
+			<romSize>19922944</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DC7BBD0C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>848 - 苍炎的勇者</title>
+			<saveType>None</saveType>
+			<romSize>32668748</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">00EE59E6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>857 - 英雄世界</title>
+			<saveType>None</saveType>
+			<romSize>33433540</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E889FA3A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>3.0</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>887 - 英雄的挑战</title>
+			<saveType>None</saveType>
+			<romSize>26018900</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8241E45E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>完结</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>807 - 英雄的黎明ED-Ver8黎明盡頭（A）</title>
+			<saveType>None</saveType>
+			<romSize>33493848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F69EDFE4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>808 - 英雄的黎明ED-Ver8黎明盡頭（J）</title>
+			<saveType>None</saveType>
+			<romSize>32777920</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8DB1CDA1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>809 - 英雄的黎明ED-简易修复版（A+J）</title>
+			<saveType>None</saveType>
+			<romSize>33411816</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F752202F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>805 - 虚空之魂</title>
+			<saveType>None</saveType>
+			<romSize>31816536</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A10D3741</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>873 - 血族再生</title>
+			<saveType>None</saveType>
+			<romSize>16972040</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">34E72F95</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>圣诞大作战汉化版V1.1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>961 - 血族家族</title>
+			<saveType>None</saveType>
+			<romSize>16972040</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">629BA120</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.0试玩版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>839 - 衫雨初空</title>
+			<saveType>None</saveType>
+			<romSize>17202772</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C3AF7709</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>956 - 西克斯の最终版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CE656409</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>948 - 西克斯の最终版（重甲三角）</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F1B6214F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>801 - 西克斯烈火</title>
+			<saveType>None</saveType>
+			<romSize>20347892</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1B1668FA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>899 - 誓约传说</title>
+			<saveType>None</saveType>
+			<romSize>23814716</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">68BE4AB9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>更9章</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>821 - 逆反圣魔</title>
+			<saveType>None</saveType>
+			<romSize>28266452</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F9C6A3FE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>844 - 逆反圣魔番外传</title>
+			<saveType>None</saveType>
+			<romSize>28607756</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">26E8522D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>918 - 逆圣魔之光石</title>
+			<saveType>None</saveType>
+			<romSize>19131208</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">ACBC1952</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>目前第一章</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>882 - 逆封印之剑</title>
+			<saveType>None</saveType>
+			<romSize>8400800</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4322F8D3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>738 - 逆烈火之剑</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -13011,6 +16176,25 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">1DAD8B96</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>916 - 逆转月痕</title>
+			<saveType>None</saveType>
+			<romSize>18512580</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">18848FF4</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -13040,7 +16224,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
-			<title>792 - 逆风的小强</title>
+			<title>792 - 逆风之小强</title>
 			<saveType>None</saveType>
 			<romSize>18780940</romSize>
 			<publisher>Reskin/Rebalance</publisher>
@@ -13048,7 +16232,119 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">49549FA3</romCRC>
+				<romCRC extension=".">74ACBE7E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>最终版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>842 - 选召者们</title>
+			<saveType>None</saveType>
+			<romSize>20789272</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">23974FF1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>910 - 选召者们IF</title>
+			<saveType>None</saveType>
+			<romSize>21967880</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C8CBDB1E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>911 - 选召者们完结更新1</title>
+			<saveType>None</saveType>
+			<romSize>21856700</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E0020FAB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>813 - 重置竹光</title>
+			<saveType>None</saveType>
+			<romSize>32227848</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9D1CCDA8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>20211120第三章开始1618</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>935 - 锋哥的复仇</title>
+			<saveType>None</saveType>
+			<romSize>8388608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6DDA6EAB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>973 - 错乱的时间</title>
+			<saveType>None</saveType>
+			<romSize>20971520</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">223668F4</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -13192,6 +16488,43 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>926 - 鬼鬼专属</title>
+			<saveType>None</saveType>
+			<romSize>24759364</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">307FB47E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>883 - 魔之暗</title>
+			<saveType>None</saveType>
+			<romSize>19044148</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">48E54442</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>737 - 魔幻封神</title>
 			<saveType>None</saveType>
 			<romSize>18388264</romSize>
@@ -13201,6 +16534,62 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">EE865884</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>980 - 魔物变态版</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2865E7D9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>971 - 魔物狩猎者</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E26F95C8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>双线完全修改版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>894 - 麻烦制造者</title>
+			<saveType>None</saveType>
+			<romSize>17914508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">27A0FD3E</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -13265,6 +16654,44 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>959 - 黑暗复苏</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0EA7FB9D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>803 - 黑暗无双</title>
+			<saveType>None</saveType>
+			<romSize>17008656</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7E7EF874</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>785 - 黑暗的指引</title>
 			<saveType>None</saveType>
 			<romSize>17825792</romSize>
@@ -13274,6 +16701,44 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".">AC009A17</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>855 - 黑暗轮回者-006最终版</title>
+			<saveType>None</saveType>
+			<romSize>32267124</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4188CF4B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>854 - 黑暗轮回者-007优化简单版</title>
+			<saveType>None</saveType>
+			<romSize>32270164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">48D59DBF</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>

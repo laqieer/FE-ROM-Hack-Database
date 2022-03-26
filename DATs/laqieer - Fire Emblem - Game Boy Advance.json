@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220325",
+		"version": "20220326",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -125,6 +125,24 @@
 		},
 		{
 			"machine": {
+				"name": "0的逆圣魔",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "853 - 0的逆圣魔",
+						"size": 20252024,
+						"crc": "077d94bb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "2 Princesses (English Translation)",
 				"comment": "https://feuniverse.us/t/fe-2-princesses-english-translation/8380",
 				"description": null,
@@ -155,6 +173,24 @@
 						"name": "183 - 2 Princesses (二人の王女)",
 						"size": 24646064,
 						"crc": "44f08e5b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "21关开始-封印之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "930 - 21关开始-封印之剑",
+						"size": 8388608,
+						"crc": "75da6fb9"
 					}
 				}
 			]
@@ -1259,6 +1295,24 @@
 		},
 		{
 			"machine": {
+				"name": "Clash of Fates",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "939 - Clash of Fates",
+						"size": 16832828,
+						"crc": "1637f575"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Clendo's 1h Blitz - Faltharian Heist",
 				"comment": "https://feuniverse.us/t/1h-blitz-r1-complete/9560/34",
 				"description": null,
@@ -1883,6 +1937,24 @@
 						"name": "338 - Devourer of Time (Normal mode)",
 						"size": 16818224,
 						"crc": "200f63aa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Devourer of Worlds",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "903 - Devourer of Worlds",
+						"size": 16891404,
+						"crc": "b72f5a94"
 					}
 				}
 			]
@@ -4741,6 +4813,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8女版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "977 - FE8女版",
+						"size": 16898520,
+						"crc": "7f66973d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8改造",
 				"comment": "",
 				"description": null,
@@ -4753,6 +4843,24 @@
 						"name": "706 - FE8改造",
 						"size": 16777216,
 						"crc": "616dfbb4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE16RE",
+				"comment": "DEMO",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "812 - FE16RE",
+						"size": 16777216,
+						"crc": "d1d36019"
 					}
 				}
 			]
@@ -5533,6 +5641,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Justice and Pride (Chinese Translation)",
+				"comment": "正义与荣耀汉化版v1.0",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "827 - Fire Emblem - Justice and Pride (Chinese Translation)",
+						"size": 27407516,
+						"crc": "3c5e7160"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Order of the Crimson Arm",
 				"comment": "https://feuniverse.us/t/fire-emblem-order-of-the-crimson-arm/1836",
 				"description": null,
@@ -5707,24 +5833,6 @@
 						"name": "23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]",
 						"size": 16777216,
 						"crc": "7aef4edc"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
-				"name": "Fire Emblem - Saving Christmas",
-				"comment": "https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "568 - Fire Emblem - Saving Christmas",
-						"size": 18449388,
-						"crc": "5afd94b1"
 					}
 				}
 			]
@@ -6877,6 +6985,42 @@
 						"name": "527 - Human Armory",
 						"size": 16784272,
 						"crc": "90b0a9a5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "IF禁忌",
+				"comment": "v0.08体验版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "810 - IF禁忌",
+						"size": 19896368,
+						"crc": "32934a7b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "IF禁忌 - 十六夜",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "820 - IF禁忌 - 十六夜",
+						"size": 27691692,
+						"crc": "b95e4efb"
 					}
 				}
 			]
@@ -9565,6 +9709,42 @@
 		},
 		{
 			"machine": {
+				"name": "Saving Christmas",
+				"comment": "https://feuniverse.us/t/fire-emblem-saving-christmas-complete/10503",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "568 - Saving Christmas",
+						"size": 18449388,
+						"crc": "5afd94b1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Saving Christmas (Chinese Translation)",
+				"comment": "圣诞大作战汉化版V1.1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "872 - Saving Christmas (Chinese Translation)",
+						"size": 19442516,
+						"crc": "efdbe109"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Scarlet Rising",
 				"comment": "https://feuniverse.us/t/complete-fe8-scarlet-rising/7890",
 				"description": null,
@@ -10573,6 +10753,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Burdened Crown (Chinese Translation)",
+				"comment": "沉重的王冠汉化正式版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "851 - The Burdened Crown (Chinese Translation)",
+						"size": 24029140,
+						"crc": "3089e40a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Christmas Blitz",
 				"comment": "",
 				"description": null,
@@ -10729,6 +10927,24 @@
 						"name": "428 - The Eligor’s Spear",
 						"size": 24776684,
 						"crc": "20426aa9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Eligor’s Spear (Chinese Translation)",
+				"comment": "埃力格之枪V1.4完全汉化最终版v1.0",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "871 - The Eligor’s Spear (Chinese Translation)",
+						"size": 25809240,
+						"crc": "81d49d3e"
 					}
 				}
 			]
@@ -10927,6 +11143,24 @@
 						"name": "105 - The Last Promise (Chaos Mode DEMO)",
 						"size": 32446048,
 						"crc": "365cf432"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Last Promise (Chinese Translation)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "819 - The Last Promise (Chinese Translation)",
+						"size": 33340904,
+						"crc": "68b22f19"
 					}
 				}
 			]
@@ -11359,6 +11593,24 @@
 						"name": "218 - The Sun God’s Wrath (0 growth)",
 						"size": 33007108,
 						"crc": "7def8770"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)",
+				"comment": "太阳神v1.64道具技能汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)",
+						"size": 33531452,
+						"crc": "c5c281e7"
 					}
 				}
 			]
@@ -12193,6 +12445,186 @@
 		},
 		{
 			"machine": {
+				"name": "不知名改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "860 - 不知名改版",
+						"size": 25166900,
+						"crc": "a347d734"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "东方苍神缘起无印大神版",
+				"comment": "003",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "828 - 东方苍神缘起无印大神版",
+						"size": 23055512,
+						"crc": "d0954d10"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "东方苍神缘起无印平民版",
+				"comment": "002",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "829 - 东方苍神缘起无印平民版",
+						"size": 23016040,
+						"crc": "46b02c58"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "东方苍神缘起残暑大神版",
+				"comment": "003",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "850 - 东方苍神缘起残暑大神版",
+						"size": 27038084,
+						"crc": "b23ea3b9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "东方苍神缘起残暑平民版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "849 - 东方苍神缘起残暑平民版",
+						"size": 27040524,
+						"crc": "5a02d5b4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "主角大联盟",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "863 - 主角大联盟",
+						"size": 30134392,
+						"crc": "09fb7e5d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "主角大联盟完结版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "888 - 主角大联盟完结版",
+						"size": 27805428,
+						"crc": "5001696d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "主角大联盟超高难度",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "889 - 主角大联盟超高难度",
+						"size": 27557216,
+						"crc": "0975e53d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "僵尸道长",
+				"comment": "200406",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "886 - 僵尸道长",
+						"size": 21486460,
+						"crc": "7e731649"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "光明的救赎",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "874 - 光明的救赎",
+						"size": 29117088,
+						"crc": "8321f5d3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "六写封神",
 				"comment": "",
 				"description": null,
@@ -12211,6 +12643,150 @@
 		},
 		{
 			"machine": {
+				"name": "再渡雄起",
+				"comment": "1.5版最终版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "944 - 再渡雄起",
+						"size": 17825792,
+						"crc": "595e735f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "冰焰灵境",
+				"comment": "0.001",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "824 - 冰焰灵境",
+						"size": 17779304,
+						"crc": "58c4f4bc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "冰焰雪莉",
+				"comment": "二章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "825 - 冰焰雪莉",
+						"size": 24355492,
+						"crc": "3859dd97"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "冰风烈焰",
+				"comment": "1.04",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "823 - 冰风烈焰",
+						"size": 27852748,
+						"crc": "e60b3691"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "勇者天下",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "953 - 勇者天下",
+						"size": 16777216,
+						"crc": "01d7b03b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "半成品",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "896 - 半成品",
+						"size": 22072704,
+						"crc": "1f1f8988"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "召唤师2.0中秋限定版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "942 - 召唤师2",
+						"size": 26095224,
+						"crc": "5865db9c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "召唤师",
+				"comment": "1.4",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "864 - 召唤师",
+						"size": 25077656,
+						"crc": "4f89c557"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "名も無き英雄",
 				"comment": "The Nameless Heroes",
 				"description": null,
@@ -12223,6 +12799,168 @@
 						"name": "447 - 名も無き英雄",
 						"size": 29840204,
 						"crc": "b9a6e9c7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "后宫战纪",
+				"comment": "完结追加007",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "818 - 后宫战纪",
+						"size": 31942288,
+						"crc": "74352ac4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "后宫战纪全人物平衡版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "862 - 后宫战纪全人物平衡版",
+						"size": 32070988,
+						"crc": "4b5ef030"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "后宫战纪新修版",
+				"comment": "009",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "817 - 后宫战纪新修版",
+						"size": 31979420,
+						"crc": "de942803"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "后宫战纪新编版",
+				"comment": "002",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "816 - 后宫战纪新编版",
+						"size": 33500920,
+						"crc": "f2ae9e8f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "命运",
+				"comment": "3.4",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "861 - 命运",
+						"size": 22296164,
+						"crc": "3dc1ca38"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "四大魔王",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "960 - 四大魔王",
+						"size": 16777216,
+						"crc": "32485799"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "回忆都去哪了",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "837 - 回忆都去哪了",
+						"size": 18501884,
+						"crc": "f4b8b913"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之义友军",
+				"comment": "测试版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "978 - 圣光之义友军",
+						"size": 17825792,
+						"crc": "aa119a5c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣光之战",
+				"comment": "4.6",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "802 - 圣光之战",
+						"size": 30783480,
+						"crc": "a3e52600"
 					}
 				}
 			]
@@ -12301,6 +13039,42 @@
 		},
 		{
 			"machine": {
+				"name": "圣兵风云录",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "923 - 圣兵风云录",
+						"size": 25911312,
+						"crc": "0a85f774"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣王的刃与诗",
+				"comment": "第二章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "891 - 圣王的刃与诗",
+						"size": 17668068,
+						"crc": "84703d5b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "圣邪之意志配色版",
 				"comment": "",
 				"description": null,
@@ -12313,6 +13087,132 @@
 						"name": "797 - 圣邪之意志配色版",
 						"size": 16777216,
 						"crc": "172720d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣邪的意志1.4冰剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "964 - 圣邪的意志1",
+						"size": 16777216,
+						"crc": "44baaa73"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣邪的意志  最帅修改终极版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "962 - 圣邪的意志  最帅修改终极版",
+						"size": 16777216,
+						"crc": "ec8def8b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣邪的意志 风之刃",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "963 - 圣邪的意志 风之刃",
+						"size": 16777216,
+						"crc": "221d31c4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔F版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "867 - 圣魔F版",
+						"size": 20352452,
+						"crc": "b7b978d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔IF破晓",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "852 - 圣魔IF破晓",
+						"size": 32667416,
+						"crc": "f8185593"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石 魔物版",
+				"comment": "修订版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "985 - 圣魔之光石 魔物版",
+						"size": 16778240,
+						"crc": "19346fbb"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石-苍天龙骑士版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "970 - 圣魔之光石-苍天龙骑士版",
+						"size": 16777216,
+						"crc": "657f9606"
 					}
 				}
 			]
@@ -12337,6 +13237,96 @@
 		},
 		{
 			"machine": {
+				"name": "圣魔之光石孩子版",
+				"comment": "2.0",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "972 - 圣魔之光石孩子版",
+						"size": 16939360,
+						"crc": "68c0ae78"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石巴拉那之改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "929 - 圣魔之光石巴拉那之改版",
+						"size": 16778240,
+						"crc": "ee14f542"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石新的国王",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "976 - 圣魔之光石新的国王",
+						"size": 16777216,
+						"crc": "babe3584"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石无等级版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "968 - 圣魔之光石无等级版",
+						"size": 18388268,
+						"crc": "9b8ec9d9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之光石晚夕版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "969 - 圣魔之光石晚夕版",
+						"size": 16777216,
+						"crc": "705f679d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "圣魔之光石最后修改版",
 				"comment": "",
 				"description": null,
@@ -12355,6 +13345,114 @@
 		},
 		{
 			"machine": {
+				"name": "圣魔之光石精修版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "868 - 圣魔之光石精修版",
+						"size": 16777216,
+						"crc": "76532a14"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之公主的逆袭",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "984 - 圣魔之公主的逆袭",
+						"size": 20971520,
+						"crc": "bf03bf90"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之战",
+				"comment": "修复版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "909 - 圣魔之战",
+						"size": 24413620,
+						"crc": "fa6a203a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之渣新成长记",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "967 - 圣魔之渣新成长记",
+						"size": 16877216,
+						"crc": "11f17402"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之王者的复仇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "966 - 圣魔之王者的复仇",
+						"size": 20971520,
+						"crc": "4284723f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔之飞龙的世界",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "908 - 圣魔之飞龙的世界",
+						"size": 20971520,
+						"crc": "8a1970b6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "圣魔之魔物军团最终版",
 				"comment": "",
 				"description": null,
@@ -12367,6 +13465,78 @@
 						"name": "796 - 圣魔之魔物军团最终版",
 						"size": 16777216,
 						"crc": "03987441"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔光石 马修已",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "982 - 圣魔光石 马修已",
+						"size": 18807972,
+						"crc": "30e212d7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔光石(烈火改)自改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "938 - 圣魔光石(烈火改)自改版",
+						"size": 20426668,
+						"crc": "9c28e397"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔光石IS",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "912 - 圣魔光石IS",
+						"size": 21501708,
+						"crc": "525bab37"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣魔光石魔物职业混合版",
+				"comment": "1.5",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "983 - 圣魔光石魔物职业混合版",
+						"size": 16778240,
+						"crc": "58b4a6c8"
 					}
 				}
 			]
@@ -12427,6 +13597,60 @@
 		},
 		{
 			"machine": {
+				"name": "多拉基亚776GBA复刻版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "870 - 多拉基亚776GBA复刻版",
+						"size": 33327848,
+						"crc": "3ee35095"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "天地之月",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "957 - 天地之月",
+						"size": 16777216,
+						"crc": "ba12e1a4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "天王之战",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "838 - 天王之战",
+						"size": 16777216,
+						"crc": "ffbd4892"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "奇怪的改版",
 				"comment": "",
 				"description": null,
@@ -12457,6 +13681,132 @@
 						"name": "420 - 女王の剣 (Queen’s Sword)",
 						"size": 33554432,
 						"crc": "658dc7e3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "女皇的复仇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "945 - 女皇的复仇",
+						"size": 16777216,
+						"crc": "81b20b66"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "女神的救赎重置版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "845 - 女神的救赎重置版",
+						"size": 33000160,
+						"crc": "c0e36c50"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "女神的救赎重置版（固定加点）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "846 - 女神的救赎重置版（固定加点）",
+						"size": 33001600,
+						"crc": "3c8e4a20"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "完整版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "897 - 完整版",
+						"size": 16777216,
+						"crc": "a010b1ca"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "宿命交锋",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "940 - 宿命交锋",
+						"size": 21207896,
+						"crc": "fd716da0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "宿命传说",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "843 - 宿命传说",
+						"size": 24664964,
+						"crc": "7454de30"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "寂世",
+				"comment": "0.03",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "890 - 寂世",
+						"size": 33554428,
+						"crc": "395ac70c"
 					}
 				}
 			]
@@ -12517,6 +13867,420 @@
 		},
 		{
 			"machine": {
+				"name": "封印丧心病狂",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "932 - 封印丧心病狂",
+						"size": 8388608,
+						"crc": "8b70be90"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑 @浪",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "933 - 封印之剑 @浪",
+						"size": 8388608,
+						"crc": "478cfa46"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑 美丽改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "931 - 封印之剑 美丽改版",
+						"size": 8388608,
+						"crc": "bef89cf2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑 重生",
+				"comment": "1.20",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "927 - 封印之剑 重生",
+						"size": 8388608,
+						"crc": "d6241e80"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑if",
+				"comment": "完结v1.2",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "914 - 封印之剑if",
+						"size": 28507884,
+						"crc": "18d44fea"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑re英雄王传说",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "875 - 封印之剑re英雄王传说",
+						"size": 33554432,
+						"crc": "364be0dd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑修改后",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "936 - 封印之剑修改后",
+						"size": 8388608,
+						"crc": "d5259176"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑国王版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "975 - 封印之剑国王版",
+						"size": 10415546,
+						"crc": "f7bee1fa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印加强版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "928 - 封印加强版",
+						"size": 8388608,
+						"crc": "5979b3ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印的竹光",
+				"comment": "完结技能版修复001",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "814 - 封印的竹光",
+						"size": 25830312,
+						"crc": "5d65f64b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "屠神之星",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "877 - 屠神之星",
+						"size": 18274940,
+						"crc": "dad5f1c9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "帝·鲁尼之剑",
+				"comment": "改正",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "974 - 帝·鲁尼之剑",
+						"size": 16777216,
+						"crc": "cd07df67"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "帝国除魔战争",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "879 - 帝国除魔战争",
+						"size": 17972796,
+						"crc": "73981433"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "幸运的七色花",
+				"comment": "2篇章完结最终修复版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "884 - 幸运的七色花",
+						"size": 33554432,
+						"crc": "d497bd48"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "幻想烈火传",
+				"comment": "1.7修复版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "833 - 幻想烈火传",
+						"size": 31445952,
+						"crc": "4fcc4e9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "幽影华尔兹",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "811 - 幽影华尔兹",
+						"size": 25919968,
+						"crc": "c37960cd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "异界旅者",
+				"comment": "鸟篇完结",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "881 - 异界旅者",
+						"size": 25891756,
+						"crc": "5b1de0b8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "强大的女皇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "905 - 强大的女皇",
+						"size": 16777216,
+						"crc": "4b4086ff"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "放开那个魔王",
+				"comment": "前8章测试版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "900 - 放开那个魔王",
+						"size": 19019252,
+						"crc": "38f11041"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新公主同盟",
+				"comment": "完结版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "925 - 新公主同盟",
+						"size": 22946116,
+						"crc": "bb40f18a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新圣火微章",
+				"comment": "修复版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "921 - 新圣火微章",
+						"size": 27446884,
+						"crc": "20c552d6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新封神传奇",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "943 - 新封神传奇",
+						"size": 18576652,
+						"crc": "738d53da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新烈火之剑简单版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "922 - 新烈火之剑简单版",
+						"size": 17301504,
+						"crc": "30e3e535"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "新烈火勇者的阔斧",
 				"comment": "",
 				"description": null,
@@ -12535,6 +14299,258 @@
 		},
 		{
 			"machine": {
+				"name": "新的改版（圣魔）",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "958 - 新的改版（圣魔）",
+						"size": 20971520,
+						"crc": "e4708bc6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新逆封印之剑（最骚改版）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "895 - 新逆封印之剑（最骚改版）",
+						"size": 18582592,
+						"crc": "1e2c7ade"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "旅程",
+				"comment": "0.3",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "917 - 旅程",
+						"size": 20442448,
+						"crc": "91930108"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "无敌刺客版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "955 - 无敌刺客版",
+						"size": 16777216,
+						"crc": "6222f431"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时光战纪上",
+				"comment": "完结修复",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "831 - 时光战纪上",
+						"size": 33279872,
+						"crc": "29738e88"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时光战纪下",
+				"comment": "完结修复",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "832 - 时光战纪下",
+						"size": 27484372,
+						"crc": "2106bdc7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时空与乱斗",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "919 - 时空与乱斗",
+						"size": 21932096,
+						"crc": "6b545e1b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时空的咆哮",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "885 - 时空的咆哮",
+						"size": 28798752,
+						"crc": "cef50cd5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时空的羁绊",
+				"comment": "0.25",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "836 - 时空的羁绊",
+						"size": 17595116,
+						"crc": "f91db891"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "时间之石",
+				"comment": "1.15",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "880 - 时间之石",
+						"size": 27554636,
+						"crc": "03a578a3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "明与宵之章",
+				"comment": "beta0.2版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "865 - 明与宵之章",
+						"size": 27254088,
+						"crc": "e57890af"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "星痕改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "949 - 星痕改版",
+						"size": 18868356,
+						"crc": "baaba5c7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "智慧的结晶",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "804 - 智慧的结晶",
+						"size": 17822480,
+						"crc": "de4128f9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "暗之彼方",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "866 - 暗之彼方",
+						"size": 33113720,
+						"crc": "d348549a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "暗之魔女",
 				"comment": "",
 				"description": null,
@@ -12547,6 +14563,114 @@
 						"name": "783 - 暗之魔女",
 						"size": 18874368,
 						"crc": "5f847710"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "暗黑の黎明",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "806 - 暗黑の黎明",
+						"size": 24837392,
+						"crc": "a387b295"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "最帅修改 圣魔新地图",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "951 - 最帅修改 圣魔新地图",
+						"size": 16777216,
+						"crc": "24eadfef"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "最帅出品 圣邪地狱篇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "950 - 最帅出品 圣邪地狱篇",
+						"size": 16777300,
+						"crc": "6843b393"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "最帅改版 封印无敌篇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "934 - 最帅改版 封印无敌篇",
+						"size": 10415546,
+						"crc": "f1787236"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "最帅新做 圣魔召唤篇",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "946 - 最帅新做 圣魔召唤篇",
+						"size": 18388268,
+						"crc": "7f3e78fc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "最终的噩梦",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "965 - 最终的噩梦",
+						"size": 16777216,
+						"crc": "dd52bae7"
 					}
 				}
 			]
@@ -12589,6 +14713,42 @@
 		},
 		{
 			"machine": {
+				"name": "木叶战记",
+				"comment": "修复版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "906 - 木叶战记",
+						"size": 22802384,
+						"crc": "1c9af3d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "杰哥新复仇 元旦福利版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "979 - 杰哥新复仇 元旦福利版",
+						"size": 17613360,
+						"crc": "dafdb65b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "杰哥的复仇",
 				"comment": "",
 				"description": null,
@@ -12625,6 +14785,96 @@
 		},
 		{
 			"machine": {
+				"name": "某不知名改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "859 - 某不知名改版",
+						"size": 30530508,
+						"crc": "10aa75ac"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "次元の幻想",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "913 - 次元の幻想",
+						"size": 16877216,
+						"crc": "0b9ae87a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "死灵复生2",
+				"comment": "1.2.9",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "840 - 死灵复生2",
+						"size": 21288008,
+						"crc": "72c9caf7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "死灵复生",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "986 - 死灵复生",
+						"size": 16778240,
+						"crc": "a5c39099"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "流浪公主",
+				"comment": "15章阉割完结版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "858 - 流浪公主",
+						"size": 29583392,
+						"crc": "c5707104"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "火焰纹章 挑战0.1地狱模式",
 				"comment": "",
 				"description": null,
@@ -12655,6 +14905,24 @@
 						"name": "788 - 火焰纹章 挑战0",
 						"size": 17919848,
 						"crc": "2230351d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "火纹三国",
+				"comment": "9章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "847 - 火纹三国",
+						"size": 27345504,
+						"crc": "d5c254e8"
 					}
 				}
 			]
@@ -12859,6 +15127,24 @@
 		},
 		{
 			"machine": {
+				"name": "烈火之剑火龙之怒",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "937 - 烈火之剑火龙之怒",
+						"size": 16777216,
+						"crc": "bec9321a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "烈火极限对战",
 				"comment": "",
 				"description": null,
@@ -12877,6 +15163,258 @@
 		},
 		{
 			"machine": {
+				"name": "烈火系谱乱入高必杀版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "941 - 烈火系谱乱入高必杀版",
+						"size": 17825792,
+						"crc": "4b0e82a0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "王之誓约",
+				"comment": "4.2",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "856 - 王之誓约",
+						"size": 33164648,
+						"crc": "e5ba4301"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "王子",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "947 - 王子",
+						"size": 16922452,
+						"crc": "634fe88a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "玩不下去的圣魔",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "954 - 玩不下去的圣魔",
+						"size": 16777216,
+						"crc": "a4de5b6c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "疾风的勇王",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "907 - 疾风的勇王",
+						"size": 16777216,
+						"crc": "e30f64fd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "直到遇见你",
+				"comment": "完结002",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "876 - 直到遇见你",
+						"size": 31957948,
+						"crc": "d93aa3a6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "真♂圣魔之光石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "952 - 真♂圣魔之光石",
+						"size": 16777216,
+						"crc": "23bf26ed"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "祈悠之月",
+				"comment": "正式版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "878 - 祈悠之月",
+						"size": 33554432,
+						"crc": "3625756a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "神光之公主",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "822 - 神光之公主",
+						"size": 22451192,
+						"crc": "0771cf0c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "神光女线",
+				"comment": "最终完结",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "915 - 神光女线",
+						"size": 21354600,
+						"crc": "bff6ec2f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "神兵无双",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "826 - 神兵无双",
+						"size": 21464504,
+						"crc": "1ebafc19"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "神魂之绯石",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "904 - 神魂之绯石",
+						"size": 16777216,
+						"crc": "8c2a8d70"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "秩序之剑",
+				"comment": "DEMO2022-1-17",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "898 - 秩序之剑",
+						"size": 22683944,
+						"crc": "1dc6ffb7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "童子军",
+				"comment": "V2.2",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "835 - 童子军",
+						"size": 18672992,
+						"crc": "5831a5cc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "第二梦",
 				"comment": "",
 				"description": null,
@@ -12889,6 +15427,114 @@
 						"name": "784 - 第二梦",
 						"size": 33554431,
 						"crc": "1ada9fe3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "粗鄙的我",
+				"comment": "特制版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "834 - 粗鄙的我",
+						"size": 30229972,
+						"crc": "3f5c8fc7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "红月Z",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "901 - 红月Z",
+						"size": 33554432,
+						"crc": "b5729868"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "红月第一部",
+				"comment": "完结最终版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "902 - 红月第一部",
+						"size": 33554432,
+						"crc": "92a16c4b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "结局",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "892 - 结局",
+						"size": 26605304,
+						"crc": "ab9ed24b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "绝望游戏",
+				"comment": "完结",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "893 - 绝望游戏",
+						"size": 26201932,
+						"crc": "1152edce"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "绯红之章",
+				"comment": "完结修复005",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "830 - 绯红之章",
+						"size": 33111688,
+						"crc": "b5fab1af"
 					}
 				}
 			]
@@ -12967,6 +15613,420 @@
 		},
 		{
 			"machine": {
+				"name": "能勉强玩的下去的圣魔",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "981 - 能勉强玩的下去的圣魔",
+						"size": 16777216,
+						"crc": "d90e4bc3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "舞撩烈火之断牙之痛",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "924 - 舞撩烈火之断牙之痛",
+						"size": 19437920,
+						"crc": "44416773"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "花开于漠",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "841 - 花开于漠",
+						"size": 20968000,
+						"crc": "8f7e5642"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "苍月传重置版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "920 - 苍月传重置版",
+						"size": 24235944,
+						"crc": "f33463e7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "苍炎乱入版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "869 - 苍炎乱入版",
+						"size": 19922944,
+						"crc": "dc7bbd0c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "苍炎的勇者",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "848 - 苍炎的勇者",
+						"size": 32668748,
+						"crc": "00ee59e6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "英雄世界",
+				"comment": "3.0",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "857 - 英雄世界",
+						"size": 33433540,
+						"crc": "e889fa3a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "英雄的挑战",
+				"comment": "完结",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "887 - 英雄的挑战",
+						"size": 26018900,
+						"crc": "8241e45e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "英雄的黎明ED-Ver8黎明盡頭（A）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "807 - 英雄的黎明ED-Ver8黎明盡頭（A）",
+						"size": 33493848,
+						"crc": "f69edfe4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "英雄的黎明ED-Ver8黎明盡頭（J）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "808 - 英雄的黎明ED-Ver8黎明盡頭（J）",
+						"size": 32777920,
+						"crc": "8db1cda1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "英雄的黎明ED-简易修复版（A+J）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "809 - 英雄的黎明ED-简易修复版（A+J）",
+						"size": 33411816,
+						"crc": "f752202f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "虚空之魂",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "805 - 虚空之魂",
+						"size": 31816536,
+						"crc": "a10d3741"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "血族再生",
+				"comment": "圣诞大作战汉化版V1.1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "873 - 血族再生",
+						"size": 16972040,
+						"crc": "34e72f95"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "血族家族",
+				"comment": "1.0试玩版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "961 - 血族家族",
+						"size": 16972040,
+						"crc": "629ba120"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "衫雨初空",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "839 - 衫雨初空",
+						"size": 17202772,
+						"crc": "c3af7709"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "西克斯の最终版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "956 - 西克斯の最终版",
+						"size": 16777216,
+						"crc": "ce656409"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "西克斯の最终版（重甲三角）",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "948 - 西克斯の最终版（重甲三角）",
+						"size": 16777216,
+						"crc": "f1b6214f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "西克斯烈火",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "801 - 西克斯烈火",
+						"size": 20347892,
+						"crc": "1b1668fa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "誓约传说",
+				"comment": "更9章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "899 - 誓约传说",
+						"size": 23814716,
+						"crc": "68be4ab9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆反圣魔",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "821 - 逆反圣魔",
+						"size": 28266452,
+						"crc": "f9c6a3fe"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆反圣魔番外传",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "844 - 逆反圣魔番外传",
+						"size": 28607756,
+						"crc": "26e8522d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆圣魔之光石",
+				"comment": "目前第一章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "918 - 逆圣魔之光石",
+						"size": 19131208,
+						"crc": "acbc1952"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆封印之剑",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "882 - 逆封印之剑",
+						"size": 8400800,
+						"crc": "4322f8d3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "逆烈火之剑",
 				"comment": "",
 				"description": null,
@@ -12979,6 +16039,24 @@
 						"name": "738 - 逆烈火之剑",
 						"size": 16777216,
 						"crc": "1dad8b96"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "逆转月痕",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "916 - 逆转月痕",
+						"size": 18512580,
+						"crc": "18848ff4"
 					}
 				}
 			]
@@ -13003,7 +16081,97 @@
 		},
 		{
 			"machine": {
-				"name": "逆风的小强",
+				"name": "逆风之小强",
+				"comment": "最终版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "792 - 逆风之小强",
+						"size": 18780940,
+						"crc": "74acbe7e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "选召者们",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "842 - 选召者们",
+						"size": 20789272,
+						"crc": "23974ff1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "选召者们IF",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "910 - 选召者们IF",
+						"size": 21967880,
+						"crc": "c8cbdb1e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "选召者们完结更新1.1",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "911 - 选召者们完结更新1",
+						"size": 21856700,
+						"crc": "e0020fab"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "重置竹光",
+				"comment": "20211120第三章开始1618",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "813 - 重置竹光",
+						"size": 32227848,
+						"crc": "9d1ccda8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "锋哥的复仇",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -13012,9 +16180,27 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "792 - 逆风的小强",
-						"size": 18780940,
-						"crc": "49549fa3"
+						"name": "935 - 锋哥的复仇",
+						"size": 8388608,
+						"crc": "6dda6eab"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "错乱的时间",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "973 - 错乱的时间",
+						"size": 20971520,
+						"crc": "223668f4"
 					}
 				}
 			]
@@ -13147,6 +16333,42 @@
 		},
 		{
 			"machine": {
+				"name": "鬼鬼专属",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "926 - 鬼鬼专属",
+						"size": 24759364,
+						"crc": "307fb47e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "魔之暗",
+				"comment": "1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "883 - 魔之暗",
+						"size": 19044148,
+						"crc": "48e54442"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "魔幻封神",
 				"comment": "",
 				"description": null,
@@ -13159,6 +16381,60 @@
 						"name": "737 - 魔幻封神",
 						"size": 18388264,
 						"crc": "ee865884"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "魔物变态版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "980 - 魔物变态版",
+						"size": 16777216,
+						"crc": "2865e7d9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "魔物狩猎者",
+				"comment": "双线完全修改版",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "971 - 魔物狩猎者",
+						"size": 16777216,
+						"crc": "e26f95c8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "麻烦制造者",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "894 - 麻烦制造者",
+						"size": 17914508,
+						"crc": "27a0fd3e"
 					}
 				}
 			]
@@ -13219,6 +16495,42 @@
 		},
 		{
 			"machine": {
+				"name": "黑暗复苏",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "959 - 黑暗复苏",
+						"size": 16777216,
+						"crc": "0ea7fb9d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "黑暗无双",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "803 - 黑暗无双",
+						"size": 17008656,
+						"crc": "7e7ef874"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "黑暗的指引",
 				"comment": "",
 				"description": null,
@@ -13231,6 +16543,42 @@
 						"name": "785 - 黑暗的指引",
 						"size": 17825792,
 						"crc": "ac009a17"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "黑暗轮回者-006最终版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "855 - 黑暗轮回者-006最终版",
+						"size": 32267124,
+						"crc": "4188cf4b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "黑暗轮回者-007优化简单版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "854 - 黑暗轮回者-007优化简单版",
+						"size": 32270164,
+						"crc": "48d59dbf"
 					}
 				}
 			]

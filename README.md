@@ -1,7 +1,13 @@
 # FE-ROM-Hack-Database
 Database of Fire Emblem ROM hacks for ROM managers
 
+*CRC-32 Checksum Only*
+
 **⚠️No ROMs or links to ROMs included!**
+
+**⚠作品の宣伝やパッチの再配布のサイトではありません！**
+
+**⚠这里没有资源可供您下载，请勿伸手！**
 
 ☞ Be sure to read https://github.com/laqieer/FE-ROM-Hack-Database/issues/2 &  https://github.com/laqieer/FE-ROM-Hack-Database/issues/3
 
@@ -20,3 +26,9 @@ You are recommended to use ROM managers comptiable with this format.
 - Others: [DATs](https://github.com/laqieer/FE-ROM-Hack-Database/tree/main/DATs)
 
 They are converted from the previous format by [SabreTools](https://github.com/SabreTools/SabreTools). Read [this](https://github.com/SabreTools/SabreTools/wiki/DatFile-Formats) to learn more.
+
+![image](https://user-images.githubusercontent.com/8841957/160256082-e9f2ec1b-3b49-458c-bab2-4575aaf4d231.png)
+
+## How to Contribute
+
+Feel free to [create an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) if you want to report mistakes, submit new hacks or update information.

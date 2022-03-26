@@ -6948,17 +6948,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>489 - Host of the Dark</title>
 			<saveType>None</saveType>
-			<romSize>28808224</romSize>
+			<romSize>31293448</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">7CAB585E</romCRC>
+				<romCRC extension=".">5D9BF4F7</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-wip-host-of-the-dark-overhaul-0-2-8-main-chapters-2-gaidens/12731</comment>
+			<comment>https://feuniverse.us/t/fe8-wip-host-of-the-dark-0-3-11-main-chapters-2-gaidens/12731</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

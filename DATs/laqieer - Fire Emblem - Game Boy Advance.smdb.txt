@@ -379,7 +379,7 @@
 	Heroes of Valencia and Archanea/261 - Heroes of Valencia and Archanea			0c8502f7	16804540
 	Home By Winter/595 - Home By Winter			b1ec4ef5	19463740
 	Horizons/493 - Horizons			63f74902	23323800
-	Host of the Dark/489 - Host of the Dark			7cab585e	28808224
+	Host of the Dark/489 - Host of the Dark			5d9bf4f7	31293448
 	Human Armory/527 - Human Armory			90b0a9a5	16784272
 	IF禁忌/810 - IF禁忌			32934a7b	19896368
 	IF禁忌 - 十六夜/820 - IF禁忌 - 十六夜			b95e4efb	27691692

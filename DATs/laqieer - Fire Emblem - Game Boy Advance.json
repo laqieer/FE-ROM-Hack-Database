@@ -6956,7 +6956,7 @@
 		{
 			"machine": {
 				"name": "Host of the Dark",
-				"comment": "https://feuniverse.us/t/fe8-wip-host-of-the-dark-overhaul-0-2-8-main-chapters-2-gaidens/12731",
+				"comment": "https://feuniverse.us/t/fe8-wip-host-of-the-dark-0-3-11-main-chapters-2-gaidens/12731",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -6965,8 +6965,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "489 - Host of the Dark",
-						"size": 28808224,
-						"crc": "7cab585e"
+						"size": 31293448,
+						"crc": "5d9bf4f7"
 					}
 				}
 			]

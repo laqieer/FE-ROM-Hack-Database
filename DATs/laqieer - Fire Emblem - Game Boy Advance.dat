@@ -407,7 +407,7 @@ game (
 game (
 	name "Curse Of The Emblem Version 0.001"
 	description "Curse Of The Emblem Version 0.001"
-	rom ( name "508 - Curse Of The Emblem Version 0" size "14711608" crc "9c658b28" )
+	rom ( name "508 - Curse Of The Emblem Version 0.001" size "14711608" crc "9c658b28" )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode)"
@@ -1643,7 +1643,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -1913,7 +1913,7 @@ game (
 game (
 	name "Host of the Dark"
 	description "Host of the Dark"
-	rom ( name "489 - Host of the Dark" size "28808224" crc "7cab585e" )
+	rom ( name "489 - Host of the Dark" size "31293448" crc "5d9bf4f7" )
 )
 game (
 	name "Human Armory"
@@ -2113,7 +2113,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -2568,7 +2568,7 @@ game (
 game (
 	name "S.S-Monster Mash"
 	description "S.S-Monster Mash"
-	rom ( name "632 - S" size "19363688" crc "32494392" )
+	rom ( name "632 - S.S-Monster Mash" size "19363688" crc "32494392" )
 )
 game (
 	name "Sacred Contention"
@@ -3183,12 +3183,12 @@ game (
 game (
 	name "The Sacred War (Final Update - v1.51)"
 	description "The Sacred War (Final Update - v1.51)"
-	rom ( name "173 - The Sacred War (Final Update - v1" size "31187848" crc "8dc775b2" )
+	rom ( name "173 - The Sacred War (Final Update - v1.51)" size "31187848" crc "8dc775b2" )
 )
 game (
 	name "The Sacred War (Starting Version - v1.36)"
 	description "The Sacred War (Starting Version - v1.36)"
-	rom ( name "172 - The Sacred War (Starting Version - v1" size "31133988" crc "9ff4790d" )
+	rom ( name "172 - The Sacred War (Starting Version - v1.36)" size "31133988" crc "9ff4790d" )
 )
 game (
 	name "The Sun God’s Wrath"

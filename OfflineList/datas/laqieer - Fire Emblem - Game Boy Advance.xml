@@ -6732,15 +6732,15 @@
 			<releaseNumber>489</releaseNumber>
 			<title>Host of the Dark</title>
 			<saveType>Sram_F_v103</saveType>
-			<romSize>28808224</romSize>
+			<romSize>31293448</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>TheGhostCreator</sourceRom>
 			<language>2</language>
-			<files><romCRC extension=".gba">7CAB585E</romCRC></files>
+			<files><romCRC extension=".gba">5D9BF4F7</romCRC></files>
 			<im1CRC>98F37267</im1CRC>
 			<im2CRC>3F5218CA</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-wip-host-of-the-dark-overhaul-0-2-8-main-chapters-2-gaidens/12731</comment>
+			<comment>https://feuniverse.us/t/fe8-wip-host-of-the-dark-0-3-11-main-chapters-2-gaidens/12731</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>

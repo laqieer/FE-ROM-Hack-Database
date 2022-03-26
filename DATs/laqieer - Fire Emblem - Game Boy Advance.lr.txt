@@ -1521,7 +1521,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Host of the Dark".
 Name                                   Size Checksum
-489 - Host of the Dark             28808224 CRC(7cab585e)
+489 - Host of the Dark             31293448 CRC(5d9bf4f7)
 
 ROMs required for driver "Human Armory".
 Name                                   Size Checksum

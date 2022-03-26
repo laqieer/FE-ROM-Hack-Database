@@ -3050,7 +3050,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
+				<rom name="489 - Host of the Dark" size="31293448" crc="5d9bf4f7" />
 			</dataarea>
 		</part>
 	</software>

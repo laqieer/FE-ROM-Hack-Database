@@ -1142,7 +1142,7 @@
 		<rom name="493 - Horizons" size="23323800" crc="63f74902" />
 	</machine>
 	<machine name="Host of the Dark">
-		<rom name="489 - Host of the Dark" size="28808224" crc="7cab585e" />
+		<rom name="489 - Host of the Dark" size="31293448" crc="5d9bf4f7" />
 	</machine>
 	<machine name="Human Armory">
 		<rom name="527 - Human Armory" size="16784272" crc="90b0a9a5" />

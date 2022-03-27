@@ -1,0 +1,16 @@
+<game>
+	<imageNumber>0</imageNumber>
+	<releaseNumber>0</releaseNumber>
+	<title></title>
+	<saveType>Sram_F_v103</saveType>
+	<romSize>16777216</romSize>
+	<publisher>Fan Modding</publisher>
+	<location>1</location>
+	<sourceRom></sourceRom>
+	<language>2</language>
+	<files><romCRC extension=".gba"></romCRC></files>
+	<im1CRC>0</im1CRC>
+	<im2CRC>0</im2CRC>
+	<comment></comment>
+	<duplicateID>0</duplicateID>
+</game>

@@ -2708,7 +2708,7 @@
 			<files><romCRC extension=".gba">60A52D28</romCRC></files>
 			<im1CRC>4614B52F</im1CRC>
 			<im2CRC>16182B52</im2CRC>
-			<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640</comment>
+			<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-2-3/12640</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -3220,7 +3220,7 @@
 			<files><romCRC extension=".gba">08B68511</romCRC></files>
 			<im1CRC>D4B1F58B</im1CRC>
 			<im2CRC>259C90B5</im2CRC>
-			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<comment>https://feuniverse.us/t/fexna-staff-of-ages-first-xna-release-out-now/1182</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -5468,15 +5468,15 @@
 			<releaseNumber>410</releaseNumber>
 			<title>Bloodlines</title>
 			<saveType>Sram_F_v102</saveType>
-			<romSize>26362620</romSize>
+			<romSize>26364440</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>1</location>
 			<sourceRom>Ghast</sourceRom>
 			<language>2</language>
-			<files><romCRC extension=".gba">1E076CEA</romCRC></files>
+			<files><romCRC extension=".gba">33B2DD3C</romCRC></files>
 			<im1CRC>91F66B54</im1CRC>
 			<im2CRC>12C84E9D</im2CRC>
-			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-24-public-patch-is-released-check-the-first-post/423</comment>
+			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -12481,10 +12481,10 @@
 			<location>7</location>
 			<sourceRom>xxx的戏剧</sourceRom>
 			<language>4</language>
-			<files><romCRC extension=".gba">00EE59E6</romCRC></files>
+			<files><romCRC extension=".gba">A682EC6A</romCRC></files>
 			<im1CRC>71703B57</im1CRC>
 			<im2CRC>0DF97B03</im2CRC>
-			<comment></comment>
+			<comment>4.5.1</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>
@@ -14693,6 +14693,54 @@
 			<im1CRC>08BC1D4B</im1CRC>
 			<im2CRC>FEA8D099</im2CRC>
 			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>987</imageNumber>
+			<releaseNumber>987</releaseNumber>
+			<title>Tierra Maldita</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>17572088</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>keymavega</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">4C5A347C</romCRC></files>
+			<im1CRC>FD9F0240</im1CRC>
+			<im2CRC>939BE24D</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>988</imageNumber>
+			<releaseNumber>988</releaseNumber>
+			<title>FE Colored</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>22262344</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>lemon</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">1B3DA853</romCRC></files>
+			<im1CRC>09B2BC59</im1CRC>
+			<im2CRC>B1468E8A</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-wip-fe-colored-8-chapters-4-5-hours/15506</comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>989</imageNumber>
+			<releaseNumber>989</releaseNumber>
+			<title>The Phantom King</title>
+			<saveType>Sram_F_v103</saveType>
+			<romSize>25644220</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>1</location>
+			<sourceRom>RandomMercenary</sourceRom>
+			<language>2</language>
+			<files><romCRC extension=".gba">FA76F0C0</romCRC></files>
+			<im1CRC>06935B13</im1CRC>
+			<im2CRC>CC266855</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-phantom-king/10450</comment>
 			<duplicateID>0</duplicateID>
 		</game>
 	</games>

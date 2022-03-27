@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220326"
+	version "20220327"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -407,7 +407,7 @@ game (
 game (
 	name "Curse Of The Emblem Version 0.001"
 	description "Curse Of The Emblem Version 0.001"
-	rom ( name "508 - Curse Of The Emblem Version 0.001" size "14711608" crc "9c658b28" )
+	rom ( name "508 - Curse Of The Emblem Version 0" size "14711608" crc "9c658b28" )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode)"
@@ -2568,7 +2568,7 @@ game (
 game (
 	name "S.S-Monster Mash"
 	description "S.S-Monster Mash"
-	rom ( name "632 - S.S-Monster Mash" size "19363688" crc "32494392" )
+	rom ( name "632 - S" size "19363688" crc "32494392" )
 )
 game (
 	name "Sacred Contention"
@@ -3183,12 +3183,12 @@ game (
 game (
 	name "The Sacred War (Final Update - v1.51)"
 	description "The Sacred War (Final Update - v1.51)"
-	rom ( name "173 - The Sacred War (Final Update - v1.51)" size "31187848" crc "8dc775b2" )
+	rom ( name "173 - The Sacred War (Final Update - v1" size "31187848" crc "8dc775b2" )
 )
 game (
 	name "The Sacred War (Starting Version - v1.36)"
 	description "The Sacred War (Starting Version - v1.36)"
-	rom ( name "172 - The Sacred War (Starting Version - v1.36)" size "31133988" crc "9ff4790d" )
+	rom ( name "172 - The Sacred War (Starting Version - v1" size "31133988" crc "9ff4790d" )
 )
 game (
 	name "The Sun God’s Wrath"

@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20220326</datVersion>
+		<datVersion>20220327</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -8831,7 +8831,7 @@
 			<romSize>8589272</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>7</location>
-			<sourceRom>Darrman</sourceRom>
+			<sourceRom>Adthor</sourceRom>
 			<language>2</language>
 			<files><romCRC extension=".gba">19BD10E9</romCRC></files>
 			<im1CRC>0343611C</im1CRC>
@@ -8847,7 +8847,7 @@
 			<romSize>8589272</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>7</location>
-			<sourceRom>Darrman</sourceRom>
+			<sourceRom>Adthor</sourceRom>
 			<language>2</language>
 			<files><romCRC extension=".gba">4472A16C</romCRC></files>
 			<im1CRC>98E915E6</im1CRC>
@@ -8863,7 +8863,7 @@
 			<romSize>8589272</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>7</location>
-			<sourceRom>Darrman</sourceRom>
+			<sourceRom>Adthor</sourceRom>
 			<language>2</language>
 			<files><romCRC extension=".gba">4A11F899</romCRC></files>
 			<im1CRC>F7CF0F66</im1CRC>
@@ -8879,7 +8879,7 @@
 			<romSize>8589312</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>7</location>
-			<sourceRom>Darrman</sourceRom>
+			<sourceRom>Adthor</sourceRom>
 			<language>2</language>
 			<files><romCRC extension=".gba">B3045421</romCRC></files>
 			<im1CRC>79A41090</im1CRC>

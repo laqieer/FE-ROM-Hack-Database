@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="0sheng mo">
+	<software name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -405,7 +405,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="410 - Bloodlines" size="26362620" crc="1e076cea" />
+				<rom name="410 - Bloodlines" size="26364440" crc="33b2dd3c" />
 			</dataarea>
 		</part>
 	</software>
@@ -657,6 +657,30 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Dark Dragon Reborn">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1005 - Dark Dragon Reborn" size="19859020" crc="62adfa62" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dark Dragon Reborn (Fixed Growths)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1007 - Dark Dragon Reborn (Fixed Growths)" size="19859020" crc="39be8812" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dark Dragon Reborn (Minimugs)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1006 - Dark Dragon Reborn (Minimugs)" size="19859020" crc="1d3cbd2e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Dark Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -782,6 +806,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="228 - Deity Device (Part 3)" size="28950336" crc="5e69347e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Deity Device - Saint&amp;rsquo;s Blood">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1008 - Deity Device - Saint&amp;rsquo;s Blood" size="24726004" crc="042671c4" />
 			</dataarea>
 		</part>
 	</software>
@@ -1105,6 +1137,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 - Armor emblem">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="995 - FE6 - Armor emblem" size="9405556" crc="a631aa2c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 - Armor emblem (Heroes version)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="996 - FE6 - Armor emblem (Heroes version)" size="9405556" crc="c3ed353b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 - Armor emblem (Knightlier version)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="997 - FE6 - Armor emblem (Knightlier version)" size="9405556" crc="4ded7c5b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 - Armor emblem (Triangle version)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="998 - FE6 - Armor emblem (Triangle version)" size="9405556" crc="515aea9a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 All Mounts">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1182,6 +1246,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="615 - FE6 But Everything Hits (Minimum Growths Mode)" size="16777532" crc="eb4322ea" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Fire Embad">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1016 - FE6 Fire Embad" size="9281240" crc="da5bd403" />
 			</dataarea>
 		</part>
 	</software>
@@ -1302,6 +1374,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="694 - FE6 smabroROY" size="8829832" crc="187655d6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 The Blinding Fog">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1013 - FE6 The Blinding Fog" size="16777532" crc="abd06511" />
 			</dataarea>
 		</part>
 	</software>
@@ -1478,6 +1558,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 - the Community Edition">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1009 - FE7 - the Community Edition" size="21445516" crc="94bf4325" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Allegiance Reversal+">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1491,6 +1579,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="596 - FE7 Boss Recruitment" size="17102564" crc="1e48ca58" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Boss Swap">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="993 - FE7 Boss Swap" size="17543272" crc="2f6e3fa3" />
 			</dataarea>
 		</part>
 	</software>
@@ -1822,6 +1918,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Mind edition">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1017 - FE8 Mind edition" size="16777216" crc="9891a739" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Monster Quest">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1851,6 +1955,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="397 - FE8 Project Dark" size="17578004" crc="4b31296b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Project Rock - Yet Another FE8 Rebalance">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1014 - FE8 Project Rock - Yet Another FE8 Rebalance" size="18238032" crc="0fdb3352" />
 			</dataarea>
 		</part>
 	</software>
@@ -2110,14 +2222,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="FE16RE">
-		<publisher>Fan Modding</publisher>
-		<part name="" interface="">
-			<dataarea name="rom">
-				<rom name="812 - FE16RE" size="16777216" crc="d1d36019" />
-			</dataarea>
-		</part>
-	</software>
 	<software name="Fe 8 Chess">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2131,6 +2235,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="198 - FE but it’s my Biology Homework" size="17279456" crc="385de2ec" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE Colored">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="988 - FE Colored" size="22262344" crc="1b3da853" />
 			</dataarea>
 		</part>
 	</software>
@@ -2467,6 +2579,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="827 - Fire Emblem - Justice and Pride (Chinese Translation)" size="27407516" crc="3c5e7160" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Of Sand and Sabres">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1010 - Fire Emblem - Of Sand and Sabres" size="19167232" crc="bfb7df72" />
 			</dataarea>
 		</part>
 	</software>
@@ -2862,6 +2982,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Flier Emblem - Return of the Circle">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1012 - Flier Emblem - Return of the Circle" size="33554432" crc="78051f91" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Foreboding Dusk">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2907,6 +3035,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="602 - Frog's Two Hour Blitz - Steel" size="16855668" crc="8ebafd51" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Frozen Throes">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="990 - Frozen Throes" size="23303676" crc="05f8ebfd" />
 			</dataarea>
 		</part>
 	</software>
@@ -3550,6 +3686,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Myth of Blight">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1015 - Myth of Blight" size="29573016" crc="26623bac" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Mythgraven">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3614,6 +3758,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Nothing Emblem - Because nothing">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="994 - Nothing Emblem - Because nothing" size="16785408" crc="f8b35a5d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="OC Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3675,6 +3827,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="642 - Pandan's 1h Blitz" size="18101564" crc="49578a86" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Parallel Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1002 - Parallel Emblem" size="27802356" crc="496771b6" />
 			</dataarea>
 		</part>
 	</software>
@@ -3747,6 +3907,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="133 - Prisoner of Darkness (Hard Mode)" size="20971560" crc="1bbb05e1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Proj.Lysithea">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="812 - Proj" size="16777216" crc="d1d36019" />
 			</dataarea>
 		</part>
 	</software>
@@ -3843,6 +4011,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size="25877192" crc="bdf5dc0e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project RE7">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1011 - Project RE7" size="30141292" crc="e299b969" />
 			</dataarea>
 		</part>
 	</software>
@@ -4534,6 +4710,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Subtitle">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="992 - Subtitle" size="21481648" crc="1b59d8ea" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="SubwayBossEmmett's Two Hour Blitz - Royal Escape">
 		<publisher>Blitz</publisher>
 		<part name="" interface="">
@@ -4958,6 +5142,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Last Royal">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1000 - The Last Royal" size="33545888" crc="33a264b8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Royal (Time to Split)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1001 - The Last Royal (Time to Split)" size="32459808" crc="807d77a6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Lonely Mirror (Classic)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4995,6 +5195,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="448 - The Nameless Heroes (English Translation)" size="29782176" crc="36042746" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Phantom King">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="989 - The Phantom King" size="25644220" crc="fa76f0c0" />
 			</dataarea>
 		</part>
 	</software>
@@ -5094,6 +5302,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Seven Keys">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1003 - The Seven Keys" size="21411712" crc="66c28210" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Sun God’s Wrath">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5150,6 +5366,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="THWD2 - The Heist We Deserve">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Tierra Maldita">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="987 - Tierra Maldita" size="17572088" crc="4c5a347c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Tirado Emblem">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5187,6 +5419,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="515 - Tower Defense" size="16793408" crc="6b65ad16" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Trainee Emblem 8">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="991 - Trainee Emblem 8" size="18209920" crc="4396d416" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Transcending Darkness">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1004 - Transcending Darkness" size="31961496" crc="538a714d" />
 			</dataarea>
 		</part>
 	</software>
@@ -6938,7 +7186,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="848 - 苍炎的勇者" size="32668748" crc="00ee59e6" />
+				<rom name="848 - 苍炎的勇者" size="32668748" crc="a682ec6a" />
 			</dataarea>
 		</part>
 	</software>

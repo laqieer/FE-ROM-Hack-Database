@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220327"
+	version "20220328"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -262,7 +262,7 @@ game (
 game (
 	name "Bloodlines"
 	description "Bloodlines"
-	rom ( name "410 - Bloodlines" size "26362620" crc "1e076cea" )
+	rom ( name "410 - Bloodlines" size "26364440" crc "33b2dd3c" )
 )
 game (
 	name "BobbyYukitsuki's Two Hour Blitz"
@@ -420,6 +420,21 @@ game (
 	rom ( name "560 - Darion’s Blazing Sword (Hector mode)" size "16777216" crc "908e9a34" )
 )
 game (
+	name "Dark Dragon Reborn"
+	description "Dark Dragon Reborn"
+	rom ( name "1005 - Dark Dragon Reborn" size "19859020" crc "62adfa62" )
+)
+game (
+	name "Dark Dragon Reborn (Fixed Growths)"
+	description "Dark Dragon Reborn (Fixed Growths)"
+	rom ( name "1007 - Dark Dragon Reborn (Fixed Growths)" size "19859020" crc "39be8812" )
+)
+game (
+	name "Dark Dragon Reborn (Minimugs)"
+	description "Dark Dragon Reborn (Minimugs)"
+	rom ( name "1006 - Dark Dragon Reborn (Minimugs)" size "19859020" crc "1d3cbd2e" )
+)
+game (
 	name "Dark Emblem"
 	description "Dark Emblem"
 	rom ( name "263 - Dark Emblem" size "23383092" crc "74277073" )
@@ -498,6 +513,11 @@ game (
 	name "Deity Device (Part 3)"
 	description "Deity Device (Part 3)"
 	rom ( name "228 - Deity Device (Part 3)" size "28950336" crc "5e69347e" )
+)
+game (
+	name "Deity Device - Saint&rsquo;s Blood"
+	description "Deity Device - Saint&rsquo;s Blood"
+	rom ( name "1008 - Deity Device - Saint&rsquo;s Blood" size "24726004" crc "042671c4" )
 )
 game (
 	name "Demon’s Curse"
@@ -700,6 +720,26 @@ game (
 	rom ( name "762 - FE4 Advance (joke demo)" size "22586360" crc "3b1913e8" )
 )
 game (
+	name "FE6 - Armor emblem"
+	description "FE6 - Armor emblem"
+	rom ( name "995 - FE6 - Armor emblem" size "9405556" crc "a631aa2c" )
+)
+game (
+	name "FE6 - Armor emblem (Heroes version)"
+	description "FE6 - Armor emblem (Heroes version)"
+	rom ( name "996 - FE6 - Armor emblem (Heroes version)" size "9405556" crc "c3ed353b" )
+)
+game (
+	name "FE6 - Armor emblem (Knightlier version)"
+	description "FE6 - Armor emblem (Knightlier version)"
+	rom ( name "997 - FE6 - Armor emblem (Knightlier version)" size "9405556" crc "4ded7c5b" )
+)
+game (
+	name "FE6 - Armor emblem (Triangle version)"
+	description "FE6 - Armor emblem (Triangle version)"
+	rom ( name "998 - FE6 - Armor emblem (Triangle version)" size "9405556" crc "515aea9a" )
+)
+game (
 	name "FE6 All Mounts"
 	description "FE6 All Mounts"
 	rom ( name "297 - FE6 All Mounts" size "16777532" crc "cc905927" )
@@ -748,6 +788,11 @@ game (
 	name "FE6 But Everything Hits (Minimum Growths Mode)"
 	description "FE6 But Everything Hits (Minimum Growths Mode)"
 	rom ( name "615 - FE6 But Everything Hits (Minimum Growths Mode)" size "16777532" crc "eb4322ea" )
+)
+game (
+	name "FE6 Fire Embad"
+	description "FE6 Fire Embad"
+	rom ( name "1016 - FE6 Fire Embad" size "9281240" crc "da5bd403" )
 )
 game (
 	name "FE6 Google Translated"
@@ -823,6 +868,11 @@ game (
 	name "FE6 smabroROY"
 	description "FE6 smabroROY"
 	rom ( name "694 - FE6 smabroROY" size "8829832" crc "187655d6" )
+)
+game (
+	name "FE6 The Blinding Fog"
+	description "FE6 The Blinding Fog"
+	rom ( name "1013 - FE6 The Blinding Fog" size "16777532" crc "abd06511" )
 )
 game (
 	name "FE6 The Divine War"
@@ -931,6 +981,11 @@ game (
 	rom ( name "766 - FE6RRaddendum" size "8388608" crc "d360f35f" )
 )
 game (
+	name "FE7 - the Community Edition"
+	description "FE7 - the Community Edition"
+	rom ( name "1009 - FE7 - the Community Edition" size "21445516" crc "94bf4325" )
+)
+game (
 	name "FE7 Allegiance Reversal+"
 	description "FE7 Allegiance Reversal+"
 	rom ( name "264 - FE7 Allegiance Reversal+" size "16911048" crc "8870c624" )
@@ -939,6 +994,11 @@ game (
 	name "FE7 Boss Recruitment"
 	description "FE7 Boss Recruitment"
 	rom ( name "596 - FE7 Boss Recruitment" size "17102564" crc "1e48ca58" )
+)
+game (
+	name "FE7 Boss Swap"
+	description "FE7 Boss Swap"
+	rom ( name "993 - FE7 Boss Swap" size "17543272" crc "2f6e3fa3" )
 )
 game (
 	name "FE7 Chaos Mode"
@@ -1146,6 +1206,11 @@ game (
 	rom ( name "177 - FE8 midori (Green) (English Translation)" size "33554432" crc "4279b308" )
 )
 game (
+	name "FE8 Mind edition"
+	description "FE8 Mind edition"
+	rom ( name "1017 - FE8 Mind edition" size "16777216" crc "9891a739" )
+)
+game (
 	name "FE8 Monster Quest"
 	description "FE8 Monster Quest"
 	rom ( name "555 - FE8 Monster Quest" size "16777216" crc "727c8365" )
@@ -1164,6 +1229,11 @@ game (
 	name "FE8 Project Dark"
 	description "FE8 Project Dark"
 	rom ( name "397 - FE8 Project Dark" size "17578004" crc "4b31296b" )
+)
+game (
+	name "FE8 Project Rock - Yet Another FE8 Rebalance"
+	description "FE8 Project Rock - Yet Another FE8 Rebalance"
+	rom ( name "1014 - FE8 Project Rock - Yet Another FE8 Rebalance" size "18238032" crc "0fdb3352" )
 )
 game (
 	name "FE8 prologue (序章if)"
@@ -1326,11 +1396,6 @@ game (
 	rom ( name "706 - FE8改造" size "16777216" crc "616dfbb4" )
 )
 game (
-	name "FE16RE"
-	description "FE16RE"
-	rom ( name "812 - FE16RE" size "16777216" crc "d1d36019" )
-)
-game (
 	name "Fe 8 Chess"
 	description "Fe 8 Chess"
 	rom ( name "241 - Fe 8 Chess" size "16806152" crc "d5ddb5e8" )
@@ -1339,6 +1404,11 @@ game (
 	name "FE but it’s my Biology Homework"
 	description "FE but it’s my Biology Homework"
 	rom ( name "198 - FE but it’s my Biology Homework" size "17279456" crc "385de2ec" )
+)
+game (
+	name "FE Colored"
+	description "FE Colored"
+	rom ( name "988 - FE Colored" size "22262344" crc "1b3da853" )
 )
 game (
 	name "FE The Grand Uprising"
@@ -1551,6 +1621,11 @@ game (
 	rom ( name "827 - Fire Emblem - Justice and Pride (Chinese Translation)" size "27407516" crc "3c5e7160" )
 )
 game (
+	name "Fire Emblem - Of Sand and Sabres"
+	description "Fire Emblem - Of Sand and Sabres"
+	rom ( name "1010 - Fire Emblem - Of Sand and Sabres" size "19167232" crc "bfb7df72" )
+)
+game (
 	name "Fire Emblem - Order of the Crimson Arm"
 	description "Fire Emblem - Order of the Crimson Arm"
 	rom ( name "407 - Fire Emblem - Order of the Crimson Arm" size "25073560" crc "7f5a1b3a" )
@@ -1643,7 +1718,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -1796,6 +1871,11 @@ game (
 	rom ( name "240 - Flames of Redemption (supports unlocked)" size "24536888" crc "0c835af0" )
 )
 game (
+	name "Flier Emblem - Return of the Circle"
+	description "Flier Emblem - Return of the Circle"
+	rom ( name "1012 - Flier Emblem - Return of the Circle" size "33554432" crc "78051f91" )
+)
+game (
 	name "Foreboding Dusk"
 	description "Foreboding Dusk"
 	rom ( name "244 - Foreboding Dusk" size "16888400" crc "2220983b" )
@@ -1824,6 +1904,11 @@ game (
 	name "Frog's Two Hour Blitz - Steel"
 	description "Frog's Two Hour Blitz - Steel"
 	rom ( name "602 - Frog's Two Hour Blitz - Steel" size "16855668" crc "8ebafd51" )
+)
+game (
+	name "Frozen Throes"
+	description "Frozen Throes"
+	rom ( name "990 - Frozen Throes" size "23303676" crc "05f8ebfd" )
 )
 game (
 	name "Gay Baby Emblem"
@@ -2113,7 +2198,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -2226,6 +2311,11 @@ game (
 	rom ( name "685 - Mystic's MAFC FEU It Again patch" size "16777216" crc "4d217204" )
 )
 game (
+	name "Myth of Blight"
+	description "Myth of Blight"
+	rom ( name "1015 - Myth of Blight" size "29573016" crc "26623bac" )
+)
+game (
 	name "Mythgraven"
 	description "Mythgraven"
 	rom ( name "624 - Mythgraven" size "23670068" crc "bc28fd5d" )
@@ -2266,6 +2356,11 @@ game (
 	rom ( name "391 - Not Fire Emblem 8" size "16777216" crc "feea2917" )
 )
 game (
+	name "Nothing Emblem - Because nothing"
+	description "Nothing Emblem - Because nothing"
+	rom ( name "994 - Nothing Emblem - Because nothing" size "16785408" crc "f8b35a5d" )
+)
+game (
 	name "OC Emblem"
 	description "OC Emblem"
 	rom ( name "413 - OC Emblem" size "21489356" crc "5f29fe04" )
@@ -2304,6 +2399,11 @@ game (
 	name "Pandan's 1h Blitz"
 	description "Pandan's 1h Blitz"
 	rom ( name "642 - Pandan's 1h Blitz" size "18101564" crc "49578a86" )
+)
+game (
+	name "Parallel Emblem"
+	description "Parallel Emblem"
+	rom ( name "1002 - Parallel Emblem" size "27802356" crc "496771b6" )
 )
 game (
 	name "Parliament of Heroes"
@@ -2349,6 +2449,11 @@ game (
 	name "Prisoner of Darkness (Hard Mode)"
 	description "Prisoner of Darkness (Hard Mode)"
 	rom ( name "133 - Prisoner of Darkness (Hard Mode)" size "20971560" crc "1bbb05e1" )
+)
+game (
+	name "Proj.Lysithea"
+	description "Proj.Lysithea"
+	rom ( name "812 - Proj" size "16777216" crc "d1d36019" )
 )
 game (
 	name "Project dondon"
@@ -2409,6 +2514,11 @@ game (
 	name "Project Ember (with Alternate Promotions) (Reverse Recruitment)"
 	description "Project Ember (with Alternate Promotions) (Reverse Recruitment)"
 	rom ( name "319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)" size "25877192" crc "bdf5dc0e" )
+)
+game (
+	name "Project RE7"
+	description "Project RE7"
+	rom ( name "1011 - Project RE7" size "30141292" crc "e299b969" )
 )
 game (
 	name "Prophecy of Flames"
@@ -2841,6 +2951,11 @@ game (
 	rom ( name "236 - Storge" size "20034916" crc "079106d8" )
 )
 game (
+	name "Subtitle"
+	description "Subtitle"
+	rom ( name "992 - Subtitle" size "21481648" crc "1b59d8ea" )
+)
+game (
 	name "SubwayBossEmmett's Two Hour Blitz - Royal Escape"
 	description "SubwayBossEmmett's Two Hour Blitz - Royal Escape"
 	rom ( name "604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape" size "16826076" crc "079fc81e" )
@@ -3106,6 +3221,16 @@ game (
 	rom ( name "106 - The Last Promise (Weapon Reversal)" size "33302356" crc "38f7a2c6" )
 )
 game (
+	name "The Last Royal"
+	description "The Last Royal"
+	rom ( name "1000 - The Last Royal" size "33545888" crc "33a264b8" )
+)
+game (
+	name "The Last Royal (Time to Split)"
+	description "The Last Royal (Time to Split)"
+	rom ( name "1001 - The Last Royal (Time to Split)" size "32459808" crc "807d77a6" )
+)
+game (
 	name "The Lonely Mirror (Classic)"
 	description "The Lonely Mirror (Classic)"
 	rom ( name "433 - The Lonely Mirror (Classic)" size "30220952" crc "9302de3a" )
@@ -3129,6 +3254,11 @@ game (
 	name "The Nameless Heroes (English Translation)"
 	description "The Nameless Heroes (English Translation)"
 	rom ( name "448 - The Nameless Heroes (English Translation)" size "29782176" crc "36042746" )
+)
+game (
+	name "The Phantom King"
+	description "The Phantom King"
+	rom ( name "989 - The Phantom King" size "25644220" crc "fa76f0c0" )
 )
 game (
 	name "The Purge Of Weegee"
@@ -3191,6 +3321,11 @@ game (
 	rom ( name "172 - The Sacred War (Starting Version - v1" size "31133988" crc "9ff4790d" )
 )
 game (
+	name "The Seven Keys"
+	description "The Seven Keys"
+	rom ( name "1003 - The Seven Keys" size "21411712" crc "66c28210" )
+)
+game (
 	name "The Sun God’s Wrath"
 	description "The Sun God’s Wrath"
 	rom ( name "217 - The Sun God’s Wrath" size "33007088" crc "cc06a4ef" )
@@ -3226,6 +3361,16 @@ game (
 	rom ( name "662 - There Is No Dialogue, Die" size "17267948" crc "06900b89" )
 )
 game (
+	name "THWD2 - The Heist We Deserve"
+	description "THWD2 - The Heist We Deserve"
+	rom ( name "999 - THWD2 - The Heist We Deserve" size "17152184" crc "73ac3ff9" )
+)
+game (
+	name "Tierra Maldita"
+	description "Tierra Maldita"
+	rom ( name "987 - Tierra Maldita" size "17572088" crc "4c5a347c" )
+)
+game (
 	name "Tirado Emblem"
 	description "Tirado Emblem"
 	rom ( name "282 - Tirado Emblem" size "18775380" crc "5bb0ae74" )
@@ -3249,6 +3394,16 @@ game (
 	name "Tower Defense"
 	description "Tower Defense"
 	rom ( name "515 - Tower Defense" size "16793408" crc "6b65ad16" )
+)
+game (
+	name "Trainee Emblem 8"
+	description "Trainee Emblem 8"
+	rom ( name "991 - Trainee Emblem 8" size "18209920" crc "4396d416" )
+)
+game (
+	name "Transcending Darkness"
+	description "Transcending Darkness"
+	rom ( name "1004 - Transcending Darkness" size "31961496" crc "538a714d" )
 )
 game (
 	name "Trapped In Painful Places"
@@ -4343,7 +4498,7 @@ game (
 game (
 	name "苍炎的勇者"
 	description "苍炎的勇者"
-	rom ( name "848 - 苍炎的勇者" size "32668748" crc "00ee59e6" )
+	rom ( name "848 - 苍炎的勇者" size "32668748" crc "a682ec6a" )
 )
 game (
 	name "英雄世界"

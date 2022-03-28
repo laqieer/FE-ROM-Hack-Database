@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>0sheng mo</title>
+		<title>756 - 0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1068,6 +1068,45 @@
 		</dump>
 	</software>
 	<software>
+		<title>Dark Dragon Reborn</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Dark Dragon Reborn (Fixed Growths)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Dark Dragon Reborn (Minimugs)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Dark Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1264,6 +1303,19 @@
 	</software>
 	<software>
 		<title>Deity Device (Part 3)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Deity Device - Saint&amp;rsquo;s Blood</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1796,6 +1848,58 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE6 - Armor emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 - Armor emblem (Heroes version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 - Armor emblem (Knightlier version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 - Armor emblem (Triangle version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE6 All Mounts</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1914,6 +2018,19 @@
 	</software>
 	<software>
 		<title>FE6 But Everything Hits (Minimum Growths Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Fire Embad</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2109,6 +2226,19 @@
 	</software>
 	<software>
 		<title>FE6 smabroROY</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 The Blinding Fog</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2399,6 +2529,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 - the Community Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Allegiance Reversal+</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2413,6 +2556,19 @@
 	</software>
 	<software>
 		<title>FE7 Boss Recruitment</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Boss Swap</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2958,6 +3114,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Mind edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Monster Quest</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2998,6 +3167,19 @@
 	</software>
 	<software>
 		<title>FE8 Project Dark</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Project Rock - Yet Another FE8 Rebalance</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3426,19 +3608,6 @@
 		</dump>
 	</software>
 	<software>
-		<title>FE16RE</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
 		<title>Fe 8 Chess</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -3453,6 +3622,19 @@
 	</software>
 	<software>
 		<title>FE but it’s my Biology Homework</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE Colored</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3999,6 +4181,19 @@
 	</software>
 	<software>
 		<title>Fire Emblem - Justice and Pride (Chinese Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem - Of Sand and Sabres</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -4648,6 +4843,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Flier Emblem - Return of the Circle</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Foreboding Dusk</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4714,6 +4922,19 @@
 	</software>
 	<software>
 		<title>Frog's Two Hour Blitz - Steel</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Frozen Throes</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5766,6 +5987,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Myth of Blight</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Mythgraven</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5870,6 +6104,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Nothing Emblem - Because nothing</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>OC Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5962,6 +6209,19 @@
 	</software>
 	<software>
 		<title>Pandan's 1h Blitz</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Parallel Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -6079,6 +6339,19 @@
 	</software>
 	<software>
 		<title>Prisoner of Darkness (Hard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Proj.Lysithea</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -6235,6 +6508,19 @@
 	</software>
 	<software>
 		<title>Project Ember (with Alternate Promotions) (Reverse Recruitment)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project RE7</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7365,6 +7651,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Subtitle</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>SubwayBossEmmett's Two Hour Blitz - Royal Escape</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8054,6 +8353,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Last Royal</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Last Royal (Time to Split)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Lonely Mirror (Classic)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8107,6 +8432,19 @@
 	</software>
 	<software>
 		<title>The Nameless Heroes (English Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Phantom King</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8275,6 +8613,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Seven Keys</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Sun God’s Wrath</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8366,6 +8717,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>THWD2 - The Heist We Deserve</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Tierra Maldita</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Tirado Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8419,6 +8796,32 @@
 	</software>
 	<software>
 		<title>Tower Defense</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Trainee Emblem 8</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Transcending Darkness</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

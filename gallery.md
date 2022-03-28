@@ -14,7 +14,9 @@
   <div class="column {{ rom.Language }}">
     <div class="content">
 {% assign id = rom.ID | plus: 0 %}
-{% if id > 500 %}
+{% if id > 1000 %}
+{% assign imgs_dir = "1001-1500" %}
+{% elsif id > 500 %}
 {% assign imgs_dir = "501-1000" %}
 {% else %}
 {% assign imgs_dir = "1-500" %}

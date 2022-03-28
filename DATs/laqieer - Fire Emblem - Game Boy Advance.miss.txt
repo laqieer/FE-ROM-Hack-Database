@@ -80,6 +80,9 @@
 508 - Curse Of The Emblem Version 0
 547 - Darion’s Blazing Sword (Eliwood mode)
 560 - Darion’s Blazing Sword (Hector mode)
+1005 - Dark Dragon Reborn
+1007 - Dark Dragon Reborn (Fixed Growths)
+1006 - Dark Dragon Reborn (Minimugs)
 263 - Dark Emblem
 120 - Dark Lord and the Maiden of Light
 415 - Dark Soul
@@ -96,6 +99,7 @@
 226 - Deity Device (Part 1)
 227 - Deity Device (Part 2)
 228 - Deity Device (Part 3)
+1008 - Deity Device - Saint&rsquo;s Blood
 414 - Demon’s Curse
 506 - Desperate Struggle
 339 - Devourer of Time (Hard mode)
@@ -136,6 +140,10 @@
 558 - Father of a Legend
 260 - FE1 GBA
 762 - FE4 Advance (joke demo)
+995 - FE6 - Armor emblem
+996 - FE6 - Armor emblem (Heroes version)
+997 - FE6 - Armor emblem (Knightlier version)
+998 - FE6 - Armor emblem (Triangle version)
 297 - FE6 All Mounts
 597 - FE6 Boss Recruitment
 620 - FE6 BugFixEdition
@@ -146,6 +154,7 @@
 616 - FE6 But Everything Hits (Average Growths Mode)
 617 - FE6 But Everything Hits (Maximum Growths Mode)
 615 - FE6 But Everything Hits (Minimum Growths Mode)
+1016 - FE6 Fire Embad
 299 - FE6 Google Translated
 599 - FE6 has DSFE movement
 320 - FE6 Incandescence Edition
@@ -161,6 +170,7 @@
 321 - FE6 Refurbished
 326 - FE6 rom with HM bonuses for everyone
 694 - FE6 smabroROY
+1013 - FE6 The Blinding Fog
 551 - FE6 The Divine War
 298 - FE6 Unfair and Bad
 300 - FE6 Unit Swap (Balanced)
@@ -183,8 +193,10 @@
 690 - FE6R
 765 - FE6RR
 766 - FE6RRaddendum
+1009 - FE7 - the Community Edition
 264 - FE7 Allegiance Reversal+
 596 - FE7 Boss Recruitment
+993 - FE7 Boss Swap
 332 - FE7 Chaos Mode
 581 - FE7 Heroes
 112 - FE7 Inflation
@@ -226,10 +238,12 @@
 378 - FE8 Master Version
 176 - FE8 midori (Green)
 177 - FE8 midori (Green) (English Translation)
+1017 - FE8 Mind edition
 555 - FE8 Monster Quest
 367 - FE8 Negative Growths
 403 - FE8 Oops, All Archers!
 397 - FE8 Project Dark
+1014 - FE8 Project Rock - Yet Another FE8 Rebalance
 769 - FE8 prologue (序章if)
 375 - FE8 QoL Edition
 399 - FE8 Redux
@@ -262,9 +276,9 @@
 759 - FE8U 0% growths
 977 - FE8女版
 706 - FE8改造
-812 - FE16RE
 241 - Fe 8 Chess
 198 - FE but it’s my Biology Homework
+988 - FE Colored
 213 - FE The Grand Uprising
 214 - FE The Grand Uprising (Blue default player phase map sprite palette)
 463 - Fe Time Scarred - Rebirth
@@ -307,6 +321,7 @@
 247 - Fire Emblem - Izarck’s Quest
 188 - Fire Emblem - Justice and Pride
 827 - Fire Emblem - Justice and Pride (Chinese Translation)
+1010 - Fire Emblem - Of Sand and Sabres
 407 - Fire Emblem - Order of the Crimson Arm
 146 - Fire Emblem - Reawakening
 220 - Fire Emblem - Reborn Dimensions, Olethian Princess
@@ -356,12 +371,14 @@
 459 - Flames of Freedom
 239 - Flames of Redemption
 240 - Flames of Redemption (supports unlocked)
+1012 - Flier Emblem - Return of the Circle
 244 - Foreboding Dusk
 394 - Fort Mangs Emblem
 660 - Fort Nunya
 208 - Four Kings - Deposition
 209 - Free for All
 602 - Frog's Two Hour Blitz - Steel
+990 - Frozen Throes
 166 - Gay Baby Emblem
 630 - Genesis
 259 - GFE1R
@@ -442,6 +459,7 @@
 674 - Myrrh Goes To Mc Donalds
 644 - MysteriousDancer's 1h Blitz - Questionable Innocence
 685 - Mystic's MAFC FEU It Again patch
+1015 - Myth of Blight
 624 - Mythgraven
 669 - Nabatas Ghost
 199 - Narcian and the Mirror Chamber
@@ -450,6 +468,7 @@
 223 - Necrosis Among the Living (Prequel)
 257 - Nintenlord Saga
 391 - Not Fire Emblem 8
+994 - Nothing Emblem - Because nothing
 413 - OC Emblem
 670 - OC Emblem - Endgame
 625 - OC Emblem Redux
@@ -458,6 +477,7 @@
 171 - One-Week Hack
 329 - Oops! All Sophias
 642 - Pandan's 1h Blitz
+1002 - Parallel Emblem
 619 - Parliament of Heroes
 344 - Path of a Hero
 345 - Path of a Hero (DLC Lloyd’s Story)
@@ -467,6 +487,7 @@
 663 - Prepare to Die
 140 - Prisoner of Darkness
 133 - Prisoner of Darkness (Hard Mode)
+812 - Proj
 778 - Project dondon
 313 - Project Ember (HM Fixed Growths)
 309 - Project Ember (HM)
@@ -479,6 +500,7 @@
 317 - Project Ember (Weapon Reversal) (Reverse Recruitment)
 318 - Project Ember (with Alternate Promotions)
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)
+1011 - Project RE7
 481 - Prophecy of Flames
 347 - Psychic Emblem (weapons and classes overhaul)
 561 - Pukachi's Contest Patch
@@ -565,6 +587,7 @@
 588 - Starlit Souls
 287 - Stones of a Divine Dragon
 236 - Storge
+992 - Subtitle
 604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape
 539 - Super Generic Ragefest Adventure
 594 - Sword of Heaven and Earth (English Translation)
@@ -618,11 +641,14 @@
 696 - The Last Promise (Japanese Translation)
 697 - The Last Promise (Japanese Translation) (Fixed Only)
 106 - The Last Promise (Weapon Reversal)
+1000 - The Last Royal
+1001 - The Last Royal (Time to Split)
 433 - The Lonely Mirror (Classic)
 434 - The Lonely Mirror (Friendly)
 423 - The Lullaby of Lust
 661 - The Marquess' Trial
 448 - The Nameless Heroes (English Translation)
+989 - The Phantom King
 528 - The Purge Of Weegee
 408 - The Queen’s Lament
 108 - The Road to Ruin
@@ -635,6 +661,7 @@
 552 - The Sacred Stones - FE7 Crossover
 173 - The Sacred War (Final Update - v1
 172 - The Sacred War (Starting Version - v1
+1003 - The Seven Keys
 217 - The Sun God’s Wrath
 218 - The Sun God’s Wrath (0 growth)
 815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)
@@ -642,11 +669,15 @@
 652 - The Teq Demo
 490 - The White Feather
 662 - There Is No Dialogue, Die
+999 - THWD2 - The Heist We Deserve
+987 - Tierra Maldita
 282 - Tirado Emblem
 521 - Title Here
 402 - Touhou Emblem 8 - The Sacred Shrines
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
 515 - Tower Defense
+991 - Trainee Emblem 8
+1004 - Transcending Darkness
 518 - Trapped In Painful Places
 258 - Typhon’s Wake
 136 - Unburdened Liberty

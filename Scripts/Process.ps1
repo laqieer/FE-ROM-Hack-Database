@@ -9,7 +9,9 @@ Import-Module .\crc32.psm1
 $Basename = [System.IO.Path]::GetFileNameWithoutExtension($ROM)
 $Directory = [System.IO.Path]::GetDirectoryName($ROM)
 $ImgPath = "..\OfflineList\imgs\laqieer - Fire Emblem - Game Boy Advance\"
-if($Number -gt 500){
+if($Number -gt 1000){
+   $ImgPath += "1001-1500\"
+}elseif($Number -gt 500){
    $ImgPath += "501-1000\"
 }else {
    $ImgPath += "1-500\"

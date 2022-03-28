@@ -48,7 +48,7 @@
 576 - Blight of Acrova (Reverse Recruitment).gba 0883395d
 575 - Blight of Acrova (Zero Percent Growths).gba b9915ad8
 290 - Blood of the Covenant.gba 63a45a53
-410 - Bloodlines.gba 1e076cea
+410 - Bloodlines.gba 33b2dd3c
 609 - BobbyYukitsuki's Two Hour Blitz.gba 93712a28
 504 - Boss Rush.gba ad45b232
 115 - Boss War.gba 186ecc6e
@@ -80,6 +80,9 @@
 508 - Curse Of The Emblem Version 0.001.gba 9c658b28
 547 - Darion’s Blazing Sword (Eliwood mode).gba 142e9add
 560 - Darion’s Blazing Sword (Hector mode).gba 908e9a34
+1005 - Dark Dragon Reborn.gba 62adfa62
+1007 - Dark Dragon Reborn (Fixed Growths).gba 39be8812
+1006 - Dark Dragon Reborn (Minimugs).gba 1d3cbd2e
 263 - Dark Emblem.gba 74277073
 120 - Dark Lord and the Maiden of Light.gba 2edd404d
 415 - Dark Soul.gba 17fe1087
@@ -96,6 +99,7 @@
 226 - Deity Device (Part 1).gba e9a09a50
 227 - Deity Device (Part 2).gba 4908dcba
 228 - Deity Device (Part 3).gba 5e69347e
+1008 - Deity Device - Saint&rsquo;s Blood.gba 042671c4
 414 - Demon’s Curse.gba 7c088459
 506 - Desperate Struggle.gba b9e5a43c
 339 - Devourer of Time (Hard mode).gba 7fd35f4f
@@ -136,6 +140,10 @@
 558 - Father of a Legend.gba 5e4cffa1
 260 - FE1 GBA.gba 9be58bd8
 762 - FE4 Advance (joke demo).gba 3b1913e8
+995 - FE6 - Armor emblem.gba a631aa2c
+996 - FE6 - Armor emblem (Heroes version).gba c3ed353b
+997 - FE6 - Armor emblem (Knightlier version).gba 4ded7c5b
+998 - FE6 - Armor emblem (Triangle version).gba 515aea9a
 297 - FE6 All Mounts.gba cc905927
 597 - FE6 Boss Recruitment.gba e3a4cd1e
 620 - FE6 BugFixEdition.gba 19bd10e9
@@ -146,6 +154,7 @@
 616 - FE6 But Everything Hits (Average Growths Mode).gba 21234137
 617 - FE6 But Everything Hits (Maximum Growths Mode).gba 360d935c
 615 - FE6 But Everything Hits (Minimum Growths Mode).gba eb4322ea
+1016 - FE6 Fire Embad.gba da5bd403
 299 - FE6 Google Translated.gba 1e494685
 599 - FE6 has DSFE movement.gba c70fea41
 320 - FE6 Incandescence Edition.gba 564d7782
@@ -161,6 +170,7 @@
 321 - FE6 Refurbished.gba eb687c4e
 326 - FE6 rom with HM bonuses for everyone.gba 8c9d00cc
 694 - FE6 smabroROY.gba 187655d6
+1013 - FE6 The Blinding Fog.gba abd06511
 551 - FE6 The Divine War.gba 281c7e89
 298 - FE6 Unfair and Bad.gba 7a081ae9
 300 - FE6 Unit Swap (Balanced).gba dcef0b86
@@ -183,8 +193,10 @@
 690 - FE6R.gba 451b2f22
 765 - FE6RR.gba eaf32b75
 766 - FE6RRaddendum.gba d360f35f
+1009 - FE7 - the Community Edition.gba 94bf4325
 264 - FE7 Allegiance Reversal+.gba 8870c624
 596 - FE7 Boss Recruitment.gba 1e48ca58
+993 - FE7 Boss Swap.gba 2f6e3fa3
 332 - FE7 Chaos Mode.gba 0f92ff9b
 581 - FE7 Heroes.gba cc769fd5
 112 - FE7 Inflation.gba 6ea83897
@@ -226,10 +238,12 @@
 378 - FE8 Master Version.gba 51b9c9db
 176 - FE8 midori (Green).gba 25d88b16
 177 - FE8 midori (Green) (English Translation).gba 4279b308
+1017 - FE8 Mind edition.gba 9891a739
 555 - FE8 Monster Quest.gba 727c8365
 367 - FE8 Negative Growths.gba 3c7352c1
 403 - FE8 Oops, All Archers!.gba 0c7a2625
 397 - FE8 Project Dark.gba 4b31296b
+1014 - FE8 Project Rock - Yet Another FE8 Rebalance.gba 0fdb3352
 769 - FE8 prologue (序章if).gba a4fdf618
 375 - FE8 QoL Edition.gba f45762e5
 399 - FE8 Redux.gba b767b1dd
@@ -262,9 +276,9 @@
 759 - FE8U 0% growths.gba a157be6b
 977 - FE8女版.gba 7f66973d
 706 - FE8改造.gba 616dfbb4
-812 - FE16RE.gba d1d36019
 241 - Fe 8 Chess.gba d5ddb5e8
 198 - FE but it’s my Biology Homework.gba 385de2ec
+988 - FE Colored.gba 1b3da853
 213 - FE The Grand Uprising.gba 535448a4
 214 - FE The Grand Uprising (Blue default player phase map sprite palette).gba adf5269e
 463 - Fe Time Scarred - Rebirth.gba fb485921
@@ -307,6 +321,7 @@
 247 - Fire Emblem - Izarck’s Quest.gba 6bf9575b
 188 - Fire Emblem - Justice and Pride.gba c166ce14
 827 - Fire Emblem - Justice and Pride (Chinese Translation).gba 3c5e7160
+1010 - Fire Emblem - Of Sand and Sabres.gba bfb7df72
 407 - Fire Emblem - Order of the Crimson Arm.gba 7f5a1b3a
 146 - Fire Emblem - Reawakening.gba 9f92a410
 220 - Fire Emblem - Reborn Dimensions, Olethian Princess.gba f379d286
@@ -356,12 +371,14 @@
 459 - Flames of Freedom.gba 5ab4c0e1
 239 - Flames of Redemption.gba e1428e68
 240 - Flames of Redemption (supports unlocked).gba 0c835af0
+1012 - Flier Emblem - Return of the Circle.gba 78051f91
 244 - Foreboding Dusk.gba 2220983b
 394 - Fort Mangs Emblem.gba cadc97eb
 660 - Fort Nunya.gba 2b094a34
 208 - Four Kings - Deposition.gba 583bf142
 209 - Free for All.gba c4c15d98
 602 - Frog's Two Hour Blitz - Steel.gba 8ebafd51
+990 - Frozen Throes.gba 05f8ebfd
 166 - Gay Baby Emblem.gba a95e4ae4
 630 - Genesis.gba 69d9d2ef
 259 - GFE1R.gba fee335a3
@@ -442,6 +459,7 @@
 674 - Myrrh Goes To Mc Donalds.gba 7dab34e7
 644 - MysteriousDancer's 1h Blitz - Questionable Innocence.gba 2181ccac
 685 - Mystic's MAFC FEU It Again patch.gba 4d217204
+1015 - Myth of Blight.gba 26623bac
 624 - Mythgraven.gba bc28fd5d
 669 - Nabatas Ghost.gba 3f42621f
 199 - Narcian and the Mirror Chamber.gba 9c298acb
@@ -450,6 +468,7 @@
 223 - Necrosis Among the Living (Prequel).gba 313cff5b
 257 - Nintenlord Saga.gba db833f55
 391 - Not Fire Emblem 8.gba feea2917
+994 - Nothing Emblem - Because nothing.gba f8b35a5d
 413 - OC Emblem.gba 5f29fe04
 670 - OC Emblem - Endgame.gba 724d68da
 625 - OC Emblem Redux.gba c3d04286
@@ -458,6 +477,7 @@
 171 - One-Week Hack.gba fb464aca
 329 - Oops! All Sophias.gba 527bbabc
 642 - Pandan's 1h Blitz.gba 49578a86
+1002 - Parallel Emblem.gba 496771b6
 619 - Parliament of Heroes.gba d11bdc83
 344 - Path of a Hero.gba 168670b6
 345 - Path of a Hero (DLC Lloyd’s Story).gba 990fd8ae
@@ -467,6 +487,7 @@
 663 - Prepare to Die.gba ae172eb9
 140 - Prisoner of Darkness.gba 95f14edd
 133 - Prisoner of Darkness (Hard Mode).gba 1bbb05e1
+812 - Proj.Lysithea.gba d1d36019
 778 - Project dondon.gba 2e260b2e
 313 - Project Ember (HM Fixed Growths).gba 2d2abfb0
 309 - Project Ember (HM).gba 636f7b05
@@ -479,6 +500,7 @@
 317 - Project Ember (Weapon Reversal) (Reverse Recruitment).gba 884ac8c7
 318 - Project Ember (with Alternate Promotions).gba 7d2a640c
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment).gba bdf5dc0e
+1011 - Project RE7.gba e299b969
 481 - Prophecy of Flames.gba 79e1e7fd
 347 - Psychic Emblem (weapons and classes overhaul).gba 5b763687
 561 - Pukachi's Contest Patch.gba 585f0c17
@@ -565,6 +587,7 @@
 588 - Starlit Souls.gba f4a0ab81
 287 - Stones of a Divine Dragon.gba 05c2a230
 236 - Storge.gba 079106d8
+992 - Subtitle.gba 1b59d8ea
 604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape.gba 079fc81e
 539 - Super Generic Ragefest Adventure.gba a727bdb0
 594 - Sword of Heaven and Earth (English Translation).gba 0a1734ae
@@ -618,11 +641,14 @@
 696 - The Last Promise (Japanese Translation).gba 33c46851
 697 - The Last Promise (Japanese Translation) (Fixed Only).gba ece0afc9
 106 - The Last Promise (Weapon Reversal).gba 38f7a2c6
+1000 - The Last Royal.gba 33a264b8
+1001 - The Last Royal (Time to Split).gba 807d77a6
 433 - The Lonely Mirror (Classic).gba 9302de3a
 434 - The Lonely Mirror (Friendly).gba c833f3eb
 423 - The Lullaby of Lust.gba 3a813e87
 661 - The Marquess' Trial.gba a3442ac2
 448 - The Nameless Heroes (English Translation).gba 36042746
+989 - The Phantom King.gba fa76f0c0
 528 - The Purge Of Weegee.gba 764e473f
 408 - The Queen’s Lament.gba e19c9eb7
 108 - The Road to Ruin.gba 6522df69
@@ -635,6 +661,7 @@
 552 - The Sacred Stones - FE7 Crossover.gba 1749e41f
 173 - The Sacred War (Final Update - v1.51).gba 8dc775b2
 172 - The Sacred War (Starting Version - v1.36).gba 9ff4790d
+1003 - The Seven Keys.gba 66c28210
 217 - The Sun God’s Wrath.gba cc06a4ef
 218 - The Sun God’s Wrath (0 growth).gba 7def8770
 815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only).gba c5c281e7
@@ -642,11 +669,15 @@
 652 - The Teq Demo.gba cde9a0dd
 490 - The White Feather.gba 294c6150
 662 - There Is No Dialogue, Die.gba 06900b89
+999 - THWD2 - The Heist We Deserve.gba 73ac3ff9
+987 - Tierra Maldita.gba 4c5a347c
 282 - Tirado Emblem.gba 5bb0ae74
 521 - Title Here.gba e6f15aae
 402 - Touhou Emblem 8 - The Sacred Shrines.gba e18fc466
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.gba 1b8b59c0
 515 - Tower Defense.gba 6b65ad16
+991 - Trainee Emblem 8.gba 4396d416
+1004 - Transcending Darkness.gba 538a714d
 518 - Trapped In Painful Places.gba 32d3350e
 258 - Typhon’s Wake.gba 829af26e
 136 - Unburdened Liberty.gba b616cc93
@@ -865,7 +896,7 @@
 841 - 花开于漠.gba 8f7e5642
 920 - 苍月传重置版.gba f33463e7
 869 - 苍炎乱入版.gba dc7bbd0c
-848 - 苍炎的勇者.gba 00ee59e6
+848 - 苍炎的勇者.gba a682ec6a
 857 - 英雄世界.gba e889fa3a
 887 - 英雄的挑战.gba 8241e45e
 807 - 英雄的黎明ED-Ver8黎明盡頭（A）.gba f69edfe4

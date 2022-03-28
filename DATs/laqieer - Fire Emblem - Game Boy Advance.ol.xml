@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>916</datVersion>
+		<datVersion>947</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -799,7 +799,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://forums.serenesforest.net/index.php?/topic/93538-fire-emblem-black-fang/</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-black-fang/10446</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -951,17 +951,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>410 - Bloodlines</title>
 			<saveType>None</saveType>
-			<romSize>26362620</romSize>
+			<romSize>26364440</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">1E076CEA</romCRC>
+				<romCRC extension=".">33B2DD3C</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-24-public-patch-is-released-check-the-first-post/423</comment>
+			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1069,7 +1069,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/sme23/bsfe</comment>
+			<comment>https://feuniverse.us/t/fe8u-bs-fire-emblem-archanea-saga-1-0/5173</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1339,7 +1339,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/Peer56/CommunityBlitz5</comment>
+			<comment>https://feuniverse.us/t/fe8-community-blitz-5-redemption-v1-3/11674</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1520,6 +1520,60 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1005 - Dark Dragon Reborn</title>
+			<saveType>None</saveType>
+			<romSize>19859020</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">62ADFA62</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1007 - Dark Dragon Reborn (Fixed Growths)</title>
+			<saveType>None</saveType>
+			<romSize>19859020</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">39BE8812</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1006 - Dark Dragon Reborn (Minimugs)</title>
+			<saveType>None</saveType>
+			<romSize>19859020</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1D3CBD2E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1808,6 +1862,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-deity-device-portrait-update-available-now/11646</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1008 - Deity Device - Saint&amp;rsquo;s Blood</title>
+			<saveType>None</saveType>
+			<romSize>24726004</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">042671C4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-deity-device-saints-blood-6-chapters-first-balance-patch-out/13654</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2313,7 +2385,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/tclendo/Endless-Nights</comment>
+			<comment>https://feuniverse.us/t/fe8u-thor-studios-presents-fire-emblem-endless-nights/9455</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2439,7 +2511,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/Zmr56/FallenFlameRep</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-fallen-flame-v0-1-beta-state-5-31-chapters-done/8134</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2531,6 +2603,78 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/39130-feiv-v0a-released/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>995 - FE6 - Armor emblem</title>
+			<saveType>None</saveType>
+			<romSize>9405556</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A631AA2C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>996 - FE6 - Armor emblem (Heroes version)</title>
+			<saveType>None</saveType>
+			<romSize>9405556</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C3ED353B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>997 - FE6 - Armor emblem (Knightlier version)</title>
+			<saveType>None</saveType>
+			<romSize>9405556</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4DED7C5B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>998 - FE6 - Armor emblem (Triangle version)</title>
+			<saveType>None</saveType>
+			<romSize>9405556</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">515AEA9A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2711,6 +2855,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe6-but-everything-hits/14008</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1016 - FE6 Fire Embad</title>
+			<saveType>None</saveType>
+			<romSize>9281240</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DA5BD403</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fire-embad/14079</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2982,6 +3144,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1013 - FE6 The Blinding Fog</title>
+			<saveType>None</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">ABD06511</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-the-blinding-fog/9738</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3390,6 +3570,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1009 - FE7 - the Community Edition</title>
+			<saveType>None</saveType>
+			<romSize>21445516</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">94BF4325</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-the-community-edition/10276</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>264 - FE7 Allegiance Reversal+</title>
 			<saveType>None</saveType>
 			<romSize>16911048</romSize>
@@ -3421,6 +3619,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe7-boss-recruitment-v1-8-as-of-11-10-21/12962</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>993 - FE7 Boss Swap</title>
+			<saveType>None</saveType>
+			<romSize>17543272</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2F6E3FA3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-almost-complete/9897</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4174,6 +4390,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1017 - FE8 Mind edition</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9891A739</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-8-mind-edition/5242</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>555 - FE8 Monster Quest</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -4241,6 +4475,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1014 - FE8 Project Rock - Yet Another FE8 Rebalance</title>
+			<saveType>None</saveType>
+			<romSize>18238032</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">0FDB3352</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-project-rock-yet-another-fe8-rebalance/15044</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4834,24 +5086,6 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
-			<title>812 - FE16RE</title>
-			<saveType>None</saveType>
-			<romSize>16777216</romSize>
-			<publisher>Fan Modding</publisher>
-			<location>0</location>
-			<sourceRom>None</sourceRom>
-			<language>0</language>
-			<files>
-				<romCRC extension=".">D1D36019</romCRC>
-			</files>
-			<im1CRC>00000000</im1CRC>
-			<im2CRC>00000000</im2CRC>
-			<comment>DEMO</comment>
-			<duplicateID></duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1</releaseNumber>
 			<title>241 - Fe 8 Chess</title>
 			<saveType>None</saveType>
 			<romSize>16806152</romSize>
@@ -4883,6 +5117,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>988 - FE Colored</title>
+			<saveType>None</saveType>
+			<romSize>22262344</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1B3DA853</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-wip-fe-colored-8-chapters-4-5-hours/15506</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5317,7 +5569,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-code-of-the-black-knights-decisive-edition-30-chapters/6949</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5569,7 +5821,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-heroes-remake-animation-wanted-247-chapters-completed-more-in-future/7177</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5642,6 +5894,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>正义与荣耀汉化版v1.0</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1010 - Fire Emblem - Of Sand and Sabres</title>
+			<saveType>None</saveType>
+			<romSize>19167232</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">BFB7DF72</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-of-sand-and-sabres-9-chapters/15128</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6202,7 +6472,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/fe8-fire-emblem-vision-quest-6-2-18-v-02-beta-release-is-live/3815</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-vision-quest-v2-3-final-release-24-may-21/3815</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6532,6 +6802,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1012 - Flier Emblem - Return of the Circle</title>
+			<saveType>None</saveType>
+			<romSize>33554432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">78051F91</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/complete-fe8-flier-emblem-return-of-the-circle-2-routes-complete/13919</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>244 - Foreboding Dusk</title>
 			<saveType>None</saveType>
 			<romSize>16888400</romSize>
@@ -6640,6 +6928,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>990 - Frozen Throes</title>
+			<saveType>None</saveType>
+			<romSize>23303676</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">05F8EBFD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-n426s-frozen-throes-ver-163542000-15-chapters/10273</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>166 - Gay Baby Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17048076</romSize>
@@ -6688,7 +6994,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/Kirbseverywhere/GFE1R</comment>
+			<comment>https://feuniverse.us/t/gfe1r-generic-fe1-remake/2134</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6850,7 +7156,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/hector-saves-christmas/4700</comment>
+			<comment>https://feuniverse.us/t/hector-saves-christmas/4700</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7139,7 +7445,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-0/12640</comment>
+			<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-2-3/12640</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7193,7 +7499,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/Pikmin1211/JP_Hack</comment>
+			<comment>https://feuniverse.us/t/fe8u-jp-hack-11-chapters-done/8368</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7392,7 +7698,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/runadoesathing/Last-Heavenly-Throne</comment>
+			<comment>https://feuniverse.us/t/last-heavenly-throne-lht-8-chapters-cancelled/6780</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7554,7 +7860,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/Snakey11/Legends-of-Avenir</comment>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-legends-of-avenir/3275</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8083,6 +8389,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1015 - Myth of Blight</title>
+			<saveType>None</saveType>
+			<romSize>29573016</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">26623BAC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/myth-of-blight-public-demo-available-full-hack-in-development/13885</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>624 - Mythgraven</title>
 			<saveType>None</saveType>
 			<romSize>23670068</romSize>
@@ -8227,6 +8551,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>994 - Nothing Emblem - Because nothing</title>
+			<saveType>None</saveType>
+			<romSize>16785408</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F8B35A5D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/nothing-emblem-because-nothing/4697</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>413 - OC Emblem</title>
 			<saveType>None</saveType>
 			<romSize>21489356</romSize>
@@ -8366,6 +8708,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/1h-blitz-r1-complete/9560/31</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1002 - Parallel Emblem</title>
+			<saveType>None</saveType>
+			<romSize>27802356</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">496771B6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/parallel-emblem-our-first-romhack-november-21-demo-released/10142</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8528,6 +8888,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>812 - Proj</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D1D36019</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-proj-lysithea-a-prototype-of-fe16-rework-on-fe8u-w-i-p/14329</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8744,6 +9122,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe6-project-ember-v1-85-as-of-8-16-2021-dorothy-edition/6414</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1011 - Project RE7</title>
+			<saveType>None</saveType>
+			<romSize>30141292</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E299B969</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-project-re7-port-fe7-using-fe8-engine-1st-release-we-need-still-testers-join-you-our-discord-server-for-info/9593</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9284,7 +9680,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/runa-does-a-thing-demo-live/3830</comment>
+			<comment>https://feuniverse.us/t/runa-does-a-thing-demo-live/3830</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10202,7 +10598,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<comment>https://feuniverse.us/t/fexna-staff-of-ages-first-xna-release-out-now/1182</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10220,7 +10616,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<comment>https://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10238,7 +10634,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>http://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
+			<comment>https://feuniverse.us/t/staff-of-ages-v1-7-2-out-now/1182</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10293,6 +10689,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-storge-complete/11711</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>992 - Subtitle</title>
+			<saveType>None</saveType>
+			<romSize>21481648</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1B59D8EA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/wip-subtitle/13793</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -11255,6 +11669,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1000 - The Last Royal</title>
+			<saveType>None</saveType>
+			<romSize>33545888</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">33A264B8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-the-last-royal-19chapter-complete-hack-also-has-another-version-t2s-with-split-promos-and-more/12547</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1001 - The Last Royal (Time to Split)</title>
+			<saveType>None</saveType>
+			<romSize>32459808</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">807D77A6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-the-last-royal-19chapter-complete-hack-also-has-another-version-t2s-with-split-promos-and-more/12547</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>433 - The Lonely Mirror (Classic)</title>
 			<saveType>None</saveType>
 			<romSize>30220952</romSize>
@@ -11340,6 +11790,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-the-nameless-heroes-9-22-update/6262</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>989 - The Phantom King</title>
+			<saveType>None</saveType>
+			<romSize>25644220</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FA76F0C0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-phantom-king/10450</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -11561,6 +12029,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1003 - The Seven Keys</title>
+			<saveType>None</saveType>
+			<romSize>21411712</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">66C28210</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-seven-keys/12832</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>217 - The Sun God’s Wrath</title>
 			<saveType>None</saveType>
 			<romSize>33007088</romSize>
@@ -11573,7 +12059,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -11687,6 +12173,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>999 - THWD2 - The Heist We Deserve</title>
+			<saveType>None</saveType>
+			<romSize>17152184</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">73AC3FF9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/thwd2-the-heist-we-deserve/15252</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>987 - Tierra Maldita</title>
+			<saveType>None</saveType>
+			<romSize>17572088</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4C5A347C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>282 - Tirado Emblem</title>
 			<saveType>None</saveType>
 			<romSize>18775380</romSize>
@@ -11772,6 +12294,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://markyjoe.com/?page=rfdl</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>991 - Trainee Emblem 8</title>
+			<saveType>None</saveType>
+			<romSize>18209920</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4396D416</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8u-trainee-emblem-8-an-fe8-hack-for-the-ewan-fans-in-the-crowd/14163</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1004 - Transcending Darkness</title>
+			<saveType>None</saveType>
+			<romSize>31961496</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">538A714D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe-transcending-darkness-v0-2-1-for-the-public-version-new-private-playtest-patch-launched/8983</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12240,7 +12798,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/jfarr095/YggdraHack</comment>
+			<comment>https://feuniverse.us/t/yggdra-hack-ui-translation/6492</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -15839,12 +16397,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">00EE59E6</romCRC>
+				<romCRC extension=".">A682EC6A</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>
-			</comment>
+			<comment>4.5.1</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

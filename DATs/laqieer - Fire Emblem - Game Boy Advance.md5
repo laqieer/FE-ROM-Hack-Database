@@ -80,6 +80,9 @@
  508 - Curse Of The Emblem Version 0.001.gba
  547 - Darion’s Blazing Sword (Eliwood mode).gba
  560 - Darion’s Blazing Sword (Hector mode).gba
+ 1005 - Dark Dragon Reborn.gba
+ 1007 - Dark Dragon Reborn (Fixed Growths).gba
+ 1006 - Dark Dragon Reborn (Minimugs).gba
  263 - Dark Emblem.gba
  120 - Dark Lord and the Maiden of Light.gba
  415 - Dark Soul.gba
@@ -96,6 +99,7 @@
  226 - Deity Device (Part 1).gba
  227 - Deity Device (Part 2).gba
  228 - Deity Device (Part 3).gba
+ 1008 - Deity Device - Saint&rsquo;s Blood.gba
  414 - Demon’s Curse.gba
  506 - Desperate Struggle.gba
  339 - Devourer of Time (Hard mode).gba
@@ -136,6 +140,10 @@
  558 - Father of a Legend.gba
  260 - FE1 GBA.gba
  762 - FE4 Advance (joke demo).gba
+ 995 - FE6 - Armor emblem.gba
+ 996 - FE6 - Armor emblem (Heroes version).gba
+ 997 - FE6 - Armor emblem (Knightlier version).gba
+ 998 - FE6 - Armor emblem (Triangle version).gba
  297 - FE6 All Mounts.gba
  597 - FE6 Boss Recruitment.gba
  620 - FE6 BugFixEdition.gba
@@ -146,6 +154,7 @@
  616 - FE6 But Everything Hits (Average Growths Mode).gba
  617 - FE6 But Everything Hits (Maximum Growths Mode).gba
  615 - FE6 But Everything Hits (Minimum Growths Mode).gba
+ 1016 - FE6 Fire Embad.gba
  299 - FE6 Google Translated.gba
  599 - FE6 has DSFE movement.gba
  320 - FE6 Incandescence Edition.gba
@@ -161,6 +170,7 @@
  321 - FE6 Refurbished.gba
  326 - FE6 rom with HM bonuses for everyone.gba
  694 - FE6 smabroROY.gba
+ 1013 - FE6 The Blinding Fog.gba
  551 - FE6 The Divine War.gba
  298 - FE6 Unfair and Bad.gba
  300 - FE6 Unit Swap (Balanced).gba
@@ -183,8 +193,10 @@
  690 - FE6R.gba
  765 - FE6RR.gba
  766 - FE6RRaddendum.gba
+ 1009 - FE7 - the Community Edition.gba
  264 - FE7 Allegiance Reversal+.gba
  596 - FE7 Boss Recruitment.gba
+ 993 - FE7 Boss Swap.gba
  332 - FE7 Chaos Mode.gba
  581 - FE7 Heroes.gba
  112 - FE7 Inflation.gba
@@ -226,10 +238,12 @@
  378 - FE8 Master Version.gba
  176 - FE8 midori (Green).gba
  177 - FE8 midori (Green) (English Translation).gba
+ 1017 - FE8 Mind edition.gba
  555 - FE8 Monster Quest.gba
  367 - FE8 Negative Growths.gba
  403 - FE8 Oops, All Archers!.gba
  397 - FE8 Project Dark.gba
+ 1014 - FE8 Project Rock - Yet Another FE8 Rebalance.gba
  769 - FE8 prologue (序章if).gba
  375 - FE8 QoL Edition.gba
  399 - FE8 Redux.gba
@@ -262,9 +276,9 @@
  759 - FE8U 0% growths.gba
  977 - FE8女版.gba
  706 - FE8改造.gba
- 812 - FE16RE.gba
  241 - Fe 8 Chess.gba
  198 - FE but it’s my Biology Homework.gba
+ 988 - FE Colored.gba
  213 - FE The Grand Uprising.gba
  214 - FE The Grand Uprising (Blue default player phase map sprite palette).gba
  463 - Fe Time Scarred - Rebirth.gba
@@ -307,6 +321,7 @@
  247 - Fire Emblem - Izarck’s Quest.gba
  188 - Fire Emblem - Justice and Pride.gba
  827 - Fire Emblem - Justice and Pride (Chinese Translation).gba
+ 1010 - Fire Emblem - Of Sand and Sabres.gba
  407 - Fire Emblem - Order of the Crimson Arm.gba
  146 - Fire Emblem - Reawakening.gba
  220 - Fire Emblem - Reborn Dimensions, Olethian Princess.gba
@@ -356,12 +371,14 @@
  459 - Flames of Freedom.gba
  239 - Flames of Redemption.gba
  240 - Flames of Redemption (supports unlocked).gba
+ 1012 - Flier Emblem - Return of the Circle.gba
  244 - Foreboding Dusk.gba
  394 - Fort Mangs Emblem.gba
  660 - Fort Nunya.gba
  208 - Four Kings - Deposition.gba
  209 - Free for All.gba
  602 - Frog's Two Hour Blitz - Steel.gba
+ 990 - Frozen Throes.gba
  166 - Gay Baby Emblem.gba
  630 - Genesis.gba
  259 - GFE1R.gba
@@ -442,6 +459,7 @@
  674 - Myrrh Goes To Mc Donalds.gba
  644 - MysteriousDancer's 1h Blitz - Questionable Innocence.gba
  685 - Mystic's MAFC FEU It Again patch.gba
+ 1015 - Myth of Blight.gba
  624 - Mythgraven.gba
  669 - Nabatas Ghost.gba
  199 - Narcian and the Mirror Chamber.gba
@@ -450,6 +468,7 @@
  223 - Necrosis Among the Living (Prequel).gba
  257 - Nintenlord Saga.gba
  391 - Not Fire Emblem 8.gba
+ 994 - Nothing Emblem - Because nothing.gba
  413 - OC Emblem.gba
  670 - OC Emblem - Endgame.gba
  625 - OC Emblem Redux.gba
@@ -458,6 +477,7 @@
  171 - One-Week Hack.gba
  329 - Oops! All Sophias.gba
  642 - Pandan's 1h Blitz.gba
+ 1002 - Parallel Emblem.gba
  619 - Parliament of Heroes.gba
  344 - Path of a Hero.gba
  345 - Path of a Hero (DLC Lloyd’s Story).gba
@@ -467,6 +487,7 @@
  663 - Prepare to Die.gba
  140 - Prisoner of Darkness.gba
  133 - Prisoner of Darkness (Hard Mode).gba
+ 812 - Proj.Lysithea.gba
  778 - Project dondon.gba
  313 - Project Ember (HM Fixed Growths).gba
  309 - Project Ember (HM).gba
@@ -479,6 +500,7 @@
  317 - Project Ember (Weapon Reversal) (Reverse Recruitment).gba
  318 - Project Ember (with Alternate Promotions).gba
  319 - Project Ember (with Alternate Promotions) (Reverse Recruitment).gba
+ 1011 - Project RE7.gba
  481 - Prophecy of Flames.gba
  347 - Psychic Emblem (weapons and classes overhaul).gba
  561 - Pukachi's Contest Patch.gba
@@ -565,6 +587,7 @@
  588 - Starlit Souls.gba
  287 - Stones of a Divine Dragon.gba
  236 - Storge.gba
+ 992 - Subtitle.gba
  604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape.gba
  539 - Super Generic Ragefest Adventure.gba
  594 - Sword of Heaven and Earth (English Translation).gba
@@ -618,11 +641,14 @@
  696 - The Last Promise (Japanese Translation).gba
  697 - The Last Promise (Japanese Translation) (Fixed Only).gba
  106 - The Last Promise (Weapon Reversal).gba
+ 1000 - The Last Royal.gba
+ 1001 - The Last Royal (Time to Split).gba
  433 - The Lonely Mirror (Classic).gba
  434 - The Lonely Mirror (Friendly).gba
  423 - The Lullaby of Lust.gba
  661 - The Marquess' Trial.gba
  448 - The Nameless Heroes (English Translation).gba
+ 989 - The Phantom King.gba
  528 - The Purge Of Weegee.gba
  408 - The Queen’s Lament.gba
  108 - The Road to Ruin.gba
@@ -635,6 +661,7 @@
  552 - The Sacred Stones - FE7 Crossover.gba
  173 - The Sacred War (Final Update - v1.51).gba
  172 - The Sacred War (Starting Version - v1.36).gba
+ 1003 - The Seven Keys.gba
  217 - The Sun God’s Wrath.gba
  218 - The Sun God’s Wrath (0 growth).gba
  815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only).gba
@@ -642,11 +669,15 @@
  652 - The Teq Demo.gba
  490 - The White Feather.gba
  662 - There Is No Dialogue, Die.gba
+ 999 - THWD2 - The Heist We Deserve.gba
+ 987 - Tierra Maldita.gba
  282 - Tirado Emblem.gba
  521 - Title Here.gba
  402 - Touhou Emblem 8 - The Sacred Shrines.gba
  242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.gba
  515 - Tower Defense.gba
+ 991 - Trainee Emblem 8.gba
+ 1004 - Transcending Darkness.gba
  518 - Trapped In Painful Places.gba
  258 - Typhon’s Wake.gba
  136 - Unburdened Liberty.gba

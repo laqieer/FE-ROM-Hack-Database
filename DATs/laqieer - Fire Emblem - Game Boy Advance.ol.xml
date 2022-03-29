@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>947</datVersion>
+		<datVersion>985</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1777,6 +1777,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1048 - Deflation Emblem - Because Stat Inflation is Dumb</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5CCB99E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/deflation-emblem-because-stat-inflation-is-dumb/4678</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>337 - Degeneration Emblem</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -3022,6 +3040,78 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1020 - FE6 Plus [Enhancement Patch]</title>
+			<saveType>None</saveType>
+			<romSize>8588036</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DB83F792</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1023 - FE6 Plus [Enhancement Patch] (Fixed + Numbers)</title>
+			<saveType>None</saveType>
+			<romSize>8588648</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E1CEF398</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1022 - FE6 Plus [Enhancement Patch] (Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>8588128</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4E4C2301</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1021 - FE6 Plus [Enhancement Patch] (Numbers)</title>
+			<saveType>None</saveType>
+			<romSize>8588556</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DCE3756B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>291 - FE6 Promoted Mode</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
@@ -3787,6 +3877,78 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1024 - FE7 Plus [Enhancement Patch]</title>
+			<saveType>None</saveType>
+			<romSize>16798616</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C53315E2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1026 - FE7 Plus [Enhancement Patch] (Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>16798708</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F6A18CB2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>16801012</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8DDBA2F9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1025 - FE7 Plus [Enhancement Patch] (JP)</title>
+			<saveType>None</saveType>
+			<romSize>16800920</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F6FC178F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>626 - FE7 Rewrite</title>
 			<saveType>None</saveType>
 			<romSize>17894192</romSize>
@@ -3800,6 +3962,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe7-rewrite-fire-emblem-the-blazing-sword/14572</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1055 - FE7 to FE6 Character Swap Hack</title>
+			<saveType>None</saveType>
+			<romSize>11464904</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">633BBE89</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-to-fe6-character-swap-hack/13948</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4462,6 +4642,114 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1031 - FE8 Plus [Enhancement Patch] (Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>16803632</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FC6F9734</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1033 - FE8 Plus [Enhancement Patch] (JP + Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>16804540</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F91C9C69</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1030 - FE8 Plus [Enhancement Patch] (JP)</title>
+			<saveType>None</saveType>
+			<romSize>16804540</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">42436D77</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1032 - FE8 Plus [Enhancement Patch] (Mix + Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>16803632</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C49DBD6F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1029 - FE8 Plus [Enhancement Patch] (Mix)</title>
+			<saveType>None</saveType>
+			<romSize>16803632</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A917EF6A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1028 - FE8 Plus [Enhancement Patch] (US)</title>
+			<saveType>None</saveType>
+			<romSize>16803632</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7B5E3260</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>397 - FE8 Project Dark</title>
 			<saveType>None</saveType>
 			<romSize>17578004</romSize>
@@ -4677,6 +4965,42 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1051 - FE8 Sacred Stones - Route Fusion</title>
+			<saveType>None</saveType>
+			<romSize>17831532</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DD37496E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1052 - FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)</title>
+			<saveType>None</saveType>
+			<romSize>17832096</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A9FDAC7D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5212,7 +5536,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
-			<title>464 - Fe Time Scarred - The Unwanted Saga</title>
+			<title>464 - Fe Time Scarred - The Unwanted Saga (i try)</title>
 			<saveType>None</saveType>
 			<romSize>17788392</romSize>
 			<publisher>Fan Modding</publisher>
@@ -5225,6 +5549,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1046 - Fe Time Scarred - The Unwanted Saga (Not A Game)</title>
+			<saveType>None</saveType>
+			<romSize>18335684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8C8F5CB6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe-time-scarred-the-unwanted-saga/11949</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5552,6 +5894,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1018 - Fire Emblem - BR [MOBA-Style]</title>
+			<saveType>None</saveType>
+			<romSize>19957120</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DBB71DB1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-br-moba-style-1-03-new-map-2v2/12577</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6277,6 +6637,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1050 - Fire Emblem - The Blazing Blade - Routemerge</title>
+			<saveType>None</saveType>
+			<romSize>18756608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D84EFF95</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-blazing-blade-routemerge/10553</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>221 - Fire Emblem - The Fall of Thabes</title>
 			<saveType>None</saveType>
 			<romSize>24947612</romSize>
@@ -6419,6 +6797,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://tanasmanor.net/sites/fe8/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1049 - Fire Emblem - The Sacred Stones - Remastered Soundtrack</title>
+			<saveType>None</saveType>
+			<romSize>18242416</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A6E193E9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-remastered-soundtrack/12541</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7487,6 +7883,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1019 - Journeys - Gaiden</title>
+			<saveType>None</saveType>
+			<romSize>18078520</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E3AE479A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-gaiden-5-chapters/12580</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>473 - JP Hack</title>
 			<saveType>None</saveType>
 			<romSize>19099644</romSize>
@@ -7572,6 +7986,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1034 - Kaga Emblem (English)</title>
+			<saveType>None</saveType>
+			<romSize>19454240</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A6B440CC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1035 - Kaga Emblem (Spanish)</title>
+			<saveType>None</saveType>
+			<romSize>19391296</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1D89248C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7903,6 +8353,168 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1039 - Link Arena (The_Big_Dededester's Version)</title>
+			<saveType>None</saveType>
+			<romSize>25513644</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AC0E57B1</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1043 - Link Arena (The_Big_Dededester's Version) (Ember Edition)</title>
+			<saveType>None</saveType>
+			<romSize>31771860</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B8126E84</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1044 - Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)</title>
+			<saveType>None</saveType>
+			<romSize>31771860</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C35DF761</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1041 - Link Arena (The_Big_Dededester's Version) (Hard Mode)</title>
+			<saveType>None</saveType>
+			<romSize>25834216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4A69A5E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1042 - Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)</title>
+			<saveType>None</saveType>
+			<romSize>25834216</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7339E3CC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1040 - Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)</title>
+			<saveType>None</saveType>
+			<romSize>25513644</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F29182AC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1036 - Link Arena (TristanS's Version)</title>
+			<saveType>None</saveType>
+			<romSize>19913772</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F55EF4FE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1038 - Link Arena (TristanS's Version) (fe6 edition)</title>
+			<saveType>None</saveType>
+			<romSize>19913800</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">53B2E339</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1037 - Link Arena (TristanS's Version) (NO SKILLS)</title>
+			<saveType>None</saveType>
+			<romSize>19913772</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">70F4152D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>340 - Lord Weapons Patch Rebalance</title>
 			<saveType>None</saveType>
 			<romSize>16833072</romSize>
@@ -8078,24 +8690,6 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/marcs-precious-revenge/3294</comment>
-			<duplicateID></duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1</releaseNumber>
-			<title>437 - Mask of Dunham</title>
-			<saveType>None</saveType>
-			<romSize>19753152</romSize>
-			<publisher>Fan Modding</publisher>
-			<location>0</location>
-			<sourceRom>None</sourceRom>
-			<language>0</language>
-			<files>
-				<romCRC extension=".">77DD037E</romCRC>
-			</files>
-			<im1CRC>00000000</im1CRC>
-			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/sme23/oat-hacc</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10730,6 +11324,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1054 - Sun God&amp;rsquo;s Wrath Kaizo Edition by April</title>
+			<saveType>None</saveType>
+			<romSize>33374508</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B65C47DA</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>539 - Super Generic Ragefest Adventure</title>
 			<saveType>None</saveType>
 			<romSize>17028828</romSize>
@@ -11741,6 +12353,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1047 - The Lotus King</title>
+			<saveType>None</saveType>
+			<romSize>20295996</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6AD5B400</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-the-lotus-king/14353</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>423 - The Lullaby of Lust</title>
 			<saveType>None</saveType>
 			<romSize>20183748</romSize>
@@ -11772,6 +12402,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/mafc5/9981/19</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>437 - The Mask of Dunham</title>
+			<saveType>None</saveType>
+			<romSize>19753152</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">77DD037E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8u-fire-emblem-the-mask-of-dunham/6156</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12245,6 +12893,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1053 - TLP with Updated Animations</title>
+			<saveType>None</saveType>
+			<romSize>33402172</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EA5C9A40</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/tlp-with-updated-animations/5340</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>402 - Touhou Emblem 8 - The Sacred Shrines</title>
 			<saveType>None</saveType>
 			<romSize>17869900</romSize>
@@ -12407,6 +13073,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1045 - Unforgotten Heroes - Julius Caesar</title>
+			<saveType>None</saveType>
+			<romSize>17893444</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B3BC4CB0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-unforgotten-heroes-julius-caesar-v0-1/11094</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>500 - Untitled</title>
 			<saveType>None</saveType>
 			<romSize>16780684</romSize>
@@ -12510,7 +13194,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
+			<comment>https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12528,7 +13212,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+			<comment>https://feuniverse.us/t/voids-blitzarre-adventure-blitz-tendency-earlygame-polish-released/3969</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

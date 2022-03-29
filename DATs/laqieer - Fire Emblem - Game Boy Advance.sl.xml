@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="756 - 0sheng mo">
+	<software name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -9,7 +9,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="0的逆圣魔">
+	<software name="853 - 0的逆圣魔">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -769,6 +769,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Deflation Emblem - Because Stat Inflation is Dumb">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1048 - Deflation Emblem - Because Stat Inflation is Dumb" size="16777216" crc="5ccb99e7" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Degeneration Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1321,6 +1329,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Plus [Enhancement Patch]">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1020 - FE6 Plus [Enhancement Patch]" size="8588036" crc="db83f792" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Plus [Enhancement Patch] (Fixed + Numbers)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1023 - FE6 Plus [Enhancement Patch] (Fixed + Numbers)" size="8588648" crc="e1cef398" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Plus [Enhancement Patch] (Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1022 - FE6 Plus [Enhancement Patch] (Fixed)" size="8588128" crc="4e4c2301" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Plus [Enhancement Patch] (Numbers)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1021 - FE6 Plus [Enhancement Patch] (Numbers)" size="8588556" crc="dce3756b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Promoted Mode">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1654,11 +1694,51 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 Plus [Enhancement Patch]">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1024 - FE7 Plus [Enhancement Patch]" size="16798616" crc="c53315e2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Plus [Enhancement Patch] (Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1026 - FE7 Plus [Enhancement Patch] (Fixed)" size="16798708" crc="f6a18cb2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Plus [Enhancement Patch] (JP + Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)" size="16801012" crc="8ddba2f9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Plus [Enhancement Patch] (JP)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1025 - FE7 Plus [Enhancement Patch] (JP)" size="16800920" crc="f6fc178f" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Rewrite">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="626 - FE7 Rewrite" size="17894192" crc="a3e1d79e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 to FE6 Character Swap Hack">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1055 - FE7 to FE6 Character Swap Hack" size="11464904" crc="633bbe89" />
 			</dataarea>
 		</part>
 	</software>
@@ -1950,6 +2030,54 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Plus [Enhancement Patch] (Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1031 - FE8 Plus [Enhancement Patch] (Fixed)" size="16803632" crc="fc6f9734" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Plus [Enhancement Patch] (JP + Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1033 - FE8 Plus [Enhancement Patch] (JP + Fixed)" size="16804540" crc="f91c9c69" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Plus [Enhancement Patch] (JP)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1030 - FE8 Plus [Enhancement Patch] (JP)" size="16804540" crc="42436d77" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Plus [Enhancement Patch] (Mix + Fixed)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1032 - FE8 Plus [Enhancement Patch] (Mix + Fixed)" size="16803632" crc="c49dbd6f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Plus [Enhancement Patch] (Mix)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1029 - FE8 Plus [Enhancement Patch] (Mix)" size="16803632" crc="a917ef6a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Plus [Enhancement Patch] (US)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1028 - FE8 Plus [Enhancement Patch] (US)" size="16803632" crc="7b5e3260" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Project Dark">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2043,6 +2171,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="722 - FE8 ROY" size="15899116" crc="963c09c5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Sacred Stones - Route Fusion">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1051 - FE8 Sacred Stones - Route Fusion" size="17831532" crc="dd37496e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1052 - FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)" size="17832096" crc="a9fdac7d" />
 			</dataarea>
 		</part>
 	</software>
@@ -2278,11 +2422,19 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Fe Time Scarred - The Unwanted Saga">
+	<software name="Fe Time Scarred - The Unwanted Saga (i try)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="464 - Fe Time Scarred - The Unwanted Saga" size="17788392" crc="bdb1f1d2" />
+				<rom name="464 - Fe Time Scarred - The Unwanted Saga (i try)" size="17788392" crc="bdb1f1d2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fe Time Scarred - The Unwanted Saga (Not A Game)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1046 - Fe Time Scarred - The Unwanted Saga (Not A Game)" size="18335684" crc="8c8f5cb6" />
 			</dataarea>
 		</part>
 	</software>
@@ -2427,6 +2579,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="123 - Fire Emblem - Barhara Revisited" size="17529372" crc="15482be6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - BR [MOBA-Style]">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1018 - Fire Emblem - BR [MOBA-Style]" size="19957120" crc="dbb71db1" />
 			</dataarea>
 		</part>
 	</software>
@@ -2750,6 +2910,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - The Blazing Blade - Routemerge">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1050 - Fire Emblem - The Blazing Blade - Routemerge" size="18756608" crc="d84eff95" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - The Fall of Thabes">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2811,6 +2979,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="7 - Fire Emblem - The Sacred Stones (USA, Australia)" size="16777216" crc="a47246ae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - The Sacred Stones - Remastered Soundtrack">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1049 - Fire Emblem - The Sacred Stones - Remastered Soundtrack" size="18242416" crc="a6e193e9" />
 			</dataarea>
 		</part>
 	</software>
@@ -3286,6 +3462,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Journeys - Gaiden">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1019 - Journeys - Gaiden" size="18078520" crc="e3ae479a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="JP Hack">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3323,6 +3507,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="272 - Justice and Pride - Book 2" size="22610380" crc="d28f4951" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Kaga Emblem (English)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1034 - Kaga Emblem (English)" size="19454240" crc="a6b440cc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Kaga Emblem (Spanish)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1035 - Kaga Emblem (Spanish)" size="19391296" crc="1d89248c" />
 			</dataarea>
 		</part>
 	</software>
@@ -3470,6 +3670,78 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Link Arena (The_Big_Dededester's Version)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1039 - Link Arena (The_Big_Dededester's Version)" size="25513644" crc="ac0e57b1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (The_Big_Dededester's Version) (Ember Edition)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1043 - Link Arena (The_Big_Dededester's Version) (Ember Edition)" size="31771860" crc="b8126e84" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1044 - Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)" size="31771860" crc="c35df761" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (The_Big_Dededester's Version) (Hard Mode)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1041 - Link Arena (The_Big_Dededester's Version) (Hard Mode)" size="25834216" crc="4a69a5e7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1042 - Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)" size="25834216" crc="7339e3cc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1040 - Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)" size="25513644" crc="f29182ac" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (TristanS's Version)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1036 - Link Arena (TristanS's Version)" size="19913772" crc="f55ef4fe" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (TristanS's Version) (fe6 edition)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1038 - Link Arena (TristanS's Version) (fe6 edition)" size="19913800" crc="53b2e339" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Link Arena (TristanS's Version) (NO SKILLS)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1037 - Link Arena (TristanS's Version) (NO SKILLS)" size="19913772" crc="70f4152d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Lord Weapons Patch Rebalance">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -3547,14 +3819,6 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="170 - Marc’s Precious - Revenge" size="17332276" crc="4426c3f9" />
-			</dataarea>
-		</part>
-	</software>
-	<software name="Mask of Dunham">
-		<publisher>Fan Modding</publisher>
-		<part name="" interface="">
-			<dataarea name="rom">
-				<rom name="437 - Mask of Dunham" size="19753152" crc="77dd037e" />
 			</dataarea>
 		</part>
 	</software>
@@ -4726,6 +4990,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sun God&amp;rsquo;s Wrath Kaizo Edition by April">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1054 - Sun God&amp;rsquo;s Wrath Kaizo Edition by April" size="33374508" crc="b65c47da" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Super Generic Ragefest Adventure">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -5174,6 +5446,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Lotus King">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1047 - The Lotus King" size="20295996" crc="6ad5b400" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Lullaby of Lust">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5187,6 +5467,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="661 - The Marquess' Trial" size="17921916" crc="a3442ac2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Mask of Dunham">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="437 - The Mask of Dunham" size="19753152" crc="77dd037e" />
 			</dataarea>
 		</part>
 	</software>
@@ -5398,6 +5686,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="TLP with Updated Animations">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1053 - TLP with Updated Animations" size="33402172" crc="ea5c9a40" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Touhou Emblem 8 - The Sacred Shrines">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -5467,6 +5763,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="273 - Under Grey Skies" size="19475260" crc="25b2d8d0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Unforgotten Heroes - Julius Caesar">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1045 - Unforgotten Heroes - Julius Caesar" size="17893444" crc="b3bc4cb0" />
 			</dataarea>
 		</part>
 	</software>

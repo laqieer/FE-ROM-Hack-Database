@@ -69,8 +69,8 @@
 138,Cornwell’s Ascension,Fan Modding,USA,ErkTheMage,English,6AD635DB,https://www.cornwellsascension.com/
 139,Fire Emblem - Feud of the Fangs,Fan Modding,Japan,laqieer,Japanese,7B2765BC,https://laqieer.github.io/game-modding.html
 140,Prisoner of Darkness,Ragefest,USA,Blazer,English,95F14EDD,https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/
-141,Void’s Blitzarre Adventure,Blitz,USA,circleseverywhere,English,9D22107C,https://github.com/FireEmblemUniverse/CCB_Round1
-142,Void’s Blitzarre Adventure - Blitz Tendency,Blitz,USA,Colorz,English,E02D7A82,https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency
+141,Void’s Blitzarre Adventure,Blitz,USA,circleseverywhere,English,9D22107C,https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629
+142,Void’s Blitzarre Adventure - Blitz Tendency,Blitz,USA,Colorz,English,E02D7A82,https://feuniverse.us/t/voids-blitzarre-adventure-blitz-tendency-earlygame-polish-released/3969
 143,Void’s Blitzarre Adventure - Blitz Tendency (debug),Blitz,USA,Colorz,English,66F0A6D0,https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency
 144,Resonance,Blitz,USA,Procrastinators Extraodinaire (Kirb),English,7D35CC3C,https://feuniverse.us/t/morps-blitz-crusaders-resonance-of-the-destiny-of-the-water-crest-old-thread/3319
 145,The Burdened Crown,Fan Modding,USA,Grated Shtick,English,489AFF60,https://feuniverse.us/t/fe8-hack-full-length-hack-the-burdened-crown-v2-2-0-is-available-now/5175
@@ -365,7 +365,7 @@
 434,The Lonely Mirror (Friendly),Fan Modding,USA,caladrius,English,C833F3EB,https://feuniverse.us/t/fire-emblem-the-lonely-mirror-full-game-fe8-rom-hack/5712
 435,Souls of the Forest,Fan Modding,USA,Scraiza,English,D5D8634B,https://feuniverse.us/t/fe8-fire-emblem-souls-of-the-forest/4300
 436,The Empyrean Prophecy,Fan Modding,USA,Zoisite,English,6039AB3F,https://feuniverse.us/t/hiraeth-legacies/5412
-437,Mask of Dunham,Fan Modding,USA,Sammy & Sme,English,77DD037E,https://github.com/sme23/oat-hacc
+437,The Mask of Dunham,Fan Modding,USA,Sammy & Sme,English,77DD037E,https://feuniverse.us/t/fe8u-fire-emblem-the-mask-of-dunham/6156
 438,Dawn of the Red Sun,Fan Modding,USA,flasuban,English,C740AE74,https://feuniverse.us/t/fe8-fire-emblem-dawn-of-the-red-sun/5436
 439,Sealed in Light,Fan Modding,USA,AridAran,English,A23144DA,https://feuniverse.us/t/fire-emblem-sealed-in-light-beta/5670
 440,ErikFE,Fan Modding,USA,e5e,English,A255AC4B,https://feuniverse.us/t/fe8-erikfe/4706
@@ -392,7 +392,7 @@
 461,Fire Emblem 8 Time Scarred,Fan Modding,USA,LeonNote,English,3187A796,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1
 462,Fe Time Scarred - Rikers Crew,Fan Modding,USA,LeonNote,English,EBD4BAC5,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1
 463,Fe Time Scarred - Rebirth,Fan Modding,USA,LeonNote,English,FB485921,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1
-464,Fe Time Scarred - The Unwanted Saga,Fan Modding,USA,LeonNote,English,BDB1F1D2,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1
+464,Fe Time Scarred - The Unwanted Saga (i try),Fan Modding,USA,LeonNote,English,BDB1F1D2,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1
 465,Sacred Texts,Fan Modding,USA,AznTrueblade,English,4B97C9BE,https://forums.serenesforest.net/index.php?/topic/86760-fe-sacred-texts/
 466,Fire Emblem Time Scarred Time Lines - The Beginning,Fan Modding,USA,LeonNote,English,B9C68CFE,https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308
 467,M. E. R. C. S.,Fan Modding,USA,Bwan,English,048EB1B6,https://feuniverse.us/t/m-e-r-c-s-hack-wip/7442
@@ -946,3 +946,41 @@
 1015,Myth of Blight,Fan Modding,USA,helix0981,English,26623BAC,https://feuniverse.us/t/myth-of-blight-public-demo-available-full-hack-in-development/13885
 1016,FE6 Fire Embad,Reskin/Rebalance,USA,Alguien,English,DA5BD403,https://feuniverse.us/t/fe6-fire-embad/14079
 1017,FE8 Mind edition,Reskin/Rebalance,USA,Leonarth,English,9891A739,https://feuniverse.us/t/fire-emblem-8-mind-edition/5242
+1018,Fire Emblem - BR [MOBA-Style],Fan Modding,USA,d_h,English,DBB71DB1,https://feuniverse.us/t/fe8-fire-emblem-br-moba-style-1-03-new-map-2v2/12577
+1019,Journeys - Gaiden,Fan Modding,USA,Relic,English,E3AE479A,https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-gaiden-5-chapters/12580
+1020,FE6 Plus [Enhancement Patch],Reskin/Rebalance,Japan,Mkol,English,DB83F792,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1021,FE6 Plus [Enhancement Patch] (Numbers),Reskin/Rebalance,Japan,Mkol,English,DCE3756B,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1022,FE6 Plus [Enhancement Patch] (Fixed),Reskin/Rebalance,Japan,Mkol,English,4E4C2301,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1023,FE6 Plus [Enhancement Patch] (Fixed + Numbers),Reskin/Rebalance,Japan,Mkol,English,E1CEF398,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1024,FE7 Plus [Enhancement Patch],Reskin/Rebalance,USA,Mkol,English,C53315E2,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1025,FE7 Plus [Enhancement Patch] (JP),Reskin/Rebalance,USA,Mkol,English,F6FC178F,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1026,FE7 Plus [Enhancement Patch] (Fixed),Reskin/Rebalance,USA,Mkol,English,F6A18CB2,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1027,FE7 Plus [Enhancement Patch] (JP + Fixed),Reskin/Rebalance,USA,Mkol,English,8DDBA2F9,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1028,FE8 Plus [Enhancement Patch] (US),Reskin/Rebalance,USA,Mkol,English,7B5E3260,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1029,FE8 Plus [Enhancement Patch] (Mix),Reskin/Rebalance,USA,Mkol,English,A917EF6A,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1030,FE8 Plus [Enhancement Patch] (JP),Reskin/Rebalance,USA,Mkol,English,42436D77,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1031,FE8 Plus [Enhancement Patch] (Fixed),Reskin/Rebalance,USA,Mkol,English,FC6F9734,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1032,FE8 Plus [Enhancement Patch] (Mix + Fixed),Reskin/Rebalance,USA,Mkol,English,C49DBD6F,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1033,FE8 Plus [Enhancement Patch] (JP + Fixed),Reskin/Rebalance,USA,Mkol,English,F91C9C69,https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603
+1034,Kaga Emblem (English),Fan Modding,USA,Renoud,English,A6B440CC,https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317
+1035,Kaga Emblem (Spanish),Fan Modding,USA,Renoud,Spanish,1D89248C,https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317
+1036,Link Arena (TristanS's Version),Fan Modding,USA,TristanS,English,F55EF4FE,https://feuniverse.us/t/link-arena-with-all-gba-games/10342
+1037,Link Arena (TristanS's Version) (NO SKILLS),Fan Modding,USA,TristanS,English,70F4152D,https://feuniverse.us/t/link-arena-with-all-gba-games/10342
+1038,Link Arena (TristanS's Version) (fe6 edition),Fan Modding,USA,TristanS,English,53B2E339,https://feuniverse.us/t/link-arena-with-all-gba-games/10342
+1039,Link Arena (The_Big_Dededester's Version),Fan Modding,USA,The_Big_Dededester,English,AC0E57B1,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1040,Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills),Fan Modding,USA,The_Big_Dededester,English,F29182AC,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1041,Link Arena (The_Big_Dededester's Version) (Hard Mode),Fan Modding,USA,The_Big_Dededester,English,4A69A5E7,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1042,Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills),Fan Modding,USA,The_Big_Dededester,English,7339E3CC,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1043,Link Arena (The_Big_Dededester's Version) (Ember Edition),Fan Modding,USA,The_Big_Dededester,English,B8126E84,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1044,Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills),Fan Modding,USA,The_Big_Dededester,English,C35DF761,https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855
+1045,Unforgotten Heroes - Julius Caesar,Fan Modding,USA,kelonline,English,B3BC4CB0,https://feuniverse.us/t/fire-emblem-unforgotten-heroes-julius-caesar-v0-1/11094
+1046,Fe Time Scarred - The Unwanted Saga (Not A Game),Fan Modding,USA,LeonNote,English,8C8F5CB6,https://feuniverse.us/t/fe-time-scarred-the-unwanted-saga/11949
+1047,The Lotus King,Fan Modding,USA,HHS,English,6AD5B400,https://feuniverse.us/t/fe8-fire-emblem-the-lotus-king/14353
+1048,Deflation Emblem - Because Stat Inflation is Dumb,Reskin/Rebalance,USA,Sme,English,5CCB99E7,https://feuniverse.us/t/deflation-emblem-because-stat-inflation-is-dumb/4678
+1049,Fire Emblem - The Sacred Stones - Remastered Soundtrack,Reskin/Rebalance,USA,whattheshmitty,English,A6E193E9,https://feuniverse.us/t/fire-emblem-the-sacred-stones-remastered-soundtrack/12541
+1050,Fire Emblem - The Blazing Blade - Routemerge,Reskin/Rebalance,USA,LPFan,English,D84EFF95,https://feuniverse.us/t/fire-emblem-the-blazing-blade-routemerge/10553
+1051,FE8 Sacred Stones - Route Fusion,Reskin/Rebalance,USA,Merpin,English,DD37496E,https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313
+1052,FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap),Reskin/Rebalance,USA,Merpin,English,A9FDAC7D,https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313
+1053,TLP with Updated Animations,Fan Modding,USA,ltranc,English,EA5C9A40,https://feuniverse.us/t/tlp-with-updated-animations/5340
+1054,Sun God&rsquo;s Wrath Kaizo Edition by April,Fan Modding,USA,5april,English,B65C47DA,https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971
+1055,FE7 to FE6 Character Swap Hack,Reskin/Rebalance,USA,Jam,English,633BBE89,https://feuniverse.us/t/fe6-fe7-to-fe6-character-swap-hack/13948

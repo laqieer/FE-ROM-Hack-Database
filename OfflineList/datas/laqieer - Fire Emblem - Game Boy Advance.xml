@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220328</datVersion>
+    <datVersion>20220329</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -1314,7 +1314,7 @@
       </files>
       <im1CRC>E5083BD1</im1CRC>
       <im2CRC>BE63F5DC</im2CRC>
-      <comment>https://github.com/FireEmblemUniverse/CCB_Round1</comment>
+      <comment>https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -1332,7 +1332,7 @@
       </files>
       <im1CRC>52053982</im1CRC>
       <im2CRC>9F7D77A5</im2CRC>
-      <comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+      <comment>https://feuniverse.us/t/voids-blitzarre-adventure-blitz-tendency-earlygame-polish-released/3969</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -6630,7 +6630,7 @@
     <game>
       <imageNumber>437</imageNumber>
       <releaseNumber>437</releaseNumber>
-      <title>Mask of Dunham</title>
+      <title>The Mask of Dunham</title>
       <saveType>Sram_F_v103</saveType>
       <romSize>19753152</romSize>
       <publisher>Fan Modding</publisher>
@@ -6642,7 +6642,7 @@
       </files>
       <im1CRC>C0110D67</im1CRC>
       <im2CRC>688864F2</im2CRC>
-      <comment>https://github.com/sme23/oat-hacc</comment>
+      <comment>https://feuniverse.us/t/fe8u-fire-emblem-the-mask-of-dunham/6156</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -7116,7 +7116,7 @@
     <game>
       <imageNumber>464</imageNumber>
       <releaseNumber>464</releaseNumber>
-      <title>Fe Time Scarred - The Unwanted Saga</title>
+      <title>Fe Time Scarred - The Unwanted Saga (i try)</title>
       <saveType>Sram_F_v103</saveType>
       <romSize>17788392</romSize>
       <publisher>Fan Modding</publisher>
@@ -17083,6 +17083,690 @@
       <im1CRC>8D52AC2C</im1CRC>
       <im2CRC>EF7B0D28</im2CRC>
       <comment>https://feuniverse.us/t/fire-emblem-8-mind-edition/5242</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1018</imageNumber>
+      <releaseNumber>1018</releaseNumber>
+      <title>Fire Emblem - BR [MOBA-Style]</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19957120</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>d_h</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DBB71DB1</romCRC>
+      </files>
+      <im1CRC>995E3B73</im1CRC>
+      <im2CRC>30F42026</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-br-moba-style-1-03-new-map-2v2/12577</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1019</imageNumber>
+      <releaseNumber>1019</releaseNumber>
+      <title>Journeys - Gaiden</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18078520</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Relic</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">E3AE479A</romCRC>
+      </files>
+      <im1CRC>7D02F399</im1CRC>
+      <im2CRC>9D73B9A3</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-gaiden-5-chapters/12580</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1020</imageNumber>
+      <releaseNumber>1020</releaseNumber>
+      <title>FE6 Plus [Enhancement Patch]</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8588036</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DB83F792</romCRC>
+      </files>
+      <im1CRC>79A41090</im1CRC>
+      <im2CRC>C460057F</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1021</imageNumber>
+      <releaseNumber>1021</releaseNumber>
+      <title>FE6 Plus [Enhancement Patch] (Numbers)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8588556</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DCE3756B</romCRC>
+      </files>
+      <im1CRC>0343611C</im1CRC>
+      <im2CRC>9C33C504</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1022</imageNumber>
+      <releaseNumber>1022</releaseNumber>
+      <title>FE6 Plus [Enhancement Patch] (Fixed)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8588128</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">4E4C2301</romCRC>
+      </files>
+      <im1CRC>F5C63D4D</im1CRC>
+      <im2CRC>A1F28C33</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1023</imageNumber>
+      <releaseNumber>1023</releaseNumber>
+      <title>FE6 Plus [Enhancement Patch] (Fixed + Numbers)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8588648</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">E1CEF398</romCRC>
+      </files>
+      <im1CRC>DC0C4040</im1CRC>
+      <im2CRC>43EC38C3</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1024</imageNumber>
+      <releaseNumber>1024</releaseNumber>
+      <title>FE7 Plus [Enhancement Patch]</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16798616</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C53315E2</romCRC>
+      </files>
+      <im1CRC>B54F0748</im1CRC>
+      <im2CRC>97ED224A</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1025</imageNumber>
+      <releaseNumber>1025</releaseNumber>
+      <title>FE7 Plus [Enhancement Patch] (JP)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16800920</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F6FC178F</romCRC>
+      </files>
+      <im1CRC>D5C8C507</im1CRC>
+      <im2CRC>24212DB1</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1026</imageNumber>
+      <releaseNumber>1026</releaseNumber>
+      <title>FE7 Plus [Enhancement Patch] (Fixed)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16798708</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F6A18CB2</romCRC>
+      </files>
+      <im1CRC>9CCE9F14</im1CRC>
+      <im2CRC>33C82A28</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1027</imageNumber>
+      <releaseNumber>1027</releaseNumber>
+      <title>FE7 Plus [Enhancement Patch] (JP + Fixed)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16801012</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">8DDBA2F9</romCRC>
+      </files>
+      <im1CRC>F0D865B1</im1CRC>
+      <im2CRC>511E9095</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1028</imageNumber>
+      <releaseNumber>1028</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (US)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16803632</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7B5E3260</romCRC>
+      </files>
+      <im1CRC>8C6A8B01</im1CRC>
+      <im2CRC>74579821</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1029</imageNumber>
+      <releaseNumber>1029</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (Mix)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16803632</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A917EF6A</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>A72936E7</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1030</imageNumber>
+      <releaseNumber>1030</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (JP)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16804540</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">42436D77</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>ACE8CC7E</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1031</imageNumber>
+      <releaseNumber>1031</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (Fixed)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16803632</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">FC6F9734</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>CA679C75</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1032</imageNumber>
+      <releaseNumber>1032</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (Mix + Fixed)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16803632</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C49DBD6F</romCRC>
+      </files>
+      <im1CRC>8C6A8B01</im1CRC>
+      <im2CRC>BF4189C1</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1033</imageNumber>
+      <releaseNumber>1033</releaseNumber>
+      <title>FE8 Plus [Enhancement Patch] (JP + Fixed)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16804540</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Mkol</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F91C9C69</romCRC>
+      </files>
+      <im1CRC>09B2BC59</im1CRC>
+      <im2CRC>5A68F5F0</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1034</imageNumber>
+      <releaseNumber>1034</releaseNumber>
+      <title>Kaga Emblem (English)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19454240</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Renoud</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A6B440CC</romCRC>
+      </files>
+      <im1CRC>C66AD25D</im1CRC>
+      <im2CRC>8E8ED7DD</im2CRC>
+      <comment>https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1035</imageNumber>
+      <releaseNumber>1035</releaseNumber>
+      <title>Kaga Emblem (Spanish)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19391296</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Renoud</sourceRom>
+      <language>4096</language>
+      <files>
+        <romCRC extension=".gba">1D89248C</romCRC>
+      </files>
+      <im1CRC>AD285EF0</im1CRC>
+      <im2CRC>379E3342</im2CRC>
+      <comment>https://feuniverse.us/t/kaga-emblem-v-1-0-cancelled/6317</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1036</imageNumber>
+      <releaseNumber>1036</releaseNumber>
+      <title>Link Arena (TristanS's Version)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19913772</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>TristanS</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F55EF4FE</romCRC>
+      </files>
+      <im1CRC>09B2BC59</im1CRC>
+      <im2CRC>076B6B76</im2CRC>
+      <comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1037</imageNumber>
+      <releaseNumber>1037</releaseNumber>
+      <title>Link Arena (TristanS's Version) (NO SKILLS)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19913772</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>TristanS</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">70F4152D</romCRC>
+      </files>
+      <im1CRC>9FAA36D4</im1CRC>
+      <im2CRC>41ACAF07</im2CRC>
+      <comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1038</imageNumber>
+      <releaseNumber>1038</releaseNumber>
+      <title>Link Arena (TristanS's Version) (fe6 edition)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19913800</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>TristanS</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">53B2E339</romCRC>
+      </files>
+      <im1CRC>8C6A8B01</im1CRC>
+      <im2CRC>41C15641</im2CRC>
+      <comment>https://feuniverse.us/t/link-arena-with-all-gba-games/10342</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1039</imageNumber>
+      <releaseNumber>1039</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>25513644</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">AC0E57B1</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>CFC24424</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1040</imageNumber>
+      <releaseNumber>1040</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>25513644</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F29182AC</romCRC>
+      </files>
+      <im1CRC>A9170711</im1CRC>
+      <im2CRC>B78C475F</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1041</imageNumber>
+      <releaseNumber>1041</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version) (Hard Mode)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>25834216</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">4A69A5E7</romCRC>
+      </files>
+      <im1CRC>AD44229C</im1CRC>
+      <im2CRC>F01B55D2</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1042</imageNumber>
+      <releaseNumber>1042</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>25834216</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7339E3CC</romCRC>
+      </files>
+      <im1CRC>A9170711</im1CRC>
+      <im2CRC>AFC47C45</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1043</imageNumber>
+      <releaseNumber>1043</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version) (Ember Edition)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>31771860</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">B8126E84</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>4A639AB1</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1044</imageNumber>
+      <releaseNumber>1044</releaseNumber>
+      <title>Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>31771860</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>The_Big_Dededester</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C35DF761</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>7B8D6A66</im2CRC>
+      <comment>https://feuniverse.us/t/super-link-arena-alpha-deluxe-turbo-knuckles-new-funky-mode/10855</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1045</imageNumber>
+      <releaseNumber>1045</releaseNumber>
+      <title>Unforgotten Heroes - Julius Caesar</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17893444</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>kelonline</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">B3BC4CB0</romCRC>
+      </files>
+      <im1CRC>50C973F9</im1CRC>
+      <im2CRC>044DA17F</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-unforgotten-heroes-julius-caesar-v0-1/11094</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1046</imageNumber>
+      <releaseNumber>1046</releaseNumber>
+      <title>Fe Time Scarred - The Unwanted Saga (Not A Game)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18335684</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>LeonNote</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">8C8F5CB6</romCRC>
+      </files>
+      <im1CRC>8A418D45</im1CRC>
+      <im2CRC>30608B4D</im2CRC>
+      <comment>https://feuniverse.us/t/fe-time-scarred-the-unwanted-saga/11949</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1047</imageNumber>
+      <releaseNumber>1047</releaseNumber>
+      <title>The Lotus King</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>20295996</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>HHS</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">6AD5B400</romCRC>
+      </files>
+      <im1CRC>BCCC799E</im1CRC>
+      <im2CRC>8233D0C0</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-the-lotus-king/14353</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1048</imageNumber>
+      <releaseNumber>1048</releaseNumber>
+      <title>Deflation Emblem - Because Stat Inflation is Dumb</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Sme</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">5CCB99E7</romCRC>
+      </files>
+      <im1CRC>1C476069</im1CRC>
+      <im2CRC>72C29B24</im2CRC>
+      <comment>https://feuniverse.us/t/deflation-emblem-because-stat-inflation-is-dumb/4678</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1049</imageNumber>
+      <releaseNumber>1049</releaseNumber>
+      <title>Fire Emblem - The Sacred Stones - Remastered Soundtrack</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18242416</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>whattheshmitty</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A6E193E9</romCRC>
+      </files>
+      <im1CRC>A9957B9E</im1CRC>
+      <im2CRC>64937D6F</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-remastered-soundtrack/12541</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1050</imageNumber>
+      <releaseNumber>1050</releaseNumber>
+      <title>Fire Emblem - The Blazing Blade - Routemerge</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>18756608</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>LPFan</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D84EFF95</romCRC>
+      </files>
+      <im1CRC>2573797C</im1CRC>
+      <im2CRC>9DF14D05</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-the-blazing-blade-routemerge/10553</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1051</imageNumber>
+      <releaseNumber>1051</releaseNumber>
+      <title>FE8 Sacred Stones - Route Fusion</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17831532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Merpin</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DD37496E</romCRC>
+      </files>
+      <im1CRC>D09E5396</im1CRC>
+      <im2CRC>F19EFB69</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1052</imageNumber>
+      <releaseNumber>1052</releaseNumber>
+      <title>FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17832096</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Merpin</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A9FDAC7D</romCRC>
+      </files>
+      <im1CRC>ED90569A</im1CRC>
+      <im2CRC>138889F0</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1053</imageNumber>
+      <releaseNumber>1053</releaseNumber>
+      <title>TLP with Updated Animations</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>33402172</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>ltranc</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">EA5C9A40</romCRC>
+      </files>
+      <im1CRC>A8C3F824</im1CRC>
+      <im2CRC>674DC696</im2CRC>
+      <comment>https://feuniverse.us/t/tlp-with-updated-animations/5340</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1054</imageNumber>
+      <releaseNumber>1054</releaseNumber>
+      <title>Sun God&amp;rsquo;s Wrath Kaizo Edition by April</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>33374508</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>5april</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">B65C47DA</romCRC>
+      </files>
+      <im1CRC>CE35E330</im1CRC>
+      <im2CRC>6117710A</im2CRC>
+      <comment>https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1055</imageNumber>
+      <releaseNumber>1055</releaseNumber>
+      <title>FE7 to FE6 Character Swap Hack</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>11464904</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Jam</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">633BBE89</romCRC>
+      </files>
+      <im1CRC>69750CA1</im1CRC>
+      <im2CRC>5511939A</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fe7-to-fe6-character-swap-hack/13948</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

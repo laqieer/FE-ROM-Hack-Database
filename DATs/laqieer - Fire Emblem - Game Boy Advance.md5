@@ -94,6 +94,7 @@
  124 - Death or Glory.gba
  253 - Decay of the Fangs.gba
  653 - Defense Mission.gba
+ 1048 - Deflation Emblem - Because Stat Inflation is Dumb.gba
  337 - Degeneration Emblem.gba
  229 - Deity Device (Bonus).gba
  226 - Deity Device (Part 1).gba
@@ -163,6 +164,10 @@
  331 - FE6 Negative Growths (English).gba
  585 - FE6 No Redundancy Edition.gba
  294 - FE6 Numbers Patch.gba
+ 1020 - FE6 Plus [Enhancement Patch].gba
+ 1023 - FE6 Plus [Enhancement Patch] (Fixed + Numbers).gba
+ 1022 - FE6 Plus [Enhancement Patch] (Fixed).gba
+ 1021 - FE6 Plus [Enhancement Patch] (Numbers).gba
  291 - FE6 Promoted Mode.gba
  631 - FE6 Rapid Rebalance.gba
  543 - FE6 Real War Chronicles.gba
@@ -205,7 +210,12 @@
  341 - FE7 Lute Mode.gba
  628 - FE7 Lyn Hard Mode Redux.gba
  629 - FE7 Lyn Hard Mode Redux JP.gba
+ 1024 - FE7 Plus [Enhancement Patch].gba
+ 1026 - FE7 Plus [Enhancement Patch] (Fixed).gba
+ 1027 - FE7 Plus [Enhancement Patch] (JP + Fixed).gba
+ 1025 - FE7 Plus [Enhancement Patch] (JP).gba
  626 - FE7 Rewrite.gba
+ 1055 - FE7 to FE6 Character Swap Hack.gba
  698 - FE7 デビル.gba
  702 - FE7 自作改造.gba
  772 - FE7akaneiaproject.gba
@@ -242,6 +252,12 @@
  555 - FE8 Monster Quest.gba
  367 - FE8 Negative Growths.gba
  403 - FE8 Oops, All Archers!.gba
+ 1031 - FE8 Plus [Enhancement Patch] (Fixed).gba
+ 1033 - FE8 Plus [Enhancement Patch] (JP + Fixed).gba
+ 1030 - FE8 Plus [Enhancement Patch] (JP).gba
+ 1032 - FE8 Plus [Enhancement Patch] (Mix + Fixed).gba
+ 1029 - FE8 Plus [Enhancement Patch] (Mix).gba
+ 1028 - FE8 Plus [Enhancement Patch] (US).gba
  397 - FE8 Project Dark.gba
  1014 - FE8 Project Rock - Yet Another FE8 Rebalance.gba
  769 - FE8 prologue (序章if).gba
@@ -254,6 +270,8 @@
  350 - FE8 Reverse Recruitment Self Randomizer (villagedoesnotrhymewithpillage).gba
  349 - FE8 Reverse Recruitment Self Randomizer (villagerhymeswithpillage).gba
  722 - FE8 ROY.gba
+ 1051 - FE8 Sacred Stones - Route Fusion.gba
+ 1052 - FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap).gba
  401 - FE8 The Fallen Princess.gba
  450 - FE8 Totally Vanilla.gba
  723 - FE8 TS (圣魔光石个人特技版).gba
@@ -283,7 +301,8 @@
  214 - FE The Grand Uprising (Blue default player phase map sprite palette).gba
  463 - Fe Time Scarred - Rebirth.gba
  462 - Fe Time Scarred - Rikers Crew.gba
- 464 - Fe Time Scarred - The Unwanted Saga.gba
+ 464 - Fe Time Scarred - The Unwanted Saga (i try).gba
+ 1046 - Fe Time Scarred - The Unwanted Saga (Not A Game).gba
  541 - FEGirls J with English Menu Names.gba
  577 - FEH2, GBA with GACHA mechanics.gba
  478 - Ferrica - Project Kenko.gba
@@ -302,6 +321,7 @@
  3 - Fire Emblem (USA, Australia).gba
  452 - Fire Emblem - Aletheia.gba
  123 - Fire Emblem - Barhara Revisited.gba
+ 1018 - Fire Emblem - BR [MOBA-Style].gba
  150 - Fire Emblem - Code of the Black Knights.gba
  275 - Fire Emblem - Darkest Blade.gba
  122 - Fire Emblem - Different Dimensions Ostian Princess 2.0.gba
@@ -342,6 +362,7 @@
  157 - Fire Emblem - The Arch of Coups.gba
  29 - Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].gba
  281 - Fire Emblem - The Binding Blade Extreme.gba
+ 1050 - Fire Emblem - The Blazing Blade - Routemerge.gba
  221 - Fire Emblem - The Fall of Thabes.gba
  155 - Fire Emblem - The Heroes We Deserve.gba
  569 - Fire Emblem - The Last Voyage.gba
@@ -350,6 +371,7 @@
  32 - Fire Emblem - The Sacred Stones (Russian Translation).gba
  12 - Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console).gba
  7 - Fire Emblem - The Sacred Stones (USA, Australia).gba
+ 1049 - Fire Emblem - The Sacred Stones - Remastered Soundtrack.gba
  279 - Fire Emblem - The Stone Chains.gba
  274 - Fire Emblem - Tiding Bonds.gba
  203 - Fire Emblem - Vision Quest.gba
@@ -409,11 +431,14 @@
  237 - Isekai Emblem.gba
  605 - jellyunicorn's Two Hour Blitz - bungus badventure.gba
  219 - Journeys.gba
+ 1019 - Journeys - Gaiden.gba
  473 - JP Hack.gba
  268 - Jugdral Saga.gba
  529 - Julius's Revenge.gba
  475 - Justice & Pride Gaiden - Clash in Estria.gba
  272 - Justice and Pride - Book 2.gba
+ 1034 - Kaga Emblem (English).gba
+ 1035 - Kaga Emblem (Spanish).gba
  179 - Kaitou.gba
  180 - Kaitou (English).gba
  162 - Knoll’s Super Spooky Halloween Adventure.gba
@@ -432,6 +457,15 @@
  424 - Legends of Avenir.gba
  610 - Lengths of Time.gba
  570 - Liberllion (Rebellion).gba
+ 1039 - Link Arena (The_Big_Dededester's Version).gba
+ 1043 - Link Arena (The_Big_Dededester's Version) (Ember Edition).gba
+ 1044 - Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills).gba
+ 1041 - Link Arena (The_Big_Dededester's Version) (Hard Mode).gba
+ 1042 - Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills).gba
+ 1040 - Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills).gba
+ 1036 - Link Arena (TristanS's Version).gba
+ 1038 - Link Arena (TristanS's Version) (fe6 edition).gba
+ 1037 - Link Arena (TristanS's Version) (NO SKILLS).gba
  340 - Lord Weapons Patch Rebalance.gba
  377 - Lute Emblem - The Sacred Lutes.gba
  346 - Lyn Emblem.gba
@@ -442,7 +476,6 @@
  565 - Many Emblem.gba
  510 - Marc's Special Day.gba
  170 - Marc’s Precious - Revenge.gba
- 437 - Mask of Dunham.gba
  503 - Matthew's Nightmare.gba
  502 - Maze Of The Troll King.gba
  395 - Midnight Eclipse (Joke hack).gba
@@ -589,6 +622,7 @@
  236 - Storge.gba
  992 - Subtitle.gba
  604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape.gba
+ 1054 - Sun God&rsquo;s Wrath Kaizo Edition by April.gba
  539 - Super Generic Ragefest Adventure.gba
  594 - Sword of Heaven and Earth (English Translation).gba
  295 - Sword of Seals ReDux.gba
@@ -645,8 +679,10 @@
  1001 - The Last Royal (Time to Split).gba
  433 - The Lonely Mirror (Classic).gba
  434 - The Lonely Mirror (Friendly).gba
+ 1047 - The Lotus King.gba
  423 - The Lullaby of Lust.gba
  661 - The Marquess' Trial.gba
+ 437 - The Mask of Dunham.gba
  448 - The Nameless Heroes (English Translation).gba
  989 - The Phantom King.gba
  528 - The Purge Of Weegee.gba
@@ -673,6 +709,7 @@
  987 - Tierra Maldita.gba
  282 - Tirado Emblem.gba
  521 - Title Here.gba
+ 1053 - TLP with Updated Animations.gba
  402 - Touhou Emblem 8 - The Sacred Shrines.gba
  242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.gba
  515 - Tower Defense.gba
@@ -682,6 +719,7 @@
  258 - Typhon’s Wake.gba
  136 - Unburdened Liberty.gba
  273 - Under Grey Skies.gba
+ 1045 - Unforgotten Heroes - Julius Caesar.gba
  500 - Untitled.gba
  513 - Vaati's Revenge.gba
  559 - Version Elibe 776.gba

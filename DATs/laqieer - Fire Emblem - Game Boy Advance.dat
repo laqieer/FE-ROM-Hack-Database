@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220328"
+	version "20220329"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -490,6 +490,11 @@ game (
 	rom ( name "653 - Defense Mission" size "33555892" crc "35a357bc" )
 )
 game (
+	name "Deflation Emblem - Because Stat Inflation is Dumb"
+	description "Deflation Emblem - Because Stat Inflation is Dumb"
+	rom ( name "1048 - Deflation Emblem - Because Stat Inflation is Dumb" size "16777216" crc "5ccb99e7" )
+)
+game (
 	name "Degeneration Emblem"
 	description "Degeneration Emblem"
 	rom ( name "337 - Degeneration Emblem" size "16777216" crc "dbc4ac1a" )
@@ -835,6 +840,26 @@ game (
 	rom ( name "294 - FE6 Numbers Patch" size "8588060" crc "400da207" )
 )
 game (
+	name "FE6 Plus [Enhancement Patch]"
+	description "FE6 Plus [Enhancement Patch]"
+	rom ( name "1020 - FE6 Plus [Enhancement Patch]" size "8588036" crc "db83f792" )
+)
+game (
+	name "FE6 Plus [Enhancement Patch] (Fixed + Numbers)"
+	description "FE6 Plus [Enhancement Patch] (Fixed + Numbers)"
+	rom ( name "1023 - FE6 Plus [Enhancement Patch] (Fixed + Numbers)" size "8588648" crc "e1cef398" )
+)
+game (
+	name "FE6 Plus [Enhancement Patch] (Fixed)"
+	description "FE6 Plus [Enhancement Patch] (Fixed)"
+	rom ( name "1022 - FE6 Plus [Enhancement Patch] (Fixed)" size "8588128" crc "4e4c2301" )
+)
+game (
+	name "FE6 Plus [Enhancement Patch] (Numbers)"
+	description "FE6 Plus [Enhancement Patch] (Numbers)"
+	rom ( name "1021 - FE6 Plus [Enhancement Patch] (Numbers)" size "8588556" crc "dce3756b" )
+)
+game (
 	name "FE6 Promoted Mode"
 	description "FE6 Promoted Mode"
 	rom ( name "291 - FE6 Promoted Mode" size "16777532" crc "41252a77" )
@@ -1041,9 +1066,34 @@ game (
 	rom ( name "629 - FE7 Lyn Hard Mode Redux JP" size "16823200" crc "5344ef57" )
 )
 game (
+	name "FE7 Plus [Enhancement Patch]"
+	description "FE7 Plus [Enhancement Patch]"
+	rom ( name "1024 - FE7 Plus [Enhancement Patch]" size "16798616" crc "c53315e2" )
+)
+game (
+	name "FE7 Plus [Enhancement Patch] (Fixed)"
+	description "FE7 Plus [Enhancement Patch] (Fixed)"
+	rom ( name "1026 - FE7 Plus [Enhancement Patch] (Fixed)" size "16798708" crc "f6a18cb2" )
+)
+game (
+	name "FE7 Plus [Enhancement Patch] (JP + Fixed)"
+	description "FE7 Plus [Enhancement Patch] (JP + Fixed)"
+	rom ( name "1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)" size "16801012" crc "8ddba2f9" )
+)
+game (
+	name "FE7 Plus [Enhancement Patch] (JP)"
+	description "FE7 Plus [Enhancement Patch] (JP)"
+	rom ( name "1025 - FE7 Plus [Enhancement Patch] (JP)" size "16800920" crc "f6fc178f" )
+)
+game (
 	name "FE7 Rewrite"
 	description "FE7 Rewrite"
 	rom ( name "626 - FE7 Rewrite" size "17894192" crc "a3e1d79e" )
+)
+game (
+	name "FE7 to FE6 Character Swap Hack"
+	description "FE7 to FE6 Character Swap Hack"
+	rom ( name "1055 - FE7 to FE6 Character Swap Hack" size "11464904" crc "633bbe89" )
 )
 game (
 	name "FE7 デビル"
@@ -1226,6 +1276,36 @@ game (
 	rom ( name "403 - FE8 Oops, All Archers!" size "16912200" crc "0c7a2625" )
 )
 game (
+	name "FE8 Plus [Enhancement Patch] (Fixed)"
+	description "FE8 Plus [Enhancement Patch] (Fixed)"
+	rom ( name "1031 - FE8 Plus [Enhancement Patch] (Fixed)" size "16803632" crc "fc6f9734" )
+)
+game (
+	name "FE8 Plus [Enhancement Patch] (JP + Fixed)"
+	description "FE8 Plus [Enhancement Patch] (JP + Fixed)"
+	rom ( name "1033 - FE8 Plus [Enhancement Patch] (JP + Fixed)" size "16804540" crc "f91c9c69" )
+)
+game (
+	name "FE8 Plus [Enhancement Patch] (JP)"
+	description "FE8 Plus [Enhancement Patch] (JP)"
+	rom ( name "1030 - FE8 Plus [Enhancement Patch] (JP)" size "16804540" crc "42436d77" )
+)
+game (
+	name "FE8 Plus [Enhancement Patch] (Mix + Fixed)"
+	description "FE8 Plus [Enhancement Patch] (Mix + Fixed)"
+	rom ( name "1032 - FE8 Plus [Enhancement Patch] (Mix + Fixed)" size "16803632" crc "c49dbd6f" )
+)
+game (
+	name "FE8 Plus [Enhancement Patch] (Mix)"
+	description "FE8 Plus [Enhancement Patch] (Mix)"
+	rom ( name "1029 - FE8 Plus [Enhancement Patch] (Mix)" size "16803632" crc "a917ef6a" )
+)
+game (
+	name "FE8 Plus [Enhancement Patch] (US)"
+	description "FE8 Plus [Enhancement Patch] (US)"
+	rom ( name "1028 - FE8 Plus [Enhancement Patch] (US)" size "16803632" crc "7b5e3260" )
+)
+game (
 	name "FE8 Project Dark"
 	description "FE8 Project Dark"
 	rom ( name "397 - FE8 Project Dark" size "17578004" crc "4b31296b" )
@@ -1284,6 +1364,16 @@ game (
 	name "FE8 ROY"
 	description "FE8 ROY"
 	rom ( name "722 - FE8 ROY" size "15899116" crc "963c09c5" )
+)
+game (
+	name "FE8 Sacred Stones - Route Fusion"
+	description "FE8 Sacred Stones - Route Fusion"
+	rom ( name "1051 - FE8 Sacred Stones - Route Fusion" size "17831532" crc "dd37496e" )
+)
+game (
+	name "FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)"
+	description "FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)"
+	rom ( name "1052 - FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)" size "17832096" crc "a9fdac7d" )
 )
 game (
 	name "FE8 The Fallen Princess"
@@ -1431,9 +1521,14 @@ game (
 	rom ( name "462 - Fe Time Scarred - Rikers Crew" size "18320756" crc "ebd4bac5" )
 )
 game (
-	name "Fe Time Scarred - The Unwanted Saga"
-	description "Fe Time Scarred - The Unwanted Saga"
-	rom ( name "464 - Fe Time Scarred - The Unwanted Saga" size "17788392" crc "bdb1f1d2" )
+	name "Fe Time Scarred - The Unwanted Saga (i try)"
+	description "Fe Time Scarred - The Unwanted Saga (i try)"
+	rom ( name "464 - Fe Time Scarred - The Unwanted Saga (i try)" size "17788392" crc "bdb1f1d2" )
+)
+game (
+	name "Fe Time Scarred - The Unwanted Saga (Not A Game)"
+	description "Fe Time Scarred - The Unwanted Saga (Not A Game)"
+	rom ( name "1046 - Fe Time Scarred - The Unwanted Saga (Not A Game)" size "18335684" crc "8c8f5cb6" )
 )
 game (
 	name "FEGirls J with English Menu Names"
@@ -1524,6 +1619,11 @@ game (
 	name "Fire Emblem - Barhara Revisited"
 	description "Fire Emblem - Barhara Revisited"
 	rom ( name "123 - Fire Emblem - Barhara Revisited" size "17529372" crc "15482be6" )
+)
+game (
+	name "Fire Emblem - BR [MOBA-Style]"
+	description "Fire Emblem - BR [MOBA-Style]"
+	rom ( name "1018 - Fire Emblem - BR [MOBA-Style]" size "19957120" crc "dbb71db1" )
 )
 game (
 	name "Fire Emblem - Code of the Black Knights"
@@ -1726,6 +1826,11 @@ game (
 	rom ( name "281 - Fire Emblem - The Binding Blade Extreme" size "17766392" crc "1bd371e9" )
 )
 game (
+	name "Fire Emblem - The Blazing Blade - Routemerge"
+	description "Fire Emblem - The Blazing Blade - Routemerge"
+	rom ( name "1050 - Fire Emblem - The Blazing Blade - Routemerge" size "18756608" crc "d84eff95" )
+)
+game (
 	name "Fire Emblem - The Fall of Thabes"
 	description "Fire Emblem - The Fall of Thabes"
 	rom ( name "221 - Fire Emblem - The Fall of Thabes" size "24947612" crc "7572b080" )
@@ -1764,6 +1869,11 @@ game (
 	name "Fire Emblem - The Sacred Stones (USA, Australia)"
 	description "Fire Emblem - The Sacred Stones (USA, Australia)"
 	rom ( name "7 - Fire Emblem - The Sacred Stones (USA, Australia)" size "16777216" crc "a47246ae" )
+)
+game (
+	name "Fire Emblem - The Sacred Stones - Remastered Soundtrack"
+	description "Fire Emblem - The Sacred Stones - Remastered Soundtrack"
+	rom ( name "1049 - Fire Emblem - The Sacred Stones - Remastered Soundtrack" size "18242416" crc "a6e193e9" )
 )
 game (
 	name "Fire Emblem - The Stone Chains"
@@ -2061,6 +2171,11 @@ game (
 	rom ( name "219 - Journeys" size "26336432" crc "1c83df77" )
 )
 game (
+	name "Journeys - Gaiden"
+	description "Journeys - Gaiden"
+	rom ( name "1019 - Journeys - Gaiden" size "18078520" crc "e3ae479a" )
+)
+game (
 	name "JP Hack"
 	description "JP Hack"
 	rom ( name "473 - JP Hack" size "19099644" crc "990f7870" )
@@ -2084,6 +2199,16 @@ game (
 	name "Justice and Pride - Book 2"
 	description "Justice and Pride - Book 2"
 	rom ( name "272 - Justice and Pride - Book 2" size "22610380" crc "d28f4951" )
+)
+game (
+	name "Kaga Emblem (English)"
+	description "Kaga Emblem (English)"
+	rom ( name "1034 - Kaga Emblem (English)" size "19454240" crc "a6b440cc" )
+)
+game (
+	name "Kaga Emblem (Spanish)"
+	description "Kaga Emblem (Spanish)"
+	rom ( name "1035 - Kaga Emblem (Spanish)" size "19391296" crc "1d89248c" )
 )
 game (
 	name "Kaitou"
@@ -2176,6 +2301,51 @@ game (
 	rom ( name "570 - Liberllion (Rebellion)" size "29859468" crc "1ae24e75" )
 )
 game (
+	name "Link Arena (The_Big_Dededester's Version)"
+	description "Link Arena (The_Big_Dededester's Version)"
+	rom ( name "1039 - Link Arena (The_Big_Dededester's Version)" size "25513644" crc "ac0e57b1" )
+)
+game (
+	name "Link Arena (The_Big_Dededester's Version) (Ember Edition)"
+	description "Link Arena (The_Big_Dededester's Version) (Ember Edition)"
+	rom ( name "1043 - Link Arena (The_Big_Dededester's Version) (Ember Edition)" size "31771860" crc "b8126e84" )
+)
+game (
+	name "Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)"
+	description "Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)"
+	rom ( name "1044 - Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)" size "31771860" crc "c35df761" )
+)
+game (
+	name "Link Arena (The_Big_Dededester's Version) (Hard Mode)"
+	description "Link Arena (The_Big_Dededester's Version) (Hard Mode)"
+	rom ( name "1041 - Link Arena (The_Big_Dededester's Version) (Hard Mode)" size "25834216" crc "4a69a5e7" )
+)
+game (
+	name "Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)"
+	description "Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)"
+	rom ( name "1042 - Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)" size "25834216" crc "7339e3cc" )
+)
+game (
+	name "Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)"
+	description "Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)"
+	rom ( name "1040 - Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)" size "25513644" crc "f29182ac" )
+)
+game (
+	name "Link Arena (TristanS's Version)"
+	description "Link Arena (TristanS's Version)"
+	rom ( name "1036 - Link Arena (TristanS's Version)" size "19913772" crc "f55ef4fe" )
+)
+game (
+	name "Link Arena (TristanS's Version) (fe6 edition)"
+	description "Link Arena (TristanS's Version) (fe6 edition)"
+	rom ( name "1038 - Link Arena (TristanS's Version) (fe6 edition)" size "19913800" crc "53b2e339" )
+)
+game (
+	name "Link Arena (TristanS's Version) (NO SKILLS)"
+	description "Link Arena (TristanS's Version) (NO SKILLS)"
+	rom ( name "1037 - Link Arena (TristanS's Version) (NO SKILLS)" size "19913772" crc "70f4152d" )
+)
+game (
 	name "Lord Weapons Patch Rebalance"
 	description "Lord Weapons Patch Rebalance"
 	rom ( name "340 - Lord Weapons Patch Rebalance" size "16833072" crc "85a80d99" )
@@ -2224,11 +2394,6 @@ game (
 	name "Marc’s Precious - Revenge"
 	description "Marc’s Precious - Revenge"
 	rom ( name "170 - Marc’s Precious - Revenge" size "17332276" crc "4426c3f9" )
-)
-game (
-	name "Mask of Dunham"
-	description "Mask of Dunham"
-	rom ( name "437 - Mask of Dunham" size "19753152" crc "77dd037e" )
 )
 game (
 	name "Matthew's Nightmare"
@@ -2961,6 +3126,11 @@ game (
 	rom ( name "604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape" size "16826076" crc "079fc81e" )
 )
 game (
+	name "Sun God&rsquo;s Wrath Kaizo Edition by April"
+	description "Sun God&rsquo;s Wrath Kaizo Edition by April"
+	rom ( name "1054 - Sun God&rsquo;s Wrath Kaizo Edition by April" size "33374508" crc "b65c47da" )
+)
+game (
 	name "Super Generic Ragefest Adventure"
 	description "Super Generic Ragefest Adventure"
 	rom ( name "539 - Super Generic Ragefest Adventure" size "17028828" crc "a727bdb0" )
@@ -3241,6 +3411,11 @@ game (
 	rom ( name "434 - The Lonely Mirror (Friendly)" size "30226464" crc "c833f3eb" )
 )
 game (
+	name "The Lotus King"
+	description "The Lotus King"
+	rom ( name "1047 - The Lotus King" size "20295996" crc "6ad5b400" )
+)
+game (
 	name "The Lullaby of Lust"
 	description "The Lullaby of Lust"
 	rom ( name "423 - The Lullaby of Lust" size "20183748" crc "3a813e87" )
@@ -3249,6 +3424,11 @@ game (
 	name "The Marquess' Trial"
 	description "The Marquess' Trial"
 	rom ( name "661 - The Marquess' Trial" size "17921916" crc "a3442ac2" )
+)
+game (
+	name "The Mask of Dunham"
+	description "The Mask of Dunham"
+	rom ( name "437 - The Mask of Dunham" size "19753152" crc "77dd037e" )
 )
 game (
 	name "The Nameless Heroes (English Translation)"
@@ -3381,6 +3561,11 @@ game (
 	rom ( name "521 - Title Here" size "17072284" crc "e6f15aae" )
 )
 game (
+	name "TLP with Updated Animations"
+	description "TLP with Updated Animations"
+	rom ( name "1053 - TLP with Updated Animations" size "33402172" crc "ea5c9a40" )
+)
+game (
 	name "Touhou Emblem 8 - The Sacred Shrines"
 	description "Touhou Emblem 8 - The Sacred Shrines"
 	rom ( name "402 - Touhou Emblem 8 - The Sacred Shrines" size "17869900" crc "e18fc466" )
@@ -3424,6 +3609,11 @@ game (
 	name "Under Grey Skies"
 	description "Under Grey Skies"
 	rom ( name "273 - Under Grey Skies" size "19475260" crc "25b2d8d0" )
+)
+game (
+	name "Unforgotten Heroes - Julius Caesar"
+	description "Unforgotten Heroes - Julius Caesar"
+	rom ( name "1045 - Unforgotten Heroes - Julius Caesar" size "17893444" crc "b3bc4cb0" )
 )
 game (
 	name "Untitled"

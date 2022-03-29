@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>756 - 0sheng mo</title>
+		<title>0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -15,7 +15,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>0的逆圣魔</title>
+		<title>853 - 0的逆圣魔</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1250,6 +1250,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Deflation Emblem - Because Stat Inflation is Dumb</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Degeneration Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2147,6 +2160,58 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE6 Plus [Enhancement Patch]</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Plus [Enhancement Patch] (Fixed + Numbers)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Plus [Enhancement Patch] (Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE6 Plus [Enhancement Patch] (Numbers)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE6 Promoted Mode</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2685,7 +2750,72 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 Plus [Enhancement Patch]</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Plus [Enhancement Patch] (Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Plus [Enhancement Patch] (JP + Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Plus [Enhancement Patch] (JP)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Rewrite</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 to FE6 Character Swap Hack</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3166,6 +3296,84 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Plus [Enhancement Patch] (Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Plus [Enhancement Patch] (JP + Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Plus [Enhancement Patch] (JP)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Plus [Enhancement Patch] (Mix + Fixed)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Plus [Enhancement Patch] (Mix)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Plus [Enhancement Patch] (US)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Project Dark</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -3310,6 +3518,32 @@
 	</software>
 	<software>
 		<title>FE8 ROY</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Sacred Stones - Route Fusion</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3699,7 +3933,20 @@
 		</dump>
 	</software>
 	<software>
-		<title>Fe Time Scarred - The Unwanted Saga</title>
+		<title>Fe Time Scarred - The Unwanted Saga (i try)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fe Time Scarred - The Unwanted Saga (Not A Game)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3934,6 +4181,19 @@
 	</software>
 	<software>
 		<title>Fire Emblem - Barhara Revisited</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem - BR [MOBA-Style]</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -4466,6 +4726,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - The Blazing Blade - Routemerge</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem - The Fall of Thabes</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4558,6 +4831,19 @@
 	</software>
 	<software>
 		<title>Fire Emblem - The Sacred Stones (USA, Australia)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem - The Sacred Stones - Remastered Soundtrack</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5337,6 +5623,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Journeys - Gaiden</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>JP Hack</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5390,6 +5689,32 @@
 	</software>
 	<software>
 		<title>Justice and Pride - Book 2</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Kaga Emblem (English)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Kaga Emblem (Spanish)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5636,6 +5961,123 @@
 		</dump>
 	</software>
 	<software>
+		<title>Link Arena (The_Big_Dededester's Version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (The_Big_Dededester's Version) (Ember Edition)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (The_Big_Dededester's Version) (Ember Edition) (No Non Lethality Skills)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (The_Big_Dededester's Version) (Hard Mode)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (The_Big_Dededester's Version) (Hard Mode) (No Non Lethality Skills)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (The_Big_Dededester's Version) (No Non Lethality Skills)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (TristanS's Version)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (TristanS's Version) (fe6 edition)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Link Arena (TristanS's Version) (NO SKILLS)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Lord Weapons Patch Rebalance</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5754,19 +6196,6 @@
 	</software>
 	<software>
 		<title>Marc’s Precious - Revenge</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
-		<title>Mask of Dunham</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7677,6 +8106,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Sun God&amp;rsquo;s Wrath Kaizo Edition by April</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Super Generic Ragefest Adventure</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8405,6 +8847,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Lotus King</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Lullaby of Lust</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8419,6 +8874,19 @@
 	</software>
 	<software>
 		<title>The Marquess' Trial</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Mask of Dunham</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8769,6 +9237,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>TLP with Updated Animations</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Touhou Emblem 8 - The Sacred Shrines</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8874,6 +9355,19 @@
 	</software>
 	<software>
 		<title>Under Grey Skies</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Unforgotten Heroes - Julius Caesar</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

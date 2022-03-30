@@ -42,6 +42,8 @@ def saveMissingProjects():
                         break
                     if tag in ('fe7', 'fe7_base', 'fe6_base'):
                         game[3].text = 'Sram_F_v102'
+                        if tag == 'fe6_base':
+                            game[6].txt = '7'
                 if valid:
                     game[2].text = topic['fancy_title'].replace(':', ' -')
                     game[7].text = users[topic['posters'][0]['user_id']]

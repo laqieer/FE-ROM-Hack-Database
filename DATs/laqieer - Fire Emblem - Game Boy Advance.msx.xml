@@ -15,7 +15,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>853 - 0的逆圣魔</title>
+		<title>0的逆圣魔</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -55,6 +55,19 @@
 	</software>
 	<software>
 		<title>21关开始-封印之剑</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>[FE8] Fire Emblem - The Archon's Curse</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -159,6 +172,32 @@
 	</software>
 	<software>
 		<title>AnonymousSpeed's 1h Blitz - Valternate Universe</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Another FE Girls</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Another FE Girls (with skills)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -314,7 +353,20 @@
 		</dump>
 	</software>
 	<software>
-		<title>Awful Emblem</title>
+		<title>Awful Emblem - Complete Act 1 Demo</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Awful Emblem - The Thread Demo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -497,6 +549,19 @@
 	</software>
 	<software>
 		<title>Behold the Mega-Flare</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Bern 776</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -705,6 +770,19 @@
 	</software>
 	<software>
 		<title>BoxWhatBox</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Brave Fates</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1172,6 +1250,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Das Kapital</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Dawn of Destiny</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1328,7 +1419,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>Deity Device - Saint&amp;rsquo;s Blood</title>
+		<title>Deity Device - Saint's Blood</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1731,6 +1822,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Ether's FE8 Reskin</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Ethereal Light</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -1849,6 +1953,19 @@
 	</software>
 	<software>
 		<title>FE4 Advance (joke demo)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE4GBA - Genealogy in FE7</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2251,7 +2368,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>FE6 Recoloured</title>
+		<title>FE6 Recolored</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2594,6 +2711,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 - Sus Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 - the Community Edition</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2685,6 +2815,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 Kaizo</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Leila Edition</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2750,6 +2893,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 Lynatic Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Plus [Enhancement Patch]</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -2790,6 +2946,32 @@
 	</software>
 	<software>
 		<title>FE7 Plus [Enhancement Patch] (JP)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Raven Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 Rebalanced To My Weird Taste</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2907,6 +3089,19 @@
 	</software>
 	<software>
 		<title>FE7U 0% growths</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 - The Twin Dragons</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3127,7 +3322,33 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Custom PME</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Darion's Mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Davuuverso</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3180,6 +3401,19 @@
 	</software>
 	<software>
 		<title>FE8 Lyn Windy</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Mad Mode</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3439,6 +3673,58 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Reloaded Heroes Crossover</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reloaded Heroes Crossover PVP</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reloaded X</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE8 Reloaded X Chicken</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Remix</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -3608,7 +3894,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>FE8 Wild Mode</title>
+		<title>FE8 Wild Mode (Prototype)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3855,6 +4141,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE 8 wild mode</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE but it’s my Biology Homework</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -3998,6 +4297,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FESIX HYPERGOD EDITION (APRIL FOOLS)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FETO's Last Stand</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4024,6 +4336,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FEVengers - Infinity Stones</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE封印 改造</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4038,6 +4363,19 @@
 	</software>
 	<software>
 		<title>FE聖魔 適当に改造 まるっと全部修正</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fidl Emblem - The Sacred O'Neils (College Interview Project)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -4596,6 +4934,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - Sacred Blaze</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem - Seima no Kouseki (Japan)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4908,6 +5259,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - Wings</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -4986,6 +5350,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem Nemesis</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem Origins</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5000,6 +5377,19 @@
 	</software>
 	<software>
 		<title>Fire Emblem Poop</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Emblem Sacred Stones+</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5286,6 +5676,19 @@
 	</software>
 	<software>
 		<title>GhebFE</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Gilded Tales</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -6403,6 +6806,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Mystery of the Emblem GBA</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Mystic's MAFC FEU It Again patch</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -6702,6 +7118,32 @@
 		</dump>
 	</software>
 	<software>
+		<title>Peer's Successful CCB</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Peer's Successful CCB (Balance Sorta)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Perfect Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -6781,6 +7223,32 @@
 	</software>
 	<software>
 		<title>Proj.Lysithea</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project 0337 - RE6 (Demo)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Project 0337 - RE6 (Official)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7028,6 +7496,19 @@
 	</software>
 	<software>
 		<title>Queen’s Sword (English Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Rage Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7508,6 +7989,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Sacred Stones Master Quest</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Sacred Texts</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7639,6 +8133,19 @@
 	</software>
 	<software>
 		<title>SageMatthis's MAFC FEU It Again patch</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Sain's Tale</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8106,7 +8613,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>Sun God&amp;rsquo;s Wrath Kaizo Edition by April</title>
+		<title>Sun God's Wrath Kaizo Edition by April</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8276,6 +8783,32 @@
 	</software>
 	<software>
 		<title>The Akaneian Mafia</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Ancient Swords</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Art of War</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8509,6 +9042,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>The Divine Campaign</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>The Divine Twins’ War</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -8627,6 +9173,19 @@
 	</software>
 	<software>
 		<title>The Five Legends</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Forgotten Realm</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -9498,6 +10057,19 @@
 	</software>
 	<software>
 		<title>War of Retribution</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>War of Secrets</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

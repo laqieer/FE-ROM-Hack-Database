@@ -66,7 +66,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 135,Vs. Mode,Fan Modding,USA,Magix,English,86FE30D3,https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012
 136,Unburdened Liberty,MAFC,USA,Pwntagonist,English,B616CC93,https://feuniverse.us/t/fe7-1-chapter-the-mafc-submission-that-never-was-unburdened-liberty/5860
 137,Ragefest 5 DLC,Fan Modding,USA,MrNight,English,0C516C3E,https://feuniverse.us/t/rfv-dlc-official-release/5675
-138,Cornwell’s Ascension,Fan Modding,USA,ErkTheMage,English,6AD635DB,https://www.cornwellsascension.com/
+138,Cornwell’s Ascension,Fan Modding,USA,ErkTheMage,English,6AD635DB,https://feuniverse.us/t/fire-emblem-cornwells-ascension/8871
 139,Fire Emblem - Feud of the Fangs,Fan Modding,Japan,laqieer,Japanese,7B2765BC,https://laqieer.github.io/game-modding.html
 140,Prisoner of Darkness,Ragefest,USA,Blazer,English,95F14EDD,https://forums.serenesforest.net/index.php?/topic/28007-fire-emblem-prisoner-of-darkness/
 141,Void’s Blitzarre Adventure,Blitz,USA,circleseverywhere,English,9D22107C,https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629
@@ -82,10 +82,10 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 151,One-Turn-Clear,Fan Modding,USA,Ephraim225,English,E930A809,https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638
 152,The Dragon Herald,Fan Modding,USA,BigMood,English,72D65E0B,https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075
 153,The Dragon Herald (DSSave),Fan Modding,USA,BigMood,English,24EAA892,https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075
-154,Heaven’s Bloom,Fan Modding,USA,Roosterton,English,C998AA0E,https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/
+154,Heaven’s Bloom,Fan Modding,USA,Roosterton,English,C998AA0E,https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879
 155,Fire Emblem - The Heroes We Deserve,Fan Modding,USA,A_Reliable_Chair,English,A2171A8E,https://feuniverse.us/t/fe8-complete-fire-emblem-the-heroes-we-deserve-v1-3/4306
 156,Barry’s Bandits,Fan Modding,USA,DotDotDot,English,2CE87EA5,https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707
-157,Fire Emblem - The Arch of Coups,Fan Modding,USA,Darrman,English,362CECEF,https://github.com/Darrman/Arch-of-Coups
+157,Fire Emblem - The Arch of Coups,Fan Modding,USA,Darrman,English,362CECEF,https://feuniverse.us/t/fe8-fire-emblem-the-arch-of-coups-v1-1-2-0-in-development/5320
 158,BS Fire Emblem - Archanea Saga,Fan Modding,USA,Sme,English,39ABB64A,https://feuniverse.us/t/fe8u-bs-fire-emblem-archanea-saga-1-0/5173
 159,Rart Emblem - Halloween,Fan Modding,USA,Xenith,English,61DAD746,https://feuniverse.us/t/complete-fe8-rart-emblem-halloween/4496
 160,Resident Emblem 8,Fan Modding,USA,Shuusuke,English,3D35A4FC,https://feuniverse.us/t/fe8-re8-1-chapter-hack-completed-update-v033/6678
@@ -230,7 +230,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 299,FE6 Google Translated,Reskin/Rebalance,Japan,Stigurna,English,1E494685,https://feuniverse.us/t/fire-emblem-6-google-translated-v1-0-released/6666
 300,FE6 Unit Swap (Balanced),Reskin/Rebalance,Japan,Derfle,English,DCEF0B86,https://feuniverse.us/t/fire-emblem-6-unit-swap/6732
 301,FE6 Unit Swap (Hard),Reskin/Rebalance,Japan,Derfle,English,793E533C,https://feuniverse.us/t/fire-emblem-6-unit-swap/6732
-302,FE6 Recoloured,Reskin/Rebalance,Japan,FabilosMachine,English,6C2527D9,https://feuniverse.us/t/fe6-recolored/6383
+302,FE6 Recolored,Reskin/Rebalance,Japan,Zelix,English,6C2527D9,https://feuniverse.us/t/fe6-recolored/6383
 303,FE6-CharSwap-FE7,Reskin/Rebalance,Japan,FabilosMachine,English,077FB7F5,https://feuniverse.us/t/fe6-charswap-fe7/14944
 304,FE6-CharSwap-FE7 (Fixed Growths),Reskin/Rebalance,Japan,FabilosMachine,English,5B05E1B3,https://feuniverse.us/t/fe6-charswap-fe7/14944
 305,FE6-CharSwap-FE7 (0% Growths),Reskin/Rebalance,Japan,FabilosMachine,English,CC8C2DF2,https://feuniverse.us/t/fe6-charswap-fe7/14944
@@ -313,7 +313,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 382,SirSerenes FE8 Reskin,Reskin/Rebalance,USA,SirSerenes,English,2B74A740,https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/
 383,Tales of the Emblem,Reskin/Rebalance,USA,unknown,English,960D475E,http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar
 384,FE8 All Weapons are Devil Weapons,Reskin/Rebalance,USA,Adamminn,English,711EDBC9,https://github.com/Adamminn/FE8-devil-weapons
-385,FE8 Wild Mode,Reskin/Rebalance,USA,darknight97,English,00DB28F0,https://feuniverse.us/t/fire-emblem-8-wild-mode/6361
+385,FE8 Wild Mode (Prototype),Reskin/Rebalance,USA,darknight97,English,00DB28F0,https://feuniverse.us/t/fire-emblem-8-wild-mode/6361
 386,The Sacred Ripping Anniversary Edition,Reskin/Rebalance,USA,zetaku,English,7EE376FA,https://feuniverse.us/t/the-sacred-ripping/6253
 387,FE8ESHGBTGISTTM,Reskin/Rebalance,USA,FlamingZelda,English,17C71C14,https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044
 388,FE8 Remix,Reskin/Rebalance,USA,helix0981,English,98A5A872,https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740
@@ -326,7 +326,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 395,Midnight Eclipse (Joke hack),Reskin/Rebalance,USA,Vesly,English,2865D6CE,https://feuniverse.us/t/midnight-eclipse-rubbish-joke-hack/8321
 396,FE8 Changes Lite,Reskin/Rebalance,USA,Stylus,English,E41E4C1E,https://feuniverse.us/t/fe8-changes-lite-patch/8874
 397,FE8 Project Dark,Reskin/Rebalance,USA,ToGY,English,4B31296B,https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158
-398,Sacred Stones Death Difficulty,Reskin/Rebalance,USA,Slimjim8345,English,35D91A7C,https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty
+398,Sacred Stones Death Difficulty,Reskin/Rebalance,USA,Slimjim8345,English,35D91A7C,https://feuniverse.us/t/fe-sacred-stones-death-difficulty/13186
 399,FE8 Redux,Reskin/Rebalance,USA,Azreal25,English,B767B1DD,https://feuniverse.us/t/fe8-redux-v2-1-complete/13751
 400,FE8 Fanmade Directors Cut,Reskin/Rebalance,USA,KaidenMelon,English,A7A210D5,https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029
 401,FE8 The Fallen Princess,Reskin/Rebalance,USA,Ema Colito,English,3C806E93,https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317
@@ -346,7 +346,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 415,Dark Soul,Fan Modding,USA,Horrific17,English,17FE1087,https://feuniverse.us/t/fe7-fire-emblem-the-dark-soul-wip/7899
 416,The Divine Twins’ War,Fan Modding,USA,pengie9290,English,4FD88C7B,https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975
 417,REDFE,Fan Modding,USA,Mystic,English,BD449655,https://feuniverse.us/t/redfe-yes-roy-is-in-this-game/2530
-418,Awful Emblem,Fan Modding,USA,AE Dev Team (FPzero),English,29F7CA11,https://feuniverse.us/t/awful-emblem-complete-act-1-demo/3987
+418,Awful Emblem - Complete Act 1 Demo,Fan Modding,USA,AE Dev Team (FPzero),English,29F7CA11,https://feuniverse.us/t/awful-emblem-complete-act-1-demo/3987
 419,Fire Emblem Origins,Fan Modding,USA,Helious/Boye,English,F433DF6E,https://feuniverse.us/t/fire-emblem-origins-fe1-in-gba/13522
 420,女王の剣 (Queen’s Sword),Fan Modding,Japan,SOP,Japanese,658DC7E3,http://fequeen.blog.fc2.com/
 421,Queen’s Sword (English Translation),Fan Modding,Japan,Nasaelo,English,1ED8D8E5,https://feuniverse.us/t/release-fire-emblem-queens-sword-translation-beta-v1-0-3-07-2020/8611
@@ -448,7 +448,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 517,Emblem Warriors,Ragefest,USA,Ephraim225,English,1762A534,https://markyjoe.com/?page=rfdl
 518,Trapped In Painful Places,Ragefest,USA,Alusq/Sqawl,English,32D3350E,https://markyjoe.com/?page=rfdl
 519,Lyn's Revenge,Ragefest,USA,SuperSonic1212,English,57FE60ED,https://markyjoe.com/?page=rfdl
-520,Moneyfest,Ragefest,USA,Moneyfest,English,91F66A38,https://markyjoe.com/?page=rfdl
+520,Moneyfest,Ragefest,USA,MrNight,English,91F66A38,https://feuniverse.us/t/ragefest-iv-moneyfest/1026
 521,Title Here,Ragefest,USA,General Ciraxis & Ash3wl,English,E6F15AAE,https://markyjoe.com/?page=rfdl
 522,Money Man's Last Stand,Ragefest,USA,Pwntagonist,English,36F27196,https://markyjoe.com/?page=rfdl
 523,DISTORTION,Ragefest,USA,DH_Ninja,English,7CEF7382,https://markyjoe.com/?page=rfdl
@@ -490,7 +490,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 559,Version Elibe 776,Reskin/Rebalance,USA,unknown,English,252EFD87,
 560,Darion’s Blazing Sword (Hector mode),Reskin/Rebalance,USA,Darion,English,908E9A34,https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/
 561,Pukachi's Contest Patch,Fan Modding,USA,Pukachi,English,585F0C17,
-562,Bird Up!,Fan Modding,USA,Kris.k,English,F1EFDF9E,
+562,Bird Up!,Fan Modding,USA,Kris.k,English,F1EFDF9E,https://feuniverse.us/t/bird-up-somewhat-complete/11387
 563,The Blinding Bald,Fan Modding,USA,Mangs Team,English,DEE8E482,
 564,Coronavirus Emblem,Fan Modding,USA,yikes,English,5D8CD7A8,https://feuniverse.us/t/coronavirus-emblem-quick-and-dirty-meme-hack-not-much-has-changed/7419
 565,Many Emblem,Fan Modding,USA,Kris.k,English,739D2B9E,https://fecentral.org/?page=hackinfo&hackid=138
@@ -701,7 +701,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 770,FE8 Another,Reskin/Rebalance,Japan,unknown,Japanese,436E6C5E,
 771,fe7gaiden,Fan Modding,USA,Lamia,English,53E75C22,
 772,FE7akaneiaproject,Fan Modding,USA,Pukachi,English,ABC9BE5E,
-773,Exalted Legacy,Fan Modding,USA,Arch,English,02BC5B08,https://forums.serenesforest.net/index.php?/topic/35570-fire-emblem-exalted-legacy/
+773,Exalted Legacy,Fan Modding,USA,Arch,English,02BC5B08,https://feuniverse.us/t/fire-emblem-exalted-legacy/183
 774,Shatterlight,Fan Modding,USA,LunaSaint,English,59213BB8,https://forums.serenesforest.net/index.php?/topic/42668-shatterlight-ver-010-released/
 775,The Last Promise (Hard),Fan Modding,USA,DH_Ninja,English,0EDE0149,https://forums.serenesforest.net/index.php?/topic/52374-the-last-promise-hard-modeno-growth-v032-chapter-20/
 776,League of ASDF,Fan Modding,USA,Chocolate Kitty,English,30BE1528,https://forums.serenesforest.net/index.php?/topic/42161-league-of-asdf/
@@ -936,7 +936,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1005,Dark Dragon Reborn,Fan Modding,USA,Merpin,English,62ADFA62,https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733
 1006,Dark Dragon Reborn (Minimugs),Fan Modding,USA,Merpin,English,1D3CBD2E,https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733
 1007,Dark Dragon Reborn (Fixed Growths),Fan Modding,USA,Merpin,English,39BE8812,https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733
-1008,Deity Device - Saint&rsquo;s Blood,Fan Modding,USA,Permafrost,English,042671C4,https://feuniverse.us/t/fe8-fire-emblem-deity-device-saints-blood-6-chapters-first-balance-patch-out/13654
+1008,Deity Device - Saint's Blood,Fan Modding,USA,Permafrost,English,042671C4,https://feuniverse.us/t/fe8-fire-emblem-deity-device-saints-blood-6-chapters-first-balance-patch-out/13654
 1009,FE7 - the Community Edition,Reskin/Rebalance,USA,JeyTheCount,English,94BF4325,https://feuniverse.us/t/fe7-the-community-edition/10276
 1010,Fire Emblem - Of Sand and Sabres,Fan Modding,USA,RandomWizard,English,BFB7DF72,https://feuniverse.us/t/fe8-fire-emblem-of-sand-and-sabres-9-chapters/15128
 1011,Project RE7,Fan Modding,USA,Reyk_Retro0337,English,E299B969,https://feuniverse.us/t/fe8-project-re7-port-fe7-using-fe8-engine-1st-release-we-need-still-testers-join-you-our-discord-server-for-info/9593
@@ -982,5 +982,49 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1051,FE8 Sacred Stones - Route Fusion,Reskin/Rebalance,USA,Merpin,English,DD37496E,https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313
 1052,FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap),Reskin/Rebalance,USA,Merpin,English,A9FDAC7D,https://feuniverse.us/t/fe8-sacred-stones-route-fusion/10313
 1053,TLP with Updated Animations,Fan Modding,USA,ltranc,English,EA5C9A40,https://feuniverse.us/t/tlp-with-updated-animations/5340
-1054,Sun God&rsquo;s Wrath Kaizo Edition by April,Fan Modding,USA,5april,English,B65C47DA,https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971
+1054,Sun God's Wrath Kaizo Edition by April,Fan Modding,USA,5april,English,B65C47DA,https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971
 1055,FE7 to FE6 Character Swap Hack,Reskin/Rebalance,USA,Jam,English,633BBE89,https://feuniverse.us/t/fe6-fe7-to-fe6-character-swap-hack/13948
+1056,The Forgotten Realm,Fan Modding,USA,Hianethys,English,72F58423,https://feuniverse.us/t/fire-emblem-the-forgotten-realm-v1-10-8-38-chapters-in-progress/10478
+1057,FE8 Reloaded Heroes Crossover,Reskin/Rebalance,USA,Dennis_el_Azul,English,912EF9FB,https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201
+1058,FE8 Reloaded X,Reskin/Rebalance,USA,Dennis_el_Azul,English,45A02CA2,https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201
+1059,FE8 Reloaded Heroes Crossover PVP,Reskin/Rebalance,USA,Dennis_el_Azul,English,3F0E0863,https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201
+1060,FE8 Reloaded X Chicken,Reskin/Rebalance,USA,Dennis_el_Azul,English,8A1A7715,https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201
+1061,FE8 Davuuverso,Reskin/Rebalance,USA,Dennis_el_Azul,English,4750894F,https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201
+1062,Brave Fates,Fan Modding,USA,JadenVlad,English,832B197A,https://feuniverse.us/t/fe7-fire-emblem-brave-fates-v0-16-02-03-2021/10434
+1063,Sacred Stones Master Quest,Reskin/Rebalance,USA,helix0981,English,B645F2BF,https://feuniverse.us/t/sacred-stones-master-quest-discord-server-available-hack-download-ready/10102
+1064,[FE8] Fire Emblem - The Archon's Curse,Fan Modding,USA,Rushless,English,1BE625B7,https://feuniverse.us/t/fe8-fire-emblem-the-archons-curse/10372
+1065,Gilded Tales,Fan Modding,USA,Crusticus,English,DA60E4FD,https://feuniverse.us/t/fe8-fire-emblem-gilded-tales-tentative-title/13076
+1066,The Ancient Swords,Fan Modding,USA,Lord_Helferd,Spanish,B584C2A1,https://feuniverse.us/t/fire-emblem-the-ancient-swords-fe8-very-early-build-en-es-patch-avaible/13877
+1067,FE8 - The Twin Dragons,Reskin/Rebalance,USA,Fates-Blade,English,370D3DE8,https://feuniverse.us/t/fe8-fire-emblem-the-twin-dragons-playtesters-needed/12974
+1068,Fire Emblem - Sacred Blaze,Reskin/Rebalance,USA,knabepicer,English,95ACEBB1,https://feuniverse.us/t/fire-emblem-sacred-blaze/12892
+1069,Another FE Girls,Reskin/Rebalance,USA,LArachel,English,B4F263C2,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1070,Another FE Girls (with skills),Reskin/Rebalance,USA,LArachel,English,3C40F484,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1071,Project 0337 - RE6 (Demo),Fan Modding,USA,Reyk_Retro0337,English,B4D66A84,https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838
+1072,Project 0337 - RE6 (Official),Fan Modding,USA,Reyk_Retro0337,English,ACDB00CD,https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838
+1073,FE7 Kaizo,Reskin/Rebalance,USA,Saifulislam,English,66F5FBF6,https://feuniverse.us/t/fire-emblem-7-kaizo-demo-out/14872
+1074,Fire Emblem Nemesis,Fan Modding,USA,Fateborn,English,C0286A02,https://feuniverse.us/t/fire-emblem-nemesis/241
+1075,Peer's Successful CCB,Blitz,USA,Peerless,English,4E3A388B,https://feuniverse.us/t/patch-release-peers-successful-ccb-the-name-may-or-may-not-reflect-reality/3986
+1076,Peer's Successful CCB (Balance Sorta),Blitz,USA,Peerless,English,9E147FCC,https://feuniverse.us/t/patch-release-peers-successful-ccb-the-name-may-or-may-not-reflect-reality/3986
+1077,Fire Emblem - Wings,Fan Modding,USA,redeyesblackdrag0n,English,658005F0,https://feuniverse.us/t/fe8-fire-emblem-wings-beta-2-2-ch-1-11/14702
+1078,Sain's Tale,Fan Modding,USA,Dark,English,7136FF54,https://feuniverse.us/t/fire-emblem-sains-tale-v-1-00-cancelled-by-now-19-06-2021/11246
+1079,Mystery of the Emblem GBA,Fan Modding,USA,Darrman,English,65D282E5,https://feuniverse.us/t/cancelled-fire-emblem-mystery-of-the-emblem-gba/1948
+1080,Awful Emblem - The Thread Demo,Fan Modding,USA,FPzero,English,50977793,https://feuniverse.us/t/awful-emblem-the-thread-demo-1-10-released/734
+1081,War of Secrets,Fan Modding,USA,ethanb2309,English,7447D447,https://feuniverse.us/t/fe-war-of-secrets/11198
+1082,FE7 - Sus Emblem,Reskin/Rebalance,USA,Sariasath,English,8EBAA7CB,https://feuniverse.us/t/sus-emblem-fe7/14697
+1083,Ether's FE8 Reskin,Reskin/Rebalance,USA,Ether,English,20F71449,https://feuniverse.us/t/fire-emblem-8-reskin/12150
+1084,FE8 Custom PME,Fan Modding,USA,flasuban,English,7BD8BAF8,https://feuniverse.us/t/fe8-custom-pme-v0-2/4595
+1085,FEVengers - Infinity Stones,Fan Modding,USA,imperialjacob,English,2E07E47D,https://feuniverse.us/t/fevengers-infinity-stones/5919
+1086,FE8 Mad Mode,Reskin/Rebalance,USA,AelphysTerra,English,BA8E12F9,https://feuniverse.us/t/fe8-mad-mode/1839
+1087,FE4GBA - Genealogy in FE7,Fan Modding,USA,Helious,English,EE77CF49,https://feuniverse.us/t/fe4gba-genealogy-in-fe7/13406
+1088,Bern 776,Reskin/Rebalance,Japan,redeyesblackdrag0n,English,46DE39C0,https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207
+1089,FE7 Rebalanced To My Weird Taste,Reskin/Rebalance,USA,Falkyrie,English,AA32449B,https://feuniverse.us/t/fe7-rebalanced-to-my-weird-taste/15172
+1090,The Divine Campaign,Fan Modding,USA,The-Wild-Fighter,English,BF512F2D,https://feuniverse.us/t/the-divine-campaign-1st-demo-up/15014
+1091,FE 8 wild mode,Fan Modding,USA,darknight97,English,49FB9D67,https://feuniverse.us/t/fe-8-wild-mode/8312
+1092,Rage Emblem,Fan Modding,USA,MrNight,English,48CF13BB,https://feuniverse.us/t/introducing-rage-emblem-final-demo/207
+1093,Fire Emblem Sacred Stones+,Reskin/Rebalance,USA,Ember22,English,C71DC40C,https://feuniverse.us/t/fire-emblem-sacred-stones/14105
+1094,FESIX HYPERGOD EDITION (APRIL FOOLS),Fan Modding,USA,MasterOfShipping,English,33A76DAD,https://feuniverse.us/t/fe8-complete-fesix-hypergod-edition-april-fools-not-clickbait/11737
+1095,The Art of War,Reskin/Rebalance,USA,Apparoid1,English,50B1E0B3,https://feuniverse.us/t/fire-emblem-the-art-of-war-alpha-2-5-released/9688
+1096,FE7 Raven Mode,Fan Modding,USA,theghostcreator,English,FFCEC4CB,https://feuniverse.us/t/fe7-raven-mode-ver-0-2-6-chapters-in-progress/11353
+1097,Das Kapital,Fan Modding,USA,Shiza,English,C105F58A,https://feuniverse.us/t/fire-emblem-das-kapital-1-chapter-poc-demo-6-planned/15096
+1098,FE7 Lynatic Mode,Reskin/Rebalance,USA,Hanes,English,E1D0AD8E,https://feuniverse.us/t/fe7-wip-lynatic-mode-a-difficulty-rebalance-of-lyn-hard-mode/10891
+1099,Fidl Emblem - The Sacred O'Neils (College Interview Project),Fan Modding,USA,fidl,English,D109C712,https://feuniverse.us/t/fidl-emblem-the-sacred-oneils-college-interview-project/9387

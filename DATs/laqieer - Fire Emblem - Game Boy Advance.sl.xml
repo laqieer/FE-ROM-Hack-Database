@@ -9,7 +9,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="853 - 0的逆圣魔">
+	<software name="0的逆圣魔">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -38,6 +38,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="930 - 21关开始-封印之剑" size="8388608" crc="75da6fb9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="[FE8] Fire Emblem - The Archon's Curse">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1064 - [FE8] Fire Emblem - The Archon's Curse" size="20883568" crc="1be625b7" />
 			</dataarea>
 		</part>
 	</software>
@@ -102,6 +110,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="647 - AnonymousSpeed's 1h Blitz - Valternate Universe" size="16791084" crc="d21a353f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Another FE Girls">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1069 - Another FE Girls" size="18244176" crc="b4f263c2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Another FE Girls (with skills)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1070 - Another FE Girls (with skills)" size="18407544" crc="3c40f484" />
 			</dataarea>
 		</part>
 	</software>
@@ -193,11 +217,19 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Awful Emblem">
+	<software name="Awful Emblem - Complete Act 1 Demo">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="418 - Awful Emblem" size="16777216" crc="29f7ca11" />
+				<rom name="418 - Awful Emblem - Complete Act 1 Demo" size="16777216" crc="29f7ca11" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Awful Emblem - The Thread Demo">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1080 - Awful Emblem - The Thread Demo" size="22384920" crc="50977793" />
 			</dataarea>
 		</part>
 	</software>
@@ -310,6 +342,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="479 - Behold the Mega-Flare" size="25211820" crc="6346dfb5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Bern 776">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1088 - Bern 776" size="10710472" crc="46de39c0" />
 			</dataarea>
 		</part>
 	</software>
@@ -438,6 +478,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="672 - BoxWhatBox" size="17267760" crc="3026f352" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Brave Fates">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1062 - Brave Fates" size="21204500" crc="832b197a" />
 			</dataarea>
 		</part>
 	</software>
@@ -721,6 +769,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Das Kapital">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1097 - Das Kapital" size="19268184" crc="c105f58a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Dawn of Destiny">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -817,11 +873,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Deity Device - Saint&amp;rsquo;s Blood">
+	<software name="Deity Device - Saint's Blood">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1008 - Deity Device - Saint&amp;rsquo;s Blood" size="24726004" crc="042671c4" />
+				<rom name="1008 - Deity Device - Saint's Blood" size="24726004" crc="042671c4" />
 			</dataarea>
 		</part>
 	</software>
@@ -1065,6 +1121,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Ether's FE8 Reskin">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1083 - Ether's FE8 Reskin" size="24660352" crc="20f71449" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Ethereal Light">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1142,6 +1206,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="762 - FE4 Advance (joke demo)" size="22586360" crc="3b1913e8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE4GBA - Genealogy in FE7">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1087 - FE4GBA - Genealogy in FE7" size="16779372" crc="ee77cf49" />
 			</dataarea>
 		</part>
 	</software>
@@ -1385,11 +1457,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="FE6 Recoloured">
+	<software name="FE6 Recolored">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="302 - FE6 Recoloured" size="16777532" crc="6c2527d9" />
+				<rom name="302 - FE6 Recolored" size="16777532" crc="6c2527d9" />
 			</dataarea>
 		</part>
 	</software>
@@ -1598,6 +1670,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 - Sus Emblem">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1082 - FE7 - Sus Emblem" size="17316640" crc="8ebaa7cb" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 - the Community Edition">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1654,6 +1734,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 Kaizo">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1073 - FE7 Kaizo" size="19483812" crc="66f5fbf6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Leila Edition">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1694,6 +1782,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 Lynatic Mode">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1098 - FE7 Lynatic Mode" size="18030364" crc="e1d0ad8e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Plus [Enhancement Patch]">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1723,6 +1819,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1025 - FE7 Plus [Enhancement Patch] (JP)" size="16800920" crc="f6fc178f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Raven Mode">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1096 - FE7 Raven Mode" size="16918116" crc="ffcec4cb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Rebalanced To My Weird Taste">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1089 - FE7 Rebalanced To My Weird Taste" size="16803504" crc="aa32449b" />
 			</dataarea>
 		</part>
 	</software>
@@ -1795,6 +1907,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="758 - FE7U 0% growths" size="16777216" crc="b6a05eb3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 - The Twin Dragons">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1067 - FE8 - The Twin Dragons" size="16805904" crc="370d3de8" />
 			</dataarea>
 		</part>
 	</software>
@@ -1926,11 +2046,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Custom PME">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1084 - FE8 Custom PME" size="20509056" crc="7bd8baf8" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Darion's Mode">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="546 - FE8 Darion's Mode" size="16777216" crc="b9965ea1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Davuuverso">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1061 - FE8 Davuuverso" size="24050940" crc="4750894f" />
 			</dataarea>
 		</part>
 	</software>
@@ -1963,6 +2099,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="374 - FE8 Lyn Windy" size="17203948" crc="c7a95be3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Mad Mode">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1086 - FE8 Mad Mode" size="17194892" crc="ba8e12f9" />
 			</dataarea>
 		</part>
 	</software>
@@ -2118,6 +2262,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Reloaded Heroes Crossover">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1057 - FE8 Reloaded Heroes Crossover" size="308200430" crc="912ef9fb" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Reloaded Heroes Crossover PVP">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1059 - FE8 Reloaded Heroes Crossover PVP" size="22445024" crc="3f0e0863" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Reloaded X">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1058 - FE8 Reloaded X" size="22534784" crc="45a02ca2" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Reloaded X Chicken">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1060 - FE8 Reloaded X Chicken" size="22562568" crc="8a1a7715" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Remix">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2222,11 +2398,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="FE8 Wild Mode">
+	<software name="FE8 Wild Mode (Prototype)">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="385 - FE8 Wild Mode" size="16816344" crc="00db28f0" />
+				<rom name="385 - FE8 Wild Mode (Prototype)" size="16816344" crc="00db28f0" />
 			</dataarea>
 		</part>
 	</software>
@@ -2374,6 +2550,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE 8 wild mode">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1091 - FE 8 wild mode" size="20405064" crc="49fb9d67" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE but it’s my Biology Homework">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2462,6 +2646,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FESIX HYPERGOD EDITION (APRIL FOOLS)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1094 - FESIX HYPERGOD EDITION (APRIL FOOLS)" size="18313660" crc="33a76dad" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FETO's Last Stand">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -2478,6 +2670,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FEVengers - Infinity Stones">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1085 - FEVengers - Infinity Stones" size="16844612" crc="2e07e47d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE封印 改造">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2491,6 +2691,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="364 - FE聖魔 適当に改造 まるっと全部修正" size="16963116" crc="3b72f7dc" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fidl Emblem - The Sacred O'Neils (College Interview Project)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1099 - Fidl Emblem - The Sacred O'Neils (College Interview Project)" size="17372096" crc="d109c712" />
 			</dataarea>
 		</part>
 	</software>
@@ -2830,6 +3038,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Sacred Blaze">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1068 - Fire Emblem - Sacred Blaze" size="19139416" crc="95acebb1" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Seima no Kouseki (Japan)">
 		<publisher>Nintendo</publisher>
 		<part name="" interface="">
@@ -3022,6 +3238,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Wings">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1077 - Fire Emblem - Wings" size="18306472" crc="658005f0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3070,6 +3294,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem Nemesis">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1074 - Fire Emblem Nemesis" size="16982012" crc="c0286a02" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem Origins">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3083,6 +3315,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="118 - Fire Emblem Poop" size="24492260" crc="8d1db15c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem Sacred Stones+">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1093 - Fire Emblem Sacred Stones+" size="17947860" crc="c71dc40c" />
 			</dataarea>
 		</part>
 	</software>
@@ -3259,6 +3499,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="381 - GhebFE" size="18874368" crc="daa23525" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Gilded Tales">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1065 - Gilded Tales" size="18838516" crc="da60e4fd" />
 			</dataarea>
 		</part>
 	</software>
@@ -3942,6 +4190,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Mystery of the Emblem GBA">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1079 - Mystery of the Emblem GBA" size="16777216" crc="65d282e5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Mystic's MAFC FEU It Again patch">
 		<publisher>MAFC</publisher>
 		<part name="" interface="">
@@ -4126,6 +4382,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Peer's Successful CCB">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1075 - Peer's Successful CCB" size="17100556" crc="4e3a388b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Peer's Successful CCB (Balance Sorta)">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1076 - Peer's Successful CCB (Balance Sorta)" size="18216016" crc="9e147fcc" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Perfect Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -4179,6 +4451,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="812 - Proj" size="16777216" crc="d1d36019" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project 0337 - RE6 (Demo)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1071 - Project 0337 - RE6 (Demo)" size="21218144" crc="b4d66a84" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project 0337 - RE6 (Official)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1072 - Project 0337 - RE6 (Official)" size="19169740" crc="acdb00cd" />
 			</dataarea>
 		</part>
 	</software>
@@ -4331,6 +4619,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Rage Emblem">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1092 - Rage Emblem" size="16807060" crc="48cf13bb" />
 			</dataarea>
 		</part>
 	</software>
@@ -4622,6 +4918,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sacred Stones Master Quest">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1063 - Sacred Stones Master Quest" size="25690552" crc="b645f2bf" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Texts">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4707,6 +5011,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="683 - SageMatthis's MAFC FEU It Again patch" size="19914496" crc="b5889999" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sain's Tale">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1078 - Sain's Tale" size="21561420" crc="7136ff54" />
 			</dataarea>
 		</part>
 	</software>
@@ -4990,11 +5302,11 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="Sun God&amp;rsquo;s Wrath Kaizo Edition by April">
+	<software name="Sun God's Wrath Kaizo Edition by April">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1054 - Sun God&amp;rsquo;s Wrath Kaizo Edition by April" size="33374508" crc="b65c47da" />
+				<rom name="1054 - Sun God's Wrath Kaizo Edition by April" size="33374508" crc="b65c47da" />
 			</dataarea>
 		</part>
 	</software>
@@ -5099,6 +5411,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="656 - The Akaneian Mafia" size="16777216" crc="33e27ba8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Ancient Swords">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1066 - The Ancient Swords" size="23260144" crc="b584c2a1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Art of War">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1095 - The Art of War" size="22329684" crc="50b1e0b3" />
 			</dataarea>
 		</part>
 	</software>
@@ -5238,6 +5566,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Divine Campaign">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1090 - The Divine Campaign" size="17990828" crc="bf512f2d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Divine Twins’ War">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5315,6 +5651,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="665 - The Five Legends" size="19471600" crc="2e00aab9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Forgotten Realm">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1056 - The Forgotten Realm" size="24705460" crc="72f58423" />
 			</dataarea>
 		</part>
 	</software>
@@ -5851,6 +6195,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="484 - War of Retribution" size="17084172" crc="7b8abafa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="War of Secrets">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1081 - War of Secrets" size="28055212" crc="7447d447" />
 			</dataarea>
 		</part>
 	</software>

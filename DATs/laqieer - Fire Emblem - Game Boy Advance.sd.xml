@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220329</version>
+		<version>20220330</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -119,7 +119,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>853 - 0的逆圣魔</name>
+				<name>0的逆圣魔</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -174,6 +174,21 @@
 					<name>930 - 21关开始-封印之剑</name>
 					<size>8388608</size>
 					<crc>75da6fb9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>[FE8] Fire Emblem - The Archon's Curse</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-the-archons-curse/10372</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1064 - [FE8] Fire Emblem - The Archon's Curse</name>
+					<size>20883568</size>
+					<crc>1be625b7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -294,6 +309,36 @@
 					<name>647 - AnonymousSpeed's 1h Blitz - Valternate Universe</name>
 					<size>16791084</size>
 					<crc>d21a353f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Another FE Girls</name>
+				<comment>https://feuniverse.us/t/fe8-another-fe-girls/10901</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1069 - Another FE Girls</name>
+					<size>18244176</size>
+					<crc>b4f263c2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Another FE Girls (with skills)</name>
+				<comment>https://feuniverse.us/t/fe8-another-fe-girls/10901</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1070 - Another FE Girls (with skills)</name>
+					<size>18407544</size>
+					<crc>3c40f484</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -464,16 +509,31 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>Awful Emblem</name>
+				<name>Awful Emblem - Complete Act 1 Demo</name>
 				<comment>https://feuniverse.us/t/awful-emblem-complete-act-1-demo/3987</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>418 - Awful Emblem</name>
+					<name>418 - Awful Emblem - Complete Act 1 Demo</name>
 					<size>16777216</size>
 					<crc>29f7ca11</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Awful Emblem - The Thread Demo</name>
+				<comment>https://feuniverse.us/t/awful-emblem-the-thread-demo-1-10-released/734</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1080 - Awful Emblem - The Thread Demo</name>
+					<size>22384920</size>
+					<crc>50977793</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -689,6 +749,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Bern 776</name>
+				<comment>https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1088 - Bern 776</name>
+					<size>10710472</size>
+					<crc>46de39c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Binks Emblem</name>
 				<comment>https://serenesforest.net/forums/index.php?/topic/5084-binks-emblem/</comment>
 				<publisher>Fan Modding</publisher>
@@ -705,7 +780,7 @@
 		<directory>
 			<machine>
 				<name>Bird Up!</name>
-				<comment />
+				<comment>https://feuniverse.us/t/bird-up-somewhat-complete/11387</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -924,6 +999,21 @@
 					<name>672 - BoxWhatBox</name>
 					<size>17267760</size>
 					<crc>3026f352</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Brave Fates</name>
+				<comment>https://feuniverse.us/t/fe7-fire-emblem-brave-fates-v0-16-02-03-2021/10434</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1062 - Brave Fates</name>
+					<size>21204500</size>
+					<crc>832b197a</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1185,7 +1275,7 @@
 		<directory>
 			<machine>
 				<name>Cornwell’s Ascension</name>
-				<comment>https://www.cornwellsascension.com/</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-cornwells-ascension/8871</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -1454,6 +1544,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Das Kapital</name>
+				<comment>https://feuniverse.us/t/fire-emblem-das-kapital-1-chapter-poc-demo-6-planned/15096</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1097 - Das Kapital</name>
+					<size>19268184</size>
+					<crc>c105f58a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Dawn of Destiny</name>
 				<comment>https://feuniverse.us/t/the-dawn-of-destiny/7221</comment>
 				<publisher>Fan Modding</publisher>
@@ -1634,14 +1739,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>Deity Device - Saint&amp;rsquo;s Blood</name>
+				<name>Deity Device - Saint's Blood</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-deity-device-saints-blood-6-chapters-first-balance-patch-out/13654</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>1008 - Deity Device - Saint&amp;rsquo;s Blood</name>
+					<name>1008 - Deity Device - Saint's Blood</name>
 					<size>24726004</size>
 					<crc>042671c4</crc>
 				</datitem>
@@ -2099,6 +2204,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Ether's FE8 Reskin</name>
+				<comment>https://feuniverse.us/t/fire-emblem-8-reskin/12150</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1083 - Ether's FE8 Reskin</name>
+					<size>24660352</size>
+					<crc>20f71449</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Ethereal Light</name>
 				<comment>https://feuniverse.us/t/fe8-ethereal-light-8-32-chapters/10828</comment>
 				<publisher>Fan Modding</publisher>
@@ -2115,7 +2235,7 @@
 		<directory>
 			<machine>
 				<name>Exalted Legacy</name>
-				<comment>https://forums.serenesforest.net/index.php?/topic/35570-fire-emblem-exalted-legacy/</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-exalted-legacy/183</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -2244,6 +2364,21 @@
 					<name>762 - FE4 Advance (joke demo)</name>
 					<size>22586360</size>
 					<crc>3b1913e8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE4GBA - Genealogy in FE7</name>
+				<comment>https://feuniverse.us/t/fe4gba-genealogy-in-fe7/13406</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1087 - FE4GBA - Genealogy in FE7</name>
+					<size>16779372</size>
+					<crc>ee77cf49</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2699,14 +2834,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>FE6 Recoloured</name>
+				<name>FE6 Recolored</name>
 				<comment>https://feuniverse.us/t/fe6-recolored/6383</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>302 - FE6 Recoloured</name>
+					<name>302 - FE6 Recolored</name>
 					<size>16777532</size>
 					<crc>6c2527d9</crc>
 				</datitem>
@@ -3095,6 +3230,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 - Sus Emblem</name>
+				<comment>https://feuniverse.us/t/sus-emblem-fe7/14697</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1082 - FE7 - Sus Emblem</name>
+					<size>17316640</size>
+					<crc>8ebaa7cb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 - the Community Edition</name>
 				<comment>https://feuniverse.us/t/fe7-the-community-edition/10276</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3200,6 +3350,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 Kaizo</name>
+				<comment>https://feuniverse.us/t/fire-emblem-7-kaizo-demo-out/14872</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1073 - FE7 Kaizo</name>
+					<size>19483812</size>
+					<crc>66f5fbf6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Leila Edition</name>
 				<comment>http://www.feshrine.net/forums/index.php?showtopic=4844</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3275,6 +3440,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 Lynatic Mode</name>
+				<comment>https://feuniverse.us/t/fe7-wip-lynatic-mode-a-difficulty-rebalance-of-lyn-hard-mode/10891</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1098 - FE7 Lynatic Mode</name>
+					<size>18030364</size>
+					<crc>e1d0ad8e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Plus [Enhancement Patch]</name>
 				<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3330,6 +3510,36 @@
 					<name>1025 - FE7 Plus [Enhancement Patch] (JP)</name>
 					<size>16800920</size>
 					<crc>f6fc178f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 Raven Mode</name>
+				<comment>https://feuniverse.us/t/fe7-raven-mode-ver-0-2-6-chapters-in-progress/11353</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1096 - FE7 Raven Mode</name>
+					<size>16918116</size>
+					<crc>ffcec4cb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 Rebalanced To My Weird Taste</name>
+				<comment>https://feuniverse.us/t/fe7-rebalanced-to-my-weird-taste/15172</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1089 - FE7 Rebalanced To My Weird Taste</name>
+					<size>16803504</size>
+					<crc>aa32449b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3465,6 +3675,21 @@
 					<name>758 - FE7U 0% growths</name>
 					<size>16777216</size>
 					<crc>b6a05eb3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 - The Twin Dragons</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-the-twin-dragons-playtesters-needed/12974</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1067 - FE8 - The Twin Dragons</name>
+					<size>16805904</size>
+					<crc>370d3de8</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3710,6 +3935,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 Custom PME</name>
+				<comment>https://feuniverse.us/t/fe8-custom-pme-v0-2/4595</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1084 - FE8 Custom PME</name>
+					<size>20509056</size>
+					<crc>7bd8baf8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 Darion's Mode</name>
 				<comment>http://www.serenesforest.net/download/FE8patchfinal2.ips</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3720,6 +3960,21 @@
 					<name>546 - FE8 Darion's Mode</name>
 					<size>16777216</size>
 					<crc>b9965ea1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Davuuverso</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1061 - FE8 Davuuverso</name>
+					<size>24050940</size>
+					<crc>4750894f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3780,6 +4035,21 @@
 					<name>374 - FE8 Lyn Windy</name>
 					<size>17203948</size>
 					<crc>c7a95be3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Mad Mode</name>
+				<comment>https://feuniverse.us/t/fe8-mad-mode/1839</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1086 - FE8 Mad Mode</name>
+					<size>17194892</size>
+					<crc>ba8e12f9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4070,6 +4340,66 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 Reloaded Heroes Crossover</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1057 - FE8 Reloaded Heroes Crossover</name>
+					<size>308200430</size>
+					<crc>912ef9fb</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reloaded Heroes Crossover PVP</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1059 - FE8 Reloaded Heroes Crossover PVP</name>
+					<size>22445024</size>
+					<crc>3f0e0863</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reloaded X</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1058 - FE8 Reloaded X</name>
+					<size>22534784</size>
+					<crc>45a02ca2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Reloaded X Chicken</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1060 - FE8 Reloaded X Chicken</name>
+					<size>22562568</size>
+					<crc>8a1a7715</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 Remix</name>
 				<comment>https://feuniverse.us/t/fe-8-rom-hack-sacred-stones-remix-ver-final-complete/6740</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -4265,14 +4595,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>FE8 Wild Mode</name>
+				<name>FE8 Wild Mode (Prototype)</name>
 				<comment>https://feuniverse.us/t/fire-emblem-8-wild-mode/6361</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>385 - FE8 Wild Mode</name>
+					<name>385 - FE8 Wild Mode (Prototype)</name>
 					<size>16816344</size>
 					<crc>00db28f0</crc>
 				</datitem>
@@ -4550,6 +4880,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE 8 wild mode</name>
+				<comment>https://feuniverse.us/t/fe-8-wild-mode/8312</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1091 - FE 8 wild mode</name>
+					<size>20405064</size>
+					<crc>49fb9d67</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE but it’s my Biology Homework</name>
 				<comment>https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237</comment>
 				<publisher>Fan Modding</publisher>
@@ -4715,6 +5060,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FESIX HYPERGOD EDITION (APRIL FOOLS)</name>
+				<comment>https://feuniverse.us/t/fe8-complete-fesix-hypergod-edition-april-fools-not-clickbait/11737</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1094 - FESIX HYPERGOD EDITION (APRIL FOOLS)</name>
+					<size>18313660</size>
+					<crc>33a76dad</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FETO's Last Stand</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
@@ -4745,6 +5105,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FEVengers - Infinity Stones</name>
+				<comment>https://feuniverse.us/t/fevengers-infinity-stones/5919</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1085 - FEVengers - Infinity Stones</name>
+					<size>16844612</size>
+					<crc>2e07e47d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE封印 改造</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -4770,6 +5145,21 @@
 					<name>364 - FE聖魔 適当に改造 まるっと全部修正</name>
 					<size>16963116</size>
 					<crc>3b72f7dc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fidl Emblem - The Sacred O'Neils (College Interview Project)</name>
+				<comment>https://feuniverse.us/t/fidl-emblem-the-sacred-oneils-college-interview-project/9387</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1099 - Fidl Emblem - The Sacred O'Neils (College Interview Project)</name>
+					<size>17372096</size>
+					<crc>d109c712</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5405,6 +5795,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Sacred Blaze</name>
+				<comment>https://feuniverse.us/t/fire-emblem-sacred-blaze/12892</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1068 - Fire Emblem - Sacred Blaze</name>
+					<size>19139416</size>
+					<crc>95acebb1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Seima no Kouseki (Japan)</name>
 				<comment>https://www.nintendo.co.jp/n08/be8j/</comment>
 				<publisher>Nintendo</publisher>
@@ -5511,7 +5916,7 @@
 		<directory>
 			<machine>
 				<name>Fire Emblem - The Arch of Coups</name>
-				<comment>https://github.com/Darrman/Arch-of-Coups</comment>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-the-arch-of-coups-v1-1-2-0-in-development/5320</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -5765,6 +6170,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Wings</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-wings-beta-2-2-ch-1-11/14702</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1077 - Fire Emblem - Wings</name>
+					<size>18306472</size>
+					<crc>658005f0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)</name>
 				<comment>https://feuniverse.us/t/finished-fire-emblem-latino-2-0-you-can-not-ban-last-update-18-03-2019/2594</comment>
 				<publisher>Fan Modding</publisher>
@@ -5855,6 +6275,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem Nemesis</name>
+				<comment>https://feuniverse.us/t/fire-emblem-nemesis/241</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1074 - Fire Emblem Nemesis</name>
+					<size>16982012</size>
+					<crc>c0286a02</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem Origins</name>
 				<comment>https://feuniverse.us/t/fire-emblem-origins-fe1-in-gba/13522</comment>
 				<publisher>Fan Modding</publisher>
@@ -5880,6 +6315,21 @@
 					<name>118 - Fire Emblem Poop</name>
 					<size>24492260</size>
 					<crc>8d1db15c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem Sacred Stones+</name>
+				<comment>https://feuniverse.us/t/fire-emblem-sacred-stones/14105</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1093 - Fire Emblem Sacred Stones+</name>
+					<size>17947860</size>
+					<crc>c71dc40c</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6215,6 +6665,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Gilded Tales</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-gilded-tales-tentative-title/13076</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1065 - Gilded Tales</name>
+					<size>18838516</size>
+					<crc>da60e4fd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Gorilla Gadek SG</name>
 				<comment>http://www.feshrine.net/hacking/projects/gorillagadek.php</comment>
 				<publisher>Fan Modding</publisher>
@@ -6291,7 +6756,7 @@
 		<directory>
 			<machine>
 				<name>Heaven’s Bloom</name>
-				<comment>https://forums.serenesforest.net/index.php?/topic/83470-fire-emblem-heavens-bloom-v11-released/</comment>
+				<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -7341,7 +7806,7 @@
 		<directory>
 			<machine>
 				<name>Moneyfest</name>
-				<comment>https://markyjoe.com/?page=rfdl</comment>
+				<comment>https://feuniverse.us/t/ragefest-iv-moneyfest/1026</comment>
 				<publisher>Ragefest</publisher>
 			</machine>
 			<files>
@@ -7485,6 +7950,21 @@
 					<name>644 - MysteriousDancer's 1h Blitz - Questionable Innocence</name>
 					<size>16841120</size>
 					<crc>2181ccac</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Mystery of the Emblem GBA</name>
+				<comment>https://feuniverse.us/t/cancelled-fire-emblem-mystery-of-the-emblem-gba/1948</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1079 - Mystery of the Emblem GBA</name>
+					<size>16777216</size>
+					<crc>65d282e5</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7835,6 +8315,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Peer's Successful CCB</name>
+				<comment>https://feuniverse.us/t/patch-release-peers-successful-ccb-the-name-may-or-may-not-reflect-reality/3986</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1075 - Peer's Successful CCB</name>
+					<size>17100556</size>
+					<crc>4e3a388b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Peer's Successful CCB (Balance Sorta)</name>
+				<comment>https://feuniverse.us/t/patch-release-peers-successful-ccb-the-name-may-or-may-not-reflect-reality/3986</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1076 - Peer's Successful CCB (Balance Sorta)</name>
+					<size>18216016</size>
+					<crc>9e147fcc</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Perfect Emblem</name>
 				<comment>https://feuniverse.us/t/perfect-emblem-a-technical-masterpiece-1-0-release/7667</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -7935,6 +8445,36 @@
 					<name>812 - Proj</name>
 					<size>16777216</size>
 					<crc>d1d36019</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project 0337 - RE6 (Demo)</name>
+				<comment>https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1071 - Project 0337 - RE6 (Demo)</name>
+					<size>21218144</size>
+					<crc>b4d66a84</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project 0337 - RE6 (Official)</name>
+				<comment>https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1072 - Project 0337 - RE6 (Official)</name>
+					<size>19169740</size>
+					<crc>acdb00cd</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8220,6 +8760,21 @@
 					<name>421 - Queen’s Sword (English Translation)</name>
 					<size>33554432</size>
 					<crc>1ed8d8e5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Rage Emblem</name>
+				<comment>https://feuniverse.us/t/introducing-rage-emblem-final-demo/207</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1092 - Rage Emblem</name>
+					<size>16807060</size>
+					<crc>48cf13bb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8751,7 +9306,7 @@
 		<directory>
 			<machine>
 				<name>Sacred Stones Death Difficulty</name>
-				<comment>https://github.com/Slimjim8345/FE_Sacred-Stones-Death-Difficulty</comment>
+				<comment>https://feuniverse.us/t/fe-sacred-stones-death-difficulty/13186</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -8760,6 +9315,21 @@
 					<name>398 - Sacred Stones Death Difficulty</name>
 					<size>16782360</size>
 					<crc>35d91a7c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Stones Master Quest</name>
+				<comment>https://feuniverse.us/t/sacred-stones-master-quest-discord-server-available-hack-download-ready/10102</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1063 - Sacred Stones Master Quest</name>
+					<size>25690552</size>
+					<crc>b645f2bf</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8925,6 +9495,21 @@
 					<name>683 - SageMatthis's MAFC FEU It Again patch</name>
 					<size>19914496</size>
 					<crc>b5889999</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sain's Tale</name>
+				<comment>https://feuniverse.us/t/fire-emblem-sains-tale-v-1-00-cancelled-by-now-19-06-2021/11246</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1078 - Sain's Tale</name>
+					<size>21561420</size>
+					<crc>7136ff54</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9455,14 +10040,14 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>Sun God&amp;rsquo;s Wrath Kaizo Edition by April</name>
+				<name>Sun God's Wrath Kaizo Edition by April</name>
 				<comment>https://feuniverse.us/t/sun-gods-wrath-kaizo-edition-by-april/13971</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
-					<name>1054 - Sun God&amp;rsquo;s Wrath Kaizo Edition by April</name>
+					<name>1054 - Sun God's Wrath Kaizo Edition by April</name>
 					<size>33374508</size>
 					<crc>b65c47da</crc>
 				</datitem>
@@ -9660,6 +10245,36 @@
 					<name>656 - The Akaneian Mafia</name>
 					<size>16777216</size>
 					<crc>33e27ba8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Ancient Swords</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-ancient-swords-fe8-very-early-build-en-es-patch-avaible/13877</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1066 - The Ancient Swords</name>
+					<size>23260144</size>
+					<crc>b584c2a1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Art of War</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-art-of-war-alpha-2-5-released/9688</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1095 - The Art of War</name>
+					<size>22329684</size>
+					<crc>50b1e0b3</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9920,6 +10535,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Divine Campaign</name>
+				<comment>https://feuniverse.us/t/the-divine-campaign-1st-demo-up/15014</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1090 - The Divine Campaign</name>
+					<size>17990828</size>
+					<crc>bf512f2d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Divine Twins’ War</name>
 				<comment>https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975</comment>
 				<publisher>Fan Modding</publisher>
@@ -10065,6 +10695,21 @@
 					<name>665 - The Five Legends</name>
 					<size>19471600</size>
 					<crc>2e00aab9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Forgotten Realm</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-forgotten-realm-v1-10-8-38-chapters-in-progress/10478</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1056 - The Forgotten Realm</name>
+					<size>24705460</size>
+					<crc>72f58423</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11070,6 +11715,21 @@
 					<name>484 - War of Retribution</name>
 					<size>17084172</size>
 					<crc>7b8abafa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>War of Secrets</name>
+				<comment>https://feuniverse.us/t/fe-war-of-secrets/11198</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1081 - War of Secrets</name>
+					<size>28055212</size>
+					<crc>7447d447</crc>
 				</datitem>
 			</files>
 		</directory>

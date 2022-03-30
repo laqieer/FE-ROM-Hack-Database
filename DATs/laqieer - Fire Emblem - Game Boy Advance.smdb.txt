@@ -1,8 +1,9 @@
 	0sheng mo/756 - 0sheng mo			9179c574	16777216
-	853 - 0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
+	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			44f08e5b	24646064
 	21关开始-封印之剑/930 - 21关开始-封印之剑			75da6fb9	8388608
+	[FE8] Fire Emblem - The Archon's Curse/1064 - [FE8] Fire Emblem - The Archon's Curse			1be625b7	20883568
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
 	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
 	A New Revelation/530 - A New Revelation			08189dee	17616732
@@ -11,6 +12,8 @@
 	A Vestrian Tale/587 - A Vestrian Tale			96b23200	21767000
 	Alternate Stones/449 - Alternate Stones			9acefc25	18583756
 	AnonymousSpeed's 1h Blitz - Valternate Universe/647 - AnonymousSpeed's 1h Blitz - Valternate Universe			d21a353f	16791084
+	Another FE Girls/1069 - Another FE Girls			b4f263c2	18244176
+	Another FE Girls (with skills)/1070 - Another FE Girls (with skills)			3c40f484	18407544
 	Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
 	Apocalypse/456 - Apocalypse			288de977	23013240
 	Armour Emblem/390 - Armour Emblem			9fe8fda0	19049856
@@ -22,7 +25,8 @@
 	Athos Mode/262 - Athos Mode			2f511659	16788472
 	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
 	Auto Emblem/499 - Auto Emblem			0624b3b0	21952164
-	Awful Emblem/418 - Awful Emblem			29f7ca11	16777216
+	Awful Emblem - Complete Act 1 Demo/418 - Awful Emblem - Complete Act 1 Demo			29f7ca11	16777216
+	Awful Emblem - The Thread Demo/1080 - Awful Emblem - The Thread Demo			50977793	22384920
 	B3L-H411-A/212 - B3L-H411-A			db73120f	17536556
 	Back to the Stones/781 - Back to the Stones			3b21a3cf	16777216
 	Bandit Emblem/204 - Bandit Emblem			4c0a42a1	17645508
@@ -37,6 +41,7 @@
 	Battle Simulator (Full Control)/196 - Battle Simulator (Full Control)			c8ea0c56	16802684
 	Battle Simulator (No Control)/197 - Battle Simulator (No Control)			bcfccaf8	16802684
 	Behold the Mega-Flare/479 - Behold the Mega-Flare			6346dfb5	25211820
+	Bern 776/1088 - Bern 776			46de39c0	10710472
 	Binks Emblem/280 - Binks Emblem			4cc97f98	16777216
 	Bird Up!/562 - Bird Up!			f1efdf9e	33511616
 	Black Fang/578 - Black Fang			af92f7af	26121676
@@ -53,6 +58,7 @@
 	Boss Rush/504 - Boss Rush			ad45b232	25165880
 	Boss War/115 - Boss War			186ecc6e	25171160
 	BoxWhatBox/672 - BoxWhatBox			3026f352	17267760
+	Brave Fates/1062 - Brave Fates			832b197a	21204500
 	Broken Emblem/296 - Broken Emblem			320cb889	8393140
 	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
 	Bullet Hell Madness/511 - Bullet Hell Madness			70dc4d72	21870580
@@ -88,6 +94,7 @@
 	Dark Soul/415 - Dark Soul			17fe1087	19413976
 	DarkChibimon's MAFC FEU It Again patch/676 - DarkChibimon's MAFC FEU It Again patch			af667ed7	16925640
 	Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff/635 - Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff			a9a31beb	18213660
+	Das Kapital/1097 - Das Kapital			c105f58a	19268184
 	Dawn of Destiny/460 - Dawn of Destiny			4b7374da	17208512
 	Dawn of the Red Sun/438 - Dawn of the Red Sun			c740ae74	19758868
 	Days of Beta Past/648 - Days of Beta Past			f4b17e5e	22314492
@@ -100,7 +107,7 @@
 	Deity Device (Part 1)/226 - Deity Device (Part 1)			e9a09a50	28848264
 	Deity Device (Part 2)/227 - Deity Device (Part 2)			4908dcba	28957288
 	Deity Device (Part 3)/228 - Deity Device (Part 3)			5e69347e	28950336
-	Deity Device - Saint&rsquo;s Blood/1008 - Deity Device - Saint&rsquo;s Blood			042671c4	24726004
+	Deity Device - Saint's Blood/1008 - Deity Device - Saint's Blood			042671c4	24726004
 	Demon’s Curse/414 - Demon’s Curse			7c088459	25632208
 	Desperate Struggle/506 - Desperate Struggle			b9e5a43c	18881396
 	Devourer of Time (Hard mode)/339 - Devourer of Time (Hard mode)			7fd35f4f	16818192
@@ -131,6 +138,7 @@
 	Endless Nights/485 - Endless Nights			73c48346	17693232
 	ErikFE/440 - ErikFE			a255ac4b	18622088
 	Escape From the Mangs Dungeon/161 - Escape From the Mangs Dungeon			090dffb3	17083184
+	Ether's FE8 Reskin/1083 - Ether's FE8 Reskin			20f71449	24660352
 	Ethereal Light/580 - Ethereal Light			a2e2fa4e	18860184
 	Exalted Legacy/773 - Exalted Legacy			02bc5b08	18772600
 	Extinguished Blade/288 - Extinguished Blade			5a32401b	16777216
@@ -141,6 +149,7 @@
 	Father of a Legend/558 - Father of a Legend			5e4cffa1	17556292
 	FE1 GBA/260 - FE1 GBA			9be58bd8	17361761
 	FE4 Advance (joke demo)/762 - FE4 Advance (joke demo)			3b1913e8	22586360
+	FE4GBA - Genealogy in FE7/1087 - FE4GBA - Genealogy in FE7			ee77cf49	16779372
 	FE6 - Armor emblem/995 - FE6 - Armor emblem			a631aa2c	9405556
 	FE6 - Armor emblem (Heroes version)/996 - FE6 - Armor emblem (Heroes version)			c3ed353b	9405556
 	FE6 - Armor emblem (Knightlier version)/997 - FE6 - Armor emblem (Knightlier version)			4ded7c5b	9405556
@@ -171,7 +180,7 @@
 	FE6 Promoted Mode/291 - FE6 Promoted Mode			41252a77	16777532
 	FE6 Rapid Rebalance/631 - FE6 Rapid Rebalance			502353cb	16777532
 	FE6 Real War Chronicles/543 - FE6 Real War Chronicles			9eaeda76	16777216
-	FE6 Recoloured/302 - FE6 Recoloured			6c2527d9	16777532
+	FE6 Recolored/302 - FE6 Recolored			6c2527d9	16777532
 	FE6 Refurbished/321 - FE6 Refurbished			eb687c4e	16777532
 	FE6 rom with HM bonuses for everyone/326 - FE6 rom with HM bonuses for everyone			8c9d00cc	16793100
 	FE6 smabroROY/694 - FE6 smabroROY			187655d6	8829832
@@ -198,6 +207,7 @@
 	FE6R/690 - FE6R			451b2f22	10281640
 	FE6RR/765 - FE6RR			eaf32b75	8388608
 	FE6RRaddendum/766 - FE6RRaddendum			d360f35f	8388608
+	FE7 - Sus Emblem/1082 - FE7 - Sus Emblem			8ebaa7cb	17316640
 	FE7 - the Community Edition/1009 - FE7 - the Community Edition			94bf4325	21445516
 	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
 	FE7 Boss Recruitment/596 - FE7 Boss Recruitment			1e48ca58	17102564
@@ -205,15 +215,19 @@
 	FE7 Chaos Mode/332 - FE7 Chaos Mode			0f92ff9b	18767508
 	FE7 Heroes/581 - FE7 Heroes			cc769fd5	18878172
 	FE7 Inflation/112 - FE7 Inflation			6ea83897	17825792
+	FE7 Kaizo/1073 - FE7 Kaizo			66f5fbf6	19483812
 	FE7 Leila Edition/554 - FE7 Leila Edition			3574373f	17330932
 	FE7 Letras espanyol/767 - FE7 Letras espanyol			14d046df	16777216
 	FE7 Lute Mode/341 - FE7 Lute Mode			969bae21	16785796
 	FE7 Lyn Hard Mode Redux/628 - FE7 Lyn Hard Mode Redux			c0514f76	16829232
 	FE7 Lyn Hard Mode Redux JP/629 - FE7 Lyn Hard Mode Redux JP			5344ef57	16823200
+	FE7 Lynatic Mode/1098 - FE7 Lynatic Mode			e1d0ad8e	18030364
 	FE7 Plus [Enhancement Patch]/1024 - FE7 Plus [Enhancement Patch]			c53315e2	16798616
 	FE7 Plus [Enhancement Patch] (Fixed)/1026 - FE7 Plus [Enhancement Patch] (Fixed)			f6a18cb2	16798708
 	FE7 Plus [Enhancement Patch] (JP + Fixed)/1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)			8ddba2f9	16801012
 	FE7 Plus [Enhancement Patch] (JP)/1025 - FE7 Plus [Enhancement Patch] (JP)			f6fc178f	16800920
+	FE7 Raven Mode/1096 - FE7 Raven Mode			ffcec4cb	16918116
+	FE7 Rebalanced To My Weird Taste/1089 - FE7 Rebalanced To My Weird Taste			aa32449b	16803504
 	FE7 Rewrite/626 - FE7 Rewrite			a3e1d79e	17894192
 	FE7 to FE6 Character Swap Hack/1055 - FE7 to FE6 Character Swap Hack			633bbe89	11464904
 	FE7 デビル/698 - FE7 デビル			e6193f78	8388608
@@ -223,6 +237,7 @@
 	FE7if/109 - FE7if			6eca79ce	33554432
 	FE7PATCH/734 - FE7PATCH			36191c57	20019568
 	FE7U 0% growths/758 - FE7U 0% growths			b6a05eb3	16777216
+	FE8 - The Twin Dragons/1067 - FE8 - The Twin Dragons			370d3de8	16805904
 	FE8 All Weapons are Devil Weapons/384 - FE8 All Weapons are Devil Weapons			711edbc9	16777216
 	FE8 Another/770 - FE8 Another			436e6c5e	19922944
 	FE8 AWS(Another War Story)/712 - FE8 AWS(Another War Story)			8f4a878a	16894316
@@ -239,11 +254,14 @@
 	FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)/371 - FE8 Chaos Randomizer (Reverse recruitment, randomized base stats)			f6ffef3c	17061045
 	FE8 Creature Campaign Reverse Recruitment (Eirika)/379 - FE8 Creature Campaign Reverse Recruitment (Eirika)			53f063ca	16799568
 	FE8 Creature Campaign Reverse Recruitment (Ephraim)/380 - FE8 Creature Campaign Reverse Recruitment (Ephraim)			1cddfc8d	16802988
+	FE8 Custom PME/1084 - FE8 Custom PME			7bd8baf8	20509056
 	FE8 Darion's Mode/546 - FE8 Darion's Mode			b9965ea1	16777216
+	FE8 Davuuverso/1061 - FE8 Davuuverso			4750894f	24050940
 	FE8 Fanmade Directors Cut/400 - FE8 Fanmade Directors Cut			a7a210d5	21871792
 	FE8 Harder patch/768 - FE8 Harder patch			52733cf0	16777216
 	FE8 HazelCustom/711 - FE8 HazelCustom			6f49856f	17480036
 	FE8 Lyn Windy/374 - FE8 Lyn Windy			c7a95be3	17203948
+	FE8 Mad Mode/1086 - FE8 Mad Mode			ba8e12f9	17194892
 	FE8 Maniac Mode/393 - FE8 Maniac Mode			b4861fca	16863800
 	FE8 Master Version/378 - FE8 Master Version			51b9c9db	16822640
 	FE8 midori (Green)/176 - FE8 midori (Green)			25d88b16	33554432
@@ -263,6 +281,10 @@
 	FE8 prologue (序章if)/769 - FE8 prologue (序章if)			a4fdf618	16786688
 	FE8 QoL Edition/375 - FE8 QoL Edition			f45762e5	16802916
 	FE8 Redux/399 - FE8 Redux			b767b1dd	29224272
+	FE8 Reloaded Heroes Crossover/1057 - FE8 Reloaded Heroes Crossover			912ef9fb	308200430
+	FE8 Reloaded Heroes Crossover PVP/1059 - FE8 Reloaded Heroes Crossover PVP			3f0e0863	22445024
+	FE8 Reloaded X/1058 - FE8 Reloaded X			45a02ca2	22534784
+	FE8 Reloaded X Chicken/1060 - FE8 Reloaded X Chicken			8a1a7715	22562568
 	FE8 Remix/388 - FE8 Remix			98a5a872	24792284
 	FE8 Reshuffle/725 - FE8 Reshuffle			0dc30ee9	17341536
 	FE8 Reunion/556 - FE8 Reunion			1eeddb5f	16777216
@@ -276,7 +298,7 @@
 	FE8 Totally Vanilla/450 - FE8 Totally Vanilla			cb15d1a3	16777216
 	FE8 TS (圣魔光石个人特技版)/723 - FE8 TS (圣魔光石个人特技版)			cb745df9	20971520
 	FE8 Weapon Reversal/376 - FE8 Weapon Reversal			b069af12	18248732
-	FE8 Wild Mode/385 - FE8 Wild Mode			00db28f0	16816344
+	FE8 Wild Mode (Prototype)/385 - FE8 Wild Mode (Prototype)			00db28f0	16816344
 	FE8 with FE4 Graphics (map sprites)/550 - FE8 with FE4 Graphics (map sprites)			dca9a64f	16777216
 	FE8 with FE4 Graphics (weapon icons)/549 - FE8 with FE4 Graphics (weapon icons)			d14c8d42	16777216
 	FE8 无聊之士版/728 - FE8 无聊之士版			d42a364c	16777216
@@ -295,6 +317,7 @@
 	FE8女版/977 - FE8女版			7f66973d	16898520
 	FE8改造/706 - FE8改造			616dfbb4	16777216
 	Fe 8 Chess/241 - Fe 8 Chess			d5ddb5e8	16806152
+	FE 8 wild mode/1091 - FE 8 wild mode			49fb9d67	20405064
 	FE but it’s my Biology Homework/198 - FE but it’s my Biology Homework			385de2ec	17279456
 	FE Colored/988 - FE Colored			1b3da853	22262344
 	FE The Grand Uprising/213 - FE The Grand Uprising			535448a4	29479028
@@ -306,10 +329,13 @@
 	FEGirls J with English Menu Names/541 - FEGirls J with English Menu Names			2fdcc9d8	16777216
 	FEH2, GBA with GACHA mechanics/577 - FEH2, GBA with GACHA mechanics			bc5cc341	17487076
 	Ferrica - Project Kenko/478 - Ferrica - Project Kenko			4124c732	23612392
+	FESIX HYPERGOD EDITION (APRIL FOOLS)/1094 - FESIX HYPERGOD EDITION (APRIL FOOLS)			33a76dad	18313660
 	FETO's Last Stand/507 - FETO's Last Stand			b80108e2	16784768
 	FEU Gacha/168 - FEU Gacha			35c74672	16777216
+	FEVengers - Infinity Stones/1085 - FEVengers - Infinity Stones			2e07e47d	16844612
 	FE封印 改造/691 - FE封印 改造			2139cad4	8388608
 	FE聖魔 適当に改造 まるっと全部修正/364 - FE聖魔 適当に改造 まるっと全部修正			3b72f7dc	16963116
+	Fidl Emblem - The Sacred O'Neils (College Interview Project)/1099 - Fidl Emblem - The Sacred O'Neils (College Interview Project)			d109c712	17372096
 	Fight for Freedom/480 - Fight for Freedom			8c320753	23944208
 	Final Fantasy 10 Remake/472 - Final Fantasy 10 Remake			901e461e	20400084
 	Fire Emblem 6.7/324 - Fire Emblem 6			281520a0	16777532
@@ -352,6 +378,7 @@
 	Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]/25 - Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS]			eafa4ef0	19086336
 	Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS]/31 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1			4186d6e5	16777216
 	Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]/23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]			7aef4edc	16777216
+	Fire Emblem - Sacred Blaze/1068 - Fire Emblem - Sacred Blaze			95acebb1	19139416
 	Fire Emblem - Seima no Kouseki (Japan)/6 - Fire Emblem - Seima no Kouseki (Japan)			9d76826f	16777216
 	Fire Emblem - Seima no Kouseki (Japan) (Beta)/11 - Fire Emblem - Seima no Kouseki (Japan) (Beta)			cd9d8972	16777216
 	Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]/27 - Fire Emblem - Seima no Kouseki (Japan)[Bootleg & Shuidechangleweiyang][CHS]			223f8fc4	16777216
@@ -376,14 +403,17 @@
 	Fire Emblem - Tiding Bonds/274 - Fire Emblem - Tiding Bonds			b1d37e48	16865348
 	Fire Emblem - Vision Quest/203 - Fire Emblem - Vision Quest			aee1137a	27226016
 	Fire Emblem - Will of Good and Evil/101 - Fire Emblem - Will of Good and Evil			9cbb923e	16777216
+	Fire Emblem - Wings/1077 - Fire Emblem - Wings			658005f0	18306472
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)/117 - Fire Emblem [Latino] 2			fc2b8ed3	25224856
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (Spanish)/116 - Fire Emblem [Latino] 2			8ea1444d	25198924
 	Fire Emblem and the INTERESTING Stones/584 - Fire Emblem and the INTERESTING Stones			eb152ad0	17594924
 	Fire Emblem Destiny/276 - Fire Emblem Destiny			195fd1df	16777216
 	Fire Emblem Forever/246 - Fire Emblem Forever			d93d269a	17627116
 	Fire Emblem Gilmore Girls Edition/579 - Fire Emblem Gilmore Girls Edition			1a6576b4	17205936
+	Fire Emblem Nemesis/1074 - Fire Emblem Nemesis			c0286a02	16982012
 	Fire Emblem Origins/419 - Fire Emblem Origins			f433df6e	19279388
 	Fire Emblem Poop/118 - Fire Emblem Poop			8d1db15c	24492260
+	Fire Emblem Sacred Stones+/1093 - Fire Emblem Sacred Stones+			c71dc40c	17947860
 	Fire Emblem Sengoku/451 - Fire Emblem Sengoku			8749de83	21393244
 	Fire Emblem Time Scarred Time Lines - The Beginning/466 - Fire Emblem Time Scarred Time Lines - The Beginning			b9c68cfe	17270412
 	Fire Emblem Versus/134 - Fire Emblem Versus			47ba1139	16777284
@@ -406,6 +436,7 @@
 	GFE1R/259 - GFE1R			fee335a3	17684788
 	Gheb Saga/245 - Gheb Saga			6fb3ca5a	26416180
 	GhebFE/381 - GhebFE			daa23525	18874368
+	Gilded Tales/1065 - Gilded Tales			da60e4fd	18838516
 	Gorilla Gadek SG/542 - Gorilla Gadek SG			adad84e8	32760640
 	Grand Archipelago/249 - Grand Archipelago			14b61c7e	19579000
 	GratedShtick's MAFC FEU It Again patch/667 - GratedShtick's MAFC FEU It Again patch			b6f5a96c	18122108
@@ -491,6 +522,7 @@
 	Myrm Emblem/238 - Myrm Emblem			b5a503ae	22182264
 	Myrrh Goes To Mc Donalds/674 - Myrrh Goes To Mc Donalds			7dab34e7	16876620
 	MysteriousDancer's 1h Blitz - Questionable Innocence/644 - MysteriousDancer's 1h Blitz - Questionable Innocence			2181ccac	16841120
+	Mystery of the Emblem GBA/1079 - Mystery of the Emblem GBA			65d282e5	16777216
 	Mystic's MAFC FEU It Again patch/685 - Mystic's MAFC FEU It Again patch			4d217204	16777216
 	Myth of Blight/1015 - Myth of Blight			26623bac	29573016
 	Mythgraven/624 - Mythgraven			bc28fd5d	23670068
@@ -514,6 +546,8 @@
 	Parliament of Heroes/619 - Parliament of Heroes			d11bdc83	18303588
 	Path of a Hero/344 - Path of a Hero			168670b6	23385656
 	Path of a Hero (DLC Lloyd’s Story)/345 - Path of a Hero (DLC Lloyd’s Story)			990fd8ae	18915800
+	Peer's Successful CCB/1075 - Peer's Successful CCB			4e3a388b	17100556
+	Peer's Successful CCB (Balance Sorta)/1076 - Peer's Successful CCB (Balance Sorta)			9e147fcc	18216016
 	Perfect Emblem/392 - Perfect Emblem			3a687b2f	18174872
 	Pick my Sabotage/342 - Pick my Sabotage			5529f7fe	16883688
 	Pokémblem/487 - Pokémblem			ea9ac6a5	20667228
@@ -521,6 +555,8 @@
 	Prisoner of Darkness/140 - Prisoner of Darkness			95f14edd	20971804
 	Prisoner of Darkness (Hard Mode)/133 - Prisoner of Darkness (Hard Mode)			1bbb05e1	20971560
 	Proj.Lysithea/812 - Proj			d1d36019	16777216
+	Project 0337 - RE6 (Demo)/1071 - Project 0337 - RE6 (Demo)			b4d66a84	21218144
+	Project 0337 - RE6 (Official)/1072 - Project 0337 - RE6 (Official)			acdb00cd	19169740
 	Project dondon/778 - Project dondon			2e260b2e	16779108
 	Project Ember (HM Fixed Growths)/313 - Project Ember (HM Fixed Growths)			2d2abfb0	25355392
 	Project Ember (HM)/309 - Project Ember (HM)			636f7b05	25355392
@@ -540,6 +576,7 @@
 	Puzon Emblem/589 - Puzon Emblem			86e37d3c	19889524
 	Puzzle Emblem/189 - Puzzle Emblem			83fc3242	16824428
 	Queen’s Sword (English Translation)/421 - Queen’s Sword (English Translation)			1ed8d8e5	33554432
+	Rage Emblem/1092 - Rage Emblem			48cf13bb	16807060
 	Ragefest 5 DLC/137 - Ragefest 5 DLC			0c516c3e	17194360
 	Ragefest Chronicles/535 - Ragefest Chronicles			ef471685	16996156
 	Ragefest Revengeance/526 - Ragefest Revengeance			fc673b9f	20406156
@@ -576,6 +613,7 @@
 	Sacred Eirika/365 - Sacred Eirika			a0612059	19645624
 	Sacred Radiance Demo (FE9 Demake)/470 - Sacred Radiance Demo (FE9 Demake)			90246924	23845772
 	Sacred Stones Death Difficulty/398 - Sacred Stones Death Difficulty			35d91a7c	16782360
+	Sacred Stones Master Quest/1063 - Sacred Stones Master Quest			b645f2bf	25690552
 	Sacred Texts/465 - Sacred Texts			4b97c9be	18988976
 	Sacred Trilogy Final -Full- Fixed Growths- No AI/358 - Sacred Trilogy Final -Full- Fixed Growths- No AI			9c1dd2f3	33532712
 	Sacred Trilogy Final -Full- Fixed Growths- With AI/359 - Sacred Trilogy Final -Full- Fixed Growths- With AI			8ef775b9	33532712
@@ -587,6 +625,7 @@
 	Sacred Trilogy Final -Lite- Random Growths- With AI/361 - Sacred Trilogy Final -Lite- Random Growths- With AI			c31dc48b	33531144
 	Saga of the Sigilbearers/611 - Saga of the Sigilbearers			a2c6e6e0	18864616
 	SageMatthis's MAFC FEU It Again patch/683 - SageMatthis's MAFC FEU It Again patch			b5889999	19914496
+	Sain's Tale/1078 - Sain's Tale			7136ff54	21561420
 	Saving Christmas/568 - Saving Christmas			5afd94b1	18449388
 	Saving Christmas (Chinese Translation)/872 - Saving Christmas (Chinese Translation)			efdbe109	19442516
 	Scarlet Rising/200 - Scarlet Rising			8c78f4a5	20488132
@@ -622,7 +661,7 @@
 	Storge/236 - Storge			079106d8	20034916
 	Subtitle/992 - Subtitle			1b59d8ea	21481648
 	SubwayBossEmmett's Two Hour Blitz - Royal Escape/604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape			079fc81e	16826076
-	Sun God&rsquo;s Wrath Kaizo Edition by April/1054 - Sun God&rsquo;s Wrath Kaizo Edition by April			b65c47da	33374508
+	Sun God's Wrath Kaizo Edition by April/1054 - Sun God's Wrath Kaizo Edition by April			b65c47da	33374508
 	Super Generic Ragefest Adventure/539 - Super Generic Ragefest Adventure			a727bdb0	17028828
 	Sword of Heaven and Earth (English Translation)/594 - Sword of Heaven and Earth (English Translation)			0a1734ae	27323016
 	Sword of Seals ReDux/295 - Sword of Seals ReDux			7895cf0d	16777244
@@ -636,6 +675,8 @@
 	Temple of Ardesia/566 - Temple of Ardesia			a67b7ea1	23414536
 	Terror of the Forest/430 - Terror of the Forest			017b8028	27044204
 	The Akaneian Mafia/656 - The Akaneian Mafia			33e27ba8	16777216
+	The Ancient Swords/1066 - The Ancient Swords			b584c2a1	23260144
+	The Art of War/1095 - The Art of War			50b1e0b3	22329684
 	tHE BEGGINING/497 - tHE BEGGINING			a7685715	16777216
 	The Binding Bartre/322 - The Binding Bartre			b9605bae	16793100
 	The Binding Bartre (with effectiveness and AI fixes)/323 - The Binding Bartre (with effectiveness and AI fixes)			2986a3b6	16793100
@@ -653,6 +694,7 @@
 	The Cult/677 - The Cult			22905a74	17872864
 	The Dark Hour/201 - The Dark Hour			8575430f	26994984
 	The Dark Hour (Hard Mode)/202 - The Dark Hour (Hard Mode)			bfc8d218	26995576
+	The Divine Campaign/1090 - The Divine Campaign			bf512f2d	17990828
 	The Divine Twins’ War/416 - The Divine Twins’ War			4fd88c7b	21006844
 	The Dragon Herald/152 - The Dragon Herald			72d65e0b	25565628
 	The Dragon Herald (DSSave)/153 - The Dragon Herald (DSSave)			24eaa892	25565628
@@ -663,6 +705,7 @@
 	The Final Swear 2/191 - The Final Swear 2			fb400d2d	18404968
 	The Final Swear 4/192 - The Final Swear 4			458fb062	24565116
 	The Five Legends/665 - The Five Legends			2e00aab9	19471600
+	The Forgotten Realm/1056 - The Forgotten Realm			72f58423	24705460
 	The Four Kings/205 - The Four Kings			191ec326	29587472
 	The Four Kings (0% Growths)/206 - The Four Kings (0% Growths)			b58a101f	28749664
 	The Four Kings (Reverse Recruitment)/207 - The Four Kings (Reverse Recruitment)			34e1170d	28852468
@@ -730,6 +773,7 @@
 	Void’s Blitzarre Adventure - Blitz Tendency (debug)/143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)			66f0a6d0	16777216
 	Vs. Mode/135 - Vs			86fe30d3	17066348
 	War of Retribution/484 - War of Retribution			7b8abafa	17084172
+	War of Secrets/1081 - War of Secrets			7447d447	28055212
 	War on Two Fronts/234 - War on Two Fronts			3c922e66	24923600
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760

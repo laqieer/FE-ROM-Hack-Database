@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220330",
+		"version": "20220331",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -1107,8 +1107,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "410 - Bloodlines",
-						"size": 26364440,
-						"crc": "33b2dd3c"
+						"size": 26364548,
+						"crc": "9063e95c"
 					}
 				}
 			]
@@ -11087,8 +11087,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "426 - Sacred Echoes (English)",
-						"size": 19502928,
-						"crc": "720276b7"
+						"size": 19561712,
+						"crc": "4992a14e"
 					}
 				}
 			]
@@ -13453,6 +13453,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Sadist Stones II",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1100 - The Sadist Stones II",
+						"size": 33300508,
+						"crc": "d915ef65"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Seven Keys",
 				"comment": "https://feuniverse.us/t/fire-emblem-the-seven-keys/12832",
 				"description": null,
@@ -13616,7 +13634,7 @@
 		{
 			"machine": {
 				"name": "Tierra Maldita",
-				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -13626,7 +13644,7 @@
 						"itemtype": "Rom",
 						"name": "987 - Tierra Maldita",
 						"size": 17572088,
-						"crc": "4c5a347c"
+						"crc": "76de4b78"
 					}
 				}
 			]

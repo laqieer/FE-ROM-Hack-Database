@@ -166,7 +166,7 @@
 		<rom name="290 - Blood of the Covenant" size="20149244" crc="63a45a53" />
 	</machine>
 	<machine name="Bloodlines">
-		<rom name="410 - Bloodlines" size="26364440" crc="33b2dd3c" />
+		<rom name="410 - Bloodlines" size="26364548" crc="9063e95c" />
 	</machine>
 	<machine name="BobbyYukitsuki's Two Hour Blitz">
 		<rom name="609 - BobbyYukitsuki's Two Hour Blitz" size="16959508" crc="93712a28" />
@@ -1829,7 +1829,7 @@
 		<rom name="132 - Sacred Contention (Still Mode)" size="19125992" crc="c2e7e8ea" />
 	</machine>
 	<machine name="Sacred Echoes (English)">
-		<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+		<rom name="426 - Sacred Echoes (English)" size="19561712" crc="4992a14e" />
 	</machine>
 	<machine name="Sacred Echoes (Spanish)">
 		<rom name="427 - Sacred Echoes (Spanish)" size="20347472" crc="844cd7a0" />
@@ -2224,6 +2224,9 @@
 	<machine name="The Sacred War (Starting Version - v1.36)">
 		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
 	</machine>
+	<machine name="The Sadist Stones II">
+		<rom name="1100 - The Sadist Stones II" size="33300508" crc="d915ef65" />
+	</machine>
 	<machine name="The Seven Keys">
 		<rom name="1003 - The Seven Keys" size="21411712" crc="66c28210" />
 	</machine>
@@ -2252,7 +2255,7 @@
 		<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
 	</machine>
 	<machine name="Tierra Maldita">
-		<rom name="987 - Tierra Maldita" size="17572088" crc="4c5a347c" />
+		<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />

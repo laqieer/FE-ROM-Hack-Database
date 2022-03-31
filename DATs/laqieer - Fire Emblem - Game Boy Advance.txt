@@ -741,6 +741,7 @@ The Sacred Ripping Anniversary Edition;;laqieer - Fire Emblem - Game Boy Advance
 The Sacred Stones - FE7 Crossover;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/;
 The Sacred War (Final Update - v1.51);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867;
 The Sacred War (Starting Version - v1.36);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-sacred-war-complete/4867;
+The Sadist Stones II;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014;
 The Seven Keys;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-the-seven-keys/12832;
 The Sun God’s Wrath;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207;
 The Sun God’s Wrath (0 growth);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/;
@@ -750,7 +751,7 @@ The Teq Demo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;Teq C
 The White Feather;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974;
 There Is No Dialogue, Die;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/mafc5/9981/20;
 THWD2 - The Heist We Deserve;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/thwd2-the-heist-we-deserve/15252;
-Tierra Maldita;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500;
+Tierra Maldita;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500;
 Tirado Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/tirado-emblem-demo/3630;
 Title Here;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 TLP with Updated Animations;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/tlp-with-updated-animations/5340;

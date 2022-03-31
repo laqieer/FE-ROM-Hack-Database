@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220330
+version=20220331
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -66,7 +66,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Blight of Acrova (Reverse Recruitment)¬Blight of Acrova (Reverse Recruitment)¬576 - Blight of Acrova (Reverse Recruitment)¬0883395d¬27003148¬¬¬
 ¬¬¬Blight of Acrova (Zero Percent Growths)¬Blight of Acrova (Zero Percent Growths)¬575 - Blight of Acrova (Zero Percent Growths)¬b9915ad8¬26476404¬¬¬
 ¬¬¬Blood of the Covenant¬Blood of the Covenant¬290 - Blood of the Covenant¬63a45a53¬20149244¬¬¬
-¬¬¬Bloodlines¬Bloodlines¬410 - Bloodlines¬33b2dd3c¬26364440¬¬¬
+¬¬¬Bloodlines¬Bloodlines¬410 - Bloodlines¬9063e95c¬26364548¬¬¬
 ¬¬¬BobbyYukitsuki's Two Hour Blitz¬BobbyYukitsuki's Two Hour Blitz¬609 - BobbyYukitsuki's Two Hour Blitz¬93712a28¬16959508¬¬¬
 ¬¬¬Boss Rush¬Boss Rush¬504 - Boss Rush¬ad45b232¬25165880¬¬¬
 ¬¬¬Boss War¬Boss War¬115 - Boss War¬186ecc6e¬25171160¬¬¬
@@ -621,7 +621,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Sacred Contention (E-Rank Mode)¬Sacred Contention (E-Rank Mode)¬130 - Sacred Contention (E-Rank Mode)¬b9c52723¬19125992¬¬¬
 ¬¬¬Sacred Contention (No Supports Mode)¬Sacred Contention (No Supports Mode)¬131 - Sacred Contention (No Supports Mode)¬7b7cc292¬19125992¬¬¬
 ¬¬¬Sacred Contention (Still Mode)¬Sacred Contention (Still Mode)¬132 - Sacred Contention (Still Mode)¬c2e7e8ea¬19125992¬¬¬
-¬¬¬Sacred Echoes (English)¬Sacred Echoes (English)¬426 - Sacred Echoes (English)¬720276b7¬19502928¬¬¬
+¬¬¬Sacred Echoes (English)¬Sacred Echoes (English)¬426 - Sacred Echoes (English)¬4992a14e¬19561712¬¬¬
 ¬¬¬Sacred Echoes (Spanish)¬Sacred Echoes (Spanish)¬427 - Sacred Echoes (Spanish)¬844cd7a0¬20347472¬¬¬
 ¬¬¬Sacred Eirika¬Sacred Eirika¬365 - Sacred Eirika¬a0612059¬19645624¬¬¬
 ¬¬¬Sacred Radiance Demo (FE9 Demake)¬Sacred Radiance Demo (FE9 Demake)¬470 - Sacred Radiance Demo (FE9 Demake)¬90246924¬23845772¬¬¬
@@ -753,6 +753,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Sacred Stones - FE7 Crossover¬The Sacred Stones - FE7 Crossover¬552 - The Sacred Stones - FE7 Crossover¬1749e41f¬16777216¬¬¬
 ¬¬¬The Sacred War (Final Update - v1.51)¬The Sacred War (Final Update - v1.51)¬173 - The Sacred War (Final Update - v1.51)¬8dc775b2¬31187848¬¬¬
 ¬¬¬The Sacred War (Starting Version - v1.36)¬The Sacred War (Starting Version - v1.36)¬172 - The Sacred War (Starting Version - v1.36)¬9ff4790d¬31133988¬¬¬
+¬¬¬The Sadist Stones II¬The Sadist Stones II¬1100 - The Sadist Stones II¬d915ef65¬33300508¬¬¬
 ¬¬¬The Seven Keys¬The Seven Keys¬1003 - The Seven Keys¬66c28210¬21411712¬¬¬
 ¬¬¬The Sun God’s Wrath¬The Sun God’s Wrath¬217 - The Sun God’s Wrath¬cc06a4ef¬33007088¬¬¬
 ¬¬¬The Sun God’s Wrath (0 growth)¬The Sun God’s Wrath (0 growth)¬218 - The Sun God’s Wrath (0 growth)¬7def8770¬33007108¬¬¬
@@ -762,7 +763,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The White Feather¬The White Feather¬490 - The White Feather¬294c6150¬23302696¬¬¬
 ¬¬¬There Is No Dialogue, Die¬There Is No Dialogue, Die¬662 - There Is No Dialogue, Die¬06900b89¬17267948¬¬¬
 ¬¬¬THWD2 - The Heist We Deserve¬THWD2 - The Heist We Deserve¬999 - THWD2 - The Heist We Deserve¬73ac3ff9¬17152184¬¬¬
-¬¬¬Tierra Maldita¬Tierra Maldita¬987 - Tierra Maldita¬4c5a347c¬17572088¬¬¬
+¬¬¬Tierra Maldita¬Tierra Maldita¬987 - Tierra Maldita¬76de4b78¬17572088¬¬¬
 ¬¬¬Tirado Emblem¬Tirado Emblem¬282 - Tirado Emblem¬5bb0ae74¬18775380¬¬¬
 ¬¬¬Title Here¬Title Here¬521 - Title Here¬e6f15aae¬17072284¬¬¬
 ¬¬¬TLP with Updated Animations¬TLP with Updated Animations¬1053 - TLP with Updated Animations¬ea5c9a40¬33402172¬¬¬

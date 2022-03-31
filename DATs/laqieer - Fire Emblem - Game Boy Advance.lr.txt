@@ -220,7 +220,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Bloodlines".
 Name                                   Size Checksum
-410 - Bloodlines                   26364440 CRC(33b2dd3c)
+410 - Bloodlines                   26364548 CRC(9063e95c)
 
 ROMs required for driver "BobbyYukitsuki's Two Hour Blitz".
 Name                                   Size Checksum
@@ -2009,7 +2009,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2437,7 +2437,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Sacred Echoes (English)".
 Name                                   Size Checksum
-426 - Sacred Echoes (English)      19502928 CRC(720276b7)
+426 - Sacred Echoes (English)      19561712 CRC(4992a14e)
 
 ROMs required for driver "Sacred Echoes (Spanish)".
 Name                                   Size Checksum
@@ -2963,6 +2963,10 @@ ROMs required for driver "The Sacred War (Starting Version - v1.36)".
 Name                                   Size Checksum
 172 - The Sacred War (Starting Version - v1          31133988 CRC(9ff4790d)
 
+ROMs required for driver "The Sadist Stones II".
+Name                                   Size Checksum
+1100 - The Sadist Stones II        33300508 CRC(d915ef65)
+
 ROMs required for driver "The Seven Keys".
 Name                                   Size Checksum
 1003 - The Seven Keys              21411712 CRC(66c28210)
@@ -3001,7 +3005,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Tierra Maldita".
 Name                                   Size Checksum
-987 - Tierra Maldita               17572088 CRC(4c5a347c)
+987 - Tierra Maldita               17572088 CRC(76de4b78)
 
 ROMs required for driver "Tirado Emblem".
 Name                                   Size Checksum

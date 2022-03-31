@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1029</datVersion>
+		<datVersion>1030</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1040,13 +1040,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>410 - Bloodlines</title>
 			<saveType>None</saveType>
-			<romSize>26364440</romSize>
+			<romSize>26364548</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">33B2DD3C</romCRC>
+				<romCRC extension=".">9063E95C</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -11073,13 +11073,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>426 - Sacred Echoes (English)</title>
 			<saveType>None</saveType>
-			<romSize>19502928</romSize>
+			<romSize>19561712</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">720276B7</romCRC>
+				<romCRC extension=".">4992A14E</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -13450,6 +13450,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1100 - The Sadist Stones II</title>
+			<saveType>None</saveType>
+			<romSize>33300508</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D915EF65</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1003 - The Seven Keys</title>
 			<saveType>None</saveType>
 			<romSize>21411712</romSize>
@@ -13620,11 +13638,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">4C5A347C</romCRC>
+				<romCRC extension=".">76DE4B78</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

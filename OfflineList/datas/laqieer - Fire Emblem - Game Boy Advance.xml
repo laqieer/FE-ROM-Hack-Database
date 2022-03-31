@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220330</datVersion>
+    <datVersion>20220331</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -6146,13 +6146,13 @@
       <releaseNumber>410</releaseNumber>
       <title>Bloodlines</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>26364440</romSize>
+      <romSize>26364548</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>Ghast</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">33B2DD3C</romCRC>
+        <romCRC extension=".gba">9063E95C</romCRC>
       </files>
       <im1CRC>91F66B54</im1CRC>
       <im2CRC>12C84E9D</im2CRC>
@@ -6434,13 +6434,13 @@
       <releaseNumber>426</releaseNumber>
       <title>Sacred Echoes (English)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>19502928</romSize>
+      <romSize>19561712</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>hypergammaspaces</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">720276B7</romCRC>
+        <romCRC extension=".gba">4992A14E</romCRC>
       </files>
       <im1CRC>7D91D2CE</im1CRC>
       <im2CRC>87E2B45D</im2CRC>
@@ -16538,11 +16538,11 @@
       <sourceRom>keymavega</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">4C5A347C</romCRC>
+        <romCRC extension=".gba">76DE4B78</romCRC>
       </files>
       <im1CRC>FD9F0240</im1CRC>
       <im2CRC>939BE24D</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -18559,6 +18559,24 @@
       <im1CRC>934738EE</im1CRC>
       <im2CRC>FF8A2FAE</im2CRC>
       <comment>https://feuniverse.us/t/fidl-emblem-the-sacred-oneils-college-interview-project/9387</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1100</imageNumber>
+      <releaseNumber>1100</releaseNumber>
+      <title>The Sadist Stones II</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>33300508</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Rodge_Aurablader</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D915EF65</romCRC>
+      </files>
+      <im1CRC>9AAE88AD</im1CRC>
+      <im2CRC>DF2A4B2D</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

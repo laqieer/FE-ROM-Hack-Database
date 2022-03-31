@@ -445,7 +445,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="410 - Bloodlines" size="26364440" crc="33b2dd3c" />
+				<rom name="410 - Bloodlines" size="26364548" crc="9063e95c" />
 			</dataarea>
 		</part>
 	</software>
@@ -4882,7 +4882,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+				<rom name="426 - Sacred Echoes (English)" size="19561712" crc="4992a14e" />
 			</dataarea>
 		</part>
 	</software>
@@ -5934,6 +5934,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Sadist Stones II">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1100 - The Sadist Stones II" size="33300508" crc="d915ef65" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Seven Keys">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -6010,7 +6018,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="987 - Tierra Maldita" size="17572088" crc="4c5a347c" />
+				<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
 			</dataarea>
 		</part>
 	</software>

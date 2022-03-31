@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220330
+	Version: 20220331
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -229,7 +229,7 @@ game (
 )
 game (
 	name "Bloodlines.zip"
-	file ( name 410 - Bloodlines size 26364440 crc 33b2dd3c )
+	file ( name 410 - Bloodlines size 26364548 crc 9063e95c )
 )
 game (
 	name "BobbyYukitsuki's Two Hour Blitz.zip"
@@ -2446,7 +2446,7 @@ game (
 )
 game (
 	name "Sacred Echoes (English).zip"
-	file ( name 426 - Sacred Echoes (English) size 19502928 crc 720276b7 )
+	file ( name 426 - Sacred Echoes (English) size 19561712 crc 4992a14e )
 )
 game (
 	name "Sacred Echoes (Spanish).zip"
@@ -2973,6 +2973,10 @@ game (
 	file ( name 172 - The Sacred War (Starting Version - v1 size 31133988 crc 9ff4790d )
 )
 game (
+	name "The Sadist Stones II.zip"
+	file ( name 1100 - The Sadist Stones II size 33300508 crc d915ef65 )
+)
+game (
 	name "The Seven Keys.zip"
 	file ( name 1003 - The Seven Keys size 21411712 crc 66c28210 )
 )
@@ -3010,7 +3014,7 @@ game (
 )
 game (
 	name "Tierra Maldita.zip"
-	file ( name 987 - Tierra Maldita size 17572088 crc 4c5a347c )
+	file ( name 987 - Tierra Maldita size 17572088 crc 76de4b78 )
 )
 game (
 	name "Tirado Emblem.zip"

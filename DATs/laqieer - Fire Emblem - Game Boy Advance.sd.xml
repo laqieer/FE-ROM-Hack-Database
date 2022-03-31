@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220330</version>
+		<version>20220331</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -937,8 +937,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>410 - Bloodlines</name>
-					<size>26364440</size>
-					<crc>33b2dd3c</crc>
+					<size>26364548</size>
+					<crc>9063e95c</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9253,8 +9253,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>426 - Sacred Echoes (English)</name>
-					<size>19502928</size>
-					<crc>720276b7</crc>
+					<size>19561712</size>
+					<crc>4992a14e</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11225,6 +11225,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Sadist Stones II</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1100 - The Sadist Stones II</name>
+					<size>33300508</size>
+					<crc>d915ef65</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Seven Keys</name>
 				<comment>https://feuniverse.us/t/fire-emblem-the-seven-keys/12832</comment>
 				<publisher>Fan Modding</publisher>
@@ -11361,7 +11376,7 @@
 		<directory>
 			<machine>
 				<name>Tierra Maldita</name>
-				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -11369,7 +11384,7 @@
 					<itemtype>Rom</itemtype>
 					<name>987 - Tierra Maldita</name>
 					<size>17572088</size>
-					<crc>4c5a347c</crc>
+					<crc>76de4b78</crc>
 				</datitem>
 			</files>
 		</directory>

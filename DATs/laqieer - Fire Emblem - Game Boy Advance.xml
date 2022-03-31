@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220330</version>
+		<version>20220331</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -287,7 +287,7 @@
 	<machine name="Bloodlines">
 		<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="410 - Bloodlines" size="26364440" crc="33b2dd3c" />
+		<rom name="410 - Bloodlines" size="26364548" crc="9063e95c" />
 	</machine>
 	<machine name="BobbyYukitsuki's Two Hour Blitz">
 		<comment>https://feuniverse.us/t/two-hour-blitz/13728/14</comment>
@@ -3016,7 +3016,7 @@
 	<machine name="Sacred Echoes (English)">
 		<comment>https://feuniverse.us/t/fe8-sacred-echoes-44-chapters-playable-act-4-beta-available/4523</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="426 - Sacred Echoes (English)" size="19502928" crc="720276b7" />
+		<rom name="426 - Sacred Echoes (English)" size="19561712" crc="4992a14e" />
 	</machine>
 	<machine name="Sacred Echoes (Spanish)">
 		<comment>https://feuniverse.us/t/fe8-sacred-echoes-44-chapters-playable-act-4-beta-available/4523</comment>
@@ -3670,6 +3670,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
 	</machine>
+	<machine name="The Sadist Stones II">
+		<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1100 - The Sadist Stones II" size="33300508" crc="d915ef65" />
+	</machine>
 	<machine name="The Seven Keys">
 		<comment>https://feuniverse.us/t/fire-emblem-the-seven-keys/12832</comment>
 		<publisher>Fan Modding</publisher>
@@ -3716,9 +3721,9 @@
 		<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
 	</machine>
 	<machine name="Tierra Maldita">
-		<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-ch-1/15500</comment>
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="987 - Tierra Maldita" size="17572088" crc="4c5a347c" />
+		<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>

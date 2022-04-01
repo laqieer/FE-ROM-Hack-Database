@@ -145,6 +145,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="April Fool’s Day Hack">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1112 - April Fool’s Day Hack" size="16911852" crc="dcda3cd2" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Armour Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -382,6 +390,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Blade Of Grief">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1107 - Blade Of Grief" size="26812436" crc="a92f1a7b" />
 			</dataarea>
 		</part>
 	</software>
@@ -953,6 +969,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Divine Army">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1104 - Divine Army" size="16864020" crc="d10fabf6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Divine Inheritance">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1206,6 +1230,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="762 - FE4 Advance (joke demo)" size="22586360" crc="3b1913e8" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE4 Link Arena">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1108 - FE4 Link Arena" size="19732436" crc="6bf20475" />
 			</dataarea>
 		</part>
 	</software>
@@ -1526,6 +1558,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="301 - FE6 Unit Swap (Hard)" size="16777532" crc="793e533c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Units in FE7">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1110 - FE6 Units in FE7" size="18656848" crc="7b52f748" />
 			</dataarea>
 		</part>
 	</software>
@@ -2435,6 +2475,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="745 - FE8 麻袋修改版" size="16809216" crc="3cc28078" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8+ Light Redux">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1102 - FE8+ Light Redux" size="17018924" crc="3c27906f" />
 			</dataarea>
 		</part>
 	</software>
@@ -3406,6 +3454,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Forde Emblem">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1103 - Forde Emblem" size="17039672" crc="120fe80b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Foreboding Dusk">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4014,6 +4070,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Lyn Emblem 7 - Attack of the Clones">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1111 - Lyn Emblem 7 - Attack of the Clones" size="17141592" crc="2b70ee89" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Lyn's Revenge">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -4571,6 +4635,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1011 - Project RE7" size="30141292" crc="e299b969" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Project Sacred Stones v.0.2.5.1">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1106 - Project Sacred Stones v" size="17044860" crc="a9d395a4" />
 			</dataarea>
 		</part>
 	</software>
@@ -5630,6 +5702,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Final Swear 2 Director's Cut">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1105 - The Final Swear 2 Director's Cut" size="18405228" crc="8dd518fa" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Final Swear 2">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5699,6 +5779,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Last Promise 4 - Revenge of the Promise">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1113 - The Last Promise 4 - Revenge of the Promise" size="17639132" crc="c1a2d2ba" />
 			</dataarea>
 		</part>
 	</software>
@@ -6158,6 +6246,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Vision Quest Reverse Recruitment">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1101 - Vision Quest Reverse Recruitment" size="27530420" crc="e7c3945e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Voice Acting Tech Demo">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -6235,6 +6331,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="What if Bors was in FE7">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
 			</dataarea>
 		</part>
 	</software>

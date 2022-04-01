@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220331</datVersion>
+    <datVersion>20220401</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -1728,7 +1728,7 @@
       </files>
       <im1CRC>E3FA8E4F</im1CRC>
       <im2CRC>7CFB68F4</im2CRC>
-      <comment>https://github.com/sme23/Christmas2</comment>
+      <comment>https://feuniverse.us/t/fe8u-hector-saves-christmas-again/6770</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -18577,6 +18577,240 @@
       <im1CRC>9AAE88AD</im1CRC>
       <im2CRC>DF2A4B2D</im2CRC>
       <comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1101</imageNumber>
+      <releaseNumber>1101</releaseNumber>
+      <title>Vision Quest Reverse Recruitment</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>27530420</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Kyrads</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">E7C3945E</romCRC>
+      </files>
+      <im1CRC>877C63E5</im1CRC>
+      <im2CRC>E77716FD</im2CRC>
+      <comment>https://feuniverse.us/t/vision-quest-reverse-recruitment-complete/15597</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1102</imageNumber>
+      <releaseNumber>1102</releaseNumber>
+      <title>FE8+ Light Redux</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17018924</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>SubwayBossEmmett</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">3C27906F</romCRC>
+      </files>
+      <im1CRC>D326C6BD</im1CRC>
+      <im2CRC>1B309014</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-light-redux-release/10063</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1103</imageNumber>
+      <releaseNumber>1103</releaseNumber>
+      <title>Forde Emblem</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17039672</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>MalloyBoi</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">120FE80B</romCRC>
+      </files>
+      <im1CRC>D326C6BD</im1CRC>
+      <im2CRC>E7A62197</im2CRC>
+      <comment>https://feuniverse.us/t/forde-emblem/13314</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1104</imageNumber>
+      <releaseNumber>1104</releaseNumber>
+      <title>Divine Army</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16864020</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Ebgamesemployee</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D10FABF6</romCRC>
+      </files>
+      <im1CRC>9FAA36D4</im1CRC>
+      <im2CRC>78619B0A</im2CRC>
+      <comment>https://feuniverse.us/t/divine-army/14061</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1105</imageNumber>
+      <releaseNumber>1105</releaseNumber>
+      <title>The Final Swear 2 Director's Cut</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18405228</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Citrus</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">8DD518FA</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>5AF19D54</im2CRC>
+      <comment>https://feuniverse.us/t/fe8u-the-final-swear-2-directors-cut-completed/12599</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1106</imageNumber>
+      <releaseNumber>1106</releaseNumber>
+      <title>Project Sacred Stones v.0.2.5.1</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17044860</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Subspatial</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A9D395A4</romCRC>
+      </files>
+      <im1CRC>B65A3ACE</im1CRC>
+      <im2CRC>2991E1AF</im2CRC>
+      <comment>https://feuniverse.us/t/project-sacred-stones-v-0-2-5-1/12628</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1107</imageNumber>
+      <releaseNumber>1107</releaseNumber>
+      <title>Blade Of Grief</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>26812436</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>FuriousHaunter</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A92F1A7B</romCRC>
+      </files>
+      <im1CRC>390A07E0</im1CRC>
+      <im2CRC>510B7656</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-blade-of-grief-7-30-chapters-v0-2-1-balances-and-map-reworks/14682</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1108</imageNumber>
+      <releaseNumber>1108</releaseNumber>
+      <title>FE4 Link Arena</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19732436</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Stephano</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">6BF20475</romCRC>
+      </files>
+      <im1CRC>AD44229C</im1CRC>
+      <im2CRC>E1E66161</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-genealogy-of-the-holy-war-link-arena-proof-of-concept/14648</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1109</imageNumber>
+      <releaseNumber>1109</releaseNumber>
+      <title>What if Bors was in FE7</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16787660</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>danidoyle</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">122253DA</romCRC>
+      </files>
+      <im1CRC>B8ABC8C2</im1CRC>
+      <im2CRC>1F251992</im2CRC>
+      <comment>https://feuniverse.us/t/what-if-bors-was-in-fe7/13650</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1110</imageNumber>
+      <releaseNumber>1110</releaseNumber>
+      <title>FE6 Units in FE7</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>18656848</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>ToGY</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7B52F748</romCRC>
+      </files>
+      <im1CRC>E643EA95</im1CRC>
+      <im2CRC>7A3B0FBA</im2CRC>
+      <comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1111</imageNumber>
+      <releaseNumber>1111</releaseNumber>
+      <title>Lyn Emblem 7 - Attack of the Clones</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17141592</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>ToGY</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">2B70EE89</romCRC>
+      </files>
+      <im1CRC>9CCE9F14</im1CRC>
+      <im2CRC>9F427AEA</im2CRC>
+      <comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1112</imageNumber>
+      <releaseNumber>1112</releaseNumber>
+      <title>April Fool’s Day Hack</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16911852</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>laqieer</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DCDA3CD2</romCRC>
+      </files>
+      <im1CRC>312E9EE0</im1CRC>
+      <im2CRC>1657920F</im2CRC>
+      <comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1113</imageNumber>
+      <releaseNumber>1113</releaseNumber>
+      <title>The Last Promise 4 - Revenge of the Promise</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17639132</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>RandomWizard</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C1A2D2BA</romCRC>
+      </files>
+      <im1CRC>852F07B3</im1CRC>
+      <im2CRC>A9EDA891</im2CRC>
+      <comment>https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

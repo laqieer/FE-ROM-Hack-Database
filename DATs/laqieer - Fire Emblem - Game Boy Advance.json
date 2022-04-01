@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220331",
+		"version": "20220401",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -425,6 +425,24 @@
 						"name": "456 - Apocalypse",
 						"size": 23013240,
 						"crc": "288de977"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "April Fool’s Day Hack",
+				"comment": "https://feuniverse.us/t/april-fools-day-hack/15582",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1112 - April Fool’s Day Hack",
+						"size": 16911852,
+						"crc": "dcda3cd2"
 					}
 				}
 			]
@@ -965,6 +983,24 @@
 						"name": "429 - Blackwing Struggle",
 						"size": 17622632,
 						"crc": "ee781f1e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Blade Of Grief",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-blade-of-grief-7-30-chapters-v0-2-1-balances-and-map-reworks/14682",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1107 - Blade Of Grief",
+						"size": 26812436,
+						"crc": "a92f1a7b"
 					}
 				}
 			]
@@ -2249,6 +2285,24 @@
 		},
 		{
 			"machine": {
+				"name": "Divine Army",
+				"comment": "https://feuniverse.us/t/divine-army/14061",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1104 - Divine Army",
+						"size": 16864020,
+						"crc": "d10fabf6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Divine Inheritance",
 				"comment": "https://feuniverse.us/t/fire-emblem-divine-inheritance-demo-released-first-9-chapters/13903",
 				"description": null,
@@ -2819,6 +2873,24 @@
 						"name": "762 - FE4 Advance (joke demo)",
 						"size": 22586360,
 						"crc": "3b1913e8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE4 Link Arena",
+				"comment": "https://feuniverse.us/t/fire-emblem-genealogy-of-the-holy-war-link-arena-proof-of-concept/14648",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1108 - FE4 Link Arena",
+						"size": 19732436,
+						"crc": "6bf20475"
 					}
 				}
 			]
@@ -3539,6 +3611,24 @@
 						"name": "301 - FE6 Unit Swap (Hard)",
 						"size": 16777532,
 						"crc": "793e533c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Units in FE7",
+				"comment": "https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1110 - FE6 Units in FE7",
+						"size": 18656848,
+						"crc": "7b52f748"
 					}
 				}
 			]
@@ -5581,6 +5671,24 @@
 						"name": "745 - FE8 麻袋修改版",
 						"size": 16809216,
 						"crc": "3cc28078"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8+ Light Redux",
+				"comment": "https://feuniverse.us/t/fe8-light-redux-release/10063",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1102 - FE8+ Light Redux",
+						"size": 17018924,
+						"crc": "3c27906f"
 					}
 				}
 			]
@@ -7765,6 +7873,24 @@
 		},
 		{
 			"machine": {
+				"name": "Forde Emblem",
+				"comment": "https://feuniverse.us/t/forde-emblem/13314",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1103 - Forde Emblem",
+						"size": 17039672,
+						"crc": "120fe80b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Foreboding Dusk",
 				"comment": "https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459",
 				"description": null,
@@ -8126,7 +8252,7 @@
 		{
 			"machine": {
 				"name": "Hector Saves Christmas Again",
-				"comment": "https://github.com/sme23/Christmas2",
+				"comment": "https://feuniverse.us/t/fe8u-hector-saves-christmas-again/6770",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -9127,6 +9253,24 @@
 						"name": "346 - Lyn Emblem",
 						"size": 17039860,
 						"crc": "63b047ee"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Lyn Emblem 7 - Attack of the Clones",
+				"comment": "https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1111 - Lyn Emblem 7 - Attack of the Clones",
+						"size": 17141592,
+						"crc": "2b70ee89"
 					}
 				}
 			]
@@ -10387,6 +10531,24 @@
 						"name": "1011 - Project RE7",
 						"size": 30141292,
 						"crc": "e299b969"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Project Sacred Stones v.0.2.5.1",
+				"comment": "https://feuniverse.us/t/project-sacred-stones-v-0-2-5-1/12628",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1106 - Project Sacred Stones v",
+						"size": 17044860,
+						"crc": "a9d395a4"
 					}
 				}
 			]
@@ -12769,6 +12931,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Final Swear 2 Director's Cut",
+				"comment": "https://feuniverse.us/t/fe8u-the-final-swear-2-directors-cut-completed/12599",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1105 - The Final Swear 2 Director's Cut",
+						"size": 18405228,
+						"crc": "8dd518fa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Final Swear 2",
 				"comment": "https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696",
 				"description": null,
@@ -12925,6 +13105,24 @@
 						"name": "103 - The Last Promise",
 						"size": 32505856,
 						"crc": "d1c6e5d5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Last Promise 4 - Revenge of the Promise",
+				"comment": "https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1113 - The Last Promise 4 - Revenge of the Promise",
+						"size": 17639132,
+						"crc": "c1a2d2ba"
 					}
 				}
 			]
@@ -13957,6 +14155,24 @@
 		},
 		{
 			"machine": {
+				"name": "Vision Quest Reverse Recruitment",
+				"comment": "https://feuniverse.us/t/vision-quest-reverse-recruitment-complete/15597",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1101 - Vision Quest Reverse Recruitment",
+						"size": 27530420,
+						"crc": "e7c3945e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Voice Acting Tech Demo",
 				"comment": "https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736",
 				"description": null,
@@ -14131,6 +14347,24 @@
 						"name": "278 - Water Crest - Morps’s Quest For Pants",
 						"size": 17267760,
 						"crc": "95d4742f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "What if Bors was in FE7",
+				"comment": "https://feuniverse.us/t/what-if-bors-was-in-fe7/13650",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1109 - What if Bors was in FE7",
+						"size": 16787660,
+						"crc": "122253da"
 					}
 				}
 			]

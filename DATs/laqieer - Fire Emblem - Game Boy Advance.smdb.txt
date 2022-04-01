@@ -16,6 +16,7 @@
 	Another FE Girls (with skills)/1070 - Another FE Girls (with skills)			3c40f484	18407544
 	Antagonist Emblem/169 - Antagonist Emblem			13983cfb	17515204
 	Apocalypse/456 - Apocalypse			288de977	23013240
+	April Fool’s Day Hack/1112 - April Fool’s Day Hack			dcda3cd2	16911852
 	Armour Emblem/390 - Armour Emblem			9fe8fda0	19049856
 	Array Of Randomness/525 - Array Of Randomness			95b209ee	16862104
 	Art of Forde/534 - Art of Forde			0038731b	19443668
@@ -46,6 +47,7 @@
 	Bird Up!/562 - Bird Up!			f1efdf9e	33511616
 	Black Fang/578 - Black Fang			af92f7af	26121676
 	Blackwing Struggle/429 - Blackwing Struggle			ee781f1e	17622632
+	Blade Of Grief/1107 - Blade Of Grief			a92f1a7b	26812436
 	Blades of the Blood Dunes/657 - Blades of the Blood Dunes			4468049f	18265128
 	Blades of the Blood Dunes (April Fools’)/658 - Blades of the Blood Dunes (April Fools’)			026be121	18276532
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
@@ -117,6 +119,7 @@
 	Dirge of the Departed/618 - Dirge of the Departed			98ed0044	17584264
 	Disregarding Eighth/682 - Disregarding Eighth			a3f7fa41	16920324
 	DISTORTION/523 - DISTORTION			7cef7382	19069656
+	Divine Army/1104 - Divine Army			d10fabf6	16864020
 	Divine Inheritance/613 - Divine Inheritance			120ecc1f	22947816
 	Divine Keys/468 - Divine Keys			9dac7c13	21116668
 	Dogs of War/538 - Dogs of War			c03ef3c7	16777216
@@ -149,6 +152,7 @@
 	Father of a Legend/558 - Father of a Legend			5e4cffa1	17556292
 	FE1 GBA/260 - FE1 GBA			9be58bd8	17361761
 	FE4 Advance (joke demo)/762 - FE4 Advance (joke demo)			3b1913e8	22586360
+	FE4 Link Arena/1108 - FE4 Link Arena			6bf20475	19732436
 	FE4GBA - Genealogy in FE7/1087 - FE4GBA - Genealogy in FE7			ee77cf49	16779372
 	FE6 - Armor emblem/995 - FE6 - Armor emblem			a631aa2c	9405556
 	FE6 - Armor emblem (Heroes version)/996 - FE6 - Armor emblem (Heroes version)			c3ed353b	9405556
@@ -189,6 +193,7 @@
 	FE6 Unfair and Bad/298 - FE6 Unfair and Bad			7a081ae9	16777532
 	FE6 Unit Swap (Balanced)/300 - FE6 Unit Swap (Balanced)			dcef0b86	16777532
 	FE6 Unit Swap (Hard)/301 - FE6 Unit Swap (Hard)			793e533c	16777532
+	FE6 Units in FE7/1110 - FE6 Units in FE7			7b52f748	18656848
 	FE6 Weapon Reversal/292 - FE6 Weapon Reversal			bb59e273	16793100
 	FE6 Weapon Reversal (Without Weapon Changes)/293 - FE6 Weapon Reversal (Without Weapon Changes)			1fb89d62	16793100
 	FE6 with no HM bonuses/328 - FE6 with no HM bonuses			44db6192	16793100
@@ -303,6 +308,7 @@
 	FE8 with FE4 Graphics (weapon icons)/549 - FE8 with FE4 Graphics (weapon icons)			d14c8d42	16777216
 	FE8 无聊之士版/728 - FE8 无聊之士版			d42a364c	16777216
 	FE8 麻袋修改版/745 - FE8 麻袋修改版			3cc28078	16809216
+	FE8+ Light Redux/1102 - FE8+ Light Redux			3c27906f	17018924
 	FE8 803/707 - FE8 803			2cf2cd8f	16777216
 	FE8_GIRLS/174 - FE8_GIRLS			214b26b9	16777216
 	FE8_GIRLS (English Translation)/175 - FE8_GIRLS (English Translation)			d98445bc	16777216
@@ -424,6 +430,7 @@
 	Flames of Redemption/239 - Flames of Redemption			e1428e68	24536888
 	Flames of Redemption (supports unlocked)/240 - Flames of Redemption (supports unlocked)			0c835af0	24536888
 	Flier Emblem - Return of the Circle/1012 - Flier Emblem - Return of the Circle			78051f91	33554432
+	Forde Emblem/1103 - Forde Emblem			120fe80b	17039672
 	Foreboding Dusk/244 - Foreboding Dusk			2220983b	16888400
 	Fort Mangs Emblem/394 - Fort Mangs Emblem			cadc97eb	20269072
 	Fort Nunya/660 - Fort Nunya			2b094a34	17482308
@@ -500,8 +507,9 @@
 	Lord Weapons Patch Rebalance/340 - Lord Weapons Patch Rebalance			85a80d99	16833072
 	Lute Emblem - The Sacred Lutes/377 - Lute Emblem - The Sacred Lutes			5c7d8d3f	16993256
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
+	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M. E			048eb1b6	18427704
+	M. E. R. C. S./467 - M			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -570,6 +578,7 @@
 	Project Ember (with Alternate Promotions)/318 - Project Ember (with Alternate Promotions)			7d2a640c	25029976
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project RE7/1011 - Project RE7			e299b969	30141292
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216
@@ -702,6 +711,7 @@
 	The Eligor’s Spear (Chinese Translation)/871 - The Eligor’s Spear (Chinese Translation)			81d49d3e	25809240
 	The Empire’s Reach Revisited/389 - The Empire’s Reach Revisited			5b0c8f83	16788832
 	The Empyrean Prophecy/436 - The Empyrean Prophecy			6039ab3f	29810060
+	The Final Swear 2 Director's Cut/1105 - The Final Swear 2 Director's Cut			8dd518fa	18405228
 	The Final Swear 2/191 - The Final Swear 2			fb400d2d	18404968
 	The Final Swear 4/192 - The Final Swear 4			458fb062	24565116
 	The Five Legends/665 - The Five Legends			2e00aab9	19471600
@@ -711,6 +721,7 @@
 	The Four Kings (Reverse Recruitment)/207 - The Four Kings (Reverse Recruitment)			34e1170d	28852468
 	The Golden Kingdom/441 - The Golden Kingdom			78f00579	20092192
 	The Last Promise/103 - The Last Promise			d1c6e5d5	32505856
+	The Last Promise 4 - Revenge of the Promise/1113 - The Last Promise 4 - Revenge of the Promise			c1a2d2ba	17639132
 	The Last Promise (Chaos Mode DEMO)/105 - The Last Promise (Chaos Mode DEMO)			365cf432	32446048
 	The Last Promise (Chinese Translation)/819 - The Last Promise (Chinese Translation)			68b22f19	33340904
 	The Last Promise (Easy Mode)/104 - The Last Promise (Easy Mode)			be1b4153	32445120
@@ -768,6 +779,7 @@
 	Vaati's Revenge/513 - Vaati's Revenge			cc6ff371	20091536
 	Version Elibe 776/559 - Version Elibe 776			252efd87	16777216
 	Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry/637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry			79786f56	18282704
+	Vision Quest Reverse Recruitment/1101 - Vision Quest Reverse Recruitment			e7c3945e	27530420
 	Voice Acting Tech Demo/193 - Voice Acting Tech Demo			c2cd5264	17337768
 	Void’s Blitzarre Adventure/141 - Void’s Blitzarre Adventure			9d22107c	18641452
 	Void’s Blitzarre Adventure - Blitz Tendency/142 - Void’s Blitzarre Adventure - Blitz Tendency			e02d7a82	16777216
@@ -778,6 +790,7 @@
 	War on Two Fronts/234 - War on Two Fronts			3c922e66	24923600
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
+	What if Bors was in FE7/1109 - What if Bors was in FE7			122253da	16787660
 	Wheel Of Misfortune/540 - Wheel Of Misfortune			71238326	19997476
 	WillanZ Rebellion (リベリオン)/715 - WillanZ Rebellion (リベリオン)			de84bb04	28914848
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528

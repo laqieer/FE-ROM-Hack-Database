@@ -54,6 +54,9 @@
 	<machine name="Apocalypse">
 		<rom name="456 - Apocalypse" size="23013240" crc="288de977" />
 	</machine>
+	<machine name="April Fool’s Day Hack">
+		<rom name="1112 - April Fool’s Day Hack" size="16911852" crc="dcda3cd2" />
+	</machine>
 	<machine name="Armour Emblem">
 		<rom name="390 - Armour Emblem" size="19049856" crc="9fe8fda0" />
 	</machine>
@@ -143,6 +146,9 @@
 	</machine>
 	<machine name="Blackwing Struggle">
 		<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
+	</machine>
+	<machine name="Blade Of Grief">
+		<rom name="1107 - Blade Of Grief" size="26812436" crc="a92f1a7b" />
 	</machine>
 	<machine name="Blades of the Blood Dunes">
 		<rom name="657 - Blades of the Blood Dunes" size="18265128" crc="4468049f" />
@@ -357,6 +363,9 @@
 	<machine name="DISTORTION">
 		<rom name="523 - DISTORTION" size="19069656" crc="7cef7382" />
 	</machine>
+	<machine name="Divine Army">
+		<rom name="1104 - Divine Army" size="16864020" crc="d10fabf6" />
+	</machine>
 	<machine name="Divine Inheritance">
 		<rom name="613 - Divine Inheritance" size="22947816" crc="120ecc1f" />
 	</machine>
@@ -452,6 +461,9 @@
 	</machine>
 	<machine name="FE4 Advance (joke demo)">
 		<rom name="762 - FE4 Advance (joke demo)" size="22586360" crc="3b1913e8" />
+	</machine>
+	<machine name="FE4 Link Arena">
+		<rom name="1108 - FE4 Link Arena" size="19732436" crc="6bf20475" />
 	</machine>
 	<machine name="FE4GBA - Genealogy in FE7">
 		<rom name="1087 - FE4GBA - Genealogy in FE7" size="16779372" crc="ee77cf49" />
@@ -572,6 +584,9 @@
 	</machine>
 	<machine name="FE6 Unit Swap (Hard)">
 		<rom name="301 - FE6 Unit Swap (Hard)" size="16777532" crc="793e533c" />
+	</machine>
+	<machine name="FE6 Units in FE7">
+		<rom name="1110 - FE6 Units in FE7" size="18656848" crc="7b52f748" />
 	</machine>
 	<machine name="FE6 Weapon Reversal">
 		<rom name="292 - FE6 Weapon Reversal" size="16793100" crc="bb59e273" />
@@ -912,6 +927,9 @@
 	</machine>
 	<machine name="FE8 麻袋修改版">
 		<rom name="745 - FE8 麻袋修改版" size="16809216" crc="3cc28078" />
+	</machine>
+	<machine name="FE8+ Light Redux">
+		<rom name="1102 - FE8+ Light Redux" size="17018924" crc="3c27906f" />
 	</machine>
 	<machine name="FE8 803">
 		<rom name="707 - FE8 803" size="16777216" crc="2cf2cd8f" />
@@ -1276,6 +1294,9 @@
 	<machine name="Flier Emblem - Return of the Circle">
 		<rom name="1012 - Flier Emblem - Return of the Circle" size="33554432" crc="78051f91" />
 	</machine>
+	<machine name="Forde Emblem">
+		<rom name="1103 - Forde Emblem" size="17039672" crc="120fe80b" />
+	</machine>
 	<machine name="Foreboding Dusk">
 		<rom name="244 - Foreboding Dusk" size="16888400" crc="2220983b" />
 	</machine>
@@ -1504,6 +1525,9 @@
 	<machine name="Lyn Emblem">
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
+	<machine name="Lyn Emblem 7 - Attack of the Clones">
+		<rom name="1111 - Lyn Emblem 7 - Attack of the Clones" size="17141592" crc="2b70ee89" />
+	</machine>
 	<machine name="Lyn's Revenge">
 		<rom name="519 - Lyn's Revenge" size="16797544" crc="57fe60ed" />
 	</machine>
@@ -1713,6 +1737,9 @@
 	</machine>
 	<machine name="Project RE7">
 		<rom name="1011 - Project RE7" size="30141292" crc="e299b969" />
+	</machine>
+	<machine name="Project Sacred Stones v.0.2.5.1">
+		<rom name="1106 - Project Sacred Stones v" size="17044860" crc="a9d395a4" />
 	</machine>
 	<machine name="Prophecy of Flames">
 		<rom name="481 - Prophecy of Flames" size="29276820" crc="79e1e7fd" />
@@ -2110,6 +2137,9 @@
 	<machine name="The Empyrean Prophecy">
 		<rom name="436 - The Empyrean Prophecy" size="29810060" crc="6039ab3f" />
 	</machine>
+	<machine name="The Final Swear 2 Director's Cut">
+		<rom name="1105 - The Final Swear 2 Director's Cut" size="18405228" crc="8dd518fa" />
+	</machine>
 	<machine name="The Final Swear 2">
 		<rom name="191 - The Final Swear 2" size="18404968" crc="fb400d2d" />
 	</machine>
@@ -2136,6 +2166,9 @@
 	</machine>
 	<machine name="The Last Promise">
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
+	</machine>
+	<machine name="The Last Promise 4 - Revenge of the Promise">
+		<rom name="1113 - The Last Promise 4 - Revenge of the Promise" size="17639132" crc="c1a2d2ba" />
 	</machine>
 	<machine name="The Last Promise (Chaos Mode DEMO)">
 		<rom name="105 - The Last Promise (Chaos Mode DEMO)" size="32446048" crc="365cf432" />
@@ -2308,6 +2341,9 @@
 	<machine name="Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry">
 		<rom name="637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry" size="18282704" crc="79786f56" />
 	</machine>
+	<machine name="Vision Quest Reverse Recruitment">
+		<rom name="1101 - Vision Quest Reverse Recruitment" size="27530420" crc="e7c3945e" />
+	</machine>
 	<machine name="Voice Acting Tech Demo">
 		<rom name="193 - Voice Acting Tech Demo" size="17337768" crc="c2cd5264" />
 	</machine>
@@ -2337,6 +2373,9 @@
 	</machine>
 	<machine name="Water Crest - Morps’s Quest For Pants">
 		<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+	</machine>
+	<machine name="What if Bors was in FE7">
+		<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
 	</machine>
 	<machine name="Wheel Of Misfortune">
 		<rom name="540 - Wheel Of Misfortune" size="19997476" crc="71238326" />

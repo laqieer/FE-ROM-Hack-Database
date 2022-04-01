@@ -16,6 +16,7 @@
 1070 - Another FE Girls (with skills)
 169 - Antagonist Emblem
 456 - Apocalypse
+1112 - April Fool’s Day Hack
 390 - Armour Emblem
 525 - Array Of Randomness
 534 - Art of Forde
@@ -46,6 +47,7 @@
 562 - Bird Up!
 578 - Black Fang
 429 - Blackwing Struggle
+1107 - Blade Of Grief
 657 - Blades of the Blood Dunes
 658 - Blades of the Blood Dunes (April Fools’)
 127 - Blazer’s One Day Hack
@@ -117,6 +119,7 @@
 618 - Dirge of the Departed
 682 - Disregarding Eighth
 523 - DISTORTION
+1104 - Divine Army
 613 - Divine Inheritance
 468 - Divine Keys
 538 - Dogs of War
@@ -149,6 +152,7 @@
 558 - Father of a Legend
 260 - FE1 GBA
 762 - FE4 Advance (joke demo)
+1108 - FE4 Link Arena
 1087 - FE4GBA - Genealogy in FE7
 995 - FE6 - Armor emblem
 996 - FE6 - Armor emblem (Heroes version)
@@ -189,6 +193,7 @@
 298 - FE6 Unfair and Bad
 300 - FE6 Unit Swap (Balanced)
 301 - FE6 Unit Swap (Hard)
+1110 - FE6 Units in FE7
 292 - FE6 Weapon Reversal
 293 - FE6 Weapon Reversal (Without Weapon Changes)
 328 - FE6 with no HM bonuses
@@ -303,6 +308,7 @@
 549 - FE8 with FE4 Graphics (weapon icons)
 728 - FE8 无聊之士版
 745 - FE8 麻袋修改版
+1102 - FE8+ Light Redux
 707 - FE8 803
 174 - FE8_GIRLS
 175 - FE8_GIRLS (English Translation)
@@ -424,6 +430,7 @@
 239 - Flames of Redemption
 240 - Flames of Redemption (supports unlocked)
 1012 - Flier Emblem - Return of the Circle
+1103 - Forde Emblem
 244 - Foreboding Dusk
 394 - Fort Mangs Emblem
 660 - Fort Nunya
@@ -500,6 +507,7 @@
 340 - Lord Weapons Patch Rebalance
 377 - Lute Emblem - The Sacred Lutes
 346 - Lyn Emblem
+1111 - Lyn Emblem 7 - Attack of the Clones
 519 - Lyn's Revenge
 467 - M
 557 - MageKnight404's FE7 Hack
@@ -570,6 +578,7 @@
 318 - Project Ember (with Alternate Promotions)
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)
 1011 - Project RE7
+1106 - Project Sacred Stones v
 481 - Prophecy of Flames
 347 - Psychic Emblem (weapons and classes overhaul)
 561 - Pukachi's Contest Patch
@@ -702,6 +711,7 @@
 871 - The Eligor’s Spear (Chinese Translation)
 389 - The Empire’s Reach Revisited
 436 - The Empyrean Prophecy
+1105 - The Final Swear 2 Director's Cut
 191 - The Final Swear 2
 192 - The Final Swear 4
 665 - The Five Legends
@@ -711,6 +721,7 @@
 207 - The Four Kings (Reverse Recruitment)
 441 - The Golden Kingdom
 103 - The Last Promise
+1113 - The Last Promise 4 - Revenge of the Promise
 105 - The Last Promise (Chaos Mode DEMO)
 819 - The Last Promise (Chinese Translation)
 104 - The Last Promise (Easy Mode)
@@ -768,6 +779,7 @@
 513 - Vaati's Revenge
 559 - Version Elibe 776
 637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry
+1101 - Vision Quest Reverse Recruitment
 193 - Voice Acting Tech Demo
 141 - Void’s Blitzarre Adventure
 142 - Void’s Blitzarre Adventure - Blitz Tendency
@@ -778,6 +790,7 @@
 234 - War on Two Fronts
 235 - War on Two Fronts (0% Growths)
 278 - Water Crest - Morps’s Quest For Pants
+1109 - What if Bors was in FE7
 540 - Wheel Of Misfortune
 715 - WillanZ Rebellion (リベリオン)
 165 - Winning Against Gharnef

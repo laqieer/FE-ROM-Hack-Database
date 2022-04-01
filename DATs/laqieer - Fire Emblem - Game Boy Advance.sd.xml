@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220331</version>
+		<version>20220401</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -369,6 +369,21 @@
 					<name>456 - Apocalypse</name>
 					<size>23013240</size>
 					<crc>288de977</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>April Fool’s Day Hack</name>
+				<comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1112 - April Fool’s Day Hack</name>
+					<size>16911852</size>
+					<crc>dcda3cd2</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -819,6 +834,21 @@
 					<name>429 - Blackwing Struggle</name>
 					<size>17622632</size>
 					<crc>ee781f1e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Blade Of Grief</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-blade-of-grief-7-30-chapters-v0-2-1-balances-and-map-reworks/14682</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1107 - Blade Of Grief</name>
+					<size>26812436</size>
+					<crc>a92f1a7b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1889,6 +1919,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Divine Army</name>
+				<comment>https://feuniverse.us/t/divine-army/14061</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1104 - Divine Army</name>
+					<size>16864020</size>
+					<crc>d10fabf6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Divine Inheritance</name>
 				<comment>https://feuniverse.us/t/fire-emblem-divine-inheritance-demo-released-first-9-chapters/13903</comment>
 				<publisher>Fan Modding</publisher>
@@ -2364,6 +2409,21 @@
 					<name>762 - FE4 Advance (joke demo)</name>
 					<size>22586360</size>
 					<crc>3b1913e8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE4 Link Arena</name>
+				<comment>https://feuniverse.us/t/fire-emblem-genealogy-of-the-holy-war-link-arena-proof-of-concept/14648</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1108 - FE4 Link Arena</name>
+					<size>19732436</size>
+					<crc>6bf20475</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2964,6 +3024,21 @@
 					<name>301 - FE6 Unit Swap (Hard)</name>
 					<size>16777532</size>
 					<crc>793e533c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Units in FE7</name>
+				<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1110 - FE6 Units in FE7</name>
+					<size>18656848</size>
+					<crc>7b52f748</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4665,6 +4740,21 @@
 					<name>745 - FE8 麻袋修改版</name>
 					<size>16809216</size>
 					<crc>3cc28078</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8+ Light Redux</name>
+				<comment>https://feuniverse.us/t/fe8-light-redux-release/10063</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1102 - FE8+ Light Redux</name>
+					<size>17018924</size>
+					<crc>3c27906f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6485,6 +6575,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Forde Emblem</name>
+				<comment>https://feuniverse.us/t/forde-emblem/13314</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1103 - Forde Emblem</name>
+					<size>17039672</size>
+					<crc>120fe80b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Foreboding Dusk</name>
 				<comment>https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459</comment>
 				<publisher>Fan Modding</publisher>
@@ -6786,7 +6891,7 @@
 		<directory>
 			<machine>
 				<name>Hector Saves Christmas Again</name>
-				<comment>https://github.com/sme23/Christmas2</comment>
+				<comment>https://feuniverse.us/t/fe8u-hector-saves-christmas-again/6770</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -7620,6 +7725,21 @@
 					<name>346 - Lyn Emblem</name>
 					<size>17039860</size>
 					<crc>63b047ee</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Lyn Emblem 7 - Attack of the Clones</name>
+				<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1111 - Lyn Emblem 7 - Attack of the Clones</name>
+					<size>17141592</size>
+					<crc>2b70ee89</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8670,6 +8790,21 @@
 					<name>1011 - Project RE7</name>
 					<size>30141292</size>
 					<crc>e299b969</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Project Sacred Stones v.0.2.5.1</name>
+				<comment>https://feuniverse.us/t/project-sacred-stones-v-0-2-5-1/12628</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1106 - Project Sacred Stones v</name>
+					<size>17044860</size>
+					<crc>a9d395a4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10655,6 +10790,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Final Swear 2 Director's Cut</name>
+				<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-directors-cut-completed/12599</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1105 - The Final Swear 2 Director's Cut</name>
+					<size>18405228</size>
+					<crc>8dd518fa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Final Swear 2</name>
 				<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696</comment>
 				<publisher>Fan Modding</publisher>
@@ -10785,6 +10935,21 @@
 					<name>103 - The Last Promise</name>
 					<size>32505856</size>
 					<crc>d1c6e5d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Last Promise 4 - Revenge of the Promise</name>
+				<comment>https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1113 - The Last Promise 4 - Revenge of the Promise</name>
+					<size>17639132</size>
+					<crc>c1a2d2ba</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11645,6 +11810,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Vision Quest Reverse Recruitment</name>
+				<comment>https://feuniverse.us/t/vision-quest-reverse-recruitment-complete/15597</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1101 - Vision Quest Reverse Recruitment</name>
+					<size>27530420</size>
+					<crc>e7c3945e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Voice Acting Tech Demo</name>
 				<comment>https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736</comment>
 				<publisher>Fan Modding</publisher>
@@ -11790,6 +11970,21 @@
 					<name>278 - Water Crest - Morps’s Quest For Pants</name>
 					<size>17267760</size>
 					<crc>95d4742f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>What if Bors was in FE7</name>
+				<comment>https://feuniverse.us/t/what-if-bors-was-in-fe7/13650</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1109 - What if Bors was in FE7</name>
+					<size>16787660</size>
+					<crc>122253da</crc>
 				</datitem>
 			</files>
 		</directory>

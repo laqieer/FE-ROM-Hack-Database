@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220331</version>
+		<version>20220401</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -99,6 +99,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-apocalypse-fe8-hack-5-out-of-30-chapters-done-wip/6847</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="456 - Apocalypse" size="23013240" crc="288de977" />
+	</machine>
+	<machine name="April Fool’s Day Hack">
+		<comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1112 - April Fool’s Day Hack" size="16911852" crc="dcda3cd2" />
 	</machine>
 	<machine name="Armour Emblem">
 		<comment>https://feuniverse.us/t/side-project-armor-emblem-fe8/7151</comment>
@@ -248,6 +253,11 @@
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-blackwing-struggle-technically-dead/6007</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
+	</machine>
+	<machine name="Blade Of Grief">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-blade-of-grief-7-30-chapters-v0-2-1-balances-and-map-reworks/14682</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1107 - Blade Of Grief" size="26812436" crc="a92f1a7b" />
 	</machine>
 	<machine name="Blades of the Blood Dunes">
 		<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
@@ -603,6 +613,11 @@
 		<publisher>Ragefest</publisher>
 		<rom name="523 - DISTORTION" size="19069656" crc="7cef7382" />
 	</machine>
+	<machine name="Divine Army">
+		<comment>https://feuniverse.us/t/divine-army/14061</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1104 - Divine Army" size="16864020" crc="d10fabf6" />
+	</machine>
 	<machine name="Divine Inheritance">
 		<comment>https://feuniverse.us/t/fire-emblem-divine-inheritance-demo-released-first-9-chapters/13903</comment>
 		<publisher>Fan Modding</publisher>
@@ -760,6 +775,11 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/39130-feiv-v0a-released/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="762 - FE4 Advance (joke demo)" size="22586360" crc="3b1913e8" />
+	</machine>
+	<machine name="FE4 Link Arena">
+		<comment>https://feuniverse.us/t/fire-emblem-genealogy-of-the-holy-war-link-arena-proof-of-concept/14648</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1108 - FE4 Link Arena" size="19732436" crc="6bf20475" />
 	</machine>
 	<machine name="FE4GBA - Genealogy in FE7">
 		<comment>https://feuniverse.us/t/fe4gba-genealogy-in-fe7/13406</comment>
@@ -959,6 +979,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-6-unit-swap/6732</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="301 - FE6 Unit Swap (Hard)" size="16777532" crc="793e533c" />
+	</machine>
+	<machine name="FE6 Units in FE7">
+		<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1110 - FE6 Units in FE7" size="18656848" crc="7b52f748" />
 	</machine>
 	<machine name="FE6 Weapon Reversal">
 		<comment>https://feuniverse.us/t/fe6-weapon-reversal/4851</comment>
@@ -1502,6 +1527,11 @@
 	<machine name="FE8 麻袋修改版">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="745 - FE8 麻袋修改版" size="16809216" crc="3cc28078" />
+	</machine>
+	<machine name="FE8+ Light Redux">
+		<comment>https://feuniverse.us/t/fe8-light-redux-release/10063</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1102 - FE8+ Light Redux" size="17018924" crc="3c27906f" />
 	</machine>
 	<machine name="FE8 803">
 		<publisher>Reskin/Rebalance</publisher>
@@ -2097,6 +2127,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="1012 - Flier Emblem - Return of the Circle" size="33554432" crc="78051f91" />
 	</machine>
+	<machine name="Forde Emblem">
+		<comment>https://feuniverse.us/t/forde-emblem/13314</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1103 - Forde Emblem" size="17039672" crc="120fe80b" />
+	</machine>
 	<machine name="Foreboding Dusk">
 		<comment>https://feuniverse.us/t/fe-foreboding-dusk-prequel-to-por-rd/1459</comment>
 		<publisher>Fan Modding</publisher>
@@ -2198,7 +2233,7 @@
 		<rom name="163 - Hector Saves Christmas" size="17089672" crc="6896d8c2" />
 	</machine>
 	<machine name="Hector Saves Christmas Again">
-		<comment>https://github.com/sme23/Christmas2</comment>
+		<comment>https://feuniverse.us/t/fe8u-hector-saves-christmas-again/6770</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="164 - Hector Saves Christmas Again" size="17415920" crc="e69b171f" />
 	</machine>
@@ -2473,6 +2508,11 @@
 		<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
+	</machine>
+	<machine name="Lyn Emblem 7 - Attack of the Clones">
+		<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1111 - Lyn Emblem 7 - Attack of the Clones" size="17141592" crc="2b70ee89" />
 	</machine>
 	<machine name="Lyn's Revenge">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -2823,6 +2863,11 @@
 		<comment>https://feuniverse.us/t/fe8-project-re7-port-fe7-using-fe8-engine-1st-release-we-need-still-testers-join-you-our-discord-server-for-info/9593</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="1011 - Project RE7" size="30141292" crc="e299b969" />
+	</machine>
+	<machine name="Project Sacred Stones v.0.2.5.1">
+		<comment>https://feuniverse.us/t/project-sacred-stones-v-0-2-5-1/12628</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1106 - Project Sacred Stones v" size="17044860" crc="a9d395a4" />
 	</machine>
 	<machine name="Prophecy of Flames">
 		<comment>https://feuniverse.us/t/fire-emblem-the-prophecy-of-flames/8033</comment>
@@ -3481,6 +3526,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="436 - The Empyrean Prophecy" size="29810060" crc="6039ab3f" />
 	</machine>
+	<machine name="The Final Swear 2 Director's Cut">
+		<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-directors-cut-completed/12599</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1105 - The Final Swear 2 Director's Cut" size="18405228" crc="8dd518fa" />
+	</machine>
 	<machine name="The Final Swear 2">
 		<comment>https://feuniverse.us/t/fe8u-the-final-swear-2-completed/6696</comment>
 		<publisher>Fan Modding</publisher>
@@ -3525,6 +3575,11 @@
 		<comment>http://www.feshrine.net/thelastpromise/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />
+	</machine>
+	<machine name="The Last Promise 4 - Revenge of the Promise">
+		<comment>https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1113 - The Last Promise 4 - Revenge of the Promise" size="17639132" crc="c1a2d2ba" />
 	</machine>
 	<machine name="The Last Promise (Chaos Mode DEMO)">
 		<comment>http://www.feshrine.net/thelastpromise/</comment>
@@ -3809,6 +3864,11 @@
 		<publisher>Blitz</publisher>
 		<rom name="637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry" size="18282704" crc="79786f56" />
 	</machine>
+	<machine name="Vision Quest Reverse Recruitment">
+		<comment>https://feuniverse.us/t/vision-quest-reverse-recruitment-complete/15597</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1101 - Vision Quest Reverse Recruitment" size="27530420" crc="e7c3945e" />
+	</machine>
 	<machine name="Voice Acting Tech Demo">
 		<comment>https://feuniverse.us/t/fe8-voice-acting-tech-demo-fe6-7-supp/6736</comment>
 		<publisher>Fan Modding</publisher>
@@ -3858,6 +3918,11 @@
 		<comment>https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+	</machine>
+	<machine name="What if Bors was in FE7">
+		<comment>https://feuniverse.us/t/what-if-bors-was-in-fe7/13650</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
 	</machine>
 	<machine name="Wheel Of Misfortune">
 		<comment>https://markyjoe.com/?page=rfdl</comment>

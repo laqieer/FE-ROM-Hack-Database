@@ -70,6 +70,10 @@ ROMs required for driver "Apocalypse".
 Name                                   Size Checksum
 456 - Apocalypse                   23013240 CRC(288de977)
 
+ROMs required for driver "April Fool’s Day Hack".
+Name                                   Size Checksum
+1112 - April Fool’s Day Hack       16911852 CRC(dcda3cd2)
+
 ROMs required for driver "Armour Emblem".
 Name                                   Size Checksum
 390 - Armour Emblem                19049856 CRC(9fe8fda0)
@@ -189,6 +193,10 @@ Name                                   Size Checksum
 ROMs required for driver "Blackwing Struggle".
 Name                                   Size Checksum
 429 - Blackwing Struggle           17622632 CRC(ee781f1e)
+
+ROMs required for driver "Blade Of Grief".
+Name                                   Size Checksum
+1107 - Blade Of Grief              26812436 CRC(a92f1a7b)
 
 ROMs required for driver "Blades of the Blood Dunes".
 Name                                   Size Checksum
@@ -474,6 +482,10 @@ ROMs required for driver "DISTORTION".
 Name                                   Size Checksum
 523 - DISTORTION                   19069656 CRC(7cef7382)
 
+ROMs required for driver "Divine Army".
+Name                                   Size Checksum
+1104 - Divine Army                 16864020 CRC(d10fabf6)
+
 ROMs required for driver "Divine Inheritance".
 Name                                   Size Checksum
 613 - Divine Inheritance           22947816 CRC(120ecc1f)
@@ -601,6 +613,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE4 Advance (joke demo)".
 Name                                   Size Checksum
 762 - FE4 Advance (joke demo)      22586360 CRC(3b1913e8)
+
+ROMs required for driver "FE4 Link Arena".
+Name                                   Size Checksum
+1108 - FE4 Link Arena              19732436 CRC(6bf20475)
 
 ROMs required for driver "FE4GBA - Genealogy in FE7".
 Name                                   Size Checksum
@@ -761,6 +777,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE6 Unit Swap (Hard)".
 Name                                   Size Checksum
 301 - FE6 Unit Swap (Hard)         16777532 CRC(793e533c)
+
+ROMs required for driver "FE6 Units in FE7".
+Name                                   Size Checksum
+1110 - FE6 Units in FE7            18656848 CRC(7b52f748)
 
 ROMs required for driver "FE6 Weapon Reversal".
 Name                                   Size Checksum
@@ -1214,6 +1234,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 麻袋修改版".
 Name                                   Size Checksum
 745 - FE8 麻袋修改版                    16809216 CRC(3cc28078)
+
+ROMs required for driver "FE8+ Light Redux".
+Name                                   Size Checksum
+1102 - FE8+ Light Redux            17018924 CRC(3c27906f)
 
 ROMs required for driver "FE8 803".
 Name                                   Size Checksum
@@ -1699,6 +1723,10 @@ ROMs required for driver "Flier Emblem - Return of the Circle".
 Name                                   Size Checksum
 1012 - Flier Emblem - Return of the Circle33554432 CRC(78051f91)
 
+ROMs required for driver "Forde Emblem".
+Name                                   Size Checksum
+1103 - Forde Emblem                17039672 CRC(120fe80b)
+
 ROMs required for driver "Foreboding Dusk".
 Name                                   Size Checksum
 244 - Foreboding Dusk              16888400 CRC(2220983b)
@@ -2003,13 +2031,17 @@ ROMs required for driver "Lyn Emblem".
 Name                                   Size Checksum
 346 - Lyn Emblem                   17039860 CRC(63b047ee)
 
+ROMs required for driver "Lyn Emblem 7 - Attack of the Clones".
+Name                                   Size Checksum
+1111 - Lyn Emblem 7 - Attack of the Clones17141592 CRC(2b70ee89)
+
 ROMs required for driver "Lyn's Revenge".
 Name                                   Size Checksum
 519 - Lyn's Revenge                16797544 CRC(57fe60ed)
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M                            18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2282,6 +2314,10 @@ Name                                   Size Checksum
 ROMs required for driver "Project RE7".
 Name                                   Size Checksum
 1011 - Project RE7                 30141292 CRC(e299b969)
+
+ROMs required for driver "Project Sacred Stones v.0.2.5.1".
+Name                                   Size Checksum
+1106 - Project Sacred Stones v     17044860 CRC(a9d395a4)
 
 ROMs required for driver "Prophecy of Flames".
 Name                                   Size Checksum
@@ -2811,6 +2847,10 @@ ROMs required for driver "The Empyrean Prophecy".
 Name                                   Size Checksum
 436 - The Empyrean Prophecy        29810060 CRC(6039ab3f)
 
+ROMs required for driver "The Final Swear 2 Director's Cut".
+Name                                   Size Checksum
+1105 - The Final Swear 2 Director's Cut18405228 CRC(8dd518fa)
+
 ROMs required for driver "The Final Swear 2".
 Name                                   Size Checksum
 191 - The Final Swear 2            18404968 CRC(fb400d2d)
@@ -2846,6 +2886,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Last Promise".
 Name                                   Size Checksum
 103 - The Last Promise             32505856 CRC(d1c6e5d5)
+
+ROMs required for driver "The Last Promise 4 - Revenge of the Promise".
+Name                                   Size Checksum
+1113 - The Last Promise 4 - Revenge of the Promise          17639132 CRC(c1a2d2ba)
 
 ROMs required for driver "The Last Promise (Chaos Mode DEMO)".
 Name                                   Size Checksum
@@ -3075,6 +3119,10 @@ ROMs required for driver "Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hun
 Name                                   Size Checksum
 637 - Vesly's 1h Blitz - Cloud’s Pet Sephiroth is Very Hungry          18282704 CRC(79786f56)
 
+ROMs required for driver "Vision Quest Reverse Recruitment".
+Name                                   Size Checksum
+1101 - Vision Quest Reverse Recruitment27530420 CRC(e7c3945e)
+
 ROMs required for driver "Voice Acting Tech Demo".
 Name                                   Size Checksum
 193 - Voice Acting Tech Demo       17337768 CRC(c2cd5264)
@@ -3114,6 +3162,10 @@ Name                                   Size Checksum
 ROMs required for driver "Water Crest - Morps’s Quest For Pants".
 Name                                   Size Checksum
 278 - Water Crest - Morps’s Quest For Pants          17267760 CRC(95d4742f)
+
+ROMs required for driver "What if Bors was in FE7".
+Name                                   Size Checksum
+1109 - What if Bors was in FE7     16787660 CRC(122253da)
 
 ROMs required for driver "Wheel Of Misfortune".
 Name                                   Size Checksum

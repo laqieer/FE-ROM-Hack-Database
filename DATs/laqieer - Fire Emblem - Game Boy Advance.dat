@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220401"
+	version "20220402"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -122,7 +122,7 @@ game (
 game (
 	name "Ash Blossom"
 	description "Ash Blossom"
-	rom ( name "612 - Ash Blossom" size "19248556" crc "6644733c" )
+	rom ( name "612 - Ash Blossom" size "19351992" crc "b4c8db1f" )
 )
 game (
 	name "Asks Attorney Investigations"
@@ -2741,6 +2741,11 @@ game (
 	rom ( name "625 - OC Emblem Redux" size "17590124" crc "c3d04286" )
 )
 game (
+	name "Ode to Thracia"
+	description "Ode to Thracia"
+	rom ( name "1118 - Ode to Thracia" size "17204608" crc "decb2e4c" )
+)
+game (
 	name "Old Fire Mumblem"
 	description "Old Fire Mumblem"
 	rom ( name "496 - Old Fire Mumblem" size "16838132" crc "04cfa619" )
@@ -3356,6 +3361,11 @@ game (
 	rom ( name "236 - Storge" size "20034916" crc "079106d8" )
 )
 game (
+	name "Storge (Chinese Translation)"
+	description "Storge (Chinese Translation)"
+	rom ( name "1114 - Storge (Chinese Translation)" size "21522516" crc "e9717995" )
+)
+game (
 	name "Subtitle"
 	description "Subtitle"
 	rom ( name "992 - Subtitle" size "21481648" crc "1b59d8ea" )
@@ -3771,9 +3781,19 @@ game (
 	rom ( name "172 - The Sacred War (Starting Version - v1" size "31133988" crc "9ff4790d" )
 )
 game (
+	name "The Sadist Stones I"
+	description "The Sadist Stones I"
+	rom ( name "1116 - The Sadist Stones I" size "31662360" crc "89877437" )
+)
+game (
 	name "The Sadist Stones II"
 	description "The Sadist Stones II"
 	rom ( name "1100 - The Sadist Stones II" size "33300508" crc "d915ef65" )
+)
+game (
+	name "The Sadist Stones III"
+	description "The Sadist Stones III"
+	rom ( name "1117 - The Sadist Stones III" size "27507920" crc "55c5e0af" )
 )
 game (
 	name "The Seven Keys"
@@ -4664,6 +4684,11 @@ game (
 	name "暗黑の黎明"
 	description "暗黑の黎明"
 	rom ( name "806 - 暗黑の黎明" size "24837392" crc "a387b295" )
+)
+game (
+	name "暗黑龙重生(Chinese Translation)"
+	description "暗黑龙重生(Chinese Translation)"
+	rom ( name "1115 - 暗黑龙重生(Chinese Translation)" size "20969588" crc "12e234a4" )
 )
 game (
 	name "最帅修改 圣魔新地图"

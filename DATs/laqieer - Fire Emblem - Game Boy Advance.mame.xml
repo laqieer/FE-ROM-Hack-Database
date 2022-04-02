@@ -67,7 +67,7 @@
 		<rom name="534 - Art of Forde" size="19443668" crc="0038731b" />
 	</machine>
 	<machine name="Ash Blossom">
-		<rom name="612 - Ash Blossom" size="19248556" crc="6644733c" />
+		<rom name="612 - Ash Blossom" size="19351992" crc="b4c8db1f" />
 	</machine>
 	<machine name="Asks Attorney Investigations">
 		<rom name="537 - Asks Attorney Investigations" size="18548704" crc="809a5207" />
@@ -1639,6 +1639,9 @@
 	<machine name="OC Emblem Redux">
 		<rom name="625 - OC Emblem Redux" size="17590124" crc="c3d04286" />
 	</machine>
+	<machine name="Ode to Thracia">
+		<rom name="1118 - Ode to Thracia" size="17204608" crc="decb2e4c" />
+	</machine>
 	<machine name="Old Fire Mumblem">
 		<rom name="496 - Old Fire Mumblem" size="16838132" crc="04cfa619" />
 	</machine>
@@ -2008,6 +2011,9 @@
 	<machine name="Storge">
 		<rom name="236 - Storge" size="20034916" crc="079106d8" />
 	</machine>
+	<machine name="Storge (Chinese Translation)">
+		<rom name="1114 - Storge (Chinese Translation)" size="21522516" crc="e9717995" />
+	</machine>
 	<machine name="Subtitle">
 		<rom name="992 - Subtitle" size="21481648" crc="1b59d8ea" />
 	</machine>
@@ -2257,8 +2263,14 @@
 	<machine name="The Sacred War (Starting Version - v1.36)">
 		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
 	</machine>
+	<machine name="The Sadist Stones I">
+		<rom name="1116 - The Sadist Stones I" size="31662360" crc="89877437" />
+	</machine>
 	<machine name="The Sadist Stones II">
 		<rom name="1100 - The Sadist Stones II" size="33300508" crc="d915ef65" />
+	</machine>
+	<machine name="The Sadist Stones III">
+		<rom name="1117 - The Sadist Stones III" size="27507920" crc="55c5e0af" />
 	</machine>
 	<machine name="The Seven Keys">
 		<rom name="1003 - The Seven Keys" size="21411712" crc="66c28210" />
@@ -2793,6 +2805,9 @@
 	</machine>
 	<machine name="暗黑の黎明">
 		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
+	</machine>
+	<machine name="暗黑龙重生(Chinese Translation)">
+		<rom name="1115 - 暗黑龙重生(Chinese Translation)" size="20969588" crc="12e234a4" />
 	</machine>
 	<machine name="最帅修改 圣魔新地图">
 		<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />

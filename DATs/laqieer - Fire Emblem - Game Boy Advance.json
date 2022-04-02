@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220401",
+		"version": "20220402",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -513,8 +513,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "612 - Ash Blossom",
-						"size": 19248556,
-						"crc": "6644733c"
+						"size": 19351992,
+						"crc": "b4c8db1f"
 					}
 				}
 			]
@@ -9943,6 +9943,24 @@
 		},
 		{
 			"machine": {
+				"name": "Ode to Thracia",
+				"comment": "https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1118 - Ode to Thracia",
+						"size": 17204608,
+						"crc": "decb2e4c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Old Fire Mumblem",
 				"comment": "https://fecentral.org/?page=hackinfo&hackid=56",
 				"description": null,
@@ -12157,6 +12175,24 @@
 		},
 		{
 			"machine": {
+				"name": "Storge (Chinese Translation)",
+				"comment": "v1.1",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1114 - Storge (Chinese Translation)",
+						"size": 21522516,
+						"crc": "e9717995"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Subtitle",
 				"comment": "https://feuniverse.us/t/wip-subtitle/13793",
 				"description": null,
@@ -13651,6 +13687,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Sadist Stones I",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1116 - The Sadist Stones I",
+						"size": 31662360,
+						"crc": "89877437"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Sadist Stones II",
 				"comment": "https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014",
 				"description": null,
@@ -13663,6 +13717,24 @@
 						"name": "1100 - The Sadist Stones II",
 						"size": 33300508,
 						"crc": "d915ef65"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sadist Stones III",
+				"comment": "https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1117 - The Sadist Stones III",
+						"size": 27507920,
+						"crc": "55c5e0af"
 					}
 				}
 			]
@@ -16867,6 +16939,24 @@
 						"name": "806 - 暗黑の黎明",
 						"size": 24837392,
 						"crc": "a387b295"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "暗黑龙重生(Chinese Translation)",
+				"comment": "v1.4",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1115 - 暗黑龙重生(Chinese Translation)",
+						"size": 20969588,
+						"crc": "12e234a4"
 					}
 				}
 			]

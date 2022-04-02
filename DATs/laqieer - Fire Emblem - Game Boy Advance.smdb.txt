@@ -20,7 +20,7 @@
 	Armour Emblem/390 - Armour Emblem			9fe8fda0	19049856
 	Array Of Randomness/525 - Array Of Randomness			95b209ee	16862104
 	Art of Forde/534 - Art of Forde			0038731b	19443668
-	Ash Blossom/612 - Ash Blossom			6644733c	19248556
+	Ash Blossom/612 - Ash Blossom			b4c8db1f	19351992
 	Asks Attorney Investigations/537 - Asks Attorney Investigations			809a5207	18548704
 	Asylum Of Irony/532 - Asylum Of Irony			98402613	19807284
 	Athos Mode/262 - Athos Mode			2f511659	16788472
@@ -509,7 +509,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -545,6 +545,7 @@
 	OC Emblem/413 - OC Emblem			5f29fe04	21489356
 	OC Emblem - Endgame/670 - OC Emblem - Endgame			724d68da	20235124
 	OC Emblem Redux/625 - OC Emblem Redux			c3d04286	17590124
+	Ode to Thracia/1118 - Ode to Thracia			decb2e4c	17204608
 	Old Fire Mumblem/496 - Old Fire Mumblem			04cfa619	16838132
 	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
 	One-Week Hack/171 - One-Week Hack			fb464aca	17087876
@@ -578,7 +579,7 @@
 	Project Ember (with Alternate Promotions)/318 - Project Ember (with Alternate Promotions)			7d2a640c	25029976
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project RE7/1011 - Project RE7			e299b969	30141292
-	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v.0			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216
@@ -668,6 +669,7 @@
 	Starlit Souls/588 - Starlit Souls			f4a0ab81	23069924
 	Stones of a Divine Dragon/287 - Stones of a Divine Dragon			05c2a230	33554436
 	Storge/236 - Storge			079106d8	20034916
+	Storge (Chinese Translation)/1114 - Storge (Chinese Translation)			e9717995	21522516
 	Subtitle/992 - Subtitle			1b59d8ea	21481648
 	SubwayBossEmmett's Two Hour Blitz - Royal Escape/604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape			079fc81e	16826076
 	Sun God's Wrath Kaizo Edition by April/1054 - Sun God's Wrath Kaizo Edition by April			b65c47da	33374508
@@ -751,7 +753,9 @@
 	The Sacred Stones - FE7 Crossover/552 - The Sacred Stones - FE7 Crossover			1749e41f	16777216
 	The Sacred War (Final Update - v1.51)/173 - The Sacred War (Final Update - v1			8dc775b2	31187848
 	The Sacred War (Starting Version - v1.36)/172 - The Sacred War (Starting Version - v1			9ff4790d	31133988
+	The Sadist Stones I/1116 - The Sadist Stones I			89877437	31662360
 	The Sadist Stones II/1100 - The Sadist Stones II			d915ef65	33300508
+	The Sadist Stones III/1117 - The Sadist Stones III			55c5e0af	27507920
 	The Seven Keys/1003 - The Seven Keys			66c28210	21411712
 	The Sun God’s Wrath/217 - The Sun God’s Wrath			cc06a4ef	33007088
 	The Sun God’s Wrath (0 growth)/218 - The Sun God’s Wrath (0 growth)			7def8770	33007108
@@ -930,6 +934,7 @@
 	暗之彼方/866 - 暗之彼方			d348549a	33113720
 	暗之魔女/783 - 暗之魔女			5f847710	18874368
 	暗黑の黎明/806 - 暗黑の黎明			a387b295	24837392
+	暗黑龙重生(Chinese Translation)/1115 - 暗黑龙重生(Chinese Translation)			12e234a4	20969588
 	最帅修改 圣魔新地图/951 - 最帅修改 圣魔新地图			24eadfef	16777216
 	最帅出品 圣邪地狱篇/950 - 最帅出品 圣邪地狱篇			6843b393	16777300
 	最帅改版 封印无敌篇/934 - 最帅改版 封印无敌篇			f1787236	10415546

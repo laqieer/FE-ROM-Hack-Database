@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220401</version>
+		<version>20220402</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -123,7 +123,7 @@
 	<machine name="Ash Blossom">
 		<comment>https://feuniverse.us/t/fe8-demo-fire-emblem-ash-blossom/13825</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="612 - Ash Blossom" size="19248556" crc="6644733c" />
+		<rom name="612 - Ash Blossom" size="19351992" crc="b4c8db1f" />
 	</machine>
 	<machine name="Asks Attorney Investigations">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -2699,6 +2699,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="625 - OC Emblem Redux" size="17590124" crc="c3d04286" />
 	</machine>
+	<machine name="Ode to Thracia">
+		<comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1118 - Ode to Thracia" size="17204608" crc="decb2e4c" />
+	</machine>
 	<machine name="Old Fire Mumblem">
 		<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
 		<publisher>Fan Modding</publisher>
@@ -3313,6 +3318,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="236 - Storge" size="20034916" crc="079106d8" />
 	</machine>
+	<machine name="Storge (Chinese Translation)">
+		<comment>v1.1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1114 - Storge (Chinese Translation)" size="21522516" crc="e9717995" />
+	</machine>
 	<machine name="Subtitle">
 		<comment>https://feuniverse.us/t/wip-subtitle/13793</comment>
 		<publisher>Fan Modding</publisher>
@@ -3725,10 +3735,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="172 - The Sacred War (Starting Version - v1" size="31133988" crc="9ff4790d" />
 	</machine>
+	<machine name="The Sadist Stones I">
+		<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1116 - The Sadist Stones I" size="31662360" crc="89877437" />
+	</machine>
 	<machine name="The Sadist Stones II">
 		<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1100 - The Sadist Stones II" size="33300508" crc="d915ef65" />
+	</machine>
+	<machine name="The Sadist Stones III">
+		<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1117 - The Sadist Stones III" size="27507920" crc="55c5e0af" />
 	</machine>
 	<machine name="The Seven Keys">
 		<comment>https://feuniverse.us/t/fire-emblem-the-seven-keys/12832</comment>
@@ -4533,6 +4553,11 @@
 	<machine name="暗黑の黎明">
 		<publisher>Fan Modding</publisher>
 		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
+	</machine>
+	<machine name="暗黑龙重生(Chinese Translation)">
+		<comment>v1.4</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1115 - 暗黑龙重生(Chinese Translation)" size="20969588" crc="12e234a4" />
 	</machine>
 	<machine name="最帅修改 圣魔新地图">
 		<publisher>Reskin/Rebalance</publisher>

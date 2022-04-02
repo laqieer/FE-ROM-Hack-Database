@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220401</version>
+		<version>20220402</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -442,8 +442,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>612 - Ash Blossom</name>
-					<size>19248556</size>
-					<crc>6644733c</crc>
+					<size>19351992</size>
+					<crc>b4c8db1f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8300,6 +8300,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Ode to Thracia</name>
+				<comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1118 - Ode to Thracia</name>
+					<size>17204608</size>
+					<crc>decb2e4c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Old Fire Mumblem</name>
 				<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
 				<publisher>Fan Modding</publisher>
@@ -10145,6 +10160,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Storge (Chinese Translation)</name>
+				<comment>v1.1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1114 - Storge (Chinese Translation)</name>
+					<size>21522516</size>
+					<crc>e9717995</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Subtitle</name>
 				<comment>https://feuniverse.us/t/wip-subtitle/13793</comment>
 				<publisher>Fan Modding</publisher>
@@ -11390,6 +11420,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Sadist Stones I</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1116 - The Sadist Stones I</name>
+					<size>31662360</size>
+					<crc>89877437</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Sadist Stones II</name>
 				<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -11400,6 +11445,21 @@
 					<name>1100 - The Sadist Stones II</name>
 					<size>33300508</size>
 					<crc>d915ef65</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sadist Stones III</name>
+				<comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1117 - The Sadist Stones III</name>
+					<size>27507920</size>
+					<crc>55c5e0af</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14070,6 +14130,21 @@
 					<name>806 - 暗黑の黎明</name>
 					<size>24837392</size>
 					<crc>a387b295</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>暗黑龙重生(Chinese Translation)</name>
+				<comment>v1.4</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1115 - 暗黑龙重生(Chinese Translation)</name>
+					<size>20969588</size>
+					<crc>12e234a4</crc>
 				</datitem>
 			</files>
 		</directory>

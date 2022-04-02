@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220401</datVersion>
+    <datVersion>20220402</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -9782,16 +9782,16 @@
       <releaseNumber>612</releaseNumber>
       <title>Ash Blossom</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>19248556</romSize>
+      <romSize>19351992</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>Psyche</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">6644733C</romCRC>
+        <romCRC extension=".gba">B4C8DB1F</romCRC>
       </files>
-      <im1CRC>012D1996</im1CRC>
-      <im2CRC>770A8DB7</im2CRC>
+      <im1CRC>5818A243</im1CRC>
+      <im2CRC>ECC4E087</im2CRC>
       <comment>https://feuniverse.us/t/fe8-demo-fire-emblem-ash-blossom/13825</comment>
       <duplicateID>0</duplicateID>
     </game>
@@ -18811,6 +18811,96 @@
       <im1CRC>852F07B3</im1CRC>
       <im2CRC>A9EDA891</im2CRC>
       <comment>https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1114</imageNumber>
+      <releaseNumber>1114</releaseNumber>
+      <title>Storge (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21522516</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>冬瓜</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">E9717995</romCRC>
+      </files>
+      <im1CRC>C95B56C4</im1CRC>
+      <im2CRC>21ACDE0B</im2CRC>
+      <comment>v1.1</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1115</imageNumber>
+      <releaseNumber>1115</releaseNumber>
+      <title>暗黑龙重生(Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>20969588</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>与寂寞相伴的逍遥X6</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">12E234A4</romCRC>
+      </files>
+      <im1CRC>6245261C</im1CRC>
+      <im2CRC>3B2461D3</im2CRC>
+      <comment>v1.4</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1116</imageNumber>
+      <releaseNumber>1116</releaseNumber>
+      <title>The Sadist Stones I</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>31662360</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Rodge_Aurablader</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">89877437</romCRC>
+      </files>
+      <im1CRC>883C68AD</im1CRC>
+      <im2CRC>FB665679</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1117</imageNumber>
+      <releaseNumber>1117</releaseNumber>
+      <title>The Sadist Stones III</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>27507920</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Rodge_Aurablader</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">55C5E0AF</romCRC>
+      </files>
+      <im1CRC>9FAA36D4</im1CRC>
+      <im2CRC>744A7FA8</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-the-sadist-stones-ii-beta-final-update-until-bof-lps/12014</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1118</imageNumber>
+      <releaseNumber>1118</releaseNumber>
+      <title>Ode to Thracia</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17204608</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>ArcherBias</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DECB2E4C</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>EAC56969</im2CRC>
+      <comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

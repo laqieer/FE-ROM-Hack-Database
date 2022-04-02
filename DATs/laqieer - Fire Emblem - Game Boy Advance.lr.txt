@@ -88,7 +88,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Ash Blossom".
 Name                                   Size Checksum
-612 - Ash Blossom                  19248556 CRC(6644733c)
+612 - Ash Blossom                  19351992 CRC(b4c8db1f)
 
 ROMs required for driver "Asks Attorney Investigations".
 Name                                   Size Checksum
@@ -2041,7 +2041,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2182,6 +2182,10 @@ Name                                   Size Checksum
 ROMs required for driver "OC Emblem Redux".
 Name                                   Size Checksum
 625 - OC Emblem Redux              17590124 CRC(c3d04286)
+
+ROMs required for driver "Ode to Thracia".
+Name                                   Size Checksum
+1118 - Ode to Thracia              17204608 CRC(decb2e4c)
 
 ROMs required for driver "Old Fire Mumblem".
 Name                                   Size Checksum
@@ -2675,6 +2679,10 @@ ROMs required for driver "Storge".
 Name                                   Size Checksum
 236 - Storge                       20034916 CRC(079106d8)
 
+ROMs required for driver "Storge (Chinese Translation)".
+Name                                   Size Checksum
+1114 - Storge (Chinese Translation)21522516 CRC(e9717995)
+
 ROMs required for driver "Subtitle".
 Name                                   Size Checksum
 992 - Subtitle                     21481648 CRC(1b59d8ea)
@@ -3007,9 +3015,17 @@ ROMs required for driver "The Sacred War (Starting Version - v1.36)".
 Name                                   Size Checksum
 172 - The Sacred War (Starting Version - v1          31133988 CRC(9ff4790d)
 
+ROMs required for driver "The Sadist Stones I".
+Name                                   Size Checksum
+1116 - The Sadist Stones I         31662360 CRC(89877437)
+
 ROMs required for driver "The Sadist Stones II".
 Name                                   Size Checksum
 1100 - The Sadist Stones II        33300508 CRC(d915ef65)
+
+ROMs required for driver "The Sadist Stones III".
+Name                                   Size Checksum
+1117 - The Sadist Stones III       27507920 CRC(55c5e0af)
 
 ROMs required for driver "The Seven Keys".
 Name                                   Size Checksum
@@ -3722,6 +3738,10 @@ Name                                   Size Checksum
 ROMs required for driver "暗黑の黎明".
 Name                                   Size Checksum
 806 - 暗黑の黎明                        24837392 CRC(a387b295)
+
+ROMs required for driver "暗黑龙重生(Chinese Translation)".
+Name                                   Size Checksum
+1115 - 暗黑龙重生(Chinese Translation)  20969588 CRC(12e234a4)
 
 ROMs required for driver "最帅修改 圣魔新地图".
 Name                                   Size Checksum

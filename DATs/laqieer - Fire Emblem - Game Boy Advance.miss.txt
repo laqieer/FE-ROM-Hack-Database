@@ -545,6 +545,7 @@
 413 - OC Emblem
 670 - OC Emblem - Endgame
 625 - OC Emblem Redux
+1118 - Ode to Thracia
 496 - Old Fire Mumblem
 151 - One-Turn-Clear
 171 - One-Week Hack
@@ -668,6 +669,7 @@
 588 - Starlit Souls
 287 - Stones of a Divine Dragon
 236 - Storge
+1114 - Storge (Chinese Translation)
 992 - Subtitle
 604 - SubwayBossEmmett's Two Hour Blitz - Royal Escape
 1054 - Sun God's Wrath Kaizo Edition by April
@@ -751,7 +753,9 @@
 552 - The Sacred Stones - FE7 Crossover
 173 - The Sacred War (Final Update - v1
 172 - The Sacred War (Starting Version - v1
+1116 - The Sadist Stones I
 1100 - The Sadist Stones II
+1117 - The Sadist Stones III
 1003 - The Seven Keys
 217 - The Sun God’s Wrath
 218 - The Sun God’s Wrath (0 growth)
@@ -930,6 +934,7 @@
 866 - 暗之彼方
 783 - 暗之魔女
 806 - 暗黑の黎明
+1115 - 暗黑龙重生(Chinese Translation)
 951 - 最帅修改 圣魔新地图
 950 - 最帅出品 圣邪地狱篇
 934 - 最帅改版 封印无敌篇

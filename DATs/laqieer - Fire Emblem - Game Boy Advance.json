@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220402",
+		"version": "20220403",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "0sheng mo",
+				"name": "756 - 0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -7741,6 +7741,42 @@
 						"name": "134 - Fire Emblem Versus",
 						"size": 16777284,
 						"crc": "47ba1139"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Mehblem",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1120 - Fire Mehblem",
+						"size": 8991604,
+						"crc": "56fe24f3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Mehblem (Balanced)",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1121 - Fire Mehblem (Balanced)",
+						"size": 8991604,
+						"crc": "268975f2"
 					}
 				}
 			]
@@ -16543,6 +16579,24 @@
 						"name": "905 - 强大的女皇",
 						"size": 16777216,
 						"crc": "4b4086ff"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "愚人节故事",
+				"comment": "https://feuniverse.us/t/april-fools-day-hack/15582",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1119 - 愚人节故事",
+						"size": 17216680,
+						"crc": "736ebf5a"
 					}
 				}
 			]

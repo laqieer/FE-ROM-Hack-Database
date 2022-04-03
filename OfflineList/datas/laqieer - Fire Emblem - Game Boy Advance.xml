@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220402</datVersion>
+    <datVersion>20220403</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -18901,6 +18901,60 @@
       <im1CRC>CF60B327</im1CRC>
       <im2CRC>EAC56969</im2CRC>
       <comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1119</imageNumber>
+      <releaseNumber>1119</releaseNumber>
+      <title>愚人节故事</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17216680</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>laqieer</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">736EBF5A</romCRC>
+      </files>
+      <im1CRC>B5B8D29A</im1CRC>
+      <im2CRC>BF84ACB7</im2CRC>
+      <comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1120</imageNumber>
+      <releaseNumber>1120</releaseNumber>
+      <title>Fire Mehblem</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8991604</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>AnnaAddict</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">56FE24F3</romCRC>
+      </files>
+      <im1CRC>F5C63D4D</im1CRC>
+      <im2CRC>E94459E6</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1121</imageNumber>
+      <releaseNumber>1121</releaseNumber>
+      <title>Fire Mehblem (Balanced)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>8991604</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>AnnaAddict</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">268975F2</romCRC>
+      </files>
+      <im1CRC>F5C63D4D</im1CRC>
+      <im2CRC>8565801D</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

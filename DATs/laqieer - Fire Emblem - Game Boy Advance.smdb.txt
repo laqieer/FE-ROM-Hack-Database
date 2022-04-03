@@ -1,4 +1,4 @@
-	0sheng mo/756 - 0sheng mo			9179c574	16777216
+	756 - 0sheng mo/756 - 0sheng mo			9179c574	16777216
 	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			44f08e5b	24646064
@@ -423,6 +423,8 @@
 	Fire Emblem Sengoku/451 - Fire Emblem Sengoku			8749de83	21393244
 	Fire Emblem Time Scarred Time Lines - The Beginning/466 - Fire Emblem Time Scarred Time Lines - The Beginning			b9c68cfe	17270412
 	Fire Emblem Versus/134 - Fire Emblem Versus			47ba1139	16777284
+	Fire Mehblem/1120 - Fire Mehblem			56fe24f3	8991604
+	Fire Mehblem (Balanced)/1121 - Fire Mehblem (Balanced)			268975f2	8991604
 	Fire Memeblem 0/335 - Fire Memeblem 0			6b404381	16777280
 	Fire Memeblem True 0/336 - Fire Memeblem True 0			e25c779f	16777332
 	Flame Seal - The Knight of Light/678 - Flame Seal - The Knight of Light			94588dc5	26350620
@@ -509,7 +511,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M. E			048eb1b6	18427704
+	M. E. R. C. S./467 - M			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -579,7 +581,7 @@
 	Project Ember (with Alternate Promotions)/318 - Project Ember (with Alternate Promotions)			7d2a640c	25029976
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project RE7/1011 - Project RE7			e299b969	30141292
-	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v.0			a9d395a4	17044860
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216
@@ -912,6 +914,7 @@
 	幽影华尔兹/811 - 幽影华尔兹			c37960cd	25919968
 	异界旅者/881 - 异界旅者			5b1de0b8	25891756
 	强大的女皇/905 - 强大的女皇			4b4086ff	16777216
+	愚人节故事/1119 - 愚人节故事			736ebf5a	17216680
 	放开那个魔王/900 - 放开那个魔王			38f11041	19019252
 	新公主同盟/925 - 新公主同盟			bb40f18a	22946116
 	新圣火微章/921 - 新圣火微章			20c552d6	27446884

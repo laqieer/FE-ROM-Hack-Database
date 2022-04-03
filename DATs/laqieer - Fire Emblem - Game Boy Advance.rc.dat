@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220402
+version=20220403
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -11,7 +11,7 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
+¬¬¬756 - 0sheng mo¬756 - 0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬0的逆圣魔¬0的逆圣魔¬853 - 0的逆圣魔¬077d94bb¬20252024¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
 ¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬44f08e5b¬24646064¬¬¬
@@ -436,6 +436,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem Sengoku¬Fire Emblem Sengoku¬451 - Fire Emblem Sengoku¬8749de83¬21393244¬¬¬
 ¬¬¬Fire Emblem Time Scarred Time Lines - The Beginning¬Fire Emblem Time Scarred Time Lines - The Beginning¬466 - Fire Emblem Time Scarred Time Lines - The Beginning¬b9c68cfe¬17270412¬¬¬
 ¬¬¬Fire Emblem Versus¬Fire Emblem Versus¬134 - Fire Emblem Versus¬47ba1139¬16777284¬¬¬
+¬¬¬Fire Mehblem¬Fire Mehblem¬1120 - Fire Mehblem¬56fe24f3¬8991604¬¬¬
+¬¬¬Fire Mehblem (Balanced)¬Fire Mehblem (Balanced)¬1121 - Fire Mehblem (Balanced)¬268975f2¬8991604¬¬¬
 ¬¬¬Fire Memeblem 0¬Fire Memeblem 0¬335 - Fire Memeblem 0¬6b404381¬16777280¬¬¬
 ¬¬¬Fire Memeblem True 0¬Fire Memeblem True 0¬336 - Fire Memeblem True 0¬e25c779f¬16777332¬¬¬
 ¬¬¬Flame Seal - The Knight of Light¬Flame Seal - The Knight of Light¬678 - Flame Seal - The Knight of Light¬94588dc5¬26350620¬¬¬
@@ -925,6 +927,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬幽影华尔兹¬幽影华尔兹¬811 - 幽影华尔兹¬c37960cd¬25919968¬¬¬
 ¬¬¬异界旅者¬异界旅者¬881 - 异界旅者¬5b1de0b8¬25891756¬¬¬
 ¬¬¬强大的女皇¬强大的女皇¬905 - 强大的女皇¬4b4086ff¬16777216¬¬¬
+¬¬¬愚人节故事¬愚人节故事¬1119 - 愚人节故事¬736ebf5a¬17216680¬¬¬
 ¬¬¬放开那个魔王¬放开那个魔王¬900 - 放开那个魔王¬38f11041¬19019252¬¬¬
 ¬¬¬新公主同盟¬新公主同盟¬925 - 新公主同盟¬bb40f18a¬22946116¬¬¬
 ¬¬¬新圣火微章¬新圣火微章¬921 - 新圣火微章¬20c552d6¬27446884¬¬¬

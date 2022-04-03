@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220402</version>
+		<version>20220403</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -2091,6 +2091,16 @@
 		<comment>https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
+	</machine>
+	<machine name="Fire Mehblem">
+		<comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1120 - Fire Mehblem" size="8991604" crc="56fe24f3" />
+	</machine>
+	<machine name="Fire Mehblem (Balanced)">
+		<comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1121 - Fire Mehblem (Balanced)" size="8991604" crc="268975f2" />
 	</machine>
 	<machine name="Fire Memeblem 0">
 		<comment>https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205</comment>
@@ -4456,6 +4466,11 @@
 	<machine name="强大的女皇">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="905 - 强大的女皇" size="16777216" crc="4b4086ff" />
+	</machine>
+	<machine name="愚人节故事">
+		<comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1119 - 愚人节故事" size="17216680" crc="736ebf5a" />
 	</machine>
 	<machine name="放开那个魔王">
 		<comment>前8章测试版</comment>

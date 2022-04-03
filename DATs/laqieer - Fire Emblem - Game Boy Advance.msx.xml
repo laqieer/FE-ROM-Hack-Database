@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>0sheng mo</title>
+		<title>756 - 0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5507,6 +5507,32 @@
 	</software>
 	<software>
 		<title>Fire Emblem Versus</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Mehblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Fire Mehblem (Balanced)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -11864,6 +11890,19 @@
 	</software>
 	<software>
 		<title>强大的女皇</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>愚人节故事</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

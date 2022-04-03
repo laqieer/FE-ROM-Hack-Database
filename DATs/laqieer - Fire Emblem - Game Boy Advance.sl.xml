@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="0sheng mo">
+	<software name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -3395,6 +3395,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Mehblem">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1120 - Fire Mehblem" size="8991604" crc="56fe24f3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Mehblem (Balanced)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1121 - Fire Mehblem (Balanced)" size="8991604" crc="268975f2" />
 			</dataarea>
 		</part>
 	</software>
@@ -7307,6 +7323,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="905 - 强大的女皇" size="16777216" crc="4b4086ff" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="愚人节故事">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1119 - 愚人节故事" size="17216680" crc="736ebf5a" />
 			</dataarea>
 		</part>
 	</software>

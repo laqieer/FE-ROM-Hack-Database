@@ -1,4 +1,4 @@
-ROMs required for driver "0sheng mo".
+ROMs required for driver "756 - 0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -1695,6 +1695,14 @@ ROMs required for driver "Fire Emblem Versus".
 Name                                   Size Checksum
 134 - Fire Emblem Versus           16777284 CRC(47ba1139)
 
+ROMs required for driver "Fire Mehblem".
+Name                                   Size Checksum
+1120 - Fire Mehblem                 8991604 CRC(56fe24f3)
+
+ROMs required for driver "Fire Mehblem (Balanced)".
+Name                                   Size Checksum
+1121 - Fire Mehblem (Balanced)      8991604 CRC(268975f2)
+
 ROMs required for driver "Fire Memeblem 0".
 Name                                   Size Checksum
 335 - Fire Memeblem 0              16777280 CRC(6b404381)
@@ -2041,7 +2049,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M                            18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -3650,6 +3658,10 @@ Name                                   Size Checksum
 ROMs required for driver "强大的女皇".
 Name                                   Size Checksum
 905 - 强大的女皇                        16777216 CRC(4b4086ff)
+
+ROMs required for driver "愚人节故事".
+Name                                   Size Checksum
+1119 - 愚人节故事                       17216680 CRC(736ebf5a)
 
 ROMs required for driver "放开那个魔王".
 Name                                   Size Checksum

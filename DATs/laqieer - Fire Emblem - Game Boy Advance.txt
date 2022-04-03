@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-2-princesses-english-translation/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
@@ -424,6 +424,8 @@ Fire Emblem Sacred Stones+;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;
 Fire Emblem Sengoku;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-sengoku-oda-v098-wip-8-chapters-done/6401;
 Fire Emblem Time Scarred Time Lines - The Beginning;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308;
 Fire Emblem Versus;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/67657-fire-emblem-versus/;
+Fire Mehblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619;
+Fire Mehblem (Balanced);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619;
 Fire Memeblem 0;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205;
 Fire Memeblem True 0;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-memeblem-0-or-proof-that-bases-growths-a-fire-emblem-7-0-bases-hack/3205;
 Flame Seal - The Knight of Light;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/115;
@@ -913,6 +915,7 @@ Zombie Apocalypse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;
 幽影华尔兹;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 异界旅者;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;鸟篇完结;
 强大的女皇;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+愚人节故事;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/april-fools-day-hack/15582;
 放开那个魔王;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;前8章测试版;
 新公主同盟;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;完结版;
 新圣火微章;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;修复版;

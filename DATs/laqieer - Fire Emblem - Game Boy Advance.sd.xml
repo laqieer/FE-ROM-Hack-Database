@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220402</version>
+		<version>20220403</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>0sheng mo</name>
+				<name>756 - 0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -6465,6 +6465,36 @@
 					<name>134 - Fire Emblem Versus</name>
 					<size>16777284</size>
 					<crc>47ba1139</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Mehblem</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1120 - Fire Mehblem</name>
+					<size>8991604</size>
+					<crc>56fe24f3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Mehblem (Balanced)</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1121 - Fire Mehblem (Balanced)</name>
+					<size>8991604</size>
+					<crc>268975f2</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13800,6 +13830,21 @@
 					<name>905 - 强大的女皇</name>
 					<size>16777216</size>
 					<crc>4b4086ff</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>愚人节故事</name>
+				<comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1119 - 愚人节故事</name>
+					<size>17216680</size>
+					<crc>736ebf5a</crc>
 				</datitem>
 			</files>
 		</directory>

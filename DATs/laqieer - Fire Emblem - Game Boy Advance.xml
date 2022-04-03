@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -4470,7 +4470,7 @@
 	<machine name="愚人节故事">
 		<comment>https://feuniverse.us/t/april-fools-day-hack/15582</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="1119 - 愚人节故事" size="17216680" crc="736ebf5a" />
+		<rom name="1119 - 愚人节故事" size="17216680" crc="7a38d37d" />
 	</machine>
 	<machine name="放开那个魔王">
 		<comment>前8章测试版</comment>

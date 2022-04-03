@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="756 - 0sheng mo">
+	<software name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -7330,7 +7330,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1119 - 愚人节故事" size="17216680" crc="736ebf5a" />
+				<rom name="1119 - 愚人节故事" size="17216680" crc="7a38d37d" />
 			</dataarea>
 		</part>
 	</software>

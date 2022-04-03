@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -2747,7 +2747,7 @@
 		<rom name="905 - 强大的女皇" size="16777216" crc="4b4086ff" />
 	</machine>
 	<machine name="愚人节故事">
-		<rom name="1119 - 愚人节故事" size="17216680" crc="736ebf5a" />
+		<rom name="1119 - 愚人节故事" size="17216680" crc="7a38d37d" />
 	</machine>
 	<machine name="放开那个魔王">
 		<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />

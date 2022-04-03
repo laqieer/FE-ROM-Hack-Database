@@ -1,4 +1,4 @@
-ROMs required for driver "756 - 0sheng mo".
+ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -3661,7 +3661,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "愚人节故事".
 Name                                   Size Checksum
-1119 - 愚人节故事                       17216680 CRC(736ebf5a)
+1119 - 愚人节故事                       17216680 CRC(7a38d37d)
 
 ROMs required for driver "放开那个魔王".
 Name                                   Size Checksum

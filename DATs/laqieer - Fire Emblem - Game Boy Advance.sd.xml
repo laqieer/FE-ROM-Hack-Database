@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>756 - 0sheng mo</name>
+				<name>0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -13844,7 +13844,7 @@
 					<itemtype>Rom</itemtype>
 					<name>1119 - 愚人节故事</name>
 					<size>17216680</size>
-					<crc>736ebf5a</crc>
+					<crc>7a38d37d</crc>
 				</datitem>
 			</files>
 		</directory>

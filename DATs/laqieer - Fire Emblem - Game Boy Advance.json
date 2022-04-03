@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "756 - 0sheng mo",
+				"name": "0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -16596,7 +16596,7 @@
 						"itemtype": "Rom",
 						"name": "1119 - 愚人节故事",
 						"size": 17216680,
-						"crc": "736ebf5a"
+						"crc": "7a38d37d"
 					}
 				}
 			]

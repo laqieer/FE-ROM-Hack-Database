@@ -2573,7 +2573,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -4588,7 +4588,7 @@ game (
 game (
 	name "愚人节故事"
 	description "愚人节故事"
-	rom ( name "1119 - 愚人节故事" size "17216680" crc "736ebf5a" )
+	rom ( name "1119 - 愚人节故事" size "17216680" crc "7a38d37d" )
 )
 game (
 	name "放开那个魔王"

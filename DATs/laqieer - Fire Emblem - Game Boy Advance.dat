@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220403"
+	version "20220404"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -98,6 +98,11 @@ game (
 	name "Apocalypse"
 	description "Apocalypse"
 	rom ( name "456 - Apocalypse" size "23013240" crc "288de977" )
+)
+game (
+	name "April Fools - Fire Emblem 8 - Enhanced Sound Edition"
+	description "April Fools - Fire Emblem 8 - Enhanced Sound Edition"
+	rom ( name "1126 - April Fools - Fire Emblem 8 - Enhanced Sound Edition" size "17032296" crc "34e5d550" )
 )
 game (
 	name "April Fool’s Day Hack"
@@ -233,6 +238,11 @@ game (
 	name "Bern 776"
 	description "Bern 776"
 	rom ( name "1088 - Bern 776" size "10710472" crc "46de39c0" )
+)
+game (
+	name "Binding Blade - Lyn Mode"
+	description "Binding Blade - Lyn Mode"
+	rom ( name "1140 - Binding Blade - Lyn Mode" size "16777216" crc "ac21f6d2" )
 )
 game (
 	name "Binks Emblem"
@@ -695,6 +705,11 @@ game (
 	rom ( name "754 - Eliwood vs Everyone" size "16777216" crc "f61becac" )
 )
 game (
+	name "Emblem - Because Formats Never Die"
+	description "Emblem - Because Formats Never Die"
+	rom ( name "1133 - Emblem - Because Formats Never Die" size "17694736" crc "f04a6cbd" )
+)
+game (
 	name "Emblem Warriors"
 	description "Emblem Warriors"
 	rom ( name "517 - Emblem Warriors" size "21638172" crc "1762a534" )
@@ -885,6 +900,11 @@ game (
 	rom ( name "764 - FE6 James Patch" size "16777216" crc "af26efb5" )
 )
 game (
+	name "FE6 Master Seal Edition"
+	description "FE6 Master Seal Edition"
+	rom ( name "1124 - FE6 Master Seal Edition" size "16777532" crc "15da761d" )
+)
+game (
 	name "FE6 Negative Growths"
 	description "FE6 Negative Growths"
 	rom ( name "330 - FE6 Negative Growths" size "10655928" crc "08186206" )
@@ -985,6 +1005,11 @@ game (
 	rom ( name "301 - FE6 Unit Swap (Hard)" size "16777532" crc "793e533c" )
 )
 game (
+	name "FE6 Unit Swap revisited"
+	description "FE6 Unit Swap revisited"
+	rom ( name "1143 - FE6 Unit Swap revisited" size "16777532" crc "7d674dba" )
+)
+game (
 	name "FE6 Units in FE7"
 	description "FE6 Units in FE7"
 	rom ( name "1110 - FE6 Units in FE7" size "18656848" crc "7b52f748" )
@@ -1045,6 +1070,16 @@ game (
 	rom ( name "303 - FE6-CharSwap-FE7" size "18309172" crc "077fb7f5" )
 )
 game (
+	name "FE6 100% or Nothing Low-Effort Patch"
+	description "FE6 100% or Nothing Low-Effort Patch"
+	rom ( name "1128 - FE6 100% or Nothing Low-Effort Patch" size "16777532" crc "1eb69ffa" )
+)
+game (
+	name "FE6 100% or Nothing Low-Effort Patch (No Karel Fae)"
+	description "FE6 100% or Nothing Low-Effort Patch (No Karel Fae)"
+	rom ( name "1129 - FE6 100% or Nothing Low-Effort Patch (No Karel Fae)" size "16777532" crc "dd41d625" )
+)
+game (
 	name "fe6_reshuffle"
 	description "fe6_reshuffle"
 	rom ( name "686 - fe6_reshuffle" size "8475760" crc "c0ee82a1" )
@@ -1076,6 +1111,11 @@ game (
 	rom ( name "766 - FE6RRaddendum" size "8388608" crc "d360f35f" )
 )
 game (
+	name "FE7 - Matthew Edition DX"
+	description "FE7 - Matthew Edition DX"
+	rom ( name "1149 - FE7 - Matthew Edition DX" size "17585112" crc "988dc5fc" )
+)
+game (
 	name "FE7 - Sus Emblem"
 	description "FE7 - Sus Emblem"
 	rom ( name "1082 - FE7 - Sus Emblem" size "17316640" crc "8ebaa7cb" )
@@ -1101,9 +1141,19 @@ game (
 	rom ( name "993 - FE7 Boss Swap" size "17543272" crc "2f6e3fa3" )
 )
 game (
+	name "FE7 but all the Promotion Items are Master Seals"
+	description "FE7 but all the Promotion Items are Master Seals"
+	rom ( name "1131 - FE7 but all the Promotion Items are Master Seals" size "16778200" crc "fe43c45b" )
+)
+game (
 	name "FE7 Chaos Mode"
 	description "FE7 Chaos Mode"
 	rom ( name "332 - FE7 Chaos Mode" size "18767508" crc "0f92ff9b" )
+)
+game (
+	name "FE7 Color Overhaul"
+	description "FE7 Color Overhaul"
+	rom ( name "1123 - FE7 Color Overhaul" size "17077916" crc "fe42f53d" )
 )
 game (
 	name "FE7 Heroes"
@@ -1266,6 +1316,11 @@ game (
 	rom ( name "726 - FE8 BS" size "16777216" crc "31e71ef6" )
 )
 game (
+	name "FE8 but everything OHKOs (Player Phase Emblem 8)"
+	description "FE8 but everything OHKOs (Player Phase Emblem 8)"
+	rom ( name "1136 - FE8 but everything OHKOs (Player Phase Emblem 8)" size "16777216" crc "7d74b792" )
+)
+game (
 	name "FE8 Changes Lite"
 	description "FE8 Changes Lite"
 	rom ( name "396 - FE8 Changes Lite" size "16795848" crc "e41e4c1e" )
@@ -1326,6 +1381,11 @@ game (
 	rom ( name "1061 - FE8 Davuuverso" size "24050940" crc "4750894f" )
 )
 game (
+	name "FE8 Delthea's Bizarre Dream Adventure"
+	description "FE8 Delthea's Bizarre Dream Adventure"
+	rom ( name "1127 - FE8 Delthea's Bizarre Dream Adventure" size "17510340" crc "2188f726" )
+)
+game (
 	name "FE8 Fanmade Directors Cut"
 	description "FE8 Fanmade Directors Cut"
 	rom ( name "400 - FE8 Fanmade Directors Cut" size "21871792" crc "a7a210d5" )
@@ -1339,6 +1399,16 @@ game (
 	name "FE8 HazelCustom"
 	description "FE8 HazelCustom"
 	rom ( name "711 - FE8 HazelCustom" size "17480036" crc "6f49856f" )
+)
+game (
+	name "FE8 Lunatic Reverse (Enemy Growth +20%)"
+	description "FE8 Lunatic Reverse (Enemy Growth +20%)"
+	rom ( name "1150 - FE8 Lunatic Reverse (Enemy Growth +20%)" size "16777220" crc "c69c5ab5" )
+)
+game (
+	name "FE8 Lunatic Reverse (Enemy Growth +30%)"
+	description "FE8 Lunatic Reverse (Enemy Growth +30%)"
+	rom ( name "1151 - FE8 Lunatic Reverse (Enemy Growth +30%)" size "16815704" crc "4af4f18f" )
 )
 game (
 	name "FE8 Lyn Windy"
@@ -1374,6 +1444,11 @@ game (
 	name "FE8 Mind edition"
 	description "FE8 Mind edition"
 	rom ( name "1017 - FE8 Mind edition" size "16777216" crc "9891a739" )
+)
+game (
+	name "FE8 MogallFE"
+	description "FE8 MogallFE"
+	rom ( name "1130 - FE8 MogallFE" size "17169524" crc "30414336" )
 )
 game (
 	name "FE8 Monster Quest"
@@ -1526,6 +1601,11 @@ game (
 	rom ( name "723 - FE8 TS (圣魔光石个人特技版)" size "20971520" crc "cb745df9" )
 )
 game (
+	name "FE8 Unit swap"
+	description "FE8 Unit swap"
+	rom ( name "1142 - FE8 Unit swap" size "17614140" crc "e6901234" )
+)
+game (
 	name "FE8 Weapon Reversal"
 	description "FE8 Weapon Reversal"
 	rom ( name "376 - FE8 Weapon Reversal" size "18248732" crc "b069af12" )
@@ -1636,6 +1716,11 @@ game (
 	rom ( name "1091 - FE 8 wild mode" size "20405064" crc "49fb9d67" )
 )
 game (
+	name "FE - The Two Blades"
+	description "FE - The Two Blades"
+	rom ( name "1145 - FE - The Two Blades" size "16878936" crc "75ba88d4" )
+)
+game (
 	name "FE but it’s my Biology Homework"
 	description "FE but it’s my Biology Homework"
 	rom ( name "198 - FE but it’s my Biology Homework" size "17279456" crc "385de2ec" )
@@ -1741,9 +1826,24 @@ game (
 	rom ( name "324 - Fire Emblem 6" size "16777532" crc "281520a0" )
 )
 game (
+	name "Fire Emblem 7 - Money Doesn't Matter"
+	description "Fire Emblem 7 - Money Doesn't Matter"
+	rom ( name "1147 - Fire Emblem 7 - Money Doesn't Matter" size "16785300" crc "24d03681" )
+)
+game (
 	name "Fire Emblem 8 Time Scarred"
 	description "Fire Emblem 8 Time Scarred"
 	rom ( name "461 - Fire Emblem 8 Time Scarred" size "24235600" crc "3187a796" )
+)
+game (
+	name "Fire Emblem 76 Character Swap"
+	description "Fire Emblem 76 Character Swap"
+	rom ( name "1122 - Fire Emblem 76 Character Swap" size "17645740" crc "719bbfe4" )
+)
+game (
+	name "Fire Emblem 87 Character Swap"
+	description "Fire Emblem 87 Character Swap"
+	rom ( name "1146 - Fire Emblem 87 Character Swap" size "17471352" crc "35577bd4" )
 )
 game (
 	name "Fire Emblem (Europe) (En,Es,It)"
@@ -1983,7 +2083,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -2096,6 +2196,11 @@ game (
 	rom ( name "579 - Fire Emblem Gilmore Girls Edition" size "17205936" crc "1a6576b4" )
 )
 game (
+	name "Fire Emblem Narshen Battles"
+	description "Fire Emblem Narshen Battles"
+	rom ( name "1141 - Fire Emblem Narshen Battles" size "17454260" crc "88ecab3c" )
+)
+game (
 	name "Fire Emblem Nemesis"
 	description "Fire Emblem Nemesis"
 	rom ( name "1074 - Fire Emblem Nemesis" size "16982012" crc "c0286a02" )
@@ -2129,6 +2234,11 @@ game (
 	name "Fire Emblem Versus"
 	description "Fire Emblem Versus"
 	rom ( name "134 - Fire Emblem Versus" size "16777284" crc "47ba1139" )
+)
+game (
+	name "Fire Emblem War - Final Judgment"
+	description "Fire Emblem War - Final Judgment"
+	rom ( name "1135 - Fire Emblem War - Final Judgment" size "18748168" crc "5bea56f8" )
 )
 game (
 	name "Fire Mehblem"
@@ -2573,7 +2683,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C. S." size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -2941,6 +3051,11 @@ game (
 	rom ( name "561 - Pukachi's Contest Patch" size "16777216" crc "585f0c17" )
 )
 game (
+	name "Purple Axe Guys Paralogue"
+	description "Purple Axe Guys Paralogue"
+	rom ( name "1134 - Purple Axe Guys Paralogue" size "18274512" crc "de239b39" )
+)
+game (
 	name "Puzon Emblem"
 	description "Puzon Emblem"
 	rom ( name "589 - Puzon Emblem" size "19889524" crc "86e37d3c" )
@@ -3064,6 +3179,11 @@ game (
 	name "Rondo Of Madness"
 	description "Rondo Of Madness"
 	rom ( name "509 - Rondo Of Madness" size "21560644" crc "25d1d129" )
+)
+game (
+	name "Roy's our boy patch"
+	description "Roy's our boy patch"
+	rom ( name "1144 - Roy's our boy patch" size "9735112" crc "cf681a55" )
 )
 game (
 	name "Royal Army"
@@ -3216,6 +3336,16 @@ game (
 	rom ( name "872 - Saving Christmas (Chinese Translation)" size "19442516" crc "efdbe109" )
 )
 game (
+	name "Saviors of Thracia PME"
+	description "Saviors of Thracia PME"
+	rom ( name "1137 - Saviors of Thracia PME" size "21265836" crc "c17d1cf6" )
+)
+game (
+	name "Saviors of Thracia PME (Double Growths)"
+	description "Saviors of Thracia PME (Double Growths)"
+	rom ( name "1138 - Saviors of Thracia PME (Double Growths)" size "21265836" crc "373c9bad" )
+)
+game (
 	name "Scarlet Rising"
 	description "Scarlet Rising"
 	rom ( name "200 - Scarlet Rising" size "20488132" crc "8c78f4a5" )
@@ -3239,6 +3369,11 @@ game (
 	name "Self-Randomising Rom"
 	description "Self-Randomising Rom"
 	rom ( name "167 - Self-Randomising Rom" size "16777216" crc "21b24720" )
+)
+game (
+	name "Setsuko's FE 7 Patch (Just a Newbie Training)"
+	description "Setsuko's FE 7 Patch (Just a Newbie Training)"
+	rom ( name "1139 - Setsuko's FE 7 Patch (Just a Newbie Training)" size "16848388" crc "edd1a96b" )
 )
 game (
 	name "Seven Siblings"
@@ -3389,6 +3524,11 @@ game (
 	name "Sun God's Wrath Kaizo Edition by April"
 	description "Sun God's Wrath Kaizo Edition by April"
 	rom ( name "1054 - Sun God's Wrath Kaizo Edition by April" size "33374508" crc "b65c47da" )
+)
+game (
+	name "SunofaBeach11's FE8 rebalance"
+	description "SunofaBeach11's FE8 rebalance"
+	rom ( name "1132 - SunofaBeach11's FE8 rebalance" size "16779236" crc "cfe3cee7" )
 )
 game (
 	name "Super Generic Ragefest Adventure"
@@ -3836,6 +3976,11 @@ game (
 	rom ( name "652 - The Teq Demo" size "16777216" crc "cde9a0dd" )
 )
 game (
+	name "The Vanilla but not 100% vanilla blitz"
+	description "The Vanilla but not 100% vanilla blitz"
+	rom ( name "1125 - The Vanilla but not 100% vanilla blitz" size "18763540" crc "114e0666" )
+)
+game (
 	name "The White Feather"
 	description "The White Feather"
 	rom ( name "490 - The White Feather" size "23302696" crc "294c6150" )
@@ -3949,6 +4094,11 @@ game (
 	name "Voice Acting Tech Demo"
 	description "Voice Acting Tech Demo"
 	rom ( name "193 - Voice Acting Tech Demo" size "17337768" crc "c2cd5264" )
+)
+game (
+	name "Voices of the Sacred Stones"
+	description "Voices of the Sacred Stones"
+	rom ( name "1148 - Voices of the Sacred Stones" size "16817656" crc "30e7369b" )
 )
 game (
 	name "Void’s Blitzarre Adventure"

@@ -93,7 +93,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 162,Knoll’s Super Spooky Halloween Adventure,Fan Modding,USA,Sme,English,19A64B75,https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500
 163,Hector Saves Christmas,Fan Modding,USA,Sme,English,6896D8C2,https://feuniverse.us/t/hector-saves-christmas/4700
 164,Hector Saves Christmas Again,Fan Modding,USA,Sme,English,E69B171F,https://feuniverse.us/t/fe8u-hector-saves-christmas-again/6770
-165,Winning Against Gharnef,Fan Modding,USA,Sme,English,03C472EE,https://github.com/sme23/MekkahRestrictedHackComp1
+165,Winning Against Gharnef,Fan Modding,USA,Sme,English,03C472EE,https://feuniverse.us/t/fe8u-winning-against-gharnef/5069
 166,Gay Baby Emblem,Fan Modding,USA,Sme,English,A95E4AE4,https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854
 167,Self-Randomising Rom,Fan Modding,USA,Circleseverywhere,English,21B24720,https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426
 168,FEU Gacha,Fan Modding,USA,Leonarth,English,35C74672,https://feuniverse.us/t/complete-fe8-feu-gacha/5251
@@ -312,7 +312,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 381,GhebFE,Reskin/Rebalance,USA,FurryYunSeong,English,DAA23525,https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/
 382,SirSerenes FE8 Reskin,Reskin/Rebalance,USA,SirSerenes,English,2B74A740,https://serenesforest.net/forums/index.php?/topic/34950-my-version-of-fe8/
 383,Tales of the Emblem,Reskin/Rebalance,USA,unknown,English,960D475E,http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar
-384,FE8 All Weapons are Devil Weapons,Reskin/Rebalance,USA,Adamminn,English,711EDBC9,https://github.com/Adamminn/FE8-devil-weapons
+384,FE8 All Weapons are Devil Weapons,Reskin/Rebalance,USA,Adamminn,English,711EDBC9,https://feuniverse.us/t/fe8-but-every-weapon-is-a-devil-weapon/6428
 385,FE8 Wild Mode (Prototype),Reskin/Rebalance,USA,darknight97,English,00DB28F0,https://feuniverse.us/t/fire-emblem-8-wild-mode/6361
 386,The Sacred Ripping Anniversary Edition,Reskin/Rebalance,USA,zetaku,English,7EE376FA,https://feuniverse.us/t/the-sacred-ripping/6253
 387,FE8ESHGBTGISTTM,Reskin/Rebalance,USA,FlamingZelda,English,17C71C14,https://feuniverse.us/t/fe8-except-seth-has-galeforce/6044
@@ -1050,3 +1050,33 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1119,愚人节故事,Fan Modding,Japan,laqieer,Chinese,7A38D37D,https://feuniverse.us/t/april-fools-day-hack/15582
 1120,Fire Mehblem,Reskin/Rebalance,Japan,AnnaAddict,English,56FE24F3,https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619
 1121,Fire Mehblem (Balanced),Reskin/Rebalance,Japan,AnnaAddict,English,268975F2,https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619
+1122,Fire Emblem 76 Character Swap,Reskin/Rebalance,USA,CasuallyJacob,English,719BBFE4,https://feuniverse.us/t/fire-emblem-7-6-character-swap/11130
+1123,FE7 Color Overhaul,Reskin/Rebalance,USA,Rosiero,English,FE42F53D,https://feuniverse.us/t/fe7-color-overhaul-wip/10333
+1124,FE6 Master Seal Edition,Reskin/Rebalance,Japan,PentV,English,15DA761D,https://feuniverse.us/t/fe6-master-seal-edition-v1-1/9345
+1125,The Vanilla but not 100% vanilla blitz,Blitz,USA,Kirb,English,114E0666,https://feuniverse.us/t/the-vanilla-but-not-100-vanilla-blitz/3264
+1126,April Fools - Fire Emblem 8 - Enhanced Sound Edition,Reskin/Rebalance,USA,SaXor_the_Nobody,English,34E5D550,https://feuniverse.us/t/april-fools-fire-emblem-8-enhanced-sound-edition/5319
+1127,FE8 Delthea's Bizarre Dream Adventure,Reskin/Rebalance,USA,redeyesblackdrag0n,English,2188F726,https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052
+1128,FE6 100% or Nothing Low-Effort Patch,Reskin/Rebalance,Japan,Jektrooper,English,1EB69FFA,https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202
+1129,FE6 100% or Nothing Low-Effort Patch (No Karel Fae),Reskin/Rebalance,Japan,Jektrooper,English,DD41D625,https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202
+1130,FE8 MogallFE,Reskin/Rebalance,USA,e5e,English,30414336,https://feuniverse.us/t/fe8-mogallfe/4631
+1131,FE7 but all the Promotion Items are Master Seals,Reskin/Rebalance,USA,Wildflower,English,FE43C45B,https://feuniverse.us/t/fe7-but-all-the-promotion-items-are-master-seals/15047
+1132,SunofaBeach11's FE8 rebalance,Reskin/Rebalance,USA,SunofaBeach11,English,CFE3CEE7,https://feuniverse.us/t/my-fe8-rebalance-first-hack-please-be-kind/14820
+1133,Emblem - Because Formats Never Die,Reskin/Rebalance,USA,shin19,English,F04A6CBD,https://feuniverse.us/t/emblem-because-formats-never-die/4696
+1134,Purple Axe Guys Paralogue,Fan Modding,USA,DonkinDo,English,DE239B39,https://feuniverse.us/t/geese-and-geitz-elibian-night-style-paralogue/9872
+1135,Fire Emblem War - Final Judgment,Fan Modding,USA,Fates-Blade,English,5BEA56F8,https://feuniverse.us/t/can-you-all-help-me-make-fire-emblem-war-final-judgment/13548
+1136,FE8 but everything OHKOs (Player Phase Emblem 8),Reskin/Rebalance,USA,ToGY,English,7D74B792,https://feuniverse.us/t/fe8-but-everything-ohkos-player-phase-emblem-8/13859
+1137,Saviors of Thracia PME,Reskin/Rebalance,USA,Zoisite,English,C17D1CF6,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
+1138,Saviors of Thracia PME (Double Growths),Reskin/Rebalance,USA,Zoisite,English,373C9BAD,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
+1139,Setsuko's FE 7 Patch (Just a Newbie Training),Reskin/Rebalance,USA,Setsuko,English,EDD1A96B,https://feuniverse.us/t/fe-7-patch-just-a-newbie-training/14791
+1140,Binding Blade - Lyn Mode,Reskin/Rebalance,Japan,Jotari,English,AC21F6D2,https://feuniverse.us/t/binding-blade-lyn-mode/13379
+1141,Fire Emblem Narshen Battles,Fan Modding,USA,NeroZonbolt,Spanish,88ECAB3C,https://feuniverse.us/t/fire-emblem-narshen-battles/2565
+1142,FE8 Unit swap,Reskin/Rebalance,USA,Goutzer,English,E6901234,https://feuniverse.us/t/fe8-fire-emblem-the-sacred-stones-unit-swap/9957
+1143,FE6 Unit Swap revisited,Reskin/Rebalance,Japan,Goutzer,English,7D674DBA,https://feuniverse.us/t/fe6-fire-emblem-the-binding-blade-unit-swap-revisited/9316
+1144,Roy's our boy patch,Reskin/Rebalance,Japan,poyoboy,English,CF681A55,https://feuniverse.us/t/roys-our-boy-patch/11190
+1145,FE - The Two Blades,Fan Modding,USA,Enskyer,English,75BA88D4,https://feuniverse.us/t/fe7-hack-fe-the-two-blades-currently-a-demo-beta-2-chapters-currently/12836
+1146,Fire Emblem 87 Character Swap,Reskin/Rebalance,USA,CasuallyJacob,English,35577BD4,https://feuniverse.us/t/fire-emblem-8-7-character-swap/11270
+1147,Fire Emblem 7 - Money Doesn't Matter,Reskin/Rebalance,USA,ToGY,English,24D03681,https://feuniverse.us/t/fire-emblem-7-money-doesnt-matter-complete/11595
+1148,Voices of the Sacred Stones,Fan Modding,USA,Kinchan,English,30E7369B,https://feuniverse.us/t/voices-of-the-sacred-stones/3469
+1149,FE7 - Matthew Edition DX,Reskin/Rebalance,USA,herbmaster,English,988DC5FC,https://feuniverse.us/t/fe7-matthew-edition-dx-in-progress/11183
+1150,FE8 Lunatic Reverse (Enemy Growth +20%),Reskin/Rebalance,USA,Stephano,English,C69C5AB5,https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259
+1151,FE8 Lunatic Reverse (Enemy Growth +30%),Reskin/Rebalance,USA,Stephano,English,4AF4F18F,https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259

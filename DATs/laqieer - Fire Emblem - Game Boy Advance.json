@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220403",
+		"version": "20220404",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -425,6 +425,24 @@
 						"name": "456 - Apocalypse",
 						"size": 23013240,
 						"crc": "288de977"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "April Fools - Fire Emblem 8 - Enhanced Sound Edition",
+				"comment": "https://feuniverse.us/t/april-fools-fire-emblem-8-enhanced-sound-edition/5319",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1126 - April Fools - Fire Emblem 8 - Enhanced Sound Edition",
+						"size": 17032296,
+						"crc": "34e5d550"
 					}
 				}
 			]
@@ -911,6 +929,24 @@
 						"name": "1088 - Bern 776",
 						"size": 10710472,
 						"crc": "46de39c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Binding Blade - Lyn Mode",
+				"comment": "https://feuniverse.us/t/binding-blade-lyn-mode/13379",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1140 - Binding Blade - Lyn Mode",
+						"size": 16777216,
+						"crc": "ac21f6d2"
 					}
 				}
 			]
@@ -2573,6 +2609,24 @@
 		},
 		{
 			"machine": {
+				"name": "Emblem - Because Formats Never Die",
+				"comment": "https://feuniverse.us/t/emblem-because-formats-never-die/4696",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1133 - Emblem - Because Formats Never Die",
+						"size": 17694736,
+						"crc": "f04a6cbd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Emblem Warriors",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -3257,6 +3311,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Master Seal Edition",
+				"comment": "https://feuniverse.us/t/fe6-master-seal-edition-v1-1/9345",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1124 - FE6 Master Seal Edition",
+						"size": 16777532,
+						"crc": "15da761d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Negative Growths",
 				"comment": "https://feuniverse.us/t/fe6-negative-growths/9298",
 				"description": null,
@@ -3617,6 +3689,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Unit Swap revisited",
+				"comment": "https://feuniverse.us/t/fe6-fire-emblem-the-binding-blade-unit-swap-revisited/9316",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1143 - FE6 Unit Swap revisited",
+						"size": 16777532,
+						"crc": "7d674dba"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Units in FE7",
 				"comment": "https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442",
 				"description": null,
@@ -3833,6 +3923,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 100% or Nothing Low-Effort Patch",
+				"comment": "https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1128 - FE6 100% or Nothing Low-Effort Patch",
+						"size": 16777532,
+						"crc": "1eb69ffa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 100% or Nothing Low-Effort Patch (No Karel Fae)",
+				"comment": "https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1129 - FE6 100% or Nothing Low-Effort Patch (No Karel Fae)",
+						"size": 16777532,
+						"crc": "dd41d625"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "fe6_reshuffle",
 				"comment": "",
 				"description": null,
@@ -3949,6 +4075,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 - Matthew Edition DX",
+				"comment": "https://feuniverse.us/t/fe7-matthew-edition-dx-in-progress/11183",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1149 - FE7 - Matthew Edition DX",
+						"size": 17585112,
+						"crc": "988dc5fc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 - Sus Emblem",
 				"comment": "https://feuniverse.us/t/sus-emblem-fe7/14697",
 				"description": null,
@@ -4039,6 +4183,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 but all the Promotion Items are Master Seals",
+				"comment": "https://feuniverse.us/t/fe7-but-all-the-promotion-items-are-master-seals/15047",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1131 - FE7 but all the Promotion Items are Master Seals",
+						"size": 16778200,
+						"crc": "fe43c45b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Chaos Mode",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/",
 				"description": null,
@@ -4051,6 +4213,24 @@
 						"name": "332 - FE7 Chaos Mode",
 						"size": 18767508,
 						"crc": "0f92ff9b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 Color Overhaul",
+				"comment": "https://feuniverse.us/t/fe7-color-overhaul-wip/10333",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1123 - FE7 Color Overhaul",
+						"size": 17077916,
+						"crc": "fe42f53d"
 					}
 				}
 			]
@@ -4508,7 +4688,7 @@
 		{
 			"machine": {
 				"name": "FE8 All Weapons are Devil Weapons",
-				"comment": "https://github.com/Adamminn/FE8-devil-weapons",
+				"comment": "https://feuniverse.us/t/fe8-but-every-weapon-is-a-devil-weapon/6428",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -4627,6 +4807,24 @@
 						"name": "726 - FE8 BS",
 						"size": 16777216,
 						"crc": "31e71ef6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 but everything OHKOs (Player Phase Emblem 8)",
+				"comment": "https://feuniverse.us/t/fe8-but-everything-ohkos-player-phase-emblem-8/13859",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1136 - FE8 but everything OHKOs (Player Phase Emblem 8)",
+						"size": 16777216,
+						"crc": "7d74b792"
 					}
 				}
 			]
@@ -4849,6 +5047,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Delthea's Bizarre Dream Adventure",
+				"comment": "https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1127 - FE8 Delthea's Bizarre Dream Adventure",
+						"size": 17510340,
+						"crc": "2188f726"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Fanmade Directors Cut",
 				"comment": "https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029",
 				"description": null,
@@ -4897,6 +5113,42 @@
 						"name": "711 - FE8 HazelCustom",
 						"size": 17480036,
 						"crc": "6f49856f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Lunatic Reverse (Enemy Growth +20%)",
+				"comment": "https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1150 - FE8 Lunatic Reverse (Enemy Growth +20%)",
+						"size": 16777220,
+						"crc": "c69c5ab5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Lunatic Reverse (Enemy Growth +30%)",
+				"comment": "https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1151 - FE8 Lunatic Reverse (Enemy Growth +30%)",
+						"size": 16815704,
+						"crc": "4af4f18f"
 					}
 				}
 			]
@@ -5023,6 +5275,24 @@
 						"name": "1017 - FE8 Mind edition",
 						"size": 16777216,
 						"crc": "9891a739"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 MogallFE",
+				"comment": "https://feuniverse.us/t/fe8-mogallfe/4631",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1130 - FE8 MogallFE",
+						"size": 17169524,
+						"crc": "30414336"
 					}
 				}
 			]
@@ -5569,6 +5839,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Unit swap",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-sacred-stones-unit-swap/9957",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1142 - FE8 Unit swap",
+						"size": 17614140,
+						"crc": "e6901234"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Weapon Reversal",
 				"comment": "https://feuniverse.us/t/fire-emblem-sacred-stones-weapon-reversal/1820",
 				"description": null,
@@ -5965,6 +6253,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE - The Two Blades",
+				"comment": "https://feuniverse.us/t/fe7-hack-fe-the-two-blades-currently-a-demo-beta-2-chapters-currently/12836",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1145 - FE - The Two Blades",
+						"size": 16878936,
+						"crc": "75ba88d4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE but it’s my Biology Homework",
 				"comment": "https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237",
 				"description": null,
@@ -6343,6 +6649,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem 7 - Money Doesn't Matter",
+				"comment": "https://feuniverse.us/t/fire-emblem-7-money-doesnt-matter-complete/11595",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1147 - Fire Emblem 7 - Money Doesn't Matter",
+						"size": 16785300,
+						"crc": "24d03681"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem 8 Time Scarred",
 				"comment": "https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1",
 				"description": null,
@@ -6355,6 +6679,42 @@
 						"name": "461 - Fire Emblem 8 Time Scarred",
 						"size": 24235600,
 						"crc": "3187a796"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem 76 Character Swap",
+				"comment": "https://feuniverse.us/t/fire-emblem-7-6-character-swap/11130",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1122 - Fire Emblem 76 Character Swap",
+						"size": 17645740,
+						"crc": "719bbfe4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem 87 Character Swap",
+				"comment": "https://feuniverse.us/t/fire-emblem-8-7-character-swap/11270",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1146 - Fire Emblem 87 Character Swap",
+						"size": 17471352,
+						"crc": "35577bd4"
 					}
 				}
 			]
@@ -7621,6 +7981,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem Narshen Battles",
+				"comment": "https://feuniverse.us/t/fire-emblem-narshen-battles/2565",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1141 - Fire Emblem Narshen Battles",
+						"size": 17454260,
+						"crc": "88ecab3c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem Nemesis",
 				"comment": "https://feuniverse.us/t/fire-emblem-nemesis/241",
 				"description": null,
@@ -7741,6 +8119,24 @@
 						"name": "134 - Fire Emblem Versus",
 						"size": 16777284,
 						"crc": "47ba1139"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem War - Final Judgment",
+				"comment": "https://feuniverse.us/t/can-you-all-help-me-make-fire-emblem-war-final-judgment/13548",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1135 - Fire Emblem War - Final Judgment",
+						"size": 18748168,
+						"crc": "5bea56f8"
 					}
 				}
 			]
@@ -10663,6 +11059,24 @@
 		},
 		{
 			"machine": {
+				"name": "Purple Axe Guys Paralogue",
+				"comment": "https://feuniverse.us/t/geese-and-geitz-elibian-night-style-paralogue/9872",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1134 - Purple Axe Guys Paralogue",
+						"size": 18274512,
+						"crc": "de239b39"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Puzon Emblem",
 				"comment": "https://feuniverse.us/t/puzon-emblem/12243",
 				"description": null,
@@ -11107,6 +11521,24 @@
 						"name": "509 - Rondo Of Madness",
 						"size": 21560644,
 						"crc": "25d1d129"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Roy's our boy patch",
+				"comment": "https://feuniverse.us/t/roys-our-boy-patch/11190",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1144 - Roy's our boy patch",
+						"size": 9735112,
+						"crc": "cf681a55"
 					}
 				}
 			]
@@ -11653,6 +12085,42 @@
 		},
 		{
 			"machine": {
+				"name": "Saviors of Thracia PME",
+				"comment": "https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1137 - Saviors of Thracia PME",
+						"size": 21265836,
+						"crc": "c17d1cf6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Saviors of Thracia PME (Double Growths)",
+				"comment": "https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1138 - Saviors of Thracia PME (Double Growths)",
+						"size": 21265836,
+						"crc": "373c9bad"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Scarlet Rising",
 				"comment": "https://feuniverse.us/t/complete-fe8-scarlet-rising/7890",
 				"description": null,
@@ -11737,6 +12205,24 @@
 						"name": "167 - Self-Randomising Rom",
 						"size": 16777216,
 						"crc": "21b24720"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Setsuko's FE 7 Patch (Just a Newbie Training)",
+				"comment": "https://feuniverse.us/t/fe-7-patch-just-a-newbie-training/14791",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1139 - Setsuko's FE 7 Patch (Just a Newbie Training)",
+						"size": 16848388,
+						"crc": "edd1a96b"
 					}
 				}
 			]
@@ -12277,6 +12763,24 @@
 						"name": "1054 - Sun God's Wrath Kaizo Edition by April",
 						"size": 33374508,
 						"crc": "b65c47da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "SunofaBeach11's FE8 rebalance",
+				"comment": "https://feuniverse.us/t/my-fe8-rebalance-first-hack-please-be-kind/14820",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1132 - SunofaBeach11's FE8 rebalance",
+						"size": 16779236,
+						"crc": "cfe3cee7"
 					}
 				}
 			]
@@ -13885,6 +14389,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Vanilla but not 100% vanilla blitz",
+				"comment": "https://feuniverse.us/t/the-vanilla-but-not-100-vanilla-blitz/3264",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1125 - The Vanilla but not 100% vanilla blitz",
+						"size": 18763540,
+						"crc": "114e0666"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The White Feather",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-the-white-feather-v0-5-15-24-chapters/10974",
 				"description": null,
@@ -14299,6 +14821,24 @@
 		},
 		{
 			"machine": {
+				"name": "Voices of the Sacred Stones",
+				"comment": "https://feuniverse.us/t/voices-of-the-sacred-stones/3469",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1148 - Voices of the Sacred Stones",
+						"size": 16817656,
+						"crc": "30e7369b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Void’s Blitzarre Adventure",
 				"comment": "https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629",
 				"description": null,
@@ -14516,7 +15056,7 @@
 		{
 			"machine": {
 				"name": "Winning Against Gharnef",
-				"comment": "https://github.com/sme23/MekkahRestrictedHackComp1",
+				"comment": "https://feuniverse.us/t/fe8u-winning-against-gharnef/5069",
 				"description": null,
 				"publisher": "Fan Modding"
 			},

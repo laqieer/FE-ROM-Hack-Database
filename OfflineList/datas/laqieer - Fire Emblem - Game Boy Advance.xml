@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220403</datVersion>
+    <datVersion>20220404</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -1746,7 +1746,7 @@
       </files>
       <im1CRC>D861447A</im1CRC>
       <im2CRC>01D62FFF</im2CRC>
-      <comment>https://github.com/sme23/MekkahRestrictedHackComp1</comment>
+      <comment>https://feuniverse.us/t/fe8u-winning-against-gharnef/5069</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -5688,7 +5688,7 @@
       </files>
       <im1CRC>ED90569A</im1CRC>
       <im2CRC>F8E2B996</im2CRC>
-      <comment>https://github.com/Adamminn/FE8-devil-weapons</comment>
+      <comment>https://feuniverse.us/t/fe8-but-every-weapon-is-a-devil-weapon/6428</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -18955,6 +18955,546 @@
       <im1CRC>F5C63D4D</im1CRC>
       <im2CRC>8565801D</im2CRC>
       <comment>https://feuniverse.us/t/fire-emblem-6-but-everyone-is-a-mediocre-unit-from-another-game/15619</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1122</imageNumber>
+      <releaseNumber>1122</releaseNumber>
+      <title>Fire Emblem 76 Character Swap</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17645740</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>CasuallyJacob</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">719BBFE4</romCRC>
+      </files>
+      <im1CRC>F0D865B1</im1CRC>
+      <im2CRC>8FCEF367</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-7-6-character-swap/11130</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1123</imageNumber>
+      <releaseNumber>1123</releaseNumber>
+      <title>FE7 Color Overhaul</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17077916</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Rosiero</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">FE42F53D</romCRC>
+      </files>
+      <im1CRC>CC45D369</im1CRC>
+      <im2CRC>25B62EAD</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-color-overhaul-wip/10333</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1124</imageNumber>
+      <releaseNumber>1124</releaseNumber>
+      <title>FE6 Master Seal Edition</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>PentV</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">15DA761D</romCRC>
+      </files>
+      <im1CRC>98E915E6</im1CRC>
+      <im2CRC>0223D6F4</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-master-seal-edition-v1-1/9345</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1125</imageNumber>
+      <releaseNumber>1125</releaseNumber>
+      <title>The Vanilla but not 100% vanilla blitz</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18763540</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>Kirb</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">114E0666</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>4CD548A9</im2CRC>
+      <comment>https://feuniverse.us/t/the-vanilla-but-not-100-vanilla-blitz/3264</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1126</imageNumber>
+      <releaseNumber>1126</releaseNumber>
+      <title>April Fools - Fire Emblem 8 - Enhanced Sound Edition</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17032296</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>SaXor_the_Nobody</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">34E5D550</romCRC>
+      </files>
+      <im1CRC>ED90569A</im1CRC>
+      <im2CRC>CA2663D4</im2CRC>
+      <comment>https://feuniverse.us/t/april-fools-fire-emblem-8-enhanced-sound-edition/5319</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1127</imageNumber>
+      <releaseNumber>1127</releaseNumber>
+      <title>FE8 Delthea's Bizarre Dream Adventure</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17510340</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>redeyesblackdrag0n</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">2188F726</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>A977D4FD</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1128</imageNumber>
+      <releaseNumber>1128</releaseNumber>
+      <title>FE6 100% or Nothing Low-Effort Patch</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Jektrooper</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">1EB69FFA</romCRC>
+      </files>
+      <im1CRC>F7CF0F66</im1CRC>
+      <im2CRC>9565EEB6</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1129</imageNumber>
+      <releaseNumber>1129</releaseNumber>
+      <title>FE6 100% or Nothing Low-Effort Patch (No Karel Fae)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Jektrooper</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DD41D625</romCRC>
+      </files>
+      <im1CRC>0343611C</im1CRC>
+      <im2CRC>80A5144D</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-100-or-nothing-low-effort-patch/12202</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1130</imageNumber>
+      <releaseNumber>1130</releaseNumber>
+      <title>FE8 MogallFE</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17169524</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>e5e</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">30414336</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>8996FEA4</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-mogallfe/4631</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1131</imageNumber>
+      <releaseNumber>1131</releaseNumber>
+      <title>FE7 but all the Promotion Items are Master Seals</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16778200</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Wildflower</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">FE43C45B</romCRC>
+      </files>
+      <im1CRC>B8ABC8C2</im1CRC>
+      <im2CRC>B87CD89A</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-but-all-the-promotion-items-are-master-seals/15047</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1132</imageNumber>
+      <releaseNumber>1132</releaseNumber>
+      <title>SunofaBeach11's FE8 rebalance</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16779236</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>SunofaBeach11</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">CFE3CEE7</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>51A4D1C1</im2CRC>
+      <comment>https://feuniverse.us/t/my-fe8-rebalance-first-hack-please-be-kind/14820</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1133</imageNumber>
+      <releaseNumber>1133</releaseNumber>
+      <title>Emblem - Because Formats Never Die</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17694736</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>shin19</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F04A6CBD</romCRC>
+      </files>
+      <im1CRC>C1B44C54</im1CRC>
+      <im2CRC>A6B7628A</im2CRC>
+      <comment>https://feuniverse.us/t/emblem-because-formats-never-die/4696</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1134</imageNumber>
+      <releaseNumber>1134</releaseNumber>
+      <title>Purple Axe Guys Paralogue</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18274512</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>DonkinDo</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DE239B39</romCRC>
+      </files>
+      <im1CRC>30C010E8</im1CRC>
+      <im2CRC>74B4E324</im2CRC>
+      <comment>https://feuniverse.us/t/geese-and-geitz-elibian-night-style-paralogue/9872</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1135</imageNumber>
+      <releaseNumber>1135</releaseNumber>
+      <title>Fire Emblem War - Final Judgment</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18748168</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Fates-Blade</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">5BEA56F8</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>D4921698</im2CRC>
+      <comment>https://feuniverse.us/t/can-you-all-help-me-make-fire-emblem-war-final-judgment/13548</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1136</imageNumber>
+      <releaseNumber>1136</releaseNumber>
+      <title>FE8 but everything OHKOs (Player Phase Emblem 8)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>ToGY</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7D74B792</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>EC9789F8</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-but-everything-ohkos-player-phase-emblem-8/13859</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1137</imageNumber>
+      <releaseNumber>1137</releaseNumber>
+      <title>Saviors of Thracia PME</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21265836</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Zoisite</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C17D1CF6</romCRC>
+      </files>
+      <im1CRC>6AC5CD3D</im1CRC>
+      <im2CRC>6FCEC7E3</im2CRC>
+      <comment>https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1138</imageNumber>
+      <releaseNumber>1138</releaseNumber>
+      <title>Saviors of Thracia PME (Double Growths)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21265836</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Zoisite</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">373C9BAD</romCRC>
+      </files>
+      <im1CRC>C4AF8EDC</im1CRC>
+      <im2CRC>797292F9</im2CRC>
+      <comment>https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1139</imageNumber>
+      <releaseNumber>1139</releaseNumber>
+      <title>Setsuko's FE 7 Patch (Just a Newbie Training)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16848388</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Setsuko</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">EDD1A96B</romCRC>
+      </files>
+      <im1CRC>004E6EF4</im1CRC>
+      <im2CRC>5A4BCBF6</im2CRC>
+      <comment>https://feuniverse.us/t/fe-7-patch-just-a-newbie-training/14791</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1140</imageNumber>
+      <releaseNumber>1140</releaseNumber>
+      <title>Binding Blade - Lyn Mode</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Jotari</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">AC21F6D2</romCRC>
+      </files>
+      <im1CRC>7B9D6596</im1CRC>
+      <im2CRC>C80E95E1</im2CRC>
+      <comment>https://feuniverse.us/t/binding-blade-lyn-mode/13379</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1141</imageNumber>
+      <releaseNumber>1141</releaseNumber>
+      <title>Fire Emblem Narshen Battles</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17454260</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>NeroZonbolt</sourceRom>
+      <language>4096</language>
+      <files>
+        <romCRC extension=".gba">88ECAB3C</romCRC>
+      </files>
+      <im1CRC>E9B8913C</im1CRC>
+      <im2CRC>B1E8F4BF</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-narshen-battles/2565</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1142</imageNumber>
+      <releaseNumber>1142</releaseNumber>
+      <title>FE8 Unit swap</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17614140</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Goutzer</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">E6901234</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>23B18112</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-the-sacred-stones-unit-swap/9957</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1143</imageNumber>
+      <releaseNumber>1143</releaseNumber>
+      <title>FE6 Unit Swap revisited</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Goutzer</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7D674DBA</romCRC>
+      </files>
+      <im1CRC>69750CA1</im1CRC>
+      <im2CRC>11E7317F</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-fire-emblem-the-binding-blade-unit-swap-revisited/9316</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1144</imageNumber>
+      <releaseNumber>1144</releaseNumber>
+      <title>Roy's our boy patch</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>9735112</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>poyoboy</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">CF681A55</romCRC>
+      </files>
+      <im1CRC>98E915E6</im1CRC>
+      <im2CRC>FCB4AB19</im2CRC>
+      <comment>https://feuniverse.us/t/roys-our-boy-patch/11190</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1145</imageNumber>
+      <releaseNumber>1145</releaseNumber>
+      <title>FE - The Two Blades</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16878936</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Enskyer</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">75BA88D4</romCRC>
+      </files>
+      <im1CRC>51C790C3</im1CRC>
+      <im2CRC>8B6A5E8E</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-hack-fe-the-two-blades-currently-a-demo-beta-2-chapters-currently/12836</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1146</imageNumber>
+      <releaseNumber>1146</releaseNumber>
+      <title>Fire Emblem 87 Character Swap</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17471352</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>CasuallyJacob</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">35577BD4</romCRC>
+      </files>
+      <im1CRC>9B0FFEE0</im1CRC>
+      <im2CRC>0F3EE2B1</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-8-7-character-swap/11270</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1147</imageNumber>
+      <releaseNumber>1147</releaseNumber>
+      <title>Fire Emblem 7 - Money Doesn't Matter</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16785300</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>ToGY</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">24D03681</romCRC>
+      </files>
+      <im1CRC>854E20BA</im1CRC>
+      <im2CRC>923A250A</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-7-money-doesnt-matter-complete/11595</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1148</imageNumber>
+      <releaseNumber>1148</releaseNumber>
+      <title>Voices of the Sacred Stones</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16817656</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Kinchan</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">30E7369B</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>C47C8046</im2CRC>
+      <comment>https://feuniverse.us/t/voices-of-the-sacred-stones/3469</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1149</imageNumber>
+      <releaseNumber>1149</releaseNumber>
+      <title>FE7 - Matthew Edition DX</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17585112</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>herbmaster</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">988DC5FC</romCRC>
+      </files>
+      <im1CRC>2D8C223B</im1CRC>
+      <im2CRC>44046098</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-matthew-edition-dx-in-progress/11183</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1150</imageNumber>
+      <releaseNumber>1150</releaseNumber>
+      <title>FE8 Lunatic Reverse (Enemy Growth +20%)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16777220</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Stephano</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C69C5AB5</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>CBEBD52D</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1151</imageNumber>
+      <releaseNumber>1151</releaseNumber>
+      <title>FE8 Lunatic Reverse (Enemy Growth +30%)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16815704</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Stephano</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">4AF4F18F</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>29110E5C</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

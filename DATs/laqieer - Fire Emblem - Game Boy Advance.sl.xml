@@ -145,6 +145,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="April Fools - Fire Emblem 8 - Enhanced Sound Edition">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1126 - April Fools - Fire Emblem 8 - Enhanced Sound Edition" size="17032296" crc="34e5d550" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="April Fool’s Day Hack">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -358,6 +366,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1088 - Bern 776" size="10710472" crc="46de39c0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Binding Blade - Lyn Mode">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1140 - Binding Blade - Lyn Mode" size="16777216" crc="ac21f6d2" />
 			</dataarea>
 		</part>
 	</software>
@@ -1097,6 +1113,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Emblem - Because Formats Never Die">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1133 - Emblem - Because Formats Never Die" size="17694736" crc="f04a6cbd" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Emblem Warriors">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -1401,6 +1425,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Master Seal Edition">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1124 - FE6 Master Seal Edition" size="16777532" crc="15da761d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Negative Growths">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1561,6 +1593,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Unit Swap revisited">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1143 - FE6 Unit Swap revisited" size="16777532" crc="7d674dba" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Units in FE7">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1657,6 +1697,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 100% or Nothing Low-Effort Patch">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1128 - FE6 100% or Nothing Low-Effort Patch" size="16777532" crc="1eb69ffa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 100% or Nothing Low-Effort Patch (No Karel Fae)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1129 - FE6 100% or Nothing Low-Effort Patch (No Karel Fae)" size="16777532" crc="dd41d625" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="fe6_reshuffle">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1710,6 +1766,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 - Matthew Edition DX">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1149 - FE7 - Matthew Edition DX" size="17585112" crc="988dc5fc" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 - Sus Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1750,11 +1814,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 but all the Promotion Items are Master Seals">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1131 - FE7 but all the Promotion Items are Master Seals" size="16778200" crc="fe43c45b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Chaos Mode">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="332 - FE7 Chaos Mode" size="18767508" crc="0f92ff9b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Color Overhaul">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1123 - FE7 Color Overhaul" size="17077916" crc="fe42f53d" />
 			</dataarea>
 		</part>
 	</software>
@@ -2014,6 +2094,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 but everything OHKOs (Player Phase Emblem 8)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1136 - FE8 but everything OHKOs (Player Phase Emblem 8)" size="16777216" crc="7d74b792" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Changes Lite">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2110,6 +2198,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Delthea's Bizarre Dream Adventure">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1127 - FE8 Delthea's Bizarre Dream Adventure" size="17510340" crc="2188f726" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Fanmade Directors Cut">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2131,6 +2227,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="711 - FE8 HazelCustom" size="17480036" crc="6f49856f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Lunatic Reverse (Enemy Growth +20%)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1150 - FE8 Lunatic Reverse (Enemy Growth +20%)" size="16777220" crc="c69c5ab5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Lunatic Reverse (Enemy Growth +30%)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1151 - FE8 Lunatic Reverse (Enemy Growth +30%)" size="16815704" crc="4af4f18f" />
 			</dataarea>
 		</part>
 	</software>
@@ -2187,6 +2299,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1017 - FE8 Mind edition" size="16777216" crc="9891a739" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 MogallFE">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1130 - FE8 MogallFE" size="17169524" crc="30414336" />
 			</dataarea>
 		</part>
 	</software>
@@ -2430,6 +2550,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Unit swap">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1142 - FE8 Unit swap" size="17614140" crc="e6901234" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Weapon Reversal">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2606,6 +2734,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE - The Two Blades">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1145 - FE - The Two Blades" size="16878936" crc="75ba88d4" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE but it’s my Biology Homework">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2774,11 +2910,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem 7 - Money Doesn't Matter">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1147 - Fire Emblem 7 - Money Doesn't Matter" size="16785300" crc="24d03681" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem 8 Time Scarred">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="461 - Fire Emblem 8 Time Scarred" size="24235600" crc="3187a796" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem 76 Character Swap">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1122 - Fire Emblem 76 Character Swap" size="17645740" crc="719bbfe4" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem 87 Character Swap">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1146 - Fire Emblem 87 Character Swap" size="17471352" crc="35577bd4" />
 			</dataarea>
 		</part>
 	</software>
@@ -3342,6 +3502,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem Narshen Battles">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1141 - Fire Emblem Narshen Battles" size="17454260" crc="88ecab3c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem Nemesis">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3395,6 +3563,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="134 - Fire Emblem Versus" size="16777284" crc="47ba1139" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem War - Final Judgment">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1135 - Fire Emblem War - Final Judgment" size="18748168" crc="5bea56f8" />
 			</dataarea>
 		</part>
 	</software>
@@ -4694,6 +4870,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Purple Axe Guys Paralogue">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1134 - Purple Axe Guys Paralogue" size="18274512" crc="de239b39" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Puzon Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -4891,6 +5075,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="509 - Rondo Of Madness" size="21560644" crc="25d1d129" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Roy's our boy patch">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1144 - Roy's our boy patch" size="9735112" crc="cf681a55" />
 			</dataarea>
 		</part>
 	</software>
@@ -5134,6 +5326,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Saviors of Thracia PME">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1137 - Saviors of Thracia PME" size="21265836" crc="c17d1cf6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Saviors of Thracia PME (Double Growths)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1138 - Saviors of Thracia PME (Double Growths)" size="21265836" crc="373c9bad" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Scarlet Rising">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5171,6 +5379,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Setsuko's FE 7 Patch (Just a Newbie Training)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1139 - Setsuko's FE 7 Patch (Just a Newbie Training)" size="16848388" crc="edd1a96b" />
 			</dataarea>
 		</part>
 	</software>
@@ -5411,6 +5627,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1054 - Sun God's Wrath Kaizo Edition by April" size="33374508" crc="b65c47da" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="SunofaBeach11's FE8 rebalance">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1132 - SunofaBeach11's FE8 rebalance" size="16779236" crc="cfe3cee7" />
 			</dataarea>
 		</part>
 	</software>
@@ -6126,6 +6350,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Vanilla but not 100% vanilla blitz">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1125 - The Vanilla but not 100% vanilla blitz" size="18763540" crc="114e0666" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The White Feather">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -6307,6 +6539,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="193 - Voice Acting Tech Demo" size="17337768" crc="c2cd5264" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Voices of the Sacred Stones">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1148 - Voices of the Sacred Stones" size="16817656" crc="30e7369b" />
 			</dataarea>
 		</part>
 	</software>

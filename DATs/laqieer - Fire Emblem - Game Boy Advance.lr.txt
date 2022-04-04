@@ -70,6 +70,10 @@ ROMs required for driver "Apocalypse".
 Name                                   Size Checksum
 456 - Apocalypse                   23013240 CRC(288de977)
 
+ROMs required for driver "April Fools - Fire Emblem 8 - Enhanced Sound Edition".
+Name                                   Size Checksum
+1126 - April Fools - Fire Emblem 8 - Enhanced Sound Edition          17032296 CRC(34e5d550)
+
 ROMs required for driver "April Fool’s Day Hack".
 Name                                   Size Checksum
 1112 - April Fool’s Day Hack       16911852 CRC(dcda3cd2)
@@ -177,6 +181,10 @@ Name                                   Size Checksum
 ROMs required for driver "Bern 776".
 Name                                   Size Checksum
 1088 - Bern 776                    10710472 CRC(46de39c0)
+
+ROMs required for driver "Binding Blade - Lyn Mode".
+Name                                   Size Checksum
+1140 - Binding Blade - Lyn Mode    16777216 CRC(ac21f6d2)
 
 ROMs required for driver "Binks Emblem".
 Name                                   Size Checksum
@@ -546,6 +554,10 @@ ROMs required for driver "Eliwood vs Everyone".
 Name                                   Size Checksum
 754 - Eliwood vs Everyone          16777216 CRC(f61becac)
 
+ROMs required for driver "Emblem - Because Formats Never Die".
+Name                                   Size Checksum
+1133 - Emblem - Because Formats Never Die17694736 CRC(f04a6cbd)
+
 ROMs required for driver "Emblem Warriors".
 Name                                   Size Checksum
 517 - Emblem Warriors              21638172 CRC(1762a534)
@@ -698,6 +710,10 @@ ROMs required for driver "FE6 James Patch".
 Name                                   Size Checksum
 764 - FE6 James Patch              16777216 CRC(af26efb5)
 
+ROMs required for driver "FE6 Master Seal Edition".
+Name                                   Size Checksum
+1124 - FE6 Master Seal Edition     16777532 CRC(15da761d)
+
 ROMs required for driver "FE6 Negative Growths".
 Name                                   Size Checksum
 330 - FE6 Negative Growths         10655928 CRC(08186206)
@@ -778,6 +794,10 @@ ROMs required for driver "FE6 Unit Swap (Hard)".
 Name                                   Size Checksum
 301 - FE6 Unit Swap (Hard)         16777532 CRC(793e533c)
 
+ROMs required for driver "FE6 Unit Swap revisited".
+Name                                   Size Checksum
+1143 - FE6 Unit Swap revisited     16777532 CRC(7d674dba)
+
 ROMs required for driver "FE6 Units in FE7".
 Name                                   Size Checksum
 1110 - FE6 Units in FE7            18656848 CRC(7b52f748)
@@ -826,6 +846,14 @@ ROMs required for driver "FE6-CharSwap-FE7".
 Name                                   Size Checksum
 303 - FE6-CharSwap-FE7             18309172 CRC(077fb7f5)
 
+ROMs required for driver "FE6 100% or Nothing Low-Effort Patch".
+Name                                   Size Checksum
+1128 - FE6 100% or Nothing Low-Effort Patch          16777532 CRC(1eb69ffa)
+
+ROMs required for driver "FE6 100% or Nothing Low-Effort Patch (No Karel Fae)".
+Name                                   Size Checksum
+1129 - FE6 100% or Nothing Low-Effort Patch (No Karel Fae)          16777532 CRC(dd41d625)
+
 ROMs required for driver "fe6_reshuffle".
 Name                                   Size Checksum
 686 - fe6_reshuffle                 8475760 CRC(c0ee82a1)
@@ -851,6 +879,10 @@ ROMs required for driver "FE6RRaddendum".
 Name                                   Size Checksum
 766 - FE6RRaddendum                 8388608 CRC(d360f35f)
 
+ROMs required for driver "FE7 - Matthew Edition DX".
+Name                                   Size Checksum
+1149 - FE7 - Matthew Edition DX    17585112 CRC(988dc5fc)
+
 ROMs required for driver "FE7 - Sus Emblem".
 Name                                   Size Checksum
 1082 - FE7 - Sus Emblem            17316640 CRC(8ebaa7cb)
@@ -871,9 +903,17 @@ ROMs required for driver "FE7 Boss Swap".
 Name                                   Size Checksum
 993 - FE7 Boss Swap                17543272 CRC(2f6e3fa3)
 
+ROMs required for driver "FE7 but all the Promotion Items are Master Seals".
+Name                                   Size Checksum
+1131 - FE7 but all the Promotion Items are Master Seals          16778200 CRC(fe43c45b)
+
 ROMs required for driver "FE7 Chaos Mode".
 Name                                   Size Checksum
 332 - FE7 Chaos Mode               18767508 CRC(0f92ff9b)
+
+ROMs required for driver "FE7 Color Overhaul".
+Name                                   Size Checksum
+1123 - FE7 Color Overhaul          17077916 CRC(fe42f53d)
 
 ROMs required for driver "FE7 Heroes".
 Name                                   Size Checksum
@@ -1003,6 +1043,10 @@ ROMs required for driver "FE8 BS".
 Name                                   Size Checksum
 726 - FE8 BS                       16777216 CRC(31e71ef6)
 
+ROMs required for driver "FE8 but everything OHKOs (Player Phase Emblem 8)".
+Name                                   Size Checksum
+1136 - FE8 but everything OHKOs (Player Phase Emblem 8)          16777216 CRC(7d74b792)
+
 ROMs required for driver "FE8 Changes Lite".
 Name                                   Size Checksum
 396 - FE8 Changes Lite             16795848 CRC(e41e4c1e)
@@ -1051,6 +1095,10 @@ ROMs required for driver "FE8 Davuuverso".
 Name                                   Size Checksum
 1061 - FE8 Davuuverso              24050940 CRC(4750894f)
 
+ROMs required for driver "FE8 Delthea's Bizarre Dream Adventure".
+Name                                   Size Checksum
+1127 - FE8 Delthea's Bizarre Dream Adventure          17510340 CRC(2188f726)
+
 ROMs required for driver "FE8 Fanmade Directors Cut".
 Name                                   Size Checksum
 400 - FE8 Fanmade Directors Cut    21871792 CRC(a7a210d5)
@@ -1062,6 +1110,14 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 HazelCustom".
 Name                                   Size Checksum
 711 - FE8 HazelCustom              17480036 CRC(6f49856f)
+
+ROMs required for driver "FE8 Lunatic Reverse (Enemy Growth +20%)".
+Name                                   Size Checksum
+1150 - FE8 Lunatic Reverse (Enemy Growth +20%)          16777220 CRC(c69c5ab5)
+
+ROMs required for driver "FE8 Lunatic Reverse (Enemy Growth +30%)".
+Name                                   Size Checksum
+1151 - FE8 Lunatic Reverse (Enemy Growth +30%)          16815704 CRC(4af4f18f)
 
 ROMs required for driver "FE8 Lyn Windy".
 Name                                   Size Checksum
@@ -1090,6 +1146,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 Mind edition".
 Name                                   Size Checksum
 1017 - FE8 Mind edition            16777216 CRC(9891a739)
+
+ROMs required for driver "FE8 MogallFE".
+Name                                   Size Checksum
+1130 - FE8 MogallFE                17169524 CRC(30414336)
 
 ROMs required for driver "FE8 Monster Quest".
 Name                                   Size Checksum
@@ -1211,6 +1271,10 @@ ROMs required for driver "FE8 TS (圣魔光石个人特技版)".
 Name                                   Size Checksum
 723 - FE8 TS (圣魔光石个人特技版)           20971520 CRC(cb745df9)
 
+ROMs required for driver "FE8 Unit swap".
+Name                                   Size Checksum
+1142 - FE8 Unit swap               17614140 CRC(e6901234)
+
 ROMs required for driver "FE8 Weapon Reversal".
 Name                                   Size Checksum
 376 - FE8 Weapon Reversal          18248732 CRC(b069af12)
@@ -1299,6 +1363,10 @@ ROMs required for driver "FE 8 wild mode".
 Name                                   Size Checksum
 1091 - FE 8 wild mode              20405064 CRC(49fb9d67)
 
+ROMs required for driver "FE - The Two Blades".
+Name                                   Size Checksum
+1145 - FE - The Two Blades         16878936 CRC(75ba88d4)
+
 ROMs required for driver "FE but it’s my Biology Homework".
 Name                                   Size Checksum
 198 - FE but it’s my Biology Homework17279456 CRC(385de2ec)
@@ -1383,9 +1451,21 @@ ROMs required for driver "Fire Emblem 6.7".
 Name                                   Size Checksum
 324 - Fire Emblem 6                16777532 CRC(281520a0)
 
+ROMs required for driver "Fire Emblem 7 - Money Doesn't Matter".
+Name                                   Size Checksum
+1147 - Fire Emblem 7 - Money Doesn't Matter          16785300 CRC(24d03681)
+
 ROMs required for driver "Fire Emblem 8 Time Scarred".
 Name                                   Size Checksum
 461 - Fire Emblem 8 Time Scarred   24235600 CRC(3187a796)
+
+ROMs required for driver "Fire Emblem 76 Character Swap".
+Name                                   Size Checksum
+1122 - Fire Emblem 76 Character Swap17645740 CRC(719bbfe4)
+
+ROMs required for driver "Fire Emblem 87 Character Swap".
+Name                                   Size Checksum
+1146 - Fire Emblem 87 Character Swap17471352 CRC(35577bd4)
 
 ROMs required for driver "Fire Emblem (Europe) (En,Es,It)".
 Name                                   Size Checksum
@@ -1667,6 +1747,10 @@ ROMs required for driver "Fire Emblem Gilmore Girls Edition".
 Name                                   Size Checksum
 579 - Fire Emblem Gilmore Girls Edition17205936 CRC(1a6576b4)
 
+ROMs required for driver "Fire Emblem Narshen Battles".
+Name                                   Size Checksum
+1141 - Fire Emblem Narshen Battles 17454260 CRC(88ecab3c)
+
 ROMs required for driver "Fire Emblem Nemesis".
 Name                                   Size Checksum
 1074 - Fire Emblem Nemesis         16982012 CRC(c0286a02)
@@ -1694,6 +1778,10 @@ Name                                   Size Checksum
 ROMs required for driver "Fire Emblem Versus".
 Name                                   Size Checksum
 134 - Fire Emblem Versus           16777284 CRC(47ba1139)
+
+ROMs required for driver "Fire Emblem War - Final Judgment".
+Name                                   Size Checksum
+1135 - Fire Emblem War - Final Judgment18748168 CRC(5bea56f8)
 
 ROMs required for driver "Fire Mehblem".
 Name                                   Size Checksum
@@ -2343,6 +2431,10 @@ ROMs required for driver "Pukachi's Contest Patch".
 Name                                   Size Checksum
 561 - Pukachi's Contest Patch      16777216 CRC(585f0c17)
 
+ROMs required for driver "Purple Axe Guys Paralogue".
+Name                                   Size Checksum
+1134 - Purple Axe Guys Paralogue   18274512 CRC(de239b39)
+
 ROMs required for driver "Puzon Emblem".
 Name                                   Size Checksum
 589 - Puzon Emblem                 19889524 CRC(86e37d3c)
@@ -2442,6 +2534,10 @@ Name                                   Size Checksum
 ROMs required for driver "Rondo Of Madness".
 Name                                   Size Checksum
 509 - Rondo Of Madness             21560644 CRC(25d1d129)
+
+ROMs required for driver "Roy's our boy patch".
+Name                                   Size Checksum
+1144 - Roy's our boy patch          9735112 CRC(cf681a55)
 
 ROMs required for driver "Royal Army".
 Name                                   Size Checksum
@@ -2563,6 +2659,14 @@ ROMs required for driver "Saving Christmas (Chinese Translation)".
 Name                                   Size Checksum
 872 - Saving Christmas (Chinese Translation)          19442516 CRC(efdbe109)
 
+ROMs required for driver "Saviors of Thracia PME".
+Name                                   Size Checksum
+1137 - Saviors of Thracia PME      21265836 CRC(c17d1cf6)
+
+ROMs required for driver "Saviors of Thracia PME (Double Growths)".
+Name                                   Size Checksum
+1138 - Saviors of Thracia PME (Double Growths)          21265836 CRC(373c9bad)
+
 ROMs required for driver "Scarlet Rising".
 Name                                   Size Checksum
 200 - Scarlet Rising               20488132 CRC(8c78f4a5)
@@ -2582,6 +2686,10 @@ Name                                   Size Checksum
 ROMs required for driver "Self-Randomising Rom".
 Name                                   Size Checksum
 167 - Self-Randomising Rom         16777216 CRC(21b24720)
+
+ROMs required for driver "Setsuko's FE 7 Patch (Just a Newbie Training)".
+Name                                   Size Checksum
+1139 - Setsuko's FE 7 Patch (Just a Newbie Training)          16848388 CRC(edd1a96b)
 
 ROMs required for driver "Seven Siblings".
 Name                                   Size Checksum
@@ -2702,6 +2810,10 @@ Name                                   Size Checksum
 ROMs required for driver "Sun God's Wrath Kaizo Edition by April".
 Name                                   Size Checksum
 1054 - Sun God's Wrath Kaizo Edition by April          33374508 CRC(b65c47da)
+
+ROMs required for driver "SunofaBeach11's FE8 rebalance".
+Name                                   Size Checksum
+1132 - SunofaBeach11's FE8 rebalance16779236 CRC(cfe3cee7)
 
 ROMs required for driver "Super Generic Ragefest Adventure".
 Name                                   Size Checksum
@@ -3059,6 +3171,10 @@ ROMs required for driver "The Teq Demo".
 Name                                   Size Checksum
 652 - The Teq Demo                 16777216 CRC(cde9a0dd)
 
+ROMs required for driver "The Vanilla but not 100% vanilla blitz".
+Name                                   Size Checksum
+1125 - The Vanilla but not 100% vanilla blitz          18763540 CRC(114e0666)
+
 ROMs required for driver "The White Feather".
 Name                                   Size Checksum
 490 - The White Feather            23302696 CRC(294c6150)
@@ -3150,6 +3266,10 @@ Name                                   Size Checksum
 ROMs required for driver "Voice Acting Tech Demo".
 Name                                   Size Checksum
 193 - Voice Acting Tech Demo       17337768 CRC(c2cd5264)
+
+ROMs required for driver "Voices of the Sacred Stones".
+Name                                   Size Checksum
+1148 - Voices of the Sacred Stones 16817656 CRC(30e7369b)
 
 ROMs required for driver "Void’s Blitzarre Adventure".
 Name                                   Size Checksum

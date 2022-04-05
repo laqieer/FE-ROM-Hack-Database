@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220404</version>
+		<version>20220405</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -45,7 +45,7 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</machine>
-	<machine name="A Hobbit's Tale">
+	<machine name="516 - A Hobbit's Tale">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
 		<publisher>Ragefest</publisher>
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
@@ -313,6 +313,11 @@
 		<comment>https://feuniverse.us/t/two-hour-blitz/13728/14</comment>
 		<publisher>Blitz</publisher>
 		<rom name="609 - BobbyYukitsuki's Two Hour Blitz" size="16959508" crc="93712a28" />
+	</machine>
+	<machine name="Boss Emblem 8">
+		<comment>https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1155 - Boss Emblem 8" size="16788080" crc="11e8bc5f" />
 	</machine>
 	<machine name="Boss Rush">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -826,6 +831,11 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="297 - FE6 All Mounts" size="16777532" crc="cc905927" />
 	</machine>
+	<machine name="FE6 assassin class">
+		<comment>https://feuniverse.us/t/fire-emblem-6-assassin-class/4065</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1156 - FE6 assassin class" size="16777216" crc="3e59baad" />
+	</machine>
 	<machine name="FE6 Boss Recruitment">
 		<comment>https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -901,6 +911,11 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1124 - FE6 Master Seal Edition" size="16777532" crc="15da761d" />
 	</machine>
+	<machine name="FE6 Mounted Mode">
+		<comment>https://feuniverse.us/t/fe6-mounted-mode/4118</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1157 - FE6 Mounted Mode" size="16777216" crc="2d1112df" />
+	</machine>
 	<machine name="FE6 Negative Growths">
 		<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -946,6 +961,11 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="291 - FE6 Promoted Mode" size="16777532" crc="41252a77" />
 	</machine>
+	<machine name="FE6 Randomized by Mighty_Hero_Dunban">
+		<comment>https://feuniverse.us/t/fire-emblem-6-randomized-first-ever-project/14707</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1152 - FE6 Randomized by Mighty_Hero_Dunban" size="16779933" crc="1d1297a0" />
+	</machine>
 	<machine name="FE6 Rapid Rebalance">
 		<comment>https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -965,6 +985,11 @@
 		<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="321 - FE6 Refurbished" size="16777532" crc="eb687c4e" />
+	</machine>
+	<machine name="FE6 Rogue Class">
+		<comment>https://feuniverse.us/t/fire-emblem-sealed-sword-rogue-class/4137</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1153 - FE6 Rogue Class" size="16777216" crc="ef373e61" />
 	</machine>
 	<machine name="FE6 rom with HM bonuses for everyone">
 		<comment>https://feuniverse.us/t/fe6-but-everyone-gets-hm-bonuses-or-no-one-gets-them/9178</comment>
@@ -1295,6 +1320,11 @@
 	<machine name="FE8 BS">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
+	</machine>
+	<machine name="FE8 but almost everyone has Astra and will always activate if they hit">
+		<comment>https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1159 - FE8 but almost everyone has Astra and will always activate if they hit" size="16817804" crc="468d627d" />
 	</machine>
 	<machine name="FE8 but everything OHKOs (Player Phase Emblem 8)">
 		<comment>https://feuniverse.us/t/fe8-but-everything-ohkos-player-phase-emblem-8/13859</comment>
@@ -2819,10 +2849,20 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="625 - OC Emblem Redux" size="17590124" crc="c3d04286" />
 	</machine>
+	<machine name="OCA Reverse Recruitment">
+		<comment>https://feuniverse.us/t/oca-reverse-recruitment/5347</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1160 - OCA Reverse Recruitment" size="25073560" crc="66029a50" />
+	</machine>
 	<machine name="Ode to Thracia">
 		<comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="1118 - Ode to Thracia" size="17204608" crc="decb2e4c" />
+	</machine>
+	<machine name="Of Blood and Gold">
+		<comment>https://feuniverse.us/t/fire-emblem-of-blood-and-gold-3-12-chapters-wip-playable-demo/15390</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1154 - Of Blood and Gold" size="17216328" crc="c9bbc986" />
 	</machine>
 	<machine name="Old Fire Mumblem">
 		<comment>https://fecentral.org/?page=hackinfo&amp;hackid=56</comment>
@@ -4098,6 +4138,11 @@
 		<comment>https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+	</machine>
+	<machine name="Water Emblem Project Aqua">
+		<comment>https://feuniverse.us/t/fire-emblem-7-project-aqua/9785</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1158 - Water Emblem Project Aqua" size="16943616" crc="789e1b04" />
 	</machine>
 	<machine name="What if Bors was in FE7">
 		<comment>https://feuniverse.us/t/what-if-bors-was-in-fe7/13650</comment>

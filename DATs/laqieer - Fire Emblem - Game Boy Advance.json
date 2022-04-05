@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220404",
+		"version": "20220405",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -233,7 +233,7 @@
 		},
 		{
 			"machine": {
-				"name": "A Hobbit's Tale",
+				"name": "516 - A Hobbit's Tale",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
 				"publisher": "Ragefest"
@@ -1199,6 +1199,24 @@
 						"name": "609 - BobbyYukitsuki's Two Hour Blitz",
 						"size": 16959508,
 						"crc": "93712a28"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Boss Emblem 8",
+				"comment": "https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1155 - Boss Emblem 8",
+						"size": 16788080,
+						"crc": "11e8bc5f"
 					}
 				}
 			]
@@ -3059,6 +3077,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 assassin class",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-assassin-class/4065",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1156 - FE6 assassin class",
+						"size": 16777216,
+						"crc": "3e59baad"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Boss Recruitment",
 				"comment": "https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142",
 				"description": null,
@@ -3329,6 +3365,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Mounted Mode",
+				"comment": "https://feuniverse.us/t/fe6-mounted-mode/4118",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1157 - FE6 Mounted Mode",
+						"size": 16777216,
+						"crc": "2d1112df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Negative Growths",
 				"comment": "https://feuniverse.us/t/fe6-negative-growths/9298",
 				"description": null,
@@ -3491,6 +3545,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Randomized by Mighty_Hero_Dunban",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-randomized-first-ever-project/14707",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1152 - FE6 Randomized by Mighty_Hero_Dunban",
+						"size": 16779933,
+						"crc": "1d1297a0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Rapid Rebalance",
 				"comment": "https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007",
 				"description": null,
@@ -3557,6 +3629,24 @@
 						"name": "321 - FE6 Refurbished",
 						"size": 16777532,
 						"crc": "eb687c4e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Rogue Class",
+				"comment": "https://feuniverse.us/t/fire-emblem-sealed-sword-rogue-class/4137",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1153 - FE6 Rogue Class",
+						"size": 16777216,
+						"crc": "ef373e61"
 					}
 				}
 			]
@@ -4807,6 +4897,24 @@
 						"name": "726 - FE8 BS",
 						"size": 16777216,
 						"crc": "31e71ef6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 but almost everyone has Astra and will always activate if they hit",
+				"comment": "https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1159 - FE8 but almost everyone has Astra and will always activate if they hit",
+						"size": 16817804,
+						"crc": "468d627d"
 					}
 				}
 			]
@@ -10375,6 +10483,24 @@
 		},
 		{
 			"machine": {
+				"name": "OCA Reverse Recruitment",
+				"comment": "https://feuniverse.us/t/oca-reverse-recruitment/5347",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1160 - OCA Reverse Recruitment",
+						"size": 25073560,
+						"crc": "66029a50"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Ode to Thracia",
 				"comment": "https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612",
 				"description": null,
@@ -10387,6 +10513,24 @@
 						"name": "1118 - Ode to Thracia",
 						"size": 17204608,
 						"crc": "decb2e4c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Of Blood and Gold",
+				"comment": "https://feuniverse.us/t/fire-emblem-of-blood-and-gold-3-12-chapters-wip-playable-demo/15390",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1154 - Of Blood and Gold",
+						"size": 17216328,
+						"crc": "c9bbc986"
 					}
 				}
 			]
@@ -14995,6 +15139,24 @@
 						"name": "278 - Water Crest - Morps’s Quest For Pants",
 						"size": 17267760,
 						"crc": "95d4742f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Water Emblem Project Aqua",
+				"comment": "https://feuniverse.us/t/fire-emblem-7-project-aqua/9785",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1158 - Water Emblem Project Aqua",
+						"size": 16943616,
+						"crc": "789e1b04"
 					}
 				}
 			]

@@ -21,7 +21,7 @@
 	<machine name="A Glimpse of Time (時の垣間 エリウッド編)">
 		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</machine>
-	<machine name="A Hobbit's Tale">
+	<machine name="516 - A Hobbit's Tale">
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
 	</machine>
 	<machine name="A New Revelation">
@@ -182,6 +182,9 @@
 	</machine>
 	<machine name="BobbyYukitsuki's Two Hour Blitz">
 		<rom name="609 - BobbyYukitsuki's Two Hour Blitz" size="16959508" crc="93712a28" />
+	</machine>
+	<machine name="Boss Emblem 8">
+		<rom name="1155 - Boss Emblem 8" size="16788080" crc="11e8bc5f" />
 	</machine>
 	<machine name="Boss Rush">
 		<rom name="504 - Boss Rush" size="25165880" crc="ad45b232" />
@@ -492,6 +495,9 @@
 	<machine name="FE6 All Mounts">
 		<rom name="297 - FE6 All Mounts" size="16777532" crc="cc905927" />
 	</machine>
+	<machine name="FE6 assassin class">
+		<rom name="1156 - FE6 assassin class" size="16777216" crc="3e59baad" />
+	</machine>
 	<machine name="FE6 Boss Recruitment">
 		<rom name="597 - FE6 Boss Recruitment" size="16777532" crc="e3a4cd1e" />
 	</machine>
@@ -537,6 +543,9 @@
 	<machine name="FE6 Master Seal Edition">
 		<rom name="1124 - FE6 Master Seal Edition" size="16777532" crc="15da761d" />
 	</machine>
+	<machine name="FE6 Mounted Mode">
+		<rom name="1157 - FE6 Mounted Mode" size="16777216" crc="2d1112df" />
+	</machine>
 	<machine name="FE6 Negative Growths">
 		<rom name="330 - FE6 Negative Growths" size="10655928" crc="08186206" />
 	</machine>
@@ -564,6 +573,9 @@
 	<machine name="FE6 Promoted Mode">
 		<rom name="291 - FE6 Promoted Mode" size="16777532" crc="41252a77" />
 	</machine>
+	<machine name="FE6 Randomized by Mighty_Hero_Dunban">
+		<rom name="1152 - FE6 Randomized by Mighty_Hero_Dunban" size="16779933" crc="1d1297a0" />
+	</machine>
 	<machine name="FE6 Rapid Rebalance">
 		<rom name="631 - FE6 Rapid Rebalance" size="16777532" crc="502353cb" />
 	</machine>
@@ -575,6 +587,9 @@
 	</machine>
 	<machine name="FE6 Refurbished">
 		<rom name="321 - FE6 Refurbished" size="16777532" crc="eb687c4e" />
+	</machine>
+	<machine name="FE6 Rogue Class">
+		<rom name="1153 - FE6 Rogue Class" size="16777216" crc="ef373e61" />
 	</machine>
 	<machine name="FE6 rom with HM bonuses for everyone">
 		<rom name="326 - FE6 rom with HM bonuses for everyone" size="16793100" crc="8c9d00cc" />
@@ -783,6 +798,9 @@
 	</machine>
 	<machine name="FE8 BS">
 		<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
+	</machine>
+	<machine name="FE8 but almost everyone has Astra and will always activate if they hit">
+		<rom name="1159 - FE8 but almost everyone has Astra and will always activate if they hit" size="16817804" crc="468d627d" />
 	</machine>
 	<machine name="FE8 but everything OHKOs (Player Phase Emblem 8)">
 		<rom name="1136 - FE8 but everything OHKOs (Player Phase Emblem 8)" size="16777216" crc="7d74b792" />
@@ -1711,8 +1729,14 @@
 	<machine name="OC Emblem Redux">
 		<rom name="625 - OC Emblem Redux" size="17590124" crc="c3d04286" />
 	</machine>
+	<machine name="OCA Reverse Recruitment">
+		<rom name="1160 - OCA Reverse Recruitment" size="25073560" crc="66029a50" />
+	</machine>
 	<machine name="Ode to Thracia">
 		<rom name="1118 - Ode to Thracia" size="17204608" crc="decb2e4c" />
+	</machine>
+	<machine name="Of Blood and Gold">
+		<rom name="1154 - Of Blood and Gold" size="17216328" crc="c9bbc986" />
 	</machine>
 	<machine name="Old Fire Mumblem">
 		<rom name="496 - Old Fire Mumblem" size="16838132" crc="04cfa619" />
@@ -2481,6 +2505,9 @@
 	</machine>
 	<machine name="Water Crest - Morps’s Quest For Pants">
 		<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+	</machine>
+	<machine name="Water Emblem Project Aqua">
+		<rom name="1158 - Water Emblem Project Aqua" size="16943616" crc="789e1b04" />
 	</machine>
 	<machine name="What if Bors was in FE7">
 		<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />

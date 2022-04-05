@@ -5,7 +5,7 @@
 	21关开始-封印之剑/930 - 21关开始-封印之剑			75da6fb9	8388608
 	[FE8] Fire Emblem - The Archon's Curse/1064 - [FE8] Fire Emblem - The Archon's Curse			1be625b7	20883568
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
-	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
+	516 - A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
 	A New Revelation/530 - A New Revelation			08189dee	17616732
 	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
 	A Sacred Dawn DX/285 - A Sacred Dawn DX			651b8fa3	22333152
@@ -59,6 +59,7 @@
 	Blood of the Covenant/290 - Blood of the Covenant			63a45a53	20149244
 	Bloodlines/410 - Bloodlines			9063e95c	26364548
 	BobbyYukitsuki's Two Hour Blitz/609 - BobbyYukitsuki's Two Hour Blitz			93712a28	16959508
+	Boss Emblem 8/1155 - Boss Emblem 8			11e8bc5f	16788080
 	Boss Rush/504 - Boss Rush			ad45b232	25165880
 	Boss War/115 - Boss War			186ecc6e	25171160
 	BoxWhatBox/672 - BoxWhatBox			3026f352	17267760
@@ -162,6 +163,7 @@
 	FE6 - Armor emblem (Knightlier version)/997 - FE6 - Armor emblem (Knightlier version)			4ded7c5b	9405556
 	FE6 - Armor emblem (Triangle version)/998 - FE6 - Armor emblem (Triangle version)			515aea9a	9405556
 	FE6 All Mounts/297 - FE6 All Mounts			cc905927	16777532
+	FE6 assassin class/1156 - FE6 assassin class			3e59baad	16777216
 	FE6 Boss Recruitment/597 - FE6 Boss Recruitment			e3a4cd1e	16777532
 	FE6 BugFixEdition/620 - FE6 BugFixEdition			19bd10e9	8589272
 	FE6 BugFixEdition (Plus11AFixes)/622 - FE6 BugFixEdition (Plus11AFixes)			4a11f899	8589272
@@ -177,6 +179,7 @@
 	FE6 Incandescence Edition/320 - FE6 Incandescence Edition			564d7782	16777532
 	FE6 James Patch/764 - FE6 James Patch			af26efb5	16777216
 	FE6 Master Seal Edition/1124 - FE6 Master Seal Edition			15da761d	16777532
+	FE6 Mounted Mode/1157 - FE6 Mounted Mode			2d1112df	16777216
 	FE6 Negative Growths/330 - FE6 Negative Growths			08186206	10655928
 	FE6 Negative Growths (English)/331 - FE6 Negative Growths (English)			ac14b603	16777216
 	FE6 No Redundancy Edition/585 - FE6 No Redundancy Edition			a75aeb75	9300520
@@ -186,10 +189,12 @@
 	FE6 Plus [Enhancement Patch] (Fixed)/1022 - FE6 Plus [Enhancement Patch] (Fixed)			4e4c2301	8588128
 	FE6 Plus [Enhancement Patch] (Numbers)/1021 - FE6 Plus [Enhancement Patch] (Numbers)			dce3756b	8588556
 	FE6 Promoted Mode/291 - FE6 Promoted Mode			41252a77	16777532
+	FE6 Randomized by Mighty_Hero_Dunban/1152 - FE6 Randomized by Mighty_Hero_Dunban			1d1297a0	16779933
 	FE6 Rapid Rebalance/631 - FE6 Rapid Rebalance			502353cb	16777532
 	FE6 Real War Chronicles/543 - FE6 Real War Chronicles			9eaeda76	16777216
 	FE6 Recolored/302 - FE6 Recolored			6c2527d9	16777532
 	FE6 Refurbished/321 - FE6 Refurbished			eb687c4e	16777532
+	FE6 Rogue Class/1153 - FE6 Rogue Class			ef373e61	16777216
 	FE6 rom with HM bonuses for everyone/326 - FE6 rom with HM bonuses for everyone			8c9d00cc	16793100
 	FE6 smabroROY/694 - FE6 smabroROY			187655d6	8829832
 	FE6 The Blinding Fog/1013 - FE6 The Blinding Fog			abd06511	16777532
@@ -260,6 +265,7 @@
 	FE8 Beta Test 1/553 - FE8 Beta Test 1			e82ad29c	16777616
 	FE8 Boss Recruitment (Ephraim Route)/366 - FE8 Boss Recruitment (Ephraim Route)			6fa24ab4	17208220
 	FE8 BS/726 - FE8 BS			31e71ef6	16777216
+	FE8 but almost everyone has Astra and will always activate if they hit/1159 - FE8 but almost everyone has Astra and will always activate if they hit			468d627d	16817804
 	FE8 but everything OHKOs (Player Phase Emblem 8)/1136 - FE8 but everything OHKOs (Player Phase Emblem 8)			7d74b792	16777216
 	FE8 Changes Lite/396 - FE8 Changes Lite			e41e4c1e	16795848
 	FE8 Chaos Randomizer (Normal recruitment, original base stats)/368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)			bff6749e	17060990
@@ -569,7 +575,9 @@
 	OC Emblem/413 - OC Emblem			5f29fe04	21489356
 	OC Emblem - Endgame/670 - OC Emblem - Endgame			724d68da	20235124
 	OC Emblem Redux/625 - OC Emblem Redux			c3d04286	17590124
+	OCA Reverse Recruitment/1160 - OCA Reverse Recruitment			66029a50	25073560
 	Ode to Thracia/1118 - Ode to Thracia			decb2e4c	17204608
+	Of Blood and Gold/1154 - Of Blood and Gold			c9bbc986	17216328
 	Old Fire Mumblem/496 - Old Fire Mumblem			04cfa619	16838132
 	One-Turn-Clear/151 - One-Turn-Clear			e930a809	16806828
 	One-Week Hack/171 - One-Week Hack			fb464aca	17087876
@@ -826,6 +834,7 @@
 	War on Two Fronts/234 - War on Two Fronts			3c922e66	24923600
 	War on Two Fronts (0% Growths)/235 - War on Two Fronts (0% Growths)			aa7bf47b	24923600
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
+	Water Emblem Project Aqua/1158 - Water Emblem Project Aqua			789e1b04	16943616
 	What if Bors was in FE7/1109 - What if Bors was in FE7			122253da	16787660
 	Wheel Of Misfortune/540 - Wheel Of Misfortune			71238326	19997476
 	WillanZ Rebellion (リベリオン)/715 - WillanZ Rebellion (リベリオン)			de84bb04	28914848

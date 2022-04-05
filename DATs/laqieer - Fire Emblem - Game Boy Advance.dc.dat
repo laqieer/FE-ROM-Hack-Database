@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220404
+	Version: 20220405
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -36,7 +36,7 @@ game (
 	file ( name 178 - A Glimpse of Time (時の垣間 エリウッド編) size 19436704 crc caccb1eb )
 )
 game (
-	name "A Hobbit's Tale.zip"
+	name "516 - A Hobbit's Tale.zip"
 	file ( name 516 - A Hobbit's Tale size 16820432 crc b59f143c )
 )
 game (
@@ -250,6 +250,10 @@ game (
 game (
 	name "BobbyYukitsuki's Two Hour Blitz.zip"
 	file ( name 609 - BobbyYukitsuki's Two Hour Blitz size 16959508 crc 93712a28 )
+)
+game (
+	name "Boss Emblem 8.zip"
+	file ( name 1155 - Boss Emblem 8 size 16788080 crc 11e8bc5f )
 )
 game (
 	name "Boss Rush.zip"
@@ -664,6 +668,10 @@ game (
 	file ( name 297 - FE6 All Mounts size 16777532 crc cc905927 )
 )
 game (
+	name "FE6 assassin class.zip"
+	file ( name 1156 - FE6 assassin class size 16777216 crc 3e59baad )
+)
+game (
 	name "FE6 Boss Recruitment.zip"
 	file ( name 597 - FE6 Boss Recruitment size 16777532 crc e3a4cd1e )
 )
@@ -724,6 +732,10 @@ game (
 	file ( name 1124 - FE6 Master Seal Edition size 16777532 crc 15da761d )
 )
 game (
+	name "FE6 Mounted Mode.zip"
+	file ( name 1157 - FE6 Mounted Mode size 16777216 crc 2d1112df )
+)
+game (
 	name "FE6 Negative Growths.zip"
 	file ( name 330 - FE6 Negative Growths size 10655928 crc 08186206 )
 )
@@ -760,6 +772,10 @@ game (
 	file ( name 291 - FE6 Promoted Mode size 16777532 crc 41252a77 )
 )
 game (
+	name "FE6 Randomized by Mighty_Hero_Dunban.zip"
+	file ( name 1152 - FE6 Randomized by Mighty_Hero_Dunban size 16779933 crc 1d1297a0 )
+)
+game (
 	name "FE6 Rapid Rebalance.zip"
 	file ( name 631 - FE6 Rapid Rebalance size 16777532 crc 502353cb )
 )
@@ -774,6 +790,10 @@ game (
 game (
 	name "FE6 Refurbished.zip"
 	file ( name 321 - FE6 Refurbished size 16777532 crc eb687c4e )
+)
+game (
+	name "FE6 Rogue Class.zip"
+	file ( name 1153 - FE6 Rogue Class size 16777216 crc ef373e61 )
 )
 game (
 	name "FE6 rom with HM bonuses for everyone.zip"
@@ -1051,6 +1071,10 @@ game (
 game (
 	name "FE8 BS.zip"
 	file ( name 726 - FE8 BS size 16777216 crc 31e71ef6 )
+)
+game (
+	name "FE8 but almost everyone has Astra and will always activate if they hit.zip"
+	file ( name 1159 - FE8 but almost everyone has Astra and will always activate if they hit size 16817804 crc 468d627d )
 )
 game (
 	name "FE8 but everything OHKOs (Player Phase Emblem 8).zip"
@@ -2146,7 +2170,7 @@ game (
 )
 game (
 	name "M. E. R. C. S..zip"
-	file ( name 467 - M. E. R. C size 18427704 crc 048eb1b6 )
+	file ( name 467 - M. E. R. C. S size 18427704 crc 048eb1b6 )
 )
 game (
 	name "MageKnight404's FE7 Hack.zip"
@@ -2289,8 +2313,16 @@ game (
 	file ( name 625 - OC Emblem Redux size 17590124 crc c3d04286 )
 )
 game (
+	name "OCA Reverse Recruitment.zip"
+	file ( name 1160 - OCA Reverse Recruitment size 25073560 crc 66029a50 )
+)
+game (
 	name "Ode to Thracia.zip"
 	file ( name 1118 - Ode to Thracia size 17204608 crc decb2e4c )
+)
+game (
+	name "Of Blood and Gold.zip"
+	file ( name 1154 - Of Blood and Gold size 17216328 crc c9bbc986 )
 )
 game (
 	name "Old Fire Mumblem.zip"
@@ -2426,7 +2458,7 @@ game (
 )
 game (
 	name "Project Sacred Stones v.0.2.5.1.zip"
-	file ( name 1106 - Project Sacred Stones v.0.2 size 17044860 crc a9d395a4 )
+	file ( name 1106 - Project Sacred Stones v.0.2.5 size 17044860 crc a9d395a4 )
 )
 game (
 	name "Prophecy of Flames.zip"
@@ -3317,6 +3349,10 @@ game (
 	file ( name 278 - Water Crest - Morps’s Quest For Pants size 17267760 crc 95d4742f )
 )
 game (
+	name "Water Emblem Project Aqua.zip"
+	file ( name 1158 - Water Emblem Project Aqua size 16943616 crc 789e1b04 )
+)
+game (
 	name "What if Bors was in FE7.zip"
 	file ( name 1109 - What if Bors was in FE7 size 16787660 crc 122253da )
 )
@@ -3470,7 +3506,7 @@ game (
 )
 game (
 	name "召唤师2.0中秋限定版.zip"
-	file ( name 942 - 召唤师2 size 26095224 crc 5865db9c )
+	file ( name 942 - 召唤师2.0中秋限定版 size 26095224 crc 5865db9c )
 )
 game (
 	name "召唤师.zip"

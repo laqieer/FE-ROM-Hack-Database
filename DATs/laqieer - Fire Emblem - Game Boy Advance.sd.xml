@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220404</version>
+		<version>20220405</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -209,7 +209,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>A Hobbit's Tale</name>
+				<name>516 - A Hobbit's Tale</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
 			</machine>
@@ -1014,6 +1014,21 @@
 					<name>609 - BobbyYukitsuki's Two Hour Blitz</name>
 					<size>16959508</size>
 					<crc>93712a28</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Boss Emblem 8</name>
+				<comment>https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1155 - Boss Emblem 8</name>
+					<size>16788080</size>
+					<crc>11e8bc5f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2564,6 +2579,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 assassin class</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-assassin-class/4065</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1156 - FE6 assassin class</name>
+					<size>16777216</size>
+					<crc>3e59baad</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 Boss Recruitment</name>
 				<comment>https://feuniverse.us/t/fire-emblem-6-boss-recruitment/12142</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2789,6 +2819,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 Mounted Mode</name>
+				<comment>https://feuniverse.us/t/fe6-mounted-mode/4118</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1157 - FE6 Mounted Mode</name>
+					<size>16777216</size>
+					<crc>2d1112df</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 Negative Growths</name>
 				<comment>https://feuniverse.us/t/fe6-negative-growths/9298</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2924,6 +2969,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 Randomized by Mighty_Hero_Dunban</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-randomized-first-ever-project/14707</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1152 - FE6 Randomized by Mighty_Hero_Dunban</name>
+					<size>16779933</size>
+					<crc>1d1297a0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 Rapid Rebalance</name>
 				<comment>https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -2979,6 +3039,21 @@
 					<name>321 - FE6 Refurbished</name>
 					<size>16777532</size>
 					<crc>eb687c4e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 Rogue Class</name>
+				<comment>https://feuniverse.us/t/fire-emblem-sealed-sword-rogue-class/4137</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1153 - FE6 Rogue Class</name>
+					<size>16777216</size>
+					<crc>ef373e61</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4020,6 +4095,21 @@
 					<name>726 - FE8 BS</name>
 					<size>16777216</size>
 					<crc>31e71ef6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 but almost everyone has Astra and will always activate if they hit</name>
+				<comment>https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1159 - FE8 but almost everyone has Astra and will always activate if they hit</name>
+					<size>16817804</size>
+					<crc>468d627d</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8660,6 +8750,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>OCA Reverse Recruitment</name>
+				<comment>https://feuniverse.us/t/oca-reverse-recruitment/5347</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1160 - OCA Reverse Recruitment</name>
+					<size>25073560</size>
+					<crc>66029a50</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Ode to Thracia</name>
 				<comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
 				<publisher>Fan Modding</publisher>
@@ -8670,6 +8775,21 @@
 					<name>1118 - Ode to Thracia</name>
 					<size>17204608</size>
 					<crc>decb2e4c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Of Blood and Gold</name>
+				<comment>https://feuniverse.us/t/fire-emblem-of-blood-and-gold-3-12-chapters-wip-playable-demo/15390</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1154 - Of Blood and Gold</name>
+					<size>17216328</size>
+					<crc>c9bbc986</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12510,6 +12630,21 @@
 					<name>278 - Water Crest - Morps’s Quest For Pants</name>
 					<size>17267760</size>
 					<crc>95d4742f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Water Emblem Project Aqua</name>
+				<comment>https://feuniverse.us/t/fire-emblem-7-project-aqua/9785</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1158 - Water Emblem Project Aqua</name>
+					<size>16943616</size>
+					<crc>789e1b04</crc>
 				</datitem>
 			</files>
 		</directory>

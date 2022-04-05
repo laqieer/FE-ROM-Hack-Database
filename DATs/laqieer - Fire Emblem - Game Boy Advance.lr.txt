@@ -26,7 +26,7 @@ ROMs required for driver "A Glimpse of Time (時の垣間 エリウッド編)".
 Name                                   Size Checksum
 178 - A Glimpse of Time (時の垣間 エリウッド編)19436704 CRC(caccb1eb)
 
-ROMs required for driver "A Hobbit's Tale".
+ROMs required for driver "516 - A Hobbit's Tale".
 Name                                   Size Checksum
 516 - A Hobbit's Tale              16820432 CRC(b59f143c)
 
@@ -241,6 +241,10 @@ Name                                   Size Checksum
 ROMs required for driver "BobbyYukitsuki's Two Hour Blitz".
 Name                                   Size Checksum
 609 - BobbyYukitsuki's Two Hour Blitz16959508 CRC(93712a28)
+
+ROMs required for driver "Boss Emblem 8".
+Name                                   Size Checksum
+1155 - Boss Emblem 8               16788080 CRC(11e8bc5f)
 
 ROMs required for driver "Boss Rush".
 Name                                   Size Checksum
@@ -654,6 +658,10 @@ ROMs required for driver "FE6 All Mounts".
 Name                                   Size Checksum
 297 - FE6 All Mounts               16777532 CRC(cc905927)
 
+ROMs required for driver "FE6 assassin class".
+Name                                   Size Checksum
+1156 - FE6 assassin class          16777216 CRC(3e59baad)
+
 ROMs required for driver "FE6 Boss Recruitment".
 Name                                   Size Checksum
 597 - FE6 Boss Recruitment         16777532 CRC(e3a4cd1e)
@@ -714,6 +722,10 @@ ROMs required for driver "FE6 Master Seal Edition".
 Name                                   Size Checksum
 1124 - FE6 Master Seal Edition     16777532 CRC(15da761d)
 
+ROMs required for driver "FE6 Mounted Mode".
+Name                                   Size Checksum
+1157 - FE6 Mounted Mode            16777216 CRC(2d1112df)
+
 ROMs required for driver "FE6 Negative Growths".
 Name                                   Size Checksum
 330 - FE6 Negative Growths         10655928 CRC(08186206)
@@ -750,6 +762,10 @@ ROMs required for driver "FE6 Promoted Mode".
 Name                                   Size Checksum
 291 - FE6 Promoted Mode            16777532 CRC(41252a77)
 
+ROMs required for driver "FE6 Randomized by Mighty_Hero_Dunban".
+Name                                   Size Checksum
+1152 - FE6 Randomized by Mighty_Hero_Dunban          16779933 CRC(1d1297a0)
+
 ROMs required for driver "FE6 Rapid Rebalance".
 Name                                   Size Checksum
 631 - FE6 Rapid Rebalance          16777532 CRC(502353cb)
@@ -765,6 +781,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE6 Refurbished".
 Name                                   Size Checksum
 321 - FE6 Refurbished              16777532 CRC(eb687c4e)
+
+ROMs required for driver "FE6 Rogue Class".
+Name                                   Size Checksum
+1153 - FE6 Rogue Class             16777216 CRC(ef373e61)
 
 ROMs required for driver "FE6 rom with HM bonuses for everyone".
 Name                                   Size Checksum
@@ -1042,6 +1062,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 BS".
 Name                                   Size Checksum
 726 - FE8 BS                       16777216 CRC(31e71ef6)
+
+ROMs required for driver "FE8 but almost everyone has Astra and will always activate if they hit".
+Name                                   Size Checksum
+1159 - FE8 but almost everyone has Astra and will always activate if they hit          16817804 CRC(468d627d)
 
 ROMs required for driver "FE8 but everything OHKOs (Player Phase Emblem 8)".
 Name                                   Size Checksum
@@ -2279,9 +2303,17 @@ ROMs required for driver "OC Emblem Redux".
 Name                                   Size Checksum
 625 - OC Emblem Redux              17590124 CRC(c3d04286)
 
+ROMs required for driver "OCA Reverse Recruitment".
+Name                                   Size Checksum
+1160 - OCA Reverse Recruitment     25073560 CRC(66029a50)
+
 ROMs required for driver "Ode to Thracia".
 Name                                   Size Checksum
 1118 - Ode to Thracia              17204608 CRC(decb2e4c)
+
+ROMs required for driver "Of Blood and Gold".
+Name                                   Size Checksum
+1154 - Of Blood and Gold           17216328 CRC(c9bbc986)
 
 ROMs required for driver "Old Fire Mumblem".
 Name                                   Size Checksum
@@ -3306,6 +3338,10 @@ Name                                   Size Checksum
 ROMs required for driver "Water Crest - Morps’s Quest For Pants".
 Name                                   Size Checksum
 278 - Water Crest - Morps’s Quest For Pants          17267760 CRC(95d4742f)
+
+ROMs required for driver "Water Emblem Project Aqua".
+Name                                   Size Checksum
+1158 - Water Emblem Project Aqua   16943616 CRC(789e1b04)
 
 ROMs required for driver "What if Bors was in FE7".
 Name                                   Size Checksum

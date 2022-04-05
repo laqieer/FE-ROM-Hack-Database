@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1081</datVersion>
+		<datVersion>1090</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1141,6 +1141,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/two-hour-blitz/13728/14</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1155 - Boss Emblem 8</title>
+			<saveType>None</saveType>
+			<romSize>16788080</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">11E8BC5F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3003,6 +3021,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1156 - FE6 assassin class</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3E59BAAD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-assassin-class/4065</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>597 - FE6 Boss Recruitment</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
@@ -3273,6 +3309,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1157 - FE6 Mounted Mode</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">2D1112DF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-mounted-mode/4118</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>330 - FE6 Negative Growths</title>
 			<saveType>None</saveType>
 			<romSize>10655928</romSize>
@@ -3435,6 +3489,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1152 - FE6 Randomized by Mighty_Hero_Dunban</title>
+			<saveType>None</saveType>
+			<romSize>16779933</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1D1297A0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-randomized-first-ever-project/14707</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>631 - FE6 Rapid Rebalance</title>
 			<saveType>None</saveType>
 			<romSize>16777532</romSize>
@@ -3502,6 +3574,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-6-refurbished-2-0-final-patch/14595</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1153 - FE6 Rogue Class</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EF373E61</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-sealed-sword-rogue-class/4137</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4779,6 +4869,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1159 - FE8 but almost everyone has Astra and will always activate if they hit</title>
+			<saveType>None</saveType>
+			<romSize>16817804</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">468D627D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10368,6 +10476,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1160 - OCA Reverse Recruitment</title>
+			<saveType>None</saveType>
+			<romSize>25073560</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">66029A50</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/oca-reverse-recruitment/5347</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1118 - Ode to Thracia</title>
 			<saveType>None</saveType>
 			<romSize>17204608</romSize>
@@ -10381,6 +10507,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/an-ode-to-thracia-minihack-1-chapter/15612</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1154 - Of Blood and Gold</title>
+			<saveType>None</saveType>
+			<romSize>17216328</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C9BBC986</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-of-blood-and-gold-3-12-chapters-wip-playable-demo/15390</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14994,6 +15138,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1158 - Water Emblem Project Aqua</title>
+			<saveType>None</saveType>
+			<romSize>16943616</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">789E1B04</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-7-project-aqua/9785</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

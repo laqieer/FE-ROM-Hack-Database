@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220404"
+	version "20220405"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -45,8 +45,8 @@ game (
 	rom ( name "178 - A Glimpse of Time (時の垣間 エリウッド編)" size "19436704" crc "caccb1eb" )
 )
 game (
-	name "A Hobbit's Tale"
-	description "A Hobbit's Tale"
+	name "516 - A Hobbit's Tale"
+	description "516 - A Hobbit's Tale"
 	rom ( name "516 - A Hobbit's Tale" size "16820432" crc "b59f143c" )
 )
 game (
@@ -313,6 +313,11 @@ game (
 	name "BobbyYukitsuki's Two Hour Blitz"
 	description "BobbyYukitsuki's Two Hour Blitz"
 	rom ( name "609 - BobbyYukitsuki's Two Hour Blitz" size "16959508" crc "93712a28" )
+)
+game (
+	name "Boss Emblem 8"
+	description "Boss Emblem 8"
+	rom ( name "1155 - Boss Emblem 8" size "16788080" crc "11e8bc5f" )
 )
 game (
 	name "Boss Rush"
@@ -830,6 +835,11 @@ game (
 	rom ( name "297 - FE6 All Mounts" size "16777532" crc "cc905927" )
 )
 game (
+	name "FE6 assassin class"
+	description "FE6 assassin class"
+	rom ( name "1156 - FE6 assassin class" size "16777216" crc "3e59baad" )
+)
+game (
 	name "FE6 Boss Recruitment"
 	description "FE6 Boss Recruitment"
 	rom ( name "597 - FE6 Boss Recruitment" size "16777532" crc "e3a4cd1e" )
@@ -905,6 +915,11 @@ game (
 	rom ( name "1124 - FE6 Master Seal Edition" size "16777532" crc "15da761d" )
 )
 game (
+	name "FE6 Mounted Mode"
+	description "FE6 Mounted Mode"
+	rom ( name "1157 - FE6 Mounted Mode" size "16777216" crc "2d1112df" )
+)
+game (
 	name "FE6 Negative Growths"
 	description "FE6 Negative Growths"
 	rom ( name "330 - FE6 Negative Growths" size "10655928" crc "08186206" )
@@ -950,6 +965,11 @@ game (
 	rom ( name "291 - FE6 Promoted Mode" size "16777532" crc "41252a77" )
 )
 game (
+	name "FE6 Randomized by Mighty_Hero_Dunban"
+	description "FE6 Randomized by Mighty_Hero_Dunban"
+	rom ( name "1152 - FE6 Randomized by Mighty_Hero_Dunban" size "16779933" crc "1d1297a0" )
+)
+game (
 	name "FE6 Rapid Rebalance"
 	description "FE6 Rapid Rebalance"
 	rom ( name "631 - FE6 Rapid Rebalance" size "16777532" crc "502353cb" )
@@ -968,6 +988,11 @@ game (
 	name "FE6 Refurbished"
 	description "FE6 Refurbished"
 	rom ( name "321 - FE6 Refurbished" size "16777532" crc "eb687c4e" )
+)
+game (
+	name "FE6 Rogue Class"
+	description "FE6 Rogue Class"
+	rom ( name "1153 - FE6 Rogue Class" size "16777216" crc "ef373e61" )
 )
 game (
 	name "FE6 rom with HM bonuses for everyone"
@@ -1314,6 +1339,11 @@ game (
 	name "FE8 BS"
 	description "FE8 BS"
 	rom ( name "726 - FE8 BS" size "16777216" crc "31e71ef6" )
+)
+game (
+	name "FE8 but almost everyone has Astra and will always activate if they hit"
+	description "FE8 but almost everyone has Astra and will always activate if they hit"
+	rom ( name "1159 - FE8 but almost everyone has Astra and will always activate if they hit" size "16817804" crc "468d627d" )
 )
 game (
 	name "FE8 but everything OHKOs (Player Phase Emblem 8)"
@@ -2683,7 +2713,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S." size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -2861,9 +2891,19 @@ game (
 	rom ( name "625 - OC Emblem Redux" size "17590124" crc "c3d04286" )
 )
 game (
+	name "OCA Reverse Recruitment"
+	description "OCA Reverse Recruitment"
+	rom ( name "1160 - OCA Reverse Recruitment" size "25073560" crc "66029a50" )
+)
+game (
 	name "Ode to Thracia"
 	description "Ode to Thracia"
 	rom ( name "1118 - Ode to Thracia" size "17204608" crc "decb2e4c" )
+)
+game (
+	name "Of Blood and Gold"
+	description "Of Blood and Gold"
+	rom ( name "1154 - Of Blood and Gold" size "17216328" crc "c9bbc986" )
 )
 game (
 	name "Old Fire Mumblem"
@@ -3033,7 +3073,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"
@@ -4144,6 +4184,11 @@ game (
 	name "Water Crest - Morps’s Quest For Pants"
 	description "Water Crest - Morps’s Quest For Pants"
 	rom ( name "278 - Water Crest - Morps’s Quest For Pants" size "17267760" crc "95d4742f" )
+)
+game (
+	name "Water Emblem Project Aqua"
+	description "Water Emblem Project Aqua"
+	rom ( name "1158 - Water Emblem Project Aqua" size "16943616" crc "789e1b04" )
 )
 game (
 	name "What if Bors was in FE7"

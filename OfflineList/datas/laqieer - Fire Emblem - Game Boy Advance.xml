@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220404</datVersion>
+    <datVersion>20220405</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19495,6 +19495,168 @@
       <im1CRC>BDE2419F</im1CRC>
       <im2CRC>29110E5C</im2CRC>
       <comment>https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1152</imageNumber>
+      <releaseNumber>1152</releaseNumber>
+      <title>FE6 Randomized by Mighty_Hero_Dunban</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16779933</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mighty_Hero_Dunban</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">1D1297A0</romCRC>
+      </files>
+      <im1CRC>69750CA1</im1CRC>
+      <im2CRC>FC090846</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-6-randomized-first-ever-project/14707</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1153</imageNumber>
+      <releaseNumber>1153</releaseNumber>
+      <title>FE6 Rogue Class</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>lefterik</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">EF373E61</romCRC>
+      </files>
+      <im1CRC>7B9D6596</im1CRC>
+      <im2CRC>900CD2F4</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-sealed-sword-rogue-class/4137</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1154</imageNumber>
+      <releaseNumber>1154</releaseNumber>
+      <title>Of Blood and Gold</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17216328</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>cheddar29</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C9BBC986</romCRC>
+      </files>
+      <im1CRC>94A67F1B</im1CRC>
+      <im2CRC>6EE254ED</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-of-blood-and-gold-3-12-chapters-wip-playable-demo/15390</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1155</imageNumber>
+      <releaseNumber>1155</releaseNumber>
+      <title>Boss Emblem 8</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16788080</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>MarsofAritia</sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".gba">11E8BC5F</romCRC>
+      </files>
+      <im1CRC>959A88F3</im1CRC>
+      <im2CRC>CEA00BC5</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1156</imageNumber>
+      <releaseNumber>1156</releaseNumber>
+      <title>FE6 assassin class</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>lefterik</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">3E59BAAD</romCRC>
+      </files>
+      <im1CRC>2887DFF5</im1CRC>
+      <im2CRC>206BBF57</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-6-assassin-class/4065</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1157</imageNumber>
+      <releaseNumber>1157</releaseNumber>
+      <title>FE6 Mounted Mode</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Author_Pendragon</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">2D1112DF</romCRC>
+      </files>
+      <im1CRC>CFCAEE16</im1CRC>
+      <im2CRC>8B86D16B</im2CRC>
+      <comment>https://feuniverse.us/t/fe6-mounted-mode/4118</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1158</imageNumber>
+      <releaseNumber>1158</releaseNumber>
+      <title>Water Emblem Project Aqua</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16943616</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>darknight97</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">789E1B04</romCRC>
+      </files>
+      <im1CRC>E2AD9728</im1CRC>
+      <im2CRC>69D64137</im2CRC>
+      <comment>https://feuniverse.us/t/fire-emblem-7-project-aqua/9785</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1159</imageNumber>
+      <releaseNumber>1159</releaseNumber>
+      <title>FE8 but almost everyone has Astra and will always activate if they hit</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16817804</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>DigBick</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">468D627D</romCRC>
+      </files>
+      <im1CRC>9FAA36D4</im1CRC>
+      <im2CRC>A090D7D8</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1160</imageNumber>
+      <releaseNumber>1160</releaseNumber>
+      <title>OCA Reverse Recruitment</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>25073560</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>ltranc</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">66029A50</romCRC>
+      </files>
+      <im1CRC>C2754C29</im1CRC>
+      <im2CRC>82C42E04</im2CRC>
+      <comment>https://feuniverse.us/t/oca-reverse-recruitment/5347</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

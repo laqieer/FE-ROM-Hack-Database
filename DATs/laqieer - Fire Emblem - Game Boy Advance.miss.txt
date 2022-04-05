@@ -59,6 +59,7 @@
 290 - Blood of the Covenant
 410 - Bloodlines
 609 - BobbyYukitsuki's Two Hour Blitz
+1155 - Boss Emblem 8
 504 - Boss Rush
 115 - Boss War
 672 - BoxWhatBox
@@ -162,6 +163,7 @@
 997 - FE6 - Armor emblem (Knightlier version)
 998 - FE6 - Armor emblem (Triangle version)
 297 - FE6 All Mounts
+1156 - FE6 assassin class
 597 - FE6 Boss Recruitment
 620 - FE6 BugFixEdition
 622 - FE6 BugFixEdition (Plus11AFixes)
@@ -177,6 +179,7 @@
 320 - FE6 Incandescence Edition
 764 - FE6 James Patch
 1124 - FE6 Master Seal Edition
+1157 - FE6 Mounted Mode
 330 - FE6 Negative Growths
 331 - FE6 Negative Growths (English)
 585 - FE6 No Redundancy Edition
@@ -186,10 +189,12 @@
 1022 - FE6 Plus [Enhancement Patch] (Fixed)
 1021 - FE6 Plus [Enhancement Patch] (Numbers)
 291 - FE6 Promoted Mode
+1152 - FE6 Randomized by Mighty_Hero_Dunban
 631 - FE6 Rapid Rebalance
 543 - FE6 Real War Chronicles
 302 - FE6 Recolored
 321 - FE6 Refurbished
+1153 - FE6 Rogue Class
 326 - FE6 rom with HM bonuses for everyone
 694 - FE6 smabroROY
 1013 - FE6 The Blinding Fog
@@ -260,6 +265,7 @@
 553 - FE8 Beta Test 1
 366 - FE8 Boss Recruitment (Ephraim Route)
 726 - FE8 BS
+1159 - FE8 but almost everyone has Astra and will always activate if they hit
 1136 - FE8 but everything OHKOs (Player Phase Emblem 8)
 396 - FE8 Changes Lite
 368 - FE8 Chaos Randomizer (Normal recruitment, original base stats)
@@ -569,7 +575,9 @@
 413 - OC Emblem
 670 - OC Emblem - Endgame
 625 - OC Emblem Redux
+1160 - OCA Reverse Recruitment
 1118 - Ode to Thracia
+1154 - Of Blood and Gold
 496 - Old Fire Mumblem
 151 - One-Turn-Clear
 171 - One-Week Hack
@@ -826,6 +834,7 @@
 234 - War on Two Fronts
 235 - War on Two Fronts (0% Growths)
 278 - Water Crest - Morps’s Quest For Pants
+1158 - Water Emblem Project Aqua
 1109 - What if Bors was in FE7
 540 - Wheel Of Misfortune
 715 - WillanZ Rebellion (リベリオン)

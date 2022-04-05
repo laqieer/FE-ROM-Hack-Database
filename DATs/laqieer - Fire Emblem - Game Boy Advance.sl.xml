@@ -57,7 +57,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="A Hobbit's Tale">
+	<software name="516 - A Hobbit's Tale">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -486,6 +486,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="609 - BobbyYukitsuki's Two Hour Blitz" size="16959508" crc="93712a28" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Boss Emblem 8">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1155 - Boss Emblem 8" size="16788080" crc="11e8bc5f" />
 			</dataarea>
 		</part>
 	</software>
@@ -1313,6 +1321,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 assassin class">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1156 - FE6 assassin class" size="16777216" crc="3e59baad" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Boss Recruitment">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1433,6 +1449,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Mounted Mode">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1157 - FE6 Mounted Mode" size="16777216" crc="2d1112df" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Negative Growths">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1505,6 +1529,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Randomized by Mighty_Hero_Dunban">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1152 - FE6 Randomized by Mighty_Hero_Dunban" size="16779933" crc="1d1297a0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Rapid Rebalance">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1534,6 +1566,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="321 - FE6 Refurbished" size="16777532" crc="eb687c4e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 Rogue Class">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1153 - FE6 Rogue Class" size="16777216" crc="ef373e61" />
 			</dataarea>
 		</part>
 	</software>
@@ -2091,6 +2131,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="726 - FE8 BS" size="16777216" crc="31e71ef6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 but almost everyone has Astra and will always activate if they hit">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1159 - FE8 but almost everyone has Astra and will always activate if they hit" size="16817804" crc="468d627d" />
 			</dataarea>
 		</part>
 	</software>
@@ -4566,11 +4614,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="OCA Reverse Recruitment">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1160 - OCA Reverse Recruitment" size="25073560" crc="66029a50" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Ode to Thracia">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1118 - Ode to Thracia" size="17204608" crc="decb2e4c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Of Blood and Gold">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1154 - Of Blood and Gold" size="17216328" crc="c9bbc986" />
 			</dataarea>
 		</part>
 	</software>
@@ -6619,6 +6683,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="278 - Water Crest - Morps’s Quest For Pants" size="17267760" crc="95d4742f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Water Emblem Project Aqua">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1158 - Water Emblem Project Aqua" size="16943616" crc="789e1b04" />
 			</dataarea>
 		</part>
 	</software>

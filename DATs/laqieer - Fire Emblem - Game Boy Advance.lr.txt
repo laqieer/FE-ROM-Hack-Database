@@ -710,6 +710,10 @@ ROMs required for driver "FE6 has DSFE movement".
 Name                                   Size Checksum
 599 - FE6 has DSFE movement         8586940 CRC(c70fea41)
 
+ROMs required for driver "FE6 Hollow Editon".
+Name                                   Size Checksum
+1166 - FE6 Hollow Editon           16777532 CRC(9ad6040e)
+
 ROMs required for driver "FE6 Incandescence Edition".
 Name                                   Size Checksum
 320 - FE6 Incandescence Edition    16777532 CRC(564d7782)
@@ -935,6 +939,14 @@ ROMs required for driver "FE7 Color Overhaul".
 Name                                   Size Checksum
 1123 - FE7 Color Overhaul          17077916 CRC(fe42f53d)
 
+ROMs required for driver "FE7 GE Wars of Dragons".
+Name                                   Size Checksum
+1169 - FE7 GE Wars of Dragons      20829312 CRC(4f290e6c)
+
+ROMs required for driver "FE7 GE Wars of Dragons (Beta)".
+Name                                   Size Checksum
+1170 - FE7 GE Wars of Dragons (Beta)25322628 CRC(c1c83f34)
+
 ROMs required for driver "FE7 Heroes".
 Name                                   Size Checksum
 581 - FE7 Heroes                   18878172 CRC(cc769fd5)
@@ -954,6 +966,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE7 Letras espanyol".
 Name                                   Size Checksum
 767 - FE7 Letras espanyol          16777216 CRC(14d046df)
+
+ROMs required for driver "FE7 LUNATIC MODE".
+Name                                   Size Checksum
+1165 - FE7 LUNATIC MODE            16777216 CRC(5ca4bdcc)
 
 ROMs required for driver "FE7 Lute Mode".
 Name                                   Size Checksum
@@ -1042,6 +1058,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE8 Another".
 Name                                   Size Checksum
 770 - FE8 Another                  19922944 CRC(436e6c5e)
+
+ROMs required for driver "FE8 Arrange".
+Name                                   Size Checksum
+1164 - FE8 Arrange                 20473536 CRC(5e26bd9d)
 
 ROMs required for driver "FE8 AWS(Another War Story)".
 Name                                   Size Checksum
@@ -1771,6 +1791,10 @@ ROMs required for driver "Fire Emblem Gilmore Girls Edition".
 Name                                   Size Checksum
 579 - Fire Emblem Gilmore Girls Edition17205936 CRC(1a6576b4)
 
+ROMs required for driver "Fire Emblem La Redencion de Biran".
+Name                                   Size Checksum
+1163 - Fire Emblem La Redencion de Biran19096284 CRC(706f9793)
+
 ROMs required for driver "Fire Emblem Narshen Battles".
 Name                                   Size Checksum
 1141 - Fire Emblem Narshen Battles 17454260 CRC(88ecab3c)
@@ -1918,6 +1942,10 @@ Name                                   Size Checksum
 ROMs required for driver "Grug’s Primitive Disadventure".
 Name                                   Size Checksum
 482 - Grug’s Primitive Disadventure29192184 CRC(706d37d0)
+
+ROMs required for driver "Heart Wars".
+Name                                   Size Checksum
+1167 - Heart Wars                  32388856 CRC(27904705)
 
 ROMs required for driver "Heaven’s Bloom".
 Name                                   Size Checksum
@@ -2161,7 +2189,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2518,6 +2546,10 @@ Name                                   Size Checksum
 ROMs required for driver "Rart Emblem Zero - The Rarted Stones".
 Name                                   Size Checksum
 348 - Rart Emblem Zero - The Rarted Stones19326044 CRC(2a4ab263)
+
+ROMs required for driver "Red Heart".
+Name                                   Size Checksum
+1168 - Red Heart                   21922124 CRC(60578d26)
 
 ROMs required for driver "REDFE".
 Name                                   Size Checksum

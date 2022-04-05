@@ -2774,6 +2774,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 Hollow Editon</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=16155</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1166 - FE6 Hollow Editon</name>
+					<size>16777532</size>
+					<crc>9ad6040e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 Incandescence Edition</name>
 				<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3620,6 +3635,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 GE Wars of Dragons</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1169 - FE7 GE Wars of Dragons</name>
+					<size>20829312</size>
+					<crc>4f290e6c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 GE Wars of Dragons (Beta)</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1170 - FE7 GE Wars of Dragons (Beta)</name>
+					<size>25322628</size>
+					<crc>c1c83f34</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Heroes</name>
 				<comment>https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3690,6 +3735,21 @@
 					<name>767 - FE7 Letras espanyol</name>
 					<size>16777216</size>
 					<crc>14d046df</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 LUNATIC MODE</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=45&amp;t=15850</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1165 - FE7 LUNATIC MODE</name>
+					<size>16777216</size>
+					<crc>5ca4bdcc</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4020,6 +4080,21 @@
 					<name>770 - FE8 Another</name>
 					<size>19922944</size>
 					<crc>436e6c5e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE8 Arrange</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=17427</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1164 - FE8 Arrange</name>
+					<size>20473536</size>
+					<crc>5e26bd9d</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6755,6 +6830,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem La Redencion de Biran</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16948</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1163 - Fire Emblem La Redencion de Biran</name>
+					<size>19096284</size>
+					<crc>706f9793</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem Narshen Battles</name>
 				<comment>https://feuniverse.us/t/fire-emblem-narshen-battles/2565</comment>
 				<publisher>Fan Modding</publisher>
@@ -7305,6 +7395,21 @@
 					<name>482 - Grug’s Primitive Disadventure</name>
 					<size>29192184</size>
 					<crc>706d37d0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Heart Wars</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=13059</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1167 - Heart Wars</name>
+					<size>32388856</size>
+					<crc>27904705</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9555,6 +9660,21 @@
 					<name>348 - Rart Emblem Zero - The Rarted Stones</name>
 					<size>19326044</size>
 					<crc>2a4ab263</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Red Heart</name>
+				<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16111</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1168 - Red Heart</name>
+					<size>21922124</size>
+					<crc>60578d26</crc>
 				</datitem>
 			</files>
 		</directory>

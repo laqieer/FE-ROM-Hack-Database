@@ -1425,6 +1425,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 Hollow Editon">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1166 - FE6 Hollow Editon" size="16777532" crc="9ad6040e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Incandescence Edition">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1878,6 +1886,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 GE Wars of Dragons">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1169 - FE7 GE Wars of Dragons" size="20829312" crc="4f290e6c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 GE Wars of Dragons (Beta)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1170 - FE7 GE Wars of Dragons (Beta)" size="25322628" crc="c1c83f34" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Heroes">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -1915,6 +1939,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="767 - FE7 Letras espanyol" size="16777216" crc="14d046df" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 LUNATIC MODE">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1165 - FE7 LUNATIC MODE" size="16777216" crc="5ca4bdcc" />
 			</dataarea>
 		</part>
 	</software>
@@ -2091,6 +2123,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="770 - FE8 Another" size="19922944" crc="436e6c5e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE8 Arrange">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1164 - FE8 Arrange" size="20473536" crc="5e26bd9d" />
 			</dataarea>
 		</part>
 	</software>
@@ -3550,6 +3590,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem La Redencion de Biran">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1163 - Fire Emblem La Redencion de Biran" size="19096284" crc="706f9793" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem Narshen Battles">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3843,6 +3891,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Heart Wars">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1167 - Heart Wars" size="32388856" crc="27904705" />
 			</dataarea>
 		</part>
 	</software>
@@ -5043,6 +5099,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Red Heart">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1168 - Red Heart" size="21922124" crc="60578d26" />
 			</dataarea>
 		</part>
 	</software>

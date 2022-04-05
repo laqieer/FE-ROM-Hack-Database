@@ -3311,6 +3311,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Hollow Editon",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?f=29&t=16155",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1166 - FE6 Hollow Editon",
+						"size": 16777532,
+						"crc": "9ad6040e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Incandescence Edition",
 				"comment": "https://feuniverse.us/t/fe6-incandescence-edition/7661",
 				"description": null,
@@ -4327,6 +4345,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 GE Wars of Dragons",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?t=14045",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1169 - FE7 GE Wars of Dragons",
+						"size": 20829312,
+						"crc": "4f290e6c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 GE Wars of Dragons (Beta)",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?t=14045",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1170 - FE7 GE Wars of Dragons (Beta)",
+						"size": 25322628,
+						"crc": "c1c83f34"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Heroes",
 				"comment": "https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644",
 				"description": null,
@@ -4411,6 +4465,24 @@
 						"name": "767 - FE7 Letras espanyol",
 						"size": 16777216,
 						"crc": "14d046df"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 LUNATIC MODE",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?f=45&t=15850",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1165 - FE7 LUNATIC MODE",
+						"size": 16777216,
+						"crc": "5ca4bdcc"
 					}
 				}
 			]
@@ -4807,6 +4879,24 @@
 						"name": "770 - FE8 Another",
 						"size": 19922944,
 						"crc": "436e6c5e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE8 Arrange",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?f=29&t=17427",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1164 - FE8 Arrange",
+						"size": 20473536,
+						"crc": "5e26bd9d"
 					}
 				}
 			]
@@ -8089,6 +8179,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem La Redencion de Biran",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?t=16948",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1163 - Fire Emblem La Redencion de Biran",
+						"size": 19096284,
+						"crc": "706f9793"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem Narshen Battles",
 				"comment": "https://feuniverse.us/t/fire-emblem-narshen-battles/2565",
 				"description": null,
@@ -8749,6 +8857,24 @@
 						"name": "482 - Grug’s Primitive Disadventure",
 						"size": 29192184,
 						"crc": "706d37d0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Heart Wars",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?t=13059",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1167 - Heart Wars",
+						"size": 32388856,
+						"crc": "27904705"
 					}
 				}
 			]
@@ -11449,6 +11575,24 @@
 						"name": "348 - Rart Emblem Zero - The Rarted Stones",
 						"size": 19326044,
 						"crc": "2a4ab263"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Red Heart",
+				"comment": "https://www.fireemblemwod.com/foro/viewtopic.php?t=16111",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1168 - Red Heart",
+						"size": 21922124,
+						"crc": "60578d26"
 					}
 				}
 			]

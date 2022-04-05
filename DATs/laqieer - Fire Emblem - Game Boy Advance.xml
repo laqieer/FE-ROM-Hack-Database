@@ -896,6 +896,11 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="599 - FE6 has DSFE movement" size="8586940" crc="c70fea41" />
 	</machine>
+	<machine name="FE6 Hollow Editon">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=16155</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1166 - FE6 Hollow Editon" size="16777532" crc="9ad6040e" />
+	</machine>
 	<machine name="FE6 Incandescence Edition">
 		<comment>https://feuniverse.us/t/fe6-incandescence-edition/7661</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1170,6 +1175,16 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1123 - FE7 Color Overhaul" size="17077916" crc="fe42f53d" />
 	</machine>
+	<machine name="FE7 GE Wars of Dragons">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1169 - FE7 GE Wars of Dragons" size="20829312" crc="4f290e6c" />
+	</machine>
+	<machine name="FE7 GE Wars of Dragons (Beta)">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1170 - FE7 GE Wars of Dragons (Beta)" size="25322628" crc="c1c83f34" />
+	</machine>
 	<machine name="FE7 Heroes">
 		<comment>https://feuniverse.us/t/new-rom-hack-fire-emblem-7-heroes/11644</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1193,6 +1208,11 @@
 	<machine name="FE7 Letras espanyol">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="767 - FE7 Letras espanyol" size="16777216" crc="14d046df" />
+	</machine>
+	<machine name="FE7 LUNATIC MODE">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=45&amp;t=15850</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1165 - FE7 LUNATIC MODE" size="16777216" crc="5ca4bdcc" />
 	</machine>
 	<machine name="FE7 Lute Mode">
 		<comment>https://forums.serenesforest.net/index.php?/topic/62795-fe7-lute-mode/</comment>
@@ -1298,6 +1318,11 @@
 	<machine name="FE8 Another">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="770 - FE8 Another" size="19922944" crc="436e6c5e" />
+	</machine>
+	<machine name="FE8 Arrange">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=17427</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1164 - FE8 Arrange" size="20473536" crc="5e26bd9d" />
 	</machine>
 	<machine name="FE8 AWS(Another War Story)">
 		<publisher>Reskin/Rebalance</publisher>
@@ -2187,6 +2212,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="579 - Fire Emblem Gilmore Girls Edition" size="17205936" crc="1a6576b4" />
 	</machine>
+	<machine name="Fire Emblem La Redencion de Biran">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16948</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1163 - Fire Emblem La Redencion de Biran" size="19096284" crc="706f9793" />
+	</machine>
 	<machine name="Fire Emblem Narshen Battles">
 		<comment>https://feuniverse.us/t/fire-emblem-narshen-battles/2565</comment>
 		<publisher>Fan Modding</publisher>
@@ -2371,6 +2401,11 @@
 		<comment>https://feuniverse.us/t/grugs-primitve-disadventure-by-team-stoned-stoners-5-chapters-out-of-18-done/9007</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+	</machine>
+	<machine name="Heart Wars">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=13059</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1167 - Heart Wars" size="32388856" crc="27904705" />
 	</machine>
 	<machine name="Heaven’s Bloom">
 		<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
@@ -3117,6 +3152,11 @@
 		<comment>https://feuniverse.us/t/complete-fe8-rart-emblem-zero-the-rarted-stones/4055</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+	</machine>
+	<machine name="Red Heart">
+		<comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16111</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1168 - Red Heart" size="21922124" crc="60578d26" />
 	</machine>
 	<machine name="REDFE">
 		<comment>https://feuniverse.us/t/redfe-yes-roy-is-in-this-game/2530</comment>

@@ -19695,6 +19695,150 @@
       <comment></comment>
       <duplicateID>0</duplicateID>
     </game>
+    <game>
+      <imageNumber>1163</imageNumber>
+      <releaseNumber>1163</releaseNumber>
+      <title>Fire Emblem La Redencion de Biran</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19096284</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>DonkinDo</sourceRom>
+      <language>4096</language>
+      <files>
+        <romCRC extension=".gba">706F9793</romCRC>
+      </files>
+      <im1CRC>F53F3E6B</im1CRC>
+      <im2CRC>BD93BD18</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16948</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1164</imageNumber>
+      <releaseNumber>1164</releaseNumber>
+      <title>FE8 Arrange</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>20473536</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Shadeloki</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">5E26BD9D</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>2D439640</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=17427</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1165</imageNumber>
+      <releaseNumber>1165</releaseNumber>
+      <title>FE7 LUNATIC MODE</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Daraen</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">5CA4BDCC</romCRC>
+      </files>
+      <im1CRC>51C790C3</im1CRC>
+      <im2CRC>5AC29EC0</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=45&amp;t=15850</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1166</imageNumber>
+      <releaseNumber>1166</releaseNumber>
+      <title>FE6 Hollow Editon</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777532</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>AHAHAHAHAHA</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">9AD6040E</romCRC>
+      </files>
+      <im1CRC>2F69112A</im1CRC>
+      <im2CRC>1E7E066C</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?f=29&amp;t=16155</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1167</imageNumber>
+      <releaseNumber>1167</releaseNumber>
+      <title>Heart Wars</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>32388856</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Weed</sourceRom>
+      <language>4096</language>
+      <files>
+        <romCRC extension=".gba">27904705</romCRC>
+      </files>
+      <im1CRC>8A2CB994</im1CRC>
+      <im2CRC>2EC01F94</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=13059</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1168</imageNumber>
+      <releaseNumber>1168</releaseNumber>
+      <title>Red Heart</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21922124</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>rasdel</sourceRom>
+      <language>4096</language>
+      <files>
+        <romCRC extension=".gba">60578D26</romCRC>
+      </files>
+      <im1CRC>6CBD9577</im1CRC>
+      <im2CRC>17F211EE</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=16111</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1169</imageNumber>
+      <releaseNumber>1169</releaseNumber>
+      <title>FE7 GE Wars of Dragons</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>20829312</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>MARLON-0024</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">4F290E6C</romCRC>
+      </files>
+      <im1CRC>F0D865B1</im1CRC>
+      <im2CRC>887C5EBD</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1170</imageNumber>
+      <releaseNumber>1170</releaseNumber>
+      <title>FE7 GE Wars of Dragons (Beta)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>25322628</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>MARLON-0024</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">C1C83F34</romCRC>
+      </files>
+      <im1CRC>8FDC7FA7</im1CRC>
+      <im2CRC>E35AAA1B</im2CRC>
+      <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+      <duplicateID>0</duplicateID>
+    </game>
   </games>
   <gui>
     <images width="487" height="162">

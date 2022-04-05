@@ -534,6 +534,9 @@
 	<machine name="FE6 has DSFE movement">
 		<rom name="599 - FE6 has DSFE movement" size="8586940" crc="c70fea41" />
 	</machine>
+	<machine name="FE6 Hollow Editon">
+		<rom name="1166 - FE6 Hollow Editon" size="16777532" crc="9ad6040e" />
+	</machine>
 	<machine name="FE6 Incandescence Edition">
 		<rom name="320 - FE6 Incandescence Edition" size="16777532" crc="564d7782" />
 	</machine>
@@ -703,6 +706,12 @@
 	<machine name="FE7 Color Overhaul">
 		<rom name="1123 - FE7 Color Overhaul" size="17077916" crc="fe42f53d" />
 	</machine>
+	<machine name="FE7 GE Wars of Dragons">
+		<rom name="1169 - FE7 GE Wars of Dragons" size="20829312" crc="4f290e6c" />
+	</machine>
+	<machine name="FE7 GE Wars of Dragons (Beta)">
+		<rom name="1170 - FE7 GE Wars of Dragons (Beta)" size="25322628" crc="c1c83f34" />
+	</machine>
 	<machine name="FE7 Heroes">
 		<rom name="581 - FE7 Heroes" size="18878172" crc="cc769fd5" />
 	</machine>
@@ -717,6 +726,9 @@
 	</machine>
 	<machine name="FE7 Letras espanyol">
 		<rom name="767 - FE7 Letras espanyol" size="16777216" crc="14d046df" />
+	</machine>
+	<machine name="FE7 LUNATIC MODE">
+		<rom name="1165 - FE7 LUNATIC MODE" size="16777216" crc="5ca4bdcc" />
 	</machine>
 	<machine name="FE7 Lute Mode">
 		<rom name="341 - FE7 Lute Mode" size="16785796" crc="969bae21" />
@@ -783,6 +795,9 @@
 	</machine>
 	<machine name="FE8 Another">
 		<rom name="770 - FE8 Another" size="19922944" crc="436e6c5e" />
+	</machine>
+	<machine name="FE8 Arrange">
+		<rom name="1164 - FE8 Arrange" size="20473536" crc="5e26bd9d" />
 	</machine>
 	<machine name="FE8 AWS(Another War Story)">
 		<rom name="712 - FE8 AWS(Another War Story)" size="16894316" crc="8f4a878a" />
@@ -1330,6 +1345,9 @@
 	<machine name="Fire Emblem Gilmore Girls Edition">
 		<rom name="579 - Fire Emblem Gilmore Girls Edition" size="17205936" crc="1a6576b4" />
 	</machine>
+	<machine name="Fire Emblem La Redencion de Biran">
+		<rom name="1163 - Fire Emblem La Redencion de Biran" size="19096284" crc="706f9793" />
+	</machine>
 	<machine name="Fire Emblem Narshen Battles">
 		<rom name="1141 - Fire Emblem Narshen Battles" size="17454260" crc="88ecab3c" />
 	</machine>
@@ -1440,6 +1458,9 @@
 	</machine>
 	<machine name="Grug’s Primitive Disadventure">
 		<rom name="482 - Grug’s Primitive Disadventure" size="29192184" crc="706d37d0" />
+	</machine>
+	<machine name="Heart Wars">
+		<rom name="1167 - Heart Wars" size="32388856" crc="27904705" />
 	</machine>
 	<machine name="Heaven’s Bloom">
 		<rom name="154 - Heaven’s Bloom" size="18376448" crc="c998aa0e" />
@@ -1890,6 +1911,9 @@
 	</machine>
 	<machine name="Rart Emblem Zero - The Rarted Stones">
 		<rom name="348 - Rart Emblem Zero - The Rarted Stones" size="19326044" crc="2a4ab263" />
+	</machine>
+	<machine name="Red Heart">
+		<rom name="1168 - Red Heart" size="21922124" crc="60578d26" />
 	</machine>
 	<machine name="REDFE">
 		<rom name="417 - REDFE" size="16782396" crc="bd449655" />

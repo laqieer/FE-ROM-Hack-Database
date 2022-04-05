@@ -900,6 +900,11 @@ game (
 	rom ( name "599 - FE6 has DSFE movement" size "8586940" crc "c70fea41" )
 )
 game (
+	name "FE6 Hollow Editon"
+	description "FE6 Hollow Editon"
+	rom ( name "1166 - FE6 Hollow Editon" size "16777532" crc "9ad6040e" )
+)
+game (
 	name "FE6 Incandescence Edition"
 	description "FE6 Incandescence Edition"
 	rom ( name "320 - FE6 Incandescence Edition" size "16777532" crc "564d7782" )
@@ -1181,6 +1186,16 @@ game (
 	rom ( name "1123 - FE7 Color Overhaul" size "17077916" crc "fe42f53d" )
 )
 game (
+	name "FE7 GE Wars of Dragons"
+	description "FE7 GE Wars of Dragons"
+	rom ( name "1169 - FE7 GE Wars of Dragons" size "20829312" crc "4f290e6c" )
+)
+game (
+	name "FE7 GE Wars of Dragons (Beta)"
+	description "FE7 GE Wars of Dragons (Beta)"
+	rom ( name "1170 - FE7 GE Wars of Dragons (Beta)" size "25322628" crc "c1c83f34" )
+)
+game (
 	name "FE7 Heroes"
 	description "FE7 Heroes"
 	rom ( name "581 - FE7 Heroes" size "18878172" crc "cc769fd5" )
@@ -1204,6 +1219,11 @@ game (
 	name "FE7 Letras espanyol"
 	description "FE7 Letras espanyol"
 	rom ( name "767 - FE7 Letras espanyol" size "16777216" crc "14d046df" )
+)
+game (
+	name "FE7 LUNATIC MODE"
+	description "FE7 LUNATIC MODE"
+	rom ( name "1165 - FE7 LUNATIC MODE" size "16777216" crc "5ca4bdcc" )
 )
 game (
 	name "FE7 Lute Mode"
@@ -1314,6 +1334,11 @@ game (
 	name "FE8 Another"
 	description "FE8 Another"
 	rom ( name "770 - FE8 Another" size "19922944" crc "436e6c5e" )
+)
+game (
+	name "FE8 Arrange"
+	description "FE8 Arrange"
+	rom ( name "1164 - FE8 Arrange" size "20473536" crc "5e26bd9d" )
 )
 game (
 	name "FE8 AWS(Another War Story)"
@@ -2113,7 +2138,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -2224,6 +2249,11 @@ game (
 	name "Fire Emblem Gilmore Girls Edition"
 	description "Fire Emblem Gilmore Girls Edition"
 	rom ( name "579 - Fire Emblem Gilmore Girls Edition" size "17205936" crc "1a6576b4" )
+)
+game (
+	name "Fire Emblem La Redencion de Biran"
+	description "Fire Emblem La Redencion de Biran"
+	rom ( name "1163 - Fire Emblem La Redencion de Biran" size "19096284" crc "706f9793" )
 )
 game (
 	name "Fire Emblem Narshen Battles"
@@ -2409,6 +2439,11 @@ game (
 	name "Grug’s Primitive Disadventure"
 	description "Grug’s Primitive Disadventure"
 	rom ( name "482 - Grug’s Primitive Disadventure" size "29192184" crc "706d37d0" )
+)
+game (
+	name "Heart Wars"
+	description "Heart Wars"
+	rom ( name "1167 - Heart Wars" size "32388856" crc "27904705" )
 )
 game (
 	name "Heaven’s Bloom"
@@ -2713,7 +2748,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3073,7 +3108,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"
@@ -3159,6 +3194,11 @@ game (
 	name "Rart Emblem Zero - The Rarted Stones"
 	description "Rart Emblem Zero - The Rarted Stones"
 	rom ( name "348 - Rart Emblem Zero - The Rarted Stones" size "19326044" crc "2a4ab263" )
+)
+game (
+	name "Red Heart"
+	description "Red Heart"
+	rom ( name "1168 - Red Heart" size "21922124" crc "60578d26" )
 )
 game (
 	name "REDFE"

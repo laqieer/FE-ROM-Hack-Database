@@ -29,7 +29,7 @@
 	<machine name="2 Princesses (二人の王女)">
 		<comment>http://fequeen.blog.fc2.com/</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="183 - 2 Princesses (二人の王女)" size="24646064" crc="44f08e5b" />
+		<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
 	</machine>
 	<machine name="21关开始-封印之剑">
 		<publisher>Reskin/Rebalance</publisher>
@@ -45,7 +45,7 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</machine>
-	<machine name="516 - A Hobbit's Tale">
+	<machine name="A Hobbit's Tale">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
 		<publisher>Ragefest</publisher>
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
@@ -2514,12 +2514,12 @@
 	<machine name="Kaitou">
 		<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="179 - Kaitou" size="33153280" crc="6e2c9f97" />
+		<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
 	</machine>
 	<machine name="Kaitou (English)">
 		<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="180 - Kaitou (English)" size="33465472" crc="9cad49eb" />
+		<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
 	</machine>
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<comment>https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500</comment>
@@ -3067,6 +3067,11 @@
 		<comment>https://feuniverse.us/t/release-fire-emblem-queens-sword-translation-beta-v1-0-3-07-2020/8611</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
+	</machine>
+	<machine name="R 烈火の剣 BlackFang">
+		<comment>ver1.9</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1161 - R 烈火の剣 BlackFang" size="19755516" crc="dbfeccaf" />
 	</machine>
 	<machine name="Rage Emblem">
 		<comment>https://feuniverse.us/t/introducing-rage-emblem-final-demo/207</comment>
@@ -4671,6 +4676,10 @@
 		<comment>前8章测试版</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />
+	</machine>
+	<machine name="新エイリーク">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1162 - 新エイリーク" size="27602232" crc="f8852487" />
 	</machine>
 	<machine name="新公主同盟">
 		<comment>完结版</comment>

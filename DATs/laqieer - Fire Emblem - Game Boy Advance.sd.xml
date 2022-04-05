@@ -157,8 +157,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>183 - 2 Princesses (二人の王女)</name>
-					<size>24646064</size>
-					<crc>44f08e5b</crc>
+					<size>27926760</size>
+					<crc>a9b70387</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -209,7 +209,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>516 - A Hobbit's Tale</name>
+				<name>A Hobbit's Tale</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
 			</machine>
@@ -7738,8 +7738,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>179 - Kaitou</name>
-					<size>33153280</size>
-					<crc>6e2c9f97</crc>
+					<size>33095268</size>
+					<crc>b3674749</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7753,8 +7753,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>180 - Kaitou (English)</name>
-					<size>33465472</size>
-					<crc>9cad49eb</crc>
+					<size>33407680</size>
+					<crc>16d585b0</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9405,6 +9405,21 @@
 					<name>421 - Queen’s Sword (English Translation)</name>
 					<size>33554432</size>
 					<crc>1ed8d8e5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>R 烈火の剣 BlackFang</name>
+				<comment>ver1.9</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1161 - R 烈火の剣 BlackFang</name>
+					<size>19755516</size>
+					<crc>dbfeccaf</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14445,6 +14460,21 @@
 					<name>900 - 放开那个魔王</name>
 					<size>19019252</size>
 					<crc>38f11041</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>新エイリーク</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1162 - 新エイリーク</name>
+					<size>27602232</size>
+					<crc>f8852487</crc>
 				</datitem>
 			</files>
 		</directory>

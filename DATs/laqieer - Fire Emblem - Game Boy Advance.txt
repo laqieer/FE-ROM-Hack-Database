@@ -6,7 +6,7 @@
 21关开始-封印之剑;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 [FE8] Fire Emblem - The Archon's Curse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-archons-curse/10372;
 A Glimpse of Time (時の垣間 エリウッド編);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://ameblo.jp/yu-meigunsi/theme-10033783736.html;
-516 - A Hobbit's Tale;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
+A Hobbit's Tale;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 A New Revelation;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 A Sacred Dawn;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/;
 A Sacred Dawn DX;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/;
@@ -620,6 +620,7 @@ Purple Axe Guys Paralogue;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;N
 Puzon Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/puzon-emblem/12243;
 Puzzle Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/puzzle-emblem/7316;
 Queen’s Sword (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/release-fire-emblem-queens-sword-translation-beta-v1-0-3-07-2020/8611;
+R 烈火の剣 BlackFang;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;ver1.9;
 Rage Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/introducing-rage-emblem-final-demo/207;
 Ragefest 5 DLC;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/rfv-dlc-official-release/5675;
 Ragefest Chronicles;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
@@ -956,6 +957,7 @@ Zombie Apocalypse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;
 强大的女皇;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 愚人节故事;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/april-fools-day-hack/15582;
 放开那个魔王;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;前8章测试版;
+新エイリーク;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 新公主同盟;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;完结版;
 新圣火微章;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;修复版;
 新封神传奇;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;

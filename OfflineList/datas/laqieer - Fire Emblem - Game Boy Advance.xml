@@ -1988,15 +1988,15 @@
       <releaseNumber>179</releaseNumber>
       <title>Kaitou</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>33153280</romSize>
+      <romSize>33095268</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>7743</sourceRom>
       <language>256</language>
       <files>
-        <romCRC extension=".gba">6E2C9F97</romCRC>
+        <romCRC extension=".gba">B3674749</romCRC>
       </files>
-      <im1CRC>C5BDD350</im1CRC>
+      <im1CRC>923E4BE5</im1CRC>
       <im2CRC>DEEF94EE</im2CRC>
       <comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
       <duplicateID>0</duplicateID>
@@ -2006,15 +2006,15 @@
       <releaseNumber>180</releaseNumber>
       <title>Kaitou (English)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>33465472</romSize>
+      <romSize>33407680</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>7743</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">9CAD49EB</romCRC>
+        <romCRC extension=".gba">16D585B0</romCRC>
       </files>
-      <im1CRC>F5AE8ACB</im1CRC>
+      <im1CRC>C245531A</im1CRC>
       <im2CRC>5A8C2731</im2CRC>
       <comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
       <duplicateID>0</duplicateID>
@@ -2060,13 +2060,13 @@
       <releaseNumber>183</releaseNumber>
       <title>2 Princesses (二人の王女)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>24646064</romSize>
+      <romSize>27926760</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>レイファ</sourceRom>
       <language>256</language>
       <files>
-        <romCRC extension=".gba">44F08E5B</romCRC>
+        <romCRC extension=".gba">A9B70387</romCRC>
       </files>
       <im1CRC>FE66478C</im1CRC>
       <im2CRC>57FC99A6</im2CRC>
@@ -19657,6 +19657,42 @@
       <im1CRC>C2754C29</im1CRC>
       <im2CRC>82C42E04</im2CRC>
       <comment>https://feuniverse.us/t/oca-reverse-recruitment/5347</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1161</imageNumber>
+      <releaseNumber>1161</releaseNumber>
+      <title>R 烈火の剣 BlackFang</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>19755516</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>unknown</sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".gba">DBFECCAF</romCRC>
+      </files>
+      <im1CRC>10A1A451</im1CRC>
+      <im2CRC>FE5EC686</im2CRC>
+      <comment>ver1.9</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1162</imageNumber>
+      <releaseNumber>1162</releaseNumber>
+      <title>新エイリーク</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>27602232</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Kenpufu</sourceRom>
+      <language>256</language>
+      <files>
+        <romCRC extension=".gba">F8852487</romCRC>
+      </files>
+      <im1CRC>8155202C</im1CRC>
+      <im2CRC>1CEDAD4C</im2CRC>
+      <comment></comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

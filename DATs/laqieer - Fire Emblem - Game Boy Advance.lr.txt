@@ -12,7 +12,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "2 Princesses (二人の王女)".
 Name                                   Size Checksum
-183 - 2 Princesses (二人の王女)         24646064 CRC(44f08e5b)
+183 - 2 Princesses (二人の王女)         27926760 CRC(a9b70387)
 
 ROMs required for driver "21关开始-封印之剑".
 Name                                   Size Checksum
@@ -26,7 +26,7 @@ ROMs required for driver "A Glimpse of Time (時の垣間 エリウッド編)".
 Name                                   Size Checksum
 178 - A Glimpse of Time (時の垣間 エリウッド編)19436704 CRC(caccb1eb)
 
-ROMs required for driver "516 - A Hobbit's Tale".
+ROMs required for driver "A Hobbit's Tale".
 Name                                   Size Checksum
 516 - A Hobbit's Tale              16820432 CRC(b59f143c)
 
@@ -2033,11 +2033,11 @@ Name                                   Size Checksum
 
 ROMs required for driver "Kaitou".
 Name                                   Size Checksum
-179 - Kaitou                       33153280 CRC(6e2c9f97)
+179 - Kaitou                       33095268 CRC(b3674749)
 
 ROMs required for driver "Kaitou (English)".
 Name                                   Size Checksum
-180 - Kaitou (English)             33465472 CRC(9cad49eb)
+180 - Kaitou (English)             33407680 CRC(16d585b0)
 
 ROMs required for driver "Knoll’s Super Spooky Halloween Adventure".
 Name                                   Size Checksum
@@ -2478,6 +2478,10 @@ Name                                   Size Checksum
 ROMs required for driver "Queen’s Sword (English Translation)".
 Name                                   Size Checksum
 421 - Queen’s Sword (English Translation)33554432 CRC(1ed8d8e5)
+
+ROMs required for driver "R 烈火の剣 BlackFang".
+Name                                   Size Checksum
+1161 - R 烈火の剣 BlackFang            19755516 CRC(dbfeccaf)
 
 ROMs required for driver "Rage Emblem".
 Name                                   Size Checksum
@@ -3822,6 +3826,10 @@ Name                                   Size Checksum
 ROMs required for driver "放开那个魔王".
 Name                                   Size Checksum
 900 - 放开那个魔王                       19019252 CRC(38f11041)
+
+ROMs required for driver "新エイリーク".
+Name                                   Size Checksum
+1162 - 新エイリーク                      27602232 CRC(f8852487)
 
 ROMs required for driver "新公主同盟".
 Name                                   Size Checksum

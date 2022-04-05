@@ -27,7 +27,7 @@ game (
 game (
 	name "2 Princesses (二人の王女)"
 	description "2 Princesses (二人の王女)"
-	rom ( name "183 - 2 Princesses (二人の王女)" size "24646064" crc "44f08e5b" )
+	rom ( name "183 - 2 Princesses (二人の王女)" size "27926760" crc "a9b70387" )
 )
 game (
 	name "21关开始-封印之剑"
@@ -45,8 +45,8 @@ game (
 	rom ( name "178 - A Glimpse of Time (時の垣間 エリウッド編)" size "19436704" crc "caccb1eb" )
 )
 game (
-	name "516 - A Hobbit's Tale"
-	description "516 - A Hobbit's Tale"
+	name "A Hobbit's Tale"
+	description "A Hobbit's Tale"
 	rom ( name "516 - A Hobbit's Tale" size "16820432" crc "b59f143c" )
 )
 game (
@@ -2553,12 +2553,12 @@ game (
 game (
 	name "Kaitou"
 	description "Kaitou"
-	rom ( name "179 - Kaitou" size "33153280" crc "6e2c9f97" )
+	rom ( name "179 - Kaitou" size "33095268" crc "b3674749" )
 )
 game (
 	name "Kaitou (English)"
 	description "Kaitou (English)"
-	rom ( name "180 - Kaitou (English)" size "33465472" crc "9cad49eb" )
+	rom ( name "180 - Kaitou (English)" size "33407680" crc "16d585b0" )
 )
 game (
 	name "Knoll’s Super Spooky Halloween Adventure"
@@ -3109,6 +3109,11 @@ game (
 	name "Queen’s Sword (English Translation)"
 	description "Queen’s Sword (English Translation)"
 	rom ( name "421 - Queen’s Sword (English Translation)" size "33554432" crc "1ed8d8e5" )
+)
+game (
+	name "R 烈火の剣 BlackFang"
+	description "R 烈火の剣 BlackFang"
+	rom ( name "1161 - R 烈火の剣 BlackFang" size "19755516" crc "dbfeccaf" )
 )
 game (
 	name "Rage Emblem"
@@ -4789,6 +4794,11 @@ game (
 	name "放开那个魔王"
 	description "放开那个魔王"
 	rom ( name "900 - 放开那个魔王" size "19019252" crc "38f11041" )
+)
+game (
+	name "新エイリーク"
+	description "新エイリーク"
+	rom ( name "1162 - 新エイリーク" size "27602232" crc "f8852487" )
 )
 game (
 	name "新公主同盟"

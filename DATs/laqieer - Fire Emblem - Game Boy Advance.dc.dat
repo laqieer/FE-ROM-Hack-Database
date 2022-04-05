@@ -21,7 +21,7 @@ game (
 )
 game (
 	name "2 Princesses (二人の王女).zip"
-	file ( name 183 - 2 Princesses (二人の王女) size 24646064 crc 44f08e5b )
+	file ( name 183 - 2 Princesses (二人の王女) size 27926760 crc a9b70387 )
 )
 game (
 	name "21关开始-封印之剑.zip"
@@ -36,7 +36,7 @@ game (
 	file ( name 178 - A Glimpse of Time (時の垣間 エリウッド編) size 19436704 crc caccb1eb )
 )
 game (
-	name "516 - A Hobbit's Tale.zip"
+	name "A Hobbit's Tale.zip"
 	file ( name 516 - A Hobbit's Tale size 16820432 crc b59f143c )
 )
 game (
@@ -2042,11 +2042,11 @@ game (
 )
 game (
 	name "Kaitou.zip"
-	file ( name 179 - Kaitou size 33153280 crc 6e2c9f97 )
+	file ( name 179 - Kaitou size 33095268 crc b3674749 )
 )
 game (
 	name "Kaitou (English).zip"
-	file ( name 180 - Kaitou (English) size 33465472 crc 9cad49eb )
+	file ( name 180 - Kaitou (English) size 33407680 crc 16d585b0 )
 )
 game (
 	name "Knoll’s Super Spooky Halloween Adventure.zip"
@@ -2487,6 +2487,10 @@ game (
 game (
 	name "Queen’s Sword (English Translation).zip"
 	file ( name 421 - Queen’s Sword (English Translation) size 33554432 crc 1ed8d8e5 )
+)
+game (
+	name "R 烈火の剣 BlackFang.zip"
+	file ( name 1161 - R 烈火の剣 BlackFang size 19755516 crc dbfeccaf )
 )
 game (
 	name "Rage Emblem.zip"
@@ -3506,7 +3510,7 @@ game (
 )
 game (
 	name "召唤师2.0中秋限定版.zip"
-	file ( name 942 - 召唤师2.0中秋限定版 size 26095224 crc 5865db9c )
+	file ( name 942 - 召唤师2 size 26095224 crc 5865db9c )
 )
 game (
 	name "召唤师.zip"
@@ -3831,6 +3835,10 @@ game (
 game (
 	name "放开那个魔王.zip"
 	file ( name 900 - 放开那个魔王 size 19019252 crc 38f11041 )
+)
+game (
+	name "新エイリーク.zip"
+	file ( name 1162 - 新エイリーク size 27602232 crc f8852487 )
 )
 game (
 	name "新公主同盟.zip"

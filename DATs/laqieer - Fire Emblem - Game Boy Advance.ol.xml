@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1090</datVersion>
+		<datVersion>1092</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -102,13 +102,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>183 - 2 Princesses (二人の王女)</title>
 			<saveType>None</saveType>
-			<romSize>24646064</romSize>
+			<romSize>27926760</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">44F08E5B</romCRC>
+				<romCRC extension=".">A9B70387</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -9252,13 +9252,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>179 - Kaitou</title>
 			<saveType>None</saveType>
-			<romSize>33153280</romSize>
+			<romSize>33095268</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">6E2C9F97</romCRC>
+				<romCRC extension=".">B3674749</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -9270,13 +9270,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>180 - Kaitou (English)</title>
 			<saveType>None</saveType>
-			<romSize>33465472</romSize>
+			<romSize>33407680</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">9CAD49EB</romCRC>
+				<romCRC extension=".">16D585B0</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -11264,6 +11264,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/release-fire-emblem-queens-sword-translation-beta-v1-0-3-07-2020/8611</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1161 - R 烈火の剣 BlackFang</title>
+			<saveType>None</saveType>
+			<romSize>19755516</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DBFECCAF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>ver1.9</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -17388,6 +17406,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>前8章测试版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1162 - 新エイリーク</title>
+			<saveType>None</saveType>
+			<romSize>27602232</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F8852487</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

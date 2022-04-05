@@ -107,11 +107,11 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 176,FE8 midori (Green),Fan Modding,Japan,unknown,Japanese,25D88B16,緑パッチ（ＦＥ８）　ver.191020
 177,FE8 midori (Green) (English Translation),Fan Modding,Japan,Tequila,English,4279B308,https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516
 178,A Glimpse of Time (時の垣間 エリウッド編),Fan Modding,Japan,名軍師YU,Japanese,CACCB1EB,https://ameblo.jp/yu-meigunsi/theme-10033783736.html
-179,Kaitou,Fan Modding,Japan,7743,Japanese,6E2C9F97,https://feuniverse.us/t/fe8-kaitou-patch/2984
-180,Kaitou (English),Fan Modding,Japan,7743,English,9CAD49EB,https://feuniverse.us/t/fe8-kaitou-patch/2984
+179,Kaitou,Fan Modding,Japan,7743,Japanese,B3674749,https://feuniverse.us/t/fe8-kaitou-patch/2984
+180,Kaitou (English),Fan Modding,Japan,7743,English,16D585B0,https://feuniverse.us/t/fe8-kaitou-patch/2984
 181,Yugudora Hack (ユグドラパッチ),Fan Modding,Japan,Isaac,Japanese,EA667865,http://feyugudora444.livedoor.blog/
 182,Yggdra Hack UI Translation,Fan Modding,Japan,Pikmin1211,English,63B815AD,https://feuniverse.us/t/yggdra-hack-ui-translation/6492
-183,2 Princesses (二人の王女),Fan Modding,Japan,レイファ,Japanese,44F08E5B,http://fequeen.blog.fc2.com/
+183,2 Princesses (二人の王女),Fan Modding,Japan,レイファ,Japanese,A9B70387,http://fequeen.blog.fc2.com/
 184,2 Princesses (English Translation),Fan Modding,Japan,Pollen,English,CDF24969,https://feuniverse.us/t/fe-2-princesses-english-translation/8380
 185,The Sacred Chairs,Fan Modding,USA,Mangs PME Team,English,841A14F7,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
 186,The Sacred Chairs (Boss Version),Fan Modding,USA,Mangs PME Team,English,34D15CAF,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
@@ -1089,3 +1089,5 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1158,Water Emblem Project Aqua,Reskin/Rebalance,USA,darknight97,English,789E1B04,https://feuniverse.us/t/fire-emblem-7-project-aqua/9785
 1159,FE8 but almost everyone has Astra and will always activate if they hit,Reskin/Rebalance,USA,DigBick,English,468D627D,https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473
 1160,OCA Reverse Recruitment,Fan Modding,USA,ltranc,English,66029A50,https://feuniverse.us/t/oca-reverse-recruitment/5347
+1161,R 烈火の剣 BlackFang,Reskin/Rebalance,Japan,unknown,Japanese,DBFECCAF,ver1.9
+1162,新エイリーク,Reskin/Rebalance,Japan,Kenpufu,Japanese,F8852487,

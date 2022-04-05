@@ -171,8 +171,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "183 - 2 Princesses (二人の王女)",
-						"size": 24646064,
-						"crc": "44f08e5b"
+						"size": 27926760,
+						"crc": "a9b70387"
 					}
 				}
 			]
@@ -233,7 +233,7 @@
 		},
 		{
 			"machine": {
-				"name": "516 - A Hobbit's Tale",
+				"name": "A Hobbit's Tale",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
 				"publisher": "Ragefest"
@@ -9269,8 +9269,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "179 - Kaitou",
-						"size": 33153280,
-						"crc": "6e2c9f97"
+						"size": 33095268,
+						"crc": "b3674749"
 					}
 				}
 			]
@@ -9287,8 +9287,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "180 - Kaitou (English)",
-						"size": 33465472,
-						"crc": "9cad49eb"
+						"size": 33407680,
+						"crc": "16d585b0"
 					}
 				}
 			]
@@ -11269,6 +11269,24 @@
 						"name": "421 - Queen’s Sword (English Translation)",
 						"size": 33554432,
 						"crc": "1ed8d8e5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "R 烈火の剣 BlackFang",
+				"comment": "ver1.9",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1161 - R 烈火の剣 BlackFang",
+						"size": 19755516,
+						"crc": "dbfeccaf"
 					}
 				}
 			]
@@ -17317,6 +17335,24 @@
 						"name": "900 - 放开那个魔王",
 						"size": 19019252,
 						"crc": "38f11041"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新エイリーク",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1162 - 新エイリーク",
+						"size": 27602232,
+						"crc": "f8852487"
 					}
 				}
 			]

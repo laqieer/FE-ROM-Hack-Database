@@ -10,7 +10,7 @@
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
 	<machine name="2 Princesses (二人の王女)">
-		<rom name="183 - 2 Princesses (二人の王女)" size="24646064" crc="44f08e5b" />
+		<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
 	</machine>
 	<machine name="21关开始-封印之剑">
 		<rom name="930 - 21关开始-封印之剑" size="8388608" crc="75da6fb9" />
@@ -21,7 +21,7 @@
 	<machine name="A Glimpse of Time (時の垣間 エリウッド編)">
 		<rom name="178 - A Glimpse of Time (時の垣間 エリウッド編)" size="19436704" crc="caccb1eb" />
 	</machine>
-	<machine name="516 - A Hobbit's Tale">
+	<machine name="A Hobbit's Tale">
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
 	</machine>
 	<machine name="A New Revelation">
@@ -1526,10 +1526,10 @@
 		<rom name="1035 - Kaga Emblem (Spanish)" size="19391296" crc="1d89248c" />
 	</machine>
 	<machine name="Kaitou">
-		<rom name="179 - Kaitou" size="33153280" crc="6e2c9f97" />
+		<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
 	</machine>
 	<machine name="Kaitou (English)">
-		<rom name="180 - Kaitou (English)" size="33465472" crc="9cad49eb" />
+		<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
 	</machine>
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
@@ -1860,6 +1860,9 @@
 	</machine>
 	<machine name="Queen’s Sword (English Translation)">
 		<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
+	</machine>
+	<machine name="R 烈火の剣 BlackFang">
+		<rom name="1161 - R 烈火の剣 BlackFang" size="19755516" crc="dbfeccaf" />
 	</machine>
 	<machine name="Rage Emblem">
 		<rom name="1092 - Rage Emblem" size="16807060" crc="48cf13bb" />
@@ -2868,6 +2871,9 @@
 	</machine>
 	<machine name="放开那个魔王">
 		<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />
+	</machine>
+	<machine name="新エイリーク">
+		<rom name="1162 - 新エイリーク" size="27602232" crc="f8852487" />
 	</machine>
 	<machine name="新公主同盟">
 		<rom name="925 - 新公主同盟" size="22946116" crc="bb40f18a" />

@@ -93,7 +93,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>516 - A Hobbit's Tale</title>
+		<title>A Hobbit's Tale</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8067,6 +8067,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>R 烈火の剣 BlackFang</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Rage Emblem</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -12423,6 +12436,19 @@
 	</software>
 	<software>
 		<title>放开那个魔王</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>新エイリーク</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

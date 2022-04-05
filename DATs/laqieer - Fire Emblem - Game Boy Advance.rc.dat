@@ -14,11 +14,11 @@ version=Fire Emblem ROM hacks
 ¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬0的逆圣魔¬0的逆圣魔¬853 - 0的逆圣魔¬077d94bb¬20252024¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
-¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬44f08e5b¬24646064¬¬¬
+¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬a9b70387¬27926760¬¬¬
 ¬¬¬21关开始-封印之剑¬21关开始-封印之剑¬930 - 21关开始-封印之剑¬75da6fb9¬8388608¬¬¬
 ¬¬¬[FE8] Fire Emblem - The Archon's Curse¬[FE8] Fire Emblem - The Archon's Curse¬1064 - [FE8] Fire Emblem - The Archon's Curse¬1be625b7¬20883568¬¬¬
 ¬¬¬A Glimpse of Time (時の垣間 エリウッド編)¬A Glimpse of Time (時の垣間 エリウッド編)¬178 - A Glimpse of Time (時の垣間 エリウッド編)¬caccb1eb¬19436704¬¬¬
-¬¬¬516 - A Hobbit's Tale¬516 - A Hobbit's Tale¬516 - A Hobbit's Tale.gba¬b59f143c¬16820432¬¬¬
+¬¬¬A Hobbit's Tale¬A Hobbit's Tale¬516 - A Hobbit's Tale¬b59f143c¬16820432¬¬¬
 ¬¬¬A New Revelation¬A New Revelation¬530 - A New Revelation¬08189dee¬17616732¬¬¬
 ¬¬¬A Sacred Dawn¬A Sacred Dawn¬286 - A Sacred Dawn¬61c6a436¬22020347¬¬¬
 ¬¬¬A Sacred Dawn DX¬A Sacred Dawn DX¬285 - A Sacred Dawn DX¬651b8fa3¬22333152¬¬¬
@@ -520,8 +520,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬Justice and Pride - Book 2¬Justice and Pride - Book 2¬272 - Justice and Pride - Book 2¬d28f4951¬22610380¬¬¬
 ¬¬¬Kaga Emblem (English)¬Kaga Emblem (English)¬1034 - Kaga Emblem (English)¬a6b440cc¬19454240¬¬¬
 ¬¬¬Kaga Emblem (Spanish)¬Kaga Emblem (Spanish)¬1035 - Kaga Emblem (Spanish)¬1d89248c¬19391296¬¬¬
-¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬6e2c9f97¬33153280¬¬¬
-¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬9cad49eb¬33465472¬¬¬
+¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬b3674749¬33095268¬¬¬
+¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬16d585b0¬33407680¬¬¬
 ¬¬¬Knoll’s Super Spooky Halloween Adventure¬Knoll’s Super Spooky Halloween Adventure¬162 - Knoll’s Super Spooky Halloween Adventure¬19a64b75¬17014360¬¬¬
 ¬¬¬Kylin Dragons¬Kylin Dragons¬763 - Kylin Dragons¬9bd3db9a¬17375996¬¬¬
 ¬¬¬Lady of Masks¬Lady of Masks¬590 - Lady of Masks¬6142c8a8¬21516196¬¬¬
@@ -632,6 +632,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Puzon Emblem¬Puzon Emblem¬589 - Puzon Emblem¬86e37d3c¬19889524¬¬¬
 ¬¬¬Puzzle Emblem¬Puzzle Emblem¬189 - Puzzle Emblem¬83fc3242¬16824428¬¬¬
 ¬¬¬Queen’s Sword (English Translation)¬Queen’s Sword (English Translation)¬421 - Queen’s Sword (English Translation)¬1ed8d8e5¬33554432¬¬¬
+¬¬¬R 烈火の剣 BlackFang¬R 烈火の剣 BlackFang¬1161 - R 烈火の剣 BlackFang¬dbfeccaf¬19755516¬¬¬
 ¬¬¬Rage Emblem¬Rage Emblem¬1092 - Rage Emblem¬48cf13bb¬16807060¬¬¬
 ¬¬¬Ragefest 5 DLC¬Ragefest 5 DLC¬137 - Ragefest 5 DLC¬0c516c3e¬17194360¬¬¬
 ¬¬¬Ragefest Chronicles¬Ragefest Chronicles¬535 - Ragefest Chronicles¬ef471685¬16996156¬¬¬
@@ -886,7 +887,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬冰风烈焰¬冰风烈焰¬823 - 冰风烈焰¬e60b3691¬27852748¬¬¬
 ¬¬¬勇者天下¬勇者天下¬953 - 勇者天下¬01d7b03b¬16777216¬¬¬
 ¬¬¬半成品¬半成品¬896 - 半成品¬1f1f8988¬22072704¬¬¬
-¬¬¬召唤师2.0中秋限定版¬召唤师2.0中秋限定版¬942 - 召唤师2¬5865db9c¬26095224¬¬¬
+¬¬¬召唤师2.0中秋限定版¬召唤师2.0中秋限定版¬942 - 召唤师2.0中秋限定版¬5865db9c¬26095224¬¬¬
 ¬¬¬召唤师¬召唤师¬864 - 召唤师¬4f89c557¬25077656¬¬¬
 ¬¬¬名も無き英雄¬名も無き英雄¬447 - 名も無き英雄¬b9a6e9c7¬29840204¬¬¬
 ¬¬¬后宫战纪¬后宫战纪¬818 - 后宫战纪¬74352ac4¬31942288¬¬¬
@@ -968,6 +969,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬强大的女皇¬强大的女皇¬905 - 强大的女皇¬4b4086ff¬16777216¬¬¬
 ¬¬¬愚人节故事¬愚人节故事¬1119 - 愚人节故事¬7a38d37d¬17216680¬¬¬
 ¬¬¬放开那个魔王¬放开那个魔王¬900 - 放开那个魔王¬38f11041¬19019252¬¬¬
+¬¬¬新エイリーク¬新エイリーク¬1162 - 新エイリーク¬f8852487¬27602232¬¬¬
 ¬¬¬新公主同盟¬新公主同盟¬925 - 新公主同盟¬bb40f18a¬22946116¬¬¬
 ¬¬¬新圣火微章¬新圣火微章¬921 - 新圣火微章¬20c552d6¬27446884¬¬¬
 ¬¬¬新封神传奇¬新封神传奇¬943 - 新封神传奇¬738d53da¬18576652¬¬¬

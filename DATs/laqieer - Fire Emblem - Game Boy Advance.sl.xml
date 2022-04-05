@@ -29,7 +29,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="183 - 2 Princesses (二人の王女)" size="24646064" crc="44f08e5b" />
+				<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
 			</dataarea>
 		</part>
 	</software>
@@ -57,7 +57,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="516 - A Hobbit's Tale">
+	<software name="A Hobbit's Tale">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -4074,7 +4074,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="179 - Kaitou" size="33153280" crc="6e2c9f97" />
+				<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
 			</dataarea>
 		</part>
 	</software>
@@ -4082,7 +4082,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="180 - Kaitou (English)" size="33465472" crc="9cad49eb" />
+				<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
 			</dataarea>
 		</part>
 	</software>
@@ -4963,6 +4963,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="421 - Queen’s Sword (English Translation)" size="33554432" crc="1ed8d8e5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="R 烈火の剣 BlackFang">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1161 - R 烈火の剣 BlackFang" size="19755516" crc="dbfeccaf" />
 			</dataarea>
 		</part>
 	</software>
@@ -7651,6 +7659,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="900 - 放开那个魔王" size="19019252" crc="38f11041" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="新エイリーク">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1162 - 新エイリーク" size="27602232" crc="f8852487" />
 			</dataarea>
 		</part>
 	</software>

@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220405</datVersion>
+    <datVersion>20220409</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -15093,7 +15093,7 @@
       <title>疾风的勇王</title>
       <saveType>Sram_F_v103</saveType>
       <romSize>16777216</romSize>
-      <publisher>Fan Modding</publisher>
+      <publisher>Reskin/Rebalance</publisher>
       <location>7</location>
       <sourceRom>unknown</sourceRom>
       <language>4</language>

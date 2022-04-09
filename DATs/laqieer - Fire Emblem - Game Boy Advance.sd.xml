@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220405</version>
+		<version>20220409</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -15472,7 +15472,7 @@
 			<machine>
 				<name>疾风的勇王</name>
 				<comment />
-				<publisher>Fan Modding</publisher>
+				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">

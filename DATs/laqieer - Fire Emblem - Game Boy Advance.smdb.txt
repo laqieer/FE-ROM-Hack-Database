@@ -546,7 +546,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M. E			048eb1b6	18427704
+	M. E. R. C. S./467 - M			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744

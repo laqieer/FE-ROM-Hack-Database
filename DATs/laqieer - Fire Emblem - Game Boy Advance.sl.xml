@@ -8199,7 +8199,7 @@
 		</part>
 	</software>
 	<software name="疾风的勇王">
-		<publisher>Fan Modding</publisher>
+		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="907 - 疾风的勇王" size="16777216" crc="e30f64fd" />

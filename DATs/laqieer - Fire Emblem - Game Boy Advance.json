@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220405",
+		"version": "20220409",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -18550,7 +18550,7 @@
 				"name": "疾风的勇王",
 				"comment": "",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "Reskin/Rebalance"
 			},
 			"items": [
 				{

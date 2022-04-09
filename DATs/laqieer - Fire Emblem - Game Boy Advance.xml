@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220405</version>
+		<version>20220409</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -4972,7 +4972,7 @@
 		<rom name="954 - 玩不下去的圣魔" size="16777216" crc="a4de5b6c" />
 	</machine>
 	<machine name="疾风的勇王">
-		<publisher>Fan Modding</publisher>
+		<publisher>Reskin/Rebalance</publisher>
 		<rom name="907 - 疾风的勇王" size="16777216" crc="e30f64fd" />
 	</machine>
 	<machine name="直到遇见你">

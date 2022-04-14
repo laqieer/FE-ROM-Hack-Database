@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220409"
+	version "20220415"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -358,6 +358,11 @@ game (
 	name "Call of the Armor"
 	description "Call of the Armor"
 	rom ( name "230 - Call of the Armor" size "20330124" crc "688794f7" )
+)
+game (
+	name "Call of the Armor (Reverse Recruitment)"
+	description "Call of the Armor (Reverse Recruitment)"
+	rom ( name "1171 - Call of the Armor (Reverse Recruitment)" size "20621168" crc "3148045c" )
 )
 game (
 	name "Cancer Emblem 0 - Joke Hack"

@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220409",
+		"version": "20220415",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -1361,6 +1361,24 @@
 						"name": "230 - Call of the Armor",
 						"size": 20330124,
 						"crc": "688794f7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Call of the Armor (Reverse Recruitment)",
+				"comment": "https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes-reverse-recruitment-patch-13-apr-22/12698/109",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1171 - Call of the Armor (Reverse Recruitment)",
+						"size": 20621168,
+						"crc": "3148045c"
 					}
 				}
 			]

@@ -69,6 +69,7 @@ Broken Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http
 BS Fire Emblem - Archanea Saga;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8u-bs-fire-emblem-archanea-saga-1-0/5173;
 Bullet Hell Madness;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 Call of the Armor;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes/12698;
+Call of the Armor (Reverse Recruitment);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes-reverse-recruitment-patch-13-apr-22/12698/109;
 Cancer Emblem 0 - Joke Hack;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/cancer-emblem-zero-dazzlelunge-emblem/8322;
 Cancer Emblem 1 - Dazzle-Lunge Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/cancer-emblem-dont-play-this-stupid-hack-by-fatih-and-klokinator/3497;
 Cancer Emblem 2 - Min-Max Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/min-max-emblem-v0-8-the-sequel-to-cancer-emblem-but-its-actually-good-this-time/3504;

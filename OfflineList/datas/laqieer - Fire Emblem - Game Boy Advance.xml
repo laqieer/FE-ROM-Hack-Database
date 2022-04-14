@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220409</datVersion>
+    <datVersion>20220415</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19837,6 +19837,24 @@
       <im1CRC>8FDC7FA7</im1CRC>
       <im2CRC>E35AAA1B</im2CRC>
       <comment>https://www.fireemblemwod.com/foro/viewtopic.php?t=14045</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1171</imageNumber>
+      <releaseNumber>1171</releaseNumber>
+      <title>Call of the Armor (Reverse Recruitment)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>20621168</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>knabepicer</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">3148045C</romCRC>
+      </files>
+      <im1CRC>2D8209BC</im1CRC>
+      <im2CRC>90F0A060</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes-reverse-recruitment-patch-13-apr-22/12698/109</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

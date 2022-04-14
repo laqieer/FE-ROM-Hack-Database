@@ -210,6 +210,9 @@
 	<machine name="Call of the Armor">
 		<rom name="230 - Call of the Armor" size="20330124" crc="688794f7" />
 	</machine>
+	<machine name="Call of the Armor (Reverse Recruitment)">
+		<rom name="1171 - Call of the Armor (Reverse Recruitment)" size="20621168" crc="3148045c" />
+	</machine>
 	<machine name="Cancer Emblem 0 - Joke Hack">
 		<rom name="354 - Cancer Emblem 0 - Joke Hack" size="16814840" crc="1d729c3e" />
 	</machine>

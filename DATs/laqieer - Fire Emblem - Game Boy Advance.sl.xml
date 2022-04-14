@@ -561,6 +561,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Call of the Armor (Reverse Recruitment)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1171 - Call of the Armor (Reverse Recruitment)" size="20621168" crc="3148045c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Cancer Emblem 0 - Joke Hack">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">

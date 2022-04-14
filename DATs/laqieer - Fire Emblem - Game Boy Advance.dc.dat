@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220409
+	Version: 20220415
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -286,6 +286,10 @@ game (
 game (
 	name "Call of the Armor.zip"
 	file ( name 230 - Call of the Armor size 20330124 crc 688794f7 )
+)
+game (
+	name "Call of the Armor (Reverse Recruitment).zip"
+	file ( name 1171 - Call of the Armor (Reverse Recruitment) size 20621168 crc 3148045c )
 )
 game (
 	name "Cancer Emblem 0 - Joke Hack.zip"

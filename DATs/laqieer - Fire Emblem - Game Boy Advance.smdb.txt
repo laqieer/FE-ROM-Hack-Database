@@ -68,6 +68,7 @@
 	BS Fire Emblem - Archanea Saga/158 - BS Fire Emblem - Archanea Saga			39abb64a	16933169
 	Bullet Hell Madness/511 - Bullet Hell Madness			70dc4d72	21870580
 	Call of the Armor/230 - Call of the Armor			688794f7	20330124
+	Call of the Armor (Reverse Recruitment)/1171 - Call of the Armor (Reverse Recruitment)			3148045c	20621168
 	Cancer Emblem 0 - Joke Hack/354 - Cancer Emblem 0 - Joke Hack			1d729c3e	16814840
 	Cancer Emblem 1 - Dazzle-Lunge Emblem/353 - Cancer Emblem 1 - Dazzle-Lunge Emblem			1ea8b476	16816800
 	Cancer Emblem 2 - Min-Max Emblem/352 - Cancer Emblem 2 - Min-Max Emblem			937079aa	17344212
@@ -546,7 +547,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744

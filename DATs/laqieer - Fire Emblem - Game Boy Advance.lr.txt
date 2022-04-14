@@ -278,6 +278,10 @@ ROMs required for driver "Call of the Armor".
 Name                                   Size Checksum
 230 - Call of the Armor            20330124 CRC(688794f7)
 
+ROMs required for driver "Call of the Armor (Reverse Recruitment)".
+Name                                   Size Checksum
+1171 - Call of the Armor (Reverse Recruitment)          20621168 CRC(3148045c)
+
 ROMs required for driver "Cancer Emblem 0 - Joke Hack".
 Name                                   Size Checksum
 354 - Cancer Emblem 0 - Joke Hack  16814840 CRC(1d729c3e)
@@ -2189,7 +2193,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum

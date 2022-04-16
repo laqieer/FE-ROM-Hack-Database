@@ -1,6 +1,6 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
-0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+853 - 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-2-princesses-english-translation/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
 21关开始-封印之剑;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
@@ -847,6 +847,7 @@ War on Two Fronts (0% Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;
 Water Crest - Morps’s Quest For Pants;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/water-crest-morpss-quest-for-pants/3050;
 Water Emblem Project Aqua;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-7-project-aqua/9785;
 What if Bors was in FE7;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/what-if-bors-was-in-fe7/13650;
+What if Seth was in Fe7;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/what-if-seth-was-in-fe7/15771;
 Wheel Of Misfortune;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 WillanZ Rebellion (リベリオン);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://feblackrebellion.livedoor.blog/;
 Winning Against Gharnef;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8u-winning-against-gharnef/5069;

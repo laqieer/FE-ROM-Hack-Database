@@ -9,7 +9,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="0的逆圣魔">
+	<software name="853 - 0的逆圣魔">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -6779,6 +6779,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="What if Seth was in Fe7">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1172 - What if Seth was in Fe7" size="16908252" crc="2c39bb9b" />
 			</dataarea>
 		</part>
 	</software>

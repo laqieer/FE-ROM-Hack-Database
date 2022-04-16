@@ -2,7 +2,7 @@ ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
-ROMs required for driver "0的逆圣魔".
+ROMs required for driver "853 - 0的逆圣魔".
 Name                                   Size Checksum
 853 - 0的逆圣魔                        20252024 CRC(077d94bb)
 
@@ -3386,6 +3386,10 @@ Name                                   Size Checksum
 ROMs required for driver "What if Bors was in FE7".
 Name                                   Size Checksum
 1109 - What if Bors was in FE7     16787660 CRC(122253da)
+
+ROMs required for driver "What if Seth was in Fe7".
+Name                                   Size Checksum
+1172 - What if Seth was in Fe7     16908252 CRC(2c39bb9b)
 
 ROMs required for driver "Wheel Of Misfortune".
 Name                                   Size Checksum

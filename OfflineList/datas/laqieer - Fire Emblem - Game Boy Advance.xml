@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220415</datVersion>
+    <datVersion>20220417</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19855,6 +19855,24 @@
       <im1CRC>2D8209BC</im1CRC>
       <im2CRC>90F0A060</im2CRC>
       <comment>https://feuniverse.us/t/fe8-complete-call-of-the-armor-v1-20-chapters-3-character-selection-interludes-reverse-recruitment-patch-13-apr-22/12698/109</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1172</imageNumber>
+      <releaseNumber>1172</releaseNumber>
+      <title>What if Seth was in Fe7</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16908252</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Saifulislam</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">2C39BB9B</romCRC>
+      </files>
+      <im1CRC>92B64974</im1CRC>
+      <im2CRC>75A6C2E0</im2CRC>
+      <comment>https://feuniverse.us/t/what-if-seth-was-in-fe7/15771</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

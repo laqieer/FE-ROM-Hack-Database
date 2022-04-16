@@ -1,5 +1,5 @@
 	0sheng mo/756 - 0sheng mo			9179c574	16777216
-	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
+	853 - 0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			a9b70387	27926760
 	21关开始-封印之剑/930 - 21关开始-封印之剑			75da6fb9	8388608
@@ -846,6 +846,7 @@
 	Water Crest - Morps’s Quest For Pants/278 - Water Crest - Morps’s Quest For Pants			95d4742f	17267760
 	Water Emblem Project Aqua/1158 - Water Emblem Project Aqua			789e1b04	16943616
 	What if Bors was in FE7/1109 - What if Bors was in FE7			122253da	16787660
+	What if Seth was in Fe7/1172 - What if Seth was in Fe7			2c39bb9b	16908252
 	Wheel Of Misfortune/540 - Wheel Of Misfortune			71238326	19997476
 	WillanZ Rebellion (リベリオン)/715 - WillanZ Rebellion (リベリオン)			de84bb04	28914848
 	Winning Against Gharnef/165 - Winning Against Gharnef			03c472ee	18085528

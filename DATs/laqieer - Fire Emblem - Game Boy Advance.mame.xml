@@ -3,7 +3,7 @@
 	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
-	<machine name="0的逆圣魔">
+	<machine name="853 - 0的逆圣魔">
 		<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
 	</machine>
 	<machine name="2 Princesses (English Translation)">
@@ -2541,6 +2541,9 @@
 	</machine>
 	<machine name="What if Bors was in FE7">
 		<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
+	</machine>
+	<machine name="What if Seth was in Fe7">
+		<rom name="1172 - What if Seth was in Fe7" size="16908252" crc="2c39bb9b" />
 	</machine>
 	<machine name="Wheel Of Misfortune">
 		<rom name="540 - Wheel Of Misfortune" size="19997476" crc="71238326" />

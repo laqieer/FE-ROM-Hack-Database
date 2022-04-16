@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220415",
+		"version": "20220417",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -125,7 +125,7 @@
 		},
 		{
 			"machine": {
-				"name": "0的逆圣魔",
+				"name": "853 - 0的逆圣魔",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -15355,6 +15355,24 @@
 						"name": "1109 - What if Bors was in FE7",
 						"size": 16787660,
 						"crc": "122253da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "What if Seth was in Fe7",
+				"comment": "https://feuniverse.us/t/what-if-seth-was-in-fe7/15771",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1172 - What if Seth was in Fe7",
+						"size": 16908252,
+						"crc": "2c39bb9b"
 					}
 				}
 			]

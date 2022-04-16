@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220415</version>
+		<version>20220417</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -17,7 +17,7 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
-	<machine name="0的逆圣魔">
+	<machine name="853 - 0的逆圣魔">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
 	</machine>
@@ -4198,6 +4198,11 @@
 		<comment>https://feuniverse.us/t/what-if-bors-was-in-fe7/13650</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1109 - What if Bors was in FE7" size="16787660" crc="122253da" />
+	</machine>
+	<machine name="What if Seth was in Fe7">
+		<comment>https://feuniverse.us/t/what-if-seth-was-in-fe7/15771</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1172 - What if Seth was in Fe7" size="16908252" crc="2c39bb9b" />
 	</machine>
 	<machine name="Wheel Of Misfortune">
 		<comment>https://markyjoe.com/?page=rfdl</comment>

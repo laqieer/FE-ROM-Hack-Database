@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220417</datVersion>
+    <datVersion>20220419</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19873,6 +19873,24 @@
       <im1CRC>92B64974</im1CRC>
       <im2CRC>75A6C2E0</im2CRC>
       <comment>https://feuniverse.us/t/what-if-seth-was-in-fe7/15771</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1173</imageNumber>
+      <releaseNumber>1173</releaseNumber>
+      <title>FE7 but the weather is bad</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>redeyesblackdrag0n</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">7D943E3F</romCRC>
+      </files>
+      <im1CRC>E2AD9728</im1CRC>
+      <im2CRC>0591B671</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

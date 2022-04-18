@@ -3,7 +3,7 @@
 	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
-	<machine name="853 - 0的逆圣魔">
+	<machine name="0的逆圣魔">
 		<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
 	</machine>
 	<machine name="2 Princesses (English Translation)">
@@ -702,6 +702,9 @@
 	</machine>
 	<machine name="FE7 but all the Promotion Items are Master Seals">
 		<rom name="1131 - FE7 but all the Promotion Items are Master Seals" size="16778200" crc="fe43c45b" />
+	</machine>
+	<machine name="FE7 but the weather is bad">
+		<rom name="1173 - FE7 but the weather is bad" size="16777216" crc="7d943e3f" />
 	</machine>
 	<machine name="FE7 Chaos Mode">
 		<rom name="332 - FE7 Chaos Mode" size="18767508" crc="0f92ff9b" />

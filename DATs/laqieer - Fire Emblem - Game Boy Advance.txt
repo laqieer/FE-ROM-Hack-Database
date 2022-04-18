@@ -1,6 +1,6 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
-853 - 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-2-princesses-english-translation/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
 21关开始-封印之剑;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
@@ -234,6 +234,7 @@ FE7 Allegiance Reversal+;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;No
 FE7 Boss Recruitment;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-boss-recruitment-v1-8-as-of-11-10-21/12962;
 FE7 Boss Swap;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-almost-complete/9897;
 FE7 but all the Promotion Items are Master Seals;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-but-all-the-promotion-items-are-master-seals/15047;
+FE7 but the weather is bad;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793;
 FE7 Chaos Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/49023-fe7-chaos-mode-fe7cm-v134/;
 FE7 Color Overhaul;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-color-overhaul-wip/10333;
 FE7 GE Wars of Dragons;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://www.fireemblemwod.com/foro/viewtopic.php?t=14045;

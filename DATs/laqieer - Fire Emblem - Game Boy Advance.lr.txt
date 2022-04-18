@@ -2,7 +2,7 @@ ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
-ROMs required for driver "853 - 0的逆圣魔".
+ROMs required for driver "0的逆圣魔".
 Name                                   Size Checksum
 853 - 0的逆圣魔                        20252024 CRC(077d94bb)
 
@@ -934,6 +934,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE7 but all the Promotion Items are Master Seals".
 Name                                   Size Checksum
 1131 - FE7 but all the Promotion Items are Master Seals          16778200 CRC(fe43c45b)
+
+ROMs required for driver "FE7 but the weather is bad".
+Name                                   Size Checksum
+1173 - FE7 but the weather is bad  16777216 CRC(7d943e3f)
 
 ROMs required for driver "FE7 Chaos Mode".
 Name                                   Size Checksum

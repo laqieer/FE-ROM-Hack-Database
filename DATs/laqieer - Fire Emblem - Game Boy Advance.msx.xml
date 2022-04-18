@@ -15,7 +15,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>853 - 0的逆圣魔</title>
+		<title>0的逆圣魔</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -3037,6 +3037,19 @@
 	</software>
 	<software>
 		<title>FE7 but all the Promotion Items are Master Seals</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 but the weather is bad</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

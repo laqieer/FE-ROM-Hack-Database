@@ -9,7 +9,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="853 - 0的逆圣魔">
+	<software name="0的逆圣魔">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -1875,6 +1875,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1131 - FE7 but all the Promotion Items are Master Seals" size="16778200" crc="fe43c45b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 but the weather is bad">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1173 - FE7 but the weather is bad" size="16777216" crc="7d943e3f" />
 			</dataarea>
 		</part>
 	</software>

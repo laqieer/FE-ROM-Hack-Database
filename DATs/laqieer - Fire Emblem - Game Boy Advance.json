@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220417",
+		"version": "20220419",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -125,7 +125,7 @@
 		},
 		{
 			"machine": {
-				"name": "853 - 0的逆圣魔",
+				"name": "0的逆圣魔",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -4321,6 +4321,24 @@
 						"name": "1131 - FE7 but all the Promotion Items are Master Seals",
 						"size": 16778200,
 						"crc": "fe43c45b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 but the weather is bad",
+				"comment": "https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1173 - FE7 but the weather is bad",
+						"size": 16777216,
+						"crc": "7d943e3f"
 					}
 				}
 			]

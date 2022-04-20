@@ -147,6 +147,7 @@ Enderslicer's Escape;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;
 Endless Nights;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8u-thor-studios-presents-fire-emblem-endless-nights/9455;
 ErikFE;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-erikfe/4706;
 Escape From the Mangs Dungeon;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787;
+Eternal Winter;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815;
 Ether's FE8 Reskin;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-8-reskin/12150;
 Ethereal Light;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-ethereal-light-8-32-chapters/10828;
 Exalted Legacy;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-exalted-legacy/183;

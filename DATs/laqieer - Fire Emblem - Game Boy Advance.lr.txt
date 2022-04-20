@@ -590,6 +590,10 @@ ROMs required for driver "Escape From the Mangs Dungeon".
 Name                                   Size Checksum
 161 - Escape From the Mangs Dungeon17083184 CRC(090dffb3)
 
+ROMs required for driver "Eternal Winter".
+Name                                   Size Checksum
+1174 - Eternal Winter              22439324 CRC(e8afe7c5)
+
 ROMs required for driver "Ether's FE8 Reskin".
 Name                                   Size Checksum
 1083 - Ether's FE8 Reskin          24660352 CRC(20f71449)
@@ -2197,7 +2201,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M                            18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum

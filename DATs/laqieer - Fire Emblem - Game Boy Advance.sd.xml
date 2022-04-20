@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220419</version>
+		<version>20220420</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -2319,6 +2319,21 @@
 					<name>161 - Escape From the Mangs Dungeon</name>
 					<size>17083184</size>
 					<crc>090dffb3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Eternal Winter</name>
+				<comment>https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1174 - Eternal Winter</name>
+					<size>22439324</size>
+					<crc>e8afe7c5</crc>
 				</datitem>
 			</files>
 		</directory>

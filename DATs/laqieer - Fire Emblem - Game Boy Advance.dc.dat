@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220419
+	Version: 20220420
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -598,6 +598,10 @@ game (
 game (
 	name "Escape From the Mangs Dungeon.zip"
 	file ( name 161 - Escape From the Mangs Dungeon size 17083184 crc 090dffb3 )
+)
+game (
+	name "Eternal Winter.zip"
+	file ( name 1174 - Eternal Winter size 22439324 crc e8afe7c5 )
 )
 game (
 	name "Ether's FE8 Reskin.zip"

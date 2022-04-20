@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220419"
+	version "20220420"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -748,6 +748,11 @@ game (
 	name "Escape From the Mangs Dungeon"
 	description "Escape From the Mangs Dungeon"
 	rom ( name "161 - Escape From the Mangs Dungeon" size "17083184" crc "090dffb3" )
+)
+game (
+	name "Eternal Winter"
+	description "Eternal Winter"
+	rom ( name "1174 - Eternal Winter" size "22439324" crc "e8afe7c5" )
 )
 game (
 	name "Ether's FE8 Reskin"

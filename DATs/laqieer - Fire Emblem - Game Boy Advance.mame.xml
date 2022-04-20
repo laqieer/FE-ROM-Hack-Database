@@ -444,6 +444,9 @@
 	<machine name="Escape From the Mangs Dungeon">
 		<rom name="161 - Escape From the Mangs Dungeon" size="17083184" crc="090dffb3" />
 	</machine>
+	<machine name="Eternal Winter">
+		<rom name="1174 - Eternal Winter" size="22439324" crc="e8afe7c5" />
+	</machine>
 	<machine name="Ether's FE8 Reskin">
 		<rom name="1083 - Ether's FE8 Reskin" size="24660352" crc="20f71449" />
 	</machine>

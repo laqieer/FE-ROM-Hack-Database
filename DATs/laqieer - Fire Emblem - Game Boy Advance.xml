@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220419</version>
+		<version>20220420</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -746,6 +746,11 @@
 		<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="161 - Escape From the Mangs Dungeon" size="17083184" crc="090dffb3" />
+	</machine>
+	<machine name="Eternal Winter">
+		<comment>https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1174 - Eternal Winter" size="22439324" crc="e8afe7c5" />
 	</machine>
 	<machine name="Ether's FE8 Reskin">
 		<comment>https://feuniverse.us/t/fire-emblem-8-reskin/12150</comment>

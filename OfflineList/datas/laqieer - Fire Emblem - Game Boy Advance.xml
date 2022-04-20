@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220419</datVersion>
+    <datVersion>20220420</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19891,6 +19891,24 @@
       <im1CRC>E2AD9728</im1CRC>
       <im2CRC>0591B671</im2CRC>
       <comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1174</imageNumber>
+      <releaseNumber>1174</releaseNumber>
+      <title>Eternal Winter</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>22439324</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Devisian_Nights</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">E8AFE7C5</romCRC>
+      </files>
+      <im1CRC>BB488435</im1CRC>
+      <im2CRC>F923C498</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

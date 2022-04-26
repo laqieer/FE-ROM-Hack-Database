@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220420</datVersion>
+    <datVersion>20220427</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19909,6 +19909,24 @@
       <im1CRC>BB488435</im1CRC>
       <im2CRC>F923C498</im2CRC>
       <comment>https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1175</imageNumber>
+      <releaseNumber>1175</releaseNumber>
+      <title>Rezurrection</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>29529228</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>chrobincormillalover</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">9AFF34E4</romCRC>
+      </files>
+      <im1CRC>3A370191</im1CRC>
+      <im2CRC>1D56ED9C</im2CRC>
+      <comment>Three Chapter Demo</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220420",
+		"version": "20220427",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -251,7 +251,7 @@
 		},
 		{
 			"machine": {
-				"name": "A New Revelation",
+				"name": "530 - A New Revelation",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
 				"publisher": "Ragefest"
@@ -11863,6 +11863,24 @@
 						"name": "474 - Revolution",
 						"size": 17839068,
 						"crc": "1561cad6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Rezurrection",
+				"comment": "Three Chapter Demo",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1175 - Rezurrection",
+						"size": 29529228,
+						"crc": "9aff34e4"
 					}
 				}
 			]

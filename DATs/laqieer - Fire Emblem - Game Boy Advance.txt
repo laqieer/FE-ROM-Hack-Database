@@ -7,7 +7,7 @@
 [FE8] Fire Emblem - The Archon's Curse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-archons-curse/10372;
 A Glimpse of Time (時の垣間 エリウッド編);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://ameblo.jp/yu-meigunsi/theme-10033783736.html;
 A Hobbit's Tale;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
-A New Revelation;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
+530 - A New Revelation;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 A Sacred Dawn;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/8618-fire-emblem-a-sacred-dawn/;
 A Sacred Dawn DX;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/forums/index.php?/topic/27763-fire-emblem-a-sacred-dawn-dx/;
 A Vestrian Tale;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/a-vestrian-tale-24-06-21-update-4-10-chapters-completed/12203;
@@ -653,6 +653,7 @@ Resonance Resurgence Demo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;N
 Resurgonence;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;1.2.3;
 Revitalised;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-revitalized-working-title/7876;
 Revolution;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/demo-fire-emblem-revolution-fe8/8274;
+Rezurrection;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;Three Chapter Demo;
 Rondo Of Madness;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 Roy's our boy patch;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/roys-our-boy-patch/11190;
 Royal Army;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142;

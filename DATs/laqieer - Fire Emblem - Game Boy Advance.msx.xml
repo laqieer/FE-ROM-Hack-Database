@@ -106,7 +106,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>A New Revelation</title>
+		<title>530 - A New Revelation</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -8484,6 +8484,19 @@
 	</software>
 	<software>
 		<title>Revolution</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Rezurrection</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

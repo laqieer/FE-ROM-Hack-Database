@@ -652,6 +652,7 @@
 284 - Resurgonence
 469 - Revitalised
 474 - Revolution
+1175 - Rezurrection
 509 - Rondo Of Madness
 1144 - Roy's our boy patch
 325 - Royal Army

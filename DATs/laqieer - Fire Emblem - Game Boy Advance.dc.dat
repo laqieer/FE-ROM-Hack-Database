@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220420
+	Version: 20220427
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -40,7 +40,7 @@ game (
 	file ( name 516 - A Hobbit's Tale size 16820432 crc b59f143c )
 )
 game (
-	name "A New Revelation.zip"
+	name "530 - A New Revelation.zip"
 	file ( name 530 - A New Revelation size 17616732 crc 08189dee )
 )
 game (
@@ -2619,6 +2619,10 @@ game (
 game (
 	name "Revolution.zip"
 	file ( name 474 - Revolution size 17839068 crc 1561cad6 )
+)
+game (
+	name "Rezurrection.zip"
+	file ( name 1175 - Rezurrection size 29529228 crc 9aff34e4 )
 )
 game (
 	name "Rondo Of Madness.zip"

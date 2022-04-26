@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220420</version>
+		<version>20220427</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -50,7 +50,7 @@
 		<publisher>Ragefest</publisher>
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
 	</machine>
-	<machine name="A New Revelation">
+	<machine name="530 - A New Revelation">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
 		<publisher>Ragefest</publisher>
 		<rom name="530 - A New Revelation" size="17616732" crc="08189dee" />
@@ -3232,6 +3232,11 @@
 		<comment>https://feuniverse.us/t/demo-fire-emblem-revolution-fe8/8274</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
+	</machine>
+	<machine name="Rezurrection">
+		<comment>Three Chapter Demo</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1175 - Rezurrection" size="29529228" crc="9aff34e4" />
 	</machine>
 	<machine name="Rondo Of Madness">
 		<comment>https://markyjoe.com/?page=rfdl</comment>

@@ -65,7 +65,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="A New Revelation">
+	<software name="530 - A New Revelation">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -5227,6 +5227,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Rezurrection">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1175 - Rezurrection" size="29529228" crc="9aff34e4" />
 			</dataarea>
 		</part>
 	</software>

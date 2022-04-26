@@ -24,7 +24,7 @@
 	<machine name="A Hobbit's Tale">
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
 	</machine>
-	<machine name="A New Revelation">
+	<machine name="530 - A New Revelation">
 		<rom name="530 - A New Revelation" size="17616732" crc="08189dee" />
 	</machine>
 	<machine name="A Sacred Dawn">
@@ -1959,6 +1959,9 @@
 	</machine>
 	<machine name="Revolution">
 		<rom name="474 - Revolution" size="17839068" crc="1561cad6" />
+	</machine>
+	<machine name="Rezurrection">
+		<rom name="1175 - Rezurrection" size="29529228" crc="9aff34e4" />
 	</machine>
 	<machine name="Rondo Of Madness">
 		<rom name="509 - Rondo Of Madness" size="21560644" crc="25d1d129" />

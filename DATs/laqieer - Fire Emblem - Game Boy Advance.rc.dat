@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220420
+version=20220427
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -19,7 +19,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬[FE8] Fire Emblem - The Archon's Curse¬[FE8] Fire Emblem - The Archon's Curse¬1064 - [FE8] Fire Emblem - The Archon's Curse¬1be625b7¬20883568¬¬¬
 ¬¬¬A Glimpse of Time (時の垣間 エリウッド編)¬A Glimpse of Time (時の垣間 エリウッド編)¬178 - A Glimpse of Time (時の垣間 エリウッド編)¬caccb1eb¬19436704¬¬¬
 ¬¬¬A Hobbit's Tale¬A Hobbit's Tale¬516 - A Hobbit's Tale¬b59f143c¬16820432¬¬¬
-¬¬¬A New Revelation¬A New Revelation¬530 - A New Revelation¬08189dee¬17616732¬¬¬
+¬¬¬530 - A New Revelation¬530 - A New Revelation¬530 - A New Revelation.gba¬08189dee¬17616732¬¬¬
 ¬¬¬A Sacred Dawn¬A Sacred Dawn¬286 - A Sacred Dawn¬61c6a436¬22020347¬¬¬
 ¬¬¬A Sacred Dawn DX¬A Sacred Dawn DX¬285 - A Sacred Dawn DX¬651b8fa3¬22333152¬¬¬
 ¬¬¬A Vestrian Tale¬A Vestrian Tale¬587 - A Vestrian Tale¬96b23200¬21767000¬¬¬
@@ -665,6 +665,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Resurgonence¬Resurgonence¬284 - Resurgonence¬380e45b9¬23710212¬¬¬
 ¬¬¬Revitalised¬Revitalised¬469 - Revitalised¬4b982aab¬17708492¬¬¬
 ¬¬¬Revolution¬Revolution¬474 - Revolution¬1561cad6¬17839068¬¬¬
+¬¬¬Rezurrection¬Rezurrection¬1175 - Rezurrection¬9aff34e4¬29529228¬¬¬
 ¬¬¬Rondo Of Madness¬Rondo Of Madness¬509 - Rondo Of Madness¬25d1d129¬21560644¬¬¬
 ¬¬¬Roy's our boy patch¬Roy's our boy patch¬1144 - Roy's our boy patch¬cf681a55¬9735112¬¬¬
 ¬¬¬Royal Army¬Royal Army¬325 - Royal Army¬1aac306b¬18382196¬¬¬

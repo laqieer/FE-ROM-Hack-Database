@@ -30,7 +30,7 @@ ROMs required for driver "A Hobbit's Tale".
 Name                                   Size Checksum
 516 - A Hobbit's Tale              16820432 CRC(b59f143c)
 
-ROMs required for driver "A New Revelation".
+ROMs required for driver "530 - A New Revelation".
 Name                                   Size Checksum
 530 - A New Revelation             17616732 CRC(08189dee)
 
@@ -2201,7 +2201,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2610,6 +2610,10 @@ Name                                   Size Checksum
 ROMs required for driver "Revolution".
 Name                                   Size Checksum
 474 - Revolution                   17839068 CRC(1561cad6)
+
+ROMs required for driver "Rezurrection".
+Name                                   Size Checksum
+1175 - Rezurrection                29529228 CRC(9aff34e4)
 
 ROMs required for driver "Rondo Of Madness".
 Name                                   Size Checksum

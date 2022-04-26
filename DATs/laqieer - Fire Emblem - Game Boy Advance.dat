@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220420"
+	version "20220427"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -50,8 +50,8 @@ game (
 	rom ( name "516 - A Hobbit's Tale" size "16820432" crc "b59f143c" )
 )
 game (
-	name "A New Revelation"
-	description "A New Revelation"
+	name "530 - A New Revelation"
+	description "530 - A New Revelation"
 	rom ( name "530 - A New Revelation" size "17616732" crc "08189dee" )
 )
 game (
@@ -3274,6 +3274,11 @@ game (
 	name "Revolution"
 	description "Revolution"
 	rom ( name "474 - Revolution" size "17839068" crc "1561cad6" )
+)
+game (
+	name "Rezurrection"
+	description "Rezurrection"
+	rom ( name "1175 - Rezurrection" size "29529228" crc "9aff34e4" )
 )
 game (
 	name "Rondo Of Madness"

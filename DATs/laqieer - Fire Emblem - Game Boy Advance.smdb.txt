@@ -6,7 +6,7 @@
 	[FE8] Fire Emblem - The Archon's Curse/1064 - [FE8] Fire Emblem - The Archon's Curse			1be625b7	20883568
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
 	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
-	A New Revelation/530 - A New Revelation			08189dee	17616732
+	530 - A New Revelation/530 - A New Revelation			08189dee	17616732
 	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
 	A Sacred Dawn DX/285 - A Sacred Dawn DX			651b8fa3	22333152
 	A Vestrian Tale/587 - A Vestrian Tale			96b23200	21767000
@@ -549,7 +549,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -652,6 +652,7 @@
 	Resurgonence/284 - Resurgonence			380e45b9	23710212
 	Revitalised/469 - Revitalised			4b982aab	17708492
 	Revolution/474 - Revolution			1561cad6	17839068
+	Rezurrection/1175 - Rezurrection			9aff34e4	29529228
 	Rondo Of Madness/509 - Rondo Of Madness			25d1d129	21560644
 	Roy's our boy patch/1144 - Roy's our boy patch			cf681a55	9735112
 	Royal Army/325 - Royal Army			1aac306b	18382196

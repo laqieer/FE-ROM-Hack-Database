@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1105</datVersion>
+		<datVersion>1107</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -1753,6 +1753,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1115 - Dark Dragon Reborn (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>20969588</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">12E234A4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/37</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8079,6 +8097,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1176 - Fire Emblem - Vision Quest (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>29299468</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">92B99FD6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/43-vision-quest</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>101 - Fire Emblem - Will of Good and Evil</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -10345,6 +10381,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-complete-myrm-emblem-v1-0/11213</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1177 - Myrm Emblem (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>23204568</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FF970D34</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/46</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -18055,24 +18109,6 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
-			<title>1115 - 暗黑龙重生(Chinese Translation)</title>
-			<saveType>None</saveType>
-			<romSize>20969588</romSize>
-			<publisher>Fan Modding</publisher>
-			<location>0</location>
-			<sourceRom>None</sourceRom>
-			<language>0</language>
-			<files>
-				<romCRC extension=".">12E234A4</romCRC>
-			</files>
-			<im1CRC>00000000</im1CRC>
-			<im2CRC>00000000</im2CRC>
-			<comment>v1.4</comment>
-			<duplicateID></duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1</releaseNumber>
 			<title>951 - 最帅修改 圣魔新地图</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -19356,8 +19392,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>
-			</comment>
+			<comment>https://fecosmos.xyz/d/2</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

@@ -106,7 +106,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>530 - A New Revelation</title>
+		<title>A New Revelation</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -1225,6 +1225,19 @@
 	</software>
 	<software>
 		<title>Dark Dragon Reborn</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Dark Dragon Reborn (Chinese Translation)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -5766,6 +5779,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>Fire Emblem - Vision Quest (Chinese Translation)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Fire Emblem - Will of Good and Evil</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -7392,6 +7418,19 @@
 	</software>
 	<software>
 		<title>Myrm Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Myrm Emblem (Chinese Translation)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -12891,19 +12930,6 @@
 	</software>
 	<software>
 		<title>暗黑の黎明</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
-		<title>暗黑龙重生(Chinese Translation)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

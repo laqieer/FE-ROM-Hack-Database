@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220427"
+	version "20220428"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -50,8 +50,8 @@ game (
 	rom ( name "516 - A Hobbit's Tale" size "16820432" crc "b59f143c" )
 )
 game (
-	name "530 - A New Revelation"
-	description "530 - A New Revelation"
+	name "A New Revelation"
+	description "A New Revelation"
 	rom ( name "530 - A New Revelation" size "17616732" crc "08189dee" )
 )
 game (
@@ -483,6 +483,11 @@ game (
 	name "Dark Dragon Reborn"
 	description "Dark Dragon Reborn"
 	rom ( name "1005 - Dark Dragon Reborn" size "19859020" crc "62adfa62" )
+)
+game (
+	name "Dark Dragon Reborn (Chinese Translation)"
+	description "Dark Dragon Reborn (Chinese Translation)"
+	rom ( name "1115 - Dark Dragon Reborn (Chinese Translation)" size "20969588" crc "12e234a4" )
 )
 game (
 	name "Dark Dragon Reborn (Fixed Growths)"
@@ -2226,6 +2231,11 @@ game (
 	rom ( name "203 - Fire Emblem - Vision Quest" size "27226016" crc "aee1137a" )
 )
 game (
+	name "Fire Emblem - Vision Quest (Chinese Translation)"
+	description "Fire Emblem - Vision Quest (Chinese Translation)"
+	rom ( name "1176 - Fire Emblem - Vision Quest (Chinese Translation)" size "29299468" crc "92b99fd6" )
+)
+game (
 	name "Fire Emblem - Will of Good and Evil"
 	description "Fire Emblem - Will of Good and Evil"
 	rom ( name "101 - Fire Emblem - Will of Good and Evil" size "16777216" crc "9cbb923e" )
@@ -2854,6 +2864,11 @@ game (
 	name "Myrm Emblem"
 	description "Myrm Emblem"
 	rom ( name "238 - Myrm Emblem" size "22182264" crc "b5a503ae" )
+)
+game (
+	name "Myrm Emblem (Chinese Translation)"
+	description "Myrm Emblem (Chinese Translation)"
+	rom ( name "1177 - Myrm Emblem (Chinese Translation)" size "23204568" crc "ff970d34" )
 )
 game (
 	name "Myrrh Goes To Mc Donalds"
@@ -4969,11 +4984,6 @@ game (
 	name "暗黑の黎明"
 	description "暗黑の黎明"
 	rom ( name "806 - 暗黑の黎明" size "24837392" crc "a387b295" )
-)
-game (
-	name "暗黑龙重生(Chinese Translation)"
-	description "暗黑龙重生(Chinese Translation)"
-	rom ( name "1115 - 暗黑龙重生(Chinese Translation)" size "20969588" crc "12e234a4" )
 )
 game (
 	name "最帅修改 圣魔新地图"

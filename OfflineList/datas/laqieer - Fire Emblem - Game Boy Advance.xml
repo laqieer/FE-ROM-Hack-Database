@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220427</datVersion>
+    <datVersion>20220428</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -13266,7 +13266,7 @@
       </files>
       <im1CRC>DDA03E55</im1CRC>
       <im2CRC>EAE63C88</im2CRC>
-      <comment></comment>
+      <comment>https://fecosmos.xyz/d/2</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -18834,7 +18834,7 @@
     <game>
       <imageNumber>1115</imageNumber>
       <releaseNumber>1115</releaseNumber>
-      <title>暗黑龙重生(Chinese Translation)</title>
+      <title>Dark Dragon Reborn (Chinese Translation)</title>
       <saveType>Sram_F_v103</saveType>
       <romSize>20969588</romSize>
       <publisher>Fan Modding</publisher>
@@ -18846,7 +18846,7 @@
       </files>
       <im1CRC>6245261C</im1CRC>
       <im2CRC>3B2461D3</im2CRC>
-      <comment>v1.4</comment>
+      <comment>https://fecosmos.xyz/d/37</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -19927,6 +19927,42 @@
       <im1CRC>3A370191</im1CRC>
       <im2CRC>1D56ED9C</im2CRC>
       <comment>Three Chapter Demo</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1176</imageNumber>
+      <releaseNumber>1176</releaseNumber>
+      <title>Fire Emblem - Vision Quest (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>29299468</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>冬瓜</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">92B99FD6</romCRC>
+      </files>
+      <im1CRC>6C5EA424</im1CRC>
+      <im2CRC>2F9FFF4F</im2CRC>
+      <comment>https://fecosmos.xyz/d/43-vision-quest</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1177</imageNumber>
+      <releaseNumber>1177</releaseNumber>
+      <title>Myrm Emblem (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>23204568</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>瓦莱娜23号</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">FF970D34</romCRC>
+      </files>
+      <im1CRC>EBB59D4F</im1CRC>
+      <im2CRC>4B5271D4</im2CRC>
+      <comment>https://fecosmos.xyz/d/46</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

@@ -65,7 +65,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="530 - A New Revelation">
+	<software name="A New Revelation">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -758,6 +758,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1005 - Dark Dragon Reborn" size="19859020" crc="62adfa62" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Dark Dragon Reborn (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1115 - Dark Dragon Reborn (Chinese Translation)" size="20969588" crc="12e234a4" />
 			</dataarea>
 		</part>
 	</software>
@@ -3550,6 +3558,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Vision Quest (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1176 - Fire Emblem - Vision Quest (Chinese Translation)" size="29299468" crc="92b99fd6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Will of Good and Evil">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -4555,6 +4571,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="238 - Myrm Emblem" size="22182264" crc="b5a503ae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Myrm Emblem (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1177 - Myrm Emblem (Chinese Translation)" size="23204568" crc="ff970d34" />
 			</dataarea>
 		</part>
 	</software>
@@ -7939,14 +7963,6 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
-			</dataarea>
-		</part>
-	</software>
-	<software name="暗黑龙重生(Chinese Translation)">
-		<publisher>Fan Modding</publisher>
-		<part name="" interface="">
-			<dataarea name="rom">
-				<rom name="1115 - 暗黑龙重生(Chinese Translation)" size="20969588" crc="12e234a4" />
 			</dataarea>
 		</part>
 	</software>

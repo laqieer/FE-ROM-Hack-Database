@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220427</version>
+		<version>20220428</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -224,7 +224,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>530 - A New Revelation</name>
+				<name>A New Revelation</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
 			</machine>
@@ -1524,6 +1524,21 @@
 					<name>1005 - Dark Dragon Reborn</name>
 					<size>19859020</size>
 					<crc>62adfa62</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Dark Dragon Reborn (Chinese Translation)</name>
+				<comment>https://fecosmos.xyz/d/37</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1115 - Dark Dragon Reborn (Chinese Translation)</name>
+					<size>20969588</size>
+					<crc>12e234a4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6755,6 +6770,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Vision Quest (Chinese Translation)</name>
+				<comment>https://fecosmos.xyz/d/43-vision-quest</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1176 - Fire Emblem - Vision Quest (Chinese Translation)</name>
+					<size>29299468</size>
+					<crc>92b99fd6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Will of Good and Evil</name>
 				<comment>http://www.fireemblem.net/fe/download/index.htm</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -8640,6 +8670,21 @@
 					<name>238 - Myrm Emblem</name>
 					<size>22182264</size>
 					<crc>b5a503ae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Myrm Emblem (Chinese Translation)</name>
+				<comment>https://fecosmos.xyz/d/46</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1177 - Myrm Emblem (Chinese Translation)</name>
+					<size>23204568</size>
+					<crc>ff970d34</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14990,21 +15035,6 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>暗黑龙重生(Chinese Translation)</name>
-				<comment>v1.4</comment>
-				<publisher>Fan Modding</publisher>
-			</machine>
-			<files>
-				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
-					<itemtype>Rom</itemtype>
-					<name>1115 - 暗黑龙重生(Chinese Translation)</name>
-					<size>20969588</size>
-					<crc>12e234a4</crc>
-				</datitem>
-			</files>
-		</directory>
-		<directory>
-			<machine>
 				<name>最帅修改 圣魔新地图</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -16026,7 +16056,7 @@
 		<directory>
 			<machine>
 				<name>虚空之魂</name>
-				<comment />
+				<comment>https://fecosmos.xyz/d/2</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>

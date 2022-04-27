@@ -6,7 +6,7 @@
 	[FE8] Fire Emblem - The Archon's Curse/1064 - [FE8] Fire Emblem - The Archon's Curse			1be625b7	20883568
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
 	A Hobbit's Tale/516 - A Hobbit's Tale			b59f143c	16820432
-	530 - A New Revelation/530 - A New Revelation			08189dee	17616732
+	A New Revelation/530 - A New Revelation			08189dee	17616732
 	A Sacred Dawn/286 - A Sacred Dawn			61c6a436	22020347
 	A Sacred Dawn DX/285 - A Sacred Dawn DX			651b8fa3	22333152
 	A Vestrian Tale/587 - A Vestrian Tale			96b23200	21767000
@@ -93,6 +93,7 @@
 	Darion’s Blazing Sword (Eliwood mode)/547 - Darion’s Blazing Sword (Eliwood mode)			142e9add	16777216
 	Darion’s Blazing Sword (Hector mode)/560 - Darion’s Blazing Sword (Hector mode)			908e9a34	16777216
 	Dark Dragon Reborn/1005 - Dark Dragon Reborn			62adfa62	19859020
+	Dark Dragon Reborn (Chinese Translation)/1115 - Dark Dragon Reborn (Chinese Translation)			12e234a4	20969588
 	Dark Dragon Reborn (Fixed Growths)/1007 - Dark Dragon Reborn (Fixed Growths)			39be8812	19859020
 	Dark Dragon Reborn (Minimugs)/1006 - Dark Dragon Reborn (Minimugs)			1d3cbd2e	19859020
 	Dark Emblem/263 - Dark Emblem			74277073	23383092
@@ -442,6 +443,7 @@
 	Fire Emblem - The Stone Chains/279 - Fire Emblem - The Stone Chains			076f39da	25891240
 	Fire Emblem - Tiding Bonds/274 - Fire Emblem - Tiding Bonds			b1d37e48	16865348
 	Fire Emblem - Vision Quest/203 - Fire Emblem - Vision Quest			aee1137a	27226016
+	Fire Emblem - Vision Quest (Chinese Translation)/1176 - Fire Emblem - Vision Quest (Chinese Translation)			92b99fd6	29299468
 	Fire Emblem - Will of Good and Evil/101 - Fire Emblem - Will of Good and Evil			9cbb923e	16777216
 	Fire Emblem - Wings/1077 - Fire Emblem - Wings			658005f0	18306472
 	Fire Emblem [Latino] 2.0 ~ You Can (Not) Ban (English)/117 - Fire Emblem [Latino] 2			fc2b8ed3	25224856
@@ -549,7 +551,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M. E			048eb1b6	18427704
+	M. E. R. C. S./467 - M			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744
@@ -568,6 +570,7 @@
 	MVPMaster's MAFC FEU It Again patch/684 - MVPMaster's MAFC FEU It Again patch			605abdd8	17016488
 	Mycahel's 1h Blitz - Endless Dream/640 - Mycahel's 1h Blitz - Endless Dream			9bd86faa	16802292
 	Myrm Emblem/238 - Myrm Emblem			b5a503ae	22182264
+	Myrm Emblem (Chinese Translation)/1177 - Myrm Emblem (Chinese Translation)			ff970d34	23204568
 	Myrrh Goes To Mc Donalds/674 - Myrrh Goes To Mc Donalds			7dab34e7	16876620
 	MysteriousDancer's 1h Blitz - Questionable Innocence/644 - MysteriousDancer's 1h Blitz - Questionable Innocence			2181ccac	16841120
 	Mystery of the Emblem GBA/1079 - Mystery of the Emblem GBA			65d282e5	16777216
@@ -991,7 +994,6 @@
 	暗之彼方/866 - 暗之彼方			d348549a	33113720
 	暗之魔女/783 - 暗之魔女			5f847710	18874368
 	暗黑の黎明/806 - 暗黑の黎明			a387b295	24837392
-	暗黑龙重生(Chinese Translation)/1115 - 暗黑龙重生(Chinese Translation)			12e234a4	20969588
 	最帅修改 圣魔新地图/951 - 最帅修改 圣魔新地图			24eadfef	16777216
 	最帅出品 圣邪地狱篇/950 - 最帅出品 圣邪地狱篇			6843b393	16777300
 	最帅改版 封印无敌篇/934 - 最帅改版 封印无敌篇			f1787236	10415546

@@ -93,6 +93,7 @@
 547 - Darion’s Blazing Sword (Eliwood mode)
 560 - Darion’s Blazing Sword (Hector mode)
 1005 - Dark Dragon Reborn
+1115 - Dark Dragon Reborn (Chinese Translation)
 1007 - Dark Dragon Reborn (Fixed Growths)
 1006 - Dark Dragon Reborn (Minimugs)
 263 - Dark Emblem
@@ -442,6 +443,7 @@
 279 - Fire Emblem - The Stone Chains
 274 - Fire Emblem - Tiding Bonds
 203 - Fire Emblem - Vision Quest
+1176 - Fire Emblem - Vision Quest (Chinese Translation)
 101 - Fire Emblem - Will of Good and Evil
 1077 - Fire Emblem - Wings
 117 - Fire Emblem [Latino] 2
@@ -549,7 +551,7 @@
 346 - Lyn Emblem
 1111 - Lyn Emblem 7 - Attack of the Clones
 519 - Lyn's Revenge
-467 - M
+467 - M. E
 557 - MageKnight404's FE7 Hack
 125 - Maiden Quest
 565 - Many Emblem
@@ -568,6 +570,7 @@
 684 - MVPMaster's MAFC FEU It Again patch
 640 - Mycahel's 1h Blitz - Endless Dream
 238 - Myrm Emblem
+1177 - Myrm Emblem (Chinese Translation)
 674 - Myrrh Goes To Mc Donalds
 644 - MysteriousDancer's 1h Blitz - Questionable Innocence
 1079 - Mystery of the Emblem GBA
@@ -991,7 +994,6 @@
 866 - 暗之彼方
 783 - 暗之魔女
 806 - 暗黑の黎明
-1115 - 暗黑龙重生(Chinese Translation)
 951 - 最帅修改 圣魔新地图
 950 - 最帅出品 圣邪地狱篇
 934 - 最帅改版 封印无敌篇

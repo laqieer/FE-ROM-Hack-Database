@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220427",
+		"version": "20220428",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -251,7 +251,7 @@
 		},
 		{
 			"machine": {
-				"name": "530 - A New Revelation",
+				"name": "A New Revelation",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
 				"publisher": "Ragefest"
@@ -1811,6 +1811,24 @@
 						"name": "1005 - Dark Dragon Reborn",
 						"size": 19859020,
 						"crc": "62adfa62"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Dark Dragon Reborn (Chinese Translation)",
+				"comment": "https://fecosmos.xyz/d/37",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1115 - Dark Dragon Reborn (Chinese Translation)",
+						"size": 20969588,
+						"crc": "12e234a4"
 					}
 				}
 			]
@@ -8089,6 +8107,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Vision Quest (Chinese Translation)",
+				"comment": "https://fecosmos.xyz/d/43-vision-quest",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1176 - Fire Emblem - Vision Quest (Chinese Translation)",
+						"size": 29299468,
+						"crc": "92b99fd6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Will of Good and Evil",
 				"comment": "http://www.fireemblem.net/fe/download/index.htm",
 				"description": null,
@@ -10351,6 +10387,24 @@
 						"name": "238 - Myrm Emblem",
 						"size": 22182264,
 						"crc": "b5a503ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Myrm Emblem (Chinese Translation)",
+				"comment": "https://fecosmos.xyz/d/46",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1177 - Myrm Emblem (Chinese Translation)",
+						"size": 23204568,
+						"crc": "ff970d34"
 					}
 				}
 			]
@@ -17971,24 +18025,6 @@
 		},
 		{
 			"machine": {
-				"name": "暗黑龙重生(Chinese Translation)",
-				"comment": "v1.4",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "1115 - 暗黑龙重生(Chinese Translation)",
-						"size": 20969588,
-						"crc": "12e234a4"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
 				"name": "最帅修改 圣魔新地图",
 				"comment": "",
 				"description": null,
@@ -19214,7 +19250,7 @@
 		{
 			"machine": {
 				"name": "虚空之魂",
-				"comment": "",
+				"comment": "https://fecosmos.xyz/d/2",
 				"description": null,
 				"publisher": "Fan Modding"
 			},

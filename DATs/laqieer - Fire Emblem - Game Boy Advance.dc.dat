@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220427
+	Version: 20220428
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -40,7 +40,7 @@ game (
 	file ( name 516 - A Hobbit's Tale size 16820432 crc b59f143c )
 )
 game (
-	name "530 - A New Revelation.zip"
+	name "A New Revelation.zip"
 	file ( name 530 - A New Revelation size 17616732 crc 08189dee )
 )
 game (
@@ -386,6 +386,10 @@ game (
 game (
 	name "Dark Dragon Reborn.zip"
 	file ( name 1005 - Dark Dragon Reborn size 19859020 crc 62adfa62 )
+)
+game (
+	name "Dark Dragon Reborn (Chinese Translation).zip"
+	file ( name 1115 - Dark Dragon Reborn (Chinese Translation) size 20969588 crc 12e234a4 )
 )
 game (
 	name "Dark Dragon Reborn (Fixed Growths).zip"
@@ -1781,6 +1785,10 @@ game (
 	file ( name 203 - Fire Emblem - Vision Quest size 27226016 crc aee1137a )
 )
 game (
+	name "Fire Emblem - Vision Quest (Chinese Translation).zip"
+	file ( name 1176 - Fire Emblem - Vision Quest (Chinese Translation) size 29299468 crc 92b99fd6 )
+)
+game (
 	name "Fire Emblem - Will of Good and Evil.zip"
 	file ( name 101 - Fire Emblem - Will of Good and Evil size 16777216 crc 9cbb923e )
 )
@@ -2283,6 +2291,10 @@ game (
 game (
 	name "Myrm Emblem.zip"
 	file ( name 238 - Myrm Emblem size 22182264 crc b5a503ae )
+)
+game (
+	name "Myrm Emblem (Chinese Translation).zip"
+	file ( name 1177 - Myrm Emblem (Chinese Translation) size 23204568 crc ff970d34 )
 )
 game (
 	name "Myrrh Goes To Mc Donalds.zip"
@@ -3975,10 +3987,6 @@ game (
 game (
 	name "暗黑の黎明.zip"
 	file ( name 806 - 暗黑の黎明 size 24837392 crc a387b295 )
-)
-game (
-	name "暗黑龙重生(Chinese Translation).zip"
-	file ( name 1115 - 暗黑龙重生(Chinese Translation) size 20969588 crc 12e234a4 )
 )
 game (
 	name "最帅修改 圣魔新地图.zip"

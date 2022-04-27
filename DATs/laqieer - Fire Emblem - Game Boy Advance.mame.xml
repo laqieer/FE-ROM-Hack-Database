@@ -24,7 +24,7 @@
 	<machine name="A Hobbit's Tale">
 		<rom name="516 - A Hobbit's Tale" size="16820432" crc="b59f143c" />
 	</machine>
-	<machine name="530 - A New Revelation">
+	<machine name="A New Revelation">
 		<rom name="530 - A New Revelation" size="17616732" crc="08189dee" />
 	</machine>
 	<machine name="A Sacred Dawn">
@@ -284,6 +284,9 @@
 	</machine>
 	<machine name="Dark Dragon Reborn">
 		<rom name="1005 - Dark Dragon Reborn" size="19859020" crc="62adfa62" />
+	</machine>
+	<machine name="Dark Dragon Reborn (Chinese Translation)">
+		<rom name="1115 - Dark Dragon Reborn (Chinese Translation)" size="20969588" crc="12e234a4" />
 	</machine>
 	<machine name="Dark Dragon Reborn (Fixed Growths)">
 		<rom name="1007 - Dark Dragon Reborn (Fixed Growths)" size="19859020" crc="39be8812" />
@@ -1330,6 +1333,9 @@
 	<machine name="Fire Emblem - Vision Quest">
 		<rom name="203 - Fire Emblem - Vision Quest" size="27226016" crc="aee1137a" />
 	</machine>
+	<machine name="Fire Emblem - Vision Quest (Chinese Translation)">
+		<rom name="1176 - Fire Emblem - Vision Quest (Chinese Translation)" size="29299468" crc="92b99fd6" />
+	</machine>
 	<machine name="Fire Emblem - Will of Good and Evil">
 		<rom name="101 - Fire Emblem - Will of Good and Evil" size="16777216" crc="9cbb923e" />
 	</machine>
@@ -1707,6 +1713,9 @@
 	</machine>
 	<machine name="Myrm Emblem">
 		<rom name="238 - Myrm Emblem" size="22182264" crc="b5a503ae" />
+	</machine>
+	<machine name="Myrm Emblem (Chinese Translation)">
+		<rom name="1177 - Myrm Emblem (Chinese Translation)" size="23204568" crc="ff970d34" />
 	</machine>
 	<machine name="Myrrh Goes To Mc Donalds">
 		<rom name="674 - Myrrh Goes To Mc Donalds" size="16876620" crc="7dab34e7" />
@@ -2976,9 +2985,6 @@
 	</machine>
 	<machine name="暗黑の黎明">
 		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
-	</machine>
-	<machine name="暗黑龙重生(Chinese Translation)">
-		<rom name="1115 - 暗黑龙重生(Chinese Translation)" size="20969588" crc="12e234a4" />
 	</machine>
 	<machine name="最帅修改 圣魔新地图">
 		<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />

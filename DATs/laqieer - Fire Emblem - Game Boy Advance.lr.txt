@@ -30,7 +30,7 @@ ROMs required for driver "A Hobbit's Tale".
 Name                                   Size Checksum
 516 - A Hobbit's Tale              16820432 CRC(b59f143c)
 
-ROMs required for driver "530 - A New Revelation".
+ROMs required for driver "A New Revelation".
 Name                                   Size Checksum
 530 - A New Revelation             17616732 CRC(08189dee)
 
@@ -377,6 +377,10 @@ Name                                   Size Checksum
 ROMs required for driver "Dark Dragon Reborn".
 Name                                   Size Checksum
 1005 - Dark Dragon Reborn          19859020 CRC(62adfa62)
+
+ROMs required for driver "Dark Dragon Reborn (Chinese Translation)".
+Name                                   Size Checksum
+1115 - Dark Dragon Reborn (Chinese Translation)          20969588 CRC(12e234a4)
 
 ROMs required for driver "Dark Dragon Reborn (Fixed Growths)".
 Name                                   Size Checksum
@@ -1771,6 +1775,10 @@ ROMs required for driver "Fire Emblem - Vision Quest".
 Name                                   Size Checksum
 203 - Fire Emblem - Vision Quest   27226016 CRC(aee1137a)
 
+ROMs required for driver "Fire Emblem - Vision Quest (Chinese Translation)".
+Name                                   Size Checksum
+1176 - Fire Emblem - Vision Quest (Chinese Translation)          29299468 CRC(92b99fd6)
+
 ROMs required for driver "Fire Emblem - Will of Good and Evil".
 Name                                   Size Checksum
 101 - Fire Emblem - Will of Good and Evil16777216 CRC(9cbb923e)
@@ -2274,6 +2282,10 @@ Name                                   Size Checksum
 ROMs required for driver "Myrm Emblem".
 Name                                   Size Checksum
 238 - Myrm Emblem                  22182264 CRC(b5a503ae)
+
+ROMs required for driver "Myrm Emblem (Chinese Translation)".
+Name                                   Size Checksum
+1177 - Myrm Emblem (Chinese Translation)23204568 CRC(ff970d34)
 
 ROMs required for driver "Myrrh Goes To Mc Donalds".
 Name                                   Size Checksum
@@ -3966,10 +3978,6 @@ Name                                   Size Checksum
 ROMs required for driver "暗黑の黎明".
 Name                                   Size Checksum
 806 - 暗黑の黎明                        24837392 CRC(a387b295)
-
-ROMs required for driver "暗黑龙重生(Chinese Translation)".
-Name                                   Size Checksum
-1115 - 暗黑龙重生(Chinese Translation)  20969588 CRC(12e234a4)
 
 ROMs required for driver "最帅修改 圣魔新地图".
 Name                                   Size Checksum

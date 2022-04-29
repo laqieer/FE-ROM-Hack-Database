@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220428",
+		"version": "20220429",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -4231,6 +4231,24 @@
 						"name": "766 - FE6RRaddendum",
 						"size": 8388608,
 						"crc": "d360f35f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 - Justice League Reskin",
+				"comment": "https://feuniverse.us/t/fe7-justice-league-reskin/15905",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1178 - FE7 - Justice League Reskin",
+						"size": 16939284,
+						"crc": "d1b19259"
 					}
 				}
 			]

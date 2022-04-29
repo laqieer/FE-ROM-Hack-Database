@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220428
+	Version: 20220429
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -923,6 +923,10 @@ game (
 game (
 	name "FE6RRaddendum.zip"
 	file ( name 766 - FE6RRaddendum size 8388608 crc d360f35f )
+)
+game (
+	name "FE7 - Justice League Reskin.zip"
+	file ( name 1178 - FE7 - Justice League Reskin size 16939284 crc d1b19259 )
 )
 game (
 	name "FE7 - Matthew Edition DX.zip"

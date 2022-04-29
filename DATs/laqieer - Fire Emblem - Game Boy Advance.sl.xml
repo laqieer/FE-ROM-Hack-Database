@@ -1838,6 +1838,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 - Justice League Reskin">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1178 - FE7 - Justice League Reskin" size="16939284" crc="d1b19259" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 - Matthew Edition DX">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">

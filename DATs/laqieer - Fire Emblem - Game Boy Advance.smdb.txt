@@ -228,6 +228,7 @@
 	FE6R/690 - FE6R			451b2f22	10281640
 	FE6RR/765 - FE6RR			eaf32b75	8388608
 	FE6RRaddendum/766 - FE6RRaddendum			d360f35f	8388608
+	FE7 - Justice League Reskin/1178 - FE7 - Justice League Reskin			d1b19259	16939284
 	FE7 - Matthew Edition DX/1149 - FE7 - Matthew Edition DX			988dc5fc	17585112
 	FE7 - Sus Emblem/1082 - FE7 - Sus Emblem			8ebaa7cb	17316640
 	FE7 - the Community Edition/1009 - FE7 - the Community Edition			94bf4325	21445516
@@ -551,7 +552,7 @@
 	Lyn Emblem/346 - Lyn Emblem			63b047ee	17039860
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Many Emblem/565 - Many Emblem			739d2b9e	31704744

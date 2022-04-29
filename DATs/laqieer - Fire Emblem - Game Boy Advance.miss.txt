@@ -228,6 +228,7 @@
 690 - FE6R
 765 - FE6RR
 766 - FE6RRaddendum
+1178 - FE7 - Justice League Reskin
 1149 - FE7 - Matthew Edition DX
 1082 - FE7 - Sus Emblem
 1009 - FE7 - the Community Edition
@@ -551,7 +552,7 @@
 346 - Lyn Emblem
 1111 - Lyn Emblem 7 - Attack of the Clones
 519 - Lyn's Revenge
-467 - M. E
+467 - M
 557 - MageKnight404's FE7 Hack
 125 - Maiden Quest
 565 - Many Emblem

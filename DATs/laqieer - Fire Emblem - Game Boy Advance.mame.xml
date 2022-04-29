@@ -688,6 +688,9 @@
 	<machine name="FE6RRaddendum">
 		<rom name="766 - FE6RRaddendum" size="8388608" crc="d360f35f" />
 	</machine>
+	<machine name="FE7 - Justice League Reskin">
+		<rom name="1178 - FE7 - Justice League Reskin" size="16939284" crc="d1b19259" />
+	</machine>
 	<machine name="FE7 - Matthew Edition DX">
 		<rom name="1149 - FE7 - Matthew Edition DX" size="17585112" crc="988dc5fc" />
 	</machine>

@@ -229,6 +229,7 @@ FE6J 0% growths;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;ht
 FE6R;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 FE6RR;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 FE6RRaddendum;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+FE7 - Justice League Reskin;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-justice-league-reskin/15905;
 FE7 - Matthew Edition DX;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-matthew-edition-dx-in-progress/11183;
 FE7 - Sus Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/sus-emblem-fe7/14697;
 FE7 - the Community Edition;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-the-community-edition/10276;

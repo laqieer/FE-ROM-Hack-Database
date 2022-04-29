@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220428</datVersion>
+    <datVersion>20220429</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -19963,6 +19963,24 @@
       <im1CRC>EBB59D4F</im1CRC>
       <im2CRC>4B5271D4</im2CRC>
       <comment>https://fecosmos.xyz/d/46</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1178</imageNumber>
+      <releaseNumber>1178</releaseNumber>
+      <title>FE7 - Justice League Reskin</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16939284</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Falkyrie</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D1B19259</romCRC>
+      </files>
+      <im1CRC>E643EA95</im1CRC>
+      <im2CRC>0BC92961</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-justice-league-reskin/15905</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

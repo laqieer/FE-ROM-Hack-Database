@@ -915,6 +915,10 @@ ROMs required for driver "FE6RRaddendum".
 Name                                   Size Checksum
 766 - FE6RRaddendum                 8388608 CRC(d360f35f)
 
+ROMs required for driver "FE7 - Justice League Reskin".
+Name                                   Size Checksum
+1178 - FE7 - Justice League Reskin 16939284 CRC(d1b19259)
+
 ROMs required for driver "FE7 - Matthew Edition DX".
 Name                                   Size Checksum
 1149 - FE7 - Matthew Edition DX    17585112 CRC(988dc5fc)

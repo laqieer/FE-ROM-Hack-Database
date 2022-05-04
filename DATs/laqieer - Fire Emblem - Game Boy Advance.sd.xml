@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220429</version>
+		<version>20220504</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -149,7 +149,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>2 Princesses (二人の王女)</name>
+				<name>183 - 2 Princesses (二人の王女)</name>
 				<comment>http://fequeen.blog.fc2.com/</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
@@ -780,7 +780,7 @@
 		<directory>
 			<machine>
 				<name>Bern 776</name>
-				<comment>https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/28</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -3575,6 +3575,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 - Mistakes Were Made</name>
+				<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1180 - FE7 - Mistakes Were Made</name>
+					<size>17860388</size>
+					<crc>8b26d5af</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 - Mistakes Were Made (Fixed Growth)</name>
+				<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1181 - FE7 - Mistakes Were Made (Fixed Growth)</name>
+					<size>17860480</size>
+					<crc>3e05b0f4</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 - Sus Emblem</name>
 				<comment>https://feuniverse.us/t/sus-emblem-fe7/14697</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -3666,7 +3696,7 @@
 		<directory>
 			<machine>
 				<name>FE7 but the weather is bad</name>
-				<comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/76</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -4461,7 +4491,7 @@
 		<directory>
 			<machine>
 				<name>FE8 Delthea's Bizarre Dream Adventure</name>
-				<comment>https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -5316,7 +5346,7 @@
 		<directory>
 			<machine>
 				<name>FE8BEWHABEWAASAHIHI</name>
-				<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/17</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -5931,7 +5961,7 @@
 		<directory>
 			<machine>
 				<name>Fire Emblem - Aletheia</name>
-				<comment>https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-aletheia-14-chapters-done/6516</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -5939,7 +5969,7 @@
 					<itemtype>Rom</itemtype>
 					<name>452 - Fire Emblem - Aletheia</name>
 					<size>23733560</size>
-					<crc>a5a1d05d</crc>
+					<crc>a2b63334</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7716,7 +7746,7 @@
 		<directory>
 			<machine>
 				<name>Iron Emblem</name>
-				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -7724,14 +7754,14 @@
 					<itemtype>Rom</itemtype>
 					<name>591 - Iron Emblem</name>
 					<size>18033892</size>
-					<crc>8fbd09aa</crc>
+					<crc>11a185a6</crc>
 				</datitem>
 			</files>
 		</directory>
 		<directory>
 			<machine>
 				<name>Iron Emblem (altmenus)</name>
-				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -7739,14 +7769,14 @@
 					<itemtype>Rom</itemtype>
 					<name>593 - Iron Emblem (altmenus)</name>
 					<size>18033892</size>
-					<crc>141ff3aa</crc>
+					<crc>8a037fa6</crc>
 				</datitem>
 			</files>
 		</directory>
 		<directory>
 			<machine>
 				<name>Iron Emblem (Hard Mode)</name>
-				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -7754,7 +7784,7 @@
 					<itemtype>Rom</itemtype>
 					<name>592 - Iron Emblem (Hard Mode)</name>
 					<size>18035884</size>
-					<crc>2e9551ea</crc>
+					<crc>37edc009</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8361,7 +8391,7 @@
 		<directory>
 			<machine>
 				<name>Lyn Emblem</name>
-				<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
@@ -8385,6 +8415,21 @@
 					<name>1111 - Lyn Emblem 7 - Attack of the Clones</name>
 					<size>17141592</size>
 					<crc>2b70ee89</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Lyn Insanity 2</name>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/87</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1179 - Lyn Insanity 2</name>
+					<size>9926584</size>
+					<crc>dd37fc74</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9134,7 +9179,7 @@
 					<itemtype>Rom</itemtype>
 					<name>345 - Path of a Hero (DLC Lloyd’s Story)</name>
 					<size>18915800</size>
-					<crc>990fd8ae</crc>
+					<crc>5fc9bfea</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10019,7 +10064,7 @@
 					<itemtype>Rom</itemtype>
 					<name>325 - Royal Army</name>
 					<size>18382196</size>
-					<crc>1aac306b</crc>
+					<crc>1653db15</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12501,7 +12546,7 @@
 		<directory>
 			<machine>
 				<name>Touhou Emblem 8 - The Sacred Shrines</name>
-				<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
+				<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>

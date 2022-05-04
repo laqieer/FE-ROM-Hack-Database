@@ -25,7 +25,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="2 Princesses (二人の王女)">
+	<software name="183 - 2 Princesses (二人の王女)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -1854,6 +1854,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 - Mistakes Were Made">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1180 - FE7 - Mistakes Were Made" size="17860388" crc="8b26d5af" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 - Mistakes Were Made (Fixed Growth)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1181 - FE7 - Mistakes Were Made (Fixed Growth)" size="17860480" crc="3e05b0f4" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 - Sus Emblem">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -3114,7 +3130,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a5a1d05d" />
+				<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a2b63334" />
 			</dataarea>
 		</part>
 	</software>
@@ -4066,7 +4082,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="591 - Iron Emblem" size="18033892" crc="8fbd09aa" />
+				<rom name="591 - Iron Emblem" size="18033892" crc="11a185a6" />
 			</dataarea>
 		</part>
 	</software>
@@ -4074,7 +4090,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="141ff3aa" />
+				<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="8a037fa6" />
 			</dataarea>
 		</part>
 	</software>
@@ -4082,7 +4098,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="592 - Iron Emblem (Hard Mode)" size="18035884" crc="2e9551ea" />
+				<rom name="592 - Iron Emblem (Hard Mode)" size="18035884" crc="37edc009" />
 			</dataarea>
 		</part>
 	</software>
@@ -4419,6 +4435,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1111 - Lyn Emblem 7 - Attack of the Clones" size="17141592" crc="2b70ee89" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Lyn Insanity 2">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1179 - Lyn Insanity 2" size="9926584" crc="dd37fc74" />
 			</dataarea>
 		</part>
 	</software>
@@ -4818,7 +4842,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="990fd8ae" />
+				<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="5fc9bfea" />
 			</dataarea>
 		</part>
 	</software>
@@ -5290,7 +5314,7 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="325 - Royal Army" size="18382196" crc="1aac306b" />
+				<rom name="325 - Royal Army" size="18382196" crc="1653db15" />
 			</dataarea>
 		</part>
 	</software>

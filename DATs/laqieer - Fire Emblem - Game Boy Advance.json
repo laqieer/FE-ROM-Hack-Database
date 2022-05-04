@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220429",
+		"version": "20220504",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -161,7 +161,7 @@
 		},
 		{
 			"machine": {
-				"name": "2 Princesses (二人の王女)",
+				"name": "183 - 2 Princesses (二人の王女)",
 				"comment": "http://fequeen.blog.fc2.com/",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -918,7 +918,7 @@
 		{
 			"machine": {
 				"name": "Bern 776",
-				"comment": "https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/28",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -4273,6 +4273,42 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 - Mistakes Were Made",
+				"comment": "https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1180 - FE7 - Mistakes Were Made",
+						"size": 17860388,
+						"crc": "8b26d5af"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 - Mistakes Were Made (Fixed Growth)",
+				"comment": "https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1181 - FE7 - Mistakes Were Made (Fixed Growth)",
+						"size": 17860480,
+						"crc": "3e05b0f4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 - Sus Emblem",
 				"comment": "https://feuniverse.us/t/sus-emblem-fe7/14697",
 				"description": null,
@@ -4382,7 +4418,7 @@
 		{
 			"machine": {
 				"name": "FE7 but the weather is bad",
-				"comment": "https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/76",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -5336,7 +5372,7 @@
 		{
 			"machine": {
 				"name": "FE8 Delthea's Bizarre Dream Adventure",
-				"comment": "https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -6362,7 +6398,7 @@
 		{
 			"machine": {
 				"name": "FE8BEWHABEWAASAHIHI",
-				"comment": "https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/17",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -7100,7 +7136,7 @@
 		{
 			"machine": {
 				"name": "Fire Emblem - Aletheia",
-				"comment": "https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516",
+				"comment": "https://feuniverse.us/t/fire-emblem-aletheia-14-chapters-done/6516",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -7110,7 +7146,7 @@
 						"itemtype": "Rom",
 						"name": "452 - Fire Emblem - Aletheia",
 						"size": 23733560,
-						"crc": "a5a1d05d"
+						"crc": "a2b63334"
 					}
 				}
 			]
@@ -9242,7 +9278,7 @@
 		{
 			"machine": {
 				"name": "Iron Emblem",
-				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -9252,7 +9288,7 @@
 						"itemtype": "Rom",
 						"name": "591 - Iron Emblem",
 						"size": 18033892,
-						"crc": "8fbd09aa"
+						"crc": "11a185a6"
 					}
 				}
 			]
@@ -9260,7 +9296,7 @@
 		{
 			"machine": {
 				"name": "Iron Emblem (altmenus)",
-				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -9270,7 +9306,7 @@
 						"itemtype": "Rom",
 						"name": "593 - Iron Emblem (altmenus)",
 						"size": 18033892,
-						"crc": "141ff3aa"
+						"crc": "8a037fa6"
 					}
 				}
 			]
@@ -9278,7 +9314,7 @@
 		{
 			"machine": {
 				"name": "Iron Emblem (Hard Mode)",
-				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539",
+				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -9288,7 +9324,7 @@
 						"itemtype": "Rom",
 						"name": "592 - Iron Emblem (Hard Mode)",
 						"size": 18035884,
-						"crc": "2e9551ea"
+						"crc": "37edc009"
 					}
 				}
 			]
@@ -10016,7 +10052,7 @@
 		{
 			"machine": {
 				"name": "Lyn Emblem",
-				"comment": "https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -10045,6 +10081,24 @@
 						"name": "1111 - Lyn Emblem 7 - Attack of the Clones",
 						"size": 17141592,
 						"crc": "2b70ee89"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Lyn Insanity 2",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/87",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1179 - Lyn Insanity 2",
+						"size": 9926584,
+						"crc": "dd37fc74"
 					}
 				}
 			]
@@ -10944,7 +10998,7 @@
 						"itemtype": "Rom",
 						"name": "345 - Path of a Hero (DLC Lloyd’s Story)",
 						"size": 18915800,
-						"crc": "990fd8ae"
+						"crc": "5fc9bfea"
 					}
 				}
 			]
@@ -12006,7 +12060,7 @@
 						"itemtype": "Rom",
 						"name": "325 - Royal Army",
 						"size": 18382196,
-						"crc": "1aac306b"
+						"crc": "1653db15"
 					}
 				}
 			]
@@ -14984,7 +15038,7 @@
 		{
 			"machine": {
 				"name": "Touhou Emblem 8 - The Sacred Shrines",
-				"comment": "https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117",
+				"comment": "https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},

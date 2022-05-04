@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220429</datVersion>
+    <datVersion>20220504</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -4622,7 +4622,7 @@
       <sourceRom>EmaColito</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">1AAC306B</romCRC>
+        <romCRC extension=".gba">1653DB15</romCRC>
       </files>
       <im1CRC>F5C63D4D</im1CRC>
       <im2CRC>F46A98E0</im2CRC>
@@ -4982,7 +4982,7 @@
       <sourceRom>EmaColito</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">990FD8AE</romCRC>
+        <romCRC extension=".gba">5FC9BFEA</romCRC>
       </files>
       <im1CRC>D2E9F5BB</im1CRC>
       <im2CRC>4EE51DF5</im2CRC>
@@ -5004,7 +5004,7 @@
       </files>
       <im1CRC>55A81D44</im1CRC>
       <im2CRC>93A0BAE0</im2CRC>
-      <comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -6012,7 +6012,7 @@
       </files>
       <im1CRC>76D69C65</im1CRC>
       <im2CRC>E002880A</im2CRC>
-      <comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -6048,7 +6048,7 @@
       </files>
       <im1CRC>8C6A8B01</im1CRC>
       <im2CRC>4C3F8296</im2CRC>
-      <comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/17</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -6908,11 +6908,11 @@
       <sourceRom>knabepicer</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">A5A1D05D</romCRC>
+        <romCRC extension=".gba">A2B63334</romCRC>
       </files>
       <im1CRC>9B4D2989</im1CRC>
       <im2CRC>770CE3F6</im2CRC>
-      <comment>https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516</comment>
+      <comment>https://feuniverse.us/t/fire-emblem-aletheia-14-chapters-done/6516</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -9410,11 +9410,11 @@
       <sourceRom>Relic</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">8FBD09AA</romCRC>
+        <romCRC extension=".gba">11A185A6</romCRC>
       </files>
       <im1CRC>500D6FA4</im1CRC>
       <im2CRC>6E7C89ED</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -9428,11 +9428,11 @@
       <sourceRom>Relic</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">2E9551EA</romCRC>
+        <romCRC extension=".gba">37EDC009</romCRC>
       </files>
       <im1CRC>EA2DAD2B</im1CRC>
       <im2CRC>E45CD26D</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -9446,11 +9446,11 @@
       <sourceRom>Relic</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">141FF3AA</romCRC>
+        <romCRC extension=".gba">8A037FA6</romCRC>
       </files>
       <im1CRC>DF9FC2C0</im1CRC>
       <im2CRC>0C4E6676</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+      <comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -18360,7 +18360,7 @@
       </files>
       <im1CRC>79A41090</im1CRC>
       <im2CRC>1FBA1167</im2CRC>
-      <comment>https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/28</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -19062,7 +19062,7 @@
       </files>
       <im1CRC>9B0FFEE0</im1CRC>
       <im2CRC>A977D4FD</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -19890,7 +19890,7 @@
       </files>
       <im1CRC>E2AD9728</im1CRC>
       <im2CRC>0591B671</im2CRC>
-      <comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/76</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -19981,6 +19981,60 @@
       <im1CRC>E643EA95</im1CRC>
       <im2CRC>0BC92961</im2CRC>
       <comment>https://feuniverse.us/t/fe7-justice-league-reskin/15905</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1179</imageNumber>
+      <releaseNumber>1179</releaseNumber>
+      <title>Lyn Insanity 2</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>9926584</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>redeyesblackdrag0n</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">DD37FC74</romCRC>
+      </files>
+      <im1CRC>0343611C</im1CRC>
+      <im2CRC>D8FC058B</im2CRC>
+      <comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/87</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1180</imageNumber>
+      <releaseNumber>1180</releaseNumber>
+      <title>FE7 - Mistakes Were Made</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17860388</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>KainDarkfire</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">8B26D5AF</romCRC>
+      </files>
+      <im1CRC>92BCF210</im1CRC>
+      <im2CRC>CBBDD8FB</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1181</imageNumber>
+      <releaseNumber>1181</releaseNumber>
+      <title>FE7 - Mistakes Were Made (Fixed Growth)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>17860480</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>KainDarkfire</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">3E05B0F4</romCRC>
+      </files>
+      <im1CRC>E0B03E01</im1CRC>
+      <im2CRC>97DFDAC0</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1108</datVersion>
+		<datVersion>1111</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -870,7 +870,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/28</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -4235,6 +4235,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1180 - FE7 - Mistakes Were Made</title>
+			<saveType>None</saveType>
+			<romSize>17860388</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8B26D5AF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1181 - FE7 - Mistakes Were Made (Fixed Growth)</title>
+			<saveType>None</saveType>
+			<romSize>17860480</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3E05B0F4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1082 - FE7 - Sus Emblem</title>
 			<saveType>None</saveType>
 			<romSize>17316640</romSize>
@@ -4355,7 +4391,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/76</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -5318,7 +5354,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6353,7 +6389,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/17</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7094,11 +7130,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">A5A1D05D</romCRC>
+				<romCRC extension=".">A2B63334</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-aletheia-14-chapters-done/6516</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9240,11 +9276,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">8FBD09AA</romCRC>
+				<romCRC extension=".">11A185A6</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9258,11 +9294,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">141FF3AA</romCRC>
+				<romCRC extension=".">8A037FA6</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9276,11 +9312,11 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">2E9551EA</romCRC>
+				<romCRC extension=".">37EDC009</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10020,7 +10056,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10039,6 +10075,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1179 - Lyn Insanity 2</title>
+			<saveType>None</saveType>
+			<romSize>9926584</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">DD37FC74</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/87</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10934,7 +10988,7 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">990FD8AE</romCRC>
+				<romCRC extension=".">5FC9BFEA</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -11997,7 +12051,7 @@
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">1AAC306B</romCRC>
+				<romCRC extension=".">1653DB15</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -14992,7 +15046,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
+			<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220429"
+	version "20220504"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -25,8 +25,8 @@ game (
 	rom ( name "184 - 2 Princesses (English Translation)" size "27926780" crc "cdf24969" )
 )
 game (
-	name "2 Princesses (二人の王女)"
-	description "2 Princesses (二人の王女)"
+	name "183 - 2 Princesses (二人の王女)"
+	description "183 - 2 Princesses (二人の王女)"
 	rom ( name "183 - 2 Princesses (二人の王女)" size "27926760" crc "a9b70387" )
 )
 game (
@@ -1166,6 +1166,16 @@ game (
 	rom ( name "1149 - FE7 - Matthew Edition DX" size "17585112" crc "988dc5fc" )
 )
 game (
+	name "FE7 - Mistakes Were Made"
+	description "FE7 - Mistakes Were Made"
+	rom ( name "1180 - FE7 - Mistakes Were Made" size "17860388" crc "8b26d5af" )
+)
+game (
+	name "FE7 - Mistakes Were Made (Fixed Growth)"
+	description "FE7 - Mistakes Were Made (Fixed Growth)"
+	rom ( name "1181 - FE7 - Mistakes Were Made (Fixed Growth)" size "17860480" crc "3e05b0f4" )
+)
+game (
 	name "FE7 - Sus Emblem"
 	description "FE7 - Sus Emblem"
 	rom ( name "1082 - FE7 - Sus Emblem" size "17316640" crc "8ebaa7cb" )
@@ -1953,7 +1963,7 @@ game (
 game (
 	name "Fire Emblem - Aletheia"
 	description "Fire Emblem - Aletheia"
-	rom ( name "452 - Fire Emblem - Aletheia" size "23733560" crc "a5a1d05d" )
+	rom ( name "452 - Fire Emblem - Aletheia" size "23733560" crc "a2b63334" )
 )
 game (
 	name "Fire Emblem - Barhara Revisited"
@@ -2548,17 +2558,17 @@ game (
 game (
 	name "Iron Emblem"
 	description "Iron Emblem"
-	rom ( name "591 - Iron Emblem" size "18033892" crc "8fbd09aa" )
+	rom ( name "591 - Iron Emblem" size "18033892" crc "11a185a6" )
 )
 game (
 	name "Iron Emblem (altmenus)"
 	description "Iron Emblem (altmenus)"
-	rom ( name "593 - Iron Emblem (altmenus)" size "18033892" crc "141ff3aa" )
+	rom ( name "593 - Iron Emblem (altmenus)" size "18033892" crc "8a037fa6" )
 )
 game (
 	name "Iron Emblem (Hard Mode)"
 	description "Iron Emblem (Hard Mode)"
-	rom ( name "592 - Iron Emblem (Hard Mode)" size "18035884" crc "2e9551ea" )
+	rom ( name "592 - Iron Emblem (Hard Mode)" size "18035884" crc "37edc009" )
 )
 game (
 	name "Isekai Emblem"
@@ -2769,6 +2779,11 @@ game (
 	name "Lyn Emblem 7 - Attack of the Clones"
 	description "Lyn Emblem 7 - Attack of the Clones"
 	rom ( name "1111 - Lyn Emblem 7 - Attack of the Clones" size "17141592" crc "2b70ee89" )
+)
+game (
+	name "Lyn Insanity 2"
+	description "Lyn Insanity 2"
+	rom ( name "1179 - Lyn Insanity 2" size "9926584" crc "dd37fc74" )
 )
 game (
 	name "Lyn's Revenge"
@@ -3018,7 +3033,7 @@ game (
 game (
 	name "Path of a Hero (DLC Lloyd’s Story)"
 	description "Path of a Hero (DLC Lloyd’s Story)"
-	rom ( name "345 - Path of a Hero (DLC Lloyd’s Story)" size "18915800" crc "990fd8ae" )
+	rom ( name "345 - Path of a Hero (DLC Lloyd’s Story)" size "18915800" crc "5fc9bfea" )
 )
 game (
 	name "Peer's Successful CCB"
@@ -3313,7 +3328,7 @@ game (
 game (
 	name "Royal Army"
 	description "Royal Army"
-	rom ( name "325 - Royal Army" size "18382196" crc "1aac306b" )
+	rom ( name "325 - Royal Army" size "18382196" crc "1653db15" )
 )
 game (
 	name "Rubik’s Cube"

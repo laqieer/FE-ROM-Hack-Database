@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220429
+	Version: 20220504
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -933,6 +933,14 @@ game (
 	file ( name 1149 - FE7 - Matthew Edition DX size 17585112 crc 988dc5fc )
 )
 game (
+	name "FE7 - Mistakes Were Made.zip"
+	file ( name 1180 - FE7 - Mistakes Were Made size 17860388 crc 8b26d5af )
+)
+game (
+	name "FE7 - Mistakes Were Made (Fixed Growth).zip"
+	file ( name 1181 - FE7 - Mistakes Were Made (Fixed Growth) size 17860480 crc 3e05b0f4 )
+)
+game (
 	name "FE7 - Sus Emblem.zip"
 	file ( name 1082 - FE7 - Sus Emblem size 17316640 crc 8ebaa7cb )
 )
@@ -1562,7 +1570,7 @@ game (
 )
 game (
 	name "Fire Emblem - Aletheia.zip"
-	file ( name 452 - Fire Emblem - Aletheia size 23733560 crc a5a1d05d )
+	file ( name 452 - Fire Emblem - Aletheia size 23733560 crc a2b63334 )
 )
 game (
 	name "Fire Emblem - Barhara Revisited.zip"
@@ -2038,15 +2046,15 @@ game (
 )
 game (
 	name "Iron Emblem.zip"
-	file ( name 591 - Iron Emblem size 18033892 crc 8fbd09aa )
+	file ( name 591 - Iron Emblem size 18033892 crc 11a185a6 )
 )
 game (
 	name "Iron Emblem (altmenus).zip"
-	file ( name 593 - Iron Emblem (altmenus) size 18033892 crc 141ff3aa )
+	file ( name 593 - Iron Emblem (altmenus) size 18033892 crc 8a037fa6 )
 )
 game (
 	name "Iron Emblem (Hard Mode).zip"
-	file ( name 592 - Iron Emblem (Hard Mode) size 18035884 crc 2e9551ea )
+	file ( name 592 - Iron Emblem (Hard Mode) size 18035884 crc 37edc009 )
 )
 game (
 	name "Isekai Emblem.zip"
@@ -2215,6 +2223,10 @@ game (
 game (
 	name "Lyn Emblem 7 - Attack of the Clones.zip"
 	file ( name 1111 - Lyn Emblem 7 - Attack of the Clones size 17141592 crc 2b70ee89 )
+)
+game (
+	name "Lyn Insanity 2.zip"
+	file ( name 1179 - Lyn Insanity 2 size 9926584 crc dd37fc74 )
 )
 game (
 	name "Lyn's Revenge.zip"
@@ -2414,7 +2426,7 @@ game (
 )
 game (
 	name "Path of a Hero (DLC Lloyd’s Story).zip"
-	file ( name 345 - Path of a Hero (DLC Lloyd’s Story) size 18915800 crc 990fd8ae )
+	file ( name 345 - Path of a Hero (DLC Lloyd’s Story) size 18915800 crc 5fc9bfea )
 )
 game (
 	name "Peer's Successful CCB.zip"
@@ -2650,7 +2662,7 @@ game (
 )
 game (
 	name "Royal Army.zip"
-	file ( name 325 - Royal Army size 18382196 crc 1aac306b )
+	file ( name 325 - Royal Army size 18382196 crc 1653db15 )
 )
 game (
 	name "Rubik’s Cube.zip"

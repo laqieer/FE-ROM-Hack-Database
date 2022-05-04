@@ -10,7 +10,7 @@ ROMs required for driver "2 Princesses (English Translation)".
 Name                                   Size Checksum
 184 - 2 Princesses (English Translation)27926780 CRC(cdf24969)
 
-ROMs required for driver "2 Princesses (二人の王女)".
+ROMs required for driver "183 - 2 Princesses (二人の王女)".
 Name                                   Size Checksum
 183 - 2 Princesses (二人の王女)         27926760 CRC(a9b70387)
 
@@ -923,6 +923,14 @@ ROMs required for driver "FE7 - Matthew Edition DX".
 Name                                   Size Checksum
 1149 - FE7 - Matthew Edition DX    17585112 CRC(988dc5fc)
 
+ROMs required for driver "FE7 - Mistakes Were Made".
+Name                                   Size Checksum
+1180 - FE7 - Mistakes Were Made    17860388 CRC(8b26d5af)
+
+ROMs required for driver "FE7 - Mistakes Were Made (Fixed Growth)".
+Name                                   Size Checksum
+1181 - FE7 - Mistakes Were Made (Fixed Growth)          17860480 CRC(3e05b0f4)
+
 ROMs required for driver "FE7 - Sus Emblem".
 Name                                   Size Checksum
 1082 - FE7 - Sus Emblem            17316640 CRC(8ebaa7cb)
@@ -1553,7 +1561,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Fire Emblem - Aletheia".
 Name                                   Size Checksum
-452 - Fire Emblem - Aletheia       23733560 CRC(a5a1d05d)
+452 - Fire Emblem - Aletheia       23733560 CRC(a2b63334)
 
 ROMs required for driver "Fire Emblem - Barhara Revisited".
 Name                                   Size Checksum
@@ -2029,15 +2037,15 @@ Name                                   Size Checksum
 
 ROMs required for driver "Iron Emblem".
 Name                                   Size Checksum
-591 - Iron Emblem                  18033892 CRC(8fbd09aa)
+591 - Iron Emblem                  18033892 CRC(11a185a6)
 
 ROMs required for driver "Iron Emblem (altmenus)".
 Name                                   Size Checksum
-593 - Iron Emblem (altmenus)       18033892 CRC(141ff3aa)
+593 - Iron Emblem (altmenus)       18033892 CRC(8a037fa6)
 
 ROMs required for driver "Iron Emblem (Hard Mode)".
 Name                                   Size Checksum
-592 - Iron Emblem (Hard Mode)      18035884 CRC(2e9551ea)
+592 - Iron Emblem (Hard Mode)      18035884 CRC(37edc009)
 
 ROMs required for driver "Isekai Emblem".
 Name                                   Size Checksum
@@ -2206,6 +2214,10 @@ Name                                   Size Checksum
 ROMs required for driver "Lyn Emblem 7 - Attack of the Clones".
 Name                                   Size Checksum
 1111 - Lyn Emblem 7 - Attack of the Clones17141592 CRC(2b70ee89)
+
+ROMs required for driver "Lyn Insanity 2".
+Name                                   Size Checksum
+1179 - Lyn Insanity 2               9926584 CRC(dd37fc74)
 
 ROMs required for driver "Lyn's Revenge".
 Name                                   Size Checksum
@@ -2405,7 +2417,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Path of a Hero (DLC Lloyd’s Story)".
 Name                                   Size Checksum
-345 - Path of a Hero (DLC Lloyd’s Story)18915800 CRC(990fd8ae)
+345 - Path of a Hero (DLC Lloyd’s Story)18915800 CRC(5fc9bfea)
 
 ROMs required for driver "Peer's Successful CCB".
 Name                                   Size Checksum
@@ -2641,7 +2653,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Royal Army".
 Name                                   Size Checksum
-325 - Royal Army                   18382196 CRC(1aac306b)
+325 - Royal Army                   18382196 CRC(1653db15)
 
 ROMs required for driver "Rubik’s Cube".
 Name                                   Size Checksum

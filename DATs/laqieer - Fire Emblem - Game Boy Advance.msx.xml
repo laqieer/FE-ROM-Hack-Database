@@ -41,7 +41,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>2 Princesses (二人の王女)</title>
+		<title>183 - 2 Princesses (二人の王女)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -2998,6 +2998,32 @@
 	</software>
 	<software>
 		<title>FE7 - Matthew Edition DX</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 - Mistakes Were Made</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE7 - Mistakes Were Made (Fixed Growth)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7171,6 +7197,19 @@
 	</software>
 	<software>
 		<title>Lyn Emblem 7 - Attack of the Clones</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Lyn Insanity 2</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

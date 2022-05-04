@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220429</version>
+		<version>20220504</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -26,7 +26,7 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
-	<machine name="2 Princesses (二人の王女)">
+	<machine name="183 - 2 Princesses (二人の王女)">
 		<comment>http://fequeen.blog.fc2.com/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
@@ -235,7 +235,7 @@
 		<rom name="479 - Behold the Mega-Flare" size="25211820" crc="6346dfb5" />
 	</machine>
 	<machine name="Bern 776">
-		<comment>https://feuniverse.us/t/fe6-bern-776-needs-playtest/15207</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/28</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1088 - Bern 776" size="10710472" crc="46de39c0" />
 	</machine>
@@ -1155,6 +1155,16 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1149 - FE7 - Matthew Edition DX" size="17585112" crc="988dc5fc" />
 	</machine>
+	<machine name="FE7 - Mistakes Were Made">
+		<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1180 - FE7 - Mistakes Were Made" size="17860388" crc="8b26d5af" />
+	</machine>
+	<machine name="FE7 - Mistakes Were Made (Fixed Growth)">
+		<comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1181 - FE7 - Mistakes Were Made (Fixed Growth)" size="17860480" crc="3e05b0f4" />
+	</machine>
 	<machine name="FE7 - Sus Emblem">
 		<comment>https://feuniverse.us/t/sus-emblem-fe7/14697</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1186,7 +1196,7 @@
 		<rom name="1131 - FE7 but all the Promotion Items are Master Seals" size="16778200" crc="fe43c45b" />
 	</machine>
 	<machine name="FE7 but the weather is bad">
-		<comment>https://feuniverse.us/t/fe7-but-the-weather-is-bad/15793</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/76</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1173 - FE7 but the weather is bad" size="16777216" crc="7d943e3f" />
 	</machine>
@@ -1442,7 +1452,7 @@
 		<rom name="1061 - FE8 Davuuverso" size="24050940" crc="4750894f" />
 	</machine>
 	<machine name="FE8 Delthea's Bizarre Dream Adventure">
-		<comment>https://feuniverse.us/t/fe8-deltheas-bizarre-dream-adventure/15052</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1127 - FE8 Delthea's Bizarre Dream Adventure" size="17510340" crc="2188f726" />
 	</machine>
@@ -1718,7 +1728,7 @@
 		<rom name="710 - FE8_GIRLS English Patch (only interface)" size="16777216" crc="de83049e" />
 	</machine>
 	<machine name="FE8BEWHABEWAASAHIHI">
-		<comment>https://feuniverse.us/t/fire-emblem-8-but-every-weapon-has-a-brave-effect-with-an-astra-skill-and-hp-is-highly-inflated/15140/7</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/17</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="404 - FE8BEWHABEWAASAHIHI" size="16818460" crc="2bb3fd58" />
 	</machine>
@@ -1916,9 +1926,9 @@
 		<rom name="3 - Fire Emblem (USA, Australia)" size="16777216" crc="2a524221" />
 	</machine>
 	<machine name="Fire Emblem - Aletheia">
-		<comment>https://feuniverse.us/t/fire-emblem-aletheia-first-arc-complete/6516</comment>
+		<comment>https://feuniverse.us/t/fire-emblem-aletheia-14-chapters-done/6516</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a5a1d05d" />
+		<rom name="452 - Fire Emblem - Aletheia" size="23733560" crc="a2b63334" />
 	</machine>
 	<machine name="Fire Emblem - Barhara Revisited">
 		<comment>https://feuniverse.us/t/fire-emblem-barhara-revisited/1924</comment>
@@ -2507,19 +2517,19 @@
 		<rom name="411 - Inheritors of the Crusade" size="23373980" crc="9f0bced0" />
 	</machine>
 	<machine name="Iron Emblem">
-		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="591 - Iron Emblem" size="18033892" crc="8fbd09aa" />
+		<rom name="591 - Iron Emblem" size="18033892" crc="11a185a6" />
 	</machine>
 	<machine name="Iron Emblem (altmenus)">
-		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="141ff3aa" />
+		<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="8a037fa6" />
 	</machine>
 	<machine name="Iron Emblem (Hard Mode)">
-		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-2-full-length-brand-new-hard-mode/12539</comment>
+		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="592 - Iron Emblem (Hard Mode)" size="18035884" crc="2e9551ea" />
+		<rom name="592 - Iron Emblem (Hard Mode)" size="18035884" crc="37edc009" />
 	</machine>
 	<machine name="Isekai Emblem">
 		<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-2-3/12640</comment>
@@ -2720,7 +2730,7 @@
 		<rom name="377 - Lute Emblem - The Sacred Lutes" size="16993256" crc="5c7d8d3f" />
 	</machine>
 	<machine name="Lyn Emblem">
-		<comment>https://feuniverse.us/t/fe7-lyn-emblem-complete-v-1-1-0/14108</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="346 - Lyn Emblem" size="17039860" crc="63b047ee" />
 	</machine>
@@ -2728,6 +2738,11 @@
 		<comment>https://feuniverse.us/t/togy-animations-and-unfinished-projects/13442</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1111 - Lyn Emblem 7 - Attack of the Clones" size="17141592" crc="2b70ee89" />
+	</machine>
+	<machine name="Lyn Insanity 2">
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/87</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1179 - Lyn Insanity 2" size="9926584" crc="dd37fc74" />
 	</machine>
 	<machine name="Lyn's Revenge">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -2977,7 +2992,7 @@
 	<machine name="Path of a Hero (DLC Lloyd’s Story)">
 		<comment>https://feuniverse.us/t/fe-7-the-path-of-a-hero-ch-60-true-ending-side-story-complete-version-dlc-working-in-progress/10484</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="990fd8ae" />
+		<rom name="345 - Path of a Hero (DLC Lloyd’s Story)" size="18915800" crc="5fc9bfea" />
 	</machine>
 	<machine name="Peer's Successful CCB">
 		<comment>https://feuniverse.us/t/patch-release-peers-successful-ccb-the-name-may-or-may-not-reflect-reality/3986</comment>
@@ -3271,7 +3286,7 @@
 	<machine name="Royal Army">
 		<comment>https://feuniverse.us/t/fe-6-the-royal-army-sequel-ch-27-complete/9142</comment>
 		<publisher>Reskin/Rebalance</publisher>
-		<rom name="325 - Royal Army" size="18382196" crc="1aac306b" />
+		<rom name="325 - Royal Army" size="18382196" crc="1653db15" />
 	</machine>
 	<machine name="Rubik’s Cube">
 		<comment>https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971</comment>
@@ -4096,7 +4111,7 @@
 		<rom name="1053 - TLP with Updated Animations" size="33402172" crc="ea5c9a40" />
 	</machine>
 	<machine name="Touhou Emblem 8 - The Sacred Shrines">
-		<comment>https://feuniverse.us/t/fe8jp-touhou-emblem-8-the-sacred-shrines/15117</comment>
+		<comment>https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="402 - Touhou Emblem 8 - The Sacred Shrines" size="17869900" crc="e18fc466" />
 	</machine>

@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220429
+version=20220504
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -14,7 +14,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬0的逆圣魔¬0的逆圣魔¬853 - 0的逆圣魔¬077d94bb¬20252024¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
-¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬a9b70387¬27926760¬¬¬
+¬¬¬183 - 2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬a9b70387¬27926760¬¬¬
 ¬¬¬21关开始-封印之剑¬21关开始-封印之剑¬930 - 21关开始-封印之剑¬75da6fb9¬8388608¬¬¬
 ¬¬¬[FE8] Fire Emblem - The Archon's Curse¬[FE8] Fire Emblem - The Archon's Curse¬1064 - [FE8] Fire Emblem - The Archon's Curse¬1be625b7¬20883568¬¬¬
 ¬¬¬A Glimpse of Time (時の垣間 エリウッド編)¬A Glimpse of Time (時の垣間 エリウッド編)¬178 - A Glimpse of Time (時の垣間 エリウッド編)¬caccb1eb¬19436704¬¬¬
@@ -243,6 +243,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE6RRaddendum¬FE6RRaddendum¬766 - FE6RRaddendum¬d360f35f¬8388608¬¬¬
 ¬¬¬FE7 - Justice League Reskin¬FE7 - Justice League Reskin¬1178 - FE7 - Justice League Reskin¬d1b19259¬16939284¬¬¬
 ¬¬¬FE7 - Matthew Edition DX¬FE7 - Matthew Edition DX¬1149 - FE7 - Matthew Edition DX¬988dc5fc¬17585112¬¬¬
+¬¬¬FE7 - Mistakes Were Made¬FE7 - Mistakes Were Made¬1180 - FE7 - Mistakes Were Made¬8b26d5af¬17860388¬¬¬
+¬¬¬FE7 - Mistakes Were Made (Fixed Growth)¬FE7 - Mistakes Were Made (Fixed Growth)¬1181 - FE7 - Mistakes Were Made (Fixed Growth)¬3e05b0f4¬17860480¬¬¬
 ¬¬¬FE7 - Sus Emblem¬FE7 - Sus Emblem¬1082 - FE7 - Sus Emblem¬8ebaa7cb¬17316640¬¬¬
 ¬¬¬FE7 - the Community Edition¬FE7 - the Community Edition¬1009 - FE7 - the Community Edition¬94bf4325¬21445516¬¬¬
 ¬¬¬FE7 Allegiance Reversal+¬FE7 Allegiance Reversal+¬264 - FE7 Allegiance Reversal+¬8870c624¬16911048¬¬¬
@@ -400,7 +402,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬15 - Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)¬335c5855¬16777216¬¬¬
 ¬¬¬Fire Emblem (USA) (Wii U Virtual Console)¬Fire Emblem (USA) (Wii U Virtual Console)¬13 - Fire Emblem (USA) (Wii U Virtual Console)¬1b8713c7¬16777216¬¬¬
 ¬¬¬Fire Emblem (USA, Australia)¬Fire Emblem (USA, Australia)¬3 - Fire Emblem (USA, Australia)¬2a524221¬16777216¬¬¬
-¬¬¬Fire Emblem - Aletheia¬Fire Emblem - Aletheia¬452 - Fire Emblem - Aletheia¬a5a1d05d¬23733560¬¬¬
+¬¬¬Fire Emblem - Aletheia¬Fire Emblem - Aletheia¬452 - Fire Emblem - Aletheia¬a2b63334¬23733560¬¬¬
 ¬¬¬Fire Emblem - Barhara Revisited¬Fire Emblem - Barhara Revisited¬123 - Fire Emblem - Barhara Revisited¬15482be6¬17529372¬¬¬
 ¬¬¬Fire Emblem - BR [MOBA-Style]¬Fire Emblem - BR [MOBA-Style]¬1018 - Fire Emblem - BR [MOBA-Style]¬dbb71db1¬19957120¬¬¬
 ¬¬¬Fire Emblem - Code of the Black Knights¬Fire Emblem - Code of the Black Knights¬150 - Fire Emblem - Code of the Black Knights¬c666f8b1¬33016900¬¬¬
@@ -519,9 +521,9 @@ version=Fire Emblem ROM hacks
 ¬¬¬Inheritance¬Inheritance¬210 - Inheritance¬db7233f0¬27877852¬¬¬
 ¬¬¬Inheritance (with Minimug)¬Inheritance (with Minimug)¬211 - Inheritance (with Minimug)¬bc0988fd¬27877852¬¬¬
 ¬¬¬Inheritors of the Crusade¬Inheritors of the Crusade¬411 - Inheritors of the Crusade¬9f0bced0¬23373980¬¬¬
-¬¬¬Iron Emblem¬Iron Emblem¬591 - Iron Emblem¬8fbd09aa¬18033892¬¬¬
-¬¬¬Iron Emblem (altmenus)¬Iron Emblem (altmenus)¬593 - Iron Emblem (altmenus)¬141ff3aa¬18033892¬¬¬
-¬¬¬Iron Emblem (Hard Mode)¬Iron Emblem (Hard Mode)¬592 - Iron Emblem (Hard Mode)¬2e9551ea¬18035884¬¬¬
+¬¬¬Iron Emblem¬Iron Emblem¬591 - Iron Emblem¬11a185a6¬18033892¬¬¬
+¬¬¬Iron Emblem (altmenus)¬Iron Emblem (altmenus)¬593 - Iron Emblem (altmenus)¬8a037fa6¬18033892¬¬¬
+¬¬¬Iron Emblem (Hard Mode)¬Iron Emblem (Hard Mode)¬592 - Iron Emblem (Hard Mode)¬37edc009¬18035884¬¬¬
 ¬¬¬Isekai Emblem¬Isekai Emblem¬237 - Isekai Emblem¬60a52d28¬23924912¬¬¬
 ¬¬¬jellyunicorn's Two Hour Blitz - bungus badventure¬jellyunicorn's Two Hour Blitz - bungus badventure¬605 - jellyunicorn's Two Hour Blitz - bungus badventure¬a28e296a¬16911620¬¬¬
 ¬¬¬Journeys¬Journeys¬219 - Journeys¬1c83df77¬26336432¬¬¬
@@ -564,6 +566,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Lute Emblem - The Sacred Lutes¬Lute Emblem - The Sacred Lutes¬377 - Lute Emblem - The Sacred Lutes¬5c7d8d3f¬16993256¬¬¬
 ¬¬¬Lyn Emblem¬Lyn Emblem¬346 - Lyn Emblem¬63b047ee¬17039860¬¬¬
 ¬¬¬Lyn Emblem 7 - Attack of the Clones¬Lyn Emblem 7 - Attack of the Clones¬1111 - Lyn Emblem 7 - Attack of the Clones¬2b70ee89¬17141592¬¬¬
+¬¬¬Lyn Insanity 2¬Lyn Insanity 2¬1179 - Lyn Insanity 2¬dd37fc74¬9926584¬¬¬
 ¬¬¬Lyn's Revenge¬Lyn's Revenge¬519 - Lyn's Revenge¬57fe60ed¬16797544¬¬¬
 ¬¬¬M. E. R. C. S.¬M. E. R. C. S.¬467 - M. E. R. C. S.¬048eb1b6¬18427704¬¬¬
 ¬¬¬MageKnight404's FE7 Hack¬MageKnight404's FE7 Hack¬557 - MageKnight404's FE7 Hack¬f0c9a7ae¬22020102¬¬¬
@@ -613,7 +616,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Parallel Emblem¬Parallel Emblem¬1002 - Parallel Emblem¬496771b6¬27802356¬¬¬
 ¬¬¬Parliament of Heroes¬Parliament of Heroes¬619 - Parliament of Heroes¬d11bdc83¬18303588¬¬¬
 ¬¬¬Path of a Hero¬Path of a Hero¬344 - Path of a Hero¬168670b6¬23385656¬¬¬
-¬¬¬Path of a Hero (DLC Lloyd’s Story)¬Path of a Hero (DLC Lloyd’s Story)¬345 - Path of a Hero (DLC Lloyd’s Story)¬990fd8ae¬18915800¬¬¬
+¬¬¬Path of a Hero (DLC Lloyd’s Story)¬Path of a Hero (DLC Lloyd’s Story)¬345 - Path of a Hero (DLC Lloyd’s Story)¬5fc9bfea¬18915800¬¬¬
 ¬¬¬Peer's Successful CCB¬Peer's Successful CCB¬1075 - Peer's Successful CCB¬4e3a388b¬17100556¬¬¬
 ¬¬¬Peer's Successful CCB (Balance Sorta)¬Peer's Successful CCB (Balance Sorta)¬1076 - Peer's Successful CCB (Balance Sorta)¬9e147fcc¬18216016¬¬¬
 ¬¬¬Perfect Emblem¬Perfect Emblem¬392 - Perfect Emblem¬3a687b2f¬18174872¬¬¬
@@ -672,7 +675,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Rezurrection¬Rezurrection¬1175 - Rezurrection¬9aff34e4¬29529228¬¬¬
 ¬¬¬Rondo Of Madness¬Rondo Of Madness¬509 - Rondo Of Madness¬25d1d129¬21560644¬¬¬
 ¬¬¬Roy's our boy patch¬Roy's our boy patch¬1144 - Roy's our boy patch¬cf681a55¬9735112¬¬¬
-¬¬¬Royal Army¬Royal Army¬325 - Royal Army¬1aac306b¬18382196¬¬¬
+¬¬¬Royal Army¬Royal Army¬325 - Royal Army¬1653db15¬18382196¬¬¬
 ¬¬¬Rubik’s Cube¬Rubik’s Cube¬216 - Rubik’s Cube¬38da7267¬16777216¬¬¬
 ¬¬¬Runa Does A Thing¬Runa Does A Thing¬267 - Runa Does A Thing¬500fe6c4¬17785916¬¬¬
 ¬¬¬Runa's 1h Blitz - jon does a thing¬Runa's 1h Blitz - jon does a thing¬634 - Runa's 1h Blitz - jon does a thing¬e8ba39ee¬16929492¬¬¬

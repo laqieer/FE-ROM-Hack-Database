@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -9,7 +9,7 @@
 	<machine name="2 Princesses (English Translation)">
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
-	<machine name="183 - 2 Princesses (二人の王女)">
+	<machine name="2 Princesses (二人の王女)">
 		<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
 	</machine>
 	<machine name="21关开始-封印之剑">
@@ -1223,7 +1223,7 @@
 		<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="31526932" crc="e841f4cb" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
@@ -2547,6 +2547,9 @@
 	</machine>
 	<machine name="Void’s Blitzarre Adventure - Blitz Tendency (debug)">
 		<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
+	</machine>
+	<machine name="Vows of Fate">
+		<rom name="1182 - Vows of Fate" size="19673116" crc="5e408f6c" />
 	</machine>
 	<machine name="Vs. Mode">
 		<rom name="135 - Vs" size="17066348" crc="86fe30d3" />

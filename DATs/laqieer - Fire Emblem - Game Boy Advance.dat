@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220504"
+	version "20220516"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -25,8 +25,8 @@ game (
 	rom ( name "184 - 2 Princesses (English Translation)" size "27926780" crc "cdf24969" )
 )
 game (
-	name "183 - 2 Princesses (二人の王女)"
-	description "183 - 2 Princesses (二人の王女)"
+	name "2 Princesses (二人の王女)"
+	description "2 Princesses (二人の王女)"
 	rom ( name "183 - 2 Princesses (二人の王女)" size "27926760" crc "a9b70387" )
 )
 game (
@@ -467,7 +467,7 @@ game (
 game (
 	name "Curse Of The Emblem Version 0.001"
 	description "Curse Of The Emblem Version 0.001"
-	rom ( name "508 - Curse Of The Emblem Version 0" size "14711608" crc "9c658b28" )
+	rom ( name "508 - Curse Of The Emblem Version 0.001" size "14711608" crc "9c658b28" )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode)"
@@ -2048,7 +2048,7 @@ game (
 game (
 	name "Fire Emblem - Heroes Remake"
 	description "Fire Emblem - Heroes Remake"
-	rom ( name "100 - Fire Emblem - Heroes Remake" size "31526756" crc "1c4fcc59" )
+	rom ( name "100 - Fire Emblem - Heroes Remake" size "31526932" crc "e841f4cb" )
 )
 game (
 	name "Fire Emblem - Illuminated"
@@ -4254,6 +4254,11 @@ game (
 	name "Void’s Blitzarre Adventure - Blitz Tendency (debug)"
 	description "Void’s Blitzarre Adventure - Blitz Tendency (debug)"
 	rom ( name "143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size "16777216" crc "66f0a6d0" )
+)
+game (
+	name "Vows of Fate"
+	description "Vows of Fate"
+	rom ( name "1182 - Vows of Fate" size "19673116" crc "5e408f6c" )
 )
 game (
 	name "Vs. Mode"

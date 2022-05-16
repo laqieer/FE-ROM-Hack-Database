@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1111</datVersion>
+		<datVersion>1112</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -7430,13 +7430,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>100 - Fire Emblem - Heroes Remake</title>
 			<saveType>None</saveType>
-			<romSize>31526756</romSize>
+			<romSize>31526932</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">1C4FCC59</romCRC>
+				<romCRC extension=".">E841F4CB</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -15390,6 +15390,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1182 - Vows of Fate</title>
+			<saveType>None</saveType>
+			<romSize>19673116</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5E408F6C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

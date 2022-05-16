@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220504
+	Version: 20220516
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -373,7 +373,7 @@ game (
 )
 game (
 	name "Curse Of The Emblem Version 0.001.zip"
-	file ( name 508 - Curse Of The Emblem Version 0 size 14711608 crc 9c658b28 )
+	file ( name 508 - Curse Of The Emblem Version 0.001 size 14711608 crc 9c658b28 )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode).zip"
@@ -1638,7 +1638,7 @@ game (
 )
 game (
 	name "Fire Emblem - Heroes Remake.zip"
-	file ( name 100 - Fire Emblem - Heroes Remake size 31526756 crc 1c4fcc59 )
+	file ( name 100 - Fire Emblem - Heroes Remake size 31526932 crc e841f4cb )
 )
 game (
 	name "Fire Emblem - Illuminated.zip"
@@ -3403,6 +3403,10 @@ game (
 game (
 	name "Void’s Blitzarre Adventure - Blitz Tendency (debug).zip"
 	file ( name 143 - Void’s Blitzarre Adventure - Blitz Tendency (debug) size 16777216 crc 66f0a6d0 )
+)
+game (
+	name "Vows of Fate.zip"
+	file ( name 1182 - Vows of Fate size 19673116 crc 5e408f6c )
 )
 game (
 	name "Vs. Mode.zip"

@@ -555,7 +555,7 @@
 1111 - Lyn Emblem 7 - Attack of the Clones
 1179 - Lyn Insanity 2
 519 - Lyn's Revenge
-467 - M
+467 - M. E
 557 - MageKnight404's FE7 Hack
 125 - Maiden Quest
 565 - Many Emblem
@@ -848,6 +848,7 @@
 141 - Void’s Blitzarre Adventure
 142 - Void’s Blitzarre Adventure - Blitz Tendency
 143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)
+1182 - Vows of Fate
 135 - Vs
 484 - War of Retribution
 1081 - War of Secrets

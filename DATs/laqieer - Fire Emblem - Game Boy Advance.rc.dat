@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220504
+version=20220516
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -11,10 +11,10 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
+¬¬¬756 - 0sheng mo¬756 - 0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬0的逆圣魔¬0的逆圣魔¬853 - 0的逆圣魔¬077d94bb¬20252024¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
-¬¬¬183 - 2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬a9b70387¬27926760¬¬¬
+¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬a9b70387¬27926760¬¬¬
 ¬¬¬21关开始-封印之剑¬21关开始-封印之剑¬930 - 21关开始-封印之剑¬75da6fb9¬8388608¬¬¬
 ¬¬¬[FE8] Fire Emblem - The Archon's Curse¬[FE8] Fire Emblem - The Archon's Curse¬1064 - [FE8] Fire Emblem - The Archon's Curse¬1be625b7¬20883568¬¬¬
 ¬¬¬A Glimpse of Time (時の垣間 エリウッド編)¬A Glimpse of Time (時の垣間 エリウッド編)¬178 - A Glimpse of Time (時の垣間 エリウッド編)¬caccb1eb¬19436704¬¬¬
@@ -102,7 +102,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Crusaders Of The Void¬Crusaders Of The Void¬533 - Crusaders Of The Void¬24c0f555¬17613044¬¬¬
 ¬¬¬Crystal of Bonds¬Crystal of Bonds¬443 - Crystal of Bonds¬8fe19751¬17853160¬¬¬
 ¬¬¬Curse of the Edge¬Curse of the Edge¬598 - Curse of the Edge¬e28c8258¬17776216¬¬¬
-¬¬¬Curse Of The Emblem Version 0.001¬Curse Of The Emblem Version 0.001¬508 - Curse Of The Emblem Version 0.001¬9c658b28¬14711608¬¬¬
+¬¬¬Curse Of The Emblem Version 0.001¬Curse Of The Emblem Version 0.001¬508 - Curse Of The Emblem Version 0¬9c658b28¬14711608¬¬¬
 ¬¬¬Darion’s Blazing Sword (Eliwood mode)¬Darion’s Blazing Sword (Eliwood mode)¬547 - Darion’s Blazing Sword (Eliwood mode)¬142e9add¬16777216¬¬¬
 ¬¬¬Darion’s Blazing Sword (Hector mode)¬Darion’s Blazing Sword (Hector mode)¬560 - Darion’s Blazing Sword (Hector mode)¬908e9a34¬16777216¬¬¬
 ¬¬¬Dark Dragon Reborn¬Dark Dragon Reborn¬1005 - Dark Dragon Reborn¬62adfa62¬19859020¬¬¬
@@ -419,7 +419,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]¬20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]¬823c3801¬9676785¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]¬1ccf7040¬8388608¬¬¬
 ¬¬¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]¬1f19d989¬8388608¬¬¬
-¬¬¬Fire Emblem - Heroes Remake¬Fire Emblem - Heroes Remake¬100 - Fire Emblem - Heroes Remake¬1c4fcc59¬31526756¬¬¬
+¬¬¬Fire Emblem - Heroes Remake¬Fire Emblem - Heroes Remake¬100 - Fire Emblem - Heroes Remake¬e841f4cb¬31526932¬¬¬
 ¬¬¬Fire Emblem - Illuminated¬Fire Emblem - Illuminated¬432 - Fire Emblem - Illuminated¬6150b83f¬29741960¬¬¬
 ¬¬¬Fire Emblem - Izarck’s Quest¬Fire Emblem - Izarck’s Quest¬247 - Fire Emblem - Izarck’s Quest¬6bf9575b¬21103520¬¬¬
 ¬¬¬Fire Emblem - Justice and Pride¬Fire Emblem - Justice and Pride¬188 - Fire Emblem - Justice and Pride¬c166ce14¬26189708¬¬¬
@@ -861,6 +861,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Void’s Blitzarre Adventure¬Void’s Blitzarre Adventure¬141 - Void’s Blitzarre Adventure¬9d22107c¬18641452¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency¬Void’s Blitzarre Adventure - Blitz Tendency¬142 - Void’s Blitzarre Adventure - Blitz Tendency¬e02d7a82¬16777216¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)¬66f0a6d0¬16777216¬¬¬
+¬¬¬Vows of Fate¬Vows of Fate¬1182 - Vows of Fate¬5e408f6c¬19673116¬¬¬
 ¬¬¬Vs. Mode¬Vs. Mode¬135 - Vs. Mode¬86fe30d3¬17066348¬¬¬
 ¬¬¬War of Retribution¬War of Retribution¬484 - War of Retribution¬7b8abafa¬17084172¬¬¬
 ¬¬¬War of Secrets¬War of Secrets¬1081 - War of Secrets¬7447d447¬28055212¬¬¬

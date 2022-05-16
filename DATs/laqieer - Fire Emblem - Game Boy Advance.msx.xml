@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>0sheng mo</title>
+		<title>756 - 0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -41,7 +41,7 @@
 		</dump>
 	</software>
 	<software>
-		<title>183 - 2 Princesses (二人の王女)</title>
+		<title>2 Princesses (二人の王女)</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -11032,6 +11032,19 @@
 	</software>
 	<software>
 		<title>Void’s Blitzarre Adventure - Blitz Tendency (debug)</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>Vows of Fate</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220504</version>
+		<version>20220516</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>0sheng mo</name>
+				<name>756 - 0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -149,7 +149,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>183 - 2 Princesses (二人の王女)</name>
+				<name>2 Princesses (二人の王女)</name>
 				<comment>http://fequeen.blog.fc2.com/</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
@@ -6223,8 +6223,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>100 - Fire Emblem - Heroes Remake</name>
-					<size>31526756</size>
-					<crc>1c4fcc59</crc>
+					<size>31526932</size>
+					<crc>e841f4cb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12840,6 +12840,21 @@
 					<name>143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)</name>
 					<size>16777216</size>
 					<crc>66f0a6d0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Vows of Fate</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1182 - Vows of Fate</name>
+					<size>19673116</size>
+					<crc>5e408f6c</crc>
 				</datitem>
 			</files>
 		</directory>

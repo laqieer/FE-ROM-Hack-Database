@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220504",
+		"version": "20220516",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "0sheng mo",
+				"name": "756 - 0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -161,7 +161,7 @@
 		},
 		{
 			"machine": {
-				"name": "183 - 2 Princesses (二人の王女)",
+				"name": "2 Princesses (二人の王女)",
 				"comment": "http://fequeen.blog.fc2.com/",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -7451,8 +7451,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "100 - Fire Emblem - Heroes Remake",
-						"size": 31526756,
-						"crc": "1c4fcc59"
+						"size": 31526932,
+						"crc": "e841f4cb"
 					}
 				}
 			]
@@ -15391,6 +15391,24 @@
 						"name": "143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)",
 						"size": 16777216,
 						"crc": "66f0a6d0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Vows of Fate",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1182 - Vows of Fate",
+						"size": 19673116,
+						"crc": "5e408f6c"
 					}
 				}
 			]

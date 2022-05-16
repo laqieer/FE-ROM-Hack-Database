@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="0sheng mo">
+	<software name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -25,7 +25,7 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="183 - 2 Princesses (二人の王女)">
+	<software name="2 Princesses (二人の王女)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -3266,7 +3266,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+				<rom name="100 - Fire Emblem - Heroes Remake" size="31526932" crc="e841f4cb" />
 			</dataarea>
 		</part>
 	</software>
@@ -6795,6 +6795,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Vows of Fate">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1182 - Vows of Fate" size="19673116" crc="5e408f6c" />
 			</dataarea>
 		</part>
 	</software>

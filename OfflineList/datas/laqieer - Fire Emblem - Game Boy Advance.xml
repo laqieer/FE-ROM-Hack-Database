@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220504</datVersion>
+    <datVersion>20220516</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -566,13 +566,13 @@
       <releaseNumber>100</releaseNumber>
       <title>Fire Emblem - Heroes Remake</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>31526756</romSize>
+      <romSize>31526932</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>laqieer</sourceRom>
       <language>258</language>
       <files>
-        <romCRC extension=".gba">1C4FCC59</romCRC>
+        <romCRC extension=".gba">E841F4CB</romCRC>
       </files>
       <im1CRC>85D34F8A</im1CRC>
       <im2CRC>47DAA0C7</im2CRC>
@@ -20035,6 +20035,24 @@
       <im1CRC>E0B03E01</im1CRC>
       <im2CRC>97DFDAC0</im2CRC>
       <comment>https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1182</imageNumber>
+      <releaseNumber>1182</releaseNumber>
+      <title>Vows of Fate</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19673116</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>cactusyote</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">5E408F6C</romCRC>
+      </files>
+      <im1CRC>C775577B</im1CRC>
+      <im2CRC>03B13DA3</im2CRC>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

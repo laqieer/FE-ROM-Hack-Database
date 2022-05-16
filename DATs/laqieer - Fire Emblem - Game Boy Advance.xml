@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220504</version>
+		<version>20220516</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -26,7 +26,7 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
-	<machine name="183 - 2 Princesses (二人の王女)">
+	<machine name="2 Princesses (二人の王女)">
 		<comment>http://fequeen.blog.fc2.com/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="183 - 2 Princesses (二人の王女)" size="27926760" crc="a9b70387" />
@@ -2013,7 +2013,7 @@
 	<machine name="Fire Emblem - Heroes Remake">
 		<comment>https://feuniverse.us/t/fire-emblem-heroes-remake-animation-wanted-247-chapters-completed-more-in-future/7177</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31526756" crc="1c4fcc59" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="31526932" crc="e841f4cb" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<comment>https://feuniverse.us/t/fire-emblem-illuminated-31-chapters-planned-19-finished/5553</comment>
@@ -4208,6 +4208,11 @@
 		<comment>https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency</comment>
 		<publisher>Blitz</publisher>
 		<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
+	</machine>
+	<machine name="Vows of Fate">
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1182 - Vows of Fate" size="19673116" crc="5e408f6c" />
 	</machine>
 	<machine name="Vs. Mode">
 		<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>

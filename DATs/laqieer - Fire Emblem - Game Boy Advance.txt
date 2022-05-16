@@ -1,8 +1,8 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-2-princesses-english-translation/8380;
-183 - 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
+2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
 21关开始-封印之剑;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 [FE8] Fire Emblem - The Archon's Curse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-archons-curse/10372;
 A Glimpse of Time (時の垣間 エリウッド編);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://ameblo.jp/yu-meigunsi/theme-10033783736.html;
@@ -849,6 +849,7 @@ Voices of the Sacred Stones;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;
 Void’s Blitzarre Adventure;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629;
 Void’s Blitzarre Adventure - Blitz Tendency;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/voids-blitzarre-adventure-blitz-tendency-earlygame-polish-released/3969;
 Void’s Blitzarre Adventure - Blitz Tendency (debug);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency;
+Vows of Fate;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120;
 Vs. Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012;
 War of Retribution;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://github.com/Slimjim8345/FE_War_of_Retribution_DEMO;
 War of Secrets;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-war-of-secrets/11198;

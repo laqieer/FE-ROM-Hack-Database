@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220516"
+	version "20220519"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -467,7 +467,7 @@ game (
 game (
 	name "Curse Of The Emblem Version 0.001"
 	description "Curse Of The Emblem Version 0.001"
-	rom ( name "508 - Curse Of The Emblem Version 0.001" size "14711608" crc "9c658b28" )
+	rom ( name "508 - Curse Of The Emblem Version 0" size "14711608" crc "9c658b28" )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode)"
@@ -4054,6 +4054,11 @@ game (
 	name "The Sacred Ripping Anniversary Edition"
 	description "The Sacred Ripping Anniversary Edition"
 	rom ( name "386 - The Sacred Ripping Anniversary Edition" size "20858336" crc "7ee376fa" )
+)
+game (
+	name "The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge"
+	description "The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge"
+	rom ( name "1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge" size "16854828" crc "094b599f" )
 )
 game (
 	name "The Sacred Stones - FE7 Crossover"

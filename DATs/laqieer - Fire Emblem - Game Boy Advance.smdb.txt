@@ -1,4 +1,4 @@
-	756 - 0sheng mo/756 - 0sheng mo			9179c574	16777216
+	0sheng mo/756 - 0sheng mo			9179c574	16777216
 	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			a9b70387	27926760
@@ -808,6 +808,7 @@
 	The Sacred Chairs (Boss Version)/186 - The Sacred Chairs (Boss Version)			34d15caf	24231680
 	The Sacred Overhaul/780 - The Sacred Overhaul			cbd2d3e0	16784840
 	The Sacred Ripping Anniversary Edition/386 - The Sacred Ripping Anniversary Edition			7ee376fa	20858336
+	The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge/1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge			094b599f	16854828
 	The Sacred Stones - FE7 Crossover/552 - The Sacred Stones - FE7 Crossover			1749e41f	16777216
 	The Sacred War (Final Update - v1.51)/173 - The Sacred War (Final Update - v1			8dc775b2	31187848
 	The Sacred War (Starting Version - v1.36)/172 - The Sacred War (Starting Version - v1			9ff4790d	31133988

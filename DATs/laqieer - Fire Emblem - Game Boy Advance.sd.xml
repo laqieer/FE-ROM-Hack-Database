@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220516</version>
+		<version>20220519</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>756 - 0sheng mo</name>
+				<name>0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -12240,6 +12240,21 @@
 					<name>386 - The Sacred Ripping Anniversary Edition</name>
 					<size>20858336</size>
 					<crc>7ee376fa</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge</name>
+				<comment>https://feuniverse.us/t/the-sacred-scrubs-the-fire-emblem-8-trash-iron-man-challenge/16146</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge</name>
+					<size>16854828</size>
+					<crc>094b599f</crc>
 				</datitem>
 			</files>
 		</directory>

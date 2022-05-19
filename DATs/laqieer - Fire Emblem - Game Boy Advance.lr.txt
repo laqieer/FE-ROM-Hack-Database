@@ -1,4 +1,4 @@
-ROMs required for driver "756 - 0sheng mo".
+ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -2225,7 +2225,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E. R                      18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -2517,7 +2517,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Project Sacred Stones v.0.2.5.1".
 Name                                   Size Checksum
-1106 - Project Sacred Stones v.0   17044860 CRC(a9d395a4)
+1106 - Project Sacred Stones v     17044860 CRC(a9d395a4)
 
 ROMs required for driver "Prophecy of Flames".
 Name                                   Size Checksum
@@ -3234,6 +3234,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Sacred Ripping Anniversary Edition".
 Name                                   Size Checksum
 386 - The Sacred Ripping Anniversary Edition          20858336 CRC(7ee376fa)
+
+ROMs required for driver "The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge".
+Name                                   Size Checksum
+1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge          16854828 CRC(094b599f)
 
 ROMs required for driver "The Sacred Stones - FE7 Crossover".
 Name                                   Size Checksum

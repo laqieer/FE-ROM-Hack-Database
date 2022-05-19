@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220516</datVersion>
+    <datVersion>20220519</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -20053,6 +20053,24 @@
       <im1CRC>C775577B</im1CRC>
       <im2CRC>03B13DA3</im2CRC>
       <comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1183</imageNumber>
+      <releaseNumber>1183</releaseNumber>
+      <title>The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16854828</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>HeroVP</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">094B599F</romCRC>
+      </files>
+      <im1CRC>D326C6BD</im1CRC>
+      <im2CRC>5F681DD2</im2CRC>
+      <comment>https://feuniverse.us/t/the-sacred-scrubs-the-fire-emblem-8-trash-iron-man-challenge/16146</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

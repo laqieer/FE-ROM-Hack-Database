@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -2427,6 +2427,9 @@
 	</machine>
 	<machine name="The Sacred Ripping Anniversary Edition">
 		<rom name="386 - The Sacred Ripping Anniversary Edition" size="20858336" crc="7ee376fa" />
+	</machine>
+	<machine name="The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge">
+		<rom name="1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge" size="16854828" crc="094b599f" />
 	</machine>
 	<machine name="The Sacred Stones - FE7 Crossover">
 		<rom name="552 - The Sacred Stones - FE7 Crossover" size="16777216" crc="1749e41f" />

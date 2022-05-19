@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>756 - 0sheng mo</title>
+		<title>0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -10512,6 +10512,19 @@
 	</software>
 	<software>
 		<title>The Sacred Ripping Anniversary Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

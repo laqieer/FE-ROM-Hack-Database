@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220516
+	Version: 20220519
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -373,7 +373,7 @@ game (
 )
 game (
 	name "Curse Of The Emblem Version 0.001.zip"
-	file ( name 508 - Curse Of The Emblem Version 0.001 size 14711608 crc 9c658b28 )
+	file ( name 508 - Curse Of The Emblem Version 0 size 14711608 crc 9c658b28 )
 )
 game (
 	name "Darion’s Blazing Sword (Eliwood mode).zip"
@@ -3243,6 +3243,10 @@ game (
 game (
 	name "The Sacred Ripping Anniversary Edition.zip"
 	file ( name 386 - The Sacred Ripping Anniversary Edition size 20858336 crc 7ee376fa )
+)
+game (
+	name "The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge.zip"
+	file ( name 1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge size 16854828 crc 094b599f )
 )
 game (
 	name "The Sacred Stones - FE7 Crossover.zip"

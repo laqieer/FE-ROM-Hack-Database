@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="756 - 0sheng mo">
+	<software name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -6475,6 +6475,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="386 - The Sacred Ripping Anniversary Edition" size="20858336" crc="7ee376fa" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge" size="16854828" crc="094b599f" />
 			</dataarea>
 		</part>
 	</software>

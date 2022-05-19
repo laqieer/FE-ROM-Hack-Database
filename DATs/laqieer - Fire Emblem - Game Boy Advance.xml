@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220516</version>
+		<version>20220519</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -4009,6 +4009,11 @@
 		<comment>https://feuniverse.us/t/the-sacred-ripping/6253</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="386 - The Sacred Ripping Anniversary Edition" size="20858336" crc="7ee376fa" />
+	</machine>
+	<machine name="The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge">
+		<comment>https://feuniverse.us/t/the-sacred-scrubs-the-fire-emblem-8-trash-iron-man-challenge/16146</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1183 - The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge" size="16854828" crc="094b599f" />
 	</machine>
 	<machine name="The Sacred Stones - FE7 Crossover">
 		<comment>https://serenesforest.net/general/translation-patches-and-hacks/the-sacred-stones-fe7-crossover/</comment>

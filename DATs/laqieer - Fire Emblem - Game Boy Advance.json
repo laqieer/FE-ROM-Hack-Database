@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220519",
+		"version": "20220528",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -144,7 +144,7 @@
 		{
 			"machine": {
 				"name": "2 Princesses (English Translation)",
-				"comment": "https://feuniverse.us/t/fe-2-princesses-english-translation/8380",
+				"comment": "https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -989,6 +989,24 @@
 		},
 		{
 			"machine": {
+				"name": "Bird Up! (Chinese Translation)",
+				"comment": "汉化1.3",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1197 - Bird Up! (Chinese Translation)",
+						"size": 33511616,
+						"crc": "095a090d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Black Fang",
 				"comment": "https://feuniverse.us/t/fire-emblem-black-fang/10446",
 				"description": null,
@@ -1001,6 +1019,42 @@
 						"name": "578 - Black Fang",
 						"size": 26121676,
 						"crc": "af92f7af"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Black Fang (Chinese Translation)",
+				"comment": "https://fecosmos.xyz/d/52-black-fang",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1189 - Black Fang (Chinese Translation)",
+						"size": 27302164,
+						"crc": "8427c4e7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Black Fang (Chinese Translation) (Animation modified)",
+				"comment": "https://fecosmos.xyz/d/52-black-fang",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1190 - Black Fang (Chinese Translation) (Animation modified)",
+						"size": 27986932,
+						"crc": "e8467ad2"
 					}
 				}
 			]
@@ -1559,6 +1613,24 @@
 						"name": "600 - Code of the Burger King",
 						"size": 28138512,
 						"crc": "e74b3929"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Code of the Burger King (Chinese Translation)",
+				"comment": "道具汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1204 - Code of the Burger King (Chinese Translation)",
+						"size": 29869432,
+						"crc": "30c3cd7d"
 					}
 				}
 			]
@@ -2573,6 +2645,24 @@
 		},
 		{
 			"machine": {
+				"name": "Dream of Five (Chinese Translation)",
+				"comment": "道具名汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1206 - Dream of Five (Chinese Translation)",
+						"size": 22194504,
+						"crc": "03f21708"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Dreams of Twilight",
 				"comment": "https://feuniverse.us/t/fire-emblem-dreams-of-twilight-gameplay-focused-fe8-hack/7489",
 				"description": null,
@@ -3107,6 +3197,24 @@
 						"name": "998 - FE6 - Armor emblem (Triangle version)",
 						"size": 9405556,
 						"crc": "515aea9a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 - Yoder Route",
+				"comment": "https://feuniverse.us/t/fe6-fire-emblem-6-yoder-route/16268",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1184 - FE6 - Yoder Route",
+						"size": 9274148,
+						"crc": "75c68ae7"
 					}
 				}
 			]
@@ -7207,6 +7315,24 @@
 		},
 		{
 			"machine": {
+				"name": "Fire Emblem - Code of the Black Knights (Chinese Translation)",
+				"comment": "内置字库",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)",
+						"size": 33016900,
+						"crc": "17da2c4c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Fire Emblem - Darkest Blade",
 				"comment": "https://feuniverse.us/t/fire-emblem-darkest-blade/3914",
 				"description": null,
@@ -8629,6 +8755,24 @@
 		},
 		{
 			"machine": {
+				"name": "Flames of Redemption (Chinese Translation)",
+				"comment": "救赎的火焰V1.0.3完全汉化版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1192 - Flames of Redemption (Chinese Translation)",
+						"size": 25079616,
+						"crc": "b9e5b6a0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Flames of Redemption (supports unlocked)",
 				"comment": "https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237",
 				"description": null,
@@ -9313,6 +9457,42 @@
 		},
 		{
 			"machine": {
+				"name": "Iron Emblem (Chinese Translation) (Hard)",
+				"comment": "钢铁纹章v1.2双版本完全汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1194 - Iron Emblem (Chinese Translation) (Hard)",
+						"size": 19450740,
+						"crc": "682c8ae7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Iron Emblem (Chinese Translation) (Normal)",
+				"comment": "钢铁纹章v1.2双版本完全汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1193 - Iron Emblem (Chinese Translation) (Normal)",
+						"size": 19469416,
+						"crc": "42731471"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Iron Emblem (Hard Mode)",
 				"comment": "https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539",
 				"description": null,
@@ -9475,6 +9655,24 @@
 		},
 		{
 			"machine": {
+				"name": "Justice and Pride - Book 2 (Chinese Translation)",
+				"comment": "道具汉化版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1201 - Justice and Pride - Book 2 (Chinese Translation)",
+						"size": 28139124,
+						"crc": "7ab7c036"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Justice and Pride - Book 2",
 				"comment": "https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975",
 				"description": null,
@@ -9539,8 +9737,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "179 - Kaitou",
-						"size": 33095268,
-						"crc": "b3674749"
+						"size": 33085792,
+						"crc": "8605cc5a"
 					}
 				}
 			]
@@ -9557,8 +9755,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "180 - Kaitou (English)",
-						"size": 33407680,
-						"crc": "16d585b0"
+						"size": 33401380,
+						"crc": "103c7866"
 					}
 				}
 			]
@@ -12157,6 +12355,24 @@
 		},
 		{
 			"machine": {
+				"name": "Sacred Contention (Chinese Translation)",
+				"comment": "汉化先行版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1205 - Sacred Contention (Chinese Translation)",
+						"size": 19287892,
+						"crc": "eee9a542"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Sacred Contention (DS Battle Background Mode)",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/",
 				"description": null,
@@ -12349,6 +12565,24 @@
 						"name": "465 - Sacred Texts",
 						"size": 18988976,
 						"crc": "4b97c9be"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Sacred Trilogy Final (Chinese Translation)",
+				"comment": "道具技能汉化",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1202 - Sacred Trilogy Final (Chinese Translation)",
+						"size": 33274608,
+						"crc": "6a46d845"
 					}
 				}
 			]
@@ -12637,6 +12871,24 @@
 						"name": "200 - Scarlet Rising",
 						"size": 20488132,
 						"crc": "8c78f4a5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Scarlet Rising (Chinese Translation)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1199 - Scarlet Rising (Chinese Translation)",
+						"size": 21646604,
+						"crc": "fe031447"
 					}
 				}
 			]
@@ -13507,6 +13759,24 @@
 		},
 		{
 			"machine": {
+				"name": "Terror of the Forest (Chinese Translation)",
+				"comment": "汉化体验版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1208 - Terror of the Forest (Chinese Translation)",
+						"size": 27829440,
+						"crc": "c79d1f6a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Akaneian Mafia",
 				"comment": "https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75",
 				"description": null,
@@ -13849,6 +14119,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Dark Hour (Chinese Translation)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1200 - The Dark Hour (Chinese Translation)",
+						"size": 27951548,
+						"crc": "d5d5f452"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Dark Hour (Hard Mode)",
 				"comment": "https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211",
 				"description": null,
@@ -14131,6 +14419,24 @@
 						"name": "206 - The Four Kings (0% Growths)",
 						"size": 28749664,
 						"crc": "b58a101f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Four Kings (Chinese Translation)",
+				"comment": "道具技能汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1203 - The Four Kings (Chinese Translation)",
+						"size": 29587472,
+						"crc": "6bd7582f"
 					}
 				}
 			]
@@ -14515,6 +14821,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Phantom King (Chinese Translation)",
+				"comment": "道具+人物+职业+基本菜单汉化，剧情无汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1195 - The Phantom King (Chinese Translation)",
+						"size": 26387056,
+						"crc": "67fb5bd5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Purge Of Weegee",
 				"comment": "https://markyjoe.com/?page=rfdl",
 				"description": null,
@@ -14563,6 +14887,24 @@
 						"name": "108 - The Road to Ruin",
 						"size": 21666336,
 						"crc": "6522df69"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Road to Ruin (Chinese Translation)",
+				"comment": "https://fecosmos.xyz/d/53-the-road-to-ruin",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1191 - The Road to Ruin (Chinese Translation)",
+						"size": 23028984,
+						"crc": "7c0877a4"
 					}
 				}
 			]
@@ -14822,7 +15164,7 @@
 		{
 			"machine": {
 				"name": "The Sun God’s Wrath",
-				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -14831,8 +15173,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "217 - The Sun God’s Wrath",
-						"size": 33007088,
-						"crc": "cc06a4ef"
+						"size": 33007144,
+						"crc": "566d7a9e"
 					}
 				}
 			]
@@ -14840,7 +15182,7 @@
 		{
 			"machine": {
 				"name": "The Sun God’s Wrath (0 growth)",
-				"comment": "https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -14849,8 +15191,26 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "218 - The Sun God’s Wrath (0 growth)",
-						"size": 33007108,
-						"crc": "7def8770"
+						"size": 33007164,
+						"crc": "7e9a9639"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (100 growth)",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1185 - The Sun God’s Wrath (100 growth)",
+						"size": 33007144,
+						"crc": "ed079000"
 					}
 				}
 			]
@@ -14869,6 +15229,60 @@
 						"name": "815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)",
 						"size": 33531452,
 						"crc": "c5c281e7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (No Fatigue)",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1186 - The Sun God’s Wrath (No Fatigue)",
+						"size": 33007144,
+						"crc": "389d3567"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (No Fatigue) (0 Growth)",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)",
+						"size": 33007164,
+						"crc": "106ad9c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Sun God’s Wrath (No Fatigue) (100 Growth)",
+				"comment": "https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)",
+						"size": 33007144,
+						"crc": "83f7dff9"
 					}
 				}
 			]
@@ -14984,7 +15398,7 @@
 		{
 			"machine": {
 				"name": "Tierra Maldita",
-				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -14993,8 +15407,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "987 - Tierra Maldita",
-						"size": 17572088,
-						"crc": "76de4b78"
+						"size": 17893384,
+						"crc": "645bdefe"
 					}
 				}
 			]
@@ -15085,6 +15499,24 @@
 						"name": "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin",
 						"size": 22807804,
 						"crc": "1b8b59c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)",
+				"comment": "道具技能汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)",
+						"size": 23808684,
+						"crc": "87c8bc28"
 					}
 				}
 			]
@@ -16093,6 +16525,24 @@
 						"name": "889 - 主角大联盟超高难度",
 						"size": 27557216,
 						"crc": "0975e53d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "佣兵公司 (Chinese Translation)",
+				"comment": "汉化至第八章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1210 - 佣兵公司 (Chinese Translation)",
+						"size": 25073560,
+						"crc": "a44472ee"
 					}
 				}
 			]
@@ -18133,6 +18583,24 @@
 		},
 		{
 			"machine": {
+				"name": "曼斯地牢 (Chinese Translation)",
+				"comment": "1.0",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1198 - 曼斯地牢 (Chinese Translation)",
+						"size": 20754792,
+						"crc": "96dae677"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "最帅修改 圣魔新地图",
 				"comment": "",
 				"description": null,
@@ -18404,7 +18872,7 @@
 		{
 			"machine": {
 				"name": "流浪公主",
-				"comment": "15章阉割完结版",
+				"comment": "完结版",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -18413,8 +18881,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "858 - 流浪公主",
-						"size": 29583392,
-						"crc": "c5707104"
+						"size": 31608972,
+						"crc": "adc3bd5c"
 					}
 				}
 			]
@@ -20125,6 +20593,24 @@
 						"name": "854 - 黑暗轮回者-007优化简单版",
 						"size": 32270164,
 						"crc": "48d59dbf"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "黑魔王与光明少女 (Chinese Translation)",
+				"comment": "道具名汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1207 - 黑魔王与光明少女 (Chinese Translation)",
+						"size": 24109016,
+						"crc": "e569de94"
 					}
 				}
 			]

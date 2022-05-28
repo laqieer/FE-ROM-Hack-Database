@@ -147,8 +147,17 @@
 	<machine name="Bird Up!">
 		<rom name="562 - Bird Up!" size="33511616" crc="f1efdf9e" />
 	</machine>
+	<machine name="Bird Up! (Chinese Translation)">
+		<rom name="1197 - Bird Up! (Chinese Translation)" size="33511616" crc="095a090d" />
+	</machine>
 	<machine name="Black Fang">
 		<rom name="578 - Black Fang" size="26121676" crc="af92f7af" />
+	</machine>
+	<machine name="Black Fang (Chinese Translation)">
+		<rom name="1189 - Black Fang (Chinese Translation)" size="27302164" crc="8427c4e7" />
+	</machine>
+	<machine name="Black Fang (Chinese Translation) (Animation modified)">
+		<rom name="1190 - Black Fang (Chinese Translation) (Animation modified)" size="27986932" crc="e8467ad2" />
 	</machine>
 	<machine name="Blackwing Struggle">
 		<rom name="429 - Blackwing Struggle" size="17622632" crc="ee781f1e" />
@@ -242,6 +251,9 @@
 	</machine>
 	<machine name="Code of the Burger King">
 		<rom name="600 - Code of the Burger King" size="28138512" crc="e74b3929" />
+	</machine>
+	<machine name="Code of the Burger King (Chinese Translation)">
+		<rom name="1204 - Code of the Burger King (Chinese Translation)" size="29869432" crc="30c3cd7d" />
 	</machine>
 	<machine name="Colm's Big Heist">
 		<rom name="536 - Colm's Big Heist" size="16777216" crc="34f20e9d" />
@@ -411,6 +423,9 @@
 	<machine name="Dream of Five">
 		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
 	</machine>
+	<machine name="Dream of Five (Chinese Translation)">
+		<rom name="1206 - Dream of Five (Chinese Translation)" size="22194504" crc="03f21708" />
+	</machine>
 	<machine name="Dreams of Twilight">
 		<rom name="486 - Dreams of Twilight" size="19414472" crc="5b62c925" />
 	</machine>
@@ -500,6 +515,9 @@
 	</machine>
 	<machine name="FE6 - Armor emblem (Triangle version)">
 		<rom name="998 - FE6 - Armor emblem (Triangle version)" size="9405556" crc="515aea9a" />
+	</machine>
+	<machine name="FE6 - Yoder Route">
+		<rom name="1184 - FE6 - Yoder Route" size="9274148" crc="75c68ae7" />
 	</machine>
 	<machine name="FE6 All Mounts">
 		<rom name="297 - FE6 All Mounts" size="16777532" crc="cc905927" />
@@ -1183,6 +1201,9 @@
 	<machine name="Fire Emblem - Code of the Black Knights">
 		<rom name="150 - Fire Emblem - Code of the Black Knights" size="33016900" crc="c666f8b1" />
 	</machine>
+	<machine name="Fire Emblem - Code of the Black Knights (Chinese Translation)">
+		<rom name="1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)" size="33016900" crc="17da2c4c" />
+	</machine>
 	<machine name="Fire Emblem - Darkest Blade">
 		<rom name="275 - Fire Emblem - Darkest Blade" size="16827380" crc="138220f4" />
 	</machine>
@@ -1420,6 +1441,9 @@
 	<machine name="Flames of Redemption">
 		<rom name="239 - Flames of Redemption" size="24536888" crc="e1428e68" />
 	</machine>
+	<machine name="Flames of Redemption (Chinese Translation)">
+		<rom name="1192 - Flames of Redemption (Chinese Translation)" size="25079616" crc="b9e5b6a0" />
+	</machine>
 	<machine name="Flames of Redemption (supports unlocked)">
 		<rom name="240 - Flames of Redemption (supports unlocked)" size="24536888" crc="0c835af0" />
 	</machine>
@@ -1534,6 +1558,12 @@
 	<machine name="Iron Emblem (altmenus)">
 		<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="8a037fa6" />
 	</machine>
+	<machine name="Iron Emblem (Chinese Translation) (Hard)">
+		<rom name="1194 - Iron Emblem (Chinese Translation) (Hard)" size="19450740" crc="682c8ae7" />
+	</machine>
+	<machine name="Iron Emblem (Chinese Translation) (Normal)">
+		<rom name="1193 - Iron Emblem (Chinese Translation) (Normal)" size="19469416" crc="42731471" />
+	</machine>
 	<machine name="Iron Emblem (Hard Mode)">
 		<rom name="592 - Iron Emblem (Hard Mode)" size="18035884" crc="37edc009" />
 	</machine>
@@ -1561,6 +1591,9 @@
 	<machine name="Justice &amp; Pride Gaiden - Clash in Estria">
 		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
 	</machine>
+	<machine name="Justice and Pride - Book 2 (Chinese Translation)">
+		<rom name="1201 - Justice and Pride - Book 2 (Chinese Translation)" size="28139124" crc="7ab7c036" />
+	</machine>
 	<machine name="Justice and Pride - Book 2">
 		<rom name="272 - Justice and Pride - Book 2" size="22610380" crc="d28f4951" />
 	</machine>
@@ -1571,10 +1604,10 @@
 		<rom name="1035 - Kaga Emblem (Spanish)" size="19391296" crc="1d89248c" />
 	</machine>
 	<machine name="Kaitou">
-		<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
+		<rom name="179 - Kaitou" size="33085792" crc="8605cc5a" />
 	</machine>
 	<machine name="Kaitou (English)">
-		<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
+		<rom name="180 - Kaitou (English)" size="33401380" crc="103c7866" />
 	</machine>
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
@@ -2008,6 +2041,9 @@
 	<machine name="Sacred Contention">
 		<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
 	</machine>
+	<machine name="Sacred Contention (Chinese Translation)">
+		<rom name="1205 - Sacred Contention (Chinese Translation)" size="19287892" crc="eee9a542" />
+	</machine>
 	<machine name="Sacred Contention (DS Battle Background Mode)">
 		<rom name="129 - Sacred Contention (DS Battle Background Mode)" size="20971520" crc="4fccb155" />
 	</machine>
@@ -2040,6 +2076,9 @@
 	</machine>
 	<machine name="Sacred Texts">
 		<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
+	</machine>
+	<machine name="Sacred Trilogy Final (Chinese Translation)">
+		<rom name="1202 - Sacred Trilogy Final (Chinese Translation)" size="33274608" crc="6a46d845" />
 	</machine>
 	<machine name="Sacred Trilogy Final -Full- Fixed Growths- No AI">
 		<rom name="358 - Sacred Trilogy Final -Full- Fixed Growths- No AI" size="33532712" crc="9c1dd2f3" />
@@ -2088,6 +2127,9 @@
 	</machine>
 	<machine name="Scarlet Rising">
 		<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
+	</machine>
+	<machine name="Scarlet Rising (Chinese Translation)">
+		<rom name="1199 - Scarlet Rising (Chinese Translation)" size="21646604" crc="fe031447" />
 	</machine>
 	<machine name="Scourge of Proxima">
 		<rom name="431 - Scourge of Proxima" size="22542928" crc="ced8254f" />
@@ -2233,6 +2275,9 @@
 	<machine name="Terror of the Forest">
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
+	<machine name="Terror of the Forest (Chinese Translation)">
+		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+	</machine>
 	<machine name="The Akaneian Mafia">
 		<rom name="656 - The Akaneian Mafia" size="16777216" crc="33e27ba8" />
 	</machine>
@@ -2290,6 +2335,9 @@
 	<machine name="The Dark Hour">
 		<rom name="201 - The Dark Hour" size="26994984" crc="8575430f" />
 	</machine>
+	<machine name="The Dark Hour (Chinese Translation)">
+		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+	</machine>
 	<machine name="The Dark Hour (Hard Mode)">
 		<rom name="202 - The Dark Hour (Hard Mode)" size="26995576" crc="bfc8d218" />
 	</machine>
@@ -2337,6 +2385,9 @@
 	</machine>
 	<machine name="The Four Kings (0% Growths)">
 		<rom name="206 - The Four Kings (0% Growths)" size="28749664" crc="b58a101f" />
+	</machine>
+	<machine name="The Four Kings (Chinese Translation)">
+		<rom name="1203 - The Four Kings (Chinese Translation)" size="29587472" crc="6bd7582f" />
 	</machine>
 	<machine name="The Four Kings (Reverse Recruitment)">
 		<rom name="207 - The Four Kings (Reverse Recruitment)" size="28852468" crc="34e1170d" />
@@ -2401,6 +2452,9 @@
 	<machine name="The Phantom King">
 		<rom name="989 - The Phantom King" size="25644220" crc="fa76f0c0" />
 	</machine>
+	<machine name="The Phantom King (Chinese Translation)">
+		<rom name="1195 - The Phantom King (Chinese Translation)" size="26387056" crc="67fb5bd5" />
+	</machine>
 	<machine name="The Purge Of Weegee">
 		<rom name="528 - The Purge Of Weegee" size="21489848" crc="764e473f" />
 	</machine>
@@ -2409,6 +2463,9 @@
 	</machine>
 	<machine name="The Road to Ruin">
 		<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />
+	</machine>
+	<machine name="The Road to Ruin (Chinese Translation)">
+		<rom name="1191 - The Road to Ruin (Chinese Translation)" size="23028984" crc="7c0877a4" />
 	</machine>
 	<machine name="The Roots That Bind">
 		<rom name="531 - The Roots That Bind" size="17350964" crc="014977a9" />
@@ -2453,13 +2510,25 @@
 		<rom name="1003 - The Seven Keys" size="21411712" crc="66c28210" />
 	</machine>
 	<machine name="The Sun God’s Wrath">
-		<rom name="217 - The Sun God’s Wrath" size="33007088" crc="cc06a4ef" />
+		<rom name="217 - The Sun God’s Wrath" size="33007144" crc="566d7a9e" />
 	</machine>
 	<machine name="The Sun God’s Wrath (0 growth)">
-		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007164" crc="7e9a9639" />
+	</machine>
+	<machine name="The Sun God’s Wrath (100 growth)">
+		<rom name="1185 - The Sun God’s Wrath (100 growth)" size="33007144" crc="ed079000" />
 	</machine>
 	<machine name="The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)">
 		<rom name="815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)" size="33531452" crc="c5c281e7" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue)">
+		<rom name="1186 - The Sun God’s Wrath (No Fatigue)" size="33007144" crc="389d3567" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue) (0 Growth)">
+		<rom name="1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)" size="33007164" crc="106ad9c0" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue) (100 Growth)">
+		<rom name="1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)" size="33007144" crc="83f7dff9" />
 	</machine>
 	<machine name="The Tavern Adventures">
 		<rom name="627 - The Tavern Adventures" size="22098544" crc="8ceec8c8" />
@@ -2480,7 +2549,7 @@
 		<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
 	</machine>
 	<machine name="Tierra Maldita">
-		<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
+		<rom name="987 - Tierra Maldita" size="17893384" crc="645bdefe" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />
@@ -2496,6 +2565,9 @@
 	</machine>
 	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin">
 		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+	</machine>
+	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)">
+		<rom name="1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)" size="23808684" crc="87c8bc28" />
 	</machine>
 	<machine name="Tower Defense">
 		<rom name="515 - Tower Defense" size="16793408" crc="6b65ad16" />
@@ -2664,6 +2736,9 @@
 	</machine>
 	<machine name="主角大联盟超高难度">
 		<rom name="889 - 主角大联盟超高难度" size="27557216" crc="0975e53d" />
+	</machine>
+	<machine name="佣兵公司 (Chinese Translation)">
+		<rom name="1210 - 佣兵公司 (Chinese Translation)" size="25073560" crc="a44472ee" />
 	</machine>
 	<machine name="僵尸道长">
 		<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
@@ -3004,6 +3079,9 @@
 	<machine name="暗黑の黎明">
 		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
 	</machine>
+	<machine name="曼斯地牢 (Chinese Translation)">
+		<rom name="1198 - 曼斯地牢 (Chinese Translation)" size="20754792" crc="96dae677" />
+	</machine>
 	<machine name="最帅修改 圣魔新地图">
 		<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />
 	</machine>
@@ -3050,7 +3128,7 @@
 		<rom name="986 - 死灵复生" size="16778240" crc="a5c39099" />
 	</machine>
 	<machine name="流浪公主">
-		<rom name="858 - 流浪公主" size="29583392" crc="c5707104" />
+		<rom name="858 - 流浪公主" size="31608972" crc="adc3bd5c" />
 	</machine>
 	<machine name="火焰纹章 挑战0.1地狱模式">
 		<rom name="787 - 火焰纹章 挑战0" size="17911088" crc="b86e23c5" />
@@ -3336,5 +3414,8 @@
 	</machine>
 	<machine name="黑暗轮回者-007优化简单版">
 		<rom name="854 - 黑暗轮回者-007优化简单版" size="32270164" crc="48d59dbf" />
+	</machine>
+	<machine name="黑魔王与光明少女 (Chinese Translation)">
+		<rom name="1207 - 黑魔王与光明少女 (Chinese Translation)" size="24109016" crc="e569de94" />
 	</machine>
 </mame>

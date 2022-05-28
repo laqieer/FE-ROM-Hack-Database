@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220519</version>
+		<version>20220528</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -135,7 +135,7 @@
 		<directory>
 			<machine>
 				<name>2 Princesses (English Translation)</name>
-				<comment>https://feuniverse.us/t/fe-2-princesses-english-translation/8380</comment>
+				<comment>https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
@@ -839,6 +839,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Bird Up! (Chinese Translation)</name>
+				<comment>汉化1.3</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1197 - Bird Up! (Chinese Translation)</name>
+					<size>33511616</size>
+					<crc>095a090d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Black Fang</name>
 				<comment>https://feuniverse.us/t/fire-emblem-black-fang/10446</comment>
 				<publisher>Fan Modding</publisher>
@@ -849,6 +864,36 @@
 					<name>578 - Black Fang</name>
 					<size>26121676</size>
 					<crc>af92f7af</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Black Fang (Chinese Translation)</name>
+				<comment>https://fecosmos.xyz/d/52-black-fang</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1189 - Black Fang (Chinese Translation)</name>
+					<size>27302164</size>
+					<crc>8427c4e7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Black Fang (Chinese Translation) (Animation modified)</name>
+				<comment>https://fecosmos.xyz/d/52-black-fang</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1190 - Black Fang (Chinese Translation) (Animation modified)</name>
+					<size>27986932</size>
+					<crc>e8467ad2</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1314,6 +1359,21 @@
 					<name>600 - Code of the Burger King</name>
 					<size>28138512</size>
 					<crc>e74b3929</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Code of the Burger King (Chinese Translation)</name>
+				<comment>道具汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1204 - Code of the Burger King (Chinese Translation)</name>
+					<size>29869432</size>
+					<crc>30c3cd7d</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2159,6 +2219,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Dream of Five (Chinese Translation)</name>
+				<comment>道具名汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1206 - Dream of Five (Chinese Translation)</name>
+					<size>22194504</size>
+					<crc>03f21708</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Dreams of Twilight</name>
 				<comment>https://feuniverse.us/t/fire-emblem-dreams-of-twilight-gameplay-focused-fe8-hack/7489</comment>
 				<publisher>Fan Modding</publisher>
@@ -2604,6 +2679,21 @@
 					<name>998 - FE6 - Armor emblem (Triangle version)</name>
 					<size>9405556</size>
 					<crc>515aea9a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 - Yoder Route</name>
+				<comment>https://feuniverse.us/t/fe6-fire-emblem-6-yoder-route/16268</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1184 - FE6 - Yoder Route</name>
+					<size>9274148</size>
+					<crc>75c68ae7</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6020,6 +6110,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - Code of the Black Knights (Chinese Translation)</name>
+				<comment>内置字库</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)</name>
+					<size>33016900</size>
+					<crc>17da2c4c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - Darkest Blade</name>
 				<comment>https://feuniverse.us/t/fire-emblem-darkest-blade/3914</comment>
 				<publisher>Fan Modding</publisher>
@@ -7205,6 +7310,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Flames of Redemption (Chinese Translation)</name>
+				<comment>救赎的火焰V1.0.3完全汉化版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1192 - Flames of Redemption (Chinese Translation)</name>
+					<size>25079616</size>
+					<crc>b9e5b6a0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Flames of Redemption (supports unlocked)</name>
 				<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
 				<publisher>Fan Modding</publisher>
@@ -7775,6 +7895,36 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Iron Emblem (Chinese Translation) (Hard)</name>
+				<comment>钢铁纹章v1.2双版本完全汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1194 - Iron Emblem (Chinese Translation) (Hard)</name>
+					<size>19450740</size>
+					<crc>682c8ae7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Iron Emblem (Chinese Translation) (Normal)</name>
+				<comment>钢铁纹章v1.2双版本完全汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1193 - Iron Emblem (Chinese Translation) (Normal)</name>
+					<size>19469416</size>
+					<crc>42731471</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Iron Emblem (Hard Mode)</name>
 				<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 				<publisher>Fan Modding</publisher>
@@ -7910,6 +8060,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Justice and Pride - Book 2 (Chinese Translation)</name>
+				<comment>道具汉化版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1201 - Justice and Pride - Book 2 (Chinese Translation)</name>
+					<size>28139124</size>
+					<crc>7ab7c036</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Justice and Pride - Book 2</name>
 				<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
 				<publisher>Fan Modding</publisher>
@@ -7963,8 +8128,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>179 - Kaitou</name>
-					<size>33095268</size>
-					<crc>b3674749</crc>
+					<size>33085792</size>
+					<crc>8605cc5a</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7978,8 +8143,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>180 - Kaitou (English)</name>
-					<size>33407680</size>
-					<crc>16d585b0</crc>
+					<size>33401380</size>
+					<crc>103c7866</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10145,6 +10310,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Sacred Contention (Chinese Translation)</name>
+				<comment>汉化先行版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1205 - Sacred Contention (Chinese Translation)</name>
+					<size>19287892</size>
+					<crc>eee9a542</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Sacred Contention (DS Battle Background Mode)</name>
 				<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 				<publisher>Fan Modding</publisher>
@@ -10305,6 +10485,21 @@
 					<name>465 - Sacred Texts</name>
 					<size>18988976</size>
 					<crc>4b97c9be</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Sacred Trilogy Final (Chinese Translation)</name>
+				<comment>道具技能汉化</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1202 - Sacred Trilogy Final (Chinese Translation)</name>
+					<size>33274608</size>
+					<crc>6a46d845</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -10545,6 +10740,21 @@
 					<name>200 - Scarlet Rising</name>
 					<size>20488132</size>
 					<crc>8c78f4a5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Scarlet Rising (Chinese Translation)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1199 - Scarlet Rising (Chinese Translation)</name>
+					<size>21646604</size>
+					<crc>fe031447</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11270,6 +11480,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Terror of the Forest (Chinese Translation)</name>
+				<comment>汉化体验版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1208 - Terror of the Forest (Chinese Translation)</name>
+					<size>27829440</size>
+					<crc>c79d1f6a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Akaneian Mafia</name>
 				<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
 				<publisher>MAFC</publisher>
@@ -11555,6 +11780,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Dark Hour (Chinese Translation)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1200 - The Dark Hour (Chinese Translation)</name>
+					<size>27951548</size>
+					<crc>d5d5f452</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Dark Hour (Hard Mode)</name>
 				<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>
 				<publisher>Fan Modding</publisher>
@@ -11790,6 +12030,21 @@
 					<name>206 - The Four Kings (0% Growths)</name>
 					<size>28749664</size>
 					<crc>b58a101f</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Four Kings (Chinese Translation)</name>
+				<comment>道具技能汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1203 - The Four Kings (Chinese Translation)</name>
+					<size>29587472</size>
+					<crc>6bd7582f</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12110,6 +12365,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>The Phantom King (Chinese Translation)</name>
+				<comment>道具+人物+职业+基本菜单汉化，剧情无汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1195 - The Phantom King (Chinese Translation)</name>
+					<size>26387056</size>
+					<crc>67fb5bd5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>The Purge Of Weegee</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
@@ -12150,6 +12420,21 @@
 					<name>108 - The Road to Ruin</name>
 					<size>21666336</size>
 					<crc>6522df69</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Road to Ruin (Chinese Translation)</name>
+				<comment>https://fecosmos.xyz/d/53-the-road-to-ruin</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1191 - The Road to Ruin (Chinese Translation)</name>
+					<size>23028984</size>
+					<crc>7c0877a4</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12366,30 +12651,45 @@
 		<directory>
 			<machine>
 				<name>The Sun God’s Wrath</name>
-				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207</comment>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>217 - The Sun God’s Wrath</name>
-					<size>33007088</size>
-					<crc>cc06a4ef</crc>
+					<size>33007144</size>
+					<crc>566d7a9e</crc>
 				</datitem>
 			</files>
 		</directory>
 		<directory>
 			<machine>
 				<name>The Sun God’s Wrath (0 growth)</name>
-				<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>218 - The Sun God’s Wrath (0 growth)</name>
-					<size>33007108</size>
-					<crc>7def8770</crc>
+					<size>33007164</size>
+					<crc>7e9a9639</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sun God’s Wrath (100 growth)</name>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1185 - The Sun God’s Wrath (100 growth)</name>
+					<size>33007144</size>
+					<crc>ed079000</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12405,6 +12705,51 @@
 					<name>815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)</name>
 					<size>33531452</size>
 					<crc>c5c281e7</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sun God’s Wrath (No Fatigue)</name>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1186 - The Sun God’s Wrath (No Fatigue)</name>
+					<size>33007144</size>
+					<crc>389d3567</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sun God’s Wrath (No Fatigue) (0 Growth)</name>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)</name>
+					<size>33007164</size>
+					<crc>106ad9c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The Sun God’s Wrath (No Fatigue) (100 Growth)</name>
+				<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)</name>
+					<size>33007144</size>
+					<crc>83f7dff9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12501,15 +12846,15 @@
 		<directory>
 			<machine>
 				<name>Tierra Maldita</name>
-				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>987 - Tierra Maldita</name>
-					<size>17572088</size>
-					<crc>76de4b78</crc>
+					<size>17893384</size>
+					<crc>645bdefe</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12585,6 +12930,21 @@
 					<name>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</name>
 					<size>22807804</size>
 					<crc>1b8b59c0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)</name>
+				<comment>道具技能汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)</name>
+					<size>23808684</size>
+					<crc>87c8bc28</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13425,6 +13785,21 @@
 					<name>889 - 主角大联盟超高难度</name>
 					<size>27557216</size>
 					<crc>0975e53d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>佣兵公司 (Chinese Translation)</name>
+				<comment>汉化至第八章</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1210 - 佣兵公司 (Chinese Translation)</name>
+					<size>25073560</size>
+					<crc>a44472ee</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -15125,6 +15500,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>曼斯地牢 (Chinese Translation)</name>
+				<comment>1.0</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1198 - 曼斯地牢 (Chinese Translation)</name>
+					<size>20754792</size>
+					<crc>96dae677</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>最帅修改 圣魔新地图</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -15351,15 +15741,15 @@
 		<directory>
 			<machine>
 				<name>流浪公主</name>
-				<comment>15章阉割完结版</comment>
+				<comment>完结版</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>858 - 流浪公主</name>
-					<size>29583392</size>
-					<crc>c5707104</crc>
+					<size>31608972</size>
+					<crc>adc3bd5c</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -16785,6 +17175,21 @@
 					<name>854 - 黑暗轮回者-007优化简单版</name>
 					<size>32270164</size>
 					<crc>48d59dbf</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>黑魔王与光明少女 (Chinese Translation)</name>
+				<comment>道具名汉化</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1207 - 黑魔王与光明少女 (Chinese Translation)</name>
+					<size>24109016</size>
+					<crc>e569de94</crc>
 				</datitem>
 			</files>
 		</directory>

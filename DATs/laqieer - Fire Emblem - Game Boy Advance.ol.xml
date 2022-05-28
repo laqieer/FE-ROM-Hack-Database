@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1113</datVersion>
+		<datVersion>1140</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -94,7 +94,7 @@
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe-2-princesses-english-translation/8380</comment>
+			<comment>https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -930,6 +930,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1197 - Bird Up! (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>33511616</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">095A090D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>汉化1.3</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>578 - Black Fang</title>
 			<saveType>None</saveType>
 			<romSize>26121676</romSize>
@@ -943,6 +961,42 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fire-emblem-black-fang/10446</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1189 - Black Fang (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>27302164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8427C4E7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/52-black-fang</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1190 - Black Fang (Chinese Translation) (Animation modified)</title>
+			<saveType>None</saveType>
+			<romSize>27986932</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E8467AD2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/52-black-fang</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1501,6 +1555,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1204 - Code of the Burger King (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>29869432</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">30C3CD7D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -2515,6 +2587,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1206 - Dream of Five (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>22194504</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">03F21708</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具名汉化</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>486 - Dreams of Twilight</title>
 			<saveType>None</saveType>
 			<romSize>19414472</romSize>
@@ -3052,6 +3142,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1184 - FE6 - Yoder Route</title>
+			<saveType>None</saveType>
+			<romSize>9274148</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">75C68AE7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-fire-emblem-6-yoder-route/16268</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7194,6 +7302,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>33016900</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">17DA2C4C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>内置字库</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>275 - Fire Emblem - Darkest Blade</title>
 			<saveType>None</saveType>
 			<romSize>16827380</romSize>
@@ -8619,6 +8745,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1192 - Flames of Redemption (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>25079616</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">B9E5B6A0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>救赎的火焰V1.0.3完全汉化版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>240 - Flames of Redemption (supports unlocked)</title>
 			<saveType>None</saveType>
 			<romSize>24536888</romSize>
@@ -9304,6 +9448,42 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1194 - Iron Emblem (Chinese Translation) (Hard)</title>
+			<saveType>None</saveType>
+			<romSize>19450740</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">682C8AE7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>钢铁纹章v1.2双版本完全汉化</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1193 - Iron Emblem (Chinese Translation) (Normal)</title>
+			<saveType>None</saveType>
+			<romSize>19469416</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">42731471</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>钢铁纹章v1.2双版本完全汉化</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>592 - Iron Emblem (Hard Mode)</title>
 			<saveType>None</saveType>
 			<romSize>18035884</romSize>
@@ -9466,6 +9646,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1201 - Justice and Pride - Book 2 (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>28139124</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7AB7C036</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具汉化版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>272 - Justice and Pride - Book 2</title>
 			<saveType>None</saveType>
 			<romSize>22610380</romSize>
@@ -9522,13 +9720,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>179 - Kaitou</title>
 			<saveType>None</saveType>
-			<romSize>33095268</romSize>
+			<romSize>33085792</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">B3674749</romCRC>
+				<romCRC extension=".">8605CC5A</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -9540,13 +9738,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>180 - Kaitou (English)</title>
 			<saveType>None</saveType>
-			<romSize>33407680</romSize>
+			<romSize>33401380</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">16D585B0</romCRC>
+				<romCRC extension=".">103C7866</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -12151,6 +12349,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1205 - Sacred Contention (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>19287892</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">EEE9A542</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>汉化先行版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>129 - Sacred Contention (DS Battle Background Mode)</title>
 			<saveType>None</saveType>
 			<romSize>20971520</romSize>
@@ -12344,6 +12560,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://forums.serenesforest.net/index.php?/topic/86760-fe-sacred-texts/</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1202 - Sacred Trilogy Final (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>33274608</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6A46D845</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具技能汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -12632,6 +12866,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/complete-fe8-scarlet-rising/7890</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1199 - Scarlet Rising (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>21646604</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">FE031447</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -13501,6 +13754,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1208 - Terror of the Forest (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>27829440</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">C79D1F6A</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>汉化体验版</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>656 - The Akaneian Mafia</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -13845,6 +14116,25 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1200 - The Dark Hour (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>27951548</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D5D5F452</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>202 - The Dark Hour (Hard Mode)</title>
 			<saveType>None</saveType>
 			<romSize>26995576</romSize>
@@ -14128,6 +14418,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1203 - The Four Kings (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>29587472</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6BD7582F</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具技能汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14512,6 +14820,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1195 - The Phantom King (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>26387056</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">67FB5BD5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具+人物+职业+基本菜单汉化，剧情无汉化</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>528 - The Purge Of Weegee</title>
 			<saveType>None</saveType>
 			<romSize>21489848</romSize>
@@ -14561,6 +14887,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1191 - The Road to Ruin (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>23028984</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">7C0877A4</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://fecosmos.xyz/d/53-the-road-to-ruin</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14820,17 +15164,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>217 - The Sun God’s Wrath</title>
 			<saveType>None</saveType>
-			<romSize>33007088</romSize>
+			<romSize>33007144</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">CC06A4EF</romCRC>
+				<romCRC extension=".">566D7A9E</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14838,17 +15182,35 @@
 			<releaseNumber>1</releaseNumber>
 			<title>218 - The Sun God’s Wrath (0 growth)</title>
 			<saveType>None</saveType>
-			<romSize>33007108</romSize>
+			<romSize>33007164</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">7DEF8770</romCRC>
+				<romCRC extension=".">7E9A9639</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1185 - The Sun God’s Wrath (100 growth)</title>
+			<saveType>None</saveType>
+			<romSize>33007144</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">ED079000</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14867,6 +15229,60 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>太阳神v1.64道具技能汉化</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1186 - The Sun God’s Wrath (No Fatigue)</title>
+			<saveType>None</saveType>
+			<romSize>33007144</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">389D3567</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)</title>
+			<saveType>None</saveType>
+			<romSize>33007164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">106AD9C0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)</title>
+			<saveType>None</saveType>
+			<romSize>33007144</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">83F7DFF9</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14982,17 +15398,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>987 - Tierra Maldita</title>
 			<saveType>None</saveType>
-			<romSize>17572088</romSize>
+			<romSize>17893384</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">76DE4B78</romCRC>
+				<romCRC extension=".">645BDEFE</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -15083,6 +15499,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>23808684</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">87C8BC28</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具技能汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -16102,6 +16536,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1210 - 佣兵公司 (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>25073560</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A44472EE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>汉化至第八章</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -18217,6 +18669,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1198 - 曼斯地牢 (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>20754792</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">96DAE677</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.0</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>951 - 最帅修改 圣魔新地图</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -18502,17 +18972,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>858 - 流浪公主</title>
 			<saveType>None</saveType>
-			<romSize>29583392</romSize>
+			<romSize>31608972</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">C5707104</romCRC>
+				<romCRC extension=".">ADC3BD5C</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>15章阉割完结版</comment>
+			<comment>完结版</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -20288,6 +20758,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1207 - 黑魔王与光明少女 (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>24109016</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E569DE94</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>道具名汉化</comment>
 			<duplicateID></duplicateID>
 		</game>
 	</games>

@@ -107,12 +107,12 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 176,FE8 midori (Green),Fan Modding,Japan,unknown,Japanese,25D88B16,緑パッチ（ＦＥ８）　ver.191020
 177,FE8 midori (Green) (English Translation),Fan Modding,Japan,Tequila,English,4279B308,https://feuniverse.us/t/midori-girls-english-patches-and-fixes/2516
 178,A Glimpse of Time (時の垣間 エリウッド編),Fan Modding,Japan,名軍師YU,Japanese,CACCB1EB,https://ameblo.jp/yu-meigunsi/theme-10033783736.html
-179,Kaitou,Fan Modding,Japan,7743,Japanese,B3674749,https://feuniverse.us/t/fe8-kaitou-patch/2984
-180,Kaitou (English),Fan Modding,Japan,7743,English,16D585B0,https://feuniverse.us/t/fe8-kaitou-patch/2984
+179,Kaitou,Fan Modding,Japan,7743,Japanese,8605CC5A,https://feuniverse.us/t/fe8-kaitou-patch/2984
+180,Kaitou (English),Fan Modding,Japan,7743,English,103C7866,https://feuniverse.us/t/fe8-kaitou-patch/2984
 181,Yugudora Hack (ユグドラパッチ),Fan Modding,Japan,Isaac,Japanese,EA667865,http://feyugudora444.livedoor.blog/
 182,Yggdra Hack UI Translation,Fan Modding,Japan,Pikmin1211,English,63B815AD,https://feuniverse.us/t/yggdra-hack-ui-translation/6492
 183,2 Princesses (二人の王女),Fan Modding,Japan,レイファ,Japanese,A9B70387,http://fequeen.blog.fc2.com/
-184,2 Princesses (English Translation),Fan Modding,Japan,Pollen,English,CDF24969,https://feuniverse.us/t/fe-2-princesses-english-translation/8380
+184,2 Princesses (English Translation),Fan Modding,Japan,Pollen,English,CDF24969,https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380
 185,The Sacred Chairs,Fan Modding,USA,Mangs PME Team,English,841A14F7,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
 186,The Sacred Chairs (Boss Version),Fan Modding,USA,Mangs PME Team,English,34D15CAF,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
 187,The Sacred Chairs (0% Growths Version),Fan Modding,USA,PH#8797,English,8C316C5E,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
@@ -145,8 +145,8 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 214,FE The Grand Uprising (Blue default player phase map sprite palette),Fan Modding,USA,Memestaralbert,English,ADF5269E,https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357
 215,Slot Machine,Fan Modding,USA,Vesly,English,36C739F5,https://feuniverse.us/t/slot-machine/8604
 216,Rubik’s Cube,Fan Modding,USA,Leonarth,English,38DA7267,https://feuniverse.us/t/leonarths-terrible-2020-mafc-entry-the-cube/8971
-217,The Sun God’s Wrath,Fan Modding,USA,Blademaster,English,CC06A4EF,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207
-218,The Sun God’s Wrath (0 growth),Fan Modding,USA,Blademaster,English,7DEF8770,https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/
+217,The Sun God’s Wrath,Fan Modding,USA,Blademaster,English,566D7A9E,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
+218,The Sun God’s Wrath (0 growth),Fan Modding,USA,Blademaster,English,7E9A9639,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
 219,Journeys,Fan Modding,USA,Relic,English,1C83DF77,https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-v2-2-20-chapters/7313
 220,"Fire Emblem - Reborn Dimensions, Olethian Princess",Fan Modding,USA,RandomWizard,English,F379D286,https://feuniverse.us/t/fe8-complete-fire-emblem-reborn-dimensions-olethian-princess/5317
 221,Fire Emblem - The Fall of Thabes,Fan Modding,USA,Jotari,English,7572B080,https://feuniverse.us/t/the-fall-of-thabes-release/9941
@@ -786,7 +786,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 855,黑暗轮回者-006最终版,Fan Modding,Japan,悲桑酱,Chinese,4188CF4B,
 856,王之誓约,Fan Modding,Japan,unknown,Chinese,E5BA4301,4.2
 857,英雄世界,Fan Modding,Japan,小林游太,Chinese,E889FA3A,3.0
-858,流浪公主,Fan Modding,Japan,伊蕾娜,Chinese,C5707104,15章阉割完结版
+858,流浪公主,Fan Modding,Japan,伊蕾娜,Chinese,ADC3BD5C,完结版
 859,某不知名改版,Fan Modding,Japan,诺言,Chinese,10AA75AC,
 860,不知名改版,Reskin/Rebalance,Japan,unknown,Chinese,A347D734,
 861,命运,Fan Modding,Japan,unknown,Chinese,3DC1CA38,3.4
@@ -915,7 +915,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 984,圣魔之公主的逆袭,Reskin/Rebalance,Japan,unknown,Chinese,BF03BF90,
 985,圣魔之光石 魔物版,Reskin/Rebalance,Japan,unknown,Chinese,19346FBB,修订版
 986,死灵复生,Reskin/Rebalance,Japan,unknown,Chinese,A5C39099,
-987,Tierra Maldita,Fan Modding,USA,keymavega,English,76DE4B78,https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500
+987,Tierra Maldita,Fan Modding,USA,keymavega,English,645BDEFE,https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500
 988,FE Colored,Fan Modding,USA,lemon,English,1B3DA853,https://feuniverse.us/t/fe8-wip-fe-colored-8-chapters-4-5-hours/15506
 989,The Phantom King,Fan Modding,USA,RandomMercenary,English,FA76F0C0,https://feuniverse.us/t/fe8-complete-fire-emblem-the-phantom-king/10450
 990,Frozen Throes,Fan Modding,USA,N426,English,05F8EBFD,https://feuniverse.us/t/fe8-n426s-frozen-throes-ver-163542000-15-chapters/10273
@@ -1112,3 +1112,30 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1181,FE7 - Mistakes Were Made (Fixed Growth),Reskin/Rebalance,USA,KainDarkfire,English,3E05B0F4,https://feuniverse.us/t/fe7-another-rebalance-rehaul/15925
 1182,Vows of Fate,Fan Modding,USA,cactusyote,English,5E408F6C,https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120
 1183,The Sacred Scrubs or The Fire Emblem 8 Trash(iron)man Challenge,Reskin/Rebalance,USA,HeroVP,English,094B599F,https://feuniverse.us/t/the-sacred-scrubs-the-fire-emblem-8-trash-iron-man-challenge/16146
+1184,FE6 - Yoder Route,Fan Modding,Japan,MageBoy,English,75C68AE7,https://feuniverse.us/t/fe6-fire-emblem-6-yoder-route/16268
+1185,The Sun God’s Wrath (100 growth),Fan Modding,USA,Blademaster,English,ED079000,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
+1186,The Sun God’s Wrath (No Fatigue),Fan Modding,USA,Blademaster,English,389D3567,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
+1187,The Sun God’s Wrath (No Fatigue) (0 Growth),Fan Modding,USA,Blademaster,English,106AD9C0,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
+1188,The Sun God’s Wrath (No Fatigue) (100 Growth),Fan Modding,USA,Blademaster,English,83F7DFF9,https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207
+1189,Black Fang (Chinese Translation),Fan Modding,USA,瓦莱娜23号,Chinese,8427C4E7,https://fecosmos.xyz/d/52-black-fang
+1190,Black Fang (Chinese Translation) (Animation modified),Fan Modding,USA,瓦莱娜23号,Chinese,E8467AD2,https://fecosmos.xyz/d/52-black-fang
+1191,The Road to Ruin (Chinese Translation),Fan Modding,USA,瓦莱娜23号,Chinese,7C0877A4,https://fecosmos.xyz/d/53-the-road-to-ruin
+1192,Flames of Redemption (Chinese Translation),Fan Modding,USA,Logia,Chinese,B9E5B6A0,救赎的火焰V1.0.3完全汉化版
+1193,Iron Emblem (Chinese Translation) (Normal),Fan Modding,USA,花开小低调,Chinese,42731471,钢铁纹章v1.2双版本完全汉化
+1194,Iron Emblem (Chinese Translation) (Hard),Fan Modding,USA,花开小低调,Chinese,682C8AE7,钢铁纹章v1.2双版本完全汉化
+1195,The Phantom King (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,67FB5BD5,道具+人物+职业+基本菜单汉化，剧情无汉化
+1196,Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation),Fan Modding,USA,瓦莱娜23号,Chinese,87C8BC28,道具技能汉化
+1197,Bird Up! (Chinese Translation),Fan Modding,USA,unknown,Chinese,095A090D,汉化1.3
+1198,曼斯地牢 (Chinese Translation),Fan Modding,USA,利夫,Chinese,96DAE677,1.0
+1199,Scarlet Rising (Chinese Translation),Fan Modding,USA,unknown,Chinese,FE031447,
+1200,The Dark Hour (Chinese Translation),Fan Modding,USA,unknown,Chinese,D5D5F452,
+1201,Justice and Pride - Book 2 (Chinese Translation),Fan Modding,USA,unknown,Chinese,7AB7C036,道具汉化版
+1202,Sacred Trilogy Final (Chinese Translation),Reskin/Rebalance,USA,unknown,Chinese,6A46D845,道具技能汉化
+1203,The Four Kings (Chinese Translation),Fan Modding,USA,unknown,Chinese,6BD7582F,道具技能汉化
+1204,Code of the Burger King (Chinese Translation),Fan Modding,USA,unknown,Chinese,30C3CD7D,道具汉化
+1205,Sacred Contention (Chinese Translation),Fan Modding,USA,unknown,Chinese,EEE9A542,汉化先行版
+1206,Dream of Five (Chinese Translation),Fan Modding,USA,unknown,Chinese,03F21708,道具名汉化
+1207,黑魔王与光明少女 (Chinese Translation),Fan Modding,USA,unknown,Chinese,E569DE94,道具名汉化
+1208,Terror of the Forest (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,C79D1F6A,汉化体验版
+1209,Fire Emblem - Code of the Black Knights (Chinese Translation),Fan Modding,USA,unknown,Chinese,17DA2C4C,内置字库
+1210,佣兵公司 (Chinese Translation),Fan Modding,USA,unknown,Chinese,A44472EE,汉化至第八章

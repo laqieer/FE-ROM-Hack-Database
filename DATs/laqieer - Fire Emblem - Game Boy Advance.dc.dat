@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220519
+	Version: 20220528
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -204,8 +204,20 @@ game (
 	file ( name 562 - Bird Up! size 33511616 crc f1efdf9e )
 )
 game (
+	name "Bird Up! (Chinese Translation).zip"
+	file ( name 1197 - Bird Up! (Chinese Translation) size 33511616 crc 095a090d )
+)
+game (
 	name "Black Fang.zip"
 	file ( name 578 - Black Fang size 26121676 crc af92f7af )
+)
+game (
+	name "Black Fang (Chinese Translation).zip"
+	file ( name 1189 - Black Fang (Chinese Translation) size 27302164 crc 8427c4e7 )
+)
+game (
+	name "Black Fang (Chinese Translation) (Animation modified).zip"
+	file ( name 1190 - Black Fang (Chinese Translation) (Animation modified) size 27986932 crc e8467ad2 )
 )
 game (
 	name "Blackwing Struggle.zip"
@@ -330,6 +342,10 @@ game (
 game (
 	name "Code of the Burger King.zip"
 	file ( name 600 - Code of the Burger King size 28138512 crc e74b3929 )
+)
+game (
+	name "Code of the Burger King (Chinese Translation).zip"
+	file ( name 1204 - Code of the Burger King (Chinese Translation) size 29869432 crc 30c3cd7d )
 )
 game (
 	name "Colm's Big Heist.zip"
@@ -556,6 +572,10 @@ game (
 	file ( name 251 - Dream of Five size 22194508 crc 1cfe67cd )
 )
 game (
+	name "Dream of Five (Chinese Translation).zip"
+	file ( name 1206 - Dream of Five (Chinese Translation) size 22194504 crc 03f21708 )
+)
+game (
 	name "Dreams of Twilight.zip"
 	file ( name 486 - Dreams of Twilight size 19414472 crc 5b62c925 )
 )
@@ -674,6 +694,10 @@ game (
 game (
 	name "FE6 - Armor emblem (Triangle version).zip"
 	file ( name 998 - FE6 - Armor emblem (Triangle version) size 9405556 crc 515aea9a )
+)
+game (
+	name "FE6 - Yoder Route.zip"
+	file ( name 1184 - FE6 - Yoder Route size 9274148 crc 75c68ae7 )
 )
 game (
 	name "FE6 All Mounts.zip"
@@ -1585,6 +1609,10 @@ game (
 	file ( name 150 - Fire Emblem - Code of the Black Knights size 33016900 crc c666f8b1 )
 )
 game (
+	name "Fire Emblem - Code of the Black Knights (Chinese Translation).zip"
+	file ( name 1209 - Fire Emblem - Code of the Black Knights (Chinese Translation) size 33016900 crc 17da2c4c )
+)
+game (
 	name "Fire Emblem - Darkest Blade.zip"
 	file ( name 275 - Fire Emblem - Darkest Blade size 16827380 crc 138220f4 )
 )
@@ -1901,6 +1929,10 @@ game (
 	file ( name 239 - Flames of Redemption size 24536888 crc e1428e68 )
 )
 game (
+	name "Flames of Redemption (Chinese Translation).zip"
+	file ( name 1192 - Flames of Redemption (Chinese Translation) size 25079616 crc b9e5b6a0 )
+)
+game (
 	name "Flames of Redemption (supports unlocked).zip"
 	file ( name 240 - Flames of Redemption (supports unlocked) size 24536888 crc 0c835af0 )
 )
@@ -2053,6 +2085,14 @@ game (
 	file ( name 593 - Iron Emblem (altmenus) size 18033892 crc 8a037fa6 )
 )
 game (
+	name "Iron Emblem (Chinese Translation) (Hard).zip"
+	file ( name 1194 - Iron Emblem (Chinese Translation) (Hard) size 19450740 crc 682c8ae7 )
+)
+game (
+	name "Iron Emblem (Chinese Translation) (Normal).zip"
+	file ( name 1193 - Iron Emblem (Chinese Translation) (Normal) size 19469416 crc 42731471 )
+)
+game (
 	name "Iron Emblem (Hard Mode).zip"
 	file ( name 592 - Iron Emblem (Hard Mode) size 18035884 crc 37edc009 )
 )
@@ -2089,6 +2129,10 @@ game (
 	file ( name 475 - Justice & Pride Gaiden - Clash in Estria size 27248856 crc d625827c )
 )
 game (
+	name "Justice and Pride - Book 2 (Chinese Translation).zip"
+	file ( name 1201 - Justice and Pride - Book 2 (Chinese Translation) size 28139124 crc 7ab7c036 )
+)
+game (
 	name "Justice and Pride - Book 2.zip"
 	file ( name 272 - Justice and Pride - Book 2 size 22610380 crc d28f4951 )
 )
@@ -2102,11 +2146,11 @@ game (
 )
 game (
 	name "Kaitou.zip"
-	file ( name 179 - Kaitou size 33095268 crc b3674749 )
+	file ( name 179 - Kaitou size 33085792 crc 8605cc5a )
 )
 game (
 	name "Kaitou (English).zip"
-	file ( name 180 - Kaitou (English) size 33407680 crc 16d585b0 )
+	file ( name 180 - Kaitou (English) size 33401380 crc 103c7866 )
 )
 game (
 	name "Knoll’s Super Spooky Halloween Adventure.zip"
@@ -2685,6 +2729,10 @@ game (
 	file ( name 128 - Sacred Contention size 19125992 crc 34f11759 )
 )
 game (
+	name "Sacred Contention (Chinese Translation).zip"
+	file ( name 1205 - Sacred Contention (Chinese Translation) size 19287892 crc eee9a542 )
+)
+game (
 	name "Sacred Contention (DS Battle Background Mode).zip"
 	file ( name 129 - Sacred Contention (DS Battle Background Mode) size 20971520 crc 4fccb155 )
 )
@@ -2727,6 +2775,10 @@ game (
 game (
 	name "Sacred Texts.zip"
 	file ( name 465 - Sacred Texts size 18988976 crc 4b97c9be )
+)
+game (
+	name "Sacred Trilogy Final (Chinese Translation).zip"
+	file ( name 1202 - Sacred Trilogy Final (Chinese Translation) size 33274608 crc 6a46d845 )
 )
 game (
 	name "Sacred Trilogy Final -Full- Fixed Growths- No AI.zip"
@@ -2791,6 +2843,10 @@ game (
 game (
 	name "Scarlet Rising.zip"
 	file ( name 200 - Scarlet Rising size 20488132 crc 8c78f4a5 )
+)
+game (
+	name "Scarlet Rising (Chinese Translation).zip"
+	file ( name 1199 - Scarlet Rising (Chinese Translation) size 21646604 crc fe031447 )
 )
 game (
 	name "Scourge of Proxima.zip"
@@ -2985,6 +3041,10 @@ game (
 	file ( name 430 - Terror of the Forest size 27044204 crc 017b8028 )
 )
 game (
+	name "Terror of the Forest (Chinese Translation).zip"
+	file ( name 1208 - Terror of the Forest (Chinese Translation) size 27829440 crc c79d1f6a )
+)
+game (
 	name "The Akaneian Mafia.zip"
 	file ( name 656 - The Akaneian Mafia size 16777216 crc 33e27ba8 )
 )
@@ -3061,6 +3121,10 @@ game (
 	file ( name 201 - The Dark Hour size 26994984 crc 8575430f )
 )
 game (
+	name "The Dark Hour (Chinese Translation).zip"
+	file ( name 1200 - The Dark Hour (Chinese Translation) size 27951548 crc d5d5f452 )
+)
+game (
 	name "The Dark Hour (Hard Mode).zip"
 	file ( name 202 - The Dark Hour (Hard Mode) size 26995576 crc bfc8d218 )
 )
@@ -3123,6 +3187,10 @@ game (
 game (
 	name "The Four Kings (0% Growths).zip"
 	file ( name 206 - The Four Kings (0% Growths) size 28749664 crc b58a101f )
+)
+game (
+	name "The Four Kings (Chinese Translation).zip"
+	file ( name 1203 - The Four Kings (Chinese Translation) size 29587472 crc 6bd7582f )
 )
 game (
 	name "The Four Kings (Reverse Recruitment).zip"
@@ -3209,6 +3277,10 @@ game (
 	file ( name 989 - The Phantom King size 25644220 crc fa76f0c0 )
 )
 game (
+	name "The Phantom King (Chinese Translation).zip"
+	file ( name 1195 - The Phantom King (Chinese Translation) size 26387056 crc 67fb5bd5 )
+)
+game (
 	name "The Purge Of Weegee.zip"
 	file ( name 528 - The Purge Of Weegee size 21489848 crc 764e473f )
 )
@@ -3219,6 +3291,10 @@ game (
 game (
 	name "The Road to Ruin.zip"
 	file ( name 108 - The Road to Ruin size 21666336 crc 6522df69 )
+)
+game (
+	name "The Road to Ruin (Chinese Translation).zip"
+	file ( name 1191 - The Road to Ruin (Chinese Translation) size 23028984 crc 7c0877a4 )
 )
 game (
 	name "The Roots That Bind.zip"
@@ -3278,15 +3354,31 @@ game (
 )
 game (
 	name "The Sun God’s Wrath.zip"
-	file ( name 217 - The Sun God’s Wrath size 33007088 crc cc06a4ef )
+	file ( name 217 - The Sun God’s Wrath size 33007144 crc 566d7a9e )
 )
 game (
 	name "The Sun God’s Wrath (0 growth).zip"
-	file ( name 218 - The Sun God’s Wrath (0 growth) size 33007108 crc 7def8770 )
+	file ( name 218 - The Sun God’s Wrath (0 growth) size 33007164 crc 7e9a9639 )
+)
+game (
+	name "The Sun God’s Wrath (100 growth).zip"
+	file ( name 1185 - The Sun God’s Wrath (100 growth) size 33007144 crc ed079000 )
 )
 game (
 	name "The Sun God’s Wrath (Chinese Translation) (Item & Skill Only).zip"
 	file ( name 815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only) size 33531452 crc c5c281e7 )
+)
+game (
+	name "The Sun God’s Wrath (No Fatigue).zip"
+	file ( name 1186 - The Sun God’s Wrath (No Fatigue) size 33007144 crc 389d3567 )
+)
+game (
+	name "The Sun God’s Wrath (No Fatigue) (0 Growth).zip"
+	file ( name 1187 - The Sun God’s Wrath (No Fatigue) (0 Growth) size 33007164 crc 106ad9c0 )
+)
+game (
+	name "The Sun God’s Wrath (No Fatigue) (100 Growth).zip"
+	file ( name 1188 - The Sun God’s Wrath (No Fatigue) (100 Growth) size 33007144 crc 83f7dff9 )
 )
 game (
 	name "The Tavern Adventures.zip"
@@ -3314,7 +3406,7 @@ game (
 )
 game (
 	name "Tierra Maldita.zip"
-	file ( name 987 - Tierra Maldita size 17572088 crc 76de4b78 )
+	file ( name 987 - Tierra Maldita size 17893384 crc 645bdefe )
 )
 game (
 	name "Tirado Emblem.zip"
@@ -3335,6 +3427,10 @@ game (
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.zip"
 	file ( name 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin size 22807804 crc 1b8b59c0 )
+)
+game (
+	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation).zip"
+	file ( name 1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation) size 23808684 crc 87c8bc28 )
 )
 game (
 	name "Tower Defense.zip"
@@ -3559,6 +3655,10 @@ game (
 game (
 	name "主角大联盟超高难度.zip"
 	file ( name 889 - 主角大联盟超高难度 size 27557216 crc 0975e53d )
+)
+game (
+	name "佣兵公司 (Chinese Translation).zip"
+	file ( name 1210 - 佣兵公司 (Chinese Translation) size 25073560 crc a44472ee )
 )
 game (
 	name "僵尸道长.zip"
@@ -4013,6 +4113,10 @@ game (
 	file ( name 806 - 暗黑の黎明 size 24837392 crc a387b295 )
 )
 game (
+	name "曼斯地牢 (Chinese Translation).zip"
+	file ( name 1198 - 曼斯地牢 (Chinese Translation) size 20754792 crc 96dae677 )
+)
+game (
 	name "最帅修改 圣魔新地图.zip"
 	file ( name 951 - 最帅修改 圣魔新地图 size 16777216 crc 24eadfef )
 )
@@ -4074,7 +4178,7 @@ game (
 )
 game (
 	name "流浪公主.zip"
-	file ( name 858 - 流浪公主 size 29583392 crc c5707104 )
+	file ( name 858 - 流浪公主 size 31608972 crc adc3bd5c )
 )
 game (
 	name "火焰纹章 挑战0.1地狱模式.zip"
@@ -4455,4 +4559,8 @@ game (
 game (
 	name "黑暗轮回者-007优化简单版.zip"
 	file ( name 854 - 黑暗轮回者-007优化简单版 size 32270164 crc 48d59dbf )
+)
+game (
+	name "黑魔王与光明少女 (Chinese Translation).zip"
+	file ( name 1207 - 黑魔王与光明少女 (Chinese Translation) size 24109016 crc e569de94 )
 )

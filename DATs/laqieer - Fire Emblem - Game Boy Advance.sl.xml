@@ -393,11 +393,35 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Bird Up! (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1197 - Bird Up! (Chinese Translation)" size="33511616" crc="095a090d" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Black Fang">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="578 - Black Fang" size="26121676" crc="af92f7af" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Black Fang (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1189 - Black Fang (Chinese Translation)" size="27302164" crc="8427c4e7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Black Fang (Chinese Translation) (Animation modified)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1190 - Black Fang (Chinese Translation) (Animation modified)" size="27986932" crc="e8467ad2" />
 			</dataarea>
 		</part>
 	</software>
@@ -646,6 +670,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="600 - Code of the Burger King" size="28138512" crc="e74b3929" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Code of the Burger King (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1204 - Code of the Burger King (Chinese Translation)" size="29869432" crc="30c3cd7d" />
 			</dataarea>
 		</part>
 	</software>
@@ -1097,6 +1129,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Dream of Five (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1206 - Dream of Five (Chinese Translation)" size="22194504" crc="03f21708" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Dreams of Twilight">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -1334,6 +1374,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="998 - FE6 - Armor emblem (Triangle version)" size="9405556" crc="515aea9a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 - Yoder Route">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1184 - FE6 - Yoder Route" size="9274148" crc="75c68ae7" />
 			</dataarea>
 		</part>
 	</software>
@@ -3158,6 +3206,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - Code of the Black Knights (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)" size="33016900" crc="17da2c4c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - Darkest Blade">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3790,6 +3846,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Flames of Redemption (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1192 - Flames of Redemption (Chinese Translation)" size="25079616" crc="b9e5b6a0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Flames of Redemption (supports unlocked)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4094,6 +4158,22 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Iron Emblem (Chinese Translation) (Hard)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1194 - Iron Emblem (Chinese Translation) (Hard)" size="19450740" crc="682c8ae7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Iron Emblem (Chinese Translation) (Normal)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1193 - Iron Emblem (Chinese Translation) (Normal)" size="19469416" crc="42731471" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Iron Emblem (Hard Mode)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4166,6 +4246,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Justice and Pride - Book 2 (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1201 - Justice and Pride - Book 2 (Chinese Translation)" size="28139124" crc="7ab7c036" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Justice and Pride - Book 2">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4194,7 +4282,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
+				<rom name="179 - Kaitou" size="33085792" crc="8605cc5a" />
 			</dataarea>
 		</part>
 	</software>
@@ -4202,7 +4290,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
+				<rom name="180 - Kaitou (English)" size="33401380" crc="103c7866" />
 			</dataarea>
 		</part>
 	</software>
@@ -5358,6 +5446,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Sacred Contention (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1205 - Sacred Contention (Chinese Translation)" size="19287892" crc="eee9a542" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Sacred Contention (DS Battle Background Mode)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -5443,6 +5539,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Sacred Trilogy Final (Chinese Translation)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1202 - Sacred Trilogy Final (Chinese Translation)" size="33274608" crc="6a46d845" />
 			</dataarea>
 		</part>
 	</software>
@@ -5571,6 +5675,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Scarlet Rising (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1199 - Scarlet Rising (Chinese Translation)" size="21646604" crc="fe031447" />
 			</dataarea>
 		</part>
 	</software>
@@ -5958,6 +6070,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Terror of the Forest (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Akaneian Mafia">
 		<publisher>MAFC</publisher>
 		<part name="" interface="">
@@ -6110,6 +6230,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Dark Hour (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Dark Hour (Hard Mode)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -6235,6 +6363,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="206 - The Four Kings (0% Growths)" size="28749664" crc="b58a101f" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Four Kings (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1203 - The Four Kings (Chinese Translation)" size="29587472" crc="6bd7582f" />
 			</dataarea>
 		</part>
 	</software>
@@ -6406,6 +6542,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="The Phantom King (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1195 - The Phantom King (Chinese Translation)" size="26387056" crc="67fb5bd5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="The Purge Of Weegee">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -6427,6 +6571,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Road to Ruin (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1191 - The Road to Ruin (Chinese Translation)" size="23028984" crc="7c0877a4" />
 			</dataarea>
 		</part>
 	</software>
@@ -6546,7 +6698,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="217 - The Sun God’s Wrath" size="33007088" crc="cc06a4ef" />
+				<rom name="217 - The Sun God’s Wrath" size="33007144" crc="566d7a9e" />
 			</dataarea>
 		</part>
 	</software>
@@ -6554,7 +6706,15 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+				<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007164" crc="7e9a9639" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (100 growth)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1185 - The Sun God’s Wrath (100 growth)" size="33007144" crc="ed079000" />
 			</dataarea>
 		</part>
 	</software>
@@ -6563,6 +6723,30 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)" size="33531452" crc="c5c281e7" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (No Fatigue)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1186 - The Sun God’s Wrath (No Fatigue)" size="33007144" crc="389d3567" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (No Fatigue) (0 Growth)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)" size="33007164" crc="106ad9c0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The Sun God’s Wrath (No Fatigue) (100 Growth)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)" size="33007144" crc="83f7dff9" />
 			</dataarea>
 		</part>
 	</software>
@@ -6618,7 +6802,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
+				<rom name="987 - Tierra Maldita" size="17893384" crc="645bdefe" />
 			</dataarea>
 		</part>
 	</software>
@@ -6659,6 +6843,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)" size="23808684" crc="87c8bc28" />
 			</dataarea>
 		</part>
 	</software>
@@ -7107,6 +7299,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="889 - 主角大联盟超高难度" size="27557216" crc="0975e53d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="佣兵公司 (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1210 - 佣兵公司 (Chinese Translation)" size="25073560" crc="a44472ee" />
 			</dataarea>
 		</part>
 	</software>
@@ -8014,6 +8214,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="曼斯地牢 (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1198 - 曼斯地牢 (Chinese Translation)" size="20754792" crc="96dae677" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="最帅修改 圣魔新地图">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -8138,7 +8346,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="858 - 流浪公主" size="29583392" crc="c5707104" />
+				<rom name="858 - 流浪公主" size="31608972" crc="adc3bd5c" />
 			</dataarea>
 		</part>
 	</software>
@@ -8899,6 +9107,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="854 - 黑暗轮回者-007优化简单版" size="32270164" crc="48d59dbf" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="黑魔王与光明少女 (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1207 - 黑魔王与光明少女 (Chinese Translation)" size="24109016" crc="e569de94" />
 			</dataarea>
 		</part>
 	</software>

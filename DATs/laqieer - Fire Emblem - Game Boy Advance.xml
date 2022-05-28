@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220519</version>
+		<version>20220528</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -22,7 +22,7 @@
 		<rom name="853 - 0的逆圣魔" size="20252024" crc="077d94bb" />
 	</machine>
 	<machine name="2 Princesses (English Translation)">
-		<comment>https://feuniverse.us/t/fe-2-princesses-english-translation/8380</comment>
+		<comment>https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
@@ -254,10 +254,25 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="562 - Bird Up!" size="33511616" crc="f1efdf9e" />
 	</machine>
+	<machine name="Bird Up! (Chinese Translation)">
+		<comment>汉化1.3</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1197 - Bird Up! (Chinese Translation)" size="33511616" crc="095a090d" />
+	</machine>
 	<machine name="Black Fang">
 		<comment>https://feuniverse.us/t/fire-emblem-black-fang/10446</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="578 - Black Fang" size="26121676" crc="af92f7af" />
+	</machine>
+	<machine name="Black Fang (Chinese Translation)">
+		<comment>https://fecosmos.xyz/d/52-black-fang</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1189 - Black Fang (Chinese Translation)" size="27302164" crc="8427c4e7" />
+	</machine>
+	<machine name="Black Fang (Chinese Translation) (Animation modified)">
+		<comment>https://fecosmos.xyz/d/52-black-fang</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1190 - Black Fang (Chinese Translation) (Animation modified)" size="27986932" crc="e8467ad2" />
 	</machine>
 	<machine name="Blackwing Struggle">
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-blackwing-struggle-technically-dead/6007</comment>
@@ -413,6 +428,11 @@
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="600 - Code of the Burger King" size="28138512" crc="e74b3929" />
+	</machine>
+	<machine name="Code of the Burger King (Chinese Translation)">
+		<comment>道具汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1204 - Code of the Burger King (Chinese Translation)" size="29869432" crc="30c3cd7d" />
 	</machine>
 	<machine name="Colm's Big Heist">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -693,6 +713,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="251 - Dream of Five" size="22194508" crc="1cfe67cd" />
 	</machine>
+	<machine name="Dream of Five (Chinese Translation)">
+		<comment>道具名汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1206 - Dream of Five (Chinese Translation)" size="22194504" crc="03f21708" />
+	</machine>
 	<machine name="Dreams of Twilight">
 		<comment>https://feuniverse.us/t/fire-emblem-dreams-of-twilight-gameplay-focused-fe8-hack/7489</comment>
 		<publisher>Fan Modding</publisher>
@@ -840,6 +865,11 @@
 		<comment>https://feuniverse.us/t/fe6-armor-emblem/11660</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="998 - FE6 - Armor emblem (Triangle version)" size="9405556" crc="515aea9a" />
+	</machine>
+	<machine name="FE6 - Yoder Route">
+		<comment>https://feuniverse.us/t/fe6-fire-emblem-6-yoder-route/16268</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1184 - FE6 - Yoder Route" size="9274148" crc="75c68ae7" />
 	</machine>
 	<machine name="FE6 All Mounts">
 		<comment>https://feuniverse.us/t/fe6-all-mounts/6313</comment>
@@ -1945,6 +1975,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="150 - Fire Emblem - Code of the Black Knights" size="33016900" crc="c666f8b1" />
 	</machine>
+	<machine name="Fire Emblem - Code of the Black Knights (Chinese Translation)">
+		<comment>内置字库</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)" size="33016900" crc="17da2c4c" />
+	</machine>
 	<machine name="Fire Emblem - Darkest Blade">
 		<comment>https://feuniverse.us/t/fire-emblem-darkest-blade/3914</comment>
 		<publisher>Fan Modding</publisher>
@@ -2337,6 +2372,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="239 - Flames of Redemption" size="24536888" crc="e1428e68" />
 	</machine>
+	<machine name="Flames of Redemption (Chinese Translation)">
+		<comment>救赎的火焰V1.0.3完全汉化版</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1192 - Flames of Redemption (Chinese Translation)" size="25079616" crc="b9e5b6a0" />
+	</machine>
 	<machine name="Flames of Redemption (supports unlocked)">
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-flames-of-redemption-full-length-hack-ver-1-0-3-out/9237</comment>
 		<publisher>Fan Modding</publisher>
@@ -2526,6 +2566,16 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="593 - Iron Emblem (altmenus)" size="18033892" crc="8a037fa6" />
 	</machine>
+	<machine name="Iron Emblem (Chinese Translation) (Hard)">
+		<comment>钢铁纹章v1.2双版本完全汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1194 - Iron Emblem (Chinese Translation) (Hard)" size="19450740" crc="682c8ae7" />
+	</machine>
+	<machine name="Iron Emblem (Chinese Translation) (Normal)">
+		<comment>钢铁纹章v1.2双版本完全汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1193 - Iron Emblem (Chinese Translation) (Normal)" size="19469416" crc="42731471" />
+	</machine>
 	<machine name="Iron Emblem (Hard Mode)">
 		<comment>https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539</comment>
 		<publisher>Fan Modding</publisher>
@@ -2571,6 +2621,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
 	</machine>
+	<machine name="Justice and Pride - Book 2 (Chinese Translation)">
+		<comment>道具汉化版</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1201 - Justice and Pride - Book 2 (Chinese Translation)" size="28139124" crc="7ab7c036" />
+	</machine>
 	<machine name="Justice and Pride - Book 2">
 		<comment>https://feuniverse.us/t/fe8-justice-pride-book-2-cancelled/6975</comment>
 		<publisher>Fan Modding</publisher>
@@ -2589,12 +2644,12 @@
 	<machine name="Kaitou">
 		<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="179 - Kaitou" size="33095268" crc="b3674749" />
+		<rom name="179 - Kaitou" size="33085792" crc="8605cc5a" />
 	</machine>
 	<machine name="Kaitou (English)">
 		<comment>https://feuniverse.us/t/fe8-kaitou-patch/2984</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="180 - Kaitou (English)" size="33407680" crc="16d585b0" />
+		<rom name="180 - Kaitou (English)" size="33401380" crc="103c7866" />
 	</machine>
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<comment>https://feuniverse.us/t/knolls-super-spooky-halloween-adventure/4500</comment>
@@ -3313,6 +3368,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="128 - Sacred Contention" size="19125992" crc="34f11759" />
 	</machine>
+	<machine name="Sacred Contention (Chinese Translation)">
+		<comment>汉化先行版</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1205 - Sacred Contention (Chinese Translation)" size="19287892" crc="eee9a542" />
+	</machine>
 	<machine name="Sacred Contention (DS Battle Background Mode)">
 		<comment>https://forums.serenesforest.net/index.php?/topic/21163-fire-emblem-sacred-contention/</comment>
 		<publisher>Fan Modding</publisher>
@@ -3367,6 +3427,11 @@
 		<comment>https://forums.serenesforest.net/index.php?/topic/86760-fe-sacred-texts/</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="465 - Sacred Texts" size="18988976" crc="4b97c9be" />
+	</machine>
+	<machine name="Sacred Trilogy Final (Chinese Translation)">
+		<comment>道具技能汉化</comment>
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1202 - Sacred Trilogy Final (Chinese Translation)" size="33274608" crc="6a46d845" />
 	</machine>
 	<machine name="Sacred Trilogy Final -Full- Fixed Growths- No AI">
 		<comment>https://feuniverse.us/t/fe8-100-completed-the-sacred-trilogy-reskin-and-rebalance/5359</comment>
@@ -3447,6 +3512,10 @@
 		<comment>https://feuniverse.us/t/complete-fe8-scarlet-rising/7890</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="200 - Scarlet Rising" size="20488132" crc="8c78f4a5" />
+	</machine>
+	<machine name="Scarlet Rising (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<rom name="1199 - Scarlet Rising (Chinese Translation)" size="21646604" crc="fe031447" />
 	</machine>
 	<machine name="Scourge of Proxima">
 		<comment>https://feuniverse.us/t/fire-emblem-scourge-of-proxima/5652</comment>
@@ -3688,6 +3757,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
+	<machine name="Terror of the Forest (Chinese Translation)">
+		<comment>汉化体验版</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+	</machine>
 	<machine name="The Akaneian Mafia">
 		<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
 		<publisher>MAFC</publisher>
@@ -3781,6 +3855,10 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="201 - The Dark Hour" size="26994984" crc="8575430f" />
 	</machine>
+	<machine name="The Dark Hour (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+	</machine>
 	<machine name="The Dark Hour (Hard Mode)">
 		<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>
 		<publisher>Fan Modding</publisher>
@@ -3860,6 +3938,11 @@
 		<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="206 - The Four Kings (0% Growths)" size="28749664" crc="b58a101f" />
+	</machine>
+	<machine name="The Four Kings (Chinese Translation)">
+		<comment>道具技能汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1203 - The Four Kings (Chinese Translation)" size="29587472" crc="6bd7582f" />
 	</machine>
 	<machine name="The Four Kings (Reverse Recruitment)">
 		<comment>https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030</comment>
@@ -3965,6 +4048,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="989 - The Phantom King" size="25644220" crc="fa76f0c0" />
 	</machine>
+	<machine name="The Phantom King (Chinese Translation)">
+		<comment>道具+人物+职业+基本菜单汉化，剧情无汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1195 - The Phantom King (Chinese Translation)" size="26387056" crc="67fb5bd5" />
+	</machine>
 	<machine name="The Purge Of Weegee">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
 		<publisher>Ragefest</publisher>
@@ -3979,6 +4067,11 @@
 		<comment>https://feuniverse.us/t/the-road-to-ruin/276</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="108 - The Road to Ruin" size="21666336" crc="6522df69" />
+	</machine>
+	<machine name="The Road to Ruin (Chinese Translation)">
+		<comment>https://fecosmos.xyz/d/53-the-road-to-ruin</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1191 - The Road to Ruin (Chinese Translation)" size="23028984" crc="7c0877a4" />
 	</machine>
 	<machine name="The Roots That Bind">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -4051,19 +4144,39 @@
 		<rom name="1003 - The Seven Keys" size="21411712" crc="66c28210" />
 	</machine>
 	<machine name="The Sun God’s Wrath">
-		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-v1-66-27-chapters-1-2-2022/6207</comment>
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="217 - The Sun God’s Wrath" size="33007088" crc="cc06a4ef" />
+		<rom name="217 - The Sun God’s Wrath" size="33007144" crc="566d7a9e" />
 	</machine>
 	<machine name="The Sun God’s Wrath (0 growth)">
-		<comment>https://serenesforest.net/forums/index.php?/topic/53190-fe8-hack-the-sun-gods-wrath-v12-release-update-popularity-poll-added/</comment>
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007108" crc="7def8770" />
+		<rom name="218 - The Sun God’s Wrath (0 growth)" size="33007164" crc="7e9a9639" />
+	</machine>
+	<machine name="The Sun God’s Wrath (100 growth)">
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1185 - The Sun God’s Wrath (100 growth)" size="33007144" crc="ed079000" />
 	</machine>
 	<machine name="The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)">
 		<comment>太阳神v1.64道具技能汉化</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="815 - The Sun God’s Wrath (Chinese Translation) (Item &amp; Skill Only)" size="33531452" crc="c5c281e7" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue)">
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1186 - The Sun God’s Wrath (No Fatigue)" size="33007144" crc="389d3567" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue) (0 Growth)">
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)" size="33007164" crc="106ad9c0" />
+	</machine>
+	<machine name="The Sun God’s Wrath (No Fatigue) (100 Growth)">
+		<comment>https://feuniverse.us/t/fe8-complete-the-sun-gods-wrath-final-release-27-chapters-no-fatigue-100-growth-now-added-5-22-2022/6207</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)" size="33007144" crc="83f7dff9" />
 	</machine>
 	<machine name="The Tavern Adventures">
 		<comment>https://feuniverse.us/t/the-tavern-adventures-3-30-chapters-done/14649</comment>
@@ -4096,9 +4209,9 @@
 		<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
 	</machine>
 	<machine name="Tierra Maldita">
-		<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-1-1-ch-1-released/15500</comment>
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="987 - Tierra Maldita" size="17572088" crc="76de4b78" />
+		<rom name="987 - Tierra Maldita" size="17893384" crc="645bdefe" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<comment>https://feuniverse.us/t/tirado-emblem-demo/3630</comment>
@@ -4124,6 +4237,11 @@
 		<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+	</machine>
+	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)">
+		<comment>道具技能汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)" size="23808684" crc="87c8bc28" />
 	</machine>
 	<machine name="Tower Defense">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -4393,6 +4511,11 @@
 	<machine name="主角大联盟超高难度">
 		<publisher>Fan Modding</publisher>
 		<rom name="889 - 主角大联盟超高难度" size="27557216" crc="0975e53d" />
+	</machine>
+	<machine name="佣兵公司 (Chinese Translation)">
+		<comment>汉化至第八章</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1210 - 佣兵公司 (Chinese Translation)" size="25073560" crc="a44472ee" />
 	</machine>
 	<machine name="僵尸道长">
 		<comment>200406</comment>
@@ -4883,6 +5006,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="806 - 暗黑の黎明" size="24837392" crc="a387b295" />
 	</machine>
+	<machine name="曼斯地牢 (Chinese Translation)">
+		<comment>1.0</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1198 - 曼斯地牢 (Chinese Translation)" size="20754792" crc="96dae677" />
+	</machine>
 	<machine name="最帅修改 圣魔新地图">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="951 - 最帅修改 圣魔新地图" size="16777216" crc="24eadfef" />
@@ -4946,9 +5074,9 @@
 		<rom name="986 - 死灵复生" size="16778240" crc="a5c39099" />
 	</machine>
 	<machine name="流浪公主">
-		<comment>15章阉割完结版</comment>
+		<comment>完结版</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="858 - 流浪公主" size="29583392" crc="c5707104" />
+		<rom name="858 - 流浪公主" size="31608972" crc="adc3bd5c" />
 	</machine>
 	<machine name="火焰纹章 挑战0.1地狱模式">
 		<publisher>Fan Modding</publisher>
@@ -5359,5 +5487,10 @@
 	<machine name="黑暗轮回者-007优化简单版">
 		<publisher>Fan Modding</publisher>
 		<rom name="854 - 黑暗轮回者-007优化简单版" size="32270164" crc="48d59dbf" />
+	</machine>
+	<machine name="黑魔王与光明少女 (Chinese Translation)">
+		<comment>道具名汉化</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1207 - 黑魔王与光明少女 (Chinese Translation)" size="24109016" crc="e569de94" />
 	</machine>
 </datafile>

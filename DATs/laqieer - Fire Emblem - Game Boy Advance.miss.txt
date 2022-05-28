@@ -47,7 +47,10 @@
 1140 - Binding Blade - Lyn Mode
 280 - Binks Emblem
 562 - Bird Up!
+1197 - Bird Up! (Chinese Translation)
 578 - Black Fang
+1189 - Black Fang (Chinese Translation)
+1190 - Black Fang (Chinese Translation) (Animation modified)
 429 - Blackwing Struggle
 1107 - Blade Of Grief
 657 - Blades of the Blood Dunes
@@ -79,6 +82,7 @@
 939 - Clash of Fates
 645 - Clendo's 1h Blitz - Faltharian Heist
 600 - Code of the Burger King
+1204 - Code of the Burger King (Chinese Translation)
 536 - Colm's Big Heist
 355 - Communist Emblem 2 - Venezuela
 582 - Community Blitz 5 - Redemption
@@ -135,6 +139,7 @@
 649 - Down to my Level
 495 - Dragon of Apocalypse
 251 - Dream of Five
+1206 - Dream of Five (Chinese Translation)
 486 - Dreams of Twilight
 573 - Dual Fates
 498 - Duo Geno Escapo
@@ -165,6 +170,7 @@
 996 - FE6 - Armor emblem (Heroes version)
 997 - FE6 - Armor emblem (Knightlier version)
 998 - FE6 - Armor emblem (Triangle version)
+1184 - FE6 - Yoder Route
 297 - FE6 All Mounts
 1156 - FE6 assassin class
 597 - FE6 Boss Recruitment
@@ -393,6 +399,7 @@
 123 - Fire Emblem - Barhara Revisited
 1018 - Fire Emblem - BR [MOBA-Style]
 150 - Fire Emblem - Code of the Black Knights
+1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)
 275 - Fire Emblem - Darkest Blade
 122 - Fire Emblem - Different Dimensions Ostian Princess 2
 277 - Fire Emblem - Dust to Dust
@@ -472,6 +479,7 @@
 678 - Flame Seal - The Knight of Light
 459 - Flames of Freedom
 239 - Flames of Redemption
+1192 - Flames of Redemption (Chinese Translation)
 240 - Flames of Redemption (supports unlocked)
 1012 - Flier Emblem - Return of the Circle
 1103 - Forde Emblem
@@ -510,6 +518,8 @@
 411 - Inheritors of the Crusade
 591 - Iron Emblem
 593 - Iron Emblem (altmenus)
+1194 - Iron Emblem (Chinese Translation) (Hard)
+1193 - Iron Emblem (Chinese Translation) (Normal)
 592 - Iron Emblem (Hard Mode)
 237 - Isekai Emblem
 605 - jellyunicorn's Two Hour Blitz - bungus badventure
@@ -519,6 +529,7 @@
 268 - Jugdral Saga
 529 - Julius's Revenge
 475 - Justice & Pride Gaiden - Clash in Estria
+1201 - Justice and Pride - Book 2 (Chinese Translation)
 272 - Justice and Pride - Book 2
 1034 - Kaga Emblem (English)
 1035 - Kaga Emblem (Spanish)
@@ -668,6 +679,7 @@
 634 - Runa's 1h Blitz - jon does a thing
 632 - S
 128 - Sacred Contention
+1205 - Sacred Contention (Chinese Translation)
 129 - Sacred Contention (DS Battle Background Mode)
 130 - Sacred Contention (E-Rank Mode)
 131 - Sacred Contention (No Supports Mode)
@@ -679,6 +691,7 @@
 398 - Sacred Stones Death Difficulty
 1063 - Sacred Stones Master Quest
 465 - Sacred Texts
+1202 - Sacred Trilogy Final (Chinese Translation)
 358 - Sacred Trilogy Final -Full- Fixed Growths- No AI
 359 - Sacred Trilogy Final -Full- Fixed Growths- With AI
 356 - Sacred Trilogy Final -Full- Random Growths- No AI
@@ -695,6 +708,7 @@
 1137 - Saviors of Thracia PME
 1138 - Saviors of Thracia PME (Double Growths)
 200 - Scarlet Rising
+1199 - Scarlet Rising (Chinese Translation)
 431 - Scourge of Proxima
 586 - Sea and Sky
 439 - Sealed in Light
@@ -743,6 +757,7 @@
 680 - Tambo MAFC DD
 566 - Temple of Ardesia
 430 - Terror of the Forest
+1208 - Terror of the Forest (Chinese Translation)
 656 - The Akaneian Mafia
 1066 - The Ancient Swords
 1095 - The Art of War
@@ -762,6 +777,7 @@
 512 - The Corruption Of Roy
 677 - The Cult
 201 - The Dark Hour
+1200 - The Dark Hour (Chinese Translation)
 202 - The Dark Hour (Hard Mode)
 1090 - The Divine Campaign
 416 - The Divine Twins’ War
@@ -778,6 +794,7 @@
 1056 - The Forgotten Realm
 205 - The Four Kings
 206 - The Four Kings (0% Growths)
+1203 - The Four Kings (Chinese Translation)
 207 - The Four Kings (Reverse Recruitment)
 441 - The Golden Kingdom
 103 - The Last Promise
@@ -799,9 +816,11 @@
 437 - The Mask of Dunham
 448 - The Nameless Heroes (English Translation)
 989 - The Phantom King
+1195 - The Phantom King (Chinese Translation)
 528 - The Purge Of Weegee
 408 - The Queen’s Lament
 108 - The Road to Ruin
+1191 - The Road to Ruin (Chinese Translation)
 531 - The Roots That Bind
 185 - The Sacred Chairs
 187 - The Sacred Chairs (0% Growths Version)
@@ -818,7 +837,11 @@
 1003 - The Seven Keys
 217 - The Sun God’s Wrath
 218 - The Sun God’s Wrath (0 growth)
+1185 - The Sun God’s Wrath (100 growth)
 815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)
+1186 - The Sun God’s Wrath (No Fatigue)
+1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)
+1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)
 627 - The Tavern Adventures
 652 - The Teq Demo
 1125 - The Vanilla but not 100% vanilla blitz
@@ -831,6 +854,7 @@
 1053 - TLP with Updated Animations
 402 - Touhou Emblem 8 - The Sacred Shrines
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
+1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)
 515 - Tower Defense
 991 - Trainee Emblem 8
 1004 - Transcending Darkness
@@ -887,6 +911,7 @@
 863 - 主角大联盟
 888 - 主角大联盟完结版
 889 - 主角大联盟超高难度
+1210 - 佣兵公司 (Chinese Translation)
 886 - 僵尸道长
 874 - 光明的救赎
 753 - 六写封神
@@ -1000,6 +1025,7 @@
 866 - 暗之彼方
 783 - 暗之魔女
 806 - 暗黑の黎明
+1198 - 曼斯地牢 (Chinese Translation)
 951 - 最帅修改 圣魔新地图
 950 - 最帅出品 圣邪地狱篇
 934 - 最帅改版 封印无敌篇
@@ -1111,3 +1137,4 @@
 785 - 黑暗的指引
 855 - 黑暗轮回者-006最终版
 854 - 黑暗轮回者-007优化简单版
+1207 - 黑魔王与光明少女 (Chinese Translation)

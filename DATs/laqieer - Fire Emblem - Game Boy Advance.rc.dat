@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220519
+version=20220528
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -60,7 +60,10 @@ version=Fire Emblem ROM hacks
 ¬¬¬Binding Blade - Lyn Mode¬Binding Blade - Lyn Mode¬1140 - Binding Blade - Lyn Mode¬ac21f6d2¬16777216¬¬¬
 ¬¬¬Binks Emblem¬Binks Emblem¬280 - Binks Emblem¬4cc97f98¬16777216¬¬¬
 ¬¬¬Bird Up!¬Bird Up!¬562 - Bird Up!¬f1efdf9e¬33511616¬¬¬
+¬¬¬Bird Up! (Chinese Translation)¬Bird Up! (Chinese Translation)¬1197 - Bird Up! (Chinese Translation)¬095a090d¬33511616¬¬¬
 ¬¬¬Black Fang¬Black Fang¬578 - Black Fang¬af92f7af¬26121676¬¬¬
+¬¬¬Black Fang (Chinese Translation)¬Black Fang (Chinese Translation)¬1189 - Black Fang (Chinese Translation)¬8427c4e7¬27302164¬¬¬
+¬¬¬Black Fang (Chinese Translation) (Animation modified)¬Black Fang (Chinese Translation) (Animation modified)¬1190 - Black Fang (Chinese Translation) (Animation modified)¬e8467ad2¬27986932¬¬¬
 ¬¬¬Blackwing Struggle¬Blackwing Struggle¬429 - Blackwing Struggle¬ee781f1e¬17622632¬¬¬
 ¬¬¬Blade Of Grief¬Blade Of Grief¬1107 - Blade Of Grief¬a92f1a7b¬26812436¬¬¬
 ¬¬¬Blades of the Blood Dunes¬Blades of the Blood Dunes¬657 - Blades of the Blood Dunes¬4468049f¬18265128¬¬¬
@@ -92,6 +95,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Clash of Fates¬Clash of Fates¬939 - Clash of Fates¬1637f575¬16832828¬¬¬
 ¬¬¬Clendo's 1h Blitz - Faltharian Heist¬Clendo's 1h Blitz - Faltharian Heist¬645 - Clendo's 1h Blitz - Faltharian Heist¬5ec26df2¬16889240¬¬¬
 ¬¬¬Code of the Burger King¬Code of the Burger King¬600 - Code of the Burger King¬e74b3929¬28138512¬¬¬
+¬¬¬Code of the Burger King (Chinese Translation)¬Code of the Burger King (Chinese Translation)¬1204 - Code of the Burger King (Chinese Translation)¬30c3cd7d¬29869432¬¬¬
 ¬¬¬Colm's Big Heist¬Colm's Big Heist¬536 - Colm's Big Heist¬34f20e9d¬16777216¬¬¬
 ¬¬¬Communist Emblem 2 - Venezuela¬Communist Emblem 2 - Venezuela¬355 - Communist Emblem 2 - Venezuela¬9948f176¬17175216¬¬¬
 ¬¬¬Community Blitz 5 - Redemption¬Community Blitz 5 - Redemption¬582 - Community Blitz 5 - Redemption¬9f4971ec¬18356832¬¬¬
@@ -148,6 +152,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Down to my Level¬Down to my Level¬649 - Down to my Level¬760542af¬16777216¬¬¬
 ¬¬¬Dragon of Apocalypse¬Dragon of Apocalypse¬495 - Dragon of Apocalypse¬7f7d1a56¬17889200¬¬¬
 ¬¬¬Dream of Five¬Dream of Five¬251 - Dream of Five¬1cfe67cd¬22194508¬¬¬
+¬¬¬Dream of Five (Chinese Translation)¬Dream of Five (Chinese Translation)¬1206 - Dream of Five (Chinese Translation)¬03f21708¬22194504¬¬¬
 ¬¬¬Dreams of Twilight¬Dreams of Twilight¬486 - Dreams of Twilight¬5b62c925¬19414472¬¬¬
 ¬¬¬Dual Fates¬Dual Fates¬573 - Dual Fates¬d3037fdb¬16777216¬¬¬
 ¬¬¬Duo Geno Escapo¬Duo Geno Escapo¬498 - Duo Geno Escapo¬a67b6e72¬21952160¬¬¬
@@ -178,6 +183,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE6 - Armor emblem (Heroes version)¬FE6 - Armor emblem (Heroes version)¬996 - FE6 - Armor emblem (Heroes version)¬c3ed353b¬9405556¬¬¬
 ¬¬¬FE6 - Armor emblem (Knightlier version)¬FE6 - Armor emblem (Knightlier version)¬997 - FE6 - Armor emblem (Knightlier version)¬4ded7c5b¬9405556¬¬¬
 ¬¬¬FE6 - Armor emblem (Triangle version)¬FE6 - Armor emblem (Triangle version)¬998 - FE6 - Armor emblem (Triangle version)¬515aea9a¬9405556¬¬¬
+¬¬¬FE6 - Yoder Route¬FE6 - Yoder Route¬1184 - FE6 - Yoder Route¬75c68ae7¬9274148¬¬¬
 ¬¬¬FE6 All Mounts¬FE6 All Mounts¬297 - FE6 All Mounts¬cc905927¬16777532¬¬¬
 ¬¬¬FE6 assassin class¬FE6 assassin class¬1156 - FE6 assassin class¬3e59baad¬16777216¬¬¬
 ¬¬¬FE6 Boss Recruitment¬FE6 Boss Recruitment¬597 - FE6 Boss Recruitment¬e3a4cd1e¬16777532¬¬¬
@@ -406,6 +412,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Fire Emblem - Barhara Revisited¬Fire Emblem - Barhara Revisited¬123 - Fire Emblem - Barhara Revisited¬15482be6¬17529372¬¬¬
 ¬¬¬Fire Emblem - BR [MOBA-Style]¬Fire Emblem - BR [MOBA-Style]¬1018 - Fire Emblem - BR [MOBA-Style]¬dbb71db1¬19957120¬¬¬
 ¬¬¬Fire Emblem - Code of the Black Knights¬Fire Emblem - Code of the Black Knights¬150 - Fire Emblem - Code of the Black Knights¬c666f8b1¬33016900¬¬¬
+¬¬¬Fire Emblem - Code of the Black Knights (Chinese Translation)¬Fire Emblem - Code of the Black Knights (Chinese Translation)¬1209 - Fire Emblem - Code of the Black Knights (Chinese Translation)¬17da2c4c¬33016900¬¬¬
 ¬¬¬Fire Emblem - Darkest Blade¬Fire Emblem - Darkest Blade¬275 - Fire Emblem - Darkest Blade¬138220f4¬16827380¬¬¬
 ¬¬¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬Fire Emblem - Different Dimensions Ostian Princess 2.0¬122 - Fire Emblem - Different Dimensions Ostian Princess 2.0¬624f1b70¬17357688¬¬¬
 ¬¬¬Fire Emblem - Dust to Dust¬Fire Emblem - Dust to Dust¬277 - Fire Emblem - Dust to Dust¬f59dc2f8¬17845052¬¬¬
@@ -485,6 +492,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Flame Seal - The Knight of Light¬Flame Seal - The Knight of Light¬678 - Flame Seal - The Knight of Light¬94588dc5¬26350620¬¬¬
 ¬¬¬Flames of Freedom¬Flames of Freedom¬459 - Flames of Freedom¬5ab4c0e1¬19577796¬¬¬
 ¬¬¬Flames of Redemption¬Flames of Redemption¬239 - Flames of Redemption¬e1428e68¬24536888¬¬¬
+¬¬¬Flames of Redemption (Chinese Translation)¬Flames of Redemption (Chinese Translation)¬1192 - Flames of Redemption (Chinese Translation)¬b9e5b6a0¬25079616¬¬¬
 ¬¬¬Flames of Redemption (supports unlocked)¬Flames of Redemption (supports unlocked)¬240 - Flames of Redemption (supports unlocked)¬0c835af0¬24536888¬¬¬
 ¬¬¬Flier Emblem - Return of the Circle¬Flier Emblem - Return of the Circle¬1012 - Flier Emblem - Return of the Circle¬78051f91¬33554432¬¬¬
 ¬¬¬Forde Emblem¬Forde Emblem¬1103 - Forde Emblem¬120fe80b¬17039672¬¬¬
@@ -523,6 +531,8 @@ version=Fire Emblem ROM hacks
 ¬¬¬Inheritors of the Crusade¬Inheritors of the Crusade¬411 - Inheritors of the Crusade¬9f0bced0¬23373980¬¬¬
 ¬¬¬Iron Emblem¬Iron Emblem¬591 - Iron Emblem¬11a185a6¬18033892¬¬¬
 ¬¬¬Iron Emblem (altmenus)¬Iron Emblem (altmenus)¬593 - Iron Emblem (altmenus)¬8a037fa6¬18033892¬¬¬
+¬¬¬Iron Emblem (Chinese Translation) (Hard)¬Iron Emblem (Chinese Translation) (Hard)¬1194 - Iron Emblem (Chinese Translation) (Hard)¬682c8ae7¬19450740¬¬¬
+¬¬¬Iron Emblem (Chinese Translation) (Normal)¬Iron Emblem (Chinese Translation) (Normal)¬1193 - Iron Emblem (Chinese Translation) (Normal)¬42731471¬19469416¬¬¬
 ¬¬¬Iron Emblem (Hard Mode)¬Iron Emblem (Hard Mode)¬592 - Iron Emblem (Hard Mode)¬37edc009¬18035884¬¬¬
 ¬¬¬Isekai Emblem¬Isekai Emblem¬237 - Isekai Emblem¬60a52d28¬23924912¬¬¬
 ¬¬¬jellyunicorn's Two Hour Blitz - bungus badventure¬jellyunicorn's Two Hour Blitz - bungus badventure¬605 - jellyunicorn's Two Hour Blitz - bungus badventure¬a28e296a¬16911620¬¬¬
@@ -532,11 +542,12 @@ version=Fire Emblem ROM hacks
 ¬¬¬Jugdral Saga¬Jugdral Saga¬268 - Jugdral Saga¬b9521183¬16777216¬¬¬
 ¬¬¬Julius's Revenge¬Julius's Revenge¬529 - Julius's Revenge¬471de9a1¬16777216¬¬¬
 ¬¬¬Justice & Pride Gaiden - Clash in Estria¬Justice & Pride Gaiden - Clash in Estria¬475 - Justice & Pride Gaiden - Clash in Estria¬d625827c¬27248856¬¬¬
+¬¬¬Justice and Pride - Book 2 (Chinese Translation)¬Justice and Pride - Book 2 (Chinese Translation)¬1201 - Justice and Pride - Book 2 (Chinese Translation)¬7ab7c036¬28139124¬¬¬
 ¬¬¬Justice and Pride - Book 2¬Justice and Pride - Book 2¬272 - Justice and Pride - Book 2¬d28f4951¬22610380¬¬¬
 ¬¬¬Kaga Emblem (English)¬Kaga Emblem (English)¬1034 - Kaga Emblem (English)¬a6b440cc¬19454240¬¬¬
 ¬¬¬Kaga Emblem (Spanish)¬Kaga Emblem (Spanish)¬1035 - Kaga Emblem (Spanish)¬1d89248c¬19391296¬¬¬
-¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬b3674749¬33095268¬¬¬
-¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬16d585b0¬33407680¬¬¬
+¬¬¬Kaitou¬Kaitou¬179 - Kaitou¬8605cc5a¬33085792¬¬¬
+¬¬¬Kaitou (English)¬Kaitou (English)¬180 - Kaitou (English)¬103c7866¬33401380¬¬¬
 ¬¬¬Knoll’s Super Spooky Halloween Adventure¬Knoll’s Super Spooky Halloween Adventure¬162 - Knoll’s Super Spooky Halloween Adventure¬19a64b75¬17014360¬¬¬
 ¬¬¬Kylin Dragons¬Kylin Dragons¬763 - Kylin Dragons¬9bd3db9a¬17375996¬¬¬
 ¬¬¬Lady of Masks¬Lady of Masks¬590 - Lady of Masks¬6142c8a8¬21516196¬¬¬
@@ -681,6 +692,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Runa's 1h Blitz - jon does a thing¬Runa's 1h Blitz - jon does a thing¬634 - Runa's 1h Blitz - jon does a thing¬e8ba39ee¬16929492¬¬¬
 ¬¬¬S.S-Monster Mash¬S.S-Monster Mash¬632 - S.S-Monster Mash¬32494392¬19363688¬¬¬
 ¬¬¬Sacred Contention¬Sacred Contention¬128 - Sacred Contention¬34f11759¬19125992¬¬¬
+¬¬¬Sacred Contention (Chinese Translation)¬Sacred Contention (Chinese Translation)¬1205 - Sacred Contention (Chinese Translation)¬eee9a542¬19287892¬¬¬
 ¬¬¬Sacred Contention (DS Battle Background Mode)¬Sacred Contention (DS Battle Background Mode)¬129 - Sacred Contention (DS Battle Background Mode)¬4fccb155¬20971520¬¬¬
 ¬¬¬Sacred Contention (E-Rank Mode)¬Sacred Contention (E-Rank Mode)¬130 - Sacred Contention (E-Rank Mode)¬b9c52723¬19125992¬¬¬
 ¬¬¬Sacred Contention (No Supports Mode)¬Sacred Contention (No Supports Mode)¬131 - Sacred Contention (No Supports Mode)¬7b7cc292¬19125992¬¬¬
@@ -692,6 +704,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Sacred Stones Death Difficulty¬Sacred Stones Death Difficulty¬398 - Sacred Stones Death Difficulty¬35d91a7c¬16782360¬¬¬
 ¬¬¬Sacred Stones Master Quest¬Sacred Stones Master Quest¬1063 - Sacred Stones Master Quest¬b645f2bf¬25690552¬¬¬
 ¬¬¬Sacred Texts¬Sacred Texts¬465 - Sacred Texts¬4b97c9be¬18988976¬¬¬
+¬¬¬Sacred Trilogy Final (Chinese Translation)¬Sacred Trilogy Final (Chinese Translation)¬1202 - Sacred Trilogy Final (Chinese Translation)¬6a46d845¬33274608¬¬¬
 ¬¬¬Sacred Trilogy Final -Full- Fixed Growths- No AI¬Sacred Trilogy Final -Full- Fixed Growths- No AI¬358 - Sacred Trilogy Final -Full- Fixed Growths- No AI¬9c1dd2f3¬33532712¬¬¬
 ¬¬¬Sacred Trilogy Final -Full- Fixed Growths- With AI¬Sacred Trilogy Final -Full- Fixed Growths- With AI¬359 - Sacred Trilogy Final -Full- Fixed Growths- With AI¬8ef775b9¬33532712¬¬¬
 ¬¬¬Sacred Trilogy Final -Full- Random Growths- No AI¬Sacred Trilogy Final -Full- Random Growths- No AI¬356 - Sacred Trilogy Final -Full- Random Growths- No AI¬37a12e0d¬33532712¬¬¬
@@ -708,6 +721,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Saviors of Thracia PME¬Saviors of Thracia PME¬1137 - Saviors of Thracia PME¬c17d1cf6¬21265836¬¬¬
 ¬¬¬Saviors of Thracia PME (Double Growths)¬Saviors of Thracia PME (Double Growths)¬1138 - Saviors of Thracia PME (Double Growths)¬373c9bad¬21265836¬¬¬
 ¬¬¬Scarlet Rising¬Scarlet Rising¬200 - Scarlet Rising¬8c78f4a5¬20488132¬¬¬
+¬¬¬Scarlet Rising (Chinese Translation)¬Scarlet Rising (Chinese Translation)¬1199 - Scarlet Rising (Chinese Translation)¬fe031447¬21646604¬¬¬
 ¬¬¬Scourge of Proxima¬Scourge of Proxima¬431 - Scourge of Proxima¬ced8254f¬22542928¬¬¬
 ¬¬¬Sea and Sky¬Sea and Sky¬586 - Sea and Sky¬f94f6c39¬18548440¬¬¬
 ¬¬¬Sealed in Light¬Sealed in Light¬439 - Sealed in Light¬a23144da¬17267760¬¬¬
@@ -756,6 +770,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Tambo MAFC DD¬Tambo MAFC DD¬680 - Tambo MAFC DD¬c2d923fb¬18445776¬¬¬
 ¬¬¬Temple of Ardesia¬Temple of Ardesia¬566 - Temple of Ardesia¬a67b7ea1¬23414536¬¬¬
 ¬¬¬Terror of the Forest¬Terror of the Forest¬430 - Terror of the Forest¬017b8028¬27044204¬¬¬
+¬¬¬Terror of the Forest (Chinese Translation)¬Terror of the Forest (Chinese Translation)¬1208 - Terror of the Forest (Chinese Translation)¬c79d1f6a¬27829440¬¬¬
 ¬¬¬The Akaneian Mafia¬The Akaneian Mafia¬656 - The Akaneian Mafia¬33e27ba8¬16777216¬¬¬
 ¬¬¬The Ancient Swords¬The Ancient Swords¬1066 - The Ancient Swords¬b584c2a1¬23260144¬¬¬
 ¬¬¬The Art of War¬The Art of War¬1095 - The Art of War¬50b1e0b3¬22329684¬¬¬
@@ -775,6 +790,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Corruption Of Roy¬The Corruption Of Roy¬512 - The Corruption Of Roy¬41300a20¬17761716¬¬¬
 ¬¬¬The Cult¬The Cult¬677 - The Cult¬22905a74¬17872864¬¬¬
 ¬¬¬The Dark Hour¬The Dark Hour¬201 - The Dark Hour¬8575430f¬26994984¬¬¬
+¬¬¬The Dark Hour (Chinese Translation)¬The Dark Hour (Chinese Translation)¬1200 - The Dark Hour (Chinese Translation)¬d5d5f452¬27951548¬¬¬
 ¬¬¬The Dark Hour (Hard Mode)¬The Dark Hour (Hard Mode)¬202 - The Dark Hour (Hard Mode)¬bfc8d218¬26995576¬¬¬
 ¬¬¬The Divine Campaign¬The Divine Campaign¬1090 - The Divine Campaign¬bf512f2d¬17990828¬¬¬
 ¬¬¬The Divine Twins’ War¬The Divine Twins’ War¬416 - The Divine Twins’ War¬4fd88c7b¬21006844¬¬¬
@@ -791,6 +807,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Forgotten Realm¬The Forgotten Realm¬1056 - The Forgotten Realm¬72f58423¬24705460¬¬¬
 ¬¬¬The Four Kings¬The Four Kings¬205 - The Four Kings¬191ec326¬29587472¬¬¬
 ¬¬¬The Four Kings (0% Growths)¬The Four Kings (0% Growths)¬206 - The Four Kings (0% Growths)¬b58a101f¬28749664¬¬¬
+¬¬¬The Four Kings (Chinese Translation)¬The Four Kings (Chinese Translation)¬1203 - The Four Kings (Chinese Translation)¬6bd7582f¬29587472¬¬¬
 ¬¬¬The Four Kings (Reverse Recruitment)¬The Four Kings (Reverse Recruitment)¬207 - The Four Kings (Reverse Recruitment)¬34e1170d¬28852468¬¬¬
 ¬¬¬The Golden Kingdom¬The Golden Kingdom¬441 - The Golden Kingdom¬78f00579¬20092192¬¬¬
 ¬¬¬The Last Promise¬The Last Promise¬103 - The Last Promise¬d1c6e5d5¬32505856¬¬¬
@@ -812,9 +829,11 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Mask of Dunham¬The Mask of Dunham¬437 - The Mask of Dunham¬77dd037e¬19753152¬¬¬
 ¬¬¬The Nameless Heroes (English Translation)¬The Nameless Heroes (English Translation)¬448 - The Nameless Heroes (English Translation)¬36042746¬29782176¬¬¬
 ¬¬¬The Phantom King¬The Phantom King¬989 - The Phantom King¬fa76f0c0¬25644220¬¬¬
+¬¬¬The Phantom King (Chinese Translation)¬The Phantom King (Chinese Translation)¬1195 - The Phantom King (Chinese Translation)¬67fb5bd5¬26387056¬¬¬
 ¬¬¬The Purge Of Weegee¬The Purge Of Weegee¬528 - The Purge Of Weegee¬764e473f¬21489848¬¬¬
 ¬¬¬The Queen’s Lament¬The Queen’s Lament¬408 - The Queen’s Lament¬e19c9eb7¬18021380¬¬¬
 ¬¬¬The Road to Ruin¬The Road to Ruin¬108 - The Road to Ruin¬6522df69¬21666336¬¬¬
+¬¬¬The Road to Ruin (Chinese Translation)¬The Road to Ruin (Chinese Translation)¬1191 - The Road to Ruin (Chinese Translation)¬7c0877a4¬23028984¬¬¬
 ¬¬¬The Roots That Bind¬The Roots That Bind¬531 - The Roots That Bind¬014977a9¬17350964¬¬¬
 ¬¬¬The Sacred Chairs¬The Sacred Chairs¬185 - The Sacred Chairs¬841a14f7¬24229624¬¬¬
 ¬¬¬The Sacred Chairs (0% Growths Version)¬The Sacred Chairs (0% Growths Version)¬187 - The Sacred Chairs (0% Growths Version)¬8c316c5e¬24229664¬¬¬
@@ -829,21 +848,26 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Sadist Stones II¬The Sadist Stones II¬1100 - The Sadist Stones II¬d915ef65¬33300508¬¬¬
 ¬¬¬The Sadist Stones III¬The Sadist Stones III¬1117 - The Sadist Stones III¬55c5e0af¬27507920¬¬¬
 ¬¬¬The Seven Keys¬The Seven Keys¬1003 - The Seven Keys¬66c28210¬21411712¬¬¬
-¬¬¬The Sun God’s Wrath¬The Sun God’s Wrath¬217 - The Sun God’s Wrath¬cc06a4ef¬33007088¬¬¬
-¬¬¬The Sun God’s Wrath (0 growth)¬The Sun God’s Wrath (0 growth)¬218 - The Sun God’s Wrath (0 growth)¬7def8770¬33007108¬¬¬
+¬¬¬The Sun God’s Wrath¬The Sun God’s Wrath¬217 - The Sun God’s Wrath¬566d7a9e¬33007144¬¬¬
+¬¬¬The Sun God’s Wrath (0 growth)¬The Sun God’s Wrath (0 growth)¬218 - The Sun God’s Wrath (0 growth)¬7e9a9639¬33007164¬¬¬
+¬¬¬The Sun God’s Wrath (100 growth)¬The Sun God’s Wrath (100 growth)¬1185 - The Sun God’s Wrath (100 growth)¬ed079000¬33007144¬¬¬
 ¬¬¬The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)¬The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)¬815 - The Sun God’s Wrath (Chinese Translation) (Item & Skill Only)¬c5c281e7¬33531452¬¬¬
+¬¬¬The Sun God’s Wrath (No Fatigue)¬The Sun God’s Wrath (No Fatigue)¬1186 - The Sun God’s Wrath (No Fatigue)¬389d3567¬33007144¬¬¬
+¬¬¬The Sun God’s Wrath (No Fatigue) (0 Growth)¬The Sun God’s Wrath (No Fatigue) (0 Growth)¬1187 - The Sun God’s Wrath (No Fatigue) (0 Growth)¬106ad9c0¬33007164¬¬¬
+¬¬¬The Sun God’s Wrath (No Fatigue) (100 Growth)¬The Sun God’s Wrath (No Fatigue) (100 Growth)¬1188 - The Sun God’s Wrath (No Fatigue) (100 Growth)¬83f7dff9¬33007144¬¬¬
 ¬¬¬The Tavern Adventures¬The Tavern Adventures¬627 - The Tavern Adventures¬8ceec8c8¬22098544¬¬¬
 ¬¬¬The Teq Demo¬The Teq Demo¬652 - The Teq Demo¬cde9a0dd¬16777216¬¬¬
 ¬¬¬The Vanilla but not 100% vanilla blitz¬The Vanilla but not 100% vanilla blitz¬1125 - The Vanilla but not 100% vanilla blitz¬114e0666¬18763540¬¬¬
 ¬¬¬The White Feather¬The White Feather¬490 - The White Feather¬294c6150¬23302696¬¬¬
 ¬¬¬There Is No Dialogue, Die¬There Is No Dialogue, Die¬662 - There Is No Dialogue, Die¬06900b89¬17267948¬¬¬
 ¬¬¬THWD2 - The Heist We Deserve¬THWD2 - The Heist We Deserve¬999 - THWD2 - The Heist We Deserve¬73ac3ff9¬17152184¬¬¬
-¬¬¬Tierra Maldita¬Tierra Maldita¬987 - Tierra Maldita¬76de4b78¬17572088¬¬¬
+¬¬¬Tierra Maldita¬Tierra Maldita¬987 - Tierra Maldita¬645bdefe¬17893384¬¬¬
 ¬¬¬Tirado Emblem¬Tirado Emblem¬282 - Tirado Emblem¬5bb0ae74¬18775380¬¬¬
 ¬¬¬Title Here¬Title Here¬521 - Title Here¬e6f15aae¬17072284¬¬¬
 ¬¬¬TLP with Updated Animations¬TLP with Updated Animations¬1053 - TLP with Updated Animations¬ea5c9a40¬33402172¬¬¬
 ¬¬¬Touhou Emblem 8 - The Sacred Shrines¬Touhou Emblem 8 - The Sacred Shrines¬402 - Touhou Emblem 8 - The Sacred Shrines¬e18fc466¬17869900¬¬¬
 ¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬1b8b59c0¬22807804¬¬¬
+¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬87c8bc28¬23808684¬¬¬
 ¬¬¬Tower Defense¬Tower Defense¬515 - Tower Defense¬6b65ad16¬16793408¬¬¬
 ¬¬¬Trainee Emblem 8¬Trainee Emblem 8¬991 - Trainee Emblem 8¬4396d416¬18209920¬¬¬
 ¬¬¬Transcending Darkness¬Transcending Darkness¬1004 - Transcending Darkness¬538a714d¬31961496¬¬¬
@@ -900,6 +924,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬主角大联盟¬主角大联盟¬863 - 主角大联盟¬09fb7e5d¬30134392¬¬¬
 ¬¬¬主角大联盟完结版¬主角大联盟完结版¬888 - 主角大联盟完结版¬5001696d¬27805428¬¬¬
 ¬¬¬主角大联盟超高难度¬主角大联盟超高难度¬889 - 主角大联盟超高难度¬0975e53d¬27557216¬¬¬
+¬¬¬佣兵公司 (Chinese Translation)¬佣兵公司 (Chinese Translation)¬1210 - 佣兵公司 (Chinese Translation)¬a44472ee¬25073560¬¬¬
 ¬¬¬僵尸道长¬僵尸道长¬886 - 僵尸道长¬7e731649¬21486460¬¬¬
 ¬¬¬光明的救赎¬光明的救赎¬874 - 光明的救赎¬8321f5d3¬29117088¬¬¬
 ¬¬¬六写封神¬六写封神¬753 - 六写封神¬e42b4642¬18576656¬¬¬
@@ -1013,6 +1038,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬暗之彼方¬暗之彼方¬866 - 暗之彼方¬d348549a¬33113720¬¬¬
 ¬¬¬暗之魔女¬暗之魔女¬783 - 暗之魔女¬5f847710¬18874368¬¬¬
 ¬¬¬暗黑の黎明¬暗黑の黎明¬806 - 暗黑の黎明¬a387b295¬24837392¬¬¬
+¬¬¬曼斯地牢 (Chinese Translation)¬曼斯地牢 (Chinese Translation)¬1198 - 曼斯地牢 (Chinese Translation)¬96dae677¬20754792¬¬¬
 ¬¬¬最帅修改 圣魔新地图¬最帅修改 圣魔新地图¬951 - 最帅修改 圣魔新地图¬24eadfef¬16777216¬¬¬
 ¬¬¬最帅出品 圣邪地狱篇¬最帅出品 圣邪地狱篇¬950 - 最帅出品 圣邪地狱篇¬6843b393¬16777300¬¬¬
 ¬¬¬最帅改版 封印无敌篇¬最帅改版 封印无敌篇¬934 - 最帅改版 封印无敌篇¬f1787236¬10415546¬¬¬
@@ -1028,7 +1054,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬次元の幻想¬次元の幻想¬913 - 次元の幻想¬0b9ae87a¬16877216¬¬¬
 ¬¬¬死灵复生2¬死灵复生2¬840 - 死灵复生2¬72c9caf7¬21288008¬¬¬
 ¬¬¬死灵复生¬死灵复生¬986 - 死灵复生¬a5c39099¬16778240¬¬¬
-¬¬¬流浪公主¬流浪公主¬858 - 流浪公主¬c5707104¬29583392¬¬¬
+¬¬¬流浪公主¬流浪公主¬858 - 流浪公主¬adc3bd5c¬31608972¬¬¬
 ¬¬¬火焰纹章 挑战0.1地狱模式¬火焰纹章 挑战0.1地狱模式¬787 - 火焰纹章 挑战0.1地狱模式¬b86e23c5¬17911088¬¬¬
 ¬¬¬火焰纹章 挑战0.2¬火焰纹章 挑战0.2¬788 - 火焰纹章 挑战0.2¬2230351d¬17919848¬¬¬
 ¬¬¬火纹三国¬火纹三国¬847 - 火纹三国¬d5c254e8¬27345504¬¬¬
@@ -1124,3 +1150,4 @@ version=Fire Emblem ROM hacks
 ¬¬¬黑暗的指引¬黑暗的指引¬785 - 黑暗的指引¬ac009a17¬17825792¬¬¬
 ¬¬¬黑暗轮回者-006最终版¬黑暗轮回者-006最终版¬855 - 黑暗轮回者-006最终版¬4188cf4b¬32267124¬¬¬
 ¬¬¬黑暗轮回者-007优化简单版¬黑暗轮回者-007优化简单版¬854 - 黑暗轮回者-007优化简单版¬48d59dbf¬32270164¬¬¬
+¬¬¬黑魔王与光明少女 (Chinese Translation)¬黑魔王与光明少女 (Chinese Translation)¬1207 - 黑魔王与光明少女 (Chinese Translation)¬e569de94¬24109016¬¬¬

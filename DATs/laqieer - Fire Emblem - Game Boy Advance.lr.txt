@@ -1,4 +1,4 @@
-ROMs required for driver "0sheng mo".
+ROMs required for driver "756 - 0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -268,7 +268,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Bloodlines".
 Name                                   Size Checksum
-410 - Bloodlines                   26364548 CRC(9063e95c)
+410 - Bloodlines                   26366180 CRC(a70554f3)
 
 ROMs required for driver "BobbyYukitsuki's Two Hour Blitz".
 Name                                   Size Checksum
@@ -402,7 +402,7 @@ ROMs required for driver "Curse Of The Emblem Version 0.001".
 Name                                   Size Checksum
 508 - Curse Of The Emblem Version 014711608 CRC(9c658b28)
 
-ROMs required for driver "547 - Darion’s Blazing Sword (Eliwood mode)".
+ROMs required for driver "Darion’s Blazing Sword (Eliwood mode)".
 Name                                   Size Checksum
 547 - Darion’s Blazing Sword (Eliwood mode)          16777216 CRC(142e9add)
 
@@ -3425,7 +3425,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "The Road to Ruin (Chinese Translation)".
 Name                                   Size Checksum
-1191 - The Road to Ruin (Chinese Translation)          23028984 CRC(7c0877a4)
+1191 - The Road to Ruin (Chinese Translation)          23047384 CRC(42452f82)
 
 ROMs required for driver "The Roots That Bind".
 Name                                   Size Checksum
@@ -3565,7 +3565,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin".
 Name                                   Size Checksum
-242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin          22807804 CRC(1b8b59c0)
+242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin          22820072 CRC(4c6dd7f1)
 
 ROMs required for driver "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)".
 Name                                   Size Checksum
@@ -3645,7 +3645,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Vows of Fate".
 Name                                   Size Checksum
-1182 - Vows of Fate                19673116 CRC(5e408f6c)
+1182 - Vows of Fate                19673804 CRC(900557a5)
 
 ROMs required for driver "Vs. Mode".
 Name                                   Size Checksum

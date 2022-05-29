@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220529"
+	version "20220530"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -347,7 +347,7 @@ game (
 game (
 	name "Bloodlines"
 	description "Bloodlines"
-	rom ( name "410 - Bloodlines" size "26364548" crc "9063e95c" )
+	rom ( name "410 - Bloodlines" size "26366180" crc "a70554f3" )
 )
 game (
 	name "BobbyYukitsuki's Two Hour Blitz"
@@ -4293,7 +4293,7 @@ game (
 game (
 	name "The Road to Ruin (Chinese Translation)"
 	description "The Road to Ruin (Chinese Translation)"
-	rom ( name "1191 - The Road to Ruin (Chinese Translation)" size "23028984" crc "7c0877a4" )
+	rom ( name "1191 - The Road to Ruin (Chinese Translation)" size "23047384" crc "42452f82" )
 )
 game (
 	name "The Roots That Bind"
@@ -4468,7 +4468,7 @@ game (
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin"
 	description "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin"
-	rom ( name "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size "22807804" crc "1b8b59c0" )
+	rom ( name "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size "22820072" crc "4c6dd7f1" )
 )
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)"
@@ -4568,7 +4568,7 @@ game (
 game (
 	name "Vows of Fate"
 	description "Vows of Fate"
-	rom ( name "1182 - Vows of Fate" size "19673116" crc "5e408f6c" )
+	rom ( name "1182 - Vows of Fate" size "19673804" crc "900557a5" )
 )
 game (
 	name "Vs. Mode"

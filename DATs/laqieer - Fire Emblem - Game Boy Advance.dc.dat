@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220529
+	Version: 20220530
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -277,7 +277,7 @@ game (
 )
 game (
 	name "Bloodlines.zip"
-	file ( name 410 - Bloodlines size 26364548 crc 9063e95c )
+	file ( name 410 - Bloodlines size 26366180 crc a70554f3 )
 )
 game (
 	name "BobbyYukitsuki's Two Hour Blitz.zip"
@@ -412,7 +412,7 @@ game (
 	file ( name 508 - Curse Of The Emblem Version 0 size 14711608 crc 9c658b28 )
 )
 game (
-	name "547 - Darion’s Blazing Sword (Eliwood mode).zip"
+	name "Darion’s Blazing Sword (Eliwood mode).zip"
 	file ( name 547 - Darion’s Blazing Sword (Eliwood mode) size 16777216 crc 142e9add )
 )
 game (
@@ -3434,7 +3434,7 @@ game (
 )
 game (
 	name "The Road to Ruin (Chinese Translation).zip"
-	file ( name 1191 - The Road to Ruin (Chinese Translation) size 23028984 crc 7c0877a4 )
+	file ( name 1191 - The Road to Ruin (Chinese Translation) size 23047384 crc 42452f82 )
 )
 game (
 	name "The Roots That Bind.zip"
@@ -3574,7 +3574,7 @@ game (
 )
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin.zip"
-	file ( name 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin size 22807804 crc 1b8b59c0 )
+	file ( name 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin size 22820072 crc 4c6dd7f1 )
 )
 game (
 	name "Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation).zip"
@@ -3654,7 +3654,7 @@ game (
 )
 game (
 	name "Vows of Fate.zip"
-	file ( name 1182 - Vows of Fate size 19673116 crc 5e408f6c )
+	file ( name 1182 - Vows of Fate size 19673804 crc 900557a5 )
 )
 game (
 	name "Vs. Mode.zip"

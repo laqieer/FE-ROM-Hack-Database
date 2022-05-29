@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220529</datVersion>
+    <datVersion>20220530</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -3122,13 +3122,13 @@
       <releaseNumber>242</releaseNumber>
       <title>Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>22807804</romSize>
+      <romSize>22820072</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>Rye on Speed</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">1B8B59C0</romCRC>
+        <romCRC extension=".gba">4C6DD7F1</romCRC>
       </files>
       <im1CRC>1F92FD88</im1CRC>
       <im2CRC>3776CD5B</im2CRC>
@@ -6146,17 +6146,17 @@
       <releaseNumber>410</releaseNumber>
       <title>Bloodlines</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>26364548</romSize>
+      <romSize>26366180</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>Ghast</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">9063E95C</romCRC>
+        <romCRC extension=".gba">A70554F3</romCRC>
       </files>
       <im1CRC>91F66B54</im1CRC>
       <im2CRC>12C84E9D</im2CRC>
-      <comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
+      <comment>https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -20042,17 +20042,17 @@
       <releaseNumber>1182</releaseNumber>
       <title>Vows of Fate</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>19673116</romSize>
+      <romSize>19673804</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>cactusyote</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">5E408F6C</romCRC>
+        <romCRC extension=".gba">900557A5</romCRC>
       </files>
-      <im1CRC>C775577B</im1CRC>
+      <im1CRC>B1F8C885</im1CRC>
       <im2CRC>03B13DA3</im2CRC>
-      <comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+      <comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -20204,13 +20204,13 @@
       <releaseNumber>1191</releaseNumber>
       <title>The Road to Ruin (Chinese Translation)</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>23028984</romSize>
+      <romSize>23047384</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>瓦莱娜23号</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">7C0877A4</romCRC>
+        <romCRC extension=".gba">42452F82</romCRC>
       </files>
       <im1CRC>E8782DC0</im1CRC>
       <im2CRC>81378146</im2CRC>

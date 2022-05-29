@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220529
+version=20220530
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -11,7 +11,7 @@ merge=0
 refname=laqieer - Fire Emblem - Game Boy Advance
 version=Fire Emblem ROM hacks
 [GAMES]
-¬¬¬0sheng mo¬0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
+¬¬¬756 - 0sheng mo¬756 - 0sheng mo¬756 - 0sheng mo¬9179c574¬16777216¬¬¬
 ¬¬¬0的逆圣魔¬0的逆圣魔¬853 - 0的逆圣魔¬077d94bb¬20252024¬¬¬
 ¬¬¬2 Princesses (English Translation)¬2 Princesses (English Translation)¬184 - 2 Princesses (English Translation)¬cdf24969¬27926780¬¬¬
 ¬¬¬2 Princesses (二人の王女)¬2 Princesses (二人の王女)¬183 - 2 Princesses (二人の王女)¬1f0dbaa5¬27935748¬¬¬
@@ -78,7 +78,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Blight of Acrova (Reverse Recruitment)¬Blight of Acrova (Reverse Recruitment)¬576 - Blight of Acrova (Reverse Recruitment)¬0883395d¬27003148¬¬¬
 ¬¬¬Blight of Acrova (Zero Percent Growths)¬Blight of Acrova (Zero Percent Growths)¬575 - Blight of Acrova (Zero Percent Growths)¬b9915ad8¬26476404¬¬¬
 ¬¬¬Blood of the Covenant¬Blood of the Covenant¬290 - Blood of the Covenant¬63a45a53¬20149244¬¬¬
-¬¬¬Bloodlines¬Bloodlines¬410 - Bloodlines¬9063e95c¬26364548¬¬¬
+¬¬¬Bloodlines¬Bloodlines¬410 - Bloodlines¬a70554f3¬26366180¬¬¬
 ¬¬¬BobbyYukitsuki's Two Hour Blitz¬BobbyYukitsuki's Two Hour Blitz¬609 - BobbyYukitsuki's Two Hour Blitz¬93712a28¬16959508¬¬¬
 ¬¬¬Boss Emblem 8¬Boss Emblem 8¬1155 - Boss Emblem 8¬11e8bc5f¬16788080¬¬¬
 ¬¬¬Boss Rush¬Boss Rush¬504 - Boss Rush¬ad45b232¬25165880¬¬¬
@@ -868,7 +868,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Purge Of Weegee¬The Purge Of Weegee¬528 - The Purge Of Weegee¬764e473f¬21489848¬¬¬
 ¬¬¬The Queen’s Lament¬The Queen’s Lament¬408 - The Queen’s Lament¬e19c9eb7¬18021380¬¬¬
 ¬¬¬The Road to Ruin¬The Road to Ruin¬108 - The Road to Ruin¬6522df69¬21666336¬¬¬
-¬¬¬The Road to Ruin (Chinese Translation)¬The Road to Ruin (Chinese Translation)¬1191 - The Road to Ruin (Chinese Translation)¬7c0877a4¬23028984¬¬¬
+¬¬¬The Road to Ruin (Chinese Translation)¬The Road to Ruin (Chinese Translation)¬1191 - The Road to Ruin (Chinese Translation)¬42452f82¬23047384¬¬¬
 ¬¬¬The Roots That Bind¬The Roots That Bind¬531 - The Roots That Bind¬014977a9¬17350964¬¬¬
 ¬¬¬The Sacred Blade and the Demon Dragon¬The Sacred Blade and the Demon Dragon¬1249 - The Sacred Blade and the Demon Dragon¬d126ca49¬26303048¬¬¬
 ¬¬¬The Sacred Chairs¬The Sacred Chairs¬185 - The Sacred Chairs¬841a14f7¬24229624¬¬¬
@@ -903,7 +903,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬TLP with Updated Animations¬TLP with Updated Animations¬1053 - TLP with Updated Animations¬ea5c9a40¬33402172¬¬¬
 ¬¬¬TMGC¬TMGC¬1213 - TMGC¬c5e1ab78¬24489712¬¬¬
 ¬¬¬Touhou Emblem 8 - The Sacred Shrines¬Touhou Emblem 8 - The Sacred Shrines¬402 - Touhou Emblem 8 - The Sacred Shrines¬e18fc466¬17869900¬¬¬
-¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬1b8b59c0¬22807804¬¬¬
+¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin¬4c6dd7f1¬22820072¬¬¬
 ¬¬¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)¬87c8bc28¬23808684¬¬¬
 ¬¬¬Tower Defense¬Tower Defense¬515 - Tower Defense¬6b65ad16¬16793408¬¬¬
 ¬¬¬Trainee Emblem 8¬Trainee Emblem 8¬991 - Trainee Emblem 8¬4396d416¬18209920¬¬¬
@@ -923,7 +923,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Void’s Blitzarre Adventure¬Void’s Blitzarre Adventure¬141 - Void’s Blitzarre Adventure¬9d22107c¬18641452¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency¬Void’s Blitzarre Adventure - Blitz Tendency¬142 - Void’s Blitzarre Adventure - Blitz Tendency¬e02d7a82¬16777216¬¬¬
 ¬¬¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬Void’s Blitzarre Adventure - Blitz Tendency (debug)¬143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)¬66f0a6d0¬16777216¬¬¬
-¬¬¬Vows of Fate¬Vows of Fate¬1182 - Vows of Fate¬5e408f6c¬19673116¬¬¬
+¬¬¬Vows of Fate¬Vows of Fate¬1182 - Vows of Fate¬900557a5¬19673804¬¬¬
 ¬¬¬Vs. Mode¬Vs. Mode¬135 - Vs. Mode¬86fe30d3¬17066348¬¬¬
 ¬¬¬War of Retribution¬War of Retribution¬484 - War of Retribution¬7b8abafa¬17084172¬¬¬
 ¬¬¬War of Secrets¬War of Secrets¬1081 - War of Secrets¬7447d447¬28055212¬¬¬

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220529</version>
+		<version>20220530</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -344,9 +344,9 @@
 		<rom name="290 - Blood of the Covenant" size="20149244" crc="63a45a53" />
 	</machine>
 	<machine name="Bloodlines">
-		<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
+		<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="410 - Bloodlines" size="26364548" crc="9063e95c" />
+		<rom name="410 - Bloodlines" size="26366180" crc="a70554f3" />
 	</machine>
 	<machine name="BobbyYukitsuki's Two Hour Blitz">
 		<comment>https://feuniverse.us/t/two-hour-blitz/13728/14</comment>
@@ -513,7 +513,7 @@
 		<publisher>Ragefest</publisher>
 		<rom name="508 - Curse Of The Emblem Version 0" size="14711608" crc="9c658b28" />
 	</machine>
-	<machine name="547 - Darion’s Blazing Sword (Eliwood mode)">
+	<machine name="Darion’s Blazing Sword (Eliwood mode)">
 		<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="547 - Darion’s Blazing Sword (Eliwood mode)" size="16777216" crc="142e9add" />
@@ -4228,7 +4228,7 @@
 	<machine name="The Road to Ruin (Chinese Translation)">
 		<comment>https://fecosmos.xyz/d/53-the-road-to-ruin</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="1191 - The Road to Ruin (Chinese Translation)" size="23028984" crc="7c0877a4" />
+		<rom name="1191 - The Road to Ruin (Chinese Translation)" size="23047384" crc="42452f82" />
 	</machine>
 	<machine name="The Roots That Bind">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
@@ -4403,7 +4403,7 @@
 	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin">
 		<comment>https://feuniverse.us/t/fe8-completed-26-chapters-and-a-mini-route-split-touhou-emblem-the-most-poorly-timed-project-release-in-the-history-of-romhacks/15134</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22807804" crc="1b8b59c0" />
+		<rom name="242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin" size="22820072" crc="4c6dd7f1" />
 	</machine>
 	<machine name="Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)">
 		<comment>道具技能汉化</comment>
@@ -4500,9 +4500,9 @@
 		<rom name="143 - Void’s Blitzarre Adventure - Blitz Tendency (debug)" size="16777216" crc="66f0a6d0" />
 	</machine>
 	<machine name="Vows of Fate">
-		<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+		<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="1182 - Vows of Fate" size="19673116" crc="5e408f6c" />
+		<rom name="1182 - Vows of Fate" size="19673804" crc="900557a5" />
 	</machine>
 	<machine name="Vs. Mode">
 		<comment>https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012</comment>

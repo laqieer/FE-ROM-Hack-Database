@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220529</version>
+		<version>20220530</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>0sheng mo</name>
+				<name>756 - 0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -1110,15 +1110,15 @@
 		<directory>
 			<machine>
 				<name>Bloodlines</name>
-				<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
+				<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>410 - Bloodlines</name>
-					<size>26364548</size>
-					<crc>9063e95c</crc>
+					<size>26366180</size>
+					<crc>a70554f3</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1619,7 +1619,7 @@
 		</directory>
 		<directory>
 			<machine>
-				<name>547 - Darion’s Blazing Sword (Eliwood mode)</name>
+				<name>Darion’s Blazing Sword (Eliwood mode)</name>
 				<comment>https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -12958,8 +12958,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1191 - The Road to Ruin (Chinese Translation)</name>
-					<size>23028984</size>
-					<crc>7c0877a4</crc>
+					<size>23047384</size>
+					<crc>42452f82</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13483,8 +13483,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</name>
-					<size>22807804</size>
-					<crc>1b8b59c0</crc>
+					<size>22820072</size>
+					<crc>4c6dd7f1</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13776,15 +13776,15 @@
 		<directory>
 			<machine>
 				<name>Vows of Fate</name>
-				<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1182 - Vows of Fate</name>
-					<size>19673116</size>
-					<crc>5e408f6c</crc>
+					<size>19673804</size>
+					<crc>900557a5</crc>
 				</datitem>
 			</files>
 		</directory>

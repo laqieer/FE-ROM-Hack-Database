@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220529",
+		"version": "20220530",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "0sheng mo",
+				"name": "756 - 0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -1314,7 +1314,7 @@
 		{
 			"machine": {
 				"name": "Bloodlines",
-				"comment": "https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423",
+				"comment": "https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -1323,8 +1323,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "410 - Bloodlines",
-						"size": 26364548,
-						"crc": "9063e95c"
+						"size": 26366180,
+						"crc": "a70554f3"
 					}
 				}
 			]
@@ -1925,7 +1925,7 @@
 		},
 		{
 			"machine": {
-				"name": "547 - Darion’s Blazing Sword (Eliwood mode)",
+				"name": "Darion’s Blazing Sword (Eliwood mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -15533,8 +15533,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1191 - The Road to Ruin (Chinese Translation)",
-						"size": 23028984,
-						"crc": "7c0877a4"
+						"size": 23047384,
+						"crc": "42452f82"
 					}
 				}
 			]
@@ -16163,8 +16163,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin",
-						"size": 22807804,
-						"crc": "1b8b59c0"
+						"size": 22820072,
+						"crc": "4c6dd7f1"
 					}
 				}
 			]
@@ -16514,7 +16514,7 @@
 		{
 			"machine": {
 				"name": "Vows of Fate",
-				"comment": "https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -16523,8 +16523,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1182 - Vows of Fate",
-						"size": 19673116,
-						"crc": "5e408f6c"
+						"size": 19673804,
+						"crc": "900557a5"
 					}
 				}
 			]

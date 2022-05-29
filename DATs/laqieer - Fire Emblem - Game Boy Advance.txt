@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
@@ -66,7 +66,7 @@ Blight of Acrova;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;h
 Blight of Acrova (Reverse Recruitment);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175;
 Blight of Acrova (Zero Percent Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175;
 Blood of the Covenant;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-blood-of-the-covenant-first-5-chapters-done/7175;
-Bloodlines;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423;
+Bloodlines;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423;
 BobbyYukitsuki's Two Hour Blitz;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/two-hour-blitz/13728/14;
 Boss Emblem 8;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-boss-emblem-8-eirika-route-complete/9512;
 Boss Rush;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
@@ -100,7 +100,7 @@ Crusaders Of The Void;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;
 Crystal of Bonds;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-crystal-of-bonds-working-title-fe8-romhack-demo-5-chapters/4801;
 Curse of the Edge;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-curse-of-the-edge-three-chapter-demo/12964;
 Curse Of The Emblem Version 0.001;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
-547 - Darion’s Blazing Sword (Eliwood mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/;
+Darion’s Blazing Sword (Eliwood mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/;
 Darion’s Blazing Sword (Hector mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/;
 Dark Dragon Reborn;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-dark-dragon-reborn-complete/11733;
 Dark Dragon Reborn (Chinese Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://fecosmos.xyz/d/37;
@@ -911,7 +911,7 @@ Voices of the Sacred Stones;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;
 Void’s Blitzarre Adventure;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/feu-chapter-creation-blitz-voids-blitzarre-adventure/2629;
 Void’s Blitzarre Adventure - Blitz Tendency;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/voids-blitzarre-adventure-blitz-tendency-earlygame-polish-released/3969;
 Void’s Blitzarre Adventure - Blitz Tendency (debug);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://github.com/FireEmblemUniverse/VBA-Blitz-Tendency;
-Vows of Fate;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120;
+Vows of Fate;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120;
 Vs. Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-a-fire-emblem-vs-mode/7012;
 War of Retribution;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://github.com/Slimjim8345/FE_War_of_Retribution_DEMO;
 War of Secrets;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-war-of-secrets/11198;

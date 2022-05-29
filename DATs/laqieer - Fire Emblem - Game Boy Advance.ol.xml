@@ -1257,17 +1257,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>410 - Bloodlines</title>
 			<saveType>None</saveType>
-			<romSize>26364548</romSize>
+			<romSize>26366180</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">9063E95C</romCRC>
+				<romCRC extension=".">A70554F3</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-26-public-patch-is-released-check-the-first-post/423</comment>
+			<comment>https://feuniverse.us/t/new-trailer-bloodlines-3-32-public-patch-is-released-check-the-first-post/423</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -15542,13 +15542,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1191 - The Road to Ruin (Chinese Translation)</title>
 			<saveType>None</saveType>
-			<romSize>23028984</romSize>
+			<romSize>23047384</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">7C0877A4</romCRC>
+				<romCRC extension=".">42452F82</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -16172,13 +16172,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin</title>
 			<saveType>None</saveType>
-			<romSize>22807804</romSize>
+			<romSize>22820072</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">1B8B59C0</romCRC>
+				<romCRC extension=".">4C6DD7F1</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -16533,17 +16533,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1182 - Vows of Fate</title>
 			<saveType>None</saveType>
-			<romSize>19673116</romSize>
+			<romSize>19673804</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">5E408F6C</romCRC>
+				<romCRC extension=".">900557A5</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-1/16120</comment>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-vows-of-fate-complete-v1-2/16120</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

@@ -21639,6 +21639,24 @@
       <comment></comment>
       <duplicateID>0</duplicateID>
     </game>
+    <game>
+      <imageNumber>1271</imageNumber>
+      <releaseNumber>1271</releaseNumber>
+      <title>JDL's FE 8 PME</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17135792</romSize>
+      <publisher>PME</publisher>
+      <location>1</location>
+      <sourceRom>JDL</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A42E0E8A</romCRC>
+      </files>
+      <im1CRC>BDE2419F</im1CRC>
+      <im2CRC>7002229C</im2CRC>
+      <comment>https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190</comment>
+      <duplicateID>0</duplicateID>
+    </game>
   </games>
   <gui>
     <images width="487" height="162">

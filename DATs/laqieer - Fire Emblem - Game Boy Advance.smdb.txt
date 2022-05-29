@@ -1,4 +1,4 @@
-	756 - 0sheng mo/756 - 0sheng mo			9179c574	16777216
+	0sheng mo/756 - 0sheng mo			9179c574	16777216
 	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			1f0dbaa5	27935748
@@ -542,6 +542,7 @@
 	Iron Emblem (Chinese Translation) (Normal)/1193 - Iron Emblem (Chinese Translation) (Normal)			42731471	19469416
 	Iron Emblem (Hard Mode)/592 - Iron Emblem (Hard Mode)			37edc009	18035884
 	Isekai Emblem/237 - Isekai Emblem			60a52d28	23924912
+	JDL's FE 8 PME/1271 - JDL's FE 8 PME			a42e0e8a	17135792
 	jellyunicorn's Two Hour Blitz - bungus badventure/605 - jellyunicorn's Two Hour Blitz - bungus badventure			a28e296a	16911620
 	Journeys/219 - Journeys			1c83df77	26336432
 	Journeys - Gaiden/1019 - Journeys - Gaiden			e3ae479a	18078520
@@ -590,7 +591,7 @@
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn Insanity 2/1179 - Lyn Insanity 2			dd37fc74	9926584
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Mangs Dungeon 100k sub special/1257 - Mangs Dungeon 100k sub special			d0a60edc	19752216
@@ -669,7 +670,7 @@
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project Kenko Revamp/1244 - Project Kenko Revamp			2e84ac32	23504776
 	Project RE7/1011 - Project RE7			e299b969	30141292
-	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v.0			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216

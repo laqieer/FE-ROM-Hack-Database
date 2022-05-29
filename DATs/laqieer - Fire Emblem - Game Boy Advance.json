@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "756 - 0sheng mo",
+				"name": "0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -9883,6 +9883,24 @@
 						"name": "237 - Isekai Emblem",
 						"size": 23924912,
 						"crc": "60a52d28"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "JDL's FE 8 PME",
+				"comment": "https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1271 - JDL's FE 8 PME",
+						"size": 17135792,
+						"crc": "a42e0e8a"
 					}
 				}
 			]

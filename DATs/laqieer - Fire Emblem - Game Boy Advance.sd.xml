@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>756 - 0sheng mo</name>
+				<name>0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -8250,6 +8250,21 @@
 					<name>237 - Isekai Emblem</name>
 					<size>23924912</size>
 					<crc>60a52d28</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>JDL's FE 8 PME</name>
+				<comment>https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190</comment>
+				<publisher>PME</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1271 - JDL's FE 8 PME</name>
+					<size>17135792</size>
+					<crc>a42e0e8a</crc>
 				</datitem>
 			</files>
 		</directory>

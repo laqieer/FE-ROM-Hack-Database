@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
@@ -543,6 +543,7 @@ Iron Emblem (Chinese Translation) (Hard);;laqieer - Fire Emblem - Game Boy Advan
 Iron Emblem (Chinese Translation) (Normal);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;钢铁纹章v1.2双版本完全汉化;
 Iron Emblem (Hard Mode);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-iron-emblem-v1-3-full-length/12539;
 Isekai Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-2-3/12640;
+JDL's FE 8 PME;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190;
 jellyunicorn's Two Hour Blitz - bungus badventure;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/two-hour-blitz/13728/7;
 Journeys;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-v2-2-20-chapters/7313;
 Journeys - Gaiden;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-journeys-gaiden-5-chapters/12580;

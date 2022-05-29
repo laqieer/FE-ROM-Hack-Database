@@ -1,4 +1,4 @@
-ROMs required for driver "756 - 0sheng mo".
+ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -2171,6 +2171,10 @@ ROMs required for driver "Isekai Emblem".
 Name                                   Size Checksum
 237 - Isekai Emblem                23924912 CRC(60a52d28)
 
+ROMs required for driver "JDL's FE 8 PME".
+Name                                   Size Checksum
+1271 - JDL's FE 8 PME              17135792 CRC(a42e0e8a)
+
 ROMs required for driver "jellyunicorn's Two Hour Blitz - bungus badventure".
 Name                                   Size Checksum
 605 - jellyunicorn's Two Hour Blitz - bungus badventure          16911620 CRC(a28e296a)
@@ -2365,7 +2369,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M. E. R                      18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum

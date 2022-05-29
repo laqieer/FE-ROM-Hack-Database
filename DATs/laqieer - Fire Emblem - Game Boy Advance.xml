@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -2676,6 +2676,11 @@
 		<comment>https://feuniverse.us/t/isekai-emblem-the-tales-two-complete-v1-2-3/12640</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="237 - Isekai Emblem" size="23924912" crc="60a52d28" />
+	</machine>
+	<machine name="JDL's FE 8 PME">
+		<comment>https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190</comment>
+		<publisher>PME</publisher>
+		<rom name="1271 - JDL's FE 8 PME" size="17135792" crc="a42e0e8a" />
 	</machine>
 	<machine name="jellyunicorn's Two Hour Blitz - bungus badventure">
 		<comment>https://feuniverse.us/t/two-hour-blitz/13728/7</comment>

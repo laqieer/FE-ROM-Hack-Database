@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -1629,6 +1629,9 @@
 	</machine>
 	<machine name="Isekai Emblem">
 		<rom name="237 - Isekai Emblem" size="23924912" crc="60a52d28" />
+	</machine>
+	<machine name="JDL's FE 8 PME">
+		<rom name="1271 - JDL's FE 8 PME" size="17135792" crc="a42e0e8a" />
 	</machine>
 	<machine name="jellyunicorn's Two Hour Blitz - bungus badventure">
 		<rom name="605 - jellyunicorn's Two Hour Blitz - bungus badventure" size="16911620" crc="a28e296a" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="756 - 0sheng mo">
+	<software name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -4347,6 +4347,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="237 - Isekai Emblem" size="23924912" crc="60a52d28" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="JDL's FE 8 PME">
+		<publisher>PME</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1271 - JDL's FE 8 PME" size="17135792" crc="a42e0e8a" />
 			</dataarea>
 		</part>
 	</software>

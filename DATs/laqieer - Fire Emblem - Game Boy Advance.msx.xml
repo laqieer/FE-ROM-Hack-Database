@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>756 - 0sheng mo</title>
+		<title>0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -7054,6 +7054,19 @@
 	</software>
 	<software>
 		<title>Isekai Emblem</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>JDL's FE 8 PME</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

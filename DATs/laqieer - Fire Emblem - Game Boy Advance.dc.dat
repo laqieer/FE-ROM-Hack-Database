@@ -1834,7 +1834,7 @@ game (
 )
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme.zip"
@@ -2181,6 +2181,10 @@ game (
 	file ( name 237 - Isekai Emblem size 23924912 crc 60a52d28 )
 )
 game (
+	name "JDL's FE 8 PME.zip"
+	file ( name 1271 - JDL's FE 8 PME size 17135792 crc a42e0e8a )
+)
+game (
 	name "jellyunicorn's Two Hour Blitz - bungus badventure.zip"
 	file ( name 605 - jellyunicorn's Two Hour Blitz - bungus badventure size 16911620 crc a28e296a )
 )
@@ -2374,7 +2378,7 @@ game (
 )
 game (
 	name "M. E. R. C. S..zip"
-	file ( name 467 - M. E. R. C size 18427704 crc 048eb1b6 )
+	file ( name 467 - M. E. R. C. S size 18427704 crc 048eb1b6 )
 )
 game (
 	name "MageKnight404's FE7 Hack.zip"
@@ -2690,7 +2694,7 @@ game (
 )
 game (
 	name "Project Sacred Stones v.0.2.5.1.zip"
-	file ( name 1106 - Project Sacred Stones v.0.2 size 17044860 crc a9d395a4 )
+	file ( name 1106 - Project Sacred Stones v.0.2.5 size 17044860 crc a9d395a4 )
 )
 game (
 	name "Prophecy of Flames.zip"

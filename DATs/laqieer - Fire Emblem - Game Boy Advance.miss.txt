@@ -542,6 +542,7 @@
 1193 - Iron Emblem (Chinese Translation) (Normal)
 592 - Iron Emblem (Hard Mode)
 237 - Isekai Emblem
+1271 - JDL's FE 8 PME
 605 - jellyunicorn's Two Hour Blitz - bungus badventure
 219 - Journeys
 1019 - Journeys - Gaiden

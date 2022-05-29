@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220528",
+		"version": "20220529",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -171,8 +171,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "183 - 2 Princesses (二人の王女)",
-						"size": 27926760,
-						"crc": "a9b70387"
+						"size": 27935748,
+						"crc": "1f0dbaa5"
 					}
 				}
 			]
@@ -368,9 +368,9 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "1069 - Another FE Girls",
-						"size": 18244176,
-						"crc": "b4f263c2"
+						"name": "1252 - Another FE Girls",
+						"size": 18241508,
+						"crc": "4bb6bb4d"
 					}
 				}
 			]
@@ -386,9 +386,45 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "1070 - Another FE Girls (with skills)",
+						"name": "1253 - Another FE Girls (with skills)",
+						"size": 18407596,
+						"crc": "997b9157"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Another FE Girls V2 (with skills)",
+				"comment": "https://feuniverse.us/t/fe8-another-fe-girls/10901",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1070 - Another FE Girls V2 (with skills)",
 						"size": 18407544,
 						"crc": "3c40f484"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Another FE Girls V2",
+				"comment": "https://feuniverse.us/t/fe8-another-fe-girls/10901",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1069 - Another FE Girls V2",
+						"size": 18244176,
+						"crc": "b4f263c2"
 					}
 				}
 			]
@@ -611,6 +647,24 @@
 		},
 		{
 			"machine": {
+				"name": "Attack On Titan",
+				"comment": "https://feuniverse.us/t/fe8-attack-on-titan-1-map-finished-romhack/15915",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1239 - Attack On Titan",
+						"size": 17369936,
+						"crc": "c408e76d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Auto Emblem",
 				"comment": "http://www.feshrine.net/hacking/patches/Auto%20Emblem.zip",
 				"description": null,
@@ -659,6 +713,24 @@
 						"name": "1080 - Awful Emblem - The Thread Demo",
 						"size": 22384920,
 						"crc": "50977793"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Axe Emblem (Chinese Translation)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1220 - Axe Emblem (Chinese Translation)",
+						"size": 30041500,
+						"crc": "963c9d3e"
 					}
 				}
 			]
@@ -929,6 +1001,24 @@
 						"name": "1088 - Bern 776",
 						"size": 10710472,
 						"crc": "46de39c0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "BERSERK EMBLEM",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/95738-fe8-berserk-emblem-ver-10/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1240 - BERSERK EMBLEM",
+						"size": 17072540,
+						"crc": "77194049"
 					}
 				}
 			]
@@ -1835,7 +1925,7 @@
 		},
 		{
 			"machine": {
-				"name": "Darion’s Blazing Sword (Eliwood mode)",
+				"name": "547 - Darion’s Blazing Sword (Eliwood mode)",
 				"comment": "https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -1973,6 +2063,24 @@
 						"name": "120 - Dark Lord and the Maiden of Light",
 						"size": 24393296,
 						"crc": "2edd404d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Dark Lord and The Maiden of Light (Chinese Translation)",
+				"comment": "道具名汉化",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1207 - Dark Lord and The Maiden of Light (Chinese Translation)",
+						"size": 24109016,
+						"crc": "e569de94"
 					}
 				}
 			]
@@ -2555,6 +2663,24 @@
 		},
 		{
 			"machine": {
+				"name": "Dorcas Emblem",
+				"comment": "https://vilkalizer.tumblr.com/post/151258882287/after-two-weeks-of-hard-work-which-may-or-may-not",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1218 - Dorcas Emblem",
+						"size": 16922660,
+						"crc": "1b68b9a6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Dorcas Emblem 2",
 				"comment": "https://feuniverse.us/t/dorcas-emblem-2-1/3092",
 				"description": null,
@@ -2567,6 +2693,24 @@
 						"name": "334 - Dorcas Emblem 2",
 						"size": 19343004,
 						"crc": "7f7d07d2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Dorcas Emblem - The Blazing Axe",
+				"comment": "https://www.reddit.com/r/fireemblem/comments/5yyoup/rom_hack_dorcas_emblem_the_blazing_axe/",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1219 - Dorcas Emblem - The Blazing Axe",
+						"size": 16777216,
+						"crc": "89eeaedd"
 					}
 				}
 			]
@@ -2753,6 +2897,24 @@
 		},
 		{
 			"machine": {
+				"name": "Elven Conquest",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1246 - Elven Conquest",
+						"size": 20660328,
+						"crc": "2eb4c6ad"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Emblem - Because Formats Never Die",
 				"comment": "https://feuniverse.us/t/emblem-because-formats-never-die/4696",
 				"description": null,
@@ -2933,6 +3095,24 @@
 		},
 		{
 			"machine": {
+				"name": "Evening Train Crash",
+				"comment": "https://feuniverse.us/t/nightfall-48-hour-hack-jam/15870/20",
+				"description": null,
+				"publisher": "Jam"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1212 - Evening Train Crash",
+						"size": 16777216,
+						"crc": "b7230cc6"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Exalted Legacy",
 				"comment": "https://feuniverse.us/t/fire-emblem-exalted-legacy/183",
 				"description": null,
@@ -2981,6 +3161,24 @@
 						"name": "442 - Faith and Blood",
 						"size": 20661300,
 						"crc": "e9be2065"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fall of the Mountain King",
+				"comment": "https://feuniverse.us/t/nightfall-48-hour-hack-jam/15870/19",
+				"description": null,
+				"publisher": "Jam"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1211 - Fall of the Mountain King",
+						"size": 18731348,
+						"crc": "c1fbcc82"
 					}
 				}
 			]
@@ -3107,6 +3305,24 @@
 						"name": "1108 - FE4 Link Arena",
 						"size": 19732436,
 						"crc": "6bf20475"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE4 Remake",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1236 - FE4 Remake",
+						"size": 23373980,
+						"crc": "f2e2931d"
 					}
 				}
 			]
@@ -3419,6 +3635,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 Chat Units",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1265 - FE6 Chat Units",
+						"size": 9516436,
+						"crc": "16729c6e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Fire Embad",
 				"comment": "https://feuniverse.us/t/fe6-fire-embad/14079",
 				"description": null,
@@ -3521,6 +3755,24 @@
 						"name": "764 - FE6 James Patch",
 						"size": 16777216,
 						"crc": "af26efb5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Mangs Patch",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1264 - FE6 Mangs Patch",
+						"size": 8608332,
+						"crc": "ad16c6d4"
 					}
 				}
 			]
@@ -3989,6 +4241,24 @@
 						"name": "1110 - FE6 Units in FE7",
 						"size": 18656848,
 						"crc": "7b52f748"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 Updated Graphics",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1259 - FE6 Updated Graphics",
+						"size": 16777532,
+						"crc": "7e821a79"
 					}
 				}
 			]
@@ -4795,6 +5065,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE7 Mangs Patch",
+				"comment": "Lyn duplicate bug fixed",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1250 - FE7 Mangs Patch",
+						"size": 16965528,
+						"crc": "12a86cae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE7 Plus [Enhancement Patch]",
 				"comment": "https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603",
 				"description": null,
@@ -5428,7 +5716,7 @@
 				"name": "FE8 Custom PME",
 				"comment": "https://feuniverse.us/t/fe8-custom-pme-v0-2/4595",
 				"description": null,
-				"publisher": "Fan Modding"
+				"publisher": "PME"
 			},
 			"items": [
 				{
@@ -5497,7 +5785,7 @@
 		},
 		{
 			"machine": {
-				"name": "FE8 Fanmade Directors Cut",
+				"name": "FE8 Fanmade Directors Cut (or FE8 Rework)",
 				"comment": "https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -5506,7 +5794,7 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "400 - FE8 Fanmade Directors Cut",
+						"name": "400 - FE8 Fanmade Directors Cut (or FE8 Rework)",
 						"size": 21871792,
 						"crc": "a7a210d5"
 					}
@@ -6229,6 +6517,24 @@
 						"name": "401 - FE8 The Fallen Princess",
 						"size": 21021140,
 						"crc": "3c806e93"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fe8 The Sacred Chairs PME",
+				"comment": "",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1270 - Fe8 The Sacred Chairs PME",
+						"size": 24220520,
+						"crc": "96eff7d5"
 					}
 				}
 			]
@@ -7568,7 +7874,7 @@
 		{
 			"machine": {
 				"name": "Fire Emblem - Heroes Remake",
-				"comment": "https://feuniverse.us/t/fire-emblem-heroes-remake-animation-wanted-247-chapters-completed-more-in-future/7177",
+				"comment": "https://github.com/laqieer/fe7-jp-stunning-tribble",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -7577,8 +7883,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "100 - Fire Emblem - Heroes Remake",
-						"size": 31526932,
-						"crc": "e841f4cb"
+						"size": 31621868,
+						"crc": "fb0c5d23"
 					}
 				}
 			]
@@ -8245,6 +8551,42 @@
 						"name": "279 - Fire Emblem - The Stone Chains",
 						"size": 25891240,
 						"crc": "076f39da"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - The Swinging Sword",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1255 - Fire Emblem - The Swinging Sword",
+						"size": 9178356,
+						"crc": "bf8fe6b8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - The Swinging Sword (0 Growths)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1256 - Fire Emblem - The Swinging Sword (0 Growths)",
+						"size": 9181060,
+						"crc": "fcc07c28"
 					}
 				}
 			]
@@ -9169,7 +9511,7 @@
 		},
 		{
 			"machine": {
-				"name": "Heaven’s Bloom",
+				"name": "Heaven’s Bloom (Easy mode)",
 				"comment": "https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879",
 				"description": null,
 				"publisher": "Fan Modding"
@@ -9178,9 +9520,27 @@
 				{
 					"datitem": {
 						"itemtype": "Rom",
-						"name": "154 - Heaven’s Bloom",
+						"name": "154 - Heaven’s Bloom (Easy mode)",
 						"size": 18376448,
 						"crc": "c998aa0e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Heaven’s Bloom (Hard mode)",
+				"comment": "https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1241 - Heaven’s Bloom (Hard mode)",
+						"size": 18398588,
+						"crc": "0c329909"
 					}
 				}
 			]
@@ -9655,6 +10015,42 @@
 		},
 		{
 			"machine": {
+				"name": "Justice and Pride (Special Content)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1247 - Justice and Pride (Special Content)",
+						"size": 17190252,
+						"crc": "b6236198"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Justice and Pride - Birth of Chaos",
+				"comment": "https://feuniverse.us/t/fire-emblem-justice-pride-birth-of-chaos-cancelled/13764",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1242 - Justice and Pride - Birth of Chaos",
+						"size": 27098480,
+						"crc": "51fbb301"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Justice and Pride - Book 2 (Chinese Translation)",
 				"comment": "道具汉化版",
 				"description": null,
@@ -9979,6 +10375,24 @@
 		},
 		{
 			"machine": {
+				"name": "Legend of John - Lingering Blood",
+				"comment": "https://feuniverse.us/t/legend-of-john-lingering-blood-6-levels-project-close-to-done-now/10642",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1245 - Legend of John - Lingering Blood",
+						"size": 18504548,
+						"crc": "d74d2ed3"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Legend of the Lost Mugs",
 				"comment": "https://feuniverse.us/t/mafc5/9981/12",
 				"description": null,
@@ -10231,6 +10645,24 @@
 		},
 		{
 			"machine": {
+				"name": "Lost Legacy",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/86580-fire-emblem-lost-legacy-romhack/",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1238 - Lost Legacy",
+						"size": 19602076,
+						"crc": "80aaf331"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Lute Emblem - The Sacred Lutes",
 				"comment": "https://forums.serenesforest.net/index.php?/topic/66288-fe8-lute-emblem-the-sacred-lutes/",
 				"description": null,
@@ -10369,6 +10801,96 @@
 						"name": "125 - Maiden Quest",
 						"size": 19773496,
 						"crc": "f11864bd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mangs Dungeon 100k sub special",
+				"comment": "3.0",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1257 - Mangs Dungeon 100k sub special",
+						"size": 19752216,
+						"crc": "d0a60edc"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mangs FE6 PME",
+				"comment": "",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1266 - Mangs FE6 PME",
+						"size": 16857996,
+						"crc": "655a5eb0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mangs FE7 PME",
+				"comment": "",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1267 - Mangs FE7 PME",
+						"size": 24573336,
+						"crc": "e2a456a1"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mangs FE7 PMS",
+				"comment": "",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1268 - Mangs FE7 PMS",
+						"size": 16883688,
+						"crc": "59778630"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Mangs FE8 PME",
+				"comment": "",
+				"description": null,
+				"publisher": "PME"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1269 - Mangs FE8 PME",
+						"size": 19319396,
+						"crc": "5b5db5f5"
 					}
 				}
 			]
@@ -11617,6 +12139,24 @@
 		},
 		{
 			"machine": {
+				"name": "Project Kenko Revamp",
+				"comment": "https://feuniverse.us/t/project-kenko-revamp/12228",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1244 - Project Kenko Revamp",
+						"size": 23504776,
+						"crc": "2e84ac32"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Project RE7",
 				"comment": "https://feuniverse.us/t/fe8-project-re7-port-fe7-using-fe8-engine-1st-release-we-need-still-testers-join-you-our-discord-server-for-info/9593",
 				"description": null,
@@ -11780,7 +12320,7 @@
 		{
 			"machine": {
 				"name": "R 烈火の剣 BlackFang",
-				"comment": "ver1.9",
+				"comment": "ver2.1",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -11789,8 +12329,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1161 - R 烈火の剣 BlackFang",
-						"size": 19755516,
-						"crc": "dbfeccaf"
+						"size": 20932364,
+						"crc": "c6153f00"
 					}
 				}
 			]
@@ -11863,6 +12403,24 @@
 						"name": "526 - Ragefest Revengeance",
 						"size": 20406156,
 						"crc": "fc673b9f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Randomized FE7",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1260 - Randomized FE7",
+						"size": 16785156,
+						"crc": "2ad4a76a"
 					}
 				}
 			]
@@ -12826,7 +13384,7 @@
 				"name": "Saviors of Thracia PME",
 				"comment": "https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309",
 				"description": null,
-				"publisher": "Reskin/Rebalance"
+				"publisher": "PME"
 			},
 			"items": [
 				{
@@ -12844,7 +13402,7 @@
 				"name": "Saviors of Thracia PME (Double Growths)",
 				"comment": "https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309",
 				"description": null,
-				"publisher": "Reskin/Rebalance"
+				"publisher": "PME"
 			},
 			"items": [
 				{
@@ -13561,6 +14119,60 @@
 		},
 		{
 			"machine": {
+				"name": "Super Randomized FE6",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1261 - Super Randomized FE6",
+						"size": 16779984,
+						"crc": "d02cc407"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Super Randomized FE7",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1262 - Super Randomized FE7",
+						"size": 16779950,
+						"crc": "d4ca8620"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Super Randomized FE8",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1263 - Super Randomized FE8",
+						"size": 16780015,
+						"crc": "b414a84b"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Sword of Heaven and Earth (English Translation)",
 				"comment": "https://feuniverse.us/t/fe7-fire-emblem-sword-of-heaven-and-earth-translation-complete-v1-2/12812",
 				"description": null,
@@ -13904,7 +14516,7 @@
 		{
 			"machine": {
 				"name": "The Blinding Bald",
-				"comment": "",
+				"comment": "1.5 Final Release",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -13913,8 +14525,26 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "563 - The Blinding Bald",
-						"size": 26143116,
-						"crc": "dee8e482"
+						"size": 26143588,
+						"crc": "8b70d96e"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The Blinding Bald (0 Growths)",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1258 - The Blinding Bald (0 Growths)",
+						"size": 26144000,
+						"crc": "c98709bb"
 					}
 				}
 			]
@@ -14929,6 +15559,24 @@
 		},
 		{
 			"machine": {
+				"name": "The Sacred Blade and the Demon Dragon",
+				"comment": "https://forums.serenesforest.net/index.php?/topic/94496-the-sacred-blade-and-the-demon-dragon/&tab=comments#comment-5804912",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1249 - The Sacred Blade and the Demon Dragon",
+						"size": 26303048,
+						"crc": "d126ca49"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "The Sacred Chairs",
 				"comment": "https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944",
 				"description": null,
@@ -15463,6 +16111,24 @@
 						"name": "1053 - TLP with Updated Animations",
 						"size": 33402172,
 						"crc": "ea5c9a40"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "TMGC",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tmgc-wip-current-patch-up-to-chapter-10/16284",
+				"description": null,
+				"publisher": "Jam"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1213 - TMGC",
+						"size": 24489712,
+						"crc": "c5e1ab78"
 					}
 				}
 			]
@@ -16199,8 +16865,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "181 - Yugudora Hack (ユグドラパッチ)",
-						"size": 26349436,
-						"crc": "ea667865"
+						"size": 29319148,
+						"crc": "4ec2dd15"
 					}
 				}
 			]
@@ -16307,8 +16973,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "716 - エイリークパッチ",
-						"size": 27746224,
-						"crc": "2ba502ca"
+						"size": 32525448,
+						"crc": "f558fc02"
 					}
 				}
 			]
@@ -16405,6 +17071,24 @@
 		},
 		{
 			"machine": {
+				"name": "东方苍神缘起周末",
+				"comment": "完结版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1215 - 东方苍神缘起周末",
+						"size": 32877972,
+						"crc": "ec605746"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "东方苍神缘起无印大神版",
 				"comment": "003",
 				"description": null,
@@ -16477,24 +17161,6 @@
 		},
 		{
 			"machine": {
-				"name": "主角大联盟",
-				"comment": "",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "863 - 主角大联盟",
-						"size": 30134392,
-						"crc": "09fb7e5d"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
 				"name": "主角大联盟完结版",
 				"comment": "",
 				"description": null,
@@ -16507,6 +17173,24 @@
 						"name": "888 - 主角大联盟完结版",
 						"size": 27805428,
 						"crc": "5001696d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "主角大联盟新生版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1221 - 主角大联盟新生版",
+						"size": 29439088,
+						"crc": "fd7f7a7d"
 					}
 				}
 			]
@@ -16561,6 +17245,42 @@
 						"name": "886 - 僵尸道长",
 						"size": 21486460,
 						"crc": "7e731649"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "兄妹的情谊",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1227 - 兄妹的情谊",
+						"size": 20296616,
+						"crc": "48c985fa"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "光明VS黑暗",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1230 - 光明VS黑暗",
+						"size": 21539188,
+						"crc": "249e9794"
 					}
 				}
 			]
@@ -16891,6 +17611,24 @@
 		},
 		{
 			"machine": {
+				"name": "国境なき騎士団",
+				"comment": "ver202103",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1248 - 国境なき騎士団",
+						"size": 19665712,
+						"crc": "a2c52e0d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "圣光之义友军",
 				"comment": "测试版",
 				"description": null,
@@ -17011,6 +17749,24 @@
 						"name": "923 - 圣兵风云录",
 						"size": 25911312,
 						"crc": "0a85f774"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "圣灵之书",
+				"comment": "9章未完结",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1217 - 圣灵之书",
+						"size": 26908280,
+						"crc": "ee0664c9"
 					}
 				}
 			]
@@ -17557,6 +18313,24 @@
 		},
 		{
 			"machine": {
+				"name": "圣魔解密",
+				"comment": "5.0",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1243 - 圣魔解密",
+						"size": 22182432,
+						"crc": "475d6fd4"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "多拉基亚776GBA复刻版",
 				"comment": "",
 				"description": null,
@@ -17567,8 +18341,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "870 - 多拉基亚776GBA复刻版",
-						"size": 33327848,
-						"crc": "3ee35095"
+						"size": 33328052,
+						"crc": "b4f75ac4"
 					}
 				}
 			]
@@ -17623,6 +18397,24 @@
 						"name": "793 - 奇怪的改版",
 						"size": 20971520,
 						"crc": "9d32ba55"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "女主角路线",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1231 - 女主角路线",
+						"size": 16777216,
+						"crc": "ff7396b2"
 					}
 				}
 			]
@@ -17684,7 +18476,7 @@
 		{
 			"machine": {
 				"name": "女神的救赎重置版（固定加点）",
-				"comment": "",
+				"comment": "更新日期2022.5.4",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -17693,8 +18485,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "846 - 女神的救赎重置版（固定加点）",
-						"size": 33001600,
-						"crc": "3c8e4a20"
+						"size": 33036684,
+						"crc": "b5266fcc"
 					}
 				}
 			]
@@ -17953,6 +18745,42 @@
 		},
 		{
 			"machine": {
+				"name": "封印之剑南开博士改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1235 - 封印之剑南开博士改版",
+						"size": 10688680,
+						"crc": "1f1f685f"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印之剑反向收人固定成长",
+				"comment": "2.24",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1223 - 封印之剑反向收人固定成长",
+						"size": 8388764,
+						"crc": "b6ff0221"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "封印之剑国王版",
 				"comment": "",
 				"description": null,
@@ -17971,6 +18799,24 @@
 		},
 		{
 			"machine": {
+				"name": "封印之剑美化重置版",
+				"comment": "9.14号更新",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1254 - 封印之剑美化重置版",
+						"size": 18097032,
+						"crc": "7cd2d837"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "封印加强版",
 				"comment": "",
 				"description": null,
@@ -17983,6 +18829,24 @@
 						"name": "928 - 封印加强版",
 						"size": 8388608,
 						"crc": "5979b3ae"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "封印最终版自我改版",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1251 - 封印最终版自我改版",
+						"size": 12137504,
+						"crc": "c98074e5"
 					}
 				}
 			]
@@ -18062,7 +18926,7 @@
 		{
 			"machine": {
 				"name": "幸运的七色花",
-				"comment": "2篇章完结最终修复版",
+				"comment": "三篇完结",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -18072,7 +18936,7 @@
 						"itemtype": "Rom",
 						"name": "884 - 幸运的七色花",
 						"size": 33554432,
-						"crc": "d497bd48"
+						"crc": "4d7d2fae"
 					}
 				}
 			]
@@ -18080,7 +18944,7 @@
 		{
 			"machine": {
 				"name": "幻想烈火传",
-				"comment": "1.7修复版",
+				"comment": "3.0",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -18089,8 +18953,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "833 - 幻想烈火传",
-						"size": 31445952,
-						"crc": "4fcc4e9a"
+						"size": 31592540,
+						"crc": "ba06eeed"
 					}
 				}
 			]
@@ -18169,18 +19033,36 @@
 		},
 		{
 			"machine": {
-				"name": "放开那个魔王",
-				"comment": "前8章测试版",
+				"name": "挑战1",
+				"comment": "最终调整版本",
 				"description": null,
-				"publisher": "Reskin/Rebalance"
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1228 - 挑战1",
+						"size": 17852420,
+						"crc": "e0d11130"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "放开那个魔王",
+				"comment": "1-12章测试版",
+				"description": null,
+				"publisher": "Fan Modding"
 			},
 			"items": [
 				{
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "900 - 放开那个魔王",
-						"size": 19019252,
-						"crc": "38f11041"
+						"size": 21536448,
+						"crc": "79f6de81"
 					}
 				}
 			]
@@ -18199,6 +19081,42 @@
 						"name": "1162 - 新エイリーク",
 						"size": 27602232,
 						"crc": "f8852487"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新エイリークパッチ",
+				"comment": "http://feyugudora444.livedoor.blog/archives/28979238.html",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1214 - 新エイリークパッチ",
+						"size": 28183076,
+						"crc": "ec948fce"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "新主角大联盟",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1233 - 新主角大联盟",
+						"size": 29843928,
+						"crc": "43eefe68"
 					}
 				}
 			]
@@ -18235,6 +19153,14 @@
 						"name": "921 - 新圣火微章",
 						"size": 27446884,
 						"crc": "20c552d6"
+					}
+				},
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1234 - 新圣火微章",
+						"size": 27446896,
+						"crc": "504a83bc"
 					}
 				}
 			]
@@ -18343,6 +19269,24 @@
 						"name": "917 - 旅程",
 						"size": 20442448,
 						"crc": "91930108"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "旅程（新版本）",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1232 - 旅程（新版本）",
+						"size": 33554432,
+						"crc": "776b8504"
 					}
 				}
 			]
@@ -18871,6 +19815,42 @@
 		},
 		{
 			"machine": {
+				"name": "永恒的哀伤",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1225 - 永恒的哀伤",
+						"size": 27822240,
+						"crc": "ed145d1d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "汐月の时空",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1224 - 汐月の时空",
+						"size": 18110128,
+						"crc": "1fc92766"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "流浪公主",
 				"comment": "完结版",
 				"description": null,
@@ -19303,6 +20283,24 @@
 		},
 		{
 			"machine": {
+				"name": "真主角大联盟",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "863 - 真主角大联盟",
+						"size": 30134392,
+						"crc": "09fb7e5d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "祈悠之月",
 				"comment": "正式版",
 				"description": null,
@@ -19369,6 +20367,24 @@
 						"name": "826 - 神兵无双",
 						"size": 21464504,
 						"crc": "1ebafc19"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "神圣战争",
+				"comment": "",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1226 - 神圣战争",
+						"size": 30722896,
+						"crc": "ddc77add"
 					}
 				}
 			]
@@ -19591,6 +20607,24 @@
 		},
 		{
 			"machine": {
+				"name": "群友大乱斗1",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1222 - 群友大乱斗1",
+						"size": 17413192,
+						"crc": "e9f5d5c8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "聖魔 ちょっ改",
 				"comment": "",
 				"description": null,
@@ -19663,6 +20697,42 @@
 		},
 		{
 			"machine": {
+				"name": "艾雷布漫谈",
+				"comment": "1.2",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1229 - 艾雷布漫谈",
+						"size": 25411796,
+						"crc": "95b6c59d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "艾雷布英雄战记",
+				"comment": "更新至09章",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1237 - 艾雷布英雄战记",
+						"size": 19183504,
+						"crc": "18a8abb7"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "花开于漠",
 				"comment": "",
 				"description": null,
@@ -19675,6 +20745,24 @@
 						"name": "841 - 花开于漠",
 						"size": 20968000,
 						"crc": "8f7e5642"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "苍月传",
+				"comment": "20220421",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1216 - 苍月传",
+						"size": 31440340,
+						"crc": "9262345a"
 					}
 				}
 			]
@@ -20593,24 +21681,6 @@
 						"name": "854 - 黑暗轮回者-007优化简单版",
 						"size": 32270164,
 						"crc": "48d59dbf"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
-				"name": "黑魔王与光明少女 (Chinese Translation)",
-				"comment": "道具名汉化",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "1207 - 黑魔王与光明少女 (Chinese Translation)",
-						"size": 24109016,
-						"crc": "e569de94"
 					}
 				}
 			]

@@ -28,7 +28,7 @@
 30,Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,1CCF7040,火焰纹章 - 封印之剑[狼组&火花天龙剑](v1.1)(2006090701) (简) (火花加料版)
 31,Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,4186D6E5,火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)
 32,Fire Emblem - The Sacred Stones (Russian Translation),Fan Translation,USA,DiamondAppendix,English,C1A69E8F,https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901
-100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,E841F4CB,https://feuniverse.us/t/fire-emblem-heroes-remake-animation-wanted-247-chapters-completed-more-in-future/7177
+100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,FB0C5D23,https://github.com/laqieer/fe7-jp-stunning-tribble
 101,Fire Emblem - Will of Good and Evil,Reskin/Rebalance,Japan,Wolf & Chinafe,Chinese,9CBB923E,http://www.fireemblem.net/fe/download/index.htm
 102,Shining Armor,Fan Modding,Japan,Blazer,English,67368BBB,http://www.romhacking.net/hacks/538/
 103,The Last Promise,Fan Modding,USA,Blazer,English,D1C6E5D5,http://www.feshrine.net/thelastpromise/
@@ -82,7 +82,7 @@
 151,One-Turn-Clear,Fan Modding,USA,Ephraim225,English,E930A809,https://feuniverse.us/t/fe8us-fire-emblem-one-turn-clear/4638
 152,The Dragon Herald,Fan Modding,USA,BigMood,English,72D65E0B,https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075
 153,The Dragon Herald (DSSave),Fan Modding,USA,BigMood,English,24EAA892,https://feuniverse.us/t/fire-emblem-the-dragon-herald-103-complete-fe8-hack/7075
-154,Heaven’s Bloom,Fan Modding,USA,Roosterton,English,C998AA0E,https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879
+154,Heaven’s Bloom (Easy mode),Fan Modding,USA,Roosterton,English,C998AA0E,https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879
 155,Fire Emblem - The Heroes We Deserve,Fan Modding,USA,A_Reliable_Chair,English,A2171A8E,https://feuniverse.us/t/fe8-complete-fire-emblem-the-heroes-we-deserve-v1-3/4306
 156,Barry’s Bandits,Fan Modding,USA,DotDotDot,English,2CE87EA5,https://feuniverse.us/t/fire-emblem-barrys-bandits-complete/5707
 157,Fire Emblem - The Arch of Coups,Fan Modding,USA,Darrman,English,362CECEF,https://feuniverse.us/t/fe8-fire-emblem-the-arch-of-coups-v1-1-2-0-in-development/5320
@@ -109,9 +109,9 @@
 178,A Glimpse of Time (時の垣間 エリウッド編),Fan Modding,Japan,名軍師YU,Japanese,CACCB1EB,https://ameblo.jp/yu-meigunsi/theme-10033783736.html
 179,Kaitou,Fan Modding,Japan,7743,Japanese,8605CC5A,https://feuniverse.us/t/fe8-kaitou-patch/2984
 180,Kaitou (English),Fan Modding,Japan,7743,English,103C7866,https://feuniverse.us/t/fe8-kaitou-patch/2984
-181,Yugudora Hack (ユグドラパッチ),Fan Modding,Japan,Isaac,Japanese,EA667865,http://feyugudora444.livedoor.blog/
+181,Yugudora Hack (ユグドラパッチ),Fan Modding,Japan,Isaac,Japanese,4EC2DD15,http://feyugudora444.livedoor.blog/
 182,Yggdra Hack UI Translation,Fan Modding,Japan,Pikmin1211,English,63B815AD,https://feuniverse.us/t/yggdra-hack-ui-translation/6492
-183,2 Princesses (二人の王女),Fan Modding,Japan,レイファ,Japanese,A9B70387,http://fequeen.blog.fc2.com/
+183,2 Princesses (二人の王女),Fan Modding,Japan,レイファ,Japanese,1F0DBAA5,http://fequeen.blog.fc2.com/
 184,2 Princesses (English Translation),Fan Modding,Japan,Pollen,English,CDF24969,https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380
 185,The Sacred Chairs,Fan Modding,USA,Mangs PME Team,English,841A14F7,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
 186,The Sacred Chairs (Boss Version),Fan Modding,USA,Mangs PME Team,English,34D15CAF,https://feuniverse.us/t/fe8-the-sacred-chairs-aka-mangss-fe8-patreon-pme-completed-updates-bosses-0-growths/5944
@@ -328,7 +328,7 @@
 397,FE8 Project Dark,Reskin/Rebalance,USA,ToGY,English,4B31296B,https://feuniverse.us/t/fe8-project-dark-debalanced-unember-unima-unsotf-inspired-playable-in-full/12158
 398,Sacred Stones Death Difficulty,Reskin/Rebalance,USA,Slimjim8345,English,35D91A7C,https://feuniverse.us/t/fe-sacred-stones-death-difficulty/13186
 399,FE8 Redux,Reskin/Rebalance,USA,Azreal25,English,B767B1DD,https://feuniverse.us/t/fe8-redux-v2-1-complete/13751
-400,FE8 Fanmade Directors Cut,Reskin/Rebalance,USA,KaidenMelon,English,A7A210D5,https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029
+400,FE8 Fanmade Directors Cut (or FE8 Rework),Reskin/Rebalance,USA,KaidenMelon,English,A7A210D5,https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029
 401,FE8 The Fallen Princess,Reskin/Rebalance,USA,Ema Colito,English,3C806E93,https://feuniverse.us/t/fire-emblem-8-the-fallen-princess-ch-23-ending-complete/14317
 402,Touhou Emblem 8 - The Sacred Shrines,Reskin/Rebalance,Japan,redeyesblackdrag0n,Japanese,E18FC466,https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/90
 403,"FE8 Oops, All Archers!",Reskin/Rebalance,USA,HeroicVileplume,English,0C7A2625,https://feuniverse.us/t/fe8-oops-all-archers-v1-1/15253
@@ -491,7 +491,7 @@
 560,Darion’s Blazing Sword (Hector mode),Reskin/Rebalance,USA,Darion,English,908E9A34,https://serenesforest.net/general/translation-patches-and-hacks/darions-blazing-sword/
 561,Pukachi's Contest Patch,Fan Modding,USA,Pukachi,English,585F0C17,
 562,Bird Up!,Fan Modding,USA,Kris.k,English,F1EFDF9E,https://feuniverse.us/t/bird-up-somewhat-complete/11387
-563,The Blinding Bald,Fan Modding,USA,Mangs Team,English,DEE8E482,
+563,The Blinding Bald,Fan Modding,USA,Mangs Team,English,8B70D96E,1.5 Final Release
 564,Coronavirus Emblem,Fan Modding,USA,yikes,English,5D8CD7A8,https://feuniverse.us/t/coronavirus-emblem-quick-and-dirty-meme-hack-not-much-has-changed/7419
 565,Many Emblem,Fan Modding,USA,Kris.k,English,739D2B9E,https://fecentral.org/?page=hackinfo&hackid=138
 566,Temple of Ardesia,Fan Modding,USA,FrecciaVerde,English,A67B7EA1,https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246
@@ -644,7 +644,7 @@
 713,FE8plus,Reskin/Rebalance,Japan,unknown,Japanese,A8B1FB0B,
 714,FE8S+アルファ版,Reskin/Rebalance,Japan,Tikihuku1,Japanese,535A31DD,
 715,WillanZ Rebellion (リベリオン),Fan Modding,Japan,V,Japanese,DE84BB04,http://feblackrebellion.livedoor.blog/
-716,エイリークパッチ,Fan Modding,Japan,Isaac,Japanese,2BA502CA,http://feyugudora444.livedoor.blog/
+716,エイリークパッチ,Fan Modding,Japan,Isaac,Japanese,F558FC02,http://feyugudora444.livedoor.blog/
 717,つどえ八神将 (tsudoe),Fan Modding,Japan,unknown,Japanese,75D63F23,
 718,つどえ八神将 (しねおじ),Fan Modding,Japan,unknown,Japanese,C7DF9ECC,
 719,デフレ聖魔の光石,Reskin/Rebalance,Japan,unknown,Japanese,08547586,
@@ -761,7 +761,7 @@
 830,绯红之章,Fan Modding,Japan,艾丝特,Chinese,B5FAB1AF,完结修复005
 831,时光战纪上,Fan Modding,Japan,尘霜,Chinese,29738E88,完结修复
 832,时光战纪下,Fan Modding,Japan,尘霜,Chinese,2106BDC7,完结修复
-833,幻想烈火传,Fan Modding,Japan,蕾贝卡的主人,Chinese,4FCC4E9A,1.7修复版
+833,幻想烈火传,Fan Modding,Japan,蕾贝卡的主人,Chinese,BA06EEED,3.0
 834,粗鄙的我,Fan Modding,Japan,蕾贝卡的主人,Chinese,3F5C8FC7,特制版
 835,童子军,Fan Modding,Japan,血族领主,Chinese,5831A5CC,V2.2
 836,时空的羁绊,Fan Modding,Japan,剑舞,Chinese,F91DB891,0.25
@@ -774,7 +774,7 @@
 843,宿命传说,Fan Modding,Japan,半夏,Chinese,7454DE30,
 844,逆反圣魔番外传,Fan Modding,Japan,君二大爷,Chinese,26E8522D,
 845,女神的救赎重置版,Fan Modding,Japan,纱魅子,Chinese,C0E36C50,
-846,女神的救赎重置版（固定加点）,Fan Modding,Japan,纱魅子,Chinese,3C8E4A20,
+846,女神的救赎重置版（固定加点）,Fan Modding,Japan,纱魅子,Chinese,B5266FCC,更新日期2022.5.4
 847,火纹三国,Fan Modding,Japan,unknown,Chinese,D5C254E8,9章
 848,苍炎的勇者,Fan Modding,Japan,xxx的戏剧,Chinese,A682EC6A,4.5.1
 849,东方苍神缘起残暑平民版,Fan Modding,Japan,奇峰先生,Chinese,5A02D5B4,
@@ -791,14 +791,14 @@
 860,不知名改版,Reskin/Rebalance,Japan,unknown,Chinese,A347D734,
 861,命运,Fan Modding,Japan,unknown,Chinese,3DC1CA38,3.4
 862,后宫战纪全人物平衡版,Fan Modding,Japan,艾丝特,Chinese,4B5EF030,
-863,主角大联盟,Fan Modding,Japan,小林游太,Chinese,09FB7E5D,
+863,真主角大联盟,Fan Modding,Japan,小林游太,Chinese,09FB7E5D,
 864,召唤师,Fan Modding,Japan,阿库娅,Chinese,4F89C557,1.4
 865,明与宵之章,Reskin/Rebalance,Japan,大魔王AS,Chinese,E57890AF,beta0.2版
 866,暗之彼方,Fan Modding,Japan,一剑生死两茫茫,Chinese,D348549A,
 867,圣魔F版,Fan Modding,Japan,飞鹰隼翼,Chinese,B7B978D5,
 868,圣魔之光石精修版,Reskin/Rebalance,Japan,圣灵奥瑞尔,Chinese,76532A14,
 869,苍炎乱入版,Reskin/Rebalance,Japan,unknown,Japanese,DC7BBD0C,
-870,多拉基亚776GBA复刻版,Fan Modding,Japan,蕾贝卡的主人,Chinese,3EE35095,
+870,多拉基亚776GBA复刻版,Fan Modding,Japan,蕾贝卡的主人,Chinese,B4F75AC4,
 871,The Eligor’s Spear (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,81D49D3E,埃力格之枪V1.4完全汉化最终版v1.0
 872,Saving Christmas (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,EFDBE109,圣诞大作战汉化版V1.1
 873,血族再生,Fan Modding,Japan,血族领主,Chinese,34E72F95,圣诞大作战汉化版V1.1
@@ -812,7 +812,7 @@
 881,异界旅者,Fan Modding,Japan,艾丝特,Chinese,5B1DE0B8,鸟篇完结
 882,逆封印之剑,Fan Modding,Japan,unknown,Japanese,4322F8D3,
 883,魔之暗,Fan Modding,Japan,unknown,Chinese,48E54442,1
-884,幸运的七色花,Fan Modding,Japan,xxx的戏剧,Chinese,D497BD48,2篇章完结最终修复版
+884,幸运的七色花,Fan Modding,Japan,xxx的戏剧,Chinese,4D7D2FAE,三篇完结
 885,时空的咆哮,Fan Modding,Japan,星痕,Chinese,CEF50CD5,
 886,僵尸道长,Fan Modding,Japan,蕾贝卡的主人,Chinese,7E731649,200406
 887,英雄的挑战,Fan Modding,Japan,尘霜,Chinese,8241E45E,完结
@@ -828,7 +828,7 @@
 897,完整版,Fan Modding,Japan,Reskin/Rebalance,Chinese,A010B1CA,
 898,秩序之剑,Fan Modding,Japan,HAYATE,Chinese,1DC6FFB7,DEMO2022-1-17
 899,誓约传说,Fan Modding,Japan,悲桑酱,Chinese,68BE4AB9,更9章
-900,放开那个魔王,Reskin/Rebalance,Japan,unknown,Chinese,38F11041,前8章测试版
+900,放开那个魔王,Fan Modding,Japan,unknown,Chinese,79F6DE81,1-12章测试版
 901,红月Z,Fan Modding,Japan,xxx的戏剧,Chinese,B5729868,
 902,红月第一部,Fan Modding,Japan,xxx的戏剧,Chinese,92A16C4B,完结最终版
 903,Devourer of Worlds,Fan Modding,USA,FlyingAce,English,B72F5A94,
@@ -997,8 +997,8 @@
 1066,The Ancient Swords,Fan Modding,USA,Lord_Helferd,Spanish,B584C2A1,https://feuniverse.us/t/fire-emblem-the-ancient-swords-fe8-very-early-build-en-es-patch-avaible/13877
 1067,FE8 - The Twin Dragons,Reskin/Rebalance,USA,Fates-Blade,English,370D3DE8,https://feuniverse.us/t/fe8-fire-emblem-the-twin-dragons-playtesters-needed/12974
 1068,Fire Emblem - Sacred Blaze,Reskin/Rebalance,USA,knabepicer,English,95ACEBB1,https://feuniverse.us/t/fire-emblem-sacred-blaze/12892
-1069,Another FE Girls,Reskin/Rebalance,USA,LArachel,English,B4F263C2,https://feuniverse.us/t/fe8-another-fe-girls/10901
-1070,Another FE Girls (with skills),Reskin/Rebalance,USA,LArachel,English,3C40F484,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1069,Another FE Girls V2,Reskin/Rebalance,USA,LArachel,English,B4F263C2,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1070,Another FE Girls V2 (with skills),Reskin/Rebalance,USA,LArachel,English,3C40F484,https://feuniverse.us/t/fe8-another-fe-girls/10901
 1071,Project 0337 - RE6 (Demo),Fan Modding,USA,Reyk_Retro0337,English,B4D66A84,https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838
 1072,Project 0337 - RE6 (Official),Fan Modding,USA,Reyk_Retro0337,English,ACDB00CD,https://feuniverse.us/t/fe8-project-0337-re6-vbeta-2-32-0-we-need-testers-join-discord-please/9838
 1073,FE7 Kaizo,Reskin/Rebalance,USA,Saifulislam,English,66F5FBF6,https://feuniverse.us/t/fire-emblem-7-kaizo-demo-out/14872
@@ -1012,7 +1012,7 @@
 1081,War of Secrets,Fan Modding,USA,ethanb2309,English,7447D447,https://feuniverse.us/t/fe-war-of-secrets/11198
 1082,FE7 - Sus Emblem,Reskin/Rebalance,USA,Sariasath,English,8EBAA7CB,https://feuniverse.us/t/sus-emblem-fe7/14697
 1083,Ether's FE8 Reskin,Reskin/Rebalance,USA,Ether,English,20F71449,https://feuniverse.us/t/fire-emblem-8-reskin/12150
-1084,FE8 Custom PME,Fan Modding,USA,flasuban,English,7BD8BAF8,https://feuniverse.us/t/fe8-custom-pme-v0-2/4595
+1084,FE8 Custom PME,PME,USA,flasuban,English,7BD8BAF8,https://feuniverse.us/t/fe8-custom-pme-v0-2/4595
 1085,FEVengers - Infinity Stones,Fan Modding,USA,imperialjacob,English,2E07E47D,https://feuniverse.us/t/fevengers-infinity-stones/5919
 1086,FE8 Mad Mode,Reskin/Rebalance,USA,AelphysTerra,English,BA8E12F9,https://feuniverse.us/t/fe8-mad-mode/1839
 1087,FE4GBA - Genealogy in FE7,Fan Modding,USA,Helious,English,EE77CF49,https://feuniverse.us/t/fe4gba-genealogy-in-fe7/13406
@@ -1065,8 +1065,8 @@
 1134,Purple Axe Guys Paralogue,Fan Modding,USA,DonkinDo,English,DE239B39,https://feuniverse.us/t/geese-and-geitz-elibian-night-style-paralogue/9872
 1135,Fire Emblem War - Final Judgment,Fan Modding,USA,Fates-Blade,English,5BEA56F8,https://feuniverse.us/t/can-you-all-help-me-make-fire-emblem-war-final-judgment/13548
 1136,FE8 but everything OHKOs (Player Phase Emblem 8),Reskin/Rebalance,USA,ToGY,English,7D74B792,https://feuniverse.us/t/fe8-but-everything-ohkos-player-phase-emblem-8/13859
-1137,Saviors of Thracia PME,Reskin/Rebalance,USA,Zoisite,English,C17D1CF6,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
-1138,Saviors of Thracia PME (Double Growths),Reskin/Rebalance,USA,Zoisite,English,373C9BAD,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
+1137,Saviors of Thracia PME,PME,USA,Zoisite,English,C17D1CF6,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
+1138,Saviors of Thracia PME (Double Growths),PME,USA,Zoisite,English,373C9BAD,https://feuniverse.us/t/completed-content-warning-saviors-of-thracia-pme/6309
 1139,Setsuko's FE 7 Patch (Just a Newbie Training),Reskin/Rebalance,USA,Setsuko,English,EDD1A96B,https://feuniverse.us/t/fe-7-patch-just-a-newbie-training/14791
 1140,Binding Blade - Lyn Mode,Reskin/Rebalance,Japan,Jotari,English,AC21F6D2,https://feuniverse.us/t/binding-blade-lyn-mode/13379
 1141,Fire Emblem Narshen Battles,Fan Modding,USA,NeroZonbolt,Spanish,88ECAB3C,https://feuniverse.us/t/fire-emblem-narshen-battles/2565
@@ -1089,7 +1089,7 @@
 1158,Water Emblem Project Aqua,Reskin/Rebalance,USA,darknight97,English,789E1B04,https://feuniverse.us/t/fire-emblem-7-project-aqua/9785
 1159,FE8 but almost everyone has Astra and will always activate if they hit,Reskin/Rebalance,USA,DigBick,English,468D627D,https://feuniverse.us/t/fe8-but-almost-everyone-has-astra-and-will-always-activate-if-they-hit/15473
 1160,OCA Reverse Recruitment,Fan Modding,USA,ltranc,English,66029A50,https://feuniverse.us/t/oca-reverse-recruitment/5347
-1161,R 烈火の剣 BlackFang,Reskin/Rebalance,Japan,unknown,Japanese,DBFECCAF,ver1.9
+1161,R 烈火の剣 BlackFang,Reskin/Rebalance,Japan,unknown,Japanese,C6153F00,ver2.1
 1162,新エイリーク,Reskin/Rebalance,Japan,Kenpufu,Japanese,F8852487,
 1163,Fire Emblem La Redencion de Biran,Fan Modding,USA,DonkinDo,Spanish,706F9793,https://www.fireemblemwod.com/foro/viewtopic.php?t=16948
 1164,FE8 Arrange,Reskin/Rebalance,USA,Shadeloki,English,5E26BD9D,https://www.fireemblemwod.com/foro/viewtopic.php?f=29&t=17427
@@ -1135,7 +1135,67 @@
 1204,Code of the Burger King (Chinese Translation),Fan Modding,USA,unknown,Chinese,30C3CD7D,道具汉化
 1205,Sacred Contention (Chinese Translation),Fan Modding,USA,unknown,Chinese,EEE9A542,汉化先行版
 1206,Dream of Five (Chinese Translation),Fan Modding,USA,unknown,Chinese,03F21708,道具名汉化
-1207,黑魔王与光明少女 (Chinese Translation),Fan Modding,USA,unknown,Chinese,E569DE94,道具名汉化
+1207,Dark Lord and The Maiden of Light (Chinese Translation),Fan Modding,USA,unknown,Chinese,E569DE94,道具名汉化
 1208,Terror of the Forest (Chinese Translation),Fan Modding,USA,小丑の梦,Chinese,C79D1F6A,汉化体验版
 1209,Fire Emblem - Code of the Black Knights (Chinese Translation),Fan Modding,USA,unknown,Chinese,17DA2C4C,内置字库
 1210,佣兵公司 (Chinese Translation),Fan Modding,USA,unknown,Chinese,A44472EE,汉化至第八章
+1211,Fall of the Mountain King,Jam,USA,Sme,English,C1FBCC82,https://feuniverse.us/t/nightfall-48-hour-hack-jam/15870/19
+1212,Evening Train Crash,Jam,USA,Darrman,English,B7230CC6,https://feuniverse.us/t/nightfall-48-hour-hack-jam/15870/20
+1213,TMGC,Jam,USA,Retina,English,C5E1AB78,https://feuniverse.us/t/fe8-fire-emblem-tmgc-wip-current-patch-up-to-chapter-10/16284
+1214,新エイリークパッチ,Fan Modding,Japan,unknown,Japanese,EC948FCE,http://feyugudora444.livedoor.blog/archives/28979238.html
+1215,东方苍神缘起周末,Fan Modding,Japan,奇峰先生,Chinese,EC605746,完结版
+1216,苍月传,Fan Modding,Japan,蕾贝卡的主人,Chinese,9262345A,20220421
+1217,圣灵之书,Fan Modding,Japan,unknown,Chinese,EE0664C9,9章未完结
+1218,Dorcas Emblem,Reskin/Rebalance,USA,Vilk,English,1B68B9A6,https://vilkalizer.tumblr.com/post/151258882287/after-two-weeks-of-hard-work-which-may-or-may-not
+1219,Dorcas Emblem - The Blazing Axe,Reskin/Rebalance,USA,TheGamechu,English,89EEAEDD,https://www.reddit.com/r/fireemblem/comments/5yyoup/rom_hack_dorcas_emblem_the_blazing_axe/
+1220,Axe Emblem (Chinese Translation),Fan Modding,USA,unknown,Chinese,963C9D3E,
+1221,主角大联盟新生版,Fan Modding,Japan,小林游太,Chinese,FD7F7A7D,
+1222,群友大乱斗1,Fan Modding,Japan,妹剑Freedom,Chinese,E9F5D5C8,
+1223,封印之剑反向收人固定成长,Reskin/Rebalance,Japan,unknown,Chinese,B6FF0221,2.24
+1224,汐月の时空,Reskin/Rebalance,Japan,unknown,Chinese,1FC92766,
+1225,永恒的哀伤,Fan Modding,Japan,unknown,Chinese,ED145D1D,
+1226,神圣战争,Reskin/Rebalance,Japan,unknown,Chinese,DDC77ADD,
+1227,兄妹的情谊,Fan Modding,Japan,剑舞freedom,Chinese,48C985FA,
+1228,挑战1,Fan Modding,Japan,剑舞freedom,Chinese,E0D11130,最终调整版本
+1229,艾雷布漫谈,Fan Modding,Japan,蕾贝卡的主人,Chinese,95B6C59D,1.2
+1230,光明VS黑暗,Fan Modding,Japan,unknown,Chinese,249E9794,
+1231,女主角路线,Reskin/Rebalance,Japan,unknown,Chinese,FF7396B2,
+1232,旅程（新版本）,Fan Modding,Japan,零,Chinese,776B8504,
+1233,新主角大联盟,Fan Modding,Japan,小林游太,Chinese,43EEFE68,
+1234,新圣火微章,Fan Modding,Japan,unknown,Chinese,504A83BC,修复版
+1235,封印之剑南开博士改版,Reskin/Rebalance,Japan,张维达一世,Chinese,1F1F685F,
+1236,FE4 Remake,Fan Modding,USA,unknown,English,F2E2931D,
+1237,艾雷布英雄战记,Fan Modding,Japan,unknown,Chinese,18A8ABB7,更新至09章
+1238,Lost Legacy,Fan Modding,USA,Feriance,Spanish,80AAF331,https://forums.serenesforest.net/index.php?/topic/86580-fire-emblem-lost-legacy-romhack/
+1239,Attack On Titan,Fan Modding,USA,Salchi,English,C408E76D,https://feuniverse.us/t/fe8-attack-on-titan-1-map-finished-romhack/15915
+1240,BERSERK EMBLEM,Fan Modding,USA,TomLeggosaurus,English,77194049,https://forums.serenesforest.net/index.php?/topic/95738-fe8-berserk-emblem-ver-10/
+1241,Heaven’s Bloom (Hard mode),Fan Modding,USA,Roosterton,English,0C329909,https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879
+1242,Justice and Pride - Birth of Chaos,Fan Modding,USA,MrGreen3339,English,51FBB301,https://feuniverse.us/t/fire-emblem-justice-pride-birth-of-chaos-cancelled/13764
+1243,圣魔解密,Reskin/Rebalance,Japan,unknown,Chinese,475D6FD4,5.0
+1244,Project Kenko Revamp,Fan Modding,USA,Topyke,English,2E84AC32,https://feuniverse.us/t/project-kenko-revamp/12228
+1245,Legend of John - Lingering Blood,Fan Modding,USA,unknown,English,D74D2ED3,https://feuniverse.us/t/legend-of-john-lingering-blood-6-levels-project-close-to-done-now/10642
+1246,Elven Conquest,Fan Modding,USA,PinkTea,English,2EB4C6AD,
+1247,Justice and Pride (Special Content),Fan Modding,USA,unknown,English,B6236198,
+1248,国境なき騎士団,Fan Modding,Japan,Kennpuhu,Japanese,A2C52E0D,ver202103
+1249,The Sacred Blade and the Demon Dragon,Fan Modding,USA,YamiEvius,English,D126CA49,https://forums.serenesforest.net/index.php?/topic/94496-the-sacred-blade-and-the-demon-dragon/&tab=comments#comment-5804912
+1250,FE7 Mangs Patch,Reskin/Rebalance,USA,Mangs,English,12A86CAE,Lyn duplicate bug fixed
+1251,封印最终版自我改版,Fan Modding,Japan,unknown,Chinese,C98074E5,
+1252,Another FE Girls,Reskin/Rebalance,USA,LArachel,English,4BB6BB4D,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1253,Another FE Girls (with skills),Reskin/Rebalance,USA,LArachel,English,997B9157,https://feuniverse.us/t/fe8-another-fe-girls/10901
+1254,封印之剑美化重置版,Reskin/Rebalance,Japan,unknown,English,7CD2D837,9.14号更新
+1255,Fire Emblem - The Swinging Sword,Fan Modding,Japan,Mangs,English,BF8FE6B8,
+1256,Fire Emblem - The Swinging Sword (0 Growths),Fan Modding,Japan,Mangs,English,FCC07C28,
+1257,Mangs Dungeon 100k sub special,Fan Modding,USA,Mangs,English,D0A60EDC,3.0
+1258,The Blinding Bald (0 Growths),Fan Modding,USA,Mangs Team,English,C98709BB,
+1259,FE6 Updated Graphics,Reskin/Rebalance,Japan,Mangs Team,English,7E821A79,
+1260,Randomized FE7,Reskin/Rebalance,USA,Mangs Team,English,2AD4A76A,
+1261,Super Randomized FE6,Reskin/Rebalance,Japan,Mangs Team,English,D02CC407,
+1262,Super Randomized FE7,Reskin/Rebalance,USA,Mangs Team,English,D4CA8620,
+1263,Super Randomized FE8,Reskin/Rebalance,USA,Mangs Team,English,B414A84B,
+1264,FE6 Mangs Patch,Reskin/Rebalance,Japan,Mangs,English,AD16C6D4,
+1265,FE6 Chat Units,Reskin/Rebalance,Japan,Mangs,English,16729C6E,
+1266,Mangs FE6 PME,PME,Japan,Mangs,English,655A5EB0,
+1267,Mangs FE7 PME,PME,USA,Mangs,English,E2A456A1,
+1268,Mangs FE7 PMS,PME,USA,Mangs,English,59778630,
+1269,Mangs FE8 PME,PME,USA,Mangs,English,5B5DB5F5,
+1270,Fe8 The Sacred Chairs PME,PME,USA,Mangs,English,96EFF7D5,

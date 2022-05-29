@@ -12,8 +12,10 @@
 587 - A Vestrian Tale
 449 - Alternate Stones
 647 - AnonymousSpeed's 1h Blitz - Valternate Universe
-1069 - Another FE Girls
-1070 - Another FE Girls (with skills)
+1252 - Another FE Girls
+1253 - Another FE Girls (with skills)
+1070 - Another FE Girls V2 (with skills)
+1069 - Another FE Girls V2
 169 - Antagonist Emblem
 456 - Apocalypse
 1126 - April Fools - Fire Emblem 8 - Enhanced Sound Edition
@@ -26,9 +28,11 @@
 532 - Asylum Of Irony
 262 - Athos Mode
 254 - Atirian Conquest
+1239 - Attack On Titan
 499 - Auto Emblem
 418 - Awful Emblem - Complete Act 1 Demo
 1080 - Awful Emblem - The Thread Demo
+1220 - Axe Emblem (Chinese Translation)
 212 - B3L-H411-A
 781 - Back to the Stones
 204 - Bandit Emblem
@@ -44,6 +48,7 @@
 197 - Battle Simulator (No Control)
 479 - Behold the Mega-Flare
 1088 - Bern 776
+1240 - BERSERK EMBLEM
 1140 - Binding Blade - Lyn Mode
 280 - Binks Emblem
 562 - Bird Up!
@@ -102,6 +107,7 @@
 1006 - Dark Dragon Reborn (Minimugs)
 263 - Dark Emblem
 120 - Dark Lord and the Maiden of Light
+1207 - Dark Lord and The Maiden of Light (Chinese Translation)
 415 - Dark Soul
 676 - DarkChibimon's MAFC FEU It Again patch
 635 - Darrman's 1h Blitz - Celice Meets Some Fodlanese and Fights Stuff
@@ -134,7 +140,9 @@
 538 - Dogs of War
 646 - DonkinDo's 1h Blitz - My lil sis turned into a dancer
 679 - Doorway of the Fang
+1218 - Dorcas Emblem
 334 - Dorcas Emblem 2
+1219 - Dorcas Emblem - The Blazing Axe
 491 - Doubled or Nothing
 649 - Down to my Level
 495 - Dragon of Apocalypse
@@ -145,6 +153,7 @@
 498 - Duo Geno Escapo
 243 - Elibean Nights
 754 - Eliwood vs Everyone
+1246 - Elven Conquest
 1133 - Emblem - Because Formats Never Die
 517 - Emblem Warriors
 548 - Encryption20's Patch
@@ -155,9 +164,11 @@
 1174 - Eternal Winter
 1083 - Ether's FE8 Reskin
 580 - Ethereal Light
+1212 - Evening Train Crash
 773 - Exalted Legacy
 288 - Extinguished Blade
 442 - Faith and Blood
+1211 - Fall of the Mountain King
 457 - Fallen Flame
 114 - Fallen King
 406 - Fallen Kingdom
@@ -165,6 +176,7 @@
 260 - FE1 GBA
 762 - FE4 Advance (joke demo)
 1108 - FE4 Link Arena
+1236 - FE4 Remake
 1087 - FE4GBA - Genealogy in FE7
 995 - FE6 - Armor emblem
 996 - FE6 - Armor emblem (Heroes version)
@@ -182,12 +194,14 @@
 616 - FE6 But Everything Hits (Average Growths Mode)
 617 - FE6 But Everything Hits (Maximum Growths Mode)
 615 - FE6 But Everything Hits (Minimum Growths Mode)
+1265 - FE6 Chat Units
 1016 - FE6 Fire Embad
 299 - FE6 Google Translated
 599 - FE6 has DSFE movement
 1166 - FE6 Hollow Editon
 320 - FE6 Incandescence Edition
 764 - FE6 James Patch
+1264 - FE6 Mangs Patch
 1124 - FE6 Master Seal Edition
 1157 - FE6 Mounted Mode
 330 - FE6 Negative Growths
@@ -214,6 +228,7 @@
 301 - FE6 Unit Swap (Hard)
 1143 - FE6 Unit Swap revisited
 1110 - FE6 Units in FE7
+1259 - FE6 Updated Graphics
 292 - FE6 Weapon Reversal
 293 - FE6 Weapon Reversal (Without Weapon Changes)
 328 - FE6 with no HM bonuses
@@ -259,6 +274,7 @@
 628 - FE7 Lyn Hard Mode Redux
 629 - FE7 Lyn Hard Mode Redux JP
 1098 - FE7 Lynatic Mode
+1250 - FE7 Mangs Patch
 1024 - FE7 Plus [Enhancement Patch]
 1026 - FE7 Plus [Enhancement Patch] (Fixed)
 1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)
@@ -298,7 +314,7 @@
 546 - FE8 Darion's Mode
 1061 - FE8 Davuuverso
 1127 - FE8 Delthea's Bizarre Dream Adventure
-400 - FE8 Fanmade Directors Cut
+400 - FE8 Fanmade Directors Cut (or FE8 Rework)
 768 - FE8 Harder patch
 711 - FE8 HazelCustom
 1150 - FE8 Lunatic Reverse (Enemy Growth +20%)
@@ -339,6 +355,7 @@
 1051 - FE8 Sacred Stones - Route Fusion
 1052 - FE8 Sacred Stones - Route Fusion (Garcia-Joshua Swap)
 401 - FE8 The Fallen Princess
+1270 - Fe8 The Sacred Chairs PME
 450 - FE8 Totally Vanilla
 723 - FE8 TS (圣魔光石个人特技版)
 1142 - FE8 Unit swap
@@ -451,6 +468,8 @@
 7 - Fire Emblem - The Sacred Stones (USA, Australia)
 1049 - Fire Emblem - The Sacred Stones - Remastered Soundtrack
 279 - Fire Emblem - The Stone Chains
+1255 - Fire Emblem - The Swinging Sword
+1256 - Fire Emblem - The Swinging Sword (0 Growths)
 274 - Fire Emblem - Tiding Bonds
 203 - Fire Emblem - Vision Quest
 1176 - Fire Emblem - Vision Quest (Chinese Translation)
@@ -502,7 +521,8 @@
 675 - GreatBeast
 482 - Grug’s Primitive Disadventure
 1167 - Heart Wars
-154 - Heaven’s Bloom
+154 - Heaven’s Bloom (Easy mode)
+1241 - Heaven’s Bloom (Hard mode)
 163 - Hector Saves Christmas
 164 - Hector Saves Christmas Again
 190 - Heroes of PaBP
@@ -529,6 +549,8 @@
 268 - Jugdral Saga
 529 - Julius's Revenge
 475 - Justice & Pride Gaiden - Clash in Estria
+1247 - Justice and Pride (Special Content)
+1242 - Justice and Pride - Birth of Chaos
 1201 - Justice and Pride - Book 2 (Chinese Translation)
 272 - Justice and Pride - Book 2
 1034 - Kaga Emblem (English)
@@ -547,6 +569,7 @@
 256 - League of Champions (Patch2)
 571 - Legacy of Sorrow (Easy Mode)
 572 - Legacy of Sorrow (Normal Mode)
+1245 - Legend of John - Lingering Blood
 659 - Legend of the Lost Mugs
 424 - Legends of Avenir
 610 - Lengths of Time
@@ -561,6 +584,7 @@
 1038 - Link Arena (TristanS's Version) (fe6 edition)
 1037 - Link Arena (TristanS's Version) (NO SKILLS)
 340 - Lord Weapons Patch Rebalance
+1238 - Lost Legacy
 377 - Lute Emblem - The Sacred Lutes
 346 - Lyn Emblem
 1111 - Lyn Emblem 7 - Attack of the Clones
@@ -569,6 +593,11 @@
 467 - M
 557 - MageKnight404's FE7 Hack
 125 - Maiden Quest
+1257 - Mangs Dungeon 100k sub special
+1266 - Mangs FE6 PME
+1267 - Mangs FE7 PME
+1268 - Mangs FE7 PMS
+1269 - Mangs FE8 PME
 565 - Many Emblem
 510 - Marc's Special Day
 170 - Marc’s Precious - Revenge
@@ -638,6 +667,7 @@
 317 - Project Ember (Weapon Reversal) (Reverse Recruitment)
 318 - Project Ember (with Alternate Promotions)
 319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)
+1244 - Project Kenko Revamp
 1011 - Project RE7
 1106 - Project Sacred Stones v
 481 - Prophecy of Flames
@@ -652,6 +682,7 @@
 137 - Ragefest 5 DLC
 535 - Ragefest Chronicles
 526 - Ragefest Revengeance
+1260 - Randomized FE7
 638 - RandomWizard's 1h Blitz - Evil Fog Wizard
 608 - RandomWizard's Two Hour Blitz
 159 - Rart Emblem - Halloween
@@ -746,6 +777,9 @@
 1054 - Sun God's Wrath Kaizo Edition by April
 1132 - SunofaBeach11's FE8 rebalance
 539 - Super Generic Ragefest Adventure
+1261 - Super Randomized FE6
+1262 - Super Randomized FE7
+1263 - Super Randomized FE8
 594 - Sword of Heaven and Earth (English Translation)
 295 - Sword of Seals ReDux
 779 - TactHack - Redux
@@ -766,6 +800,7 @@
 323 - The Binding Bartre (with effectiveness and AI fixes)
 248 - The Blade’s Legacy Spreading Flames
 563 - The Blinding Bald
+1258 - The Blinding Bald (0 Growths)
 412 - The Book of Eden
 650 - The Burdened Advanced
 145 - The Burdened Crown
@@ -822,6 +857,7 @@
 108 - The Road to Ruin
 1191 - The Road to Ruin (Chinese Translation)
 531 - The Roots That Bind
+1249 - The Sacred Blade and the Demon Dragon
 185 - The Sacred Chairs
 187 - The Sacred Chairs (0% Growths Version)
 186 - The Sacred Chairs (Boss Version)
@@ -852,6 +888,7 @@
 282 - Tirado Emblem
 521 - Title Here
 1053 - TLP with Updated Animations
+1213 - TMGC
 402 - Touhou Emblem 8 - The Sacred Shrines
 242 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin
 1196 - Touhou Emblem - The One That Isn’t Just An Fe8 Reskin (Chinese Translation)
@@ -904,15 +941,18 @@
 703 - デフ烈火の剣
 708 - ヘイデンの野望
 860 - 不知名改版
+1215 - 东方苍神缘起周末
 828 - 东方苍神缘起无印大神版
 829 - 东方苍神缘起无印平民版
 850 - 东方苍神缘起残暑大神版
 849 - 东方苍神缘起残暑平民版
-863 - 主角大联盟
 888 - 主角大联盟完结版
+1221 - 主角大联盟新生版
 889 - 主角大联盟超高难度
 1210 - 佣兵公司 (Chinese Translation)
 886 - 僵尸道长
+1227 - 兄妹的情谊
+1230 - 光明VS黑暗
 874 - 光明的救赎
 753 - 六写封神
 944 - 再渡雄起
@@ -931,6 +971,7 @@
 861 - 命运
 960 - 四大魔王
 837 - 回忆都去哪了
+1248 - 国境なき騎士団
 978 - 圣光之义友军
 802 - 圣光之战
 732 - 圣光之魔石62人变态版
@@ -938,6 +979,7 @@
 733 - 圣光之魔石真·62人变态版
 786 - 圣光之魔石终极修改版
 923 - 圣兵风云录
+1217 - 圣灵之书
 891 - 圣王的刃与诗
 797 - 圣邪之意志配色版
 964 - 圣邪的意志1
@@ -968,10 +1010,12 @@
 730 - 圣魔新元素补丁
 744 - 圣魔极限挑战版
 729 - 圣魔烈火版
+1243 - 圣魔解密
 870 - 多拉基亚776GBA复刻版
 957 - 天地之月
 838 - 天王之战
 793 - 奇怪的改版
+1231 - 女主角路线
 420 - 女王の剣 (Queen’s Sword)
 945 - 女皇的复仇
 845 - 女神的救赎重置版
@@ -990,8 +1034,12 @@
 914 - 封印之剑if
 875 - 封印之剑re英雄王传说
 936 - 封印之剑修改后
+1235 - 封印之剑南开博士改版
+1223 - 封印之剑反向收人固定成长
 975 - 封印之剑国王版
+1254 - 封印之剑美化重置版
 928 - 封印加强版
+1251 - 封印最终版自我改版
 814 - 封印的竹光
 877 - 屠神之星
 974 - 帝·鲁尼之剑
@@ -1002,16 +1050,21 @@
 881 - 异界旅者
 905 - 强大的女皇
 1119 - 愚人节故事
+1228 - 挑战1
 900 - 放开那个魔王
 1162 - 新エイリーク
+1214 - 新エイリークパッチ
+1233 - 新主角大联盟
 925 - 新公主同盟
 921 - 新圣火微章
+1234 - 新圣火微章
 943 - 新封神传奇
 922 - 新烈火之剑简单版
 798 - 新烈火勇者的阔斧
 958 - 新的改版（圣魔）
 895 - 新逆封印之剑（最骚改版）
 917 - 旅程
+1232 - 旅程（新版本）
 955 - 无敌刺客版
 831 - 时光战纪上
 832 - 时光战纪下
@@ -1041,6 +1094,8 @@
 913 - 次元の幻想
 840 - 死灵复生2
 986 - 死灵复生
+1225 - 永恒的哀伤
+1224 - 汐月の时空
 858 - 流浪公主
 787 - 火焰纹章 挑战0
 788 - 火焰纹章 挑战0
@@ -1065,10 +1120,12 @@
 907 - 疾风的勇王
 876 - 直到遇见你
 952 - 真♂圣魔之光石
+863 - 真主角大联盟
 878 - 祈悠之月
 822 - 神光之公主
 915 - 神光女线
 826 - 神兵无双
+1226 - 神圣战争
 904 - 神魂之绯石
 898 - 秩序之剑
 835 - 童子军
@@ -1081,11 +1138,15 @@
 830 - 绯红之章
 799 - 罪封印之剑
 800 - 罪烈火之剑
+1222 - 群友大乱斗1
 720 - 聖魔 ちょっ改
 721 - 聖魔ベリーハード
 981 - 能勉强玩的下去的圣魔
 924 - 舞撩烈火之断牙之痛
+1229 - 艾雷布漫谈
+1237 - 艾雷布英雄战记
 841 - 花开于漠
+1216 - 苍月传
 920 - 苍月传重置版
 869 - 苍炎乱入版
 848 - 苍炎的勇者
@@ -1137,4 +1198,3 @@
 785 - 黑暗的指引
 855 - 黑暗轮回者-006最终版
 854 - 黑暗轮回者-007优化简单版
-1207 - 黑魔王与光明少女 (Chinese Translation)

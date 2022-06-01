@@ -1,4 +1,4 @@
-	0sheng mo/756 - 0sheng mo			9179c574	16777216
+	756 - 0sheng mo/756 - 0sheng mo			9179c574	16777216
 	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
 	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			1f0dbaa5	27935748
@@ -315,6 +315,7 @@
 	FE8 Davuuverso/1061 - FE8 Davuuverso			4750894f	24050940
 	FE8 Delthea's Bizarre Dream Adventure/1127 - FE8 Delthea's Bizarre Dream Adventure			2188f726	17510340
 	FE8 Fanmade Directors Cut (or FE8 Rework)/400 - FE8 Fanmade Directors Cut (or FE8 Rework)			a7a210d5	21871792
+	FE8 Genesis/630 - FE8 Genesis			69d9d2ef	22468416
 	FE8 Harder patch/768 - FE8 Harder patch			52733cf0	16777216
 	FE8 HazelCustom/711 - FE8 HazelCustom			6f49856f	17480036
 	FE8 Lunatic Reverse (Enemy Growth +20%)/1150 - FE8 Lunatic Reverse (Enemy Growth +20%)			c69c5ab5	16777220
@@ -384,6 +385,7 @@
 	FE - The Two Blades/1145 - FE - The Two Blades			75ba88d4	16878936
 	FE but it’s my Biology Homework/198 - FE but it’s my Biology Homework			385de2ec	17279456
 	FE Colored/988 - FE Colored			1b3da853	22262344
+	FE Genesis/1272 - FE Genesis			58a8f895	26266792
 	FE The Grand Uprising/213 - FE The Grand Uprising			535448a4	29479028
 	FE The Grand Uprising (Blue default player phase map sprite palette)/214 - FE The Grand Uprising (Blue default player phase map sprite palette)			adf5269e	29066908
 	Fe Time Scarred - Rebirth/463 - Fe Time Scarred - Rebirth			fb485921	17197396
@@ -430,7 +432,7 @@
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]/20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]			823c3801	9676785
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]/30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1			1ccf7040	8388608
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]/22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]			1f19d989	8388608
-	Fire Emblem - Heroes Remake/100 - Fire Emblem - Heroes Remake			fb0c5d23	31621868
+	Fire Emblem - Heroes Remake/100 - Fire Emblem - Heroes Remake			886da546	31627204
 	Fire Emblem - Illuminated/432 - Fire Emblem - Illuminated			6150b83f	29741960
 	Fire Emblem - Izarck’s Quest/247 - Fire Emblem - Izarck’s Quest			6bf9575b	21103520
 	Fire Emblem - Justice and Pride/188 - Fire Emblem - Justice and Pride			c166ce14	26189708
@@ -510,7 +512,6 @@
 	Frog's Two Hour Blitz - Steel/602 - Frog's Two Hour Blitz - Steel			8ebafd51	16855668
 	Frozen Throes/990 - Frozen Throes			05f8ebfd	23303676
 	Gay Baby Emblem/166 - Gay Baby Emblem			a95e4ae4	17048076
-	Genesis/630 - Genesis			69d9d2ef	22468416
 	GFE1R/259 - GFE1R			fee335a3	17684788
 	Gheb Saga/245 - Gheb Saga			6fb3ca5a	26416180
 	GhebFE/381 - GhebFE			daa23525	18874368
@@ -591,7 +592,7 @@
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn Insanity 2/1179 - Lyn Insanity 2			dd37fc74	9926584
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M. E			048eb1b6	18427704
+	M. E. R. C. S./467 - M			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Mangs Dungeon 100k sub special/1257 - Mangs Dungeon 100k sub special			d0a60edc	19752216
@@ -670,7 +671,7 @@
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project Kenko Revamp/1244 - Project Kenko Revamp			2e84ac32	23504776
 	Project RE7/1011 - Project RE7			e299b969	30141292
-	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v.0			a9d395a4	17044860
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216
@@ -813,7 +814,7 @@
 	The Corruption Of Roy/512 - The Corruption Of Roy			41300a20	17761716
 	The Cult/677 - The Cult			22905a74	17872864
 	The Dark Hour/201 - The Dark Hour			8575430f	26994984
-	The Dark Hour (Chinese Translation)/1200 - The Dark Hour (Chinese Translation)			d5d5f452	27951548
+	The Dark Hour (Chinese Translation)/1200 - The Dark Hour (Chinese Translation)			d79f1436	27960064
 	The Dark Hour (Hard Mode)/202 - The Dark Hour (Hard Mode)			bfc8d218	26995576
 	The Divine Campaign/1090 - The Divine Campaign			bf512f2d	17990828
 	The Divine Twins’ War/416 - The Divine Twins’ War			4fd88c7b	21006844

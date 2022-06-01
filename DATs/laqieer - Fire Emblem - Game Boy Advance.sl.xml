@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="0sheng mo">
+	<software name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -2534,6 +2534,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8 Genesis">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="630 - FE8 Genesis" size="22468416" crc="69d9d2ef" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8 Harder patch">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -3086,6 +3094,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE Genesis">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1272 - FE Genesis" size="26266792" crc="58a8f895" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE The Grand Uprising">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -3458,7 +3474,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="100 - Fire Emblem - Heroes Remake" size="31621868" crc="fb0c5d23" />
+				<rom name="100 - Fire Emblem - Heroes Remake" size="31627204" crc="886da546" />
 			</dataarea>
 		</part>
 	</software>
@@ -4091,14 +4107,6 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
-			</dataarea>
-		</part>
-	</software>
-	<software name="Genesis">
-		<publisher>Fan Modding</publisher>
-		<part name="" interface="">
-			<dataarea name="rom">
-				<rom name="630 - Genesis" size="22468416" crc="69d9d2ef" />
 			</dataarea>
 		</part>
 	</software>
@@ -6522,7 +6530,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+				<rom name="1200 - The Dark Hour (Chinese Translation)" size="27960064" crc="d79f1436" />
 			</dataarea>
 		</part>
 	</software>

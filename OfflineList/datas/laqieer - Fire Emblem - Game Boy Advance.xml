@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220530</datVersion>
+    <datVersion>20220601</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -566,13 +566,13 @@
       <releaseNumber>100</releaseNumber>
       <title>Fire Emblem - Heroes Remake</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>31621868</romSize>
+      <romSize>31627204</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>laqieer</sourceRom>
       <language>258</language>
       <files>
-        <romCRC extension=".gba">FB0C5D23</romCRC>
+        <romCRC extension=".gba">886DA546</romCRC>
       </files>
       <im1CRC>29DE4A3C</im1CRC>
       <im2CRC>47DAA0C7</im2CRC>
@@ -10104,7 +10104,7 @@
     <game>
       <imageNumber>630</imageNumber>
       <releaseNumber>630</releaseNumber>
-      <title>Genesis</title>
+      <title>FE8 Genesis</title>
       <saveType>Sram_F_v103</saveType>
       <romSize>22468416</romSize>
       <publisher>Fan Modding</publisher>
@@ -20366,15 +20366,15 @@
       <releaseNumber>1200</releaseNumber>
       <title>The Dark Hour (Chinese Translation)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>27951548</romSize>
+      <romSize>27960064</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
-      <sourceRom>unknown</sourceRom>
+      <sourceRom>罗生门大眼睛</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">D5D5F452</romCRC>
+        <romCRC extension=".gba">D79F1436</romCRC>
       </files>
-      <im1CRC>797E64C9</im1CRC>
+      <im1CRC>5D456BA3</im1CRC>
       <im2CRC>895ECC38</im2CRC>
       <comment></comment>
       <duplicateID>0</duplicateID>
@@ -21655,6 +21655,24 @@
       <im1CRC>BDE2419F</im1CRC>
       <im2CRC>7002229C</im2CRC>
       <comment>https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1272</imageNumber>
+      <releaseNumber>1272</releaseNumber>
+      <title>FE Genesis</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>26266792</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Melledoneus</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">58A8F895</romCRC>
+      </files>
+      <im1CRC>BAD4E118</im1CRC>
+      <im2CRC>5D5E4C23</im2CRC>
+      <comment>https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

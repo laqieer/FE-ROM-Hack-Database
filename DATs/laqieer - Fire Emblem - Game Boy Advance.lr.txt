@@ -1,4 +1,4 @@
-ROMs required for driver "0sheng mo".
+ROMs required for driver "756 - 0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -1263,6 +1263,10 @@ ROMs required for driver "FE8 Fanmade Directors Cut (or FE8 Rework)".
 Name                                   Size Checksum
 400 - FE8 Fanmade Directors Cut (or FE8 Rework)          21871792 CRC(a7a210d5)
 
+ROMs required for driver "FE8 Genesis".
+Name                                   Size Checksum
+630 - FE8 Genesis                  22468416 CRC(69d9d2ef)
+
 ROMs required for driver "FE8 Harder patch".
 Name                                   Size Checksum
 768 - FE8 Harder patch             16777216 CRC(52733cf0)
@@ -1539,6 +1543,10 @@ ROMs required for driver "FE Colored".
 Name                                   Size Checksum
 988 - FE Colored                   22262344 CRC(1b3da853)
 
+ROMs required for driver "FE Genesis".
+Name                                   Size Checksum
+1272 - FE Genesis                  26266792 CRC(58a8f895)
+
 ROMs required for driver "FE The Grand Uprising".
 Name                                   Size Checksum
 213 - FE The Grand Uprising        29479028 CRC(535448a4)
@@ -1725,7 +1733,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Fire Emblem - Heroes Remake".
 Name                                   Size Checksum
-100 - Fire Emblem - Heroes Remake  31621868 CRC(fb0c5d23)
+100 - Fire Emblem - Heroes Remake  31627204 CRC(886da546)
 
 ROMs required for driver "Fire Emblem - Illuminated".
 Name                                   Size Checksum
@@ -2042,10 +2050,6 @@ Name                                   Size Checksum
 ROMs required for driver "Gay Baby Emblem".
 Name                                   Size Checksum
 166 - Gay Baby Emblem              17048076 CRC(a95e4ae4)
-
-ROMs required for driver "Genesis".
-Name                                   Size Checksum
-630 - Genesis                      22468416 CRC(69d9d2ef)
 
 ROMs required for driver "GFE1R".
 Name                                   Size Checksum
@@ -2369,7 +2373,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E. R                      18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -3257,7 +3261,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "The Dark Hour (Chinese Translation)".
 Name                                   Size Checksum
-1200 - The Dark Hour (Chinese Translation)27951548 CRC(d5d5f452)
+1200 - The Dark Hour (Chinese Translation)27960064 CRC(d79f1436)
 
 ROMs required for driver "The Dark Hour (Hard Mode)".
 Name                                   Size Checksum

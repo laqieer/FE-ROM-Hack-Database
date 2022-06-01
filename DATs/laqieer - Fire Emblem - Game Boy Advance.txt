@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
@@ -316,6 +316,7 @@ FE8 Darion's Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;
 FE8 Davuuverso;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-the-sacred-stones-reloaded-also-fire-emblem-heroes-crossover/13201;
 FE8 Delthea's Bizarre Dream Adventure;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/redeyesblackdrag0n-reskins/14108/100;
 FE8 Fanmade Directors Cut (or FE8 Rework);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fanmade-directors-cut-or-fe8-rework-ver-1-12/14029;
+FE8 Genesis;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875;
 FE8 Harder patch;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-harder-patch/2783;
 FE8 HazelCustom;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 FE8 Lunatic Reverse (Enemy Growth +20%);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-sacred-stones-lunatic-reverse/9259;
@@ -385,6 +386,7 @@ FE 8 wild mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;htt
 FE - The Two Blades;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-hack-fe-the-two-blades-currently-a-demo-beta-2-chapters-currently/12836;
 FE but it’s my Biology Homework;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-but-its-my-biology-homework/7237;
 FE Colored;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-wip-fe-colored-8-chapters-4-5-hours/15506;
+FE Genesis;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057;
 FE The Grand Uprising;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357;
 FE The Grand Uprising (Blue default player phase map sprite palette);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357;
 Fe Time Scarred - Rebirth;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-time-scarred-time-lines/6308/1;
@@ -511,7 +513,6 @@ Free for All;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https
 Frog's Two Hour Blitz - Steel;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/two-hour-blitz/13728/3;
 Frozen Throes;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-n426s-frozen-throes-ver-163542000-15-chapters/10273;
 Gay Baby Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854;
-Genesis;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875;
 GFE1R;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/gfe1r-generic-fe1-remake/2134;
 Gheb Saga;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/14184-ghebsaga/;
 GhebFE;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/14183-ghebfe/;

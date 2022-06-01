@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220530</version>
+		<version>20220601</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>0sheng mo</name>
+				<name>756 - 0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -4850,6 +4850,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8 Genesis</name>
+				<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>630 - FE8 Genesis</name>
+					<size>22468416</size>
+					<crc>69d9d2ef</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8 Harder patch</name>
 				<comment>https://feuniverse.us/t/fe8-harder-patch/2783</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -5885,6 +5900,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE Genesis</name>
+				<comment>https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1272 - FE Genesis</name>
+					<size>26266792</size>
+					<crc>58a8f895</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE The Grand Uprising</name>
 				<comment>https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357</comment>
 				<publisher>Fan Modding</publisher>
@@ -6583,8 +6613,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>100 - Fire Emblem - Heroes Remake</name>
-					<size>31621868</size>
-					<crc>fb0c5d23</crc>
+					<size>31627204</size>
+					<crc>886da546</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7770,21 +7800,6 @@
 					<name>166 - Gay Baby Emblem</name>
 					<size>17048076</size>
 					<crc>a95e4ae4</crc>
-				</datitem>
-			</files>
-		</directory>
-		<directory>
-			<machine>
-				<name>Genesis</name>
-				<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
-				<publisher>Fan Modding</publisher>
-			</machine>
-			<files>
-				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
-					<itemtype>Rom</itemtype>
-					<name>630 - Genesis</name>
-					<size>22468416</size>
-					<crc>69d9d2ef</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12328,8 +12343,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1200 - The Dark Hour (Chinese Translation)</name>
-					<size>27951548</size>
-					<crc>d5d5f452</crc>
+					<size>27960064</size>
+					<crc>d79f1436</crc>
 				</datitem>
 			</files>
 		</directory>

@@ -2,7 +2,7 @@
 <!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
 <softwaredb timestamp="">
 	<software>
-		<title>0sheng mo</title>
+		<title>756 - 0sheng mo</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -4115,6 +4115,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE8 Genesis</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE8 Harder patch</title>
 		<genmsxid></genmsxid>
 		<system></system>
@@ -5000,6 +5013,19 @@
 	</software>
 	<software>
 		<title>FE Colored</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
+		<title>FE Genesis</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>
@@ -6638,19 +6664,6 @@
 	</software>
 	<software>
 		<title>Gay Baby Emblem</title>
-		<genmsxid></genmsxid>
-		<system></system>
-		<company></company>
-		<year></year>
-		<country></country>
-		<dump>
-			<>
-				<hash></hash>
-			</>
-		</dump>
-	</software>
-	<software>
-		<title>Genesis</title>
 		<genmsxid></genmsxid>
 		<system></system>
 		<company></company>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -949,6 +949,9 @@
 	<machine name="FE8 Fanmade Directors Cut (or FE8 Rework)">
 		<rom name="400 - FE8 Fanmade Directors Cut (or FE8 Rework)" size="21871792" crc="a7a210d5" />
 	</machine>
+	<machine name="FE8 Genesis">
+		<rom name="630 - FE8 Genesis" size="22468416" crc="69d9d2ef" />
+	</machine>
 	<machine name="FE8 Harder patch">
 		<rom name="768 - FE8 Harder patch" size="16777216" crc="52733cf0" />
 	</machine>
@@ -1156,6 +1159,9 @@
 	<machine name="FE Colored">
 		<rom name="988 - FE Colored" size="22262344" crc="1b3da853" />
 	</machine>
+	<machine name="FE Genesis">
+		<rom name="1272 - FE Genesis" size="26266792" crc="58a8f895" />
+	</machine>
 	<machine name="FE The Grand Uprising">
 		<rom name="213 - FE The Grand Uprising" size="29479028" crc="535448a4" />
 	</machine>
@@ -1295,7 +1301,7 @@
 		<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31621868" crc="fb0c5d23" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="31627204" crc="886da546" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
@@ -1533,9 +1539,6 @@
 	</machine>
 	<machine name="Gay Baby Emblem">
 		<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
-	</machine>
-	<machine name="Genesis">
-		<rom name="630 - Genesis" size="22468416" crc="69d9d2ef" />
 	</machine>
 	<machine name="GFE1R">
 		<rom name="259 - GFE1R" size="17684788" crc="fee335a3" />
@@ -2444,7 +2447,7 @@
 		<rom name="201 - The Dark Hour" size="26994984" crc="8575430f" />
 	</machine>
 	<machine name="The Dark Hour (Chinese Translation)">
-		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27960064" crc="d79f1436" />
 	</machine>
 	<machine name="The Dark Hour (Hard Mode)">
 		<rom name="202 - The Dark Hour (Hard Mode)" size="26995576" crc="bfc8d218" />

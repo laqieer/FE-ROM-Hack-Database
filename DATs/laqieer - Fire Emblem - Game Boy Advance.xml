@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220530</version>
+		<version>20220601</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="0sheng mo">
+	<machine name="756 - 0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -1565,6 +1565,11 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="400 - FE8 Fanmade Directors Cut (or FE8 Rework)" size="21871792" crc="a7a210d5" />
 	</machine>
+	<machine name="FE8 Genesis">
+		<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="630 - FE8 Genesis" size="22468416" crc="69d9d2ef" />
+	</machine>
 	<machine name="FE8 Harder patch">
 		<comment>https://feuniverse.us/t/fe8-harder-patch/2783</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1896,6 +1901,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="988 - FE Colored" size="22262344" crc="1b3da853" />
 	</machine>
+	<machine name="FE Genesis">
+		<comment>https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1272 - FE Genesis" size="26266792" crc="58a8f895" />
+	</machine>
 	<machine name="FE The Grand Uprising">
 		<comment>https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357</comment>
 		<publisher>Fan Modding</publisher>
@@ -2126,7 +2136,7 @@
 	<machine name="Fire Emblem - Heroes Remake">
 		<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31621868" crc="fb0c5d23" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="31627204" crc="886da546" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<comment>https://feuniverse.us/t/fire-emblem-illuminated-31-chapters-planned-19-finished/5553</comment>
@@ -2517,11 +2527,6 @@
 		<comment>https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="166 - Gay Baby Emblem" size="17048076" crc="a95e4ae4" />
-	</machine>
-	<machine name="Genesis">
-		<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
-		<publisher>Fan Modding</publisher>
-		<rom name="630 - Genesis" size="22468416" crc="69d9d2ef" />
 	</machine>
 	<machine name="GFE1R">
 		<comment>https://feuniverse.us/t/gfe1r-generic-fe1-remake/2134</comment>
@@ -4019,7 +4024,7 @@
 	</machine>
 	<machine name="The Dark Hour (Chinese Translation)">
 		<publisher>Fan Modding</publisher>
-		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27951548" crc="d5d5f452" />
+		<rom name="1200 - The Dark Hour (Chinese Translation)" size="27960064" crc="d79f1436" />
 	</machine>
 	<machine name="The Dark Hour (Hard Mode)">
 		<comment>https://feuniverse.us/t/new-project-fire-emblem-the-dark-hour-act-1-available/7211</comment>

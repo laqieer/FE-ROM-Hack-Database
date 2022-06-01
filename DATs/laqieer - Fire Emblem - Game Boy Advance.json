@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220530",
+		"version": "20220601",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "0sheng mo",
+				"name": "756 - 0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -5803,6 +5803,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8 Genesis",
+				"comment": "https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "630 - FE8 Genesis",
+						"size": 22468416,
+						"crc": "69d9d2ef"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8 Harder patch",
 				"comment": "https://feuniverse.us/t/fe8-harder-patch/2783",
 				"description": null,
@@ -7045,6 +7063,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE Genesis",
+				"comment": "https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1272 - FE Genesis",
+						"size": 26266792,
+						"crc": "58a8f895"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE The Grand Uprising",
 				"comment": "https://feuniverse.us/t/fe-the-grand-uprising-update-v1-0-part-1-of-the-story-complete-21-total-chapters/7357",
 				"description": null,
@@ -7883,8 +7919,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "100 - Fire Emblem - Heroes Remake",
-						"size": 31621868,
-						"crc": "fb0c5d23"
+						"size": 31627204,
+						"crc": "886da546"
 					}
 				}
 			]
@@ -9307,24 +9343,6 @@
 						"name": "166 - Gay Baby Emblem",
 						"size": 17048076,
 						"crc": "a95e4ae4"
-					}
-				}
-			]
-		},
-		{
-			"machine": {
-				"name": "Genesis",
-				"comment": "https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875",
-				"description": null,
-				"publisher": "Fan Modding"
-			},
-			"items": [
-				{
-					"datitem": {
-						"itemtype": "Rom",
-						"name": "630 - Genesis",
-						"size": 22468416,
-						"crc": "69d9d2ef"
 					}
 				}
 			]
@@ -14777,8 +14795,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1200 - The Dark Hour (Chinese Translation)",
-						"size": 27951548,
-						"crc": "d5d5f452"
+						"size": 27960064,
+						"crc": "d79f1436"
 					}
 				}
 			]

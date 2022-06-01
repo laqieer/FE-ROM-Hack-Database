@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1201</datVersion>
+		<datVersion>1202</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -5780,6 +5780,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>630 - FE8 Genesis</title>
+			<saveType>None</saveType>
+			<romSize>22468416</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">69D9D2EF</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>768 - FE8 Harder patch</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -7036,6 +7054,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1272 - FE Genesis</title>
+			<saveType>None</saveType>
+			<romSize>26266792</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">58A8F895</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>213 - FE The Grand Uprising</title>
 			<saveType>None</saveType>
 			<romSize>29479028</romSize>
@@ -7869,13 +7905,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>100 - Fire Emblem - Heroes Remake</title>
 			<saveType>None</saveType>
-			<romSize>31621868</romSize>
+			<romSize>31627204</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">FB0C5D23</romCRC>
+				<romCRC extension=".">886DA546</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -9307,24 +9343,6 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/gay-baby-emblem-shoutouts-to-simpleflips/3854</comment>
-			<duplicateID></duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1</releaseNumber>
-			<title>630 - Genesis</title>
-			<saveType>None</saveType>
-			<romSize>22468416</romSize>
-			<publisher>Fan Modding</publisher>
-			<location>0</location>
-			<sourceRom>None</sourceRom>
-			<language>0</language>
-			<files>
-				<romCRC extension=".">69D9D2EF</romCRC>
-			</files>
-			<im1CRC>00000000</im1CRC>
-			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14784,13 +14802,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1200 - The Dark Hour (Chinese Translation)</title>
 			<saveType>None</saveType>
-			<romSize>27951548</romSize>
+			<romSize>27960064</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">D5D5F452</romCRC>
+				<romCRC extension=".">D79F1436</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>

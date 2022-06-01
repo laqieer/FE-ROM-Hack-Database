@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220530
+	Version: 20220601
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -1273,6 +1273,10 @@ game (
 	file ( name 400 - FE8 Fanmade Directors Cut (or FE8 Rework) size 21871792 crc a7a210d5 )
 )
 game (
+	name "FE8 Genesis.zip"
+	file ( name 630 - FE8 Genesis size 22468416 crc 69d9d2ef )
+)
+game (
 	name "FE8 Harder patch.zip"
 	file ( name 768 - FE8 Harder patch size 16777216 crc 52733cf0 )
 )
@@ -1549,6 +1553,10 @@ game (
 	file ( name 988 - FE Colored size 22262344 crc 1b3da853 )
 )
 game (
+	name "FE Genesis.zip"
+	file ( name 1272 - FE Genesis size 26266792 crc 58a8f895 )
+)
+game (
 	name "FE The Grand Uprising.zip"
 	file ( name 213 - FE The Grand Uprising size 29479028 crc 535448a4 )
 )
@@ -1734,7 +1742,7 @@ game (
 )
 game (
 	name "Fire Emblem - Heroes Remake.zip"
-	file ( name 100 - Fire Emblem - Heroes Remake size 31621868 crc fb0c5d23 )
+	file ( name 100 - Fire Emblem - Heroes Remake size 31627204 crc 886da546 )
 )
 game (
 	name "Fire Emblem - Illuminated.zip"
@@ -2051,10 +2059,6 @@ game (
 game (
 	name "Gay Baby Emblem.zip"
 	file ( name 166 - Gay Baby Emblem size 17048076 crc a95e4ae4 )
-)
-game (
-	name "Genesis.zip"
-	file ( name 630 - Genesis size 22468416 crc 69d9d2ef )
 )
 game (
 	name "GFE1R.zip"
@@ -3266,7 +3270,7 @@ game (
 )
 game (
 	name "The Dark Hour (Chinese Translation).zip"
-	file ( name 1200 - The Dark Hour (Chinese Translation) size 27951548 crc d5d5f452 )
+	file ( name 1200 - The Dark Hour (Chinese Translation) size 27960064 crc d79f1436 )
 )
 game (
 	name "The Dark Hour (Hard Mode).zip"

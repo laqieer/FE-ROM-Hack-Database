@@ -28,7 +28,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 30,Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,1CCF7040,火焰纹章 - 封印之剑[狼组&火花天龙剑](v1.1)(2006090701) (简) (火花加料版)
 31,Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS],Fan Translation,Japan,Wolf & Chinafe,Chinese,4186D6E5,火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简)
 32,Fire Emblem - The Sacred Stones (Russian Translation),Fan Translation,USA,DiamondAppendix,English,C1A69E8F,https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901
-100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,FB0C5D23,https://github.com/laqieer/fe7-jp-stunning-tribble
+100,Fire Emblem - Heroes Remake,Fan Modding,Japan,laqieer,English Japanese,886DA546,https://github.com/laqieer/fe7-jp-stunning-tribble
 101,Fire Emblem - Will of Good and Evil,Reskin/Rebalance,Japan,Wolf & Chinafe,Chinese,9CBB923E,http://www.fireemblem.net/fe/download/index.htm
 102,Shining Armor,Fan Modding,Japan,Blazer,English,67368BBB,http://www.romhacking.net/hacks/538/
 103,The Last Promise,Fan Modding,USA,Blazer,English,D1C6E5D5,http://www.feshrine.net/thelastpromise/
@@ -558,7 +558,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 627,The Tavern Adventures,Fan Modding,USA,Gultykappa,English,8CEEC8C8,https://feuniverse.us/t/the-tavern-adventures-3-30-chapters-done/14649
 628,FE7 Lyn Hard Mode Redux,Reskin/Rebalance,USA,Netmonmatt,English,C0514F76,https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912
 629,FE7 Lyn Hard Mode Redux JP,Reskin/Rebalance,USA,Netmonmatt,English,5344EF57,https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912
-630,Genesis,Fan Modding,USA,Marnas,English,69D9D2EF,https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875
+630,FE8 Genesis,Fan Modding,USA,Marnas,English,69D9D2EF,https://feuniverse.us/t/fe-8-genesis-11-chapters-playable/14875
 631,FE6 Rapid Rebalance,Reskin/Rebalance,Japan,AnonymousSpeed,English,502353CB,https://feuniverse.us/t/anonymousspeeds-rapid-rebalance-for-fe6/15007
 632,S.S-Monster Mash,Reskin/Rebalance,USA,DATonDemand,English,32494392,https://feuniverse.us/t/fe8-fire-emblem-s-s-monster-mash-v1-2-4-a-modified-fe8-campaign-where-you-play-as-monster-classes-new-custom-animation-implemented/15063
 633,MrGreen3339's 1h Blitz - game,Blitz,USA,MrGreen3339,English,080365DF,https://feuniverse.us/t/1h-blitz-r1-complete/9560/4
@@ -1128,7 +1128,7 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1197,Bird Up! (Chinese Translation),Fan Modding,USA,unknown,Chinese,095A090D,汉化1.3
 1198,曼斯地牢 (Chinese Translation),Fan Modding,USA,利夫,Chinese,96DAE677,1.0
 1199,Scarlet Rising (Chinese Translation),Fan Modding,USA,unknown,Chinese,FE031447,
-1200,The Dark Hour (Chinese Translation),Fan Modding,USA,unknown,Chinese,D5D5F452,
+1200,The Dark Hour (Chinese Translation),Fan Modding,USA,罗生门大眼睛,Chinese,D79F1436,
 1201,Justice and Pride - Book 2 (Chinese Translation),Fan Modding,USA,unknown,Chinese,7AB7C036,道具汉化版
 1202,Sacred Trilogy Final (Chinese Translation),Reskin/Rebalance,USA,unknown,Chinese,6A46D845,道具技能汉化
 1203,The Four Kings (Chinese Translation),Fan Modding,USA,unknown,Chinese,6BD7582F,道具技能汉化
@@ -1200,3 +1200,4 @@ ID,Title,Publisher,Location,Source,Language,CRC32,Comment
 1269,Mangs FE8 PME,PME,USA,Mangs,English,5B5DB5F5,
 1270,Fe8 The Sacred Chairs PME,PME,USA,Mangs,English,96EFF7D5,
 1271,JDL's FE 8 PME,PME,USA,JDL,English,A42E0E8A,https://feuniverse.us/t/fe-8-pme-for-my-training-done/16190
+1272,FE Genesis,Fan Modding,USA,Melledoneus,English,58A8F895,https://feuniverse.us/t/fe-genesis-has-finally-been-released-complete/16057

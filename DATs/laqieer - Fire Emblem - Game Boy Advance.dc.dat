@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220601
+	Version: 20220602
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -589,7 +589,7 @@ game (
 )
 game (
 	name "Doubled or Nothing.zip"
-	file ( name 491 - Doubled or Nothing size 19242308 crc bff057cf )
+	file ( name 491 - Doubled or Nothing size 19515488 crc 013ce42c )
 )
 game (
 	name "Down to my Level.zip"

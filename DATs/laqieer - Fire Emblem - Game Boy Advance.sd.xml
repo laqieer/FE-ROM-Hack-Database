@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220601</version>
+		<version>20220602</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -104,7 +104,7 @@
 	<data>
 		<directory>
 			<machine>
-				<name>756 - 0sheng mo</name>
+				<name>0sheng mo</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
@@ -2280,15 +2280,15 @@
 		<directory>
 			<machine>
 				<name>Doubled or Nothing</name>
-				<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>491 - Doubled or Nothing</name>
-					<size>19242308</size>
-					<crc>bff057cf</crc>
+					<size>19515488</size>
+					<crc>013ce42c</crc>
 				</datitem>
 			</files>
 		</directory>

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220601</version>
+		<version>20220602</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -13,7 +13,7 @@
 		<comment>https://github.com/laqieer/FE-ROM-Hack-Database</comment>
 		<romcenter plugin="Nintendo - Game Boy Advance" />
 	</header>
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
@@ -733,9 +733,9 @@
 		<rom name="1219 - Dorcas Emblem - The Blazing Axe" size="16777216" crc="89eeaedd" />
 	</machine>
 	<machine name="Doubled or Nothing">
-		<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+		<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+		<rom name="491 - Doubled or Nothing" size="19515488" crc="013ce42c" />
 	</machine>
 	<machine name="Down to my Level">
 		<comment>https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/</comment>

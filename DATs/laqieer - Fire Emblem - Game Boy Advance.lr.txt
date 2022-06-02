@@ -1,4 +1,4 @@
-ROMs required for driver "756 - 0sheng mo".
+ROMs required for driver "0sheng mo".
 Name                                   Size Checksum
 756 - 0sheng mo                    16777216 CRC(9179c574)
 
@@ -580,7 +580,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Doubled or Nothing".
 Name                                   Size Checksum
-491 - Doubled or Nothing           19242308 CRC(bff057cf)
+491 - Doubled or Nothing           19515488 CRC(013ce42c)
 
 ROMs required for driver "Down to my Level".
 Name                                   Size Checksum

@@ -1,5 +1,5 @@
 #Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons
-756 - 0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+0sheng mo;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 0的逆圣魔;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 2 Princesses (English Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8jp-2-princesses-english-translation-hard-3-update-bug-fix/8380;
 2 Princesses (二人の王女);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://fequeen.blog.fc2.com/;
@@ -144,7 +144,7 @@ Doorway of the Fang;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;
 Dorcas Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://vilkalizer.tumblr.com/post/151258882287/after-two-weeks-of-hard-work-which-may-or-may-not;
 Dorcas Emblem 2;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/dorcas-emblem-2-1/3092;
 Dorcas Emblem - The Blazing Axe;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://www.reddit.com/r/fireemblem/comments/5yyoup/rom_hack_dorcas_emblem_the_blazing_axe/;
-Doubled or Nothing;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832;
+Doubled or Nothing;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832;
 Down to my Level;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/69980-make-a-fun-chapter-3-voting/;
 Dragon of Apocalypse;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-dragon-of-apocalypse-complete-but-needs-playtesting/14864;
 Dream of Five;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/24662-fire-emblem-dream-of-five/;

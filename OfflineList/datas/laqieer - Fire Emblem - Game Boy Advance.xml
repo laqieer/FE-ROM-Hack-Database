@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220601</datVersion>
+    <datVersion>20220602</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -7604,17 +7604,17 @@
       <releaseNumber>491</releaseNumber>
       <title>Doubled or Nothing</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>19242308</romSize>
+      <romSize>19515488</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>ArcherBias</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">BFF057CF</romCRC>
+        <romCRC extension=".gba">013CE42C</romCRC>
       </files>
       <im1CRC>E2D97705</im1CRC>
       <im2CRC>BF3F089F</im2CRC>
-      <comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+      <comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>

@@ -2662,17 +2662,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>491 - Doubled or Nothing</title>
 			<saveType>None</saveType>
-			<romSize>19242308</romSize>
+			<romSize>19515488</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">BFF057CF</romCRC>
+				<romCRC extension=".">013CE42C</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

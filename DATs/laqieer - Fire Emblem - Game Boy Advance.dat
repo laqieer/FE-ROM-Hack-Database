@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220601"
+	version "20220602"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -737,7 +737,7 @@ game (
 game (
 	name "Doubled or Nothing"
 	description "Doubled or Nothing"
-	rom ( name "491 - Doubled or Nothing" size "19242308" crc "bff057cf" )
+	rom ( name "491 - Doubled or Nothing" size "19515488" crc "013ce42c" )
 )
 game (
 	name "Down to my Level"

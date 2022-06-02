@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mame build="laqieer - Fire Emblem - Game Boy Advance">
-	<machine name="756 - 0sheng mo">
+	<machine name="0sheng mo">
 		<rom name="756 - 0sheng mo" size="16777216" crc="9179c574" />
 	</machine>
 	<machine name="0的逆圣魔">
@@ -436,7 +436,7 @@
 		<rom name="1219 - Dorcas Emblem - The Blazing Axe" size="16777216" crc="89eeaedd" />
 	</machine>
 	<machine name="Doubled or Nothing">
-		<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+		<rom name="491 - Doubled or Nothing" size="19515488" crc="013ce42c" />
 	</machine>
 	<machine name="Down to my Level">
 		<rom name="649 - Down to my Level" size="16777216" crc="760542af" />

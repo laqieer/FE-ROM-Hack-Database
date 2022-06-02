@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
 <softwarelist name="laqieer - Fire Emblem - Game Boy Advance" description="Fire Emblem ROM hacks">
-	<software name="756 - 0sheng mo">
+	<software name="0sheng mo">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
@@ -1165,7 +1165,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="491 - Doubled or Nothing" size="19242308" crc="bff057cf" />
+				<rom name="491 - Doubled or Nothing" size="19515488" crc="013ce42c" />
 			</dataarea>
 		</part>
 	</software>

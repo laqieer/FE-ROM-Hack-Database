@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220601",
+		"version": "20220602",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -107,7 +107,7 @@
 	"machines": [
 		{
 			"machine": {
-				"name": "756 - 0sheng mo",
+				"name": "0sheng mo",
 				"comment": "",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
@@ -2718,7 +2718,7 @@
 		{
 			"machine": {
 				"name": "Doubled or Nothing",
-				"comment": "https://feuniverse.us/t/fire-emblem-doubled-or-nothing-8-chapters-fe8u/13832",
+				"comment": "https://feuniverse.us/t/fire-emblem-doubled-or-nothing-complete-barring-further-balance-polish-fe8u/13832",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -2727,8 +2727,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "491 - Doubled or Nothing",
-						"size": 19242308,
-						"crc": "bff057cf"
+						"size": 19515488,
+						"crc": "013ce42c"
 					}
 				}
 			]

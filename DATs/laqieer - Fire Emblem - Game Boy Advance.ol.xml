@@ -1653,17 +1653,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1204 - Code of the Burger King (Chinese Translation)</title>
 			<saveType>None</saveType>
-			<romSize>29869432</romSize>
+			<romSize>30095816</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">30C3CD7D</romCRC>
+				<romCRC extension=".">382582D3</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>道具汉化</comment>
+			<comment>汉化体验未测试</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -7905,13 +7905,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>100 - Fire Emblem - Heroes Remake</title>
 			<saveType>None</saveType>
-			<romSize>31627204</romSize>
+			<romSize>31697044</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">886DA546</romCRC>
+				<romCRC extension=".">0444B999</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>

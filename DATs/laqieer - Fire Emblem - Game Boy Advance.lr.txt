@@ -356,7 +356,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Code of the Burger King (Chinese Translation)".
 Name                                   Size Checksum
-1204 - Code of the Burger King (Chinese Translation)          29869432 CRC(30c3cd7d)
+1204 - Code of the Burger King (Chinese Translation)          30095816 CRC(382582d3)
 
 ROMs required for driver "Colm's Big Heist".
 Name                                   Size Checksum
@@ -1733,7 +1733,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Fire Emblem - Heroes Remake".
 Name                                   Size Checksum
-100 - Fire Emblem - Heroes Remake  31627204 CRC(886da546)
+100 - Fire Emblem - Heroes Remake  31697044 CRC(0444b999)
 
 ROMs required for driver "Fire Emblem - Illuminated".
 Name                                   Size Checksum

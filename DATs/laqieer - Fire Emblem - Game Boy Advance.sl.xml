@@ -717,7 +717,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1204 - Code of the Burger King (Chinese Translation)" size="29869432" crc="30c3cd7d" />
+				<rom name="1204 - Code of the Burger King (Chinese Translation)" size="30095816" crc="382582d3" />
 			</dataarea>
 		</part>
 	</software>
@@ -3474,7 +3474,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="100 - Fire Emblem - Heroes Remake" size="31627204" crc="886da546" />
+				<rom name="100 - Fire Emblem - Heroes Remake" size="31697044" crc="0444b999" />
 			</dataarea>
 		</part>
 	</software>

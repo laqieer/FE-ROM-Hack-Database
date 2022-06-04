@@ -566,13 +566,13 @@
       <releaseNumber>100</releaseNumber>
       <title>Fire Emblem - Heroes Remake</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>31627204</romSize>
+      <romSize>31697044</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>laqieer</sourceRom>
       <language>258</language>
       <files>
-        <romCRC extension=".gba">886DA546</romCRC>
+        <romCRC extension=".gba">0444B999</romCRC>
       </files>
       <im1CRC>29DE4A3C</im1CRC>
       <im2CRC>47DAA0C7</im2CRC>
@@ -20438,17 +20438,17 @@
       <releaseNumber>1204</releaseNumber>
       <title>Code of the Burger King (Chinese Translation)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>29869432</romSize>
+      <romSize>30095816</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
-      <sourceRom>unknown</sourceRom>
+      <sourceRom>最后一枚桃子</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">30C3CD7D</romCRC>
+        <romCRC extension=".gba">382582D3</romCRC>
       </files>
-      <im1CRC>6FBB990D</im1CRC>
-      <im2CRC>A8E4A46F</im2CRC>
-      <comment>道具汉化</comment>
+      <im1CRC>AF778299</im1CRC>
+      <im2CRC>8E0B94CD</im2CRC>
+      <comment>汉化体验未测试</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>

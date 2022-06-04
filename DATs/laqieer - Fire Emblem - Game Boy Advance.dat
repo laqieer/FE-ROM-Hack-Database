@@ -457,7 +457,7 @@ game (
 game (
 	name "Code of the Burger King (Chinese Translation)"
 	description "Code of the Burger King (Chinese Translation)"
-	rom ( name "1204 - Code of the Burger King (Chinese Translation)" size "29869432" crc "30c3cd7d" )
+	rom ( name "1204 - Code of the Burger King (Chinese Translation)" size "30095816" crc "382582d3" )
 )
 game (
 	name "Colm's Big Heist"
@@ -2178,7 +2178,7 @@ game (
 game (
 	name "Fire Emblem - Heroes Remake"
 	description "Fire Emblem - Heroes Remake"
-	rom ( name "100 - Fire Emblem - Heroes Remake" size "31627204" crc "886da546" )
+	rom ( name "100 - Fire Emblem - Heroes Remake" size "31697044" crc "0444b999" )
 )
 game (
 	name "Fire Emblem - Illuminated"
@@ -2303,7 +2303,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -2978,7 +2978,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3373,7 +3373,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"

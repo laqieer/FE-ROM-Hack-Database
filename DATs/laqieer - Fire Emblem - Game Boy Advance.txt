@@ -88,7 +88,7 @@ Chronicles of Lussaria;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None
 Clash of Fates;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/49088-fe7-clash-of-fates-v02/;
 Clendo's 1h Blitz - Faltharian Heist;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/1h-blitz-r1-complete/9560/34;
 Code of the Burger King;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-code-of-the-burger-king-main-campaign-complete/13690;
-Code of the Burger King (Chinese Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;道具汉化;
+Code of the Burger King (Chinese Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;汉化体验未测试;
 Colm's Big Heist;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://markyjoe.com/?page=rfdl;
 Communist Emblem 2 - Venezuela;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/communist-emblem-2-venezuela/3573;
 Community Blitz 5 - Redemption;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-community-blitz-5-redemption-v1-3/11674;

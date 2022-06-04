@@ -1710,7 +1710,7 @@
 		{
 			"machine": {
 				"name": "Code of the Burger King (Chinese Translation)",
-				"comment": "道具汉化",
+				"comment": "汉化体验未测试",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -1719,8 +1719,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1204 - Code of the Burger King (Chinese Translation)",
-						"size": 29869432,
-						"crc": "30c3cd7d"
+						"size": 30095816,
+						"crc": "382582d3"
 					}
 				}
 			]
@@ -7919,8 +7919,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "100 - Fire Emblem - Heroes Remake",
-						"size": 31627204,
-						"crc": "886da546"
+						"size": 31697044,
+						"crc": "0444b999"
 					}
 				}
 			]

@@ -1440,15 +1440,15 @@
 		<directory>
 			<machine>
 				<name>Code of the Burger King (Chinese Translation)</name>
-				<comment>道具汉化</comment>
+				<comment>汉化体验未测试</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1204 - Code of the Burger King (Chinese Translation)</name>
-					<size>29869432</size>
-					<crc>30c3cd7d</crc>
+					<size>30095816</size>
+					<crc>382582d3</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6613,8 +6613,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>100 - Fire Emblem - Heroes Remake</name>
-					<size>31627204</size>
-					<crc>886da546</crc>
+					<size>31697044</size>
+					<crc>0444b999</crc>
 				</datitem>
 			</files>
 		</directory>

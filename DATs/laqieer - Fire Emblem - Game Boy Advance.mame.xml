@@ -268,7 +268,7 @@
 		<rom name="600 - Code of the Burger King" size="28138512" crc="e74b3929" />
 	</machine>
 	<machine name="Code of the Burger King (Chinese Translation)">
-		<rom name="1204 - Code of the Burger King (Chinese Translation)" size="29869432" crc="30c3cd7d" />
+		<rom name="1204 - Code of the Burger King (Chinese Translation)" size="30095816" crc="382582d3" />
 	</machine>
 	<machine name="Colm's Big Heist">
 		<rom name="536 - Colm's Big Heist" size="16777216" crc="34f20e9d" />
@@ -1301,7 +1301,7 @@
 		<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31627204" crc="886da546" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="31697044" crc="0444b999" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />

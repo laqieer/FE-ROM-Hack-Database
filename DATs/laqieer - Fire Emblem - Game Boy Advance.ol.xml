@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1202</datVersion>
+		<datVersion>1203</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -8168,6 +8168,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>33 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Fan Translation</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5F286460</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](码表匹配) (简)</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

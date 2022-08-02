@@ -448,6 +448,7 @@ Fire Emblem - Rekka no Ken (Japan) (Beta) (19-02-2003);;laqieer - Fire Emblem - 
 Fire Emblem - Rekka no Ken (Japan)[CGP][CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 烈火之剑[CGP](简);
 Fire Emblem - Rekka no Ken (Japan)[Superxyj][CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 烈火之剑[Superxyj](简);
 Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1.3)(20060908) [CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 烈火之剑[狼组&火花天龙剑](v1.3)(20060908) (简);
+Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20050417) [CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 烈火之剑[狼组&火花天龙剑](码表匹配) (简);
 Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix) (简);
 Fire Emblem - Sacred Blaze;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-sacred-blaze/12892;
 Fire Emblem - Seima no Kouseki (Japan);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://www.nintendo.co.jp/n08/be8j/;

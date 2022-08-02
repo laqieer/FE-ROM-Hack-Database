@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220602</version>
+		<version>20220802</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -2207,6 +2207,11 @@
 		<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](v1.3)(20060908) (简)</comment>
 		<publisher>Fan Translation</publisher>
 		<rom name="31 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1" size="16777216" crc="4186d6e5" />
+	</game>
+	<game name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]">
+		<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](码表匹配) (简)</comment>
+		<publisher>Fan Translation</publisher>
+		<rom name="33 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]" size="16777216" crc="5f286460" />
 	</game>
 	<game name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
 		<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>

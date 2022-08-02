@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220602</datVersion>
+    <datVersion>20220802</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -559,6 +559,24 @@
       <im1CRC>F020514D</im1CRC>
       <im2CRC>F3500412</im2CRC>
       <comment>https://feuniverse.us/t/fire-emblem-the-sacred-stones-russian-translation/4901</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>33</imageNumber>
+      <releaseNumber>33</releaseNumber>
+      <title>Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Fan Translation</publisher>
+      <location>7</location>
+      <sourceRom>Wolf &amp; Chinafe</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">5F286460</romCRC>
+      </files>
+      <im1CRC>3B585B57</im1CRC>
+      <im2CRC>02DCF455</im2CRC>
+      <comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](码表匹配) (简)</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>

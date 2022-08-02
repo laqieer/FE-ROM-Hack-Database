@@ -1345,6 +1345,9 @@
 	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1.3)(20060908) [CHS]">
 		<rom name="31 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v1" size="16777216" crc="4186d6e5" />
 	</machine>
+	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]">
+		<rom name="33 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20050417) [CHS]" size="16777216" crc="5f286460" />
+	</machine>
 	<machine name="Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]">
 		<rom name="23 - Fire Emblem - Rekka no Ken (Japan)[Wolf &amp; Chinafe](v20090828) [CHS]" size="16777216" crc="7aef4edc" />
 	</machine>

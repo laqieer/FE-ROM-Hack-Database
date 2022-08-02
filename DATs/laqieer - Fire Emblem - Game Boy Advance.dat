@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220602"
+	version "20220802"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -2251,6 +2251,11 @@ game (
 	rom ( name "31 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v1" size "16777216" crc "4186d6e5" )
 )
 game (
+	name "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20050417) [CHS]"
+	description "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20050417) [CHS]"
+	rom ( name "33 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20050417) [CHS]" size "16777216" crc "5f286460" )
+)
+game (
 	name "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]"
 	description "Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]"
 	rom ( name "23 - Fire Emblem - Rekka no Ken (Japan)[Wolf & Chinafe](v20090828) [CHS]" size "16777216" crc "7aef4edc" )
@@ -2303,7 +2308,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -2978,7 +2983,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3373,7 +3378,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"

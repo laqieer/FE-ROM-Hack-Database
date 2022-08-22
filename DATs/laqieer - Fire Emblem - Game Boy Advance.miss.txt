@@ -29,6 +29,7 @@
 262 - Athos Mode
 254 - Atirian Conquest
 1239 - Attack On Titan
+1276 - Attempt 3
 499 - Auto Emblem
 418 - Awful Emblem - Complete Act 1 Demo
 1080 - Awful Emblem - The Thread Demo
@@ -61,6 +62,7 @@
 657 - Blades of the Blood Dunes
 658 - Blades of the Blood Dunes (April Fools’)
 127 - Blazer’s One Day Hack
+1277 - Blessed Heart
 574 - Blight of Acrova
 576 - Blight of Acrova (Reverse Recruitment)
 575 - Blight of Acrova (Zero Percent Growths)
@@ -194,6 +196,9 @@
 616 - FE6 But Everything Hits (Average Growths Mode)
 617 - FE6 But Everything Hits (Maximum Growths Mode)
 615 - FE6 But Everything Hits (Minimum Growths Mode)
+1278 - FE6 but it plays like FE1
+1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1
+1279 - FE6 but the numbers are gone (FE6 Localised Numberless)
 1265 - FE6 Chat Units
 1016 - FE6 Fire Embad
 299 - FE6 Google Translated
@@ -378,6 +383,7 @@
 601 - FE8Re(gret)
 714 - FE8S+アルファ版
 759 - FE8U 0% growths
+1283 - FE8六将軍襲来
 977 - FE8女版
 706 - FE8改造
 241 - Fe 8 Chess
@@ -433,6 +439,7 @@
 30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1
 22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]
 100 - Fire Emblem - Heroes Remake
+1273 - Fire Emblem - Heroes Remake Gaiden
 432 - Fire Emblem - Illuminated
 247 - Fire Emblem - Izarck’s Quest
 188 - Fire Emblem - Justice and Pride
@@ -523,6 +530,7 @@
 675 - GreatBeast
 482 - Grug’s Primitive Disadventure
 1167 - Heart Wars
+1275 - Heavens Fall
 154 - Heaven’s Bloom (Easy mode)
 1241 - Heaven’s Bloom (Hard mode)
 163 - Hector Saves Christmas
@@ -530,6 +538,7 @@
 190 - Heroes of PaBP
 261 - Heroes of Valencia and Archanea
 595 - Home By Winter
+1281 - Hope’s Trail
 493 - Horizons
 489 - Host of the Dark
 527 - Human Armory
@@ -746,6 +755,7 @@
 431 - Scourge of Proxima
 586 - Sea and Sky
 439 - Sealed in Light
+1274 - Searching For Light
 167 - Self-Randomising Rom
 1139 - Setsuko's FE 7 Patch (Just a Newbie Training)
 425 - Seven Siblings
@@ -886,6 +896,7 @@
 1125 - The Vanilla but not 100% vanilla blitz
 490 - The White Feather
 662 - There Is No Dialogue, Die
+1282 - Three Legacies
 999 - THWD2 - The Heist We Deserve
 987 - Tierra Maldita
 282 - Tirado Emblem
@@ -943,6 +954,7 @@
 719 - デフレ聖魔の光石
 703 - デフ烈火の剣
 708 - ヘイデンの野望
+1284 - ラピエサージュ
 860 - 不知名改版
 1215 - 东方苍神缘起周末
 828 - 东方苍神缘起无印大神版

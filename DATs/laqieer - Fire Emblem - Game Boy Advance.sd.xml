@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220802</version>
+		<version>20220822</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -157,8 +157,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>183 - 2 Princesses (二人の王女)</name>
-					<size>27935748</size>
-					<crc>1f0dbaa5</crc>
+					<size>25811900</size>
+					<crc>10ffc8f8</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -564,6 +564,21 @@
 					<name>1239 - Attack On Titan</name>
 					<size>17369936</size>
 					<crc>c408e76d</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Attempt 3</name>
+				<comment>https://feuniverse.us/t/fe8-15-chapters-fire-emblem-attempt-3/16481</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1276 - Attempt 3</name>
+					<size>29750836</size>
+					<crc>6001050d</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -1049,6 +1064,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Blessed Heart</name>
+				<comment>https://feuniverse.us/t/fe8-complete-blessed-heart-v1-1-music-update/12271</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1277 - Blessed Heart</name>
+					<size>24361164</size>
+					<crc>d6f2fc64</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Blight of Acrova</name>
 				<comment>https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175</comment>
 				<publisher>Fan Modding</publisher>
@@ -1350,15 +1380,15 @@
 		<directory>
 			<machine>
 				<name>Cerulean Coast</name>
-				<comment>https://feuniverse.us/t/fe8-cerulean-coast-7-chapters/13666</comment>
+				<comment>https://feuniverse.us/t/fe8-cerulean-coast-10-chapters-2-act-1-complete/13666</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>492 - Cerulean Coast</name>
-					<size>28145516</size>
-					<crc>81bfb293</crc>
+					<size>28905384</size>
+					<crc>b0d41fb3</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -3044,6 +3074,51 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE6 but it plays like FE1</name>
+				<comment>https://feuniverse.us/t/fire-emblem-6-but-it-plays-like-fe1-ver-2-0/16895</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1278 - FE6 but it plays like FE1</name>
+					<size>16777532</size>
+					<crc>282018be</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless)</name>
+				<comment>https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1</name>
+					<size>8590804</size>
+					<crc>f84cd0f5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE6 but the numbers are gone (FE6 Localised Numberless)</name>
+				<comment>https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1279 - FE6 but the numbers are gone (FE6 Localised Numberless)</name>
+					<size>8587268</size>
+					<crc>80c1a4f8</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE6 Chat Units</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -3981,15 +4056,15 @@
 		<directory>
 			<machine>
 				<name>FE7 Boss Swap</name>
-				<comment>https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-almost-complete/9897</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-complete/9897</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>993 - FE7 Boss Swap</name>
-					<size>17543272</size>
-					<crc>2f6e3fa3</crc>
+					<size>17542888</size>
+					<crc>2288fcea</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -5795,6 +5870,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE8六将軍襲来</name>
+				<comment>2022/06/18</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1283 - FE8六将軍襲来</name>
+					<size>17178852</size>
+					<crc>d92dc8d2</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE8女版</name>
 				<comment />
 				<publisher>Reskin/Rebalance</publisher>
@@ -5848,8 +5938,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1091 - FE 8 wild mode</name>
-					<size>20405064</size>
-					<crc>49fb9d67</crc>
+					<size>25430268</size>
+					<crc>9c9d1ba9</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -6606,15 +6696,30 @@
 		<directory>
 			<machine>
 				<name>Fire Emblem - Heroes Remake</name>
-				<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
+				<comment>https://github.com/laqieer/FEHR</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>100 - Fire Emblem - Heroes Remake</name>
-					<size>31697044</size>
-					<crc>0444b999</crc>
+					<size>33494228</size>
+					<crc>314ab5a9</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Fire Emblem - Heroes Remake Gaiden</name>
+				<comment>https://github.com/laqieer/FEHRG</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1273 - Fire Emblem - Heroes Remake Gaiden</name>
+					<size>29933884</size>
+					<crc>71079988</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7970,6 +8075,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Heavens Fall</name>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-heavens-fall-beta-5-12-chapters/16630</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1275 - Heavens Fall</name>
+					<size>23046488</size>
+					<crc>e869b4f0</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Heaven’s Bloom (Easy mode)</name>
 				<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
 				<publisher>Fan Modding</publisher>
@@ -8070,6 +8190,21 @@
 					<name>595 - Home By Winter</name>
 					<size>19463740</size>
 					<crc>b1ec4ef5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Hope’s Trail</name>
+				<comment>https://feuniverse.us/t/fire-emblem-hopes-trail-a-hack-inspired-by-nuzlocke-challenges/17183</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1281 - Hope’s Trail</name>
+					<size>21138400</size>
+					<crc>9f17c063</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8503,8 +8638,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>179 - Kaitou</name>
-					<size>33085792</size>
-					<crc>8605cc5a</crc>
+					<size>33163372</size>
+					<crc>6cf46123</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8518,8 +8653,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>180 - Kaitou (English)</name>
-					<size>33401380</size>
-					<crc>103c7866</crc>
+					<size>33175296</size>
+					<crc>2ededf70</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -9456,15 +9591,15 @@
 		<directory>
 			<machine>
 				<name>Myth of Blight</name>
-				<comment>https://feuniverse.us/t/myth-of-blight-public-demo-available-full-hack-in-development/13885</comment>
+				<comment>https://feuniverse.us/t/myth-of-blight-full-game-out-42-chapters/13885</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1015 - Myth of Blight</name>
-					<size>29573016</size>
-					<crc>26623bac</crc>
+					<size>30885360</size>
+					<crc>689e8440</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -11315,6 +11450,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Searching For Light</name>
+				<comment>https://feuniverse.us/t/fire-emblem-searching-for-light-fe8u-complete-up-to-chapter-3-wip/16556</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1274 - Searching For Light</name>
+					<size>19991644</size>
+					<crc>9e07db34</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Self-Randomising Rom</name>
 				<comment>https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426</comment>
 				<publisher>Fan Modding</publisher>
@@ -12396,15 +12546,15 @@
 		<directory>
 			<machine>
 				<name>The Divine Twins’ War</name>
-				<comment>https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975</comment>
+				<comment>https://feuniverse.us/t/the-divine-twins-war-v1-0-ch31-complete/10975</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>416 - The Divine Twins’ War</name>
-					<size>21006844</size>
-					<crc>4fd88c7b</crc>
+					<size>21602184</size>
+					<crc>ba141a81</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13415,6 +13565,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Three Legacies</name>
+				<comment>https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1282 - Three Legacies</name>
+					<size>21129612</size>
+					<crc>1e62497c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>THWD2 - The Heist We Deserve</name>
 				<comment>https://feuniverse.us/t/thwd2-the-heist-we-deserve/15252</comment>
 				<publisher>Fan Modding</publisher>
@@ -13431,15 +13596,15 @@
 		<directory>
 			<machine>
 				<name>Tierra Maldita</name>
-				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500</comment>
+				<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-2-up-to-ch-4-released/15500</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>987 - Tierra Maldita</name>
-					<size>17893384</size>
-					<crc>645bdefe</crc>
+					<size>18636620</size>
+					<crc>00c1b500</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14113,8 +14278,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>181 - Yugudora Hack (ユグドラパッチ)</name>
-					<size>29319148</size>
-					<crc>4ec2dd15</crc>
+					<size>29396192</size>
+					<crc>f3af4910</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14203,8 +14368,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>716 - エイリークパッチ</name>
-					<size>32525448</size>
-					<crc>f558fc02</crc>
+					<size>32620956</size>
+					<crc>7eb7f8fa</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -14265,6 +14430,21 @@
 					<name>708 - ヘイデンの野望</name>
 					<size>16777216</size>
 					<crc>ef551a7a</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>ラピエサージュ</name>
+				<comment>β版</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1284 - ラピエサージュ</name>
+					<size>29783036</size>
+					<crc>cce69010</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -15973,8 +16153,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1214 - 新エイリークパッチ</name>
-					<size>28183076</size>
-					<crc>ec948fce</crc>
+					<size>28536744</size>
+					<crc>e63eb552</crc>
 				</datitem>
 			</files>
 		</directory>

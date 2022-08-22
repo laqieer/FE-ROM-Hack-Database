@@ -1,7 +1,7 @@
 	0sheng mo/756 - 0sheng mo			9179c574	16777216
 	0的逆圣魔/853 - 0的逆圣魔			077d94bb	20252024
 	2 Princesses (English Translation)/184 - 2 Princesses (English Translation)			cdf24969	27926780
-	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			1f0dbaa5	27935748
+	2 Princesses (二人の王女)/183 - 2 Princesses (二人の王女)			10ffc8f8	25811900
 	21关开始-封印之剑/930 - 21关开始-封印之剑			75da6fb9	8388608
 	[FE8] Fire Emblem - The Archon's Curse/1064 - [FE8] Fire Emblem - The Archon's Curse			1be625b7	20883568
 	A Glimpse of Time (時の垣間 エリウッド編)/178 - A Glimpse of Time (時の垣間 エリウッド編)			caccb1eb	19436704
@@ -29,6 +29,7 @@
 	Athos Mode/262 - Athos Mode			2f511659	16788472
 	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
 	Attack On Titan/1239 - Attack On Titan			c408e76d	17369936
+	Attempt 3/1276 - Attempt 3			6001050d	29750836
 	Auto Emblem/499 - Auto Emblem			0624b3b0	21952164
 	Awful Emblem - Complete Act 1 Demo/418 - Awful Emblem - Complete Act 1 Demo			29f7ca11	16777216
 	Awful Emblem - The Thread Demo/1080 - Awful Emblem - The Thread Demo			50977793	22384920
@@ -61,6 +62,7 @@
 	Blades of the Blood Dunes/657 - Blades of the Blood Dunes			4468049f	18265128
 	Blades of the Blood Dunes (April Fools’)/658 - Blades of the Blood Dunes (April Fools’)			026be121	18276532
 	Blazer’s One Day Hack/127 - Blazer’s One Day Hack			c68db4ee	20983928
+	Blessed Heart/1277 - Blessed Heart			d6f2fc64	24361164
 	Blight of Acrova/574 - Blight of Acrova			80219c4c	26476404
 	Blight of Acrova (Reverse Recruitment)/576 - Blight of Acrova (Reverse Recruitment)			0883395d	27003148
 	Blight of Acrova (Zero Percent Growths)/575 - Blight of Acrova (Zero Percent Growths)			b9915ad8	26476404
@@ -81,7 +83,7 @@
 	Cancer Emblem 1 - Dazzle-Lunge Emblem/353 - Cancer Emblem 1 - Dazzle-Lunge Emblem			1ea8b476	16816800
 	Cancer Emblem 2 - Min-Max Emblem/352 - Cancer Emblem 2 - Min-Max Emblem			937079aa	17344212
 	Carcino’s Civil War/119 - Carcino’s Civil War			88a038ec	17378852
-	Cerulean Coast/492 - Cerulean Coast			81bfb293	28145516
+	Cerulean Coast/492 - Cerulean Coast			b0d41fb3	28905384
 	Christmas Crossover Carol/121 - Christmas Crossover Carol			676c6d7f	16831344
 	Chronicles of Lussaria/250 - Chronicles of Lussaria			bee51b0b	17605868
 	Clash of Fates/939 - Clash of Fates			1637f575	16832828
@@ -194,6 +196,9 @@
 	FE6 But Everything Hits (Average Growths Mode)/616 - FE6 But Everything Hits (Average Growths Mode)			21234137	16777532
 	FE6 But Everything Hits (Maximum Growths Mode)/617 - FE6 But Everything Hits (Maximum Growths Mode)			360d935c	16777532
 	FE6 But Everything Hits (Minimum Growths Mode)/615 - FE6 But Everything Hits (Minimum Growths Mode)			eb4322ea	16777532
+	FE6 but it plays like FE1/1278 - FE6 but it plays like FE1			282018be	16777532
+	FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless)/1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1			f84cd0f5	8590804
+	FE6 but the numbers are gone (FE6 Localised Numberless)/1279 - FE6 but the numbers are gone (FE6 Localised Numberless)			80c1a4f8	8587268
 	FE6 Chat Units/1265 - FE6 Chat Units			16729c6e	9516436
 	FE6 Fire Embad/1016 - FE6 Fire Embad			da5bd403	9281240
 	FE6 Google Translated/299 - FE6 Google Translated			1e494685	16777532
@@ -257,7 +262,7 @@
 	FE7 - the Community Edition/1009 - FE7 - the Community Edition			94bf4325	21445516
 	FE7 Allegiance Reversal+/264 - FE7 Allegiance Reversal+			8870c624	16911048
 	FE7 Boss Recruitment/596 - FE7 Boss Recruitment			1e48ca58	17102564
-	FE7 Boss Swap/993 - FE7 Boss Swap			2f6e3fa3	17543272
+	FE7 Boss Swap/993 - FE7 Boss Swap			2288fcea	17542888
 	FE7 but all the Promotion Items are Master Seals/1131 - FE7 but all the Promotion Items are Master Seals			fe43c45b	16778200
 	FE7 but the weather is bad/1173 - FE7 but the weather is bad			7d943e3f	16777216
 	FE7 Chaos Mode/332 - FE7 Chaos Mode			0f92ff9b	18767508
@@ -378,10 +383,11 @@
 	FE8Re(gret)/601 - FE8Re(gret)			ae563a17	16951928
 	FE8S+アルファ版/714 - FE8S+アルファ版			535a31dd	26753744
 	FE8U 0% growths/759 - FE8U 0% growths			a157be6b	16777216
+	FE8六将軍襲来/1283 - FE8六将軍襲来			d92dc8d2	17178852
 	FE8女版/977 - FE8女版			7f66973d	16898520
 	FE8改造/706 - FE8改造			616dfbb4	16777216
 	Fe 8 Chess/241 - Fe 8 Chess			d5ddb5e8	16806152
-	FE 8 wild mode/1091 - FE 8 wild mode			49fb9d67	20405064
+	FE 8 wild mode/1091 - FE 8 wild mode			9c9d1ba9	25430268
 	FE - The Two Blades/1145 - FE - The Two Blades			75ba88d4	16878936
 	FE but it’s my Biology Homework/198 - FE but it’s my Biology Homework			385de2ec	17279456
 	FE Colored/988 - FE Colored			1b3da853	22262344
@@ -432,7 +438,8 @@
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]/20 - Fire Emblem - Fuuin no Tsurugi (Japan)[Superxyj][CHS]			823c3801	9676785
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1.1)(2006090701) [CHS]/30 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v1			1ccf7040	8388608
 	Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]/22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf & Chinafe](v20060906) [CHS]			1f19d989	8388608
-	Fire Emblem - Heroes Remake/100 - Fire Emblem - Heroes Remake			0444b999	31697044
+	Fire Emblem - Heroes Remake/100 - Fire Emblem - Heroes Remake			314ab5a9	33494228
+	Fire Emblem - Heroes Remake Gaiden/1273 - Fire Emblem - Heroes Remake Gaiden			71079988	29933884
 	Fire Emblem - Illuminated/432 - Fire Emblem - Illuminated			6150b83f	29741960
 	Fire Emblem - Izarck’s Quest/247 - Fire Emblem - Izarck’s Quest			6bf9575b	21103520
 	Fire Emblem - Justice and Pride/188 - Fire Emblem - Justice and Pride			c166ce14	26189708
@@ -523,6 +530,7 @@
 	GreatBeast/675 - GreatBeast			f0d3c231	17035300
 	Grug’s Primitive Disadventure/482 - Grug’s Primitive Disadventure			706d37d0	29192184
 	Heart Wars/1167 - Heart Wars			27904705	32388856
+	Heavens Fall/1275 - Heavens Fall			e869b4f0	23046488
 	Heaven’s Bloom (Easy mode)/154 - Heaven’s Bloom (Easy mode)			c998aa0e	18376448
 	Heaven’s Bloom (Hard mode)/1241 - Heaven’s Bloom (Hard mode)			0c329909	18398588
 	Hector Saves Christmas/163 - Hector Saves Christmas			6896d8c2	17089672
@@ -530,6 +538,7 @@
 	Heroes of PaBP/190 - Heroes of PaBP			9e78b8ef	19640328
 	Heroes of Valencia and Archanea/261 - Heroes of Valencia and Archanea			0c8502f7	16804540
 	Home By Winter/595 - Home By Winter			b1ec4ef5	19463740
+	Hope’s Trail/1281 - Hope’s Trail			9f17c063	21138400
 	Horizons/493 - Horizons			63f74902	23323800
 	Host of the Dark/489 - Host of the Dark			5d9bf4f7	31293448
 	Human Armory/527 - Human Armory			90b0a9a5	16784272
@@ -558,8 +567,8 @@
 	Justice and Pride - Book 2/272 - Justice and Pride - Book 2			d28f4951	22610380
 	Kaga Emblem (English)/1034 - Kaga Emblem (English)			a6b440cc	19454240
 	Kaga Emblem (Spanish)/1035 - Kaga Emblem (Spanish)			1d89248c	19391296
-	Kaitou/179 - Kaitou			8605cc5a	33085792
-	Kaitou (English)/180 - Kaitou (English)			103c7866	33401380
+	Kaitou/179 - Kaitou			6cf46123	33163372
+	Kaitou (English)/180 - Kaitou (English)			2ededf70	33175296
 	Knoll’s Super Spooky Halloween Adventure/162 - Knoll’s Super Spooky Halloween Adventure			19a64b75	17014360
 	Kylin Dragons/763 - Kylin Dragons			9bd3db9a	17375996
 	Lady of Masks/590 - Lady of Masks			6142c8a8	21516196
@@ -622,7 +631,7 @@
 	MysteriousDancer's 1h Blitz - Questionable Innocence/644 - MysteriousDancer's 1h Blitz - Questionable Innocence			2181ccac	16841120
 	Mystery of the Emblem GBA/1079 - Mystery of the Emblem GBA			65d282e5	16777216
 	Mystic's MAFC FEU It Again patch/685 - Mystic's MAFC FEU It Again patch			4d217204	16777216
-	Myth of Blight/1015 - Myth of Blight			26623bac	29573016
+	Myth of Blight/1015 - Myth of Blight			689e8440	30885360
 	Mythgraven/624 - Mythgraven			bc28fd5d	23670068
 	Nabatas Ghost/669 - Nabatas Ghost			3f42621f	18133972
 	Narcian and the Mirror Chamber/199 - Narcian and the Mirror Chamber			9c298acb	18997204
@@ -746,6 +755,7 @@
 	Scourge of Proxima/431 - Scourge of Proxima			ced8254f	22542928
 	Sea and Sky/586 - Sea and Sky			f94f6c39	18548440
 	Sealed in Light/439 - Sealed in Light			a23144da	17267760
+	Searching For Light/1274 - Searching For Light			9e07db34	19991644
 	Self-Randomising Rom/167 - Self-Randomising Rom			21b24720	16777216
 	Setsuko's FE 7 Patch (Just a Newbie Training)/1139 - Setsuko's FE 7 Patch (Just a Newbie Training)			edd1a96b	16848388
 	Seven Siblings/425 - Seven Siblings			6ad992e0	26079424
@@ -818,7 +828,7 @@
 	The Dark Hour (Chinese Translation)/1200 - The Dark Hour (Chinese Translation)			d79f1436	27960064
 	The Dark Hour (Hard Mode)/202 - The Dark Hour (Hard Mode)			bfc8d218	26995576
 	The Divine Campaign/1090 - The Divine Campaign			bf512f2d	17990828
-	The Divine Twins’ War/416 - The Divine Twins’ War			4fd88c7b	21006844
+	The Divine Twins’ War/416 - The Divine Twins’ War			ba141a81	21602184
 	The Dragon Herald/152 - The Dragon Herald			72d65e0b	25565628
 	The Dragon Herald (DSSave)/153 - The Dragon Herald (DSSave)			24eaa892	25565628
 	The Eligor’s Spear/428 - The Eligor’s Spear			20426aa9	24776684
@@ -886,8 +896,9 @@
 	The Vanilla but not 100% vanilla blitz/1125 - The Vanilla but not 100% vanilla blitz			114e0666	18763540
 	The White Feather/490 - The White Feather			294c6150	23302696
 	There Is No Dialogue, Die/662 - There Is No Dialogue, Die			06900b89	17267948
+	Three Legacies/1282 - Three Legacies			1e62497c	21129612
 	THWD2 - The Heist We Deserve/999 - THWD2 - The Heist We Deserve			73ac3ff9	17152184
-	Tierra Maldita/987 - Tierra Maldita			645bdefe	17893384
+	Tierra Maldita/987 - Tierra Maldita			00c1b500	18636620
 	Tirado Emblem/282 - Tirado Emblem			5bb0ae74	18775380
 	Title Here/521 - Title Here			e6f15aae	17072284
 	TLP with Updated Animations/1053 - TLP with Updated Animations			ea5c9a40	33402172
@@ -932,17 +943,18 @@
 	XPGamesNL's Two Hour Blitz - The Town Of Neron/606 - XPGamesNL's Two Hour Blitz - The Town Of Neron			056cb4b0	17063944
 	Yet Another Ragefest Hack/514 - Yet Another Ragefest Hack			478b418e	16851636
 	Yggdra Hack UI Translation/182 - Yggdra Hack UI Translation			63b815ad	25450720
-	Yugudora Hack (ユグドラパッチ)/181 - Yugudora Hack (ユグドラパッチ)			4ec2dd15	29319148
+	Yugudora Hack (ユグドラパッチ)/181 - Yugudora Hack (ユグドラパッチ)			f3af4910	29396192
 	Yuri’s Sidestory/126 - Yuri’s Sidestory			8c417a5c	19915128
 	Zmr's 1h Blitz - Hour of Dusk/641 - Zmr's 1h Blitz - Hour of Dusk			a3cec0b0	17312208
 	Zombie Apocalypse/252 - Zombie Apocalypse			93ee3ea3	18992412
 	つどえ八神将 (tsudoe)/717 - つどえ八神将 (tsudoe)			75d63f23	23261184
 	つどえ八神将 (しねおじ)/718 - つどえ八神将 (しねおじ)			c7df9ecc	16931672
-	エイリークパッチ/716 - エイリークパッチ			f558fc02	32525448
+	エイリークパッチ/716 - エイリークパッチ			7eb7f8fa	32620956
 	エムブレムサーガ/760 - エムブレムサーガ			6c701371	16777216
 	デフレ聖魔の光石/719 - デフレ聖魔の光石			08547586	33554432
 	デフ烈火の剣/703 - デフ烈火の剣			0b5cb986	33554432
 	ヘイデンの野望/708 - ヘイデンの野望			ef551a7a	16777216
+	ラピエサージュ/1284 - ラピエサージュ			cce69010	29783036
 	不知名改版/860 - 不知名改版			a347d734	25166900
 	东方苍神缘起周末/1215 - 东方苍神缘起周末			ec605746	32877972
 	东方苍神缘起无印大神版/828 - 东方苍神缘起无印大神版			d0954d10	23055512
@@ -1056,7 +1068,7 @@
 	挑战1/1228 - 挑战1			e0d11130	17852420
 	放开那个魔王/900 - 放开那个魔王			79f6de81	21536448
 	新エイリーク/1162 - 新エイリーク			f8852487	27602232
-	新エイリークパッチ/1214 - 新エイリークパッチ			ec948fce	28183076
+	新エイリークパッチ/1214 - 新エイリークパッチ			e63eb552	28536744
 	新主角大联盟/1233 - 新主角大联盟			43eefe68	29843928
 	新公主同盟/925 - 新公主同盟			bb40f18a	22946116
 	新圣火微章/921 - 新圣火微章			20c552d6	27446884

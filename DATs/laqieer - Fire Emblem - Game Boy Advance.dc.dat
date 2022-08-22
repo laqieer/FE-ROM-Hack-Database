@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220802
+	Version: 20220822
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -21,7 +21,7 @@ game (
 )
 game (
 	name "2 Princesses (二人の王女).zip"
-	file ( name 183 - 2 Princesses (二人の王女) size 27935748 crc 1f0dbaa5 )
+	file ( name 183 - 2 Princesses (二人の王女) size 25811900 crc 10ffc8f8 )
 )
 game (
 	name "21关开始-封印之剑.zip"
@@ -130,6 +130,10 @@ game (
 game (
 	name "Attack On Titan.zip"
 	file ( name 1239 - Attack On Titan size 17369936 crc c408e76d )
+)
+game (
+	name "Attempt 3.zip"
+	file ( name 1276 - Attempt 3 size 29750836 crc 6001050d )
 )
 game (
 	name "Auto Emblem.zip"
@@ -260,6 +264,10 @@ game (
 	file ( name 127 - Blazer’s One Day Hack size 20983928 crc c68db4ee )
 )
 game (
+	name "Blessed Heart.zip"
+	file ( name 1277 - Blessed Heart size 24361164 crc d6f2fc64 )
+)
+game (
 	name "Blight of Acrova.zip"
 	file ( name 574 - Blight of Acrova size 26476404 crc 80219c4c )
 )
@@ -341,7 +349,7 @@ game (
 )
 game (
 	name "Cerulean Coast.zip"
-	file ( name 492 - Cerulean Coast size 28145516 crc 81bfb293 )
+	file ( name 492 - Cerulean Coast size 28905384 crc b0d41fb3 )
 )
 game (
 	name "Christmas Crossover Carol.zip"
@@ -792,6 +800,18 @@ game (
 	file ( name 615 - FE6 But Everything Hits (Minimum Growths Mode) size 16777532 crc eb4322ea )
 )
 game (
+	name "FE6 but it plays like FE1.zip"
+	file ( name 1278 - FE6 but it plays like FE1 size 16777532 crc 282018be )
+)
+game (
+	name "FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless).zip"
+	file ( name 1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1 size 8590804 crc f84cd0f5 )
+)
+game (
+	name "FE6 but the numbers are gone (FE6 Localised Numberless).zip"
+	file ( name 1279 - FE6 but the numbers are gone (FE6 Localised Numberless) size 8587268 crc 80c1a4f8 )
+)
+game (
 	name "FE6 Chat Units.zip"
 	file ( name 1265 - FE6 Chat Units size 9516436 crc 16729c6e )
 )
@@ -1042,7 +1062,7 @@ game (
 )
 game (
 	name "FE7 Boss Swap.zip"
-	file ( name 993 - FE7 Boss Swap size 17543272 crc 2f6e3fa3 )
+	file ( name 993 - FE7 Boss Swap size 17542888 crc 2288fcea )
 )
 game (
 	name "FE7 but all the Promotion Items are Master Seals.zip"
@@ -1525,6 +1545,10 @@ game (
 	file ( name 759 - FE8U 0% growths size 16777216 crc a157be6b )
 )
 game (
+	name "FE8六将軍襲来.zip"
+	file ( name 1283 - FE8六将軍襲来 size 17178852 crc d92dc8d2 )
+)
+game (
 	name "FE8女版.zip"
 	file ( name 977 - FE8女版 size 16898520 crc 7f66973d )
 )
@@ -1538,7 +1562,7 @@ game (
 )
 game (
 	name "FE 8 wild mode.zip"
-	file ( name 1091 - FE 8 wild mode size 20405064 crc 49fb9d67 )
+	file ( name 1091 - FE 8 wild mode size 25430268 crc 9c9d1ba9 )
 )
 game (
 	name "FE - The Two Blades.zip"
@@ -1742,7 +1766,11 @@ game (
 )
 game (
 	name "Fire Emblem - Heroes Remake.zip"
-	file ( name 100 - Fire Emblem - Heroes Remake size 31697044 crc 0444b999 )
+	file ( name 100 - Fire Emblem - Heroes Remake size 33494228 crc 314ab5a9 )
+)
+game (
+	name "Fire Emblem - Heroes Remake Gaiden.zip"
+	file ( name 1273 - Fire Emblem - Heroes Remake Gaiden size 29933884 crc 71079988 )
 )
 game (
 	name "Fire Emblem - Illuminated.zip"
@@ -2105,6 +2133,10 @@ game (
 	file ( name 1167 - Heart Wars size 32388856 crc 27904705 )
 )
 game (
+	name "Heavens Fall.zip"
+	file ( name 1275 - Heavens Fall size 23046488 crc e869b4f0 )
+)
+game (
 	name "Heaven’s Bloom (Easy mode).zip"
 	file ( name 154 - Heaven’s Bloom (Easy mode) size 18376448 crc c998aa0e )
 )
@@ -2131,6 +2163,10 @@ game (
 game (
 	name "Home By Winter.zip"
 	file ( name 595 - Home By Winter size 19463740 crc b1ec4ef5 )
+)
+game (
+	name "Hope’s Trail.zip"
+	file ( name 1281 - Hope’s Trail size 21138400 crc 9f17c063 )
 )
 game (
 	name "Horizons.zip"
@@ -2246,11 +2282,11 @@ game (
 )
 game (
 	name "Kaitou.zip"
-	file ( name 179 - Kaitou size 33085792 crc 8605cc5a )
+	file ( name 179 - Kaitou size 33163372 crc 6cf46123 )
 )
 game (
 	name "Kaitou (English).zip"
-	file ( name 180 - Kaitou (English) size 33401380 crc 103c7866 )
+	file ( name 180 - Kaitou (English) size 33175296 crc 2ededf70 )
 )
 game (
 	name "Knoll’s Super Spooky Halloween Adventure.zip"
@@ -2502,7 +2538,7 @@ game (
 )
 game (
 	name "Myth of Blight.zip"
-	file ( name 1015 - Myth of Blight size 29573016 crc 26623bac )
+	file ( name 1015 - Myth of Blight size 30885360 crc 689e8440 )
 )
 game (
 	name "Mythgraven.zip"
@@ -2997,6 +3033,10 @@ game (
 	file ( name 439 - Sealed in Light size 17267760 crc a23144da )
 )
 game (
+	name "Searching For Light.zip"
+	file ( name 1274 - Searching For Light size 19991644 crc 9e07db34 )
+)
+game (
 	name "Self-Randomising Rom.zip"
 	file ( name 167 - Self-Randomising Rom size 16777216 crc 21b24720 )
 )
@@ -3286,7 +3326,7 @@ game (
 )
 game (
 	name "The Divine Twins’ War.zip"
-	file ( name 416 - The Divine Twins’ War size 21006844 crc 4fd88c7b )
+	file ( name 416 - The Divine Twins’ War size 21602184 crc ba141a81 )
 )
 game (
 	name "The Dragon Herald.zip"
@@ -3557,12 +3597,16 @@ game (
 	file ( name 662 - There Is No Dialogue, Die size 17267948 crc 06900b89 )
 )
 game (
+	name "Three Legacies.zip"
+	file ( name 1282 - Three Legacies size 21129612 crc 1e62497c )
+)
+game (
 	name "THWD2 - The Heist We Deserve.zip"
 	file ( name 999 - THWD2 - The Heist We Deserve size 17152184 crc 73ac3ff9 )
 )
 game (
 	name "Tierra Maldita.zip"
-	file ( name 987 - Tierra Maldita size 17893384 crc 645bdefe )
+	file ( name 987 - Tierra Maldita size 18636620 crc 00c1b500 )
 )
 game (
 	name "Tirado Emblem.zip"
@@ -3742,7 +3786,7 @@ game (
 )
 game (
 	name "Yugudora Hack (ユグドラパッチ).zip"
-	file ( name 181 - Yugudora Hack (ユグドラパッチ) size 29319148 crc 4ec2dd15 )
+	file ( name 181 - Yugudora Hack (ユグドラパッチ) size 29396192 crc f3af4910 )
 )
 game (
 	name "Yuri’s Sidestory.zip"
@@ -3766,7 +3810,7 @@ game (
 )
 game (
 	name "エイリークパッチ.zip"
-	file ( name 716 - エイリークパッチ size 32525448 crc f558fc02 )
+	file ( name 716 - エイリークパッチ size 32620956 crc 7eb7f8fa )
 )
 game (
 	name "エムブレムサーガ.zip"
@@ -3783,6 +3827,10 @@ game (
 game (
 	name "ヘイデンの野望.zip"
 	file ( name 708 - ヘイデンの野望 size 16777216 crc ef551a7a )
+)
+game (
+	name "ラピエサージュ.zip"
+	file ( name 1284 - ラピエサージュ size 29783036 crc cce69010 )
 )
 game (
 	name "不知名改版.zip"
@@ -4238,7 +4286,7 @@ game (
 )
 game (
 	name "新エイリークパッチ.zip"
-	file ( name 1214 - 新エイリークパッチ size 28183076 crc ec948fce )
+	file ( name 1214 - 新エイリークパッチ size 28536744 crc e63eb552 )
 )
 game (
 	name "新主角大联盟.zip"

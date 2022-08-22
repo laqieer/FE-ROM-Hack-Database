@@ -10,7 +10,7 @@
 		<rom name="184 - 2 Princesses (English Translation)" size="27926780" crc="cdf24969" />
 	</machine>
 	<machine name="2 Princesses (二人の王女)">
-		<rom name="183 - 2 Princesses (二人の王女)" size="27935748" crc="1f0dbaa5" />
+		<rom name="183 - 2 Princesses (二人の王女)" size="25811900" crc="10ffc8f8" />
 	</machine>
 	<machine name="21关开始-封印之剑">
 		<rom name="930 - 21关开始-封印之剑" size="8388608" crc="75da6fb9" />
@@ -92,6 +92,9 @@
 	</machine>
 	<machine name="Attack On Titan">
 		<rom name="1239 - Attack On Titan" size="17369936" crc="c408e76d" />
+	</machine>
+	<machine name="Attempt 3">
+		<rom name="1276 - Attempt 3" size="29750836" crc="6001050d" />
 	</machine>
 	<machine name="Auto Emblem">
 		<rom name="499 - Auto Emblem" size="21952164" crc="0624b3b0" />
@@ -189,6 +192,9 @@
 	<machine name="Blazer’s One Day Hack">
 		<rom name="127 - Blazer’s One Day Hack" size="20983928" crc="c68db4ee" />
 	</machine>
+	<machine name="Blessed Heart">
+		<rom name="1277 - Blessed Heart" size="24361164" crc="d6f2fc64" />
+	</machine>
 	<machine name="Blight of Acrova">
 		<rom name="574 - Blight of Acrova" size="26476404" crc="80219c4c" />
 	</machine>
@@ -250,7 +256,7 @@
 		<rom name="119 - Carcino’s Civil War" size="17378852" crc="88a038ec" />
 	</machine>
 	<machine name="Cerulean Coast">
-		<rom name="492 - Cerulean Coast" size="28145516" crc="81bfb293" />
+		<rom name="492 - Cerulean Coast" size="28905384" crc="b0d41fb3" />
 	</machine>
 	<machine name="Christmas Crossover Carol">
 		<rom name="121 - Christmas Crossover Carol" size="16831344" crc="676c6d7f" />
@@ -588,6 +594,15 @@
 	<machine name="FE6 But Everything Hits (Minimum Growths Mode)">
 		<rom name="615 - FE6 But Everything Hits (Minimum Growths Mode)" size="16777532" crc="eb4322ea" />
 	</machine>
+	<machine name="FE6 but it plays like FE1">
+		<rom name="1278 - FE6 but it plays like FE1" size="16777532" crc="282018be" />
+	</machine>
+	<machine name="FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless)">
+		<rom name="1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1" size="8590804" crc="f84cd0f5" />
+	</machine>
+	<machine name="FE6 but the numbers are gone (FE6 Localised Numberless)">
+		<rom name="1279 - FE6 but the numbers are gone (FE6 Localised Numberless)" size="8587268" crc="80c1a4f8" />
+	</machine>
 	<machine name="FE6 Chat Units">
 		<rom name="1265 - FE6 Chat Units" size="9516436" crc="16729c6e" />
 	</machine>
@@ -776,7 +791,7 @@
 		<rom name="596 - FE7 Boss Recruitment" size="17102564" crc="1e48ca58" />
 	</machine>
 	<machine name="FE7 Boss Swap">
-		<rom name="993 - FE7 Boss Swap" size="17543272" crc="2f6e3fa3" />
+		<rom name="993 - FE7 Boss Swap" size="17542888" crc="2288fcea" />
 	</machine>
 	<machine name="FE7 but all the Promotion Items are Master Seals">
 		<rom name="1131 - FE7 but all the Promotion Items are Master Seals" size="16778200" crc="fe43c45b" />
@@ -1138,6 +1153,9 @@
 	<machine name="FE8U 0% growths">
 		<rom name="759 - FE8U 0% growths" size="16777216" crc="a157be6b" />
 	</machine>
+	<machine name="FE8六将軍襲来">
+		<rom name="1283 - FE8六将軍襲来" size="17178852" crc="d92dc8d2" />
+	</machine>
 	<machine name="FE8女版">
 		<rom name="977 - FE8女版" size="16898520" crc="7f66973d" />
 	</machine>
@@ -1148,7 +1166,7 @@
 		<rom name="241 - Fe 8 Chess" size="16806152" crc="d5ddb5e8" />
 	</machine>
 	<machine name="FE 8 wild mode">
-		<rom name="1091 - FE 8 wild mode" size="20405064" crc="49fb9d67" />
+		<rom name="1091 - FE 8 wild mode" size="25430268" crc="9c9d1ba9" />
 	</machine>
 	<machine name="FE - The Two Blades">
 		<rom name="1145 - FE - The Two Blades" size="16878936" crc="75ba88d4" />
@@ -1301,7 +1319,10 @@
 		<rom name="22 - Fire Emblem - Fuuin no Tsurugi (Japan)[Wolf &amp; Chinafe](v20060906) [CHS]" size="8388608" crc="1f19d989" />
 	</machine>
 	<machine name="Fire Emblem - Heroes Remake">
-		<rom name="100 - Fire Emblem - Heroes Remake" size="31697044" crc="0444b999" />
+		<rom name="100 - Fire Emblem - Heroes Remake" size="33494228" crc="314ab5a9" />
+	</machine>
+	<machine name="Fire Emblem - Heroes Remake Gaiden">
+		<rom name="1273 - Fire Emblem - Heroes Remake Gaiden" size="29933884" crc="71079988" />
 	</machine>
 	<machine name="Fire Emblem - Illuminated">
 		<rom name="432 - Fire Emblem - Illuminated" size="29741960" crc="6150b83f" />
@@ -1573,6 +1594,9 @@
 	<machine name="Heart Wars">
 		<rom name="1167 - Heart Wars" size="32388856" crc="27904705" />
 	</machine>
+	<machine name="Heavens Fall">
+		<rom name="1275 - Heavens Fall" size="23046488" crc="e869b4f0" />
+	</machine>
 	<machine name="Heaven’s Bloom (Easy mode)">
 		<rom name="154 - Heaven’s Bloom (Easy mode)" size="18376448" crc="c998aa0e" />
 	</machine>
@@ -1593,6 +1617,9 @@
 	</machine>
 	<machine name="Home By Winter">
 		<rom name="595 - Home By Winter" size="19463740" crc="b1ec4ef5" />
+	</machine>
+	<machine name="Hope’s Trail">
+		<rom name="1281 - Hope’s Trail" size="21138400" crc="9f17c063" />
 	</machine>
 	<machine name="Horizons">
 		<rom name="493 - Horizons" size="23323800" crc="63f74902" />
@@ -1679,10 +1706,10 @@
 		<rom name="1035 - Kaga Emblem (Spanish)" size="19391296" crc="1d89248c" />
 	</machine>
 	<machine name="Kaitou">
-		<rom name="179 - Kaitou" size="33085792" crc="8605cc5a" />
+		<rom name="179 - Kaitou" size="33163372" crc="6cf46123" />
 	</machine>
 	<machine name="Kaitou (English)">
-		<rom name="180 - Kaitou (English)" size="33401380" crc="103c7866" />
+		<rom name="180 - Kaitou (English)" size="33175296" crc="2ededf70" />
 	</machine>
 	<machine name="Knoll’s Super Spooky Halloween Adventure">
 		<rom name="162 - Knoll’s Super Spooky Halloween Adventure" size="17014360" crc="19a64b75" />
@@ -1871,7 +1898,7 @@
 		<rom name="685 - Mystic's MAFC FEU It Again patch" size="16777216" crc="4d217204" />
 	</machine>
 	<machine name="Myth of Blight">
-		<rom name="1015 - Myth of Blight" size="29573016" crc="26623bac" />
+		<rom name="1015 - Myth of Blight" size="30885360" crc="689e8440" />
 	</machine>
 	<machine name="Mythgraven">
 		<rom name="624 - Mythgraven" size="23670068" crc="bc28fd5d" />
@@ -2242,6 +2269,9 @@
 	<machine name="Sealed in Light">
 		<rom name="439 - Sealed in Light" size="17267760" crc="a23144da" />
 	</machine>
+	<machine name="Searching For Light">
+		<rom name="1274 - Searching For Light" size="19991644" crc="9e07db34" />
+	</machine>
 	<machine name="Self-Randomising Rom">
 		<rom name="167 - Self-Randomising Rom" size="16777216" crc="21b24720" />
 	</machine>
@@ -2459,7 +2489,7 @@
 		<rom name="1090 - The Divine Campaign" size="17990828" crc="bf512f2d" />
 	</machine>
 	<machine name="The Divine Twins’ War">
-		<rom name="416 - The Divine Twins’ War" size="21006844" crc="4fd88c7b" />
+		<rom name="416 - The Divine Twins’ War" size="21602184" crc="ba141a81" />
 	</machine>
 	<machine name="The Dragon Herald">
 		<rom name="152 - The Dragon Herald" size="25565628" crc="72d65e0b" />
@@ -2662,11 +2692,14 @@
 	<machine name="There Is No Dialogue, Die">
 		<rom name="662 - There Is No Dialogue, Die" size="17267948" crc="06900b89" />
 	</machine>
+	<machine name="Three Legacies">
+		<rom name="1282 - Three Legacies" size="21129612" crc="1e62497c" />
+	</machine>
 	<machine name="THWD2 - The Heist We Deserve">
 		<rom name="999 - THWD2 - The Heist We Deserve" size="17152184" crc="73ac3ff9" />
 	</machine>
 	<machine name="Tierra Maldita">
-		<rom name="987 - Tierra Maldita" size="17893384" crc="645bdefe" />
+		<rom name="987 - Tierra Maldita" size="18636620" crc="00c1b500" />
 	</machine>
 	<machine name="Tirado Emblem">
 		<rom name="282 - Tirado Emblem" size="18775380" crc="5bb0ae74" />
@@ -2801,7 +2834,7 @@
 		<rom name="182 - Yggdra Hack UI Translation" size="25450720" crc="63b815ad" />
 	</machine>
 	<machine name="Yugudora Hack (ユグドラパッチ)">
-		<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="29319148" crc="4ec2dd15" />
+		<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="29396192" crc="f3af4910" />
 	</machine>
 	<machine name="Yuri’s Sidestory">
 		<rom name="126 - Yuri’s Sidestory" size="19915128" crc="8c417a5c" />
@@ -2819,7 +2852,7 @@
 		<rom name="718 - つどえ八神将 (しねおじ)" size="16931672" crc="c7df9ecc" />
 	</machine>
 	<machine name="エイリークパッチ">
-		<rom name="716 - エイリークパッチ" size="32525448" crc="f558fc02" />
+		<rom name="716 - エイリークパッチ" size="32620956" crc="7eb7f8fa" />
 	</machine>
 	<machine name="エムブレムサーガ">
 		<rom name="760 - エムブレムサーガ" size="16777216" crc="6c701371" />
@@ -2832,6 +2865,9 @@
 	</machine>
 	<machine name="ヘイデンの野望">
 		<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
+	</machine>
+	<machine name="ラピエサージュ">
+		<rom name="1284 - ラピエサージュ" size="29783036" crc="cce69010" />
 	</machine>
 	<machine name="不知名改版">
 		<rom name="860 - 不知名改版" size="25166900" crc="a347d734" />
@@ -3173,7 +3209,7 @@
 		<rom name="1162 - 新エイリーク" size="27602232" crc="f8852487" />
 	</machine>
 	<machine name="新エイリークパッチ">
-		<rom name="1214 - 新エイリークパッチ" size="28183076" crc="ec948fce" />
+		<rom name="1214 - 新エイリークパッチ" size="28536744" crc="e63eb552" />
 	</machine>
 	<machine name="新主角大联盟">
 		<rom name="1233 - 新主角大联盟" size="29843928" crc="43eefe68" />

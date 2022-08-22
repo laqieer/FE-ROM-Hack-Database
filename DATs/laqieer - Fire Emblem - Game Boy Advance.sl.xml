@@ -29,7 +29,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="183 - 2 Princesses (二人の王女)" size="27935748" crc="1f0dbaa5" />
+				<rom name="183 - 2 Princesses (二人の王女)" size="25811900" crc="10ffc8f8" />
 			</dataarea>
 		</part>
 	</software>
@@ -246,6 +246,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1239 - Attack On Titan" size="17369936" crc="c408e76d" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Attempt 3">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1276 - Attempt 3" size="29750836" crc="6001050d" />
 			</dataarea>
 		</part>
 	</software>
@@ -505,6 +513,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Blessed Heart">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1277 - Blessed Heart" size="24361164" crc="d6f2fc64" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Blight of Acrova">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -669,7 +685,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="492 - Cerulean Coast" size="28145516" crc="81bfb293" />
+				<rom name="492 - Cerulean Coast" size="28905384" crc="b0d41fb3" />
 			</dataarea>
 		</part>
 	</software>
@@ -1569,6 +1585,30 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE6 but it plays like FE1">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1278 - FE6 but it plays like FE1" size="16777532" crc="282018be" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1" size="8590804" crc="f84cd0f5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE6 but the numbers are gone (FE6 Localised Numberless)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1279 - FE6 but the numbers are gone (FE6 Localised Numberless)" size="8587268" crc="80c1a4f8" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE6 Chat Units">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2074,7 +2114,7 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="993 - FE7 Boss Swap" size="17543272" crc="2f6e3fa3" />
+				<rom name="993 - FE7 Boss Swap" size="17542888" crc="2288fcea" />
 			</dataarea>
 		</part>
 	</software>
@@ -3038,6 +3078,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE8六将軍襲来">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1283 - FE8六将軍襲来" size="17178852" crc="d92dc8d2" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE8女版">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -3066,7 +3114,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1091 - FE 8 wild mode" size="20405064" crc="49fb9d67" />
+				<rom name="1091 - FE 8 wild mode" size="25430268" crc="9c9d1ba9" />
 			</dataarea>
 		</part>
 	</software>
@@ -3474,7 +3522,15 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="100 - Fire Emblem - Heroes Remake" size="31697044" crc="0444b999" />
+				<rom name="100 - Fire Emblem - Heroes Remake" size="33494228" crc="314ab5a9" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Fire Emblem - Heroes Remake Gaiden">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1273 - Fire Emblem - Heroes Remake Gaiden" size="29933884" crc="71079988" />
 			</dataarea>
 		</part>
 	</software>
@@ -4198,6 +4254,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Heavens Fall">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1275 - Heavens Fall" size="23046488" crc="e869b4f0" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Heaven’s Bloom (Easy mode)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4251,6 +4315,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="595 - Home By Winter" size="19463740" crc="b1ec4ef5" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Hope’s Trail">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1281 - Hope’s Trail" size="21138400" crc="9f17c063" />
 			</dataarea>
 		</part>
 	</software>
@@ -4482,7 +4554,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="179 - Kaitou" size="33085792" crc="8605cc5a" />
+				<rom name="179 - Kaitou" size="33163372" crc="6cf46123" />
 			</dataarea>
 		</part>
 	</software>
@@ -4490,7 +4562,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="180 - Kaitou (English)" size="33401380" crc="103c7866" />
+				<rom name="180 - Kaitou (English)" size="33175296" crc="2ededf70" />
 			</dataarea>
 		</part>
 	</software>
@@ -4994,7 +5066,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1015 - Myth of Blight" size="29573016" crc="26623bac" />
+				<rom name="1015 - Myth of Blight" size="30885360" crc="689e8440" />
 			</dataarea>
 		</part>
 	</software>
@@ -5982,6 +6054,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Searching For Light">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1274 - Searching For Light" size="19991644" crc="9e07db34" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Self-Randomising Rom">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -6562,7 +6642,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="416 - The Divine Twins’ War" size="21006844" crc="4fd88c7b" />
+				<rom name="416 - The Divine Twins’ War" size="21602184" crc="ba141a81" />
 			</dataarea>
 		</part>
 	</software>
@@ -7102,6 +7182,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Three Legacies">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1282 - Three Legacies" size="21129612" crc="1e62497c" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="THWD2 - The Heist We Deserve">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -7114,7 +7202,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="987 - Tierra Maldita" size="17893384" crc="645bdefe" />
+				<rom name="987 - Tierra Maldita" size="18636620" crc="00c1b500" />
 			</dataarea>
 		</part>
 	</software>
@@ -7474,7 +7562,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="29319148" crc="4ec2dd15" />
+				<rom name="181 - Yugudora Hack (ユグドラパッチ)" size="29396192" crc="f3af4910" />
 			</dataarea>
 		</part>
 	</software>
@@ -7522,7 +7610,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="716 - エイリークパッチ" size="32525448" crc="f558fc02" />
+				<rom name="716 - エイリークパッチ" size="32620956" crc="7eb7f8fa" />
 			</dataarea>
 		</part>
 	</software>
@@ -7555,6 +7643,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="708 - ヘイデンの野望" size="16777216" crc="ef551a7a" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="ラピエサージュ">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1284 - ラピエサージュ" size="29783036" crc="cce69010" />
 			</dataarea>
 		</part>
 	</software>
@@ -8466,7 +8562,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1214 - 新エイリークパッチ" size="28183076" crc="ec948fce" />
+				<rom name="1214 - 新エイリークパッチ" size="28536744" crc="e63eb552" />
 			</dataarea>
 		</part>
 	</software>

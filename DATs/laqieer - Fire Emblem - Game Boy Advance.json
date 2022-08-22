@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220802",
+		"version": "20220822",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -171,8 +171,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "183 - 2 Princesses (二人の王女)",
-						"size": 27935748,
-						"crc": "1f0dbaa5"
+						"size": 25811900,
+						"crc": "10ffc8f8"
 					}
 				}
 			]
@@ -659,6 +659,24 @@
 						"name": "1239 - Attack On Titan",
 						"size": 17369936,
 						"crc": "c408e76d"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Attempt 3",
+				"comment": "https://feuniverse.us/t/fe8-15-chapters-fire-emblem-attempt-3/16481",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1276 - Attempt 3",
+						"size": 29750836,
+						"crc": "6001050d"
 					}
 				}
 			]
@@ -1241,6 +1259,24 @@
 		},
 		{
 			"machine": {
+				"name": "Blessed Heart",
+				"comment": "https://feuniverse.us/t/fe8-complete-blessed-heart-v1-1-music-update/12271",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1277 - Blessed Heart",
+						"size": 24361164,
+						"crc": "d6f2fc64"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Blight of Acrova",
 				"comment": "https://feuniverse.us/t/complete-hack-fire-emblem-blight-of-acrova-release-page/10175",
 				"description": null,
@@ -1602,7 +1638,7 @@
 		{
 			"machine": {
 				"name": "Cerulean Coast",
-				"comment": "https://feuniverse.us/t/fe8-cerulean-coast-7-chapters/13666",
+				"comment": "https://feuniverse.us/t/fe8-cerulean-coast-10-chapters-2-act-1-complete/13666",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -1611,8 +1647,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "492 - Cerulean Coast",
-						"size": 28145516,
-						"crc": "81bfb293"
+						"size": 28905384,
+						"crc": "b0d41fb3"
 					}
 				}
 			]
@@ -3635,6 +3671,60 @@
 		},
 		{
 			"machine": {
+				"name": "FE6 but it plays like FE1",
+				"comment": "https://feuniverse.us/t/fire-emblem-6-but-it-plays-like-fe1-ver-2-0/16895",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1278 - FE6 but it plays like FE1",
+						"size": 16777532,
+						"crc": "282018be"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1.5 Numberless)",
+				"comment": "https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1",
+						"size": 8590804,
+						"crc": "f84cd0f5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE6 but the numbers are gone (FE6 Localised Numberless)",
+				"comment": "https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1279 - FE6 but the numbers are gone (FE6 Localised Numberless)",
+						"size": 8587268,
+						"crc": "80c1a4f8"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE6 Chat Units",
 				"comment": "",
 				"description": null,
@@ -4760,7 +4850,7 @@
 		{
 			"machine": {
 				"name": "FE7 Boss Swap",
-				"comment": "https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-almost-complete/9897",
+				"comment": "https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-complete/9897",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -4769,8 +4859,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "993 - FE7 Boss Swap",
-						"size": 17543272,
-						"crc": "2f6e3fa3"
+						"size": 17542888,
+						"crc": "2288fcea"
 					}
 				}
 			]
@@ -6937,6 +7027,24 @@
 		},
 		{
 			"machine": {
+				"name": "FE8六将軍襲来",
+				"comment": "2022/06/18",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1283 - FE8六将軍襲来",
+						"size": 17178852,
+						"crc": "d92dc8d2"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "FE8女版",
 				"comment": "",
 				"description": null,
@@ -7001,8 +7109,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1091 - FE 8 wild mode",
-						"size": 20405064,
-						"crc": "49fb9d67"
+						"size": 25430268,
+						"crc": "9c9d1ba9"
 					}
 				}
 			]
@@ -7910,7 +8018,7 @@
 		{
 			"machine": {
 				"name": "Fire Emblem - Heroes Remake",
-				"comment": "https://github.com/laqieer/fe7-jp-stunning-tribble",
+				"comment": "https://github.com/laqieer/FEHR",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -7919,8 +8027,26 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "100 - Fire Emblem - Heroes Remake",
-						"size": 31697044,
-						"crc": "0444b999"
+						"size": 33494228,
+						"crc": "314ab5a9"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Fire Emblem - Heroes Remake Gaiden",
+				"comment": "https://github.com/laqieer/FEHRG",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1273 - Fire Emblem - Heroes Remake Gaiden",
+						"size": 29933884,
+						"crc": "71079988"
 					}
 				}
 			]
@@ -9547,6 +9673,24 @@
 		},
 		{
 			"machine": {
+				"name": "Heavens Fall",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-heavens-fall-beta-5-12-chapters/16630",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1275 - Heavens Fall",
+						"size": 23046488,
+						"crc": "e869b4f0"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Heaven’s Bloom (Easy mode)",
 				"comment": "https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879",
 				"description": null,
@@ -9667,6 +9811,24 @@
 						"name": "595 - Home By Winter",
 						"size": 19463740,
 						"crc": "b1ec4ef5"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "Hope’s Trail",
+				"comment": "https://feuniverse.us/t/fire-emblem-hopes-trail-a-hack-inspired-by-nuzlocke-challenges/17183",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1281 - Hope’s Trail",
+						"size": 21138400,
+						"crc": "9f17c063"
 					}
 				}
 			]
@@ -10187,8 +10349,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "179 - Kaitou",
-						"size": 33085792,
-						"crc": "8605cc5a"
+						"size": 33163372,
+						"crc": "6cf46123"
 					}
 				}
 			]
@@ -10205,8 +10367,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "180 - Kaitou (English)",
-						"size": 33401380,
-						"crc": "103c7866"
+						"size": 33175296,
+						"crc": "2ededf70"
 					}
 				}
 			]
@@ -11330,7 +11492,7 @@
 		{
 			"machine": {
 				"name": "Myth of Blight",
-				"comment": "https://feuniverse.us/t/myth-of-blight-public-demo-available-full-hack-in-development/13885",
+				"comment": "https://feuniverse.us/t/myth-of-blight-full-game-out-42-chapters/13885",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -11339,8 +11501,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1015 - Myth of Blight",
-						"size": 29573016,
-						"crc": "26623bac"
+						"size": 30885360,
+						"crc": "689e8440"
 					}
 				}
 			]
@@ -13561,6 +13723,24 @@
 		},
 		{
 			"machine": {
+				"name": "Searching For Light",
+				"comment": "https://feuniverse.us/t/fire-emblem-searching-for-light-fe8u-complete-up-to-chapter-3-wip/16556",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1274 - Searching For Light",
+						"size": 19991644,
+						"crc": "9e07db34"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Self-Randomising Rom",
 				"comment": "https://feuniverse.us/t/fe8-self-randomizing-rom-v1-4/3426",
 				"description": null,
@@ -14858,7 +15038,7 @@
 		{
 			"machine": {
 				"name": "The Divine Twins’ War",
-				"comment": "https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975",
+				"comment": "https://feuniverse.us/t/the-divine-twins-war-v1-0-ch31-complete/10975",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -14867,8 +15047,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "416 - The Divine Twins’ War",
-						"size": 21006844,
-						"crc": "4fd88c7b"
+						"size": 21602184,
+						"crc": "ba141a81"
 					}
 				}
 			]
@@ -16081,6 +16261,24 @@
 		},
 		{
 			"machine": {
+				"name": "Three Legacies",
+				"comment": "https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1282 - Three Legacies",
+						"size": 21129612,
+						"crc": "1e62497c"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "THWD2 - The Heist We Deserve",
 				"comment": "https://feuniverse.us/t/thwd2-the-heist-we-deserve/15252",
 				"description": null,
@@ -16100,7 +16298,7 @@
 		{
 			"machine": {
 				"name": "Tierra Maldita",
-				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500",
+				"comment": "https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-2-up-to-ch-4-released/15500",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -16109,8 +16307,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "987 - Tierra Maldita",
-						"size": 17893384,
-						"crc": "645bdefe"
+						"size": 18636620,
+						"crc": "00c1b500"
 					}
 				}
 			]
@@ -16919,8 +17117,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "181 - Yugudora Hack (ユグドラパッチ)",
-						"size": 29319148,
-						"crc": "4ec2dd15"
+						"size": 29396192,
+						"crc": "f3af4910"
 					}
 				}
 			]
@@ -17027,8 +17225,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "716 - エイリークパッチ",
-						"size": 32525448,
-						"crc": "f558fc02"
+						"size": 32620956,
+						"crc": "7eb7f8fa"
 					}
 				}
 			]
@@ -17101,6 +17299,24 @@
 						"name": "708 - ヘイデンの野望",
 						"size": 16777216,
 						"crc": "ef551a7a"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "ラピエサージュ",
+				"comment": "β版",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1284 - ラピエサージュ",
+						"size": 29783036,
+						"crc": "cce69010"
 					}
 				}
 			]
@@ -19151,8 +19367,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1214 - 新エイリークパッチ",
-						"size": 28183076,
-						"crc": "ec948fce"
+						"size": 28536744,
+						"crc": "e63eb552"
 					}
 				}
 			]

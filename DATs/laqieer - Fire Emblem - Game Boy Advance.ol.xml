@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1203</datVersion>
+		<datVersion>1215</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -102,13 +102,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>183 - 2 Princesses (二人の王女)</title>
 			<saveType>None</saveType>
-			<romSize>27935748</romSize>
+			<romSize>25811900</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">1F0DBAA5</romCRC>
+				<romCRC extension=".">10FFC8F8</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -600,6 +600,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-attack-on-titan-1-map-finished-romhack/15915</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1276 - Attempt 3</title>
+			<saveType>None</saveType>
+			<romSize>29750836</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6001050D</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-15-chapters-fire-emblem-attempt-3/16481</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -1183,6 +1201,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1277 - Blessed Heart</title>
+			<saveType>None</saveType>
+			<romSize>24361164</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D6F2FC64</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-complete-blessed-heart-v1-1-music-update/12271</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>574 - Blight of Acrova</title>
 			<saveType>None</saveType>
 			<romSize>26476404</romSize>
@@ -1545,17 +1581,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>492 - Cerulean Coast</title>
 			<saveType>None</saveType>
-			<romSize>28145516</romSize>
+			<romSize>28905384</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">81BFB293</romCRC>
+				<romCRC extension=".">B0D41FB3</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-cerulean-coast-7-chapters/13666</comment>
+			<comment>https://feuniverse.us/t/fe8-cerulean-coast-10-chapters-2-act-1-complete/13666</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3582,6 +3618,60 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1278 - FE6 but it plays like FE1</title>
+			<saveType>None</saveType>
+			<romSize>16777532</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">282018BE</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-6-but-it-plays-like-fe1-ver-2-0/16895</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1280 - FE6 but the numbers are gone (FE6 BugfixeStrongEnemies 1</title>
+			<saveType>None</saveType>
+			<romSize>8590804</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F84CD0F5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1279 - FE6 but the numbers are gone (FE6 Localised Numberless)</title>
+			<saveType>None</saveType>
+			<romSize>8587268</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">80C1A4F8</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe6-but-the-numbers-are-gone-fe1-style-bars/17148</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1265 - FE6 Chat Units</title>
 			<saveType>None</saveType>
 			<romSize>9516436</romSize>
@@ -4729,17 +4819,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>993 - FE7 Boss Swap</title>
 			<saveType>None</saveType>
-			<romSize>17543272</romSize>
+			<romSize>17542888</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">2F6E3FA3</romCRC>
+				<romCRC extension=".">2288FCEA</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-almost-complete/9897</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-7-boss-swap-v1-1-complete/9897</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -6926,6 +7016,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1283 - FE8六将軍襲来</title>
+			<saveType>None</saveType>
+			<romSize>17178852</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D92DC8D2</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>2022/06/18</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>977 - FE8女版</title>
 			<saveType>None</saveType>
 			<romSize>16898520</romSize>
@@ -6984,13 +7092,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1091 - FE 8 wild mode</title>
 			<saveType>None</saveType>
-			<romSize>20405064</romSize>
+			<romSize>25430268</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">49FB9D67</romCRC>
+				<romCRC extension=".">9C9D1BA9</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -7905,17 +8013,35 @@
 			<releaseNumber>1</releaseNumber>
 			<title>100 - Fire Emblem - Heroes Remake</title>
 			<saveType>None</saveType>
-			<romSize>31697044</romSize>
+			<romSize>33494228</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">0444B999</romCRC>
+				<romCRC extension=".">314AB5A9</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://github.com/laqieer/fe7-jp-stunning-tribble</comment>
+			<comment>https://github.com/laqieer/FEHR</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1273 - Fire Emblem - Heroes Remake Gaiden</title>
+			<saveType>None</saveType>
+			<romSize>29933884</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">71079988</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://github.com/laqieer/FEHRG</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -9546,6 +9672,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1275 - Heavens Fall</title>
+			<saveType>None</saveType>
+			<romSize>23046488</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">E869B4F0</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-heavens-fall-beta-5-12-chapters/16630</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>154 - Heaven’s Bloom (Easy mode)</title>
 			<saveType>None</saveType>
 			<romSize>18376448</romSize>
@@ -9667,6 +9811,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-home-by-winter-v0-1-wip-10-chapters/12917</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1281 - Hope’s Trail</title>
+			<saveType>None</saveType>
+			<romSize>21138400</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9F17C063</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-hopes-trail-a-hack-inspired-by-nuzlocke-challenges/17183</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10180,13 +10342,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>179 - Kaitou</title>
 			<saveType>None</saveType>
-			<romSize>33085792</romSize>
+			<romSize>33163372</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">8605CC5A</romCRC>
+				<romCRC extension=".">6CF46123</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -10198,13 +10360,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>180 - Kaitou (English)</title>
 			<saveType>None</saveType>
-			<romSize>33401380</romSize>
+			<romSize>33175296</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">103C7866</romCRC>
+				<romCRC extension=".">2EDEDF70</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -11338,17 +11500,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1015 - Myth of Blight</title>
 			<saveType>None</saveType>
-			<romSize>29573016</romSize>
+			<romSize>30885360</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">26623BAC</romCRC>
+				<romCRC extension=".">689E8440</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/myth-of-blight-public-demo-available-full-hack-in-development/13885</comment>
+			<comment>https://feuniverse.us/t/myth-of-blight-full-game-out-42-chapters/13885</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -13571,6 +13733,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1274 - Searching For Light</title>
+			<saveType>None</saveType>
+			<romSize>19991644</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">9E07DB34</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-searching-for-light-fe8u-complete-up-to-chapter-3-wip/16556</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>167 - Self-Randomising Rom</title>
 			<saveType>None</saveType>
 			<romSize>16777216</romSize>
@@ -14875,17 +15055,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>416 - The Divine Twins’ War</title>
 			<saveType>None</saveType>
-			<romSize>21006844</romSize>
+			<romSize>21602184</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">4FD88C7B</romCRC>
+				<romCRC extension=".">BA141A81</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/wip-the-divine-twins-war-v-15-ch28-complete/10975</comment>
+			<comment>https://feuniverse.us/t/the-divine-twins-war-v1-0-ch31-complete/10975</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -16098,6 +16278,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1282 - Three Legacies</title>
+			<saveType>None</saveType>
+			<romSize>21129612</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">1E62497C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>999 - THWD2 - The Heist We Deserve</title>
 			<saveType>None</saveType>
 			<romSize>17152184</romSize>
@@ -16118,17 +16316,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>987 - Tierra Maldita</title>
 			<saveType>None</saveType>
-			<romSize>17893384</romSize>
+			<romSize>18636620</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">645BDEFE</romCRC>
+				<romCRC extension=".">00C1B500</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-up-to-ch-3-released/15500</comment>
+			<comment>https://feuniverse.us/t/fe8-fire-emblem-tierra-maldita-v0-2-2-up-to-ch-4-released/15500</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -16929,13 +17127,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>181 - Yugudora Hack (ユグドラパッチ)</title>
 			<saveType>None</saveType>
-			<romSize>29319148</romSize>
+			<romSize>29396192</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">4EC2DD15</romCRC>
+				<romCRC extension=".">F3AF4910</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -17039,13 +17237,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>716 - エイリークパッチ</title>
 			<saveType>None</saveType>
-			<romSize>32525448</romSize>
+			<romSize>32620956</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">F558FC02</romCRC>
+				<romCRC extension=".">7EB7F8FA</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -17125,6 +17323,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1284 - ラピエサージュ</title>
+			<saveType>None</saveType>
+			<romSize>29783036</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">CCE69010</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>β版</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -19238,13 +19454,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1214 - 新エイリークパッチ</title>
 			<saveType>None</saveType>
-			<romSize>28183076</romSize>
+			<romSize>28536744</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">EC948FCE</romCRC>
+				<romCRC extension=".">E63EB552</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>

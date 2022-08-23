@@ -106,6 +106,10 @@ ROMs required for driver "Asks Attorney Investigations".
 Name                                   Size Checksum
 537 - Asks Attorney Investigations 18548704 CRC(809a5207)
 
+ROMs required for driver "Asm Telephone Hacc - Feature (Not a Bug)".
+Name                                   Size Checksum
+1298 - Asm Telephone Hacc - Feature (Not a Bug)          25948264 CRC(8d38be14)
+
 ROMs required for driver "Asylum Of Irony".
 Name                                   Size Checksum
 532 - Asylum Of Irony              19807284 CRC(98402613)
@@ -153,6 +157,10 @@ Name                                   Size Checksum
 ROMs required for driver "Bandit Emblem".
 Name                                   Size Checksum
 204 - Bandit Emblem                17645508 CRC(4c0a42a1)
+
+ROMs required for driver "Bandit Emblem (Chinese Translation)".
+Name                                   Size Checksum
+1291 - Bandit Emblem (Chinese Translation)18658560 CRC(5952f116)
 
 ROMs required for driver "Bankai-Silverworld's Emblem".
 Name                                   Size Checksum
@@ -656,7 +664,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Escape From the Mangs Dungeon".
 Name                                   Size Checksum
-161 - Escape From the Mangs Dungeon17083184 CRC(090dffb3)
+161 - Escape From the Mangs Dungeon19752216 CRC(8c8d7373)
 
 ROMs required for driver "Eternal Winter".
 Name                                   Size Checksum
@@ -1067,6 +1075,10 @@ ROMs required for driver "FE7 Chaos Mode".
 Name                                   Size Checksum
 332 - FE7 Chaos Mode               18767508 CRC(0f92ff9b)
 
+ROMs required for driver "FE7 Chat Units".
+Name                                   Size Checksum
+1299 - FE7 Chat Units              19980352 CRC(59bd81a6)
+
 ROMs required for driver "FE7 Color Overhaul".
 Name                                   Size Checksum
 1123 - FE7 Color Overhaul          17077916 CRC(fe42f53d)
@@ -1122,6 +1134,10 @@ Name                                   Size Checksum
 ROMs required for driver "FE7 Mangs Patch".
 Name                                   Size Checksum
 1250 - FE7 Mangs Patch             16965528 CRC(12a86cae)
+
+ROMs required for driver "FE7 Mangs Patch (Refurbished)".
+Name                                   Size Checksum
+1300 - FE7 Mangs Patch (Refurbished)24307756 CRC(6420a521)
 
 ROMs required for driver "FE7 Plus [Enhancement Patch]".
 Name                                   Size Checksum
@@ -1883,6 +1899,10 @@ ROMs required for driver "Fire Emblem - The Heroes We Deserve".
 Name                                   Size Checksum
 155 - Fire Emblem - The Heroes We Deserve22209796 CRC(a2171a8e)
 
+ROMs required for driver "Fire Emblem - The Heroes We Deserve (Chinese Translation)".
+Name                                   Size Checksum
+1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)          23251332 CRC(4287ae4b)
+
 ROMs required for driver "Fire Emblem - The Last Voyage".
 Name                                   Size Checksum
 569 - Fire Emblem - The Last Voyage17332756 CRC(e50a258b)
@@ -2127,9 +2147,17 @@ ROMs required for driver "Heavens Fall".
 Name                                   Size Checksum
 1275 - Heavens Fall                23046488 CRC(e869b4f0)
 
+ROMs required for driver "Heaven’s Bloom (Chinese Translation)".
+Name                                   Size Checksum
+1289 - Heaven’s Bloom (Chinese Translation)          19783064 CRC(a73dc41e)
+
 ROMs required for driver "Heaven’s Bloom (Easy mode)".
 Name                                   Size Checksum
 154 - Heaven’s Bloom (Easy mode)   18376448 CRC(c998aa0e)
+
+ROMs required for driver "Heaven’s Bloom (Easy Mode) (Chinese Translation)".
+Name                                   Size Checksum
+1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)          19603012 CRC(943887bb)
 
 ROMs required for driver "Heaven’s Bloom (Hard mode)".
 Name                                   Size Checksum
@@ -2246,6 +2274,14 @@ Name                                   Size Checksum
 ROMs required for driver "Justice & Pride Gaiden - Clash in Estria".
 Name                                   Size Checksum
 475 - Justice & Pride Gaiden - Clash in Estria          27248856 CRC(d625827c)
+
+ROMs required for driver "Justice & Pride Gaiden - Clash in Estria (Chinese Translation)".
+Name                                   Size Checksum
+1292 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation)          28560228 CRC(703c256b)
+
+ROMs required for driver "Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)".
+Name                                   Size Checksum
+1293 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)          28666512 CRC(a6d0765b)
 
 ROMs required for driver "Justice and Pride (Special Content)".
 Name                                   Size Checksum
@@ -3221,7 +3257,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Terror of the Forest (Chinese Translation)".
 Name                                   Size Checksum
-1208 - Terror of the Forest (Chinese Translation)          27829440 CRC(c79d1f6a)
+1208 - Terror of the Forest (Chinese Translation)          28588084 CRC(af2d5749)
 
 ROMs required for driver "The Akaneian Mafia".
 Name                                   Size Checksum
@@ -3587,6 +3623,22 @@ ROMs required for driver "There Is No Dialogue, Die".
 Name                                   Size Checksum
 662 - There Is No Dialogue, Die    17267948 CRC(06900b89)
 
+ROMs required for driver "Three Hour Blitz - A Winters Day".
+Name                                   Size Checksum
+1294 - Three Hour Blitz - A Winters Day16850820 CRC(d6dacf1c)
+
+ROMs required for driver "Three Hour Blitz - Folia’s Cavalry".
+Name                                   Size Checksum
+1296 - Three Hour Blitz - Folia’s Cavalry17343556 CRC(ab4f8e92)
+
+ROMs required for driver "Three Hour Blitz - Power of Persuasion".
+Name                                   Size Checksum
+1295 - Three Hour Blitz - Power of Persuasion          18359852 CRC(f1def8f3)
+
+ROMs required for driver "Three Hour Blitz - Three Uses".
+Name                                   Size Checksum
+1297 - Three Hour Blitz - Three Uses16915304 CRC(3a5cb727)
+
 ROMs required for driver "Three Legacies".
 Name                                   Size Checksum
 1282 - Three Legacies              21129612 CRC(1e62497c)
@@ -3839,6 +3891,10 @@ ROMs required for driver "东方苍神缘起无印平民版".
 Name                                   Size Checksum
 829 - 东方苍神缘起无印平民版                  23016040 CRC(46b02c58)
 
+ROMs required for driver "东方苍神缘起最终版END".
+Name                                   Size Checksum
+1286 - 东方苍神缘起最终版END                32878064 CRC(21091434)
+
 ROMs required for driver "东方苍神缘起残暑大神版".
 Name                                   Size Checksum
 850 - 东方苍神缘起残暑大神版                  27038084 CRC(b23ea3b9)
@@ -3865,7 +3921,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "僵尸道长".
 Name                                   Size Checksum
-886 - 僵尸道长                         21486460 CRC(7e731649)
+886 - 僵尸道长                         33060644 CRC(92a5e91b)
 
 ROMs required for driver "兄妹的情谊".
 Name                                   Size Checksum
@@ -4245,7 +4301,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "幻想烈火传".
 Name                                   Size Checksum
-833 - 幻想烈火传                        31592540 CRC(ba06eeed)
+833 - 幻想烈火传                        31681900 CRC(641a6f00)
 
 ROMs required for driver "幽影华尔兹".
 Name                                   Size Checksum
@@ -4576,6 +4632,10 @@ ROMs required for driver "童子军".
 Name                                   Size Checksum
 835 - 童子军                          18672992 CRC(5831a5cc)
 
+ROMs required for driver "第一次魔物战争".
+Name                                   Size Checksum
+1285 - 第一次魔物战争                     24852992 CRC(3820d0d5)
+
 ROMs required for driver "第二梦".
 Name                                   Size Checksum
 784 - 第二梦                          33554431 CRC(1ada9fe3)
@@ -4662,7 +4722,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "英雄世界".
 Name                                   Size Checksum
-857 - 英雄世界                         33433540 CRC(e889fa3a)
+857 - 英雄世界                         33544564 CRC(f726f874)
 
 ROMs required for driver "英雄的挑战".
 Name                                   Size Checksum
@@ -4803,6 +4863,10 @@ Name                                   Size Checksum
 ROMs required for driver "魔之暗".
 Name                                   Size Checksum
 883 - 魔之暗                          19044148 CRC(48e54442)
+
+ROMs required for driver "魔剑镇魂曲".
+Name                                   Size Checksum
+1287 - 魔剑镇魂曲                       21479456 CRC(71a221a7)
 
 ROMs required for driver "魔幻封神".
 Name                                   Size Checksum

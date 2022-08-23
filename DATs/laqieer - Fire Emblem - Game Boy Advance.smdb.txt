@@ -25,6 +25,7 @@
 	Art of Forde/534 - Art of Forde			0038731b	19443668
 	Ash Blossom/612 - Ash Blossom			b4c8db1f	19351992
 	Asks Attorney Investigations/537 - Asks Attorney Investigations			809a5207	18548704
+	Asm Telephone Hacc - Feature (Not a Bug)/1298 - Asm Telephone Hacc - Feature (Not a Bug)			8d38be14	25948264
 	Asylum Of Irony/532 - Asylum Of Irony			98402613	19807284
 	Athos Mode/262 - Athos Mode			2f511659	16788472
 	Atirian Conquest/254 - Atirian Conquest			f2f006e1	17224984
@@ -37,6 +38,7 @@
 	B3L-H411-A/212 - B3L-H411-A			db73120f	17536556
 	Back to the Stones/781 - Back to the Stones			3b21a3cf	16777216
 	Bandit Emblem/204 - Bandit Emblem			4c0a42a1	17645508
+	Bandit Emblem (Chinese Translation)/1291 - Bandit Emblem (Chinese Translation)			5952f116	18658560
 	Bankai-Silverworld's Emblem/761 - Bankai-Silverworld's Emblem			b0429e8d	17454908
 	Barhara Trilogy/477 - Barhara Trilogy			b04b7137	18061372
 	Barry’s Bandits/156 - Barry’s Bandits			2ce87ea5	18715144
@@ -162,7 +164,7 @@
 	Enderslicer's Escape/524 - Enderslicer's Escape			e9bdb90d	16796976
 	Endless Nights/485 - Endless Nights			73c48346	17693232
 	ErikFE/440 - ErikFE			a255ac4b	18622088
-	Escape From the Mangs Dungeon/161 - Escape From the Mangs Dungeon			090dffb3	17083184
+	Escape From the Mangs Dungeon/161 - Escape From the Mangs Dungeon			8c8d7373	19752216
 	Eternal Winter/1174 - Eternal Winter			e8afe7c5	22439324
 	Ether's FE8 Reskin/1083 - Ether's FE8 Reskin			20f71449	24660352
 	Ethereal Light/580 - Ethereal Light			a2e2fa4e	18860184
@@ -266,6 +268,7 @@
 	FE7 but all the Promotion Items are Master Seals/1131 - FE7 but all the Promotion Items are Master Seals			fe43c45b	16778200
 	FE7 but the weather is bad/1173 - FE7 but the weather is bad			7d943e3f	16777216
 	FE7 Chaos Mode/332 - FE7 Chaos Mode			0f92ff9b	18767508
+	FE7 Chat Units/1299 - FE7 Chat Units			59bd81a6	19980352
 	FE7 Color Overhaul/1123 - FE7 Color Overhaul			fe42f53d	17077916
 	FE7 GE Wars of Dragons/1169 - FE7 GE Wars of Dragons			4f290e6c	20829312
 	FE7 GE Wars of Dragons (Beta)/1170 - FE7 GE Wars of Dragons (Beta)			c1c83f34	25322628
@@ -280,6 +283,7 @@
 	FE7 Lyn Hard Mode Redux JP/629 - FE7 Lyn Hard Mode Redux JP			5344ef57	16823200
 	FE7 Lynatic Mode/1098 - FE7 Lynatic Mode			e1d0ad8e	18030364
 	FE7 Mangs Patch/1250 - FE7 Mangs Patch			12a86cae	16965528
+	FE7 Mangs Patch (Refurbished)/1300 - FE7 Mangs Patch (Refurbished)			6420a521	24307756
 	FE7 Plus [Enhancement Patch]/1024 - FE7 Plus [Enhancement Patch]			c53315e2	16798616
 	FE7 Plus [Enhancement Patch] (Fixed)/1026 - FE7 Plus [Enhancement Patch] (Fixed)			f6a18cb2	16798708
 	FE7 Plus [Enhancement Patch] (JP + Fixed)/1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)			8ddba2f9	16801012
@@ -470,6 +474,7 @@
 	Fire Emblem - The Blazing Blade - Routemerge/1050 - Fire Emblem - The Blazing Blade - Routemerge			d84eff95	18756608
 	Fire Emblem - The Fall of Thabes/221 - Fire Emblem - The Fall of Thabes			7572b080	24947612
 	Fire Emblem - The Heroes We Deserve/155 - Fire Emblem - The Heroes We Deserve			a2171a8e	22209796
+	Fire Emblem - The Heroes We Deserve (Chinese Translation)/1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)			4287ae4b	23251332
 	Fire Emblem - The Last Voyage/569 - Fire Emblem - The Last Voyage			e50a258b	17332756
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)/8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It)			b3005195	33554432
 	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)/14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)			2653401a	33554432
@@ -531,7 +536,9 @@
 	Grug’s Primitive Disadventure/482 - Grug’s Primitive Disadventure			706d37d0	29192184
 	Heart Wars/1167 - Heart Wars			27904705	32388856
 	Heavens Fall/1275 - Heavens Fall			e869b4f0	23046488
+	Heaven’s Bloom (Chinese Translation)/1289 - Heaven’s Bloom (Chinese Translation)			a73dc41e	19783064
 	Heaven’s Bloom (Easy mode)/154 - Heaven’s Bloom (Easy mode)			c998aa0e	18376448
+	Heaven’s Bloom (Easy Mode) (Chinese Translation)/1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)			943887bb	19603012
 	Heaven’s Bloom (Hard mode)/1241 - Heaven’s Bloom (Hard mode)			0c329909	18398588
 	Hector Saves Christmas/163 - Hector Saves Christmas			6896d8c2	17089672
 	Hector Saves Christmas Again/164 - Hector Saves Christmas Again			e69b171f	17415920
@@ -561,6 +568,8 @@
 	Jugdral Saga/268 - Jugdral Saga			b9521183	16777216
 	Julius's Revenge/529 - Julius's Revenge			471de9a1	16777216
 	Justice & Pride Gaiden - Clash in Estria/475 - Justice & Pride Gaiden - Clash in Estria			d625827c	27248856
+	Justice & Pride Gaiden - Clash in Estria (Chinese Translation)/1292 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation)			703c256b	28560228
+	Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)/1293 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)			a6d0765b	28666512
 	Justice and Pride (Special Content)/1247 - Justice and Pride (Special Content)			b6236198	17190252
 	Justice and Pride - Birth of Chaos/1242 - Justice and Pride - Birth of Chaos			51fbb301	27098480
 	Justice and Pride - Book 2 (Chinese Translation)/1201 - Justice and Pride - Book 2 (Chinese Translation)			7ab7c036	28139124
@@ -804,7 +813,7 @@
 	Tambo MAFC DD/680 - Tambo MAFC DD			c2d923fb	18445776
 	Temple of Ardesia/566 - Temple of Ardesia			a67b7ea1	23414536
 	Terror of the Forest/430 - Terror of the Forest			017b8028	27044204
-	Terror of the Forest (Chinese Translation)/1208 - Terror of the Forest (Chinese Translation)			c79d1f6a	27829440
+	Terror of the Forest (Chinese Translation)/1208 - Terror of the Forest (Chinese Translation)			af2d5749	28588084
 	The Akaneian Mafia/656 - The Akaneian Mafia			33e27ba8	16777216
 	The Ancient Swords/1066 - The Ancient Swords			b584c2a1	23260144
 	The Art of War/1095 - The Art of War			50b1e0b3	22329684
@@ -896,6 +905,10 @@
 	The Vanilla but not 100% vanilla blitz/1125 - The Vanilla but not 100% vanilla blitz			114e0666	18763540
 	The White Feather/490 - The White Feather			294c6150	23302696
 	There Is No Dialogue, Die/662 - There Is No Dialogue, Die			06900b89	17267948
+	Three Hour Blitz - A Winters Day/1294 - Three Hour Blitz - A Winters Day			d6dacf1c	16850820
+	Three Hour Blitz - Folia’s Cavalry/1296 - Three Hour Blitz - Folia’s Cavalry			ab4f8e92	17343556
+	Three Hour Blitz - Power of Persuasion/1295 - Three Hour Blitz - Power of Persuasion			f1def8f3	18359852
+	Three Hour Blitz - Three Uses/1297 - Three Hour Blitz - Three Uses			3a5cb727	16915304
 	Three Legacies/1282 - Three Legacies			1e62497c	21129612
 	THWD2 - The Heist We Deserve/999 - THWD2 - The Heist We Deserve			73ac3ff9	17152184
 	Tierra Maldita/987 - Tierra Maldita			00c1b500	18636620
@@ -959,13 +972,14 @@
 	东方苍神缘起周末/1215 - 东方苍神缘起周末			ec605746	32877972
 	东方苍神缘起无印大神版/828 - 东方苍神缘起无印大神版			d0954d10	23055512
 	东方苍神缘起无印平民版/829 - 东方苍神缘起无印平民版			46b02c58	23016040
+	东方苍神缘起最终版END/1286 - 东方苍神缘起最终版END			21091434	32878064
 	东方苍神缘起残暑大神版/850 - 东方苍神缘起残暑大神版			b23ea3b9	27038084
 	东方苍神缘起残暑平民版/849 - 东方苍神缘起残暑平民版			5a02d5b4	27040524
 	主角大联盟完结版/888 - 主角大联盟完结版			5001696d	27805428
 	主角大联盟新生版/1221 - 主角大联盟新生版			fd7f7a7d	29439088
 	主角大联盟超高难度/889 - 主角大联盟超高难度			0975e53d	27557216
 	佣兵公司 (Chinese Translation)/1210 - 佣兵公司 (Chinese Translation)			a44472ee	25073560
-	僵尸道长/886 - 僵尸道长			7e731649	21486460
+	僵尸道长/886 - 僵尸道长			92a5e91b	33060644
 	兄妹的情谊/1227 - 兄妹的情谊			48c985fa	20296616
 	光明VS黑暗/1230 - 光明VS黑暗			249e9794	21539188
 	光明的救赎/874 - 光明的救赎			8321f5d3	29117088
@@ -1060,7 +1074,7 @@
 	帝·鲁尼之剑/974 - 帝·鲁尼之剑			cd07df67	16777216
 	帝国除魔战争/879 - 帝国除魔战争			73981433	17972796
 	幸运的七色花/884 - 幸运的七色花			4d7d2fae	33554432
-	幻想烈火传/833 - 幻想烈火传			ba06eeed	31592540
+	幻想烈火传/833 - 幻想烈火传			641a6f00	31681900
 	幽影华尔兹/811 - 幽影华尔兹			c37960cd	25919968
 	异界旅者/881 - 异界旅者			5b1de0b8	25891756
 	强大的女皇/905 - 强大的女皇			4b4086ff	16777216
@@ -1144,6 +1158,7 @@
 	神魂之绯石/904 - 神魂之绯石			8c2a8d70	16777216
 	秩序之剑/898 - 秩序之剑			1dc6ffb7	22683944
 	童子军/835 - 童子军			5831a5cc	18672992
+	第一次魔物战争/1285 - 第一次魔物战争			3820d0d5	24852992
 	第二梦/784 - 第二梦			1ada9fe3	33554431
 	粗鄙的我/834 - 粗鄙的我			3f5c8fc7	30229972
 	红月Z/901 - 红月Z			b5729868	33554432
@@ -1165,7 +1180,7 @@
 	苍月传重置版/920 - 苍月传重置版			f33463e7	24235944
 	苍炎乱入版/869 - 苍炎乱入版			dc7bbd0c	19922944
 	苍炎的勇者/848 - 苍炎的勇者			a682ec6a	32668748
-	英雄世界/857 - 英雄世界			e889fa3a	33433540
+	英雄世界/857 - 英雄世界			f726f874	33544564
 	英雄的挑战/887 - 英雄的挑战			8241e45e	26018900
 	英雄的黎明ED-Ver8黎明盡頭（A）/807 - 英雄的黎明ED-Ver8黎明盡頭（A）			f69edfe4	33493848
 	英雄的黎明ED-Ver8黎明盡頭（J）/808 - 英雄的黎明ED-Ver8黎明盡頭（J）			8db1cda1	32777920
@@ -1201,6 +1216,7 @@
 	风恋夕林版逆封印之剑/750 - 风恋夕林版逆封印之剑			efcb0299	8400656
 	鬼鬼专属/926 - 鬼鬼专属			307fb47e	24759364
 	魔之暗/883 - 魔之暗			48e54442	19044148
+	魔剑镇魂曲/1287 - 魔剑镇魂曲			71a221a7	21479456
 	魔幻封神/737 - 魔幻封神			ee865884	18388264
 	魔物变态版/980 - 魔物变态版			2865e7d9	16777216
 	魔物狩猎者/971 - 魔物狩猎者			e26f95c8	16777216

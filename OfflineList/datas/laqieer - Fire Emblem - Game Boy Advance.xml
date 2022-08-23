@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220822</datVersion>
+    <datVersion>20220823</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -1559,7 +1559,7 @@
       <romSize>18376448</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
-      <sourceRom>Roosterton</sourceRom>
+      <sourceRom>EAALen</sourceRom>
       <language>2</language>
       <files>
         <romCRC extension=".gba">C998AA0E</romCRC>
@@ -1577,7 +1577,7 @@
       <romSize>22209796</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
-      <sourceRom>A_Reliable_Chair</sourceRom>
+      <sourceRom>anon98251803</sourceRom>
       <language>2</language>
       <files>
         <romCRC extension=".gba">A2171A8E</romCRC>
@@ -1682,13 +1682,13 @@
       <releaseNumber>161</releaseNumber>
       <title>Escape From the Mangs Dungeon</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>17083184</romSize>
+      <romSize>19752216</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>Ft. Mangs Emblem + PME teams</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">090DFFB3</romCRC>
+        <romCRC extension=".gba">8C8D7373</romCRC>
       </files>
       <im1CRC>9FAA36D4</im1CRC>
       <im2CRC>B11BCE07</im2CRC>
@@ -13778,17 +13778,17 @@
       <releaseNumber>833</releaseNumber>
       <title>幻想烈火传</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>31592540</romSize>
+      <romSize>31681900</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>蕾贝卡的主人</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">BA06EEED</romCRC>
+        <romCRC extension=".gba">641A6F00</romCRC>
       </files>
       <im1CRC>95080DCE</im1CRC>
       <im2CRC>2EDFC38C</im2CRC>
-      <comment>3.0</comment>
+      <comment>最终版</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -14210,13 +14210,13 @@
       <releaseNumber>857</releaseNumber>
       <title>英雄世界</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>33433540</romSize>
+      <romSize>33544564</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>小林游太</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">E889FA3A</romCRC>
+        <romCRC extension=".gba">F726F874</romCRC>
       </files>
       <im1CRC>F291F290</im1CRC>
       <im2CRC>84013E26</im2CRC>
@@ -14732,17 +14732,17 @@
       <releaseNumber>886</releaseNumber>
       <title>僵尸道长</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>21486460</romSize>
+      <romSize>33060644</romSize>
       <publisher>Fan Modding</publisher>
       <location>7</location>
       <sourceRom>蕾贝卡的主人</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">7E731649</romCRC>
+        <romCRC extension=".gba">92A5E91B</romCRC>
       </files>
       <im1CRC>44DC2309</im1CRC>
       <im2CRC>BC779062</im2CRC>
-      <comment>200406</comment>
+      <comment>3.0</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -20528,17 +20528,17 @@
       <releaseNumber>1208</releaseNumber>
       <title>Terror of the Forest (Chinese Translation)</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>27829440</romSize>
+      <romSize>28588084</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>小丑の梦</sourceRom>
       <language>4</language>
       <files>
-        <romCRC extension=".gba">C79D1F6A</romCRC>
+        <romCRC extension=".gba">AF2D5749</romCRC>
       </files>
       <im1CRC>BADB5682</im1CRC>
       <im2CRC>12B4255F</im2CRC>
-      <comment>汉化体验版</comment>
+      <comment>完全汉化正式版</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -21125,7 +21125,7 @@
       <romSize>18398588</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
-      <sourceRom>Roosterton</sourceRom>
+      <sourceRom>EAALen</sourceRom>
       <language>2</language>
       <files>
         <romCRC extension=".gba">0C329909</romCRC>
@@ -21907,6 +21907,294 @@
       <im1CRC>9AC4C7B6</im1CRC>
       <im2CRC>693290E4</im2CRC>
       <comment>β版</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1285</imageNumber>
+      <releaseNumber>1285</releaseNumber>
+      <title>第一次魔物战争</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>24852992</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>unknown</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">3820D0D5</romCRC>
+      </files>
+      <im1CRC>0C08E420</im1CRC>
+      <im2CRC>9C65AB8B</im2CRC>
+      <comment>6-26</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1286</imageNumber>
+      <releaseNumber>1286</releaseNumber>
+      <title>东方苍神缘起最终版END</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>32878064</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>奇峰先生</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">21091434</romCRC>
+      </files>
+      <im1CRC>2F3D5A29</im1CRC>
+      <im2CRC>9DF2537E</im2CRC>
+      <comment>6.30</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1287</imageNumber>
+      <releaseNumber>1287</releaseNumber>
+      <title>魔剑镇魂曲</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21479456</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>unknown</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">71A221A7</romCRC>
+      </files>
+      <im1CRC>A56B5D3D</im1CRC>
+      <im2CRC>4AB53216</im2CRC>
+      <comment>1.91</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1288</imageNumber>
+      <releaseNumber>1288</releaseNumber>
+      <title>Fire Emblem - The Heroes We Deserve (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>23251332</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>素昼</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">4287AE4B</romCRC>
+      </files>
+      <im1CRC>638271A9</im1CRC>
+      <im2CRC>DC005713</im2CRC>
+      <comment>v1.3</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1289</imageNumber>
+      <releaseNumber>1289</releaseNumber>
+      <title>Heaven’s Bloom (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19783064</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Calyrex</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">A73DC41E</romCRC>
+      </files>
+      <im1CRC>6A929082</im1CRC>
+      <im2CRC>5A0DBA46</im2CRC>
+      <comment>v1.1</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1290</imageNumber>
+      <releaseNumber>1290</releaseNumber>
+      <title>Heaven’s Bloom (Easy Mode) (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19603012</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Calyrex</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">943887BB</romCRC>
+      </files>
+      <im1CRC>6A929082</im1CRC>
+      <im2CRC>616CA42B</im2CRC>
+      <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1291</imageNumber>
+      <releaseNumber>1291</releaseNumber>
+      <title>Bandit Emblem (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18658560</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>瓦莱娜23号</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">5952F116</romCRC>
+      </files>
+      <im1CRC>D5C25AB5</im1CRC>
+      <im2CRC>4C78E73D</im2CRC>
+      <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1292</imageNumber>
+      <releaseNumber>1292</releaseNumber>
+      <title>Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>28560228</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>瓦莱娜23号</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">703C256B</romCRC>
+      </files>
+      <im1CRC>1C553B4C</im1CRC>
+      <im2CRC>8AD9DF0D</im2CRC>
+      <comment>正义与荣耀外传-伊斯塔里亚冲突（全汉化）</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1293</imageNumber>
+      <releaseNumber>1293</releaseNumber>
+      <title>Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>28666512</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>初见此间</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">A6D0765B</romCRC>
+      </files>
+      <im1CRC>1150C667</im1CRC>
+      <im2CRC>FEEE4FE2</im2CRC>
+      <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1294</imageNumber>
+      <releaseNumber>1294</releaseNumber>
+      <title>Three Hour Blitz - A Winters Day</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16850820</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>theghostcreator</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D6DACF1C</romCRC>
+      </files>
+      <im1CRC>0BEE6E32</im1CRC>
+      <im2CRC>EEC409D6</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz/16670/2</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1295</imageNumber>
+      <releaseNumber>1295</releaseNumber>
+      <title>Three Hour Blitz - Power of Persuasion</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>18359852</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>milom</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">F1DEF8F3</romCRC>
+      </files>
+      <im1CRC>A8A155E3</im1CRC>
+      <im2CRC>4ACA84DA</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz/16670/3</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1296</imageNumber>
+      <releaseNumber>1296</releaseNumber>
+      <title>Three Hour Blitz - Folia’s Cavalry</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>17343556</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>XPGamesNL</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">AB4F8E92</romCRC>
+      </files>
+      <im1CRC>CF60B327</im1CRC>
+      <im2CRC>E85C9B44</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz/16670/4</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1297</imageNumber>
+      <releaseNumber>1297</releaseNumber>
+      <title>Three Hour Blitz - Three Uses</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16915304</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>Cornontherob</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">3A5CB727</romCRC>
+      </files>
+      <im1CRC>A9170711</im1CRC>
+      <im2CRC>B5EB99D1</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz/16670/6</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1298</imageNumber>
+      <releaseNumber>1298</releaseNumber>
+      <title>Asm Telephone Hacc - Feature (Not a Bug)</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>25948264</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>Vesly</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">8D38BE14</romCRC>
+      </files>
+      <im1CRC>07B661EE</im1CRC>
+      <im2CRC>F5E1802D</im2CRC>
+      <comment>https://feuniverse.us/t/feature-not-a-bug/16748</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1299</imageNumber>
+      <releaseNumber>1299</releaseNumber>
+      <title>FE7 Chat Units</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19980352</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>7</location>
+      <sourceRom>Mangs</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">59BD81A6</romCRC>
+      </files>
+      <im1CRC>34F2E0CF</im1CRC>
+      <im2CRC>372D6BF6</im2CRC>
+      <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1300</imageNumber>
+      <releaseNumber>1300</releaseNumber>
+      <title>FE7 Mangs Patch (Refurbished)</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>24307756</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>Cranjam</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">6420A521</romCRC>
+      </files>
+      <im1CRC>9CCE9F14</im1CRC>
+      <im2CRC>3828CE6C</im2CRC>
+      <comment></comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

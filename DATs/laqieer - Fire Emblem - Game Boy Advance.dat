@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220822"
+	version "20220823"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -145,6 +145,11 @@ game (
 	rom ( name "537 - Asks Attorney Investigations" size "18548704" crc "809a5207" )
 )
 game (
+	name "Asm Telephone Hacc - Feature (Not a Bug)"
+	description "Asm Telephone Hacc - Feature (Not a Bug)"
+	rom ( name "1298 - Asm Telephone Hacc - Feature (Not a Bug)" size "25948264" crc "8d38be14" )
+)
+game (
 	name "Asylum Of Irony"
 	description "Asylum Of Irony"
 	rom ( name "532 - Asylum Of Irony" size "19807284" crc "98402613" )
@@ -203,6 +208,11 @@ game (
 	name "Bandit Emblem"
 	description "Bandit Emblem"
 	rom ( name "204 - Bandit Emblem" size "17645508" crc "4c0a42a1" )
+)
+game (
+	name "Bandit Emblem (Chinese Translation)"
+	description "Bandit Emblem (Chinese Translation)"
+	rom ( name "1291 - Bandit Emblem (Chinese Translation)" size "18658560" crc "5952f116" )
 )
 game (
 	name "Bankai-Silverworld's Emblem"
@@ -832,7 +842,7 @@ game (
 game (
 	name "Escape From the Mangs Dungeon"
 	description "Escape From the Mangs Dungeon"
-	rom ( name "161 - Escape From the Mangs Dungeon" size "17083184" crc "090dffb3" )
+	rom ( name "161 - Escape From the Mangs Dungeon" size "19752216" crc "8c8d7373" )
 )
 game (
 	name "Eternal Winter"
@@ -1346,6 +1356,11 @@ game (
 	rom ( name "332 - FE7 Chaos Mode" size "18767508" crc "0f92ff9b" )
 )
 game (
+	name "FE7 Chat Units"
+	description "FE7 Chat Units"
+	rom ( name "1299 - FE7 Chat Units" size "19980352" crc "59bd81a6" )
+)
+game (
 	name "FE7 Color Overhaul"
 	description "FE7 Color Overhaul"
 	rom ( name "1123 - FE7 Color Overhaul" size "17077916" crc "fe42f53d" )
@@ -1414,6 +1429,11 @@ game (
 	name "FE7 Mangs Patch"
 	description "FE7 Mangs Patch"
 	rom ( name "1250 - FE7 Mangs Patch" size "16965528" crc "12a86cae" )
+)
+game (
+	name "FE7 Mangs Patch (Refurbished)"
+	description "FE7 Mangs Patch (Refurbished)"
+	rom ( name "1300 - FE7 Mangs Patch (Refurbished)" size "24307756" crc "6420a521" )
 )
 game (
 	name "FE7 Plus [Enhancement Patch]"
@@ -2366,6 +2386,11 @@ game (
 	rom ( name "155 - Fire Emblem - The Heroes We Deserve" size "22209796" crc "a2171a8e" )
 )
 game (
+	name "Fire Emblem - The Heroes We Deserve (Chinese Translation)"
+	description "Fire Emblem - The Heroes We Deserve (Chinese Translation)"
+	rom ( name "1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)" size "23251332" crc "4287ae4b" )
+)
+game (
 	name "Fire Emblem - The Last Voyage"
 	description "Fire Emblem - The Last Voyage"
 	rom ( name "569 - Fire Emblem - The Last Voyage" size "17332756" crc "e50a258b" )
@@ -2671,9 +2696,19 @@ game (
 	rom ( name "1275 - Heavens Fall" size "23046488" crc "e869b4f0" )
 )
 game (
+	name "Heaven’s Bloom (Chinese Translation)"
+	description "Heaven’s Bloom (Chinese Translation)"
+	rom ( name "1289 - Heaven’s Bloom (Chinese Translation)" size "19783064" crc "a73dc41e" )
+)
+game (
 	name "Heaven’s Bloom (Easy mode)"
 	description "Heaven’s Bloom (Easy mode)"
 	rom ( name "154 - Heaven’s Bloom (Easy mode)" size "18376448" crc "c998aa0e" )
+)
+game (
+	name "Heaven’s Bloom (Easy Mode) (Chinese Translation)"
+	description "Heaven’s Bloom (Easy Mode) (Chinese Translation)"
+	rom ( name "1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)" size "19603012" crc "943887bb" )
 )
 game (
 	name "Heaven’s Bloom (Hard mode)"
@@ -2819,6 +2854,16 @@ game (
 	name "Justice & Pride Gaiden - Clash in Estria"
 	description "Justice & Pride Gaiden - Clash in Estria"
 	rom ( name "475 - Justice & Pride Gaiden - Clash in Estria" size "27248856" crc "d625827c" )
+)
+game (
+	name "Justice & Pride Gaiden - Clash in Estria (Chinese Translation)"
+	description "Justice & Pride Gaiden - Clash in Estria (Chinese Translation)"
+	rom ( name "1292 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation)" size "28560228" crc "703c256b" )
+)
+game (
+	name "Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)"
+	description "Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)"
+	rom ( name "1293 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)" size "28666512" crc "a6d0765b" )
 )
 game (
 	name "Justice and Pride (Special Content)"
@@ -3028,7 +3073,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3423,7 +3468,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"
@@ -4038,7 +4083,7 @@ game (
 game (
 	name "Terror of the Forest (Chinese Translation)"
 	description "Terror of the Forest (Chinese Translation)"
-	rom ( name "1208 - Terror of the Forest (Chinese Translation)" size "27829440" crc "c79d1f6a" )
+	rom ( name "1208 - Terror of the Forest (Chinese Translation)" size "28588084" crc "af2d5749" )
 )
 game (
 	name "The Akaneian Mafia"
@@ -4496,6 +4541,26 @@ game (
 	rom ( name "662 - There Is No Dialogue, Die" size "17267948" crc "06900b89" )
 )
 game (
+	name "Three Hour Blitz - A Winters Day"
+	description "Three Hour Blitz - A Winters Day"
+	rom ( name "1294 - Three Hour Blitz - A Winters Day" size "16850820" crc "d6dacf1c" )
+)
+game (
+	name "Three Hour Blitz - Folia’s Cavalry"
+	description "Three Hour Blitz - Folia’s Cavalry"
+	rom ( name "1296 - Three Hour Blitz - Folia’s Cavalry" size "17343556" crc "ab4f8e92" )
+)
+game (
+	name "Three Hour Blitz - Power of Persuasion"
+	description "Three Hour Blitz - Power of Persuasion"
+	rom ( name "1295 - Three Hour Blitz - Power of Persuasion" size "18359852" crc "f1def8f3" )
+)
+game (
+	name "Three Hour Blitz - Three Uses"
+	description "Three Hour Blitz - Three Uses"
+	rom ( name "1297 - Three Hour Blitz - Three Uses" size "16915304" crc "3a5cb727" )
+)
+game (
 	name "Three Legacies"
 	description "Three Legacies"
 	rom ( name "1282 - Three Legacies" size "21129612" crc "1e62497c" )
@@ -4811,6 +4876,11 @@ game (
 	rom ( name "829 - 东方苍神缘起无印平民版" size "23016040" crc "46b02c58" )
 )
 game (
+	name "东方苍神缘起最终版END"
+	description "东方苍神缘起最终版END"
+	rom ( name "1286 - 东方苍神缘起最终版END" size "32878064" crc "21091434" )
+)
+game (
 	name "东方苍神缘起残暑大神版"
 	description "东方苍神缘起残暑大神版"
 	rom ( name "850 - 东方苍神缘起残暑大神版" size "27038084" crc "b23ea3b9" )
@@ -4843,7 +4913,7 @@ game (
 game (
 	name "僵尸道长"
 	description "僵尸道长"
-	rom ( name "886 - 僵尸道长" size "21486460" crc "7e731649" )
+	rom ( name "886 - 僵尸道长" size "33060644" crc "92a5e91b" )
 )
 game (
 	name "兄妹的情谊"
@@ -5318,7 +5388,7 @@ game (
 game (
 	name "幻想烈火传"
 	description "幻想烈火传"
-	rom ( name "833 - 幻想烈火传" size "31592540" crc "ba06eeed" )
+	rom ( name "833 - 幻想烈火传" size "31681900" crc "641a6f00" )
 )
 game (
 	name "幽影华尔兹"
@@ -5732,6 +5802,11 @@ game (
 	rom ( name "835 - 童子军" size "18672992" crc "5831a5cc" )
 )
 game (
+	name "第一次魔物战争"
+	description "第一次魔物战争"
+	rom ( name "1285 - 第一次魔物战争" size "24852992" crc "3820d0d5" )
+)
+game (
 	name "第二梦"
 	description "第二梦"
 	rom ( name "784 - 第二梦" size "33554431" crc "1ada9fe3" )
@@ -5839,7 +5914,7 @@ game (
 game (
 	name "英雄世界"
 	description "英雄世界"
-	rom ( name "857 - 英雄世界" size "33433540" crc "e889fa3a" )
+	rom ( name "857 - 英雄世界" size "33544564" crc "f726f874" )
 )
 game (
 	name "英雄的挑战"
@@ -6015,6 +6090,11 @@ game (
 	name "魔之暗"
 	description "魔之暗"
 	rom ( name "883 - 魔之暗" size "19044148" crc "48e54442" )
+)
+game (
+	name "魔剑镇魂曲"
+	description "魔剑镇魂曲"
+	rom ( name "1287 - 魔剑镇魂曲" size "21479456" crc "71a221a7" )
 )
 game (
 	name "魔幻封神"

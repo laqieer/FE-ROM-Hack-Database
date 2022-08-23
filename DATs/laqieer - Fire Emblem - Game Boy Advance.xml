@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220822</version>
+		<version>20220823</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -145,6 +145,11 @@
 		<publisher>Ragefest</publisher>
 		<rom name="537 - Asks Attorney Investigations" size="18548704" crc="809a5207" />
 	</machine>
+	<machine name="Asm Telephone Hacc - Feature (Not a Bug)">
+		<comment>https://feuniverse.us/t/feature-not-a-bug/16748</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1298 - Asm Telephone Hacc - Feature (Not a Bug)" size="25948264" crc="8d38be14" />
+	</machine>
 	<machine name="Asylum Of Irony">
 		<comment>https://markyjoe.com/?page=rfdl</comment>
 		<publisher>Ragefest</publisher>
@@ -202,6 +207,10 @@
 		<comment>https://feuniverse.us/t/fe8-complete-bandit-emblem/8501</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+	</machine>
+	<machine name="Bandit Emblem (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<rom name="1291 - Bandit Emblem (Chinese Translation)" size="18658560" crc="5952f116" />
 	</machine>
 	<machine name="Bankai-Silverworld's Emblem">
 		<comment>http://www.feshrine.net/forums/index.php?showtopic=3919</comment>
@@ -828,7 +837,7 @@
 	<machine name="Escape From the Mangs Dungeon">
 		<comment>https://feuniverse.us/t/fe8u-escape-from-the-mangs-dungeon-completed/6787</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="161 - Escape From the Mangs Dungeon" size="17083184" crc="090dffb3" />
+		<rom name="161 - Escape From the Mangs Dungeon" size="19752216" crc="8c8d7373" />
 	</machine>
 	<machine name="Eternal Winter">
 		<comment>https://feuniverse.us/t/fe8-eternal-winter-7-chapters-act-1-complete/15815</comment>
@@ -1329,6 +1338,10 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="332 - FE7 Chaos Mode" size="18767508" crc="0f92ff9b" />
 	</machine>
+	<machine name="FE7 Chat Units">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1299 - FE7 Chat Units" size="19980352" crc="59bd81a6" />
+	</machine>
 	<machine name="FE7 Color Overhaul">
 		<comment>https://feuniverse.us/t/fe7-color-overhaul-wip/10333</comment>
 		<publisher>Reskin/Rebalance</publisher>
@@ -1397,6 +1410,10 @@
 		<comment>Lyn duplicate bug fixed</comment>
 		<publisher>Reskin/Rebalance</publisher>
 		<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+	</machine>
+	<machine name="FE7 Mangs Patch (Refurbished)">
+		<publisher>Reskin/Rebalance</publisher>
+		<rom name="1300 - FE7 Mangs Patch (Refurbished)" size="24307756" crc="6420a521" />
 	</machine>
 	<machine name="FE7 Plus [Enhancement Patch]">
 		<comment>https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603</comment>
@@ -2323,6 +2340,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="155 - Fire Emblem - The Heroes We Deserve" size="22209796" crc="a2171a8e" />
 	</machine>
+	<machine name="Fire Emblem - The Heroes We Deserve (Chinese Translation)">
+		<comment>v1.3</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)" size="23251332" crc="4287ae4b" />
+	</machine>
 	<machine name="Fire Emblem - The Last Voyage">
 		<publisher>Fan Modding</publisher>
 		<rom name="569 - Fire Emblem - The Last Voyage" size="17332756" crc="e50a258b" />
@@ -2623,10 +2645,19 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="1275 - Heavens Fall" size="23046488" crc="e869b4f0" />
 	</machine>
+	<machine name="Heaven’s Bloom (Chinese Translation)">
+		<comment>v1.1</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1289 - Heaven’s Bloom (Chinese Translation)" size="19783064" crc="a73dc41e" />
+	</machine>
 	<machine name="Heaven’s Bloom (Easy mode)">
 		<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="154 - Heaven’s Bloom (Easy mode)" size="18376448" crc="c998aa0e" />
+	</machine>
+	<machine name="Heaven’s Bloom (Easy Mode) (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<rom name="1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)" size="19603012" crc="943887bb" />
 	</machine>
 	<machine name="Heaven’s Bloom (Hard mode)">
 		<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
@@ -2771,6 +2802,15 @@
 		<comment>https://feuniverse.us/t/justice-pride-gaiden-clash-in-estria/8659</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)">
+		<comment>正义与荣耀外传-伊斯塔里亚冲突（全汉化）</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1292 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)" size="28560228" crc="703c256b" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)">
+		<publisher>Fan Modding</publisher>
+		<rom name="1293 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)" size="28666512" crc="a6d0765b" />
 	</machine>
 	<machine name="Justice and Pride (Special Content)">
 		<publisher>Fan Modding</publisher>
@@ -3975,9 +4015,9 @@
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
 	<machine name="Terror of the Forest (Chinese Translation)">
-		<comment>汉化体验版</comment>
+		<comment>完全汉化正式版</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="28588084" crc="af2d5749" />
 	</machine>
 	<machine name="The Akaneian Mafia">
 		<comment>https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75</comment>
@@ -4430,6 +4470,26 @@
 		<publisher>MAFC</publisher>
 		<rom name="662 - There Is No Dialogue, Die" size="17267948" crc="06900b89" />
 	</machine>
+	<machine name="Three Hour Blitz - A Winters Day">
+		<comment>https://feuniverse.us/t/three-hour-blitz/16670/2</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1294 - Three Hour Blitz - A Winters Day" size="16850820" crc="d6dacf1c" />
+	</machine>
+	<machine name="Three Hour Blitz - Folia’s Cavalry">
+		<comment>https://feuniverse.us/t/three-hour-blitz/16670/4</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1296 - Three Hour Blitz - Folia’s Cavalry" size="17343556" crc="ab4f8e92" />
+	</machine>
+	<machine name="Three Hour Blitz - Power of Persuasion">
+		<comment>https://feuniverse.us/t/three-hour-blitz/16670/3</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1295 - Three Hour Blitz - Power of Persuasion" size="18359852" crc="f1def8f3" />
+	</machine>
+	<machine name="Three Hour Blitz - Three Uses">
+		<comment>https://feuniverse.us/t/three-hour-blitz/16670/6</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1297 - Three Hour Blitz - Three Uses" size="16915304" crc="3a5cb727" />
+	</machine>
 	<machine name="Three Legacies">
 		<comment>https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209</comment>
 		<publisher>Fan Modding</publisher>
@@ -4738,6 +4798,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="829 - 东方苍神缘起无印平民版" size="23016040" crc="46b02c58" />
 	</machine>
+	<machine name="东方苍神缘起最终版END">
+		<comment>6.30</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1286 - 东方苍神缘起最终版END" size="32878064" crc="21091434" />
+	</machine>
 	<machine name="东方苍神缘起残暑大神版">
 		<comment>003</comment>
 		<publisher>Fan Modding</publisher>
@@ -4765,9 +4830,9 @@
 		<rom name="1210 - 佣兵公司 (Chinese Translation)" size="25073560" crc="a44472ee" />
 	</machine>
 	<machine name="僵尸道长">
-		<comment>200406</comment>
+		<comment>3.0</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
+		<rom name="886 - 僵尸道长" size="33060644" crc="92a5e91b" />
 	</machine>
 	<machine name="兄妹的情谊">
 		<publisher>Fan Modding</publisher>
@@ -5176,9 +5241,9 @@
 		<rom name="884 - 幸运的七色花" size="33554432" crc="4d7d2fae" />
 	</machine>
 	<machine name="幻想烈火传">
-		<comment>3.0</comment>
+		<comment>最终版</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="833 - 幻想烈火传" size="31592540" crc="ba06eeed" />
+		<rom name="833 - 幻想烈火传" size="31681900" crc="641a6f00" />
 	</machine>
 	<machine name="幽影华尔兹">
 		<publisher>Reskin/Rebalance</publisher>
@@ -5537,6 +5602,11 @@
 		<publisher>Fan Modding</publisher>
 		<rom name="835 - 童子军" size="18672992" crc="5831a5cc" />
 	</machine>
+	<machine name="第一次魔物战争">
+		<comment>6-26</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1285 - 第一次魔物战争" size="24852992" crc="3820d0d5" />
+	</machine>
 	<machine name="第二梦">
 		<publisher>Fan Modding</publisher>
 		<rom name="784 - 第二梦" size="33554431" crc="1ada9fe3" />
@@ -5632,7 +5702,7 @@
 	<machine name="英雄世界">
 		<comment>3.0</comment>
 		<publisher>Fan Modding</publisher>
-		<rom name="857 - 英雄世界" size="33433540" crc="e889fa3a" />
+		<rom name="857 - 英雄世界" size="33544564" crc="f726f874" />
 	</machine>
 	<machine name="英雄的挑战">
 		<comment>完结</comment>
@@ -5782,6 +5852,11 @@
 		<comment>1</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="883 - 魔之暗" size="19044148" crc="48e54442" />
+	</machine>
+	<machine name="魔剑镇魂曲">
+		<comment>1.91</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1287 - 魔剑镇魂曲" size="21479456" crc="71a221a7" />
 	</machine>
 	<machine name="魔幻封神">
 		<publisher>Reskin/Rebalance</publisher>

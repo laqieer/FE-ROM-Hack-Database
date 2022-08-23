@@ -81,6 +81,9 @@
 	<machine name="Asks Attorney Investigations">
 		<rom name="537 - Asks Attorney Investigations" size="18548704" crc="809a5207" />
 	</machine>
+	<machine name="Asm Telephone Hacc - Feature (Not a Bug)">
+		<rom name="1298 - Asm Telephone Hacc - Feature (Not a Bug)" size="25948264" crc="8d38be14" />
+	</machine>
 	<machine name="Asylum Of Irony">
 		<rom name="532 - Asylum Of Irony" size="19807284" crc="98402613" />
 	</machine>
@@ -116,6 +119,9 @@
 	</machine>
 	<machine name="Bandit Emblem">
 		<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+	</machine>
+	<machine name="Bandit Emblem (Chinese Translation)">
+		<rom name="1291 - Bandit Emblem (Chinese Translation)" size="18658560" crc="5952f116" />
 	</machine>
 	<machine name="Bankai-Silverworld's Emblem">
 		<rom name="761 - Bankai-Silverworld's Emblem" size="17454908" crc="b0429e8d" />
@@ -493,7 +499,7 @@
 		<rom name="440 - ErikFE" size="18622088" crc="a255ac4b" />
 	</machine>
 	<machine name="Escape From the Mangs Dungeon">
-		<rom name="161 - Escape From the Mangs Dungeon" size="17083184" crc="090dffb3" />
+		<rom name="161 - Escape From the Mangs Dungeon" size="19752216" crc="8c8d7373" />
 	</machine>
 	<machine name="Eternal Winter">
 		<rom name="1174 - Eternal Winter" size="22439324" crc="e8afe7c5" />
@@ -802,6 +808,9 @@
 	<machine name="FE7 Chaos Mode">
 		<rom name="332 - FE7 Chaos Mode" size="18767508" crc="0f92ff9b" />
 	</machine>
+	<machine name="FE7 Chat Units">
+		<rom name="1299 - FE7 Chat Units" size="19980352" crc="59bd81a6" />
+	</machine>
 	<machine name="FE7 Color Overhaul">
 		<rom name="1123 - FE7 Color Overhaul" size="17077916" crc="fe42f53d" />
 	</machine>
@@ -843,6 +852,9 @@
 	</machine>
 	<machine name="FE7 Mangs Patch">
 		<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+	</machine>
+	<machine name="FE7 Mangs Patch (Refurbished)">
+		<rom name="1300 - FE7 Mangs Patch (Refurbished)" size="24307756" crc="6420a521" />
 	</machine>
 	<machine name="FE7 Plus [Enhancement Patch]">
 		<rom name="1024 - FE7 Plus [Enhancement Patch]" size="16798616" crc="c53315e2" />
@@ -1414,6 +1426,9 @@
 	<machine name="Fire Emblem - The Heroes We Deserve">
 		<rom name="155 - Fire Emblem - The Heroes We Deserve" size="22209796" crc="a2171a8e" />
 	</machine>
+	<machine name="Fire Emblem - The Heroes We Deserve (Chinese Translation)">
+		<rom name="1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)" size="23251332" crc="4287ae4b" />
+	</machine>
 	<machine name="Fire Emblem - The Last Voyage">
 		<rom name="569 - Fire Emblem - The Last Voyage" size="17332756" crc="e50a258b" />
 	</machine>
@@ -1597,8 +1612,14 @@
 	<machine name="Heavens Fall">
 		<rom name="1275 - Heavens Fall" size="23046488" crc="e869b4f0" />
 	</machine>
+	<machine name="Heaven’s Bloom (Chinese Translation)">
+		<rom name="1289 - Heaven’s Bloom (Chinese Translation)" size="19783064" crc="a73dc41e" />
+	</machine>
 	<machine name="Heaven’s Bloom (Easy mode)">
 		<rom name="154 - Heaven’s Bloom (Easy mode)" size="18376448" crc="c998aa0e" />
+	</machine>
+	<machine name="Heaven’s Bloom (Easy Mode) (Chinese Translation)">
+		<rom name="1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)" size="19603012" crc="943887bb" />
 	</machine>
 	<machine name="Heaven’s Bloom (Hard mode)">
 		<rom name="1241 - Heaven’s Bloom (Hard mode)" size="18398588" crc="0c329909" />
@@ -1686,6 +1707,12 @@
 	</machine>
 	<machine name="Justice &amp; Pride Gaiden - Clash in Estria">
 		<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)">
+		<rom name="1292 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)" size="28560228" crc="703c256b" />
+	</machine>
+	<machine name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)">
+		<rom name="1293 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)" size="28666512" crc="a6d0765b" />
 	</machine>
 	<machine name="Justice and Pride (Special Content)">
 		<rom name="1247 - Justice and Pride (Special Content)" size="17190252" crc="b6236198" />
@@ -2417,7 +2444,7 @@
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />
 	</machine>
 	<machine name="Terror of the Forest (Chinese Translation)">
-		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+		<rom name="1208 - Terror of the Forest (Chinese Translation)" size="28588084" crc="af2d5749" />
 	</machine>
 	<machine name="The Akaneian Mafia">
 		<rom name="656 - The Akaneian Mafia" size="16777216" crc="33e27ba8" />
@@ -2692,6 +2719,18 @@
 	<machine name="There Is No Dialogue, Die">
 		<rom name="662 - There Is No Dialogue, Die" size="17267948" crc="06900b89" />
 	</machine>
+	<machine name="Three Hour Blitz - A Winters Day">
+		<rom name="1294 - Three Hour Blitz - A Winters Day" size="16850820" crc="d6dacf1c" />
+	</machine>
+	<machine name="Three Hour Blitz - Folia’s Cavalry">
+		<rom name="1296 - Three Hour Blitz - Folia’s Cavalry" size="17343556" crc="ab4f8e92" />
+	</machine>
+	<machine name="Three Hour Blitz - Power of Persuasion">
+		<rom name="1295 - Three Hour Blitz - Power of Persuasion" size="18359852" crc="f1def8f3" />
+	</machine>
+	<machine name="Three Hour Blitz - Three Uses">
+		<rom name="1297 - Three Hour Blitz - Three Uses" size="16915304" crc="3a5cb727" />
+	</machine>
 	<machine name="Three Legacies">
 		<rom name="1282 - Three Legacies" size="21129612" crc="1e62497c" />
 	</machine>
@@ -2881,6 +2920,9 @@
 	<machine name="东方苍神缘起无印平民版">
 		<rom name="829 - 东方苍神缘起无印平民版" size="23016040" crc="46b02c58" />
 	</machine>
+	<machine name="东方苍神缘起最终版END">
+		<rom name="1286 - 东方苍神缘起最终版END" size="32878064" crc="21091434" />
+	</machine>
 	<machine name="东方苍神缘起残暑大神版">
 		<rom name="850 - 东方苍神缘起残暑大神版" size="27038084" crc="b23ea3b9" />
 	</machine>
@@ -2900,7 +2942,7 @@
 		<rom name="1210 - 佣兵公司 (Chinese Translation)" size="25073560" crc="a44472ee" />
 	</machine>
 	<machine name="僵尸道长">
-		<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
+		<rom name="886 - 僵尸道长" size="33060644" crc="92a5e91b" />
 	</machine>
 	<machine name="兄妹的情谊">
 		<rom name="1227 - 兄妹的情谊" size="20296616" crc="48c985fa" />
@@ -3185,7 +3227,7 @@
 		<rom name="884 - 幸运的七色花" size="33554432" crc="4d7d2fae" />
 	</machine>
 	<machine name="幻想烈火传">
-		<rom name="833 - 幻想烈火传" size="31592540" crc="ba06eeed" />
+		<rom name="833 - 幻想烈火传" size="31681900" crc="641a6f00" />
 	</machine>
 	<machine name="幽影华尔兹">
 		<rom name="811 - 幽影华尔兹" size="25919968" crc="c37960cd" />
@@ -3434,6 +3476,9 @@
 	<machine name="童子军">
 		<rom name="835 - 童子军" size="18672992" crc="5831a5cc" />
 	</machine>
+	<machine name="第一次魔物战争">
+		<rom name="1285 - 第一次魔物战争" size="24852992" crc="3820d0d5" />
+	</machine>
 	<machine name="第二梦">
 		<rom name="784 - 第二梦" size="33554431" crc="1ada9fe3" />
 	</machine>
@@ -3498,7 +3543,7 @@
 		<rom name="848 - 苍炎的勇者" size="32668748" crc="a682ec6a" />
 	</machine>
 	<machine name="英雄世界">
-		<rom name="857 - 英雄世界" size="33433540" crc="e889fa3a" />
+		<rom name="857 - 英雄世界" size="33544564" crc="f726f874" />
 	</machine>
 	<machine name="英雄的挑战">
 		<rom name="887 - 英雄的挑战" size="26018900" crc="8241e45e" />
@@ -3604,6 +3649,9 @@
 	</machine>
 	<machine name="魔之暗">
 		<rom name="883 - 魔之暗" size="19044148" crc="48e54442" />
+	</machine>
+	<machine name="魔剑镇魂曲">
+		<rom name="1287 - 魔剑镇魂曲" size="21479456" crc="71a221a7" />
 	</machine>
 	<machine name="魔幻封神">
 		<rom name="737 - 魔幻封神" size="18388264" crc="ee865884" />

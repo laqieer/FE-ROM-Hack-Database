@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220822</version>
+		<version>20220823</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -509,6 +509,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Asm Telephone Hacc - Feature (Not a Bug)</name>
+				<comment>https://feuniverse.us/t/feature-not-a-bug/16748</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1298 - Asm Telephone Hacc - Feature (Not a Bug)</name>
+					<size>25948264</size>
+					<crc>8d38be14</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Asylum Of Irony</name>
 				<comment>https://markyjoe.com/?page=rfdl</comment>
 				<publisher>Ragefest</publisher>
@@ -684,6 +699,21 @@
 					<name>204 - Bandit Emblem</name>
 					<size>17645508</size>
 					<crc>4c0a42a1</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Bandit Emblem (Chinese Translation)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1291 - Bandit Emblem (Chinese Translation)</name>
+					<size>18658560</size>
+					<crc>5952f116</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -2572,8 +2602,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>161 - Escape From the Mangs Dungeon</name>
-					<size>17083184</size>
-					<crc>090dffb3</crc>
+					<size>19752216</size>
+					<crc>8c8d7373</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -4115,6 +4145,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>FE7 Chat Units</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1299 - FE7 Chat Units</name>
+					<size>19980352</size>
+					<crc>59bd81a6</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>FE7 Color Overhaul</name>
 				<comment>https://feuniverse.us/t/fe7-color-overhaul-wip/10333</comment>
 				<publisher>Reskin/Rebalance</publisher>
@@ -4320,6 +4365,21 @@
 					<name>1250 - FE7 Mangs Patch</name>
 					<size>16965528</size>
 					<crc>12a86cae</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 Mangs Patch (Refurbished)</name>
+				<comment />
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1300 - FE7 Mangs Patch (Refurbished)</name>
+					<size>24307756</size>
+					<crc>6420a521</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -7175,6 +7235,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Fire Emblem - The Heroes We Deserve (Chinese Translation)</name>
+				<comment>v1.3</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)</name>
+					<size>23251332</size>
+					<crc>4287ae4b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Fire Emblem - The Last Voyage</name>
 				<comment />
 				<publisher>Fan Modding</publisher>
@@ -8090,6 +8165,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Heaven’s Bloom (Chinese Translation)</name>
+				<comment>v1.1</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1289 - Heaven’s Bloom (Chinese Translation)</name>
+					<size>19783064</size>
+					<crc>a73dc41e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Heaven’s Bloom (Easy mode)</name>
 				<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
 				<publisher>Fan Modding</publisher>
@@ -8100,6 +8190,21 @@
 					<name>154 - Heaven’s Bloom (Easy mode)</name>
 					<size>18376448</size>
 					<crc>c998aa0e</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Heaven’s Bloom (Easy Mode) (Chinese Translation)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)</name>
+					<size>19603012</size>
+					<crc>943887bb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -8535,6 +8640,36 @@
 					<name>475 - Justice &amp; Pride Gaiden - Clash in Estria</name>
 					<size>27248856</size>
 					<crc>d625827c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)</name>
+				<comment>正义与荣耀外传-伊斯塔里亚冲突（全汉化）</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1292 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)</name>
+					<size>28560228</size>
+					<crc>703c256b</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)</name>
+				<comment />
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1293 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)</name>
+					<size>28666512</size>
+					<crc>a6d0765b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12186,15 +12321,15 @@
 		<directory>
 			<machine>
 				<name>Terror of the Forest (Chinese Translation)</name>
-				<comment>汉化体验版</comment>
+				<comment>完全汉化正式版</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1208 - Terror of the Forest (Chinese Translation)</name>
-					<size>27829440</size>
-					<crc>c79d1f6a</crc>
+					<size>28588084</size>
+					<crc>af2d5749</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -13565,6 +13700,66 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Three Hour Blitz - A Winters Day</name>
+				<comment>https://feuniverse.us/t/three-hour-blitz/16670/2</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1294 - Three Hour Blitz - A Winters Day</name>
+					<size>16850820</size>
+					<crc>d6dacf1c</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Three Hour Blitz - Folia’s Cavalry</name>
+				<comment>https://feuniverse.us/t/three-hour-blitz/16670/4</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1296 - Three Hour Blitz - Folia’s Cavalry</name>
+					<size>17343556</size>
+					<crc>ab4f8e92</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Three Hour Blitz - Power of Persuasion</name>
+				<comment>https://feuniverse.us/t/three-hour-blitz/16670/3</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1295 - Three Hour Blitz - Power of Persuasion</name>
+					<size>18359852</size>
+					<crc>f1def8f3</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>Three Hour Blitz - Three Uses</name>
+				<comment>https://feuniverse.us/t/three-hour-blitz/16670/6</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1297 - Three Hour Blitz - Three Uses</name>
+					<size>16915304</size>
+					<crc>3a5cb727</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Three Legacies</name>
 				<comment>https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209</comment>
 				<publisher>Fan Modding</publisher>
@@ -14510,6 +14705,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>东方苍神缘起最终版END</name>
+				<comment>6.30</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1286 - 东方苍神缘起最终版END</name>
+					<size>32878064</size>
+					<crc>21091434</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>东方苍神缘起残暑大神版</name>
 				<comment>003</comment>
 				<publisher>Fan Modding</publisher>
@@ -14601,15 +14811,15 @@
 		<directory>
 			<machine>
 				<name>僵尸道长</name>
-				<comment>200406</comment>
+				<comment>3.0</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>886 - 僵尸道长</name>
-					<size>21486460</size>
-					<crc>7e731649</crc>
+					<size>33060644</size>
+					<crc>92a5e91b</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -16026,15 +16236,15 @@
 		<directory>
 			<machine>
 				<name>幻想烈火传</name>
-				<comment>3.0</comment>
+				<comment>最终版</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>833 - 幻想烈火传</name>
-					<size>31592540</size>
-					<crc>ba06eeed</crc>
+					<size>31681900</size>
+					<crc>641a6f00</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -17276,6 +17486,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>第一次魔物战争</name>
+				<comment>6-26</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1285 - 第一次魔物战争</name>
+					<size>24852992</size>
+					<crc>3820d0d5</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>第二梦</name>
 				<comment />
 				<publisher>Fan Modding</publisher>
@@ -17599,8 +17824,8 @@
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>857 - 英雄世界</name>
-					<size>33433540</size>
-					<crc>e889fa3a</crc>
+					<size>33544564</size>
+					<crc>f726f874</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -18126,6 +18351,21 @@
 					<name>883 - 魔之暗</name>
 					<size>19044148</size>
 					<crc>48e54442</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>魔剑镇魂曲</name>
+				<comment>1.91</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1287 - 魔剑镇魂曲</name>
+					<size>21479456</size>
+					<crc>71a221a7</crc>
 				</datitem>
 			</files>
 		</directory>

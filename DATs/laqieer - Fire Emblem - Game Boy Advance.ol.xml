@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1215</datVersion>
+		<datVersion>1231</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -533,6 +533,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1298 - Asm Telephone Hacc - Feature (Not a Bug)</title>
+			<saveType>None</saveType>
+			<romSize>25948264</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">8D38BE14</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/feature-not-a-bug/16748</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>532 - Asylum Of Irony</title>
 			<saveType>None</saveType>
 			<romSize>19807284</romSize>
@@ -746,6 +764,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-complete-bandit-emblem/8501</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1291 - Bandit Emblem (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>18658560</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">5952F116</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -3006,13 +3043,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>161 - Escape From the Mangs Dungeon</title>
 			<saveType>None</saveType>
-			<romSize>17083184</romSize>
+			<romSize>19752216</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">090DFFB3</romCRC>
+				<romCRC extension=".">8C8D7373</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -4889,6 +4926,25 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1299 - FE7 Chat Units</title>
+			<saveType>None</saveType>
+			<romSize>19980352</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">59BD81A6</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1123 - FE7 Color Overhaul</title>
 			<saveType>None</saveType>
 			<romSize>17077916</romSize>
@@ -5137,6 +5193,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>Lyn duplicate bug fixed</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1300 - FE7 Mangs Patch (Refurbished)</title>
+			<saveType>None</saveType>
+			<romSize>24307756</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">6420A521</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -8587,6 +8662,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>23251332</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4287AE4B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>v1.3</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>569 - Fire Emblem - The Last Voyage</title>
 			<saveType>None</saveType>
 			<romSize>17332756</romSize>
@@ -9690,6 +9783,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1289 - Heaven’s Bloom (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>19783064</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A73DC41E</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>v1.1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>154 - Heaven’s Bloom (Easy mode)</title>
 			<saveType>None</saveType>
 			<romSize>18376448</romSize>
@@ -9703,6 +9814,25 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8u-fire-emblem-heavens-bloom-v1-1-0/3879</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>19603012</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">943887BB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -10226,6 +10356,43 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/justice-pride-gaiden-clash-in-estria/8659</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1292 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)</title>
+			<saveType>None</saveType>
+			<romSize>28560228</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">703C256B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>正义与荣耀外传-伊斯塔里亚冲突（全汉化）</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1293 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)</title>
+			<saveType>None</saveType>
+			<romSize>28666512</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A6D0765B</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>
+			</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14620,17 +14787,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1208 - Terror of the Forest (Chinese Translation)</title>
 			<saveType>None</saveType>
-			<romSize>27829440</romSize>
+			<romSize>28588084</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">C79D1F6A</romCRC>
+				<romCRC extension=".">AF2D5749</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>汉化体验版</comment>
+			<comment>完全汉化正式版</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -16278,6 +16445,78 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1294 - Three Hour Blitz - A Winters Day</title>
+			<saveType>None</saveType>
+			<romSize>16850820</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D6DACF1C</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/three-hour-blitz/16670/2</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1296 - Three Hour Blitz - Folia’s Cavalry</title>
+			<saveType>None</saveType>
+			<romSize>17343556</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">AB4F8E92</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/three-hour-blitz/16670/4</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1295 - Three Hour Blitz - Power of Persuasion</title>
+			<saveType>None</saveType>
+			<romSize>18359852</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">F1DEF8F3</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/three-hour-blitz/16670/3</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1297 - Three Hour Blitz - Three Uses</title>
+			<saveType>None</saveType>
+			<romSize>16915304</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3A5CB727</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/three-hour-blitz/16670/6</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>1282 - Three Legacies</title>
 			<saveType>None</saveType>
 			<romSize>21129612</romSize>
@@ -17419,6 +17658,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1286 - 东方苍神缘起最终版END</title>
+			<saveType>None</saveType>
+			<romSize>32878064</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">21091434</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>6.30</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>850 - 东方苍神缘起残暑大神版</title>
 			<saveType>None</saveType>
 			<romSize>27038084</romSize>
@@ -17533,17 +17790,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>886 - 僵尸道长</title>
 			<saveType>None</saveType>
-			<romSize>21486460</romSize>
+			<romSize>33060644</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">7E731649</romCRC>
+				<romCRC extension=".">92A5E91B</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>200406</comment>
+			<comment>3.0</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -19307,17 +19564,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>833 - 幻想烈火传</title>
 			<saveType>None</saveType>
-			<romSize>31592540</romSize>
+			<romSize>31681900</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">BA06EEED</romCRC>
+				<romCRC extension=".">641A6F00</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>3.0</comment>
+			<comment>最终版</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -20871,6 +21128,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1285 - 第一次魔物战争</title>
+			<saveType>None</saveType>
+			<romSize>24852992</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">3820D0D5</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>6-26</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>784 - 第二梦</title>
 			<saveType>None</saveType>
 			<romSize>33554431</romSize>
@@ -21264,13 +21539,13 @@
 			<releaseNumber>1</releaseNumber>
 			<title>857 - 英雄世界</title>
 			<saveType>None</saveType>
-			<romSize>33433540</romSize>
+			<romSize>33544564</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">E889FA3A</romCRC>
+				<romCRC extension=".">F726F874</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
@@ -21931,6 +22206,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>1</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1287 - 魔剑镇魂曲</title>
+			<saveType>None</saveType>
+			<romSize>21479456</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">71A221A7</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>1.91</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

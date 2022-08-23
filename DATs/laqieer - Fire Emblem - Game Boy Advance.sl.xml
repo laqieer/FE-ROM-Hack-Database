@@ -217,6 +217,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Asm Telephone Hacc - Feature (Not a Bug)">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1298 - Asm Telephone Hacc - Feature (Not a Bug)" size="25948264" crc="8d38be14" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Asylum Of Irony">
 		<publisher>Ragefest</publisher>
 		<part name="" interface="">
@@ -310,6 +318,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="204 - Bandit Emblem" size="17645508" crc="4c0a42a1" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Bandit Emblem (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1291 - Bandit Emblem (Chinese Translation)" size="18658560" crc="5952f116" />
 			</dataarea>
 		</part>
 	</software>
@@ -1317,7 +1333,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="161 - Escape From the Mangs Dungeon" size="17083184" crc="090dffb3" />
+				<rom name="161 - Escape From the Mangs Dungeon" size="19752216" crc="8c8d7373" />
 			</dataarea>
 		</part>
 	</software>
@@ -2142,6 +2158,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="FE7 Chat Units">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1299 - FE7 Chat Units" size="19980352" crc="59bd81a6" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="FE7 Color Overhaul">
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
@@ -2251,6 +2275,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="FE7 Mangs Patch (Refurbished)">
+		<publisher>Reskin/Rebalance</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1300 - FE7 Mangs Patch (Refurbished)" size="24307756" crc="6420a521" />
 			</dataarea>
 		</part>
 	</software>
@@ -3774,6 +3806,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Fire Emblem - The Heroes We Deserve (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation)" size="23251332" crc="4287ae4b" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Fire Emblem - The Last Voyage">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -4262,11 +4302,27 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Heaven’s Bloom (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1289 - Heaven’s Bloom (Chinese Translation)" size="19783064" crc="a73dc41e" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Heaven’s Bloom (Easy mode)">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="154 - Heaven’s Bloom (Easy mode)" size="18376448" crc="c998aa0e" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Heaven’s Bloom (Easy Mode) (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation)" size="19603012" crc="943887bb" />
 			</dataarea>
 		</part>
 	</software>
@@ -4499,6 +4555,22 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="475 - Justice &amp; Pride Gaiden - Clash in Estria" size="27248856" crc="d625827c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1292 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation)" size="28560228" crc="703c256b" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1293 - Justice &amp; Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed)" size="28666512" crc="a6d0765b" />
 			</dataarea>
 		</part>
 	</software>
@@ -6450,7 +6522,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1208 - Terror of the Forest (Chinese Translation)" size="27829440" crc="c79d1f6a" />
+				<rom name="1208 - Terror of the Forest (Chinese Translation)" size="28588084" crc="af2d5749" />
 			</dataarea>
 		</part>
 	</software>
@@ -7182,6 +7254,38 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Three Hour Blitz - A Winters Day">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1294 - Three Hour Blitz - A Winters Day" size="16850820" crc="d6dacf1c" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Three Hour Blitz - Folia’s Cavalry">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1296 - Three Hour Blitz - Folia’s Cavalry" size="17343556" crc="ab4f8e92" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Three Hour Blitz - Power of Persuasion">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1295 - Three Hour Blitz - Power of Persuasion" size="18359852" crc="f1def8f3" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="Three Hour Blitz - Three Uses">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1297 - Three Hour Blitz - Three Uses" size="16915304" crc="3a5cb727" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Three Legacies">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -7686,6 +7790,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="东方苍神缘起最终版END">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1286 - 东方苍神缘起最终版END" size="32878064" crc="21091434" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="东方苍神缘起残暑大神版">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -7738,7 +7850,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="886 - 僵尸道长" size="21486460" crc="7e731649" />
+				<rom name="886 - 僵尸道长" size="33060644" crc="92a5e91b" />
 			</dataarea>
 		</part>
 	</software>
@@ -8498,7 +8610,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="833 - 幻想烈火传" size="31592540" crc="ba06eeed" />
+				<rom name="833 - 幻想烈火传" size="31681900" crc="641a6f00" />
 			</dataarea>
 		</part>
 	</software>
@@ -9163,6 +9275,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="第一次魔物战争">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1285 - 第一次魔物战争" size="24852992" crc="3820d0d5" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="第二梦">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -9335,7 +9455,7 @@
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="857 - 英雄世界" size="33433540" crc="e889fa3a" />
+				<rom name="857 - 英雄世界" size="33544564" crc="f726f874" />
 			</dataarea>
 		</part>
 	</software>
@@ -9616,6 +9736,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="883 - 魔之暗" size="19044148" crc="48e54442" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="魔剑镇魂曲">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1287 - 魔剑镇魂曲" size="21479456" crc="71a221a7" />
 			</dataarea>
 		</part>
 	</software>

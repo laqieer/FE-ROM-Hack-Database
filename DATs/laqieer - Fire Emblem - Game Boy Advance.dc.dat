@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220822
+	Version: 20220823
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -116,6 +116,10 @@ game (
 	file ( name 537 - Asks Attorney Investigations size 18548704 crc 809a5207 )
 )
 game (
+	name "Asm Telephone Hacc - Feature (Not a Bug).zip"
+	file ( name 1298 - Asm Telephone Hacc - Feature (Not a Bug) size 25948264 crc 8d38be14 )
+)
+game (
 	name "Asylum Of Irony.zip"
 	file ( name 532 - Asylum Of Irony size 19807284 crc 98402613 )
 )
@@ -162,6 +166,10 @@ game (
 game (
 	name "Bandit Emblem.zip"
 	file ( name 204 - Bandit Emblem size 17645508 crc 4c0a42a1 )
+)
+game (
+	name "Bandit Emblem (Chinese Translation).zip"
+	file ( name 1291 - Bandit Emblem (Chinese Translation) size 18658560 crc 5952f116 )
 )
 game (
 	name "Bankai-Silverworld's Emblem.zip"
@@ -665,7 +673,7 @@ game (
 )
 game (
 	name "Escape From the Mangs Dungeon.zip"
-	file ( name 161 - Escape From the Mangs Dungeon size 17083184 crc 090dffb3 )
+	file ( name 161 - Escape From the Mangs Dungeon size 19752216 crc 8c8d7373 )
 )
 game (
 	name "Eternal Winter.zip"
@@ -1077,6 +1085,10 @@ game (
 	file ( name 332 - FE7 Chaos Mode size 18767508 crc 0f92ff9b )
 )
 game (
+	name "FE7 Chat Units.zip"
+	file ( name 1299 - FE7 Chat Units size 19980352 crc 59bd81a6 )
+)
+game (
 	name "FE7 Color Overhaul.zip"
 	file ( name 1123 - FE7 Color Overhaul size 17077916 crc fe42f53d )
 )
@@ -1131,6 +1143,10 @@ game (
 game (
 	name "FE7 Mangs Patch.zip"
 	file ( name 1250 - FE7 Mangs Patch size 16965528 crc 12a86cae )
+)
+game (
+	name "FE7 Mangs Patch (Refurbished).zip"
+	file ( name 1300 - FE7 Mangs Patch (Refurbished) size 24307756 crc 6420a521 )
 )
 game (
 	name "FE7 Plus [Enhancement Patch].zip"
@@ -1893,6 +1909,10 @@ game (
 	file ( name 155 - Fire Emblem - The Heroes We Deserve size 22209796 crc a2171a8e )
 )
 game (
+	name "Fire Emblem - The Heroes We Deserve (Chinese Translation).zip"
+	file ( name 1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation) size 23251332 crc 4287ae4b )
+)
+game (
 	name "Fire Emblem - The Last Voyage.zip"
 	file ( name 569 - Fire Emblem - The Last Voyage size 17332756 crc e50a258b )
 )
@@ -2137,8 +2157,16 @@ game (
 	file ( name 1275 - Heavens Fall size 23046488 crc e869b4f0 )
 )
 game (
+	name "Heaven’s Bloom (Chinese Translation).zip"
+	file ( name 1289 - Heaven’s Bloom (Chinese Translation) size 19783064 crc a73dc41e )
+)
+game (
 	name "Heaven’s Bloom (Easy mode).zip"
 	file ( name 154 - Heaven’s Bloom (Easy mode) size 18376448 crc c998aa0e )
+)
+game (
+	name "Heaven’s Bloom (Easy Mode) (Chinese Translation).zip"
+	file ( name 1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation) size 19603012 crc 943887bb )
 )
 game (
 	name "Heaven’s Bloom (Hard mode).zip"
@@ -2255,6 +2283,14 @@ game (
 game (
 	name "Justice & Pride Gaiden - Clash in Estria.zip"
 	file ( name 475 - Justice & Pride Gaiden - Clash in Estria size 27248856 crc d625827c )
+)
+game (
+	name "Justice & Pride Gaiden - Clash in Estria (Chinese Translation).zip"
+	file ( name 1292 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) size 28560228 crc 703c256b )
+)
+game (
+	name "Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed).zip"
+	file ( name 1293 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed) size 28666512 crc a6d0765b )
 )
 game (
 	name "Justice and Pride (Special Content).zip"
@@ -2422,7 +2458,7 @@ game (
 )
 game (
 	name "M. E. R. C. S..zip"
-	file ( name 467 - M. E. R. C size 18427704 crc 048eb1b6 )
+	file ( name 467 - M. E. R. C. S size 18427704 crc 048eb1b6 )
 )
 game (
 	name "MageKnight404's FE7 Hack.zip"
@@ -2738,7 +2774,7 @@ game (
 )
 game (
 	name "Project Sacred Stones v.0.2.5.1.zip"
-	file ( name 1106 - Project Sacred Stones v.0.2 size 17044860 crc a9d395a4 )
+	file ( name 1106 - Project Sacred Stones v.0.2.5 size 17044860 crc a9d395a4 )
 )
 game (
 	name "Prophecy of Flames.zip"
@@ -3230,7 +3266,7 @@ game (
 )
 game (
 	name "Terror of the Forest (Chinese Translation).zip"
-	file ( name 1208 - Terror of the Forest (Chinese Translation) size 27829440 crc c79d1f6a )
+	file ( name 1208 - Terror of the Forest (Chinese Translation) size 28588084 crc af2d5749 )
 )
 game (
 	name "The Akaneian Mafia.zip"
@@ -3597,6 +3633,22 @@ game (
 	file ( name 662 - There Is No Dialogue, Die size 17267948 crc 06900b89 )
 )
 game (
+	name "Three Hour Blitz - A Winters Day.zip"
+	file ( name 1294 - Three Hour Blitz - A Winters Day size 16850820 crc d6dacf1c )
+)
+game (
+	name "Three Hour Blitz - Folia’s Cavalry.zip"
+	file ( name 1296 - Three Hour Blitz - Folia’s Cavalry size 17343556 crc ab4f8e92 )
+)
+game (
+	name "Three Hour Blitz - Power of Persuasion.zip"
+	file ( name 1295 - Three Hour Blitz - Power of Persuasion size 18359852 crc f1def8f3 )
+)
+game (
+	name "Three Hour Blitz - Three Uses.zip"
+	file ( name 1297 - Three Hour Blitz - Three Uses size 16915304 crc 3a5cb727 )
+)
+game (
 	name "Three Legacies.zip"
 	file ( name 1282 - Three Legacies size 21129612 crc 1e62497c )
 )
@@ -3849,6 +3901,10 @@ game (
 	file ( name 829 - 东方苍神缘起无印平民版 size 23016040 crc 46b02c58 )
 )
 game (
+	name "东方苍神缘起最终版END.zip"
+	file ( name 1286 - 东方苍神缘起最终版END size 32878064 crc 21091434 )
+)
+game (
 	name "东方苍神缘起残暑大神版.zip"
 	file ( name 850 - 东方苍神缘起残暑大神版 size 27038084 crc b23ea3b9 )
 )
@@ -3874,7 +3930,7 @@ game (
 )
 game (
 	name "僵尸道长.zip"
-	file ( name 886 - 僵尸道长 size 21486460 crc 7e731649 )
+	file ( name 886 - 僵尸道长 size 33060644 crc 92a5e91b )
 )
 game (
 	name "兄妹的情谊.zip"
@@ -4254,7 +4310,7 @@ game (
 )
 game (
 	name "幻想烈火传.zip"
-	file ( name 833 - 幻想烈火传 size 31592540 crc ba06eeed )
+	file ( name 833 - 幻想烈火传 size 31681900 crc 641a6f00 )
 )
 game (
 	name "幽影华尔兹.zip"
@@ -4586,6 +4642,10 @@ game (
 	file ( name 835 - 童子军 size 18672992 crc 5831a5cc )
 )
 game (
+	name "第一次魔物战争.zip"
+	file ( name 1285 - 第一次魔物战争 size 24852992 crc 3820d0d5 )
+)
+game (
 	name "第二梦.zip"
 	file ( name 784 - 第二梦 size 33554431 crc 1ada9fe3 )
 )
@@ -4671,7 +4731,7 @@ game (
 )
 game (
 	name "英雄世界.zip"
-	file ( name 857 - 英雄世界 size 33433540 crc e889fa3a )
+	file ( name 857 - 英雄世界 size 33544564 crc f726f874 )
 )
 game (
 	name "英雄的挑战.zip"
@@ -4812,6 +4872,10 @@ game (
 game (
 	name "魔之暗.zip"
 	file ( name 883 - 魔之暗 size 19044148 crc 48e54442 )
+)
+game (
+	name "魔剑镇魂曲.zip"
+	file ( name 1287 - 魔剑镇魂曲 size 21479456 crc 71a221a7 )
 )
 game (
 	name "魔幻封神.zip"

@@ -25,6 +25,7 @@
 534 - Art of Forde.gba 0038731b
 612 - Ash Blossom.gba b4c8db1f
 537 - Asks Attorney Investigations.gba 809a5207
+1298 - Asm Telephone Hacc - Feature (Not a Bug).gba 8d38be14
 532 - Asylum Of Irony.gba 98402613
 262 - Athos Mode.gba 2f511659
 254 - Atirian Conquest.gba f2f006e1
@@ -37,6 +38,7 @@
 212 - B3L-H411-A.gba db73120f
 781 - Back to the Stones.gba 3b21a3cf
 204 - Bandit Emblem.gba 4c0a42a1
+1291 - Bandit Emblem (Chinese Translation).gba 5952f116
 761 - Bankai-Silverworld's Emblem.gba b0429e8d
 477 - Barhara Trilogy.gba b04b7137
 156 - Barry’s Bandits.gba 2ce87ea5
@@ -162,7 +164,7 @@
 524 - Enderslicer's Escape.gba e9bdb90d
 485 - Endless Nights.gba 73c48346
 440 - ErikFE.gba a255ac4b
-161 - Escape From the Mangs Dungeon.gba 090dffb3
+161 - Escape From the Mangs Dungeon.gba 8c8d7373
 1174 - Eternal Winter.gba e8afe7c5
 1083 - Ether's FE8 Reskin.gba 20f71449
 580 - Ethereal Light.gba a2e2fa4e
@@ -266,6 +268,7 @@
 1131 - FE7 but all the Promotion Items are Master Seals.gba fe43c45b
 1173 - FE7 but the weather is bad.gba 7d943e3f
 332 - FE7 Chaos Mode.gba 0f92ff9b
+1299 - FE7 Chat Units.gba 59bd81a6
 1123 - FE7 Color Overhaul.gba fe42f53d
 1169 - FE7 GE Wars of Dragons.gba 4f290e6c
 1170 - FE7 GE Wars of Dragons (Beta).gba c1c83f34
@@ -280,6 +283,7 @@
 629 - FE7 Lyn Hard Mode Redux JP.gba 5344ef57
 1098 - FE7 Lynatic Mode.gba e1d0ad8e
 1250 - FE7 Mangs Patch.gba 12a86cae
+1300 - FE7 Mangs Patch (Refurbished).gba 6420a521
 1024 - FE7 Plus [Enhancement Patch].gba c53315e2
 1026 - FE7 Plus [Enhancement Patch] (Fixed).gba f6a18cb2
 1027 - FE7 Plus [Enhancement Patch] (JP + Fixed).gba 8ddba2f9
@@ -470,6 +474,7 @@
 1050 - Fire Emblem - The Blazing Blade - Routemerge.gba d84eff95
 221 - Fire Emblem - The Fall of Thabes.gba 7572b080
 155 - Fire Emblem - The Heroes We Deserve.gba a2171a8e
+1288 - Fire Emblem - The Heroes We Deserve (Chinese Translation).gba 4287ae4b
 569 - Fire Emblem - The Last Voyage.gba e50a258b
 8 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It).gba b3005195
 14 - Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console).gba 2653401a
@@ -531,7 +536,9 @@
 482 - Grug’s Primitive Disadventure.gba 706d37d0
 1167 - Heart Wars.gba 27904705
 1275 - Heavens Fall.gba e869b4f0
+1289 - Heaven’s Bloom (Chinese Translation).gba a73dc41e
 154 - Heaven’s Bloom (Easy mode).gba c998aa0e
+1290 - Heaven’s Bloom (Easy Mode) (Chinese Translation).gba 943887bb
 1241 - Heaven’s Bloom (Hard mode).gba 0c329909
 163 - Hector Saves Christmas.gba 6896d8c2
 164 - Hector Saves Christmas Again.gba e69b171f
@@ -561,6 +568,8 @@
 268 - Jugdral Saga.gba b9521183
 529 - Julius's Revenge.gba 471de9a1
 475 - Justice & Pride Gaiden - Clash in Estria.gba d625827c
+1292 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation).gba 703c256b
+1293 - Justice & Pride Gaiden - Clash in Estria (Chinese Translation) (Animation Fixed).gba a6d0765b
 1247 - Justice and Pride (Special Content).gba b6236198
 1242 - Justice and Pride - Birth of Chaos.gba 51fbb301
 1201 - Justice and Pride - Book 2 (Chinese Translation).gba 7ab7c036
@@ -804,7 +813,7 @@
 680 - Tambo MAFC DD.gba c2d923fb
 566 - Temple of Ardesia.gba a67b7ea1
 430 - Terror of the Forest.gba 017b8028
-1208 - Terror of the Forest (Chinese Translation).gba c79d1f6a
+1208 - Terror of the Forest (Chinese Translation).gba af2d5749
 656 - The Akaneian Mafia.gba 33e27ba8
 1066 - The Ancient Swords.gba b584c2a1
 1095 - The Art of War.gba 50b1e0b3
@@ -896,6 +905,10 @@
 1125 - The Vanilla but not 100% vanilla blitz.gba 114e0666
 490 - The White Feather.gba 294c6150
 662 - There Is No Dialogue, Die.gba 06900b89
+1294 - Three Hour Blitz - A Winters Day.gba d6dacf1c
+1296 - Three Hour Blitz - Folia’s Cavalry.gba ab4f8e92
+1295 - Three Hour Blitz - Power of Persuasion.gba f1def8f3
+1297 - Three Hour Blitz - Three Uses.gba 3a5cb727
 1282 - Three Legacies.gba 1e62497c
 999 - THWD2 - The Heist We Deserve.gba 73ac3ff9
 987 - Tierra Maldita.gba 00c1b500
@@ -959,13 +972,14 @@
 1215 - 东方苍神缘起周末.gba ec605746
 828 - 东方苍神缘起无印大神版.gba d0954d10
 829 - 东方苍神缘起无印平民版.gba 46b02c58
+1286 - 东方苍神缘起最终版END.gba 21091434
 850 - 东方苍神缘起残暑大神版.gba b23ea3b9
 849 - 东方苍神缘起残暑平民版.gba 5a02d5b4
 888 - 主角大联盟完结版.gba 5001696d
 1221 - 主角大联盟新生版.gba fd7f7a7d
 889 - 主角大联盟超高难度.gba 0975e53d
 1210 - 佣兵公司 (Chinese Translation).gba a44472ee
-886 - 僵尸道长.gba 7e731649
+886 - 僵尸道长.gba 92a5e91b
 1227 - 兄妹的情谊.gba 48c985fa
 1230 - 光明VS黑暗.gba 249e9794
 874 - 光明的救赎.gba 8321f5d3
@@ -1060,7 +1074,7 @@
 974 - 帝·鲁尼之剑.gba cd07df67
 879 - 帝国除魔战争.gba 73981433
 884 - 幸运的七色花.gba 4d7d2fae
-833 - 幻想烈火传.gba ba06eeed
+833 - 幻想烈火传.gba 641a6f00
 811 - 幽影华尔兹.gba c37960cd
 881 - 异界旅者.gba 5b1de0b8
 905 - 强大的女皇.gba 4b4086ff
@@ -1144,6 +1158,7 @@
 904 - 神魂之绯石.gba 8c2a8d70
 898 - 秩序之剑.gba 1dc6ffb7
 835 - 童子军.gba 5831a5cc
+1285 - 第一次魔物战争.gba 3820d0d5
 784 - 第二梦.gba 1ada9fe3
 834 - 粗鄙的我.gba 3f5c8fc7
 901 - 红月Z.gba b5729868
@@ -1165,7 +1180,7 @@
 920 - 苍月传重置版.gba f33463e7
 869 - 苍炎乱入版.gba dc7bbd0c
 848 - 苍炎的勇者.gba a682ec6a
-857 - 英雄世界.gba e889fa3a
+857 - 英雄世界.gba f726f874
 887 - 英雄的挑战.gba 8241e45e
 807 - 英雄的黎明ED-Ver8黎明盡頭（A）.gba f69edfe4
 808 - 英雄的黎明ED-Ver8黎明盡頭（J）.gba 8db1cda1
@@ -1201,6 +1216,7 @@
 750 - 风恋夕林版逆封印之剑.gba efcb0299
 926 - 鬼鬼专属.gba 307fb47e
 883 - 魔之暗.gba 48e54442
+1287 - 魔剑镇魂曲.gba 71a221a7
 737 - 魔幻封神.gba ee865884
 980 - 魔物变态版.gba 2865e7d9
 971 - 魔物狩猎者.gba e26f95c8

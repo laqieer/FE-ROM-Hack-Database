@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220823</version>
+		<version>20220824</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -4490,6 +4490,11 @@
 		<publisher>Blitz</publisher>
 		<rom name="1297 - Three Hour Blitz - Three Uses" size="16915304" crc="3a5cb727" />
 	</machine>
+	<machine name="Three Hour Blitz - Yuuka Kazami's Bad Day">
+		<comment>https://feuniverse.us/t/three-hour-blitz/16670/8</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1302 - Three Hour Blitz - Yuuka Kazami's Bad Day" size="16888332" crc="abee6854" />
+	</machine>
 	<machine name="Three Legacies">
 		<comment>https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209</comment>
 		<publisher>Fan Modding</publisher>
@@ -5267,6 +5272,10 @@
 		<comment>最终调整版本</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="1228 - 挑战1" size="17852420" crc="e0d11130" />
+	</machine>
+	<machine name="挑战">
+		<publisher>Fan Modding</publisher>
+		<rom name="1301 - 挑战" size="19769536" crc="9bc43baf" />
 	</machine>
 	<machine name="放开那个魔王">
 		<comment>1-12章测试版</comment>

@@ -1,7 +1,7 @@
 DOSCenter (
 	Name: laqieer - Fire Emblem - Game Boy Advance
 	Description: Fire Emblem ROM hacks
-	Version: 20220823
+	Version: 20220824
 	Date: 
 	Author: laqieer
 	Homepage: https://github.com/laqieer/FE-ROM-Hack-Database
@@ -1890,7 +1890,7 @@ game (
 )
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle].zip"
-	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1.1 size 8587268 crc c5ccd529 )
+	file ( name 29 - Fire Emblem - The Binding Blade (English Localization v1 size 8587268 crc c5ccd529 )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme.zip"
@@ -2458,7 +2458,7 @@ game (
 )
 game (
 	name "M. E. R. C. S..zip"
-	file ( name 467 - M. E. R. C. S size 18427704 crc 048eb1b6 )
+	file ( name 467 - M. E. R. C size 18427704 crc 048eb1b6 )
 )
 game (
 	name "MageKnight404's FE7 Hack.zip"
@@ -2774,7 +2774,7 @@ game (
 )
 game (
 	name "Project Sacred Stones v.0.2.5.1.zip"
-	file ( name 1106 - Project Sacred Stones v.0.2.5 size 17044860 crc a9d395a4 )
+	file ( name 1106 - Project Sacred Stones v.0.2 size 17044860 crc a9d395a4 )
 )
 game (
 	name "Prophecy of Flames.zip"
@@ -3649,6 +3649,10 @@ game (
 	file ( name 1297 - Three Hour Blitz - Three Uses size 16915304 crc 3a5cb727 )
 )
 game (
+	name "Three Hour Blitz - Yuuka Kazami's Bad Day.zip"
+	file ( name 1302 - Three Hour Blitz - Yuuka Kazami's Bad Day size 16888332 crc abee6854 )
+)
+game (
 	name "Three Legacies.zip"
 	file ( name 1282 - Three Legacies size 21129612 crc 1e62497c )
 )
@@ -4331,6 +4335,10 @@ game (
 game (
 	name "挑战1.zip"
 	file ( name 1228 - 挑战1 size 17852420 crc e0d11130 )
+)
+game (
+	name "挑战.zip"
+	file ( name 1301 - 挑战 size 19769536 crc 9bc43baf )
 )
 game (
 	name "放开那个魔王.zip"

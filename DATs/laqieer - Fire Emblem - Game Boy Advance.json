@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220823",
+		"version": "20220824",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -16495,6 +16495,24 @@
 		},
 		{
 			"machine": {
+				"name": "Three Hour Blitz - Yuuka Kazami's Bad Day",
+				"comment": "https://feuniverse.us/t/three-hour-blitz/16670/8",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1302 - Three Hour Blitz - Yuuka Kazami's Bad Day",
+						"size": 16888332,
+						"crc": "abee6854"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Three Legacies",
 				"comment": "https://feuniverse.us/t/fire-emblem-three-legacies-wip-21-chapters-plus-some-gaidens-complete-so-far/17209",
 				"description": null,
@@ -19567,6 +19585,24 @@
 						"name": "1228 - 挑战1",
 						"size": 17852420,
 						"crc": "e0d11130"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "挑战",
+				"comment": "",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1301 - 挑战",
+						"size": 19769536,
+						"crc": "9bc43baf"
 					}
 				}
 			]

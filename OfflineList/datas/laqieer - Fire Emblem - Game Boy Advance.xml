@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220823</datVersion>
+    <datVersion>20220824</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -22195,6 +22195,42 @@
       <im1CRC>9CCE9F14</im1CRC>
       <im2CRC>3828CE6C</im2CRC>
       <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1301</imageNumber>
+      <releaseNumber>1301</releaseNumber>
+      <title>挑战</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>19769536</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>LinEir</sourceRom>
+      <language>4</language>
+      <files>
+        <romCRC extension=".gba">9BC43BAF</romCRC>
+      </files>
+      <im1CRC>346358A2</im1CRC>
+      <im2CRC>8D1CC837</im2CRC>
+      <comment></comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1302</imageNumber>
+      <releaseNumber>1302</releaseNumber>
+      <title>Three Hour Blitz - Yuuka Kazami's Bad Day</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16888332</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>SirNicee</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">ABEE6854</romCRC>
+      </files>
+      <im1CRC>B65A3ACE</im1CRC>
+      <im2CRC>A294807E</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz/16670/8</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

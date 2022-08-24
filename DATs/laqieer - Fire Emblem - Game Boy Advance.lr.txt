@@ -3639,6 +3639,10 @@ ROMs required for driver "Three Hour Blitz - Three Uses".
 Name                                   Size Checksum
 1297 - Three Hour Blitz - Three Uses16915304 CRC(3a5cb727)
 
+ROMs required for driver "Three Hour Blitz - Yuuka Kazami's Bad Day".
+Name                                   Size Checksum
+1302 - Three Hour Blitz - Yuuka Kazami's Bad Day          16888332 CRC(abee6854)
+
 ROMs required for driver "Three Legacies".
 Name                                   Size Checksum
 1282 - Three Legacies              21129612 CRC(1e62497c)
@@ -4322,6 +4326,10 @@ Name                                   Size Checksum
 ROMs required for driver "挑战1".
 Name                                   Size Checksum
 1228 - 挑战1                         17852420 CRC(e0d11130)
+
+ROMs required for driver "挑战".
+Name                                   Size Checksum
+1301 - 挑战                          19769536 CRC(9bc43baf)
 
 ROMs required for driver "放开那个魔王".
 Name                                   Size Checksum

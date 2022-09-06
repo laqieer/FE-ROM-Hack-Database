@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220824</datVersion>
+    <datVersion>20220906</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -21284,17 +21284,17 @@
       <releaseNumber>1250</releaseNumber>
       <title>FE7 Mangs Patch</title>
       <saveType>Sram_F_v102</saveType>
-      <romSize>16965528</romSize>
+      <romSize>16968448</romSize>
       <publisher>Reskin/Rebalance</publisher>
       <location>1</location>
       <sourceRom>Mangs</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">12A86CAE</romCRC>
+        <romCRC extension=".gba">5951BA44</romCRC>
       </files>
       <im1CRC>F150C1F1</im1CRC>
       <im2CRC>E6CB9E45</im2CRC>
-      <comment>Lyn duplicate bug fixed</comment>
+      <comment>Cog of Destiny softlock bug fixed</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -22231,6 +22231,42 @@
       <im1CRC>B65A3ACE</im1CRC>
       <im2CRC>A294807E</im2CRC>
       <comment>https://feuniverse.us/t/three-hour-blitz/16670/8</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1303</imageNumber>
+      <releaseNumber>1303</releaseNumber>
+      <title>The King's Last Wish</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>21584308</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>1</location>
+      <sourceRom>Jack_G</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">4BB5E1EC</romCRC>
+      </files>
+      <im1CRC>267C503C</im1CRC>
+      <im2CRC>B31F1C4E</im2CRC>
+      <comment>https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1304</imageNumber>
+      <releaseNumber>1304</releaseNumber>
+      <title>Evening Train Crash II - Limerick Prison Break</title>
+      <saveType>Sram_F_v103</saveType>
+      <romSize>16777216</romSize>
+      <publisher>Blitz</publisher>
+      <location>1</location>
+      <sourceRom>Darrman</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">D2D3F4CD</romCRC>
+      </files>
+      <im1CRC>44FD86CE</im1CRC>
+      <im2CRC>73BDD3FC</im2CRC>
+      <comment>https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

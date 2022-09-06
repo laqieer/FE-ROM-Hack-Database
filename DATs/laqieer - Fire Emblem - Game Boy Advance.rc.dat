@@ -1,6 +1,6 @@
 [CREDITS]
 author=laqieer
-version=20220824
+version=20220906
 comment=https://github.com/laqieer/FE-ROM-Hack-Database
 [DAT]
 version=2.50
@@ -182,6 +182,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬Ether's FE8 Reskin¬Ether's FE8 Reskin¬1083 - Ether's FE8 Reskin¬20f71449¬24660352¬¬¬
 ¬¬¬Ethereal Light¬Ethereal Light¬580 - Ethereal Light¬a2e2fa4e¬18860184¬¬¬
 ¬¬¬Evening Train Crash¬Evening Train Crash¬1212 - Evening Train Crash¬b7230cc6¬16777216¬¬¬
+¬¬¬Evening Train Crash II - Limerick Prison Break¬Evening Train Crash II - Limerick Prison Break¬1304 - Evening Train Crash II - Limerick Prison Break¬d2d3f4cd¬16777216¬¬¬
 ¬¬¬Exalted Legacy¬Exalted Legacy¬773 - Exalted Legacy¬02bc5b08¬18772600¬¬¬
 ¬¬¬Extinguished Blade¬Extinguished Blade¬288 - Extinguished Blade¬5a32401b¬16777216¬¬¬
 ¬¬¬Faith and Blood¬Faith and Blood¬442 - Faith and Blood¬e9be2065¬20661300¬¬¬
@@ -295,7 +296,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬FE7 Lyn Hard Mode Redux¬FE7 Lyn Hard Mode Redux¬628 - FE7 Lyn Hard Mode Redux¬c0514f76¬16829232¬¬¬
 ¬¬¬FE7 Lyn Hard Mode Redux JP¬FE7 Lyn Hard Mode Redux JP¬629 - FE7 Lyn Hard Mode Redux JP¬5344ef57¬16823200¬¬¬
 ¬¬¬FE7 Lynatic Mode¬FE7 Lynatic Mode¬1098 - FE7 Lynatic Mode¬e1d0ad8e¬18030364¬¬¬
-¬¬¬FE7 Mangs Patch¬FE7 Mangs Patch¬1250 - FE7 Mangs Patch¬12a86cae¬16965528¬¬¬
+¬¬¬FE7 Mangs Patch¬FE7 Mangs Patch¬1250 - FE7 Mangs Patch¬5951ba44¬16968448¬¬¬
 ¬¬¬FE7 Mangs Patch (Refurbished)¬FE7 Mangs Patch (Refurbished)¬1300 - FE7 Mangs Patch (Refurbished)¬6420a521¬24307756¬¬¬
 ¬¬¬FE7 Plus [Enhancement Patch]¬FE7 Plus [Enhancement Patch]¬1024 - FE7 Plus [Enhancement Patch]¬c53315e2¬16798616¬¬¬
 ¬¬¬FE7 Plus [Enhancement Patch] (Fixed)¬FE7 Plus [Enhancement Patch] (Fixed)¬1026 - FE7 Plus [Enhancement Patch] (Fixed)¬f6a18cb2¬16798708¬¬¬
@@ -867,6 +868,7 @@ version=Fire Emblem ROM hacks
 ¬¬¬The Four Kings (Chinese Translation)¬The Four Kings (Chinese Translation)¬1203 - The Four Kings (Chinese Translation)¬6bd7582f¬29587472¬¬¬
 ¬¬¬The Four Kings (Reverse Recruitment)¬The Four Kings (Reverse Recruitment)¬207 - The Four Kings (Reverse Recruitment)¬34e1170d¬28852468¬¬¬
 ¬¬¬The Golden Kingdom¬The Golden Kingdom¬441 - The Golden Kingdom¬78f00579¬20092192¬¬¬
+¬¬¬The King's Last Wish¬The King's Last Wish¬1303 - The King's Last Wish¬4bb5e1ec¬21584308¬¬¬
 ¬¬¬The Last Promise¬The Last Promise¬103 - The Last Promise¬d1c6e5d5¬32505856¬¬¬
 ¬¬¬The Last Promise 4 - Revenge of the Promise¬The Last Promise 4 - Revenge of the Promise¬1113 - The Last Promise 4 - Revenge of the Promise¬c1a2d2ba¬17639132¬¬¬
 ¬¬¬The Last Promise (Chaos Mode DEMO)¬The Last Promise (Chaos Mode DEMO)¬105 - The Last Promise (Chaos Mode DEMO)¬365cf432¬32446048¬¬¬

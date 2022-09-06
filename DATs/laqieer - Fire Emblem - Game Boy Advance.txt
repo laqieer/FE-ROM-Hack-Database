@@ -170,6 +170,7 @@ Eternal Winter;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;htt
 Ether's FE8 Reskin;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-8-reskin/12150;
 Ethereal Light;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-ethereal-light-8-32-chapters/10828;
 Evening Train Crash;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/nightfall-48-hour-hack-jam/15870/20;
+Evening Train Crash II - Limerick Prison Break;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9;
 Exalted Legacy;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-exalted-legacy/183;
 Extinguished Blade;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://forums.serenesforest.net/index.php?/topic/79012-fire-emblem-the-extinguished-blade/;
 Faith and Blood;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-faith-and-blood-part-i-complete/4501;
@@ -283,7 +284,7 @@ FE7 Lute Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http
 FE7 Lyn Hard Mode Redux;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912;
 FE7 Lyn Hard Mode Redux JP;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-complete-fire-emblem-7-lyn-hard-mode-redux-v1-1-updated-2-7-22/14912;
 FE7 Lynatic Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-wip-lynatic-mode-a-difficulty-rebalance-of-lyn-hard-mode/10891;
-FE7 Mangs Patch;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;Lyn duplicate bug fixed;
+FE7 Mangs Patch;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;Cog of Destiny softlock bug fixed;
 FE7 Mangs Patch (Refurbished);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
 FE7 Plus [Enhancement Patch];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603;
 FE7 Plus [Enhancement Patch] (Fixed);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603;
@@ -855,6 +856,7 @@ The Four Kings (0% Growths);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;
 The Four Kings (Chinese Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;道具技能汉化;
 The Four Kings (Reverse Recruitment);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-complete-fire-emblem-the-four-kings-11-4-21-update-bugfix/7030;
 The Golden Kingdom;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-the-golden-kingdom/4376;
+The King's Last Wish;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318;
 The Last Promise;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.feshrine.net/thelastpromise/;
 The Last Promise 4 - Revenge of the Promise;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/the-last-promise-4-revenge-of-the-promise/15599;
 The Last Promise (Chaos Mode DEMO);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.feshrine.net/thelastpromise/;

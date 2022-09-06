@@ -1369,6 +1369,14 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="Evening Train Crash II - Limerick Prison Break">
+		<publisher>Blitz</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1304 - Evening Train Crash II - Limerick Prison Break" size="16777216" crc="d2d3f4cd" />
+			</dataarea>
+		</part>
+	</software>
 	<software name="Exalted Legacy">
 		<publisher>Fan Modding</publisher>
 		<part name="" interface="">
@@ -2274,7 +2282,7 @@
 		<publisher>Reskin/Rebalance</publisher>
 		<part name="" interface="">
 			<dataarea name="rom">
-				<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+				<rom name="1250 - FE7 Mangs Patch" size="16968448" crc="5951ba44" />
 			</dataarea>
 		</part>
 	</software>
@@ -6843,6 +6851,14 @@
 		<part name="" interface="">
 			<dataarea name="rom">
 				<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+			</dataarea>
+		</part>
+	</software>
+	<software name="The King's Last Wish">
+		<publisher>Fan Modding</publisher>
+		<part name="" interface="">
+			<dataarea name="rom">
+				<rom name="1303 - The King's Last Wish" size="21584308" crc="4bb5e1ec" />
 			</dataarea>
 		</part>
 	</software>

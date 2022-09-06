@@ -682,6 +682,10 @@ ROMs required for driver "Evening Train Crash".
 Name                                   Size Checksum
 1212 - Evening Train Crash         16777216 CRC(b7230cc6)
 
+ROMs required for driver "Evening Train Crash II - Limerick Prison Break".
+Name                                   Size Checksum
+1304 - Evening Train Crash II - Limerick Prison Break          16777216 CRC(d2d3f4cd)
+
 ROMs required for driver "Exalted Legacy".
 Name                                   Size Checksum
 773 - Exalted Legacy               18772600 CRC(02bc5b08)
@@ -1133,7 +1137,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "FE7 Mangs Patch".
 Name                                   Size Checksum
-1250 - FE7 Mangs Patch             16965528 CRC(12a86cae)
+1250 - FE7 Mangs Patch             16968448 CRC(5951ba44)
 
 ROMs required for driver "FE7 Mangs Patch (Refurbished)".
 Name                                   Size Checksum
@@ -2449,7 +2453,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M                            18427704 CRC(048eb1b6)
+467 - M. E                         18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -3418,6 +3422,10 @@ Name                                   Size Checksum
 ROMs required for driver "The Golden Kingdom".
 Name                                   Size Checksum
 441 - The Golden Kingdom           20092192 CRC(78f00579)
+
+ROMs required for driver "The King's Last Wish".
+Name                                   Size Checksum
+1303 - The King's Last Wish        21584308 CRC(4bb5e1ec)
 
 ROMs required for driver "The Last Promise".
 Name                                   Size Checksum

@@ -513,6 +513,9 @@
 	<machine name="Evening Train Crash">
 		<rom name="1212 - Evening Train Crash" size="16777216" crc="b7230cc6" />
 	</machine>
+	<machine name="Evening Train Crash II - Limerick Prison Break">
+		<rom name="1304 - Evening Train Crash II - Limerick Prison Break" size="16777216" crc="d2d3f4cd" />
+	</machine>
 	<machine name="Exalted Legacy">
 		<rom name="773 - Exalted Legacy" size="18772600" crc="02bc5b08" />
 	</machine>
@@ -851,7 +854,7 @@
 		<rom name="1098 - FE7 Lynatic Mode" size="18030364" crc="e1d0ad8e" />
 	</machine>
 	<machine name="FE7 Mangs Patch">
-		<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+		<rom name="1250 - FE7 Mangs Patch" size="16968448" crc="5951ba44" />
 	</machine>
 	<machine name="FE7 Mangs Patch (Refurbished)">
 		<rom name="1300 - FE7 Mangs Patch (Refurbished)" size="24307756" crc="6420a521" />
@@ -2565,6 +2568,9 @@
 	</machine>
 	<machine name="The Golden Kingdom">
 		<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+	</machine>
+	<machine name="The King's Last Wish">
+		<rom name="1303 - The King's Last Wish" size="21584308" crc="4bb5e1ec" />
 	</machine>
 	<machine name="The Last Promise">
 		<rom name="103 - The Last Promise" size="32505856" crc="d1c6e5d5" />

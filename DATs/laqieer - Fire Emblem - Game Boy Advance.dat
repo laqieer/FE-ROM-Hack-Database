@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220824"
+	version "20220906"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -865,6 +865,11 @@ game (
 	rom ( name "1212 - Evening Train Crash" size "16777216" crc "b7230cc6" )
 )
 game (
+	name "Evening Train Crash II - Limerick Prison Break"
+	description "Evening Train Crash II - Limerick Prison Break"
+	rom ( name "1304 - Evening Train Crash II - Limerick Prison Break" size "16777216" crc "d2d3f4cd" )
+)
+game (
 	name "Exalted Legacy"
 	description "Exalted Legacy"
 	rom ( name "773 - Exalted Legacy" size "18772600" crc "02bc5b08" )
@@ -1428,7 +1433,7 @@ game (
 game (
 	name "FE7 Mangs Patch"
 	description "FE7 Mangs Patch"
-	rom ( name "1250 - FE7 Mangs Patch" size "16965528" crc "12a86cae" )
+	rom ( name "1250 - FE7 Mangs Patch" size "16968448" crc "5951ba44" )
 )
 game (
 	name "FE7 Mangs Patch (Refurbished)"
@@ -3073,7 +3078,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3468,7 +3473,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"
@@ -4284,6 +4289,11 @@ game (
 	name "The Golden Kingdom"
 	description "The Golden Kingdom"
 	rom ( name "441 - The Golden Kingdom" size "20092192" crc "78f00579" )
+)
+game (
+	name "The King's Last Wish"
+	description "The King's Last Wish"
+	rom ( name "1303 - The King's Last Wish" size "21584308" crc "4bb5e1ec" )
 )
 game (
 	name "The Last Promise"

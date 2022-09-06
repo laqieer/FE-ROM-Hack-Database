@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220824",
+		"version": "20220906",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -3185,6 +3185,24 @@
 		},
 		{
 			"machine": {
+				"name": "Evening Train Crash II - Limerick Prison Break",
+				"comment": "https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9",
+				"description": null,
+				"publisher": "Blitz"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1304 - Evening Train Crash II - Limerick Prison Break",
+						"size": 16777216,
+						"crc": "d2d3f4cd"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
 				"name": "Exalted Legacy",
 				"comment": "https://feuniverse.us/t/fire-emblem-exalted-legacy/183",
 				"description": null,
@@ -5210,7 +5228,7 @@
 		{
 			"machine": {
 				"name": "FE7 Mangs Patch",
-				"comment": "Lyn duplicate bug fixed",
+				"comment": "Cog of Destiny softlock bug fixed",
 				"description": null,
 				"publisher": "Reskin/Rebalance"
 			},
@@ -5219,8 +5237,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "1250 - FE7 Mangs Patch",
-						"size": 16965528,
-						"crc": "12a86cae"
+						"size": 16968448,
+						"crc": "5951ba44"
 					}
 				}
 			]
@@ -15499,6 +15517,24 @@
 						"name": "441 - The Golden Kingdom",
 						"size": 20092192,
 						"crc": "78f00579"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "The King's Last Wish",
+				"comment": "https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318",
+				"description": null,
+				"publisher": "Fan Modding"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1303 - The King's Last Wish",
+						"size": 21584308,
+						"crc": "4bb5e1ec"
 					}
 				}
 			]

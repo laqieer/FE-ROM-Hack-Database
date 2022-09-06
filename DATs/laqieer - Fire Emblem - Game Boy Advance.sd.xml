@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220824</version>
+		<version>20220906</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -2669,6 +2669,21 @@
 		</directory>
 		<directory>
 			<machine>
+				<name>Evening Train Crash II - Limerick Prison Break</name>
+				<comment>https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9</comment>
+				<publisher>Blitz</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1304 - Evening Train Crash II - Limerick Prison Break</name>
+					<size>16777216</size>
+					<crc>d2d3f4cd</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
 				<name>Exalted Legacy</name>
 				<comment>https://feuniverse.us/t/fire-emblem-exalted-legacy/183</comment>
 				<publisher>Fan Modding</publisher>
@@ -4356,15 +4371,15 @@
 		<directory>
 			<machine>
 				<name>FE7 Mangs Patch</name>
-				<comment>Lyn duplicate bug fixed</comment>
+				<comment>Cog of Destiny softlock bug fixed</comment>
 				<publisher>Reskin/Rebalance</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>1250 - FE7 Mangs Patch</name>
-					<size>16965528</size>
-					<crc>12a86cae</crc>
+					<size>16968448</size>
+					<crc>5951ba44</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12930,6 +12945,21 @@
 					<name>441 - The Golden Kingdom</name>
 					<size>20092192</size>
 					<crc>78f00579</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>The King's Last Wish</name>
+				<comment>https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1303 - The King's Last Wish</name>
+					<size>21584308</size>
+					<crc>4bb5e1ec</crc>
 				</datitem>
 			</files>
 		</directory>

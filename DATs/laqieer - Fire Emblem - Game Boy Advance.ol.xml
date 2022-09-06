@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1233</datVersion>
+		<datVersion>1235</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -3131,6 +3131,24 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1</releaseNumber>
+			<title>1304 - Evening Train Crash II - Limerick Prison Break</title>
+			<saveType>None</saveType>
+			<romSize>16777216</romSize>
+			<publisher>Blitz</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">D2D3F4CD</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
 			<title>773 - Exalted Legacy</title>
 			<saveType>None</saveType>
 			<romSize>18772600</romSize>
@@ -5182,17 +5200,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>1250 - FE7 Mangs Patch</title>
 			<saveType>None</saveType>
-			<romSize>16965528</romSize>
+			<romSize>16968448</romSize>
 			<publisher>Reskin/Rebalance</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">12A86CAE</romCRC>
+				<romCRC extension=".">5951BA44</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>Lyn duplicate bug fixed</comment>
+			<comment>Cog of Destiny softlock bug fixed</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -15521,6 +15539,24 @@
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
 			<comment>https://feuniverse.us/t/fe8-fire-emblem-the-golden-kingdom/4376</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1303 - The King's Last Wish</title>
+			<saveType>None</saveType>
+			<romSize>21584308</romSize>
+			<publisher>Fan Modding</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">4BB5E1EC</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220824</version>
+		<version>20220906</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -859,6 +859,11 @@
 		<publisher>Jam</publisher>
 		<rom name="1212 - Evening Train Crash" size="16777216" crc="b7230cc6" />
 	</machine>
+	<machine name="Evening Train Crash II - Limerick Prison Break">
+		<comment>https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9</comment>
+		<publisher>Blitz</publisher>
+		<rom name="1304 - Evening Train Crash II - Limerick Prison Break" size="16777216" crc="d2d3f4cd" />
+	</machine>
 	<machine name="Exalted Legacy">
 		<comment>https://feuniverse.us/t/fire-emblem-exalted-legacy/183</comment>
 		<publisher>Fan Modding</publisher>
@@ -1407,9 +1412,9 @@
 		<rom name="1098 - FE7 Lynatic Mode" size="18030364" crc="e1d0ad8e" />
 	</machine>
 	<machine name="FE7 Mangs Patch">
-		<comment>Lyn duplicate bug fixed</comment>
+		<comment>Cog of Destiny softlock bug fixed</comment>
 		<publisher>Reskin/Rebalance</publisher>
-		<rom name="1250 - FE7 Mangs Patch" size="16965528" crc="12a86cae" />
+		<rom name="1250 - FE7 Mangs Patch" size="16968448" crc="5951ba44" />
 	</machine>
 	<machine name="FE7 Mangs Patch (Refurbished)">
 		<publisher>Reskin/Rebalance</publisher>
@@ -4215,6 +4220,11 @@
 		<comment>https://feuniverse.us/t/fe8-fire-emblem-the-golden-kingdom/4376</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="441 - The Golden Kingdom" size="20092192" crc="78f00579" />
+	</machine>
+	<machine name="The King's Last Wish">
+		<comment>https://feuniverse.us/t/complete-fe8-fire-emblem-the-kings-last-wish/17318</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1303 - The King's Last Wish" size="21584308" crc="4bb5e1ec" />
 	</machine>
 	<machine name="The Last Promise">
 		<comment>http://www.feshrine.net/thelastpromise/</comment>

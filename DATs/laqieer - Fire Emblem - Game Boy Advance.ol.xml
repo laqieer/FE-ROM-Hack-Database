@@ -2,7 +2,7 @@
 <dat d1p1:xsi="http://www.w3.org/2001/XMLSchema-instance" d1p2:noNamespaceSchemaLocation="datas.xsd" xmlns:d1p2="xsi" xmlns:d1p1="xmlns">
 	<configuration>
 		<datName>laqieer - Fire Emblem - Game Boy Advance</datName>
-		<datVersion>1235</datVersion>
+		<datVersion>1236</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>240</screenshotsWidth>
 		<screenshotsHeight>160</screenshotsHeight>
@@ -5230,6 +5230,24 @@
 			<im2CRC>00000000</im2CRC>
 			<comment>
 			</comment>
+			<duplicateID></duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1</releaseNumber>
+			<title>1305 - FE7 No Redundancy Edition</title>
+			<saveType>None</saveType>
+			<romSize>18979596</romSize>
+			<publisher>Reskin/Rebalance</publisher>
+			<location>0</location>
+			<sourceRom>None</sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".">A73899FB</romCRC>
+			</files>
+			<im1CRC>00000000</im1CRC>
+			<im2CRC>00000000</im2CRC>
+			<comment>https://feuniverse.us/t/fe7-no-redundancy-edition/17431</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>
@@ -14769,17 +14787,17 @@
 			<releaseNumber>1</releaseNumber>
 			<title>566 - Temple of Ardesia</title>
 			<saveType>None</saveType>
-			<romSize>23414536</romSize>
+			<romSize>26119548</romSize>
 			<publisher>Fan Modding</publisher>
 			<location>0</location>
 			<sourceRom>None</sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".">A67B7EA1</romCRC>
+				<romCRC extension=".">D2BAA0C1</romCRC>
 			</files>
 			<im1CRC>00000000</im1CRC>
 			<im2CRC>00000000</im2CRC>
-			<comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246</comment>
+			<comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia-30-chapters-completed/14246</comment>
 			<duplicateID></duplicateID>
 		</game>
 		<game>

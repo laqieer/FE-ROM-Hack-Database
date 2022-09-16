@@ -285,6 +285,7 @@
 	FE7 Lynatic Mode/1098 - FE7 Lynatic Mode			e1d0ad8e	18030364
 	FE7 Mangs Patch/1250 - FE7 Mangs Patch			5951ba44	16968448
 	FE7 Mangs Patch (Refurbished)/1300 - FE7 Mangs Patch (Refurbished)			6420a521	24307756
+	FE7 No Redundancy Edition/1305 - FE7 No Redundancy Edition			a73899fb	18979596
 	FE7 Plus [Enhancement Patch]/1024 - FE7 Plus [Enhancement Patch]			c53315e2	16798616
 	FE7 Plus [Enhancement Patch] (Fixed)/1026 - FE7 Plus [Enhancement Patch] (Fixed)			f6a18cb2	16798708
 	FE7 Plus [Enhancement Patch] (JP + Fixed)/1027 - FE7 Plus [Enhancement Patch] (JP + Fixed)			8ddba2f9	16801012
@@ -812,7 +813,7 @@
 	Tales of the Emblem/383 - Tales of the Emblem			960d475e	16866208
 	Tales of the Golden Knight/422 - Tales of the Golden Knight			883a1ac6	27862300
 	Tambo MAFC DD/680 - Tambo MAFC DD			c2d923fb	18445776
-	Temple of Ardesia/566 - Temple of Ardesia			a67b7ea1	23414536
+	Temple of Ardesia/566 - Temple of Ardesia			d2baa0c1	26119548
 	Terror of the Forest/430 - Terror of the Forest			017b8028	27044204
 	Terror of the Forest (Chinese Translation)/1208 - Terror of the Forest (Chinese Translation)			af2d5749	28588084
 	The Akaneian Mafia/656 - The Akaneian Mafia			33e27ba8	16777216

@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220906"
+	version "20220916"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -1441,6 +1441,11 @@ game (
 	rom ( name "1300 - FE7 Mangs Patch (Refurbished)" size "24307756" crc "6420a521" )
 )
 game (
+	name "FE7 No Redundancy Edition"
+	description "FE7 No Redundancy Edition"
+	rom ( name "1305 - FE7 No Redundancy Edition" size "18979596" crc "a73899fb" )
+)
+game (
 	name "FE7 Plus [Enhancement Patch]"
 	description "FE7 Plus [Enhancement Patch]"
 	rom ( name "1024 - FE7 Plus [Enhancement Patch]" size "16798616" crc "c53315e2" )
@@ -2368,7 +2373,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -4078,7 +4083,7 @@ game (
 game (
 	name "Temple of Ardesia"
 	description "Temple of Ardesia"
-	rom ( name "566 - Temple of Ardesia" size "23414536" crc "a67b7ea1" )
+	rom ( name "566 - Temple of Ardesia" size "26119548" crc "d2baa0c1" )
 )
 game (
 	name "Terror of the Forest"

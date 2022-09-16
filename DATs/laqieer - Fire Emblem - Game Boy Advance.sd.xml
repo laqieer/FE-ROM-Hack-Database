@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220906</version>
+		<version>20220916</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -4395,6 +4395,21 @@
 					<name>1300 - FE7 Mangs Patch (Refurbished)</name>
 					<size>24307756</size>
 					<crc>6420a521</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FE7 No Redundancy Edition</name>
+				<comment>https://feuniverse.us/t/fe7-no-redundancy-edition/17431</comment>
+				<publisher>Reskin/Rebalance</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1305 - FE7 No Redundancy Edition</name>
+					<size>18979596</size>
+					<crc>a73899fb</crc>
 				</datitem>
 			</files>
 		</directory>
@@ -12306,15 +12321,15 @@
 		<directory>
 			<machine>
 				<name>Temple of Ardesia</name>
-				<comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246</comment>
+				<comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia-30-chapters-completed/14246</comment>
 				<publisher>Fan Modding</publisher>
 			</machine>
 			<files>
 				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
 					<itemtype>Rom</itemtype>
 					<name>566 - Temple of Ardesia</name>
-					<size>23414536</size>
-					<crc>a67b7ea1</crc>
+					<size>26119548</size>
+					<crc>d2baa0c1</crc>
 				</datitem>
 			</files>
 		</directory>

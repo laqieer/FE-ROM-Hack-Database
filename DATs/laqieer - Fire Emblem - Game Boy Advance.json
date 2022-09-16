@@ -4,7 +4,7 @@
 		"name": "laqieer - Fire Emblem - Game Boy Advance",
 		"description": "Fire Emblem ROM hacks",
 		"category": "Game Boy Advance",
-		"version": "20220906",
+		"version": "20220916",
 		"author": "laqieer",
 		"email": "laqieer@126.com",
 		"homepage": "https://github.com/laqieer/FE-ROM-Hack-Database",
@@ -5257,6 +5257,24 @@
 						"name": "1300 - FE7 Mangs Patch (Refurbished)",
 						"size": 24307756,
 						"crc": "6420a521"
+					}
+				}
+			]
+		},
+		{
+			"machine": {
+				"name": "FE7 No Redundancy Edition",
+				"comment": "https://feuniverse.us/t/fe7-no-redundancy-edition/17431",
+				"description": null,
+				"publisher": "Reskin/Rebalance"
+			},
+			"items": [
+				{
+					"datitem": {
+						"itemtype": "Rom",
+						"name": "1305 - FE7 No Redundancy Edition",
+						"size": 18979596,
+						"crc": "a73899fb"
 					}
 				}
 			]
@@ -14750,7 +14768,7 @@
 		{
 			"machine": {
 				"name": "Temple of Ardesia",
-				"comment": "https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246",
+				"comment": "https://feuniverse.us/t/fire-emblem-temple-of-ardesia-30-chapters-completed/14246",
 				"description": null,
 				"publisher": "Fan Modding"
 			},
@@ -14759,8 +14777,8 @@
 					"datitem": {
 						"itemtype": "Rom",
 						"name": "566 - Temple of Ardesia",
-						"size": 23414536,
-						"crc": "a67b7ea1"
+						"size": 26119548,
+						"crc": "d2baa0c1"
 					}
 				}
 			]

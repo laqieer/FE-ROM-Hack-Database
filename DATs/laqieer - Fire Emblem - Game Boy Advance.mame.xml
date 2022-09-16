@@ -859,6 +859,9 @@
 	<machine name="FE7 Mangs Patch (Refurbished)">
 		<rom name="1300 - FE7 Mangs Patch (Refurbished)" size="24307756" crc="6420a521" />
 	</machine>
+	<machine name="FE7 No Redundancy Edition">
+		<rom name="1305 - FE7 No Redundancy Edition" size="18979596" crc="a73899fb" />
+	</machine>
 	<machine name="FE7 Plus [Enhancement Patch]">
 		<rom name="1024 - FE7 Plus [Enhancement Patch]" size="16798616" crc="c53315e2" />
 	</machine>
@@ -2441,7 +2444,7 @@
 		<rom name="680 - Tambo MAFC DD" size="18445776" crc="c2d923fb" />
 	</machine>
 	<machine name="Temple of Ardesia">
-		<rom name="566 - Temple of Ardesia" size="23414536" crc="a67b7ea1" />
+		<rom name="566 - Temple of Ardesia" size="26119548" crc="d2baa0c1" />
 	</machine>
 	<machine name="Terror of the Forest">
 		<rom name="430 - Terror of the Forest" size="27044204" crc="017b8028" />

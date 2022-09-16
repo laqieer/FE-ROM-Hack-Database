@@ -1143,6 +1143,10 @@ ROMs required for driver "FE7 Mangs Patch (Refurbished)".
 Name                                   Size Checksum
 1300 - FE7 Mangs Patch (Refurbished)24307756 CRC(6420a521)
 
+ROMs required for driver "FE7 No Redundancy Edition".
+Name                                   Size Checksum
+1305 - FE7 No Redundancy Edition   18979596 CRC(a73899fb)
+
 ROMs required for driver "FE7 Plus [Enhancement Patch]".
 Name                                   Size Checksum
 1024 - FE7 Plus [Enhancement Patch]16798616 CRC(c53315e2)
@@ -2453,7 +2457,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "M. E. R. C. S.".
 Name                                   Size Checksum
-467 - M. E                         18427704 CRC(048eb1b6)
+467 - M                            18427704 CRC(048eb1b6)
 
 ROMs required for driver "MageKnight404's FE7 Hack".
 Name                                   Size Checksum
@@ -3253,7 +3257,7 @@ Name                                   Size Checksum
 
 ROMs required for driver "Temple of Ardesia".
 Name                                   Size Checksum
-566 - Temple of Ardesia            23414536 CRC(a67b7ea1)
+566 - Temple of Ardesia            26119548 CRC(d2baa0c1)
 
 ROMs required for driver "Terror of the Forest".
 Name                                   Size Checksum

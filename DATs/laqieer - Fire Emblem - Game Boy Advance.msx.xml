@@ -3725,6 +3725,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FE7 No Redundancy Edition</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>FE7 Plus [Enhancement Patch]</title>
 		<genmsxid></genmsxid>
 		<system></system>

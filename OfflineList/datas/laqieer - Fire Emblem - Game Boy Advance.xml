@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220906</datVersion>
+    <datVersion>20220916</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -8972,17 +8972,17 @@
       <releaseNumber>566</releaseNumber>
       <title>Temple of Ardesia</title>
       <saveType>Sram_F_v103</saveType>
-      <romSize>23414536</romSize>
+      <romSize>26119548</romSize>
       <publisher>Fan Modding</publisher>
       <location>1</location>
       <sourceRom>FrecciaVerde</sourceRom>
       <language>2</language>
       <files>
-        <romCRC extension=".gba">A67B7EA1</romCRC>
+        <romCRC extension=".gba">D2BAA0C1</romCRC>
       </files>
       <im1CRC>22214133</im1CRC>
       <im2CRC>BE8190C5</im2CRC>
-      <comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246</comment>
+      <comment>https://feuniverse.us/t/fire-emblem-temple-of-ardesia-30-chapters-completed/14246</comment>
       <duplicateID>0</duplicateID>
     </game>
     <game>
@@ -22267,6 +22267,24 @@
       <im1CRC>44FD86CE</im1CRC>
       <im2CRC>73BDD3FC</im2CRC>
       <comment>https://feuniverse.us/t/three-hour-blitz-now-with-lp-videos/16670/9</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1305</imageNumber>
+      <releaseNumber>1305</releaseNumber>
+      <title>FE7 No Redundancy Edition</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>18979596</romSize>
+      <publisher>Reskin/Rebalance</publisher>
+      <location>1</location>
+      <sourceRom>DeDeSans</sourceRom>
+      <language>2</language>
+      <files>
+        <romCRC extension=".gba">A73899FB</romCRC>
+      </files>
+      <im1CRC>CAE7DBAF</im1CRC>
+      <im2CRC>BF78D305</im2CRC>
+      <comment>https://feuniverse.us/t/fe7-no-redundancy-edition/17431</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>

@@ -286,6 +286,7 @@ FE7 Lyn Hard Mode Redux JP;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;
 FE7 Lynatic Mode;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-wip-lynatic-mode-a-difficulty-rebalance-of-lyn-hard-mode/10891;
 FE7 Mangs Patch;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;Cog of Destiny softlock bug fixed;
 FE7 Mangs Patch (Refurbished);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;;
+FE7 No Redundancy Edition;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe7-no-redundancy-edition/17431;
 FE7 Plus [Enhancement Patch];;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603;
 FE7 Plus [Enhancement Patch] (Fixed);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603;
 FE7 Plus [Enhancement Patch] (JP + Fixed);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe6-fe7-fe8-plus-enhancement-patch/12603;
@@ -813,7 +814,7 @@ Tales of Bravery;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;h
 Tales of the Emblem;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;http://www.feshrine.net/hacking/patches/Tales%20of%20the%20Emblem.rar;
 Tales of the Golden Knight;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-fire-emblem-tales-of-the-golden-knights-update-version-0-1-for-fee3/4166;
 Tambo MAFC DD;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/make-a-fun-chapter-feu-it-again/5426/118;
-Temple of Ardesia;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-temple-of-ardesia/14246;
+Temple of Ardesia;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fire-emblem-temple-of-ardesia-30-chapters-completed/14246;
 Terror of the Forest;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/fe8-terror-of-the-forest-final-chapter-out/6003;
 Terror of the Forest (Chinese Translation);;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;完全汉化正式版;
 The Akaneian Mafia;;laqieer - Fire Emblem - Game Boy Advance.xml;;;;;;;;None;;;;;https://feuniverse.us/t/ghasts-make-a-fun-chapter-iv-submission-11-knabepicer/6816/75;

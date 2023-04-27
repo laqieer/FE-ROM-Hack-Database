@@ -26,9 +26,9 @@
       <extension>.gba</extension>
     </canOpen>
     <newDat>
-      <datVersionURL>http://github.laqieer.ml/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance%20-%20version.txt</datVersionURL>
-      <datURL fileName="laqieer - Fire Emblem - Game Boy Advance.xml">http://github.laqieer.ml/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance.xml</datURL>
-      <imURL>http://github.laqieer.ml/OfflineList/imgs/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance/</imURL>
+      <datVersionURL>http://laqieer.romhack-archive.org/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance%20-%20version.txt</datVersionURL>
+      <datURL fileName="laqieer - Fire Emblem - Game Boy Advance.xml">http://laqieer.romhack-archive.org/OfflineList/datas/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance.xml</datURL>
+      <imURL>http://laqieer.romhack-archive.org/OfflineList/imgs/laqieer%20-%20Fire%20Emblem%20-%20Game%20Boy%20Advance/</imURL>
     </newDat>
     <search>
       <to value="location" default="true" auto="true" />

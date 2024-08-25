@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220916</version>
+		<version>20240825</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -6210,6 +6210,21 @@
 					<name>577 - FEH2, GBA with GACHA mechanics</name>
 					<size>17487076</size>
 					<crc>bc5cc341</crc>
+				</datitem>
+			</files>
+		</directory>
+		<directory>
+			<machine>
+				<name>FEHRR</name>
+				<comment>https://github.com/laqieer/FEHRR</comment>
+				<publisher>Fan Modding</publisher>
+			</machine>
+			<files>
+				<datitem d5p1:type="Rom" xmlns:d5p1="http://www.w3.org/2001/XMLSchema-instance">
+					<itemtype>Rom</itemtype>
+					<name>1306 - FEHRR</name>
+					<size>33449508</size>
+					<crc>79711948</crc>
 				</datitem>
 			</files>
 		</directory>

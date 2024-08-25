@@ -5,7 +5,7 @@
 		<name>laqieer - Fire Emblem - Game Boy Advance</name>
 		<description>Fire Emblem ROM hacks</description>
 		<category>Game Boy Advance</category>
-		<version>20220916</version>
+		<version>20240825</version>
 		<author>laqieer</author>
 		<email>laqieer@126.com</email>
 		<homepage>https://github.com/laqieer/FE-ROM-Hack-Database</homepage>
@@ -2002,6 +2002,11 @@
 		<comment>https://feuniverse.us/t/fe8-feh2-gba-with-gacha-mechanics/15208</comment>
 		<publisher>Fan Modding</publisher>
 		<rom name="577 - FEH2, GBA with GACHA mechanics" size="17487076" crc="bc5cc341" />
+	</machine>
+	<machine name="FEHRR">
+		<comment>https://github.com/laqieer/FEHRR</comment>
+		<publisher>Fan Modding</publisher>
+		<rom name="1306 - FEHRR" size="33449508" crc="79711948" />
 	</machine>
 	<machine name="Ferrica - Project Kenko">
 		<comment>https://feuniverse.us/t/fire-emblem-ferrica-project-kenko/8814</comment>

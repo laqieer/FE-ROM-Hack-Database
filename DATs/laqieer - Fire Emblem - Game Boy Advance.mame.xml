@@ -1222,6 +1222,9 @@
 	<machine name="FEH2, GBA with GACHA mechanics">
 		<rom name="577 - FEH2, GBA with GACHA mechanics" size="17487076" crc="bc5cc341" />
 	</machine>
+	<machine name="FEHRR">
+		<rom name="1306 - FEHRR" size="33449508" crc="79711948" />
+	</machine>
 	<machine name="Ferrica - Project Kenko">
 		<rom name="478 - Ferrica - Project Kenko" size="23612392" crc="4124c732" />
 	</machine>

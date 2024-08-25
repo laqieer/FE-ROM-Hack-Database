@@ -5298,6 +5298,19 @@
 		</dump>
 	</software>
 	<software>
+		<title>FEHRR</title>
+		<genmsxid></genmsxid>
+		<system></system>
+		<company></company>
+		<year></year>
+		<country></country>
+		<dump>
+			<>
+				<hash></hash>
+			</>
+		</dump>
+	</software>
+	<software>
 		<title>Ferrica - Project Kenko</title>
 		<genmsxid></genmsxid>
 		<system></system>

@@ -1627,6 +1627,10 @@ ROMs required for driver "FEH2, GBA with GACHA mechanics".
 Name                                   Size Checksum
 577 - FEH2, GBA with GACHA mechanics17487076 CRC(bc5cc341)
 
+ROMs required for driver "FEHRR".
+Name                                   Size Checksum
+1306 - FEHRR                       33449508 CRC(79711948)
+
 ROMs required for driver "Ferrica - Project Kenko".
 Name                                   Size Checksum
 478 - Ferrica - Project Kenko      23612392 CRC(4124c732)

@@ -2,7 +2,7 @@ clrmamepro (
 	name "laqieer - Fire Emblem - Game Boy Advance"
 	description "Fire Emblem ROM hacks"
 	category "Game Boy Advance"
-	version "20220916"
+	version "20240825"
 	author "laqieer"
 	email "laqieer@126.com"
 	homepage "https://github.com/laqieer/FE-ROM-Hack-Database"
@@ -2046,6 +2046,11 @@ game (
 	rom ( name "577 - FEH2, GBA with GACHA mechanics" size "17487076" crc "bc5cc341" )
 )
 game (
+	name "FEHRR"
+	description "FEHRR"
+	rom ( name "1306 - FEHRR" size "33449508" crc "79711948" )
+)
+game (
 	name "Ferrica - Project Kenko"
 	description "Ferrica - Project Kenko"
 	rom ( name "478 - Ferrica - Project Kenko" size "23612392" crc "4124c732" )
@@ -2373,7 +2378,7 @@ game (
 game (
 	name "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
 	description "Fire Emblem - The Binding Blade (English Localization v1.1.3)[Gringle]"
-	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1" size "8587268" crc "c5ccd529" )
+	rom ( name "29 - Fire Emblem - The Binding Blade (English Localization v1.1" size "8587268" crc "c5ccd529" )
 )
 game (
 	name "Fire Emblem - The Binding Blade Extreme"
@@ -3083,7 +3088,7 @@ game (
 game (
 	name "M. E. R. C. S."
 	description "M. E. R. C. S."
-	rom ( name "467 - M. E. R. C" size "18427704" crc "048eb1b6" )
+	rom ( name "467 - M. E. R. C. S" size "18427704" crc "048eb1b6" )
 )
 game (
 	name "MageKnight404's FE7 Hack"
@@ -3478,7 +3483,7 @@ game (
 game (
 	name "Project Sacred Stones v.0.2.5.1"
 	description "Project Sacred Stones v.0.2.5.1"
-	rom ( name "1106 - Project Sacred Stones v.0.2" size "17044860" crc "a9d395a4" )
+	rom ( name "1106 - Project Sacred Stones v.0.2.5" size "17044860" crc "a9d395a4" )
 )
 game (
 	name "Prophecy of Flames"

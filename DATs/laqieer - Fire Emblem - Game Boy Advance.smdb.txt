@@ -406,6 +406,7 @@
 	Fe Time Scarred - The Unwanted Saga (Not A Game)/1046 - Fe Time Scarred - The Unwanted Saga (Not A Game)			8c8f5cb6	18335684
 	FEGirls J with English Menu Names/541 - FEGirls J with English Menu Names			2fdcc9d8	16777216
 	FEH2, GBA with GACHA mechanics/577 - FEH2, GBA with GACHA mechanics			bc5cc341	17487076
+	FEHRR/1306 - FEHRR			79711948	33449508
 	Ferrica - Project Kenko/478 - Ferrica - Project Kenko			4124c732	23612392
 	FESIX HYPERGOD EDITION (APRIL FOOLS)/1094 - FESIX HYPERGOD EDITION (APRIL FOOLS)			33a76dad	18313660
 	FETO's Last Stand/507 - FETO's Last Stand			b80108e2	16784768
@@ -613,7 +614,7 @@
 	Lyn Emblem 7 - Attack of the Clones/1111 - Lyn Emblem 7 - Attack of the Clones			2b70ee89	17141592
 	Lyn Insanity 2/1179 - Lyn Insanity 2			dd37fc74	9926584
 	Lyn's Revenge/519 - Lyn's Revenge			57fe60ed	16797544
-	M. E. R. C. S./467 - M			048eb1b6	18427704
+	M. E. R. C. S./467 - M. E. R			048eb1b6	18427704
 	MageKnight404's FE7 Hack/557 - MageKnight404's FE7 Hack			f0c9a7ae	22020102
 	Maiden Quest/125 - Maiden Quest			f11864bd	19773496
 	Mangs Dungeon 100k sub special/1257 - Mangs Dungeon 100k sub special			d0a60edc	19752216
@@ -692,7 +693,7 @@
 	Project Ember (with Alternate Promotions) (Reverse Recruitment)/319 - Project Ember (with Alternate Promotions) (Reverse Recruitment)			bdf5dc0e	25877192
 	Project Kenko Revamp/1244 - Project Kenko Revamp			2e84ac32	23504776
 	Project RE7/1011 - Project RE7			e299b969	30141292
-	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v			a9d395a4	17044860
+	Project Sacred Stones v.0.2.5.1/1106 - Project Sacred Stones v.0			a9d395a4	17044860
 	Prophecy of Flames/481 - Prophecy of Flames			79e1e7fd	29276820
 	Psychic Emblem (weapons and classes overhaul)/347 - Psychic Emblem (weapons and classes overhaul)			5b763687	17770636
 	Pukachi's Contest Patch/561 - Pukachi's Contest Patch			585f0c17	16777216

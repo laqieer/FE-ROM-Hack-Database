@@ -3,7 +3,7 @@
   <configuration>
     <datName>laqieer - Fire Emblem - Game Boy Advance</datName>
     <imFolder></imFolder>
-    <datVersion>20220916</datVersion>
+    <datVersion>20240825</datVersion>
     <system>Nintendo - Game Boy Advance</system>
     <screenshotsWidth>240</screenshotsWidth>
     <screenshotsHeight>160</screenshotsHeight>
@@ -22285,6 +22285,24 @@
       <im1CRC>CAE7DBAF</im1CRC>
       <im2CRC>BF78D305</im2CRC>
       <comment>https://feuniverse.us/t/fe7-no-redundancy-edition/17431</comment>
+      <duplicateID>0</duplicateID>
+    </game>
+    <game>
+      <imageNumber>1306</imageNumber>
+      <releaseNumber>1306</releaseNumber>
+      <title>FEHRR</title>
+      <saveType>Sram_F_v102</saveType>
+      <romSize>33449508</romSize>
+      <publisher>Fan Modding</publisher>
+      <location>7</location>
+      <sourceRom>laqieer</sourceRom>
+      <language>262</language>
+      <files>
+        <romCRC extension=".gba">79711948</romCRC>
+      </files>
+      <im1CRC>7820C424</im1CRC>
+      <im2CRC>395CC3D1</im2CRC>
+      <comment>https://github.com/laqieer/FEHRR</comment>
       <duplicateID>0</duplicateID>
     </game>
   </games>
